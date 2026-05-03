@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 BASE_URL          = "https://www.rudaw.net"
 RUDAW_RSS         = "https://www.rudaw.net/rss"
-LIST_PATHS        = ["/english", "/kurdi"]
+LIST_PATHS        = ["/english", "/sorani", "/kurmanci"]
 USER_AGENT        = "AuraErbilBot/3.0 (monitoring dashboard; non-commercial)"
 DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
