@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Aura Erbil — Live Monitor</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+<style>
+  body { background: #0f1117; color: #e2e8f0; font-family: 'Inter', sans-serif; }
+  #map { height: 420px; border-radius: 12px; }
+  .card { background: #1a1d2e; border: 1px solid #2d3148; border-radius: 12px; }
+  .cat-security     { border-left: 3px solid #ef4444; }
+  .cat-fire         { border-left: 3px solid #f97316; }
+  .cat-traffic      { border-left: 3px solid #eab308; }
+  .cat-infrastructure { border-left: 3px solid #3b82f6; }
+  .cat-weather      { border-left: 3px solid #06b6d4; }
+  .cat-general      { border-left: 3px solid #6b7280; }
+  .badge-security     { background:#ef444422; color:#ef4444; }
+  .badge-fire         { background:#f9731622; color:#f97316; }
+  .badge-traffic      { background:#eab30822; color:#eab308; }
+  .badge-infrastructure { background:#3b82f622; color:#3b82f6; }
+  .badge-weather      { background:#06b6d422; color:#06b6d4; }
+  .badge-general      { background:#6b728022; color:#9ca3af; }
+  .chart-box { height: 180px; }
+</style>
+</head>
+<body class="min-h-screen p-4">
+
+<!-- Header -->
+<div class="flex items-center justify-between mb-6">
+  <div>
+    <h1 class="text-2xl font-bold tracking-tight">⚡ Aura Erbil</h1>
+    <p class="text-slate-400 text-sm mt-1">Live incident monitor — Kurdistan Region</p>
+  </div>
+  <div class="text-right">
+    <div id="last-updated" class="text-slate-500 text-xs">Loading…</div>
+    <div id="article-count" class="text-slate-300 text-sm font-semibold mt-1"></div>
+  </div>
+</div>
+
+<!-- Stats Row -->
+<div class="grid grid-cols-2 md:grid-cols-5 gap-3 mb-6" id="stats-row"></div>
+
+<!-- Map -->
+<div class="card p-4 mb-6">
+  <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Incident Map</h2>
+  <div id="map"></div>
+</div>
+
+<!-- Charts Row -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+  <div class="card p-4">
+    <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Incidents — Last 24h</h2>
+    <div id="chart-volume" class="chart-box"></div>
+  </div>
+  <div class="card p-4">
+    <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Category Breakdown</h2>
+    <div id="chart-category" class="chart-box"></div>
+  </div>
+</div>
+
+<!-- Feed -->
+<div class="card p-4">
+  <div class="flex items-center justify-between mb-4">
+    <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider">Live Feed</h2>
+    <div class="flex gap-2 flex-wrap" id="filter-buttons"></div>
+  </div>
+  <div id="feed" class="space-y-3 max-h-[520px] overflow-y-auto pr-1"></div>
+</div>
+
+<script>
+const DATA_URL = './data/data.json';
+const REFRESH_MS = 60000;
+const CAT_COLORS = {
+  security:'#ef4444', fire:'#f97316', traffic:'#eab308',
+  infrastructure:'#3b82f6', weather:'#06b6d4', general:'#6b7280'
+};
+let allArticles = [];
+let activeFilter = 'all';
+let map, markersLayer;
+
+// ── MAP INIT ────────────────────────────────────────────────
+function initMap() {
+  map = L.map('map').setView([36.1912, 44.0092], 12);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors', maxZoom: 18
+  }).addTo(map);
+  markersLayer = L.layerGroup().addTo(map);
+}
+
+function renderMarkers(articles) {
+  markersLayer.clearLayers();
+  articles.forEach(a => {
+    const loc = a.location;
+    if (!loc || !loc.lat) return;
+    const color = CAT_COLORS[a.category] || '#6b7280';
+    const icon = L.divIcon({
+      className: '',
+      html: `<div style="width:12px;height:12px;border-radius:50%;background:${color};border:2px solid #fff;box-shadow:0 0 6px ${color}88"></div>`,
+      iconSize: [12, 12], iconAnchor: [6, 6]
+    });
+    const marker = L.marker([loc.lat, loc.lng], { icon });
+    marker.bindPopup(`
+      <div style="font-family:sans-serif;max-width:220px">
+        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${a.title}</div>
+        <div style="font-size:11px;color:#888">${a.category} · ${timeAgo(a.timestamp)}</div>
+        <a href="${a.url}" target="_blank" style="font-size:11px;color:#3b82f6">Read →</a>
+      </div>
+    `);
+    markersLayer.addLayer(marker);
+  });
+}
+
+// ── CHARTS ──────────────────────────────────────────────────
+function renderVolumeChart(articles) {
+  const el = document.getElementById('chart-volume');
+  el.innerHTML = '';
+  const chart = LightweightCharts.createChart(el, {
+    width: el.offsetWidth, height: 160,
+    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
+    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
+    timeScale: { borderColor: '#2d3148' },
+    rightPriceScale: { borderColor: '#2d3148' },
+  });
+  const series = chart.addLineSeries({ color: '#3b82f6', lineWidth: 2 });
+  const now = Date.now();
+  const buckets = {};
+  for (let i = 23; i >= 0; i--) {
+    const key = new Date(now - i * 3600000);
+    const h = key.toISOString().slice(0, 13);
+    buckets[h] = 0;
+  }
+  articles.forEach(a => {
+    const h = new Date(a.timestamp).toISOString().slice(0, 13);
+    if (buckets[h] !== undefined) buckets[h]++;
+  });
+  const data = Object.entries(buckets).map(([h, v]) => ({
+    time: Math.floor(new Date(h + ':00:00Z').getTime() / 1000), value: v
+  }));
+  series.setData(data);
+}
+
+function renderCategoryChart(articles) {
+  const el = document.getElementById('chart-category');
+  el.innerHTML = '';
+  const chart = LightweightCharts.createChart(el, {
+    width: el.offsetWidth, height: 160,
+    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
+    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
+    timeScale: { borderColor: '#2d3148', visible: false },
+    rightPriceScale: { borderColor: '#2d3148' },
+  });
+  const counts = {};
+  articles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
+  const cats = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  cats.forEach(([cat, count], i) => {
+    const series = chart.addHistogramSeries({
+      color: CAT_COLORS[cat] || '#6b7280', priceScaleId: 'right'
+    });
+    series.setData([{ time: i + 1, value: count }]);
+  });
+}
+
+// ── STATS ROW ───────────────────────────────────────────────
+function renderStats(articles) {
+  const counts = {};
+  articles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
+  const row = document.getElementById('stats-row');
+  row.innerHTML = '';
+  const total = document.createElement('div');
+  total.className = 'card p-3 text-center';
+  total.innerHTML = `<div class="text-2xl font-bold">${articles.length}</div><div class="text-xs text-slate-400 mt-1">Total</div>`;
+  row.appendChild(total);
+  Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([cat, n]) => {
+    const d = document.createElement('div');
+    d.className = 'card p-3 text-center cursor-pointer hover:border-slate-500 transition-colors';
+    d.style.borderColor = activeFilter === cat ? CAT_COLORS[cat] : '';
+    d.innerHTML = `<div class="text-2xl font-bold" style="color:${CAT_COLORS[cat]}">${n}</div><div class="text-xs text-slate-400 mt-1 capitalize">${cat}</div>`;
+    d.onclick = () => { activeFilter = activeFilter === cat ? 'all' : cat; renderAll(); };
+    row.appendChild(d);
+  });
+}
+
+// ── FILTER BUTTONS ──────────────────────────────────────────
+function renderFilters() {
+  const cats = ['all', ...Object.keys(CAT_COLORS)];
+  const container = document.getElementById('filter-buttons');
+  container.innerHTML = '';
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = `text-xs px-3 py-1 rounded-full border transition-colors ${activeFilter === cat ? 'border-blue-500 text-blue-400 bg-blue-500/10' : 'border-slate-600 text-slate-400 hover:border-slate-400'}`;
+    btn.textContent = cat.charAt(0).toUpperCase() + cat.slice(1);
+    btn.onclick = () => { activeFilter = cat; renderAll(); };
+    container.appendChild(btn);
+  });
+}
+
+// ── FEED ────────────────────────────────────────────────────
+function renderFeed(articles) {
+  const feed = document.getElementById('feed');
+  feed.innerHTML = '';
+  const filtered = activeFilter === 'all' ? articles : articles.filter(a => a.category === activeFilter);
+  if (filtered.length === 0) {
+    feed.innerHTML = '<p class="text-slate-500 text-sm text-center py-8">No articles in this category yet.</p>';
+    return;
+  }
+  filtered.forEach(a => {
+    const div = document.createElement('div');
+    div.className = `card cat-${a.category} p-3 hover:bg-slate-800/40 transition-colors`;
+    div.innerHTML = `
+      <div class="flex items-start justify-between gap-3">
+        <div class="flex-1 min-w-0">
+          <a href="${a.url}" target="_blank" class="text-sm font-medium text-slate-200 hover:text-white leading-snug line-clamp-2">${a.title}</a>
+          ${a.summary ? `<p class="text-xs text-slate-500 mt-1 line-clamp-1">${a.summary}</p>` : ''}
+          <div class="flex items-center gap-2 mt-2">
+            <span class="badge-${a.category} text-xs px-2 py-0.5 rounded-full capitalize">${a.category}</span>
+            <span class="text-slate-500 text-xs">${a.location?.name || 'Erbil'}</span>
+            <span class="text-slate-600 text-xs">${timeAgo(a.timestamp)}</span>
+          </div>
+        </div>
+      </div>
+    `;
+    feed.appendChild(div);
+  });
+}
+
+// ── HELPERS ─────────────────────────────────────────────────
+function timeAgo(iso) {
+  if (!iso) return '';
+  const diff = Date.now() - new Date(iso).getTime();
+  const m = Math.floor(diff / 60000);
+  if (m < 60) return `${m}m ago`;
+  const h = Math.floor(m / 60);
+  if (h < 24) return `${h}h ago`;
+  return `${Math.floor(h/24)}d ago`;
+}
+
+// ── MAIN RENDER ─────────────────────────────────────────────
+function renderAll() {
+  const filtered = activeFilter === 'all' ? allArticles : allArticles.filter(a => a.category === activeFilter);
+  renderStats(allArticles);
+  renderFilters();
+  renderMarkers(filtered);
+  renderVolumeChart(filtered);
+  renderCategoryChart(filtered);
+  renderFeed(filtered);
+}
+
+async function loadData() {
+  try {
+    const r = await fetch(DATA_URL + '?t=' + Date.now());
+    const data = await r.json();
+    allArticles = data.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
+    document.getElementById('last-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
+    document.getElementById('article-count').textContent = allArticles.length + ' articles';
+    renderAll();
+  } catch(e) {
+    console.error('Data load failed:', e);
+    document.getElementById('last-updated').textContent = 'Load failed — retrying…';
+  }
+}
+
+// ── BOOT ────────────────────────────────────────────────────
+initMap();
+loadData();
+setInterval(loadData, REFRESH_MS);
+</script>
+</body>
+</html>
