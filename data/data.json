@@ -7,7 +7,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:27.603907+00:00",
+    "timestamp": "2026-05-03T21:33:32.451342+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -22,7 +22,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:23.471216+00:00",
+    "timestamp": "2026-05-03T21:33:27.996439+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -37,7 +37,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:20.746245+00:00",
+    "timestamp": "2026-05-03T21:33:25.404746+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -52,7 +52,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:16.873304+00:00",
+    "timestamp": "2026-05-03T21:33:23.058541+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -67,7 +67,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:14.161649+00:00",
+    "timestamp": "2026-05-03T21:33:18.974405+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +82,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:09.393857+00:00",
+    "timestamp": "2026-05-03T21:33:15.561547+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -97,7 +97,7 @@
     "source": "rudaw-scrape",
     "category": "weather",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:06.393615+00:00",
+    "timestamp": "2026-05-03T21:33:12.689563+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +112,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:03.897180+00:00",
+    "timestamp": "2026-05-03T21:33:07.851975+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -127,7 +127,7 @@
     "source": "rudaw-scrape",
     "category": "fire",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:07:01.585612+00:00",
+    "timestamp": "2026-05-03T21:33:02.508087+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -142,7 +142,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:06:58.839737+00:00",
+    "timestamp": "2026-05-03T21:32:58.380046+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -157,7 +157,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:06:56.362984+00:00",
+    "timestamp": "2026-05-03T21:32:54.615054+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -172,7 +172,232 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T20:06:53.765402+00:00",
+    "timestamp": "2026-05-03T21:32:51.207972+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4a3c32e1f98b01ff",
+    "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
+    "title": "The state of the internet in Iran",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:47.972823+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "db9c8c2480887901",
+    "url": "https://www.rudaw.net/english/business/020520261",
+    "title": "Iraqi, Kurdish oil exports could reach half a million barrels: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:44.554293+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ef12ccaa158d7bfc",
+    "url": "https://www.rudaw.net/english/middleeast/03052026",
+    "title": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:40.668591+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93842a68e997ae9c",
+    "url": "https://www.rudaw.net/english/middleeast/iran/03052026",
+    "title": "Iran executes another political prisoner detained during 2022 nationwide protests",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:35.944877+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4ae0fddde2ef13b6",
+    "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
+    "title": "Turkey needs new constitution amid changing threats: Justice minister",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:32.837425+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6fe44992d809dad0",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/03052026",
+    "title": "Iraq faces ‘most perilous’ period for press freedom since 2003: watchdog",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:27.784177+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "36322c292967093e",
+    "url": "https://www.rudaw.net/english/middleeast/iran/030520261",
+    "title": "Iran intensifies crackdown on Sunni clerics",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:24.511690+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "872fde3c927fe9fb",
+    "url": "https://www.rudaw.net/english/world/03052026",
+    "title": "OPEC+ announces oil output hike amid global supply disruptions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:20.420620+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ce5f89137656751",
+    "url": "https://www.rudaw.net/english/middleeast/iran/030520262",
+    "title": "Kurdish prisoner exposes forced confession before execution by Iran",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:16.666756+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "237c25bbcd49cbe0",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/030520261",
+    "title": "PUK prepares multi-point plan as it eyes role in new Iraqi government: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:11.964747+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f38ddee500972f5",
+    "url": "https://www.rudaw.net/english/kurdistan/030520261",
+    "title": "KRG warns against trading with electronic currencies",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:07.071582+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f8f520f93e56995",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
+    "title": "President Barzani to visit Baghdad Monday",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:04.322299+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b32c9b8461c1e28a",
+    "url": "https://www.rudaw.net/english/kurdistan/030520262",
+    "title": "Three family members drowned in Zakho",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:32:01.418050+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a8adf45a0ae06f92",
+    "url": "https://www.rudaw.net/english/kurdistan/03052026",
+    "title": "Erbil water supply set to meet summer demand as output surges: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "infrastructure",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:31:57.799973+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "40edb3245f32168f",
+    "url": "https://www.rudaw.net/english/opinion/03052026",
+    "title": "Kurdish Language in Syria: Between interim government policy and indigenous rights",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-03T21:31:52.375371+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -190,216 +415,6 @@
     "timestamp": "2026-05-03T20:06:50.243236+00:00",
     "location": {
       "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "4a3c32e1f98b01ff",
-    "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
-    "title": "The state of the internet in Iran",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:46.826670+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "db9c8c2480887901",
-    "url": "https://www.rudaw.net/english/business/020520261",
-    "title": "Iraqi, Kurdish oil exports could reach half a million barrels: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:42.468421+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ef12ccaa158d7bfc",
-    "url": "https://www.rudaw.net/english/middleeast/03052026",
-    "title": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:37.823399+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "93842a68e997ae9c",
-    "url": "https://www.rudaw.net/english/middleeast/iran/03052026",
-    "title": "Iran executes another political prisoner detained during 2022 nationwide protests",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:34.665130+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "4ae0fddde2ef13b6",
-    "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
-    "title": "Turkey needs new constitution amid changing threats: Justice minister",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:31.594588+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "6fe44992d809dad0",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/03052026",
-    "title": "Iraq faces ‘most perilous’ period for press freedom since 2003: watchdog",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:28.300300+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "36322c292967093e",
-    "url": "https://www.rudaw.net/english/middleeast/iran/030520261",
-    "title": "Iran intensifies crackdown on Sunni clerics",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:25.719850+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "872fde3c927fe9fb",
-    "url": "https://www.rudaw.net/english/world/03052026",
-    "title": "OPEC+ announces oil output hike amid global supply disruptions",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:23.185664+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7ce5f89137656751",
-    "url": "https://www.rudaw.net/english/middleeast/iran/030520262",
-    "title": "Kurdish prisoner exposes forced confession before execution by Iran",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:18.456678+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "237c25bbcd49cbe0",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/030520261",
-    "title": "PUK prepares multi-point plan as it eyes role in new Iraqi government: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:15.189883+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5f38ddee500972f5",
-    "url": "https://www.rudaw.net/english/kurdistan/030520261",
-    "title": "KRG warns against trading with electronic currencies",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:11.570751+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7f8f520f93e56995",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
-    "title": "President Barzani to visit Baghdad Monday",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:07.086179+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b32c9b8461c1e28a",
-    "url": "https://www.rudaw.net/english/kurdistan/030520262",
-    "title": "Three family members drowned in Zakho",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:02.966719+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "a8adf45a0ae06f92",
-    "url": "https://www.rudaw.net/english/kurdistan/03052026",
-    "title": "Erbil water supply set to meet summer demand as output surges: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "infrastructure",
-    "breaking": 1,
-    "timestamp": "2026-05-03T20:06:00.288024+00:00",
-    "location": {
-      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
