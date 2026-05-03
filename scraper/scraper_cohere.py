@@ -42,7 +42,7 @@ BACKOFF_BASE      = 2.0
 MAX_BACKOFF       = 60.0
 
 # Cohere configuration
-COHERE_MODEL      = "command-r"          # or "command-r-plus" if available
+COHERE_MODEL      = "command-r7b-12-2024"          # or "command-r-plus" if available
 # The client is initialised later with the API key from environment
 
 # ── INCIDENT KEYWORDS ───────────────────────────────────────────────────────
@@ -237,8 +237,7 @@ Body: {summary[:500]}"""
             model=COHERE_MODEL,
             message=prompt,
             temperature=0.0,
-            max_tokens=200,
-            stream=False,
+            max_tokens=200
         )
         raw = response.text.strip()
         match = re.search(r'\{.*\}', raw, re.DOTALL)
