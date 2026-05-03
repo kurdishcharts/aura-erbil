@@ -7,6 +7,7 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
 <script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
 <style>
   body { background: #0f1117; color: #e2e8f0; font-family: 'Inter', sans-serif; }
@@ -61,6 +62,10 @@
     <div id="chart-category" class="chart-box"></div>
   </div>
 </div>
+<div class="card p-4 mb-6">
+  <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">30-Day Trend</h2>
+  <div id="chart-30day" style="height:180px"></div>
+</div>
 
 <!-- Feed -->
 <div class="card p-4">
@@ -93,25 +98,34 @@ function initMap() {
 
 function renderMarkers(articles) {
   markersLayer.clearLayers();
+  const heatPoints = [];
   articles.forEach(a => {
     const loc = a.location;
     if (!loc || !loc.lat) return;
+    heatPoints.push([loc.lat, loc.lng, a.breaking || 1]);
     const color = CAT_COLORS[a.category] || '#6b7280';
+    const size = a.breaking === 3 ? 16 : a.breaking === 2 ? 13 : 10;
     const icon = L.divIcon({
       className: '',
-      html: `<div style="width:12px;height:12px;border-radius:50%;background:${color};border:2px solid #fff;box-shadow:0 0 6px ${color}88"></div>`,
-      iconSize: [12, 12], iconAnchor: [6, 6]
+      html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};border:2px solid #fff;box-shadow:0 0 ${size}px ${color}88"></div>`,
+      iconSize: [size, size], iconAnchor: [size/2, size/2]
     });
     const marker = L.marker([loc.lat, loc.lng], { icon });
+    const breakingLabel = a.breaking === 3 ? '🔴 BREAKING · ' : a.breaking === 2 ? '🟡 Confirmed · ' : '';
     marker.bindPopup(`
       <div style="font-family:sans-serif;max-width:220px">
-        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${a.title}</div>
+        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${breakingLabel}${a.title}</div>
         <div style="font-size:11px;color:#888">${a.category} · ${timeAgo(a.timestamp)}</div>
         <a href="${a.url}" target="_blank" style="font-size:11px;color:#3b82f6">Read →</a>
       </div>
     `);
     markersLayer.addLayer(marker);
   });
+  if (window._heatLayer) map.removeLayer(window._heatLayer);
+  window._heatLayer = L.heatLayer(heatPoints, {
+    radius: 35, blur: 25, maxZoom: 14,
+    gradient: { 0.4:'#3b82f6', 0.6:'#eab308', 0.8:'#f97316', 1.0:'#ef4444' }
+  }).addTo(map);
 }
 
 // ── CHARTS ──────────────────────────────────────────────────
@@ -162,6 +176,36 @@ function renderCategoryChart(articles) {
     });
     series.setData([{ time: i + 1, value: count }]);
   });
+}
+
+function render30DayChart(articles) {
+  const el = document.getElementById('chart-30day');
+  el.innerHTML = '';
+  const chart = LightweightCharts.createChart(el, {
+    width: el.offsetWidth, height: 160,
+    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
+    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
+    timeScale: { borderColor: '#2d3148' },
+    rightPriceScale: { borderColor: '#2d3148' },
+  });
+  const series = chart.addAreaSeries({
+    lineColor: '#6366f1', topColor: '#6366f144',
+    bottomColor: 'transparent', lineWidth: 2
+  });
+  const buckets = {};
+  for (let i = 29; i >= 0; i--) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    buckets[d.toISOString().slice(0, 10)] = 0;
+  }
+  articles.forEach(a => {
+    const d = new Date(a.timestamp).toISOString().slice(0, 10);
+    if (buckets[d] !== undefined) buckets[d]++;
+  });
+  const data = Object.entries(buckets).map(([d, v]) => ({
+    time: d, value: v
+  }));
+  series.setData(data);
 }
 
 // ── STATS ROW ───────────────────────────────────────────────
@@ -246,6 +290,7 @@ function renderAll() {
   renderMarkers(filtered);
   renderVolumeChart(filtered);
   renderCategoryChart(filtered);
+  render30DayChart(allArticles);
   renderFeed(filtered);
 }
 

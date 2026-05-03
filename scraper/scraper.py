@@ -1,21 +1,15 @@
 """
-Aura-Erbil — Production Scraper v2
+Aura-Erbil — Production Scraper v3
 Engine : SQLite (dedup + ETag cache + 30-day rolling store)
 Export : data/data.json  ← consumed by the frontend
-Source : Rudaw RSS (primary) + direct scrape (fallback)
-
-Compliance notes
-  - robots.txt checked on every fetch
-  - 2–5 s jitter between requests
-  - ETag / If-Modified-Since conditional requests
-  - Exponential back-off on 429 / 5xx
-  - Hard cap: MAX_PAGES_PER_RUN pages per scrape session
+Sources: Rudaw English + Rudaw Kurdish (Sorani)
 """
 
 import hashlib
 import json
 import os
 import random
+import re
 import sqlite3
 import time
 from datetime import datetime, timedelta, timezone
@@ -27,20 +21,18 @@ import requests
 from bs4 import BeautifulSoup
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-BASE_URL         = "https://www.rudaw.net"
-RUDAW_RSS        = "https://www.rudaw.net/rss"
-LIST_PATHS       = ["/english"]           # fallback scrape landing page
-USER_AGENT       = "AuraErbilBot/2.0 (monitoring dashboard; non-commercial)"
-DB_PATH          = "data/aura.db"
-JSON_EXPORT      = "data/data.json"
-MAX_AGE_DAYS     = 30
+BASE_URL          = "https://www.rudaw.net"
+RUDAW_RSS         = "https://www.rudaw.net/rss"
+LIST_PATHS        = ["/english", "/kurdi"]
+USER_AGENT        = "AuraErbilBot/3.0 (monitoring dashboard; non-commercial)"
+DB_PATH           = "data/aura.db"
+JSON_EXPORT       = "data/data.json"
+MAX_AGE_DAYS      = 30
 MAX_PAGES_PER_RUN = 40
-
-# Rate-limit / back-off
-MIN_DELAY    = 2.0
-MAX_DELAY    = 5.0
-BACKOFF_BASE = 2.0
-MAX_BACKOFF  = 60.0
+MIN_DELAY         = 2.0
+MAX_DELAY         = 5.0
+BACKOFF_BASE      = 2.0
+MAX_BACKOFF       = 60.0
 
 # ── INCIDENT KEYWORDS ─────────────────────────────────────────────────────────
 KEYWORDS: dict[str, list[str]] = {
@@ -71,9 +63,7 @@ KEYWORDS: dict[str, list[str]] = {
 }
 
 # ── ERBIL GEOCODER DICTIONARY ─────────────────────────────────────────────────
-# Format:  "keyword (lowercase)": (lat, lng)
 LOCATIONS: dict[str, tuple[float, float]] = {
-    # ── Major Roads ──
     "100 meter road":    (36.1911, 44.0092),
     "100m road":         (36.1911, 44.0092),
     "60 meter road":     (36.2041, 44.0112),
@@ -85,7 +75,6 @@ LOCATIONS: dict[str, tuple[float, float]] = {
     "airport road":      (36.2373, 43.9632),
     "koya road":         (36.1680, 44.0820),
     "shaqlawa road":     (36.2400, 44.1000),
-    # ── Neighbourhoods ──
     "bakhtiyari":        (36.2078, 44.0231),
     "shoresh":           (36.1875, 44.0321),
     "ankawa":            (36.2497, 43.9992),
@@ -96,28 +85,25 @@ LOCATIONS: dict[str, tuple[float, float]] = {
     "azadi":             (36.1890, 44.0070),
     "erbil citadel":     (36.1912, 44.0092),
     "qaysari":           (36.1910, 44.0080),
-    # ── Landmarks ──
     "family mall":       (36.2219, 44.0003),
     "majidi mall":       (36.2116, 44.0199),
     "franso hariri":     (36.1886, 44.0024),
-    # ── Kurdish script ──
     "هەولێر":            (36.1912, 44.0092),
     "بەختیاری":          (36.2078, 44.0231),
     "ئەنکەوە":           (36.2497, 43.9992),
     "شۆڕەش":            (36.1875, 44.0321),
     "سەرچنار":           (36.1730, 44.0380),
     "ئیسکان":            (36.1950, 44.0150),
-    # ── Fallback ──
     "erbil":             (36.1912, 44.0092),
     "hewler":            (36.1912, 44.0092),
     "kurdistan":         (36.1912, 44.0092),
 }
 
-# ── HTTP SESSION + ROBOTS ──────────────────────────────────────────────────────
+# ── HTTP SESSION + ROBOTS ─────────────────────────────────────────────────────
 session = requests.Session()
 session.headers.update({
-    "User-Agent": USER_AGENT,
-    "Accept":     "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent":      USER_AGENT,
+    "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en,ku;q=0.9",
 })
 
@@ -136,37 +122,29 @@ def _jitter():
     time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
 
 def _fetch(url: str, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
-    """Single polite fetch with conditional headers + exponential back-off."""
     if not _allowed(url):
         print(f"  [robots.txt] blocked: {url}")
         return None, None, None
-
     headers = {}
     if etag:
         headers["If-None-Match"] = etag
     if last_modified:
         headers["If-Modified-Since"] = last_modified
-
     try:
         r = session.get(url, headers=headers, timeout=12)
-
         if r.status_code == 304:
             return "NOT_MODIFIED", etag, last_modified
-
         if r.status_code == 200:
             _jitter()
             return r.text, r.headers.get("ETag"), r.headers.get("Last-Modified")
-
         if r.status_code in (429, 500, 502, 503, 504):
             wait = min(_backoff * BACKOFF_BASE, MAX_BACKOFF)
             print(f"  [backoff] {r.status_code} → waiting {wait:.1f}s")
             time.sleep(wait)
             return _fetch(url, etag, last_modified, _backoff=wait)
-
         print(f"  [warn] HTTP {r.status_code}: {url}")
         _jitter()
         return None, None, None
-
     except requests.RequestException as exc:
         wait = min(_backoff * BACKOFF_BASE, MAX_BACKOFF)
         print(f"  [error] {exc} → waiting {wait:.1f}s")
@@ -174,11 +152,28 @@ def _fetch(url: str, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
         return _fetch(url, etag, last_modified, _backoff=wait)
 
 # ── HELPERS ───────────────────────────────────────────────────────────────────
+def _score_breaking(title: str, all_titles: list[str]) -> int:
+    words = set(title.lower().split())
+    score = 1
+    for other in all_titles:
+        if other == title:
+            continue
+        other_words = set(other.lower().split())
+        if len(words & other_words) >= 4:
+            score += 1
+    return min(score, 3)
+
 def _make_id(url: str) -> str:
     return hashlib.sha256(url.encode()).hexdigest()[:16]
 
 def _now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+def _clean_title(raw: str) -> str:
+    return re.sub(
+        r'^\d+\s+(second|minute|hour|day)s?\s+ago', '',
+        raw or '', flags=re.IGNORECASE
+    ).strip()
 
 def _detect_category(text: str) -> str:
     t = text.lower()
@@ -216,26 +211,27 @@ def db_connect() -> sqlite3.Connection:
             published_at  TEXT,
             fetched_at    TEXT,
             etag          TEXT,
-            last_modified TEXT
+            last_modified TEXT,
+            breaking      INTEGER DEFAULT 1
         )
     """)
     conn.commit()
     return conn
 
-def db_get_cache(conn: sqlite3.Connection, url: str):
+def db_get_cache(conn, url):
     row = conn.execute(
         "SELECT etag, last_modified FROM articles WHERE url=?", (url,)
     ).fetchone()
     return (row["etag"], row["last_modified"]) if row else (None, None)
 
-def db_upsert(conn: sqlite3.Connection, item: dict, etag=None, lm=None):
+def db_upsert(conn, item: dict, etag=None, lm=None):
     conn.execute("""
         INSERT INTO articles
-            (id, url, title, summary, source, category,
-             loc_name, lat, lng, published_at, fetched_at, etag, last_modified)
+            (id,url,title,summary,source,category,
+             loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking)
         VALUES
             (:id,:url,:title,:summary,:source,:category,
-             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm)
+             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking)
         ON CONFLICT(url) DO UPDATE SET
             title=excluded.title, summary=excluded.summary,
             category=excluded.category, loc_name=excluded.loc_name,
@@ -245,7 +241,7 @@ def db_upsert(conn: sqlite3.Connection, item: dict, etag=None, lm=None):
     """, {**item, "etag": etag, "lm": lm})
     conn.commit()
 
-def db_prune(conn: sqlite3.Connection):
+def db_prune(conn):
     cutoff = (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)).isoformat()
     deleted = conn.execute(
         "DELETE FROM articles WHERE published_at < ?", (cutoff,)
@@ -254,20 +250,22 @@ def db_prune(conn: sqlite3.Connection):
     if deleted:
         print(f"  Pruned {deleted} articles older than {MAX_AGE_DAYS} days")
 
-def db_export_json(conn: sqlite3.Connection):
+def db_export_json(conn):
     rows = conn.execute(
         "SELECT * FROM articles ORDER BY published_at DESC"
     ).fetchall()
+    all_titles = [r["title"] or "" for r in rows]
     records = []
     for r in rows:
         records.append({
-            "id":         r["id"],
-            "url":        r["url"],
-            "title":      r["title"],
-            "summary":    r["summary"],
-            "source":     r["source"],
-            "category":   r["category"],
-            "timestamp":  r["published_at"],
+            "id":        r["id"],
+            "url":       r["url"],
+            "title":     r["title"],
+            "summary":   r["summary"],
+            "source":    r["source"],
+            "category":  r["category"],
+            "breaking":  _score_breaking(r["title"] or "", all_titles),
+            "timestamp": r["published_at"],
             "location": {
                 "name": r["loc_name"],
                 "lat":  r["lat"],
@@ -279,14 +277,14 @@ def db_export_json(conn: sqlite3.Connection):
     print(f"  Exported {len(records)} records → {JSON_EXPORT}")
 
 # ── RSS PRIMARY ───────────────────────────────────────────────────────────────
-def ingest_rss(conn: sqlite3.Connection) -> int:
+def ingest_rss(conn) -> int:
     print("→ RSS feed …")
     added = 0
     try:
         feed = feedparser.parse(RUDAW_RSS)
         for entry in feed.entries:
-            url   = entry.get("link", "")
-            title = entry.get("title", "").strip()
+            url     = entry.get("link", "")
+            title   = _clean_title(entry.get("title", "").strip())
             if not url or not title:
                 continue
             summary = BeautifulSoup(
@@ -294,25 +292,15 @@ def ingest_rss(conn: sqlite3.Connection) -> int:
             ).get_text(" ", strip=True)[:300]
             combined = f"{title} {summary}"
             pub_parsed = entry.get("published_parsed")
-            if pub_parsed:
-                pub = datetime(*pub_parsed[:6], tzinfo=timezone.utc).isoformat()
-            else:
-                pub = _now_iso()
+            pub = datetime(*pub_parsed[:6], tzinfo=timezone.utc).isoformat() if pub_parsed else _now_iso()
             loc = _detect_location(combined)
-            item = {
-                "id":          _make_id(url),
-                "url":         url,
-                "title":       title,
-                "summary":     summary,
-                "source":      "rudaw-rss",
-                "category":    _detect_category(combined),
-                "loc_name":    loc["name"],
-                "lat":         loc["lat"],
-                "lng":         loc["lng"],
-                "published_at": pub,
-                "fetched_at":  _now_iso(),
-            }
-            db_upsert(conn, item)
+            db_upsert(conn, {
+                "id": _make_id(url), "url": url, "title": title,
+                "summary": summary, "source": "rudaw-rss",
+                "category": _detect_category(combined),
+                "loc_name": loc["name"], "lat": loc["lat"], "lng": loc["lng"],
+                "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
+            })
             added += 1
         print(f"  RSS: processed {added} entries")
     except Exception as exc:
@@ -321,14 +309,12 @@ def ingest_rss(conn: sqlite3.Connection) -> int:
 
 # ── SCRAPE FALLBACK ───────────────────────────────────────────────────────────
 def _parse_listing(html: str) -> list[str]:
-    import re
     soup = BeautifulSoup(html, "lxml")
     urls = []
     for a in soup.select("a[href]"):
         href = a["href"]
         full = urljoin(BASE_URL, href)
-        text = a.get_text(strip=True)
-        text = re.sub(r'^\d+\s+(second|minute|hour|day)s?\s+ago', '', text, flags=re.IGNORECASE).strip()
+        text = _clean_title(a.get_text(strip=True))
         if (
             _same_origin(full)
             and ("/english/" in full or "/kurdi/" in full)
@@ -338,55 +324,36 @@ def _parse_listing(html: str) -> list[str]:
     return list(dict.fromkeys(urls))
 
 def _parse_article(html: str, url: str) -> dict | None:
-    import re
     soup = BeautifulSoup(html, "lxml")
-
-    h1 = soup.find("h1")
-    raw = h1.get_text(strip=True) if h1 else None
-    title = re.sub(r'^\d+\s+(second|minute|hour|day)s?\s+ago', '', raw or '', flags=re.IGNORECASE).strip() or None
+    h1   = soup.find("h1")
+    title = _clean_title(h1.get_text(strip=True) if h1 else "")
     if not title:
         return None
-
     time_tag = soup.find("time")
-    if time_tag and time_tag.get("datetime"):
-        pub = time_tag["datetime"]
-    else:
-        pub = _now_iso()
-
-    paras = [p.get_text(" ", strip=True) for p in soup.select("article p, .article-body p")]
+    pub = time_tag["datetime"] if time_tag and time_tag.get("datetime") else _now_iso()
+    paras   = [p.get_text(" ", strip=True) for p in soup.select("article p, .article-body p")]
     summary = " ".join(paras)[:300] if paras else ""
-
     combined = f"{title} {summary}"
     loc = _detect_location(combined)
-
     return {
-        "id":           _make_id(url),
-        "url":          url,
-        "title":        title,
-        "summary":      summary,
-        "source":       "rudaw-scrape",
-        "category":     _detect_category(combined),
-        "loc_name":     loc["name"],
-        "lat":          loc["lat"],
-        "lng":          loc["lng"],
-        "published_at": pub,
-        "fetched_at":   _now_iso(),
+        "id": _make_id(url), "url": url, "title": title,
+        "summary": summary, "source": "rudaw-scrape",
+        "category": _detect_category(combined),
+        "loc_name": loc["name"], "lat": loc["lat"], "lng": loc["lng"],
+        "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
     }
 
-def ingest_scrape(conn: sqlite3.Connection) -> int:
+def ingest_scrape(conn) -> int:
     print("→ Direct scrape (fallback) …")
-    added = 0
+    added   = 0
     queue   = [urljoin(BASE_URL, p) for p in LIST_PATHS]
     visited: set[str] = set()
     pages   = 0
-
     while queue and pages < MAX_PAGES_PER_RUN:
         url = queue.pop(0)
         if url in visited:
             continue
         visited.add(url)
-
-        # listing page → collect article links
         if any(url.rstrip("/").endswith(p.rstrip("/")) for p in LIST_PATHS):
             html, _, _ = _fetch(url)
             if not html:
@@ -396,42 +363,32 @@ def ingest_scrape(conn: sqlite3.Connection) -> int:
                 if art_url not in visited:
                     queue.append(art_url)
             continue
-
-        # article page
         etag, lm = db_get_cache(conn, url)
         html, new_etag, new_lm = _fetch(url, etag, lm)
         pages += 1
-
         if html == "NOT_MODIFIED":
-            print(f"  [skip] not modified: {url}")
             continue
         if not html:
             continue
-
         data = _parse_article(html, url)
         if not data:
             continue
-
         db_upsert(conn, data, new_etag, new_lm)
         print(f"  [saved] {data['title'][:70]}")
         added += 1
-
-    print(f"  Scrape: processed {added} new articles ({pages} pages fetched)")
+    print(f"  Scrape: {added} new articles ({pages} pages fetched)")
     return added
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
-    print("=== Aura-Erbil Scraper v2 ===")
+    print("=== Aura-Erbil Scraper v3 ===")
     conn = db_connect()
-
     rss_count = ingest_rss(conn)
-
     if rss_count == 0:
         print("  RSS returned nothing — triggering scrape fallback")
         ingest_scrape(conn)
     else:
         print("  RSS succeeded — skipping scrape")
-
     db_prune(conn)
     db_export_json(conn)
     conn.close()
