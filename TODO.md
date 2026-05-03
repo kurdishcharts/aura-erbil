@@ -10,7 +10,7 @@
 ## Commands to run:
 ```
 echo "cohere" >> scraper/requirements.txt
-echo 'export COHERE_API_KEY=VH2qbfw00i1Kns3t5gVyw9R97bXsUsOUPKp2TYab' > .env
+echo 'export COHERE_API_KEY=your_key_here' > .env
 source venv/bin/activate
 pip install -r scraper/requirements.txt
 source .env
