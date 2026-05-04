@@ -114,7 +114,7 @@ function renderMarkers(articles) {
     const breakingLabel = a.breaking === 3 ? '🔴 BREAKING · ' : a.breaking === 2 ? '🟡 Confirmed · ' : '';
     marker.bindPopup(`
       <div style="font-family:sans-serif;max-width:220px">
-        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${breakingLabel}${a.title}</div>
+        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${breakingLabel}${a.title_en || a.title}</div>
         <div style="font-size:11px;color:#888">${a.category} · ${timeAgo(a.timestamp)}</div>
         <a href="${a.url}" target="_blank" style="font-size:11px;color:#3b82f6">Read →</a>
       </div>
@@ -134,10 +134,11 @@ function renderVolumeChart(articles) {
   el.innerHTML = '';
   const chart = LightweightCharts.createChart(el, {
     width: el.offsetWidth, height: 160,
-    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
-    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
-    timeScale: { borderColor: '#2d3148' },
-    rightPriceScale: { borderColor: '#2d3148' },
+layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
+grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
+timeScale: { borderColor: '#2a2e39' },
+rightPriceScale: { borderColor: '#2a2e39' },
+crosshair: { vertLine: { color: '#758696' }, horzLine: { color: '#758696' } },
   });
   const series = chart.addLineSeries({ color: '#3b82f6', lineWidth: 2 });
   const now = Date.now();
@@ -162,10 +163,10 @@ function renderCategoryChart(articles) {
   el.innerHTML = '';
   const chart = LightweightCharts.createChart(el, {
     width: el.offsetWidth, height: 160,
-    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
-    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
-    timeScale: { borderColor: '#2d3148', visible: false },
-    rightPriceScale: { borderColor: '#2d3148' },
+    layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
+    grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
+ timeScale: { borderColor: '#2a2e39', visible: false },
+rightPriceScale: { borderColor: '#2a2e39' },
   });
   const counts = {};
   articles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
@@ -183,10 +184,11 @@ function render30DayChart(articles) {
   el.innerHTML = '';
   const chart = LightweightCharts.createChart(el, {
     width: el.offsetWidth, height: 160,
-    layout: { background: { color: 'transparent' }, textColor: '#94a3b8' },
-    grid: { vertLines: { color: '#1e2235' }, horzLines: { color: '#1e2235' } },
-    timeScale: { borderColor: '#2d3148' },
-    rightPriceScale: { borderColor: '#2d3148' },
+    layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
+    grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
+    timeScale: { borderColor: '#2a2e39' },
+    rightPriceScale: { borderColor: '#2a2e39' },
+    crosshair: { vertLine: { color: '#758696' }, horzLine: { color: '#758696' } },
   });
   const series = chart.addAreaSeries({
     lineColor: '#6366f1', topColor: '#6366f144',
@@ -196,16 +198,13 @@ function render30DayChart(articles) {
   for (let i = 29; i >= 0; i--) {
     const d = new Date();
     d.setDate(d.getDate() - i);
-    buckets[d.toISOString().slice(0, 10)] = 0;
+    buckets[d.toISOString().slice(0,10)] = 0;
   }
   articles.forEach(a => {
-    const d = new Date(a.timestamp).toISOString().slice(0, 10);
+    const d = new Date(a.timestamp).toISOString().slice(0,10);
     if (buckets[d] !== undefined) buckets[d]++;
   });
-  const data = Object.entries(buckets).map(([d, v]) => ({
-    time: d, value: v
-  }));
-  series.setData(data);
+  series.setData(Object.entries(buckets).map(([d,v]) => ({ time: d, value: v })));
 }
 
 // ── STATS ROW ───────────────────────────────────────────────
@@ -257,7 +256,8 @@ function renderFeed(articles) {
     div.innerHTML = `
       <div class="flex items-start justify-between gap-3">
         <div class="flex-1 min-w-0">
-          <a href="${a.url}" target="_blank" class="text-sm font-medium text-slate-200 hover:text-white leading-snug line-clamp-2">${a.title}</a>
+          <a href="${a.url}" target="_blank" class="text-sm font-medium text-slate-200 hover:text-white leading-snug line-clamp-2">${a.title_en || a.title}</a>
+${a.title_en && a.title_en !== a.title ? `<p class="text-xs text-slate-600 mt-0.5 line-clamp-1">${a.title}</p>` : ''}
           ${a.summary ? `<p class="text-xs text-slate-500 mt-1 line-clamp-1">${a.summary}</p>` : ''}
           <div class="flex items-center gap-2 mt-2">
             <span class="badge-${a.category} text-xs px-2 py-0.5 rounded-full capitalize">${a.category}</span>
