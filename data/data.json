@@ -7,7 +7,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:32.451342+00:00",
+    "timestamp": "2026-05-04T13:28:44.512760+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -22,7 +22,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:27.996439+00:00",
+    "timestamp": "2026-05-04T13:28:40.231136+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -37,7 +37,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:25.404746+00:00",
+    "timestamp": "2026-05-04T13:28:35.738149+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -52,7 +52,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:23.058541+00:00",
+    "timestamp": "2026-05-04T13:28:33.377782+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -67,7 +67,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:18.974405+00:00",
+    "timestamp": "2026-05-04T13:28:30.628836+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +82,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:15.561547+00:00",
+    "timestamp": "2026-05-04T13:28:23.738098+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -97,7 +97,7 @@
     "source": "rudaw-scrape",
     "category": "weather",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:12.689563+00:00",
+    "timestamp": "2026-05-04T13:28:20.518887+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +112,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:07.851975+00:00",
+    "timestamp": "2026-05-04T13:28:16.797255+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -127,7 +127,7 @@
     "source": "rudaw-scrape",
     "category": "fire",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:33:02.508087+00:00",
+    "timestamp": "2026-05-04T13:28:14.249994+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -142,7 +142,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:32:58.380046+00:00",
+    "timestamp": "2026-05-04T13:28:09.368000+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -157,7 +157,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:32:54.615054+00:00",
+    "timestamp": "2026-05-04T13:28:06.190124+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -172,7 +172,232 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-03T21:32:51.207972+00:00",
+    "timestamp": "2026-05-04T13:28:03.497743+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f38ddee500972f5",
+    "url": "https://www.rudaw.net/english/kurdistan/030520261",
+    "title": "KRG warns against trading with electronic currencies",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:58.297816+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f8f520f93e56995",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
+    "title": "President Barzani to visit Baghdad Monday",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-04T13:27:54.187550+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b32c9b8461c1e28a",
+    "url": "https://www.rudaw.net/english/kurdistan/030520262",
+    "title": "Three family members drowned in Zakho",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:51.794086+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a8adf45a0ae06f92",
+    "url": "https://www.rudaw.net/english/kurdistan/03052026",
+    "title": "Erbil water supply set to meet summer demand as output surges: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "infrastructure",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:47.518918+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "40edb3245f32168f",
+    "url": "https://www.rudaw.net/english/opinion/03052026",
+    "title": "Kurdish Language in Syria: Between interim government policy and indigenous rights",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:42.549066+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b38935fe1287dc32",
+    "url": "https://www.rudaw.net/english/middleeast/iran/04052026",
+    "title": "Iran executes three more protesters over alleged Mossad ties",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:39.631420+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9e41cae765ff4e42",
+    "url": "https://www.rudaw.net/english/middleeast/04052026",
+    "title": "US launches 'Project Freedom' in Strait of Hormuz to restore shipping routes",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-04T13:27:32.736535+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9069173cd04767e9",
+    "url": "https://www.rudaw.net/english/middleeast/040520261",
+    "title": "Iran threatens US forces over Strait of Hormuz as Washington unveils escort plan",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 3,
+    "timestamp": "2026-05-04T13:27:30.151924+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c58a3e9768852a97",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/04052026",
+    "title": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 3,
+    "timestamp": "2026-05-04T13:27:27.534183+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fcaabe6426085c24",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/040520261",
+    "title": "Five teenagers drown in Iraq’s Wasit",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:22.919062+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c03f5ce7abbbf96",
+    "url": "https://www.rudaw.net/english/middleeast/iran/040520261",
+    "title": "Iran issues maps claiming control over Strait of Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-04T13:27:19.297080+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0bc9e4d6bc2abf77",
+    "url": "https://www.rudaw.net/english/kurdistan/04052026",
+    "title": "Shiite, Sunni leaders pin hopes on President Barzani to fast-track Iraq government formation",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-04T13:27:15.018948+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bab89639610c8207",
+    "url": "https://www.rudaw.net/english/business/04052026",
+    "title": "Kurdistan Region bans food exports amid price, supply concerns",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:11.149667+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c80333fb18ea3f9",
+    "url": "https://www.rudaw.net/english/middleeast/040520262",
+    "title": "Syria seeks to expand trade with Iraq: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:06.441698+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9c6dee4ac00357cb",
+    "url": "https://www.rudaw.net/english/world/04052026",
+    "title": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-04T13:27:03.630194+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -323,81 +548,6 @@
     "category": "general",
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:11.964747+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5f38ddee500972f5",
-    "url": "https://www.rudaw.net/english/kurdistan/030520261",
-    "title": "KRG warns against trading with electronic currencies",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T21:32:07.071582+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7f8f520f93e56995",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
-    "title": "President Barzani to visit Baghdad Monday",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T21:32:04.322299+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b32c9b8461c1e28a",
-    "url": "https://www.rudaw.net/english/kurdistan/030520262",
-    "title": "Three family members drowned in Zakho",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T21:32:01.418050+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "a8adf45a0ae06f92",
-    "url": "https://www.rudaw.net/english/kurdistan/03052026",
-    "title": "Erbil water supply set to meet summer demand as output surges: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "infrastructure",
-    "breaking": 1,
-    "timestamp": "2026-05-03T21:31:57.799973+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "40edb3245f32168f",
-    "url": "https://www.rudaw.net/english/opinion/03052026",
-    "title": "Kurdish Language in Syria: Between interim government policy and indigenous rights",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-03T21:31:52.375371+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
