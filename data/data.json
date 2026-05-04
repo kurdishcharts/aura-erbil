@@ -8,11 +8,11 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:45:17.490763+00:00",
+    "timestamp": "2026-05-04T19:04:24.276302+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Sulaymaniyah Road",
+      "lat": 36.16,
+      "lng": 44.07
     }
   },
   {
@@ -22,9 +22,9 @@
     "title_en": "Iraqi police cracks down on crime in Baghdad",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:45:13.141381+00:00",
+    "timestamp": "2026-05-04T19:04:18.731115+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -40,11 +40,11 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:45:09.501292+00:00",
+    "timestamp": "2026-05-04T19:04:10.394714+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Shaqlawa Road",
+      "lat": 36.24,
+      "lng": 44.1
     }
   },
   {
@@ -54,9 +54,9 @@
     "title_en": "Germany deports Kurdish family with health issues to Iraq",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:45:02.718921+00:00",
+    "timestamp": "2026-05-04T19:04:02.201235+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,7 +72,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:57.921391+00:00",
+    "timestamp": "2026-05-04T19:03:56.687279+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -88,7 +88,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:53.851685+00:00",
+    "timestamp": "2026-05-04T19:03:50.823129+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -102,9 +102,9 @@
     "title_en": "Ukraine offers Gulf states cost-effective defenses against Iranian drones: Expert",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "weather",
+    "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:44.130531+00:00",
+    "timestamp": "2026-05-04T19:03:45.059733+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -120,7 +120,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:40.299566+00:00",
+    "timestamp": "2026-05-04T19:03:40.118898+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -134,11 +134,11 @@
     "title_en": "Kurdistan bakeries struggle as gas prices surge, shift to firewood",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "fire",
+    "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:36.331798+00:00",
+    "timestamp": "2026-05-04T19:03:33.676189+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Hewler",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -152,7 +152,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:31.903768+00:00",
+    "timestamp": "2026-05-04T19:03:23.287277+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -168,7 +168,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:28.922102+00:00",
+    "timestamp": "2026-05-04T19:03:18.934956+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -184,7 +184,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:24.339038+00:00",
+    "timestamp": "2026-05-04T19:03:14.213028+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -195,12 +195,12 @@
     "id": "9e41cae765ff4e42",
     "url": "https://www.rudaw.net/english/middleeast/04052026",
     "title": "US launches 'Project Freedom' in Strait of Hormuz to restore shipping routes",
-    "title_en": "US launches 'Project Freedom' in Strait of Hormuz to restore shipping routes",
+    "title_en": "US Launches 'Project Freedom' in Strait of Hormuz to Restore Shipping Routes",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:44:20.458769+00:00",
+    "timestamp": "2026-05-04T19:03:07.405832+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -214,9 +214,9 @@
     "title_en": "Iran threatens US forces over Strait of Hormuz as Washington unveils escort plan",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:44:17.672181+00:00",
+    "timestamp": "2026-05-04T19:03:01.337735+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +232,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:44:13.837545+00:00",
+    "timestamp": "2026-05-04T19:02:57.402116+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -243,12 +243,12 @@
     "id": "fcaabe6426085c24",
     "url": "https://www.rudaw.net/english/middleeast/iraq/040520261",
     "title": "Five teenagers drown in Iraq’s Wasit",
-    "title_en": "Five teenagers drown in Iraq’s Wasit",
+    "title_en": "Five Teenagers Drown in Iraq’s Wasit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:44:09.863773+00:00",
+    "timestamp": "2026-05-04T19:02:53.162187+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -259,12 +259,12 @@
     "id": "7c03f5ce7abbbf96",
     "url": "https://www.rudaw.net/english/middleeast/iran/040520261",
     "title": "Iran issues maps claiming control over Strait of Hormuz",
-    "title_en": "Iran issues maps claiming control over Strait of Hormuz",
+    "title_en": "Iran Issues Maps Claiming Control Over Strait of Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:44:04.290718+00:00",
+    "timestamp": "2026-05-04T19:02:48.289587+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -280,7 +280,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 2,
-    "timestamp": "2026-05-04T18:43:59.149686+00:00",
+    "timestamp": "2026-05-04T19:02:42.360175+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -296,9 +296,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:52.892600+00:00",
+    "timestamp": "2026-05-04T19:02:37.140770+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -312,7 +312,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:48.413205+00:00",
+    "timestamp": "2026-05-04T19:02:31.844902+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -328,7 +328,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:42.475303+00:00",
+    "timestamp": "2026-05-04T19:02:27.022953+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -339,12 +339,12 @@
     "id": "1ebf416e4cb137e2",
     "url": "https://www.rudaw.net/english/middleeast/040520263",
     "title": "UAE issues ‘missile’ threat warning following drone attack on Emirati tanker in Hormuz",
-    "title_en": "UAE issues ‘missile’ threat warning following drone attack on Emirati tanker in Hormuz",
+    "title_en": "UAE Issues 'Missile' Threat Warning Following Drone Attack on Emirati Tanker in Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:37.154213+00:00",
+    "timestamp": "2026-05-04T19:02:19.567765+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -358,9 +358,9 @@
     "title_en": "US forces escort ships through Strait of Hormuz amid Iran warnings",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:43:32.966839+00:00",
+    "timestamp": "2026-05-04T19:02:12.121388+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -371,12 +371,12 @@
     "id": "e858d223348f82c4",
     "url": "https://www.rudaw.net/english/middleeast/040520265",
     "title": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
-    "title_en": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
+    "title_en": "UAE Thwarts Iranian Missile, Drone Attacks After Tanker Hit: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:27.867458+00:00",
+    "timestamp": "2026-05-04T19:02:05.467634+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -392,7 +392,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:21.392674+00:00",
+    "timestamp": "2026-05-04T19:01:52.140080+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -408,7 +408,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-04T18:43:16.651163+00:00",
+    "timestamp": "2026-05-04T19:01:39.360560+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -422,9 +422,9 @@
     "title_en": "US destroyers transit Strait of Hormuz as Washington commits to long-term mine response",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-04T18:43:12.317223+00:00",
+    "timestamp": "2026-05-04T19:01:34.801575+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
