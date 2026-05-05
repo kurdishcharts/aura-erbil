@@ -8,7 +8,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:51:12.905852+00:00",
+    "timestamp": "2026-05-05T21:58:44.616049+00:00",
     "location": {
       "name": "Sulaymaniyah Road",
       "lat": 36.16,
@@ -24,11 +24,11 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:51:05.484789+00:00",
+    "timestamp": "2026-05-05T21:58:39.196952+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Bakhtiyari",
+      "lat": 36.2078,
+      "lng": 44.0231
     }
   },
   {
@@ -40,7 +40,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:50:59.045615+00:00",
+    "timestamp": "2026-05-05T21:58:34.696091+00:00",
     "location": {
       "name": "Shaqlawa Road",
       "lat": 36.24,
@@ -56,7 +56,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:50:52.000085+00:00",
+    "timestamp": "2026-05-05T21:58:29.433582+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,7 +72,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:50:43.981993+00:00",
+    "timestamp": "2026-05-05T21:58:24.360128+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -88,7 +88,295 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T20:50:33.732429+00:00",
+    "timestamp": "2026-05-05T21:58:19.698411+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbe740a8a08ee417",
+    "url": "https://www.rudaw.net/english/world/06042026",
+    "title": "Trump says wants Kurds to 'stay away' from Iran war",
+    "title_en": "Trump says wants Kurds to 'stay away' from Iran war",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:58:13.776588+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84b35d393cce421e",
+    "url": "https://www.rudaw.net/english/world/09042026",
+    "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
+    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:58:08.104841+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "21aafa1afe49ad80",
+    "url": "https://www.rudaw.net/english/middleeast/syria/23042026",
+    "title": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
+    "title_en": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:58:03.378426+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42b603c3ccb2d2a8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/05052026",
+    "title": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
+    "title_en": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:56.683721+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03a662c52454d78d",
+    "url": "https://www.rudaw.net/english/middleeast/iran/05052026",
+    "title": "Iran accuses US of violating ceasefire in Strait of Hormuz",
+    "title_en": "Iran Accuses US of Violating Ceasefire in Strait of Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 3,
+    "timestamp": "2026-05-05T21:57:51.515847+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07fcd717f93f5ec3",
+    "url": "https://www.rudaw.net/english/world/05052026",
+    "title": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
+    "title_en": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:47.982781+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26f59958794d3fdf",
+    "url": "https://www.rudaw.net/english/opinion/05052026",
+    "title": "Impact of two months of war on Iranians",
+    "title_en": "Impact of Two Months of War on Iranians",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:41.201189+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d506416ee2971b5e",
+    "url": "https://www.rudaw.net/english/middleeast/050520262",
+    "title": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
+    "title_en": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:36.248631+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "11246d620681ba9c",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
+    "title": "President Barzani continues Baghdad talks on second day of visit",
+    "title_en": "President Barzani continues Baghdad talks on second day of visit",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-05T21:57:32.306682+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:26.290143+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e9a09e7d65c9d57",
+    "url": "https://www.rudaw.net/english/middleeast/050520261",
+    "title": "US Warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
+    "title_en": "US Warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 3,
+    "timestamp": "2026-05-05T21:57:21.356945+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66c362be64a6814d",
+    "url": "https://www.rudaw.net/english/business/05052026",
+    "title": "Baghdad wheat policy discriminatory toward Kurdistan Region farmers: Ministry",
+    "title_en": "Baghdad's Wheat Policy Discriminatory Towards Kurdistan Region Farmers: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:18.230008+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0c6b335575657a28",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520263",
+    "title": "President Barzani affirms commitment to minority rights, role in Iraqi political process",
+    "title_en": "President Barzani affirms commitment to minority rights, role in Iraqi political process",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 2,
+    "timestamp": "2026-05-05T21:57:13.393320+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b9ec32b52823520",
+    "url": "https://www.rudaw.net/english/kurdistan/050520262",
+    "title": "Nearly 12,500 domestic violence complaints recorded in Kurdistan in 2025: Official",
+    "title_en": "Nearly 12,500 domestic violence complaints recorded in Kurdistan in 2025: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:08.719514+00:00",
+    "location": {
+      "name": "Hewler",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "685e0becbbd37ab1",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520264",
+    "title": "Iraq revises 400,000-ton wheat cap for Kurdistan Region farmers",
+    "title_en": "Iraq revises 400,000-ton wheat cap for Kurdistan Region farmers",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:57:02.891451+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "569c3a4dea5a37fb",
+    "url": "https://www.rudaw.net/english/kurdistan/050520261",
+    "title": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
+    "title_en": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:56:58.646141+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "490b4bd01df4596a",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520265",
+    "title": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
+    "title_en": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:56:53.214153+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T21:56:49.823566+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,54 +400,6 @@
     }
   },
   {
-    "id": "fbe740a8a08ee417",
-    "url": "https://www.rudaw.net/english/world/06042026",
-    "title": "Trump says wants Kurds to 'stay away' from Iran war",
-    "title_en": "Trump says wants Kurds to 'stay away' from Iran war",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:50:17.415809+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "84b35d393cce421e",
-    "url": "https://www.rudaw.net/english/world/09042026",
-    "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:50:09.800173+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "21aafa1afe49ad80",
-    "url": "https://www.rudaw.net/english/middleeast/syria/23042026",
-    "title": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
-    "title_en": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:49:57.424192+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "07f11f4265d3cb8d",
     "url": "https://www.rudaw.net/english/kurdistan/05052026",
     "title": "Iranian Kurdish opposition group reports over 70 attacks on its bases: spokesperson",
@@ -173,230 +413,6 @@
       "name": "Bakhtiyari",
       "lat": 36.2078,
       "lng": 44.0231
-    }
-  },
-  {
-    "id": "42b603c3ccb2d2a8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/05052026",
-    "title": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
-    "title_en": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:49:19.347959+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "03a662c52454d78d",
-    "url": "https://www.rudaw.net/english/middleeast/iran/05052026",
-    "title": "Iran accuses US of violating ceasefire in Strait of Hormuz",
-    "title_en": "Iran Accuses US of Violating Ceasefire in Strait of Hormuz",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 3,
-    "timestamp": "2026-05-05T20:49:13.628362+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "07fcd717f93f5ec3",
-    "url": "https://www.rudaw.net/english/world/05052026",
-    "title": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
-    "title_en": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:49:07.099502+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "26f59958794d3fdf",
-    "url": "https://www.rudaw.net/english/opinion/05052026",
-    "title": "Impact of two months of war on Iranians",
-    "title_en": "Impact of Two Months of War on Iranians",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:49:03.179859+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d506416ee2971b5e",
-    "url": "https://www.rudaw.net/english/middleeast/050520262",
-    "title": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
-    "title_en": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:57.457311+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "11246d620681ba9c",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
-    "title": "President Barzani continues Baghdad talks on second day of visit",
-    "title_en": "President Barzani continues Baghdad talks on second day of visit",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 2,
-    "timestamp": "2026-05-05T20:48:53.592477+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:47.761021+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5e9a09e7d65c9d57",
-    "url": "https://www.rudaw.net/english/middleeast/050520261",
-    "title": "US Warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
-    "title_en": "US Warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 3,
-    "timestamp": "2026-05-05T20:48:44.131155+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "66c362be64a6814d",
-    "url": "https://www.rudaw.net/english/business/05052026",
-    "title": "Baghdad wheat policy discriminatory toward Kurdistan Region farmers: Ministry",
-    "title_en": "Baghdad's Wheat Policy Discriminatory Towards Kurdistan Region Farmers: Ministry",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:37.372220+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0c6b335575657a28",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520263",
-    "title": "President Barzani affirms commitment to minority rights, role in Iraqi political process",
-    "title_en": "President Barzani affirms commitment to minority rights, role in Iraqi political process",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 2,
-    "timestamp": "2026-05-05T20:48:33.920308+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0b9ec32b52823520",
-    "url": "https://www.rudaw.net/english/kurdistan/050520262",
-    "title": "Nearly 12,500 domestic violence complaints recorded in Kurdistan in 2025: Official",
-    "title_en": "Nearly 12,500 domestic violence complaints recorded in Kurdistan in 2025: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:30.093848+00:00",
-    "location": {
-      "name": "Hewler",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "685e0becbbd37ab1",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520264",
-    "title": "Iraq revises 400,000-ton wheat cap for Kurdistan Region farmers",
-    "title_en": "Iraq revises 400,000-ton wheat cap for Kurdistan Region farmers",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:25.764910+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "569c3a4dea5a37fb",
-    "url": "https://www.rudaw.net/english/kurdistan/050520261",
-    "title": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
-    "title_en": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:22.222358+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "490b4bd01df4596a",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520265",
-    "title": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
-    "title_en": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T20:48:16.299814+00:00",
-    "location": {
-      "name": "Hewler",
-      "lat": 36.1912,
-      "lng": 44.0092
     }
   },
   {
