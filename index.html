@@ -3,315 +3,380 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Aura Erbil — Live Monitor</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
-<script src="https://unpkg.com/lightweight-charts@4.1.1/dist/lightweight-charts.standalone.production.js"></script>
+<title>Secret Quant — Crypto Trading</title>
+<meta name="description" content="Systematic crypto trading. The full site is coming."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech+Mono&display=swap" rel="stylesheet"/>
 <style>
-  body { background: #0f1117; color: #e2e8f0; font-family: 'Inter', sans-serif; }
-  #map { height: 420px; border-radius: 12px; }
-  .card { background: #1a1d2e; border: 1px solid #2d3148; border-radius: 12px; }
-  .cat-security     { border-left: 3px solid #ef4444; }
-  .cat-fire         { border-left: 3px solid #f97316; }
-  .cat-traffic      { border-left: 3px solid #eab308; }
-  .cat-infrastructure { border-left: 3px solid #3b82f6; }
-  .cat-weather      { border-left: 3px solid #06b6d4; }
-  .cat-general      { border-left: 3px solid #6b7280; }
-  .badge-security     { background:#ef444422; color:#ef4444; }
-  .badge-fire         { background:#f9731622; color:#f97316; }
-  .badge-traffic      { background:#eab30822; color:#eab308; }
-  .badge-infrastructure { background:#3b82f622; color:#3b82f6; }
-  .badge-weather      { background:#06b6d422; color:#06b6d4; }
-  .badge-general      { background:#6b728022; color:#9ca3af; }
-  .chart-box { height: 180px; }
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+
+:root{
+  --hot:#FF3D00;
+  --mid:#FF7300;
+  --warm:#FFAA00;
+  --coal:#050505;
+  --ash:#0e0e0e;
+  --text:#EBEBEB;
+  --muted:rgba(255,255,255,0.28);
+}
+
+html,body{
+  width:100%;height:100%;
+  overflow:hidden;
+  background:var(--coal);
+  color:var(--text);
+  font-family:'Share Tech Mono','Courier New',monospace;
+  cursor:crosshair;
+}
+
+#fire-canvas{
+  position:fixed;inset:0;
+  width:100%;height:100%;
+  pointer-events:none;z-index:0;
+}
+
+#grid{
+  position:fixed;inset:0;pointer-events:none;z-index:1;
+  background-image:
+    linear-gradient(rgba(255,115,0,0.045) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,115,0,0.045) 1px,transparent 1px);
+  background-size:60px 60px;
+  animation:gridpulse 9s ease-in-out infinite;
+}
+@keyframes gridpulse{0%,100%{opacity:1;}50%{opacity:0.4;}}
+
+#vignette{
+  position:fixed;inset:0;pointer-events:none;z-index:2;
+  background:radial-gradient(ellipse 90% 80% at 50% 50%,transparent 35%,rgba(5,5,5,0.88) 100%);
+}
+
+#scan{
+  position:fixed;left:0;right:0;height:2px;
+  background:linear-gradient(90deg,transparent,rgba(255,115,0,0.2),transparent);
+  z-index:3;pointer-events:none;top:-2px;
+  animation:scanmove 7s linear infinite;
+}
+@keyframes scanmove{0%{top:-2px;}100%{top:100vh;}}
+
+.ticker-wrap{
+  position:fixed;left:0;right:0;overflow:hidden;
+  z-index:10;height:30px;display:flex;align-items:center;
+  background:rgba(5,5,5,0.75);backdrop-filter:blur(6px);
+}
+.ticker-wrap.top{top:0;border-bottom:1px solid rgba(255,115,0,0.18);}
+.ticker-wrap.bot{bottom:0;border-top:1px solid rgba(255,115,0,0.18);}
+.ticker-track{display:flex;white-space:nowrap;will-change:transform;}
+.ticker-wrap.top .ticker-track{animation:tickL 30s linear infinite;}
+.ticker-wrap.bot .ticker-track{animation:tickR 24s linear infinite;}
+@keyframes tickL{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+@keyframes tickR{0%{transform:translateX(-50%);}100%{transform:translateX(0);}}
+.t-item{font-size:9px;letter-spacing:0.24em;text-transform:uppercase;color:var(--muted);padding:0 2rem;}
+.t-item em{color:var(--mid);font-style:normal;margin-right:0.4rem;}
+
+.corner{position:fixed;width:20px;height:20px;z-index:10;pointer-events:none;}
+.corner.tl{top:36px;left:14px;border-top:1px solid var(--mid);border-left:1px solid var(--mid);}
+.corner.tr{top:36px;right:14px;border-top:1px solid var(--mid);border-right:1px solid var(--mid);}
+.corner.bl{bottom:36px;left:14px;border-bottom:1px solid var(--mid);border-left:1px solid var(--mid);}
+.corner.br{bottom:36px;right:14px;border-bottom:1px solid var(--mid);border-right:1px solid var(--mid);}
+
+.side{
+  position:fixed;top:50%;pointer-events:none;z-index:10;
+  font-size:8px;letter-spacing:0.32em;text-transform:uppercase;
+  color:rgba(255,115,0,0.18);white-space:nowrap;
+}
+.side.l{left:-40px;transform:translateY(-50%) rotate(-90deg);}
+.side.r{right:-40px;transform:translateY(-50%) rotate(90deg);}
+
+#stage{
+  position:fixed;inset:0;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  z-index:20;padding:52px 2rem;gap:0;
+}
+
+.status-row{
+  display:flex;align-items:center;gap:1rem;
+  margin-bottom:2.2rem;
+  animation:rise 1.2s ease both;
+}
+.pulse-dot{
+  width:7px;height:7px;border-radius:50%;
+  background:var(--hot);box-shadow:0 0 8px var(--hot);
+  animation:pulsedot 2s ease-in-out infinite;
+}
+@keyframes pulsedot{
+  0%,100%{box-shadow:0 0 6px var(--hot);opacity:1;}
+  50%{box-shadow:0 0 20px var(--hot),0 0 36px rgba(255,61,0,0.3);opacity:0.65;}
+}
+.status-txt{font-size:9px;letter-spacing:0.3em;text-transform:uppercase;color:var(--hot);}
+.status-line{width:36px;height:1px;background:linear-gradient(90deg,var(--hot),transparent);}
+
+.hero-name{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(76px,18vw,196px);
+  line-height:0.88;letter-spacing:0.03em;text-align:center;
+  animation:rise 1.4s ease 0.15s both;
+}
+.name-fire{
+  display:block;
+  background:linear-gradient(108deg,var(--hot) 0%,var(--mid) 38%,var(--warm) 72%,var(--mid) 100%);
+  background-size:200% 100%;
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  animation:fireshift 4s ease-in-out infinite alternate, flicker 8s ease-in-out infinite;
+}
+.name-ghost{
+  display:block;
+  -webkit-text-fill-color:transparent;
+  -webkit-text-stroke:1px rgba(255,115,0,0.28);
+}
+@keyframes fireshift{0%{background-position:0% 0%;}100%{background-position:100% 0%;}}
+@keyframes flicker{
+  0%,100%{opacity:1;}46%{opacity:1;}50%{opacity:0.82;}54%{opacity:1;}
+  74%{opacity:1;}77%{opacity:0.9;}80%{opacity:1;}
+}
+
+.fire-rule{
+  width:clamp(100px,26vw,300px);height:1px;margin:1.5rem 0;
+  background:linear-gradient(90deg,transparent,var(--hot),var(--warm),var(--hot),transparent);
+  background-size:200% 100%;
+  animation:ruleflow 3s linear infinite, rise 1.4s ease 0.4s both;
+}
+@keyframes ruleflow{0%{background-position:0%;}100%{background-position:200%;}}
+
+.tagline{
+  font-size:clamp(9px,1.3vw,12px);letter-spacing:0.24em;
+  text-transform:uppercase;color:var(--muted);
+  text-align:center;max-width:380px;line-height:2.1;
+  animation:rise 1.4s ease 0.6s both;
+}
+
+.countdown{
+  margin-top:2.2rem;display:flex;
+  gap:clamp(0.8rem,2.5vw,2rem);align-items:flex-start;
+  animation:rise 1.4s ease 0.8s both;
+}
+.cb{text-align:center;min-width:52px;}
+.cn{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(40px,7vw,68px);color:var(--warm);
+  line-height:1;letter-spacing:0.06em;display:block;
+}
+.cl{
+  font-size:8px;letter-spacing:0.24em;text-transform:uppercase;
+  color:rgba(255,115,0,0.38);display:block;margin-top:0.25rem;
+}
+.csep{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(40px,7vw,68px);
+  color:rgba(255,115,0,0.18);line-height:1;
+}
+
+#clock{
+  font-size:10px;letter-spacing:0.2em;
+  color:rgba(255,115,0,0.28);margin-top:0.5rem;
+  animation:rise 1.4s ease 0.95s both;
+}
+
+.cta-row{
+  margin-top:2.2rem;display:flex;gap:1rem;flex-wrap:wrap;
+  justify-content:center;animation:rise 1.4s ease 1.05s both;
+}
+.btn-fire{
+  display:inline-flex;align-items:center;gap:0.55rem;
+  padding:0.85rem 2.1rem;background:var(--hot);color:#fff;
+  font-family:'Share Tech Mono',monospace;font-size:9px;
+  letter-spacing:0.24em;text-transform:uppercase;
+  text-decoration:none;border:none;cursor:pointer;
+  transition:background 0.2s,transform 0.15s,box-shadow 0.2s;
+  position:relative;overflow:hidden;
+}
+.btn-fire::before{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,0.14),transparent);
+  transform:translateX(-100%);transition:transform 0.42s;
+}
+.btn-fire:hover::before{transform:translateX(100%);}
+.btn-fire:hover{background:var(--mid);transform:translateY(-2px);box-shadow:0 8px 30px rgba(255,61,0,0.32);}
+.btn-ghost{
+  display:inline-flex;align-items:center;gap:0.55rem;
+  padding:0.85rem 2.1rem;background:transparent;color:var(--mid);
+  font-family:'Share Tech Mono',monospace;font-size:9px;
+  letter-spacing:0.24em;text-transform:uppercase;
+  text-decoration:none;border:1px solid rgba(255,115,0,0.32);cursor:pointer;
+  transition:border-color 0.2s,background 0.2s,transform 0.15s;
+}
+.btn-ghost:hover{border-color:var(--mid);background:rgba(255,115,0,0.07);transform:translateY(-2px);}
+
+@keyframes rise{from{opacity:0;transform:translateY(16px);}to{opacity:1;transform:translateY(0);}}
+
+@media(max-width:560px){
+  .side{display:none;}
+  .countdown{gap:0.7rem;}
+  .cta-row{flex-direction:column;align-items:center;}
+  .btn-fire,.btn-ghost{width:220px;justify-content:center;}
+}
 </style>
 </head>
-<body class="min-h-screen p-4">
+<body>
 
-<!-- Header -->
-<div class="flex items-center justify-between mb-6">
-  <div>
-    <h1 class="text-2xl font-bold tracking-tight">⚡ Aura Erbil</h1>
-    <p class="text-slate-400 text-sm mt-1">Live incident monitor — Kurdistan Region</p>
-  </div>
-  <div class="text-right">
-    <div id="last-updated" class="text-slate-500 text-xs">Loading…</div>
-    <div id="article-count" class="text-slate-300 text-sm font-semibold mt-1"></div>
-  </div>
-</div>
+<canvas id="fire-canvas"></canvas>
+<div id="grid"></div>
+<div id="vignette"></div>
+<div id="scan"></div>
 
-<!-- Stats Row -->
-<div class="grid grid-cols-2 md:grid-cols-5 gap-3 mb-6" id="stats-row"></div>
+<div class="corner tl"></div>
+<div class="corner tr"></div>
+<div class="corner bl"></div>
+<div class="corner br"></div>
+<div class="side l">Quant Trading &nbsp;·&nbsp; Crypto Markets &nbsp;·&nbsp; Systematic Strategy</div>
+<div class="side r">Risk Adjusted Returns &nbsp;·&nbsp; Data Driven &nbsp;·&nbsp; High Conviction</div>
 
-<!-- Map -->
-<div class="card p-4 mb-6">
-  <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Incident Map</h2>
-  <div id="map"></div>
-</div>
+<div class="ticker-wrap top"><div class="ticker-track">
+  <div class="t-item"><em>▸</em>Systematic Trading</div><div class="t-item"><em>▸</em>Crypto Quant</div>
+  <div class="t-item"><em>▸</em>Algo Strategies</div><div class="t-item"><em>▸</em>Risk Management</div>
+  <div class="t-item"><em>▸</em>Market Structure</div><div class="t-item"><em>▸</em>Edge Discovery</div>
+  <div class="t-item"><em>▸</em>Capital Efficiency</div><div class="t-item"><em>▸</em>Drawdown Control</div>
+  <div class="t-item"><em>▸</em>Backtesting Mastery</div><div class="t-item"><em>▸</em>Live Execution</div>
+  <div class="t-item"><em>▸</em>Position Sizing</div><div class="t-item"><em>▸</em>Volatility Models</div>
+  <div class="t-item"><em>▸</em>Systematic Trading</div><div class="t-item"><em>▸</em>Crypto Quant</div>
+  <div class="t-item"><em>▸</em>Algo Strategies</div><div class="t-item"><em>▸</em>Risk Management</div>
+  <div class="t-item"><em>▸</em>Market Structure</div><div class="t-item"><em>▸</em>Edge Discovery</div>
+  <div class="t-item"><em>▸</em>Capital Efficiency</div><div class="t-item"><em>▸</em>Drawdown Control</div>
+  <div class="t-item"><em>▸</em>Backtesting Mastery</div><div class="t-item"><em>▸</em>Live Execution</div>
+  <div class="t-item"><em>▸</em>Position Sizing</div><div class="t-item"><em>▸</em>Volatility Models</div>
+</div></div>
 
-<!-- Charts Row -->
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-  <div class="card p-4">
-    <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Incidents — Last 24h</h2>
-    <div id="chart-volume" class="chart-box"></div>
-  </div>
-  <div class="card p-4">
-    <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">Category Breakdown</h2>
-    <div id="chart-category" class="chart-box"></div>
-  </div>
-</div>
-<div class="card p-4 mb-6">
-  <h2 class="text-sm font-semibold text-slate-400 mb-3 uppercase tracking-wider">30-Day Trend</h2>
-  <div id="chart-30day" style="height:180px"></div>
-</div>
+<div class="ticker-wrap bot"><div class="ticker-track">
+  <div class="t-item"><em>◆</em>BTC · ETH · SOL · USDT</div>
+  <div class="t-item"><em>◆</em>High Frequency · Swing · Trend</div>
+  <div class="t-item"><em>◆</em>Funded &amp; Independent</div>
+  <div class="t-item"><em>◆</em>No Guessing. Only Data.</div>
+  <div class="t-item"><em>◆</em>1-on-1 Consultation Available</div>
+  <div class="t-item"><em>◆</em>Premium Course Coming</div>
+  <div class="t-item"><em>◆</em>Crypto-Only Payment</div>
+  <div class="t-item"><em>◆</em>Follow @secretquant on X</div>
+  <div class="t-item"><em>◆</em>BTC · ETH · SOL · USDT</div>
+  <div class="t-item"><em>◆</em>High Frequency · Swing · Trend</div>
+  <div class="t-item"><em>◆</em>Funded &amp; Independent</div>
+  <div class="t-item"><em>◆</em>No Guessing. Only Data.</div>
+  <div class="t-item"><em>◆</em>1-on-1 Consultation Available</div>
+  <div class="t-item"><em>◆</em>Premium Course Coming</div>
+  <div class="t-item"><em>◆</em>Crypto-Only Payment</div>
+  <div class="t-item"><em>◆</em>Follow @secretquant on X</div>
+</div></div>
 
-<!-- Feed -->
-<div class="card p-4">
-  <div class="flex items-center justify-between mb-4">
-    <h2 class="text-sm font-semibold text-slate-400 uppercase tracking-wider">Live Feed</h2>
-    <div class="flex gap-2 flex-wrap" id="filter-buttons"></div>
+<div id="stage">
+
+  <div class="status-row">
+    <div class="status-line" style="transform:scaleX(-1)"></div>
+    <div class="pulse-dot"></div>
+    <div class="status-txt">Site Launching Soon</div>
+    <div class="pulse-dot"></div>
+    <div class="status-line"></div>
   </div>
-  <div id="feed" class="space-y-3 max-h-[520px] overflow-y-auto pr-1"></div>
+
+  <h1 class="hero-name">
+    <span class="name-fire">Secret Quant</span>
+    <span class="name-ghost">Crypto Markets</span>
+  </h1>
+
+  <div class="fire-rule"></div>
+
+  <p class="tagline">
+    Quant Trading &nbsp;·&nbsp; Crypto Markets<br/>
+    The full site is being built.<br/>
+    Something serious is coming.
+  </p>
+
+  <div class="countdown">
+    <div class="cb"><span class="cn" id="cd-d">00</span><span class="cl">Days</span></div>
+    <div class="csep">:</div>
+    <div class="cb"><span class="cn" id="cd-h">00</span><span class="cl">Hrs</span></div>
+    <div class="csep">:</div>
+    <div class="cb"><span class="cn" id="cd-m">00</span><span class="cl">Min</span></div>
+    <div class="csep">:</div>
+    <div class="cb"><span class="cn" id="cd-s">00</span><span class="cl">Sec</span></div>
+  </div>
+
+  <div id="clock">UTC — : — : —</div>
+
+  <div class="cta-row">
+    <a href="https://x.com/secretquant" target="_blank" rel="noopener noreferrer" class="btn-fire">Follow on X &nbsp;↗</a>
+    <a href="mailto:deltaquant33@protonmail.com" class="btn-ghost">Contact Me &nbsp;→</a>
+  </div>
+
 </div>
 
 <script>
-const DATA_URL = './data/data.json';
-const REFRESH_MS = 60000;
-const CAT_COLORS = {
-  security:'#ef4444', fire:'#f97316', traffic:'#eab308',
-  infrastructure:'#3b82f6', weather:'#06b6d4', general:'#6b7280'
-};
-let allArticles = [];
-let activeFilter = 'all';
-let map, markersLayer;
-
-// ── MAP INIT ────────────────────────────────────────────────
-function initMap() {
-  map = L.map('map').setView([36.1912, 44.0092], 12);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors', maxZoom: 18
-  }).addTo(map);
-  markersLayer = L.layerGroup().addTo(map);
-}
-
-function renderMarkers(articles) {
-  markersLayer.clearLayers();
-  const heatPoints = [];
-  articles.forEach(a => {
-    const loc = a.location;
-    if (!loc || !loc.lat) return;
-    heatPoints.push([loc.lat, loc.lng, a.breaking || 1]);
-    const color = CAT_COLORS[a.category] || '#6b7280';
-    const size = a.breaking === 3 ? 16 : a.breaking === 2 ? 13 : 10;
-    const icon = L.divIcon({
-      className: '',
-      html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};border:2px solid #fff;box-shadow:0 0 ${size}px ${color}88"></div>`,
-      iconSize: [size, size], iconAnchor: [size/2, size/2]
-    });
-    const marker = L.marker([loc.lat, loc.lng], { icon });
-    const breakingLabel = a.breaking === 3 ? '🔴 BREAKING · ' : a.breaking === 2 ? '🟡 Confirmed · ' : '';
-    marker.bindPopup(`
-      <div style="font-family:sans-serif;max-width:220px">
-        <div style="font-weight:600;font-size:13px;margin-bottom:4px">${breakingLabel}${a.title_en || a.title}</div>
-        <div style="font-size:11px;color:#888">${a.category} · ${timeAgo(a.timestamp)}</div>
-        <a href="${a.url}" target="_blank" style="font-size:11px;color:#3b82f6">Read →</a>
-      </div>
-    `);
-    markersLayer.addLayer(marker);
-  });
-  if (window._heatLayer) map.removeLayer(window._heatLayer);
-  window._heatLayer = L.heatLayer(heatPoints, {
-    radius: 35, blur: 25, maxZoom: 14,
-    gradient: { 0.4:'#3b82f6', 0.6:'#eab308', 0.8:'#f97316', 1.0:'#ef4444' }
-  }).addTo(map);
-}
-
-// ── CHARTS ──────────────────────────────────────────────────
-function renderVolumeChart(articles) {
-  const el = document.getElementById('chart-volume');
-  el.innerHTML = '';
-  const chart = LightweightCharts.createChart(el, {
-    width: el.offsetWidth, height: 160,
-layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
-grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
-timeScale: { borderColor: '#2a2e39' },
-rightPriceScale: { borderColor: '#2a2e39' },
-crosshair: { vertLine: { color: '#758696' }, horzLine: { color: '#758696' } },
-  });
-  const series = chart.addLineSeries({ color: '#3b82f6', lineWidth: 2 });
-  const now = Date.now();
-  const buckets = {};
-  for (let i = 23; i >= 0; i--) {
-    const key = new Date(now - i * 3600000);
-    const h = key.toISOString().slice(0, 13);
-    buckets[h] = 0;
+(function(){
+  const cv=document.getElementById('fire-canvas'),ctx=cv.getContext('2d');
+  let W,H;
+  function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
+  resize();window.addEventListener('resize',resize);
+  const COLS=[[255,61,0],[255,90,0],[255,115,0],[255,140,0],[255,165,0],[255,195,25]];
+  function mkP(init){
+    return{
+      x:Math.random()*W,
+      y:init?Math.random()*H:H+8,
+      vx:(Math.random()-0.5)*0.65,
+      vy:-(Math.random()*1.3+0.45),
+      life:0,
+      max:Math.random()*190+90,
+      r:Math.random()*2.6+0.4,
+      ci:Math.floor(Math.random()*COLS.length)
+    };
   }
-  articles.forEach(a => {
-    const h = new Date(a.timestamp).toISOString().slice(0, 13);
-    if (buckets[h] !== undefined) buckets[h]++;
-  });
-  const data = Object.entries(buckets).map(([h, v]) => ({
-    time: Math.floor(new Date(h + ':00:00Z').getTime() / 1000), value: v
-  }));
-  series.setData(data);
-}
-
-function renderCategoryChart(articles) {
-  const el = document.getElementById('chart-category');
-  el.innerHTML = '';
-  const chart = LightweightCharts.createChart(el, {
-    width: el.offsetWidth, height: 160,
-    layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
-    grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
- timeScale: { borderColor: '#2a2e39', visible: false },
-rightPriceScale: { borderColor: '#2a2e39' },
-  });
-  const counts = {};
-  articles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
-  const cats = Object.entries(counts).sort((a,b) => b[1]-a[1]);
-  cats.forEach(([cat, count], i) => {
-    const series = chart.addHistogramSeries({
-      color: CAT_COLORS[cat] || '#6b7280', priceScaleId: 'right'
-    });
-    series.setData([{ time: i + 1, value: count }]);
-  });
-}
-
-function render30DayChart(articles) {
-  const el = document.getElementById('chart-30day');
-  el.innerHTML = '';
-  const chart = LightweightCharts.createChart(el, {
-    width: el.offsetWidth, height: 160,
-    layout: { background: { color: '#131722' }, textColor: '#d1d4dc' },
-    grid: { vertLines: { color: '#2a2e39' }, horzLines: { color: '#2a2e39' } },
-    timeScale: { borderColor: '#2a2e39' },
-    rightPriceScale: { borderColor: '#2a2e39' },
-    crosshair: { vertLine: { color: '#758696' }, horzLine: { color: '#758696' } },
-  });
-  const series = chart.addAreaSeries({
-    lineColor: '#6366f1', topColor: '#6366f144',
-    bottomColor: 'transparent', lineWidth: 2
-  });
-  const buckets = {};
-  for (let i = 29; i >= 0; i--) {
-    const d = new Date();
-    d.setDate(d.getDate() - i);
-    buckets[d.toISOString().slice(0,10)] = 0;
+  const N=Math.min(320,Math.floor(window.innerWidth*0.22));
+  let ps=Array.from({length:N},()=>mkP(true));
+  function loop(){
+    ctx.clearRect(0,0,W,H);
+    for(let i=0;i<ps.length;i++){
+      let p=ps[i];
+      p.x+=p.vx+Math.sin(p.life*0.038)*0.28;
+      p.y+=p.vy;
+      p.life++;
+      if(p.life>p.max){ps[i]=mkP(false);continue;}
+      const t=p.life/p.max;
+      const a=t<0.18?t/0.18:1-((t-0.18)/0.82);
+      const ci=Math.min(p.ci+Math.floor(t*2.5),COLS.length-1);
+      const[r,g,b]=COLS[ci];
+      ctx.save();
+      ctx.globalAlpha=a*0.72;
+      ctx.fillStyle=`rgb(${r},${g},${b})`;
+      ctx.shadowBlur=p.r*5;
+      ctx.shadowColor=`rgba(${r},${g},${b},0.55)`;
+      ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fill();
+      ctx.restore();
+    }
+    requestAnimationFrame(loop);
   }
-  articles.forEach(a => {
-    const d = new Date(a.timestamp).toISOString().slice(0,10);
-    if (buckets[d] !== undefined) buckets[d]++;
-  });
-  series.setData(Object.entries(buckets).map(([d,v]) => ({ time: d, value: v })));
-}
+  loop();
+})();
 
-// ── STATS ROW ───────────────────────────────────────────────
-function renderStats(articles) {
-  const counts = {};
-  articles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
-  const row = document.getElementById('stats-row');
-  row.innerHTML = '';
-  const total = document.createElement('div');
-  total.className = 'card p-3 text-center';
-  total.innerHTML = `<div class="text-2xl font-bold">${articles.length}</div><div class="text-xs text-slate-400 mt-1">Total</div>`;
-  row.appendChild(total);
-  Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([cat, n]) => {
-    const d = document.createElement('div');
-    d.className = 'card p-3 text-center cursor-pointer hover:border-slate-500 transition-colors';
-    d.style.borderColor = activeFilter === cat ? CAT_COLORS[cat] : '';
-    d.innerHTML = `<div class="text-2xl font-bold" style="color:${CAT_COLORS[cat]}">${n}</div><div class="text-xs text-slate-400 mt-1 capitalize">${cat}</div>`;
-    d.onclick = () => { activeFilter = activeFilter === cat ? 'all' : cat; renderAll(); };
-    row.appendChild(d);
-  });
-}
-
-// ── FILTER BUTTONS ──────────────────────────────────────────
-function renderFilters() {
-  const cats = ['all', ...Object.keys(CAT_COLORS)];
-  const container = document.getElementById('filter-buttons');
-  container.innerHTML = '';
-  cats.forEach(cat => {
-    const btn = document.createElement('button');
-    btn.className = `text-xs px-3 py-1 rounded-full border transition-colors ${activeFilter === cat ? 'border-blue-500 text-blue-400 bg-blue-500/10' : 'border-slate-600 text-slate-400 hover:border-slate-400'}`;
-    btn.textContent = cat.charAt(0).toUpperCase() + cat.slice(1);
-    btn.onclick = () => { activeFilter = cat; renderAll(); };
-    container.appendChild(btn);
-  });
-}
-
-// ── FEED ────────────────────────────────────────────────────
-function renderFeed(articles) {
-  const feed = document.getElementById('feed');
-  feed.innerHTML = '';
-  const filtered = activeFilter === 'all' ? articles : articles.filter(a => a.category === activeFilter);
-  if (filtered.length === 0) {
-    feed.innerHTML = '<p class="text-slate-500 text-sm text-center py-8">No articles in this category yet.</p>';
-    return;
+(function(){
+  const TARGET=new Date('2026-04-28T00:00:00');
+  const pad=n=>String(n).padStart(2,'0');
+  function tick(){
+    const diff=TARGET-new Date();
+    if(diff<=0){['cd-d','cd-h','cd-m','cd-s'].forEach(id=>document.getElementById(id).textContent='00');return;}
+    document.getElementById('cd-d').textContent=pad(Math.floor(diff/86400000));
+    document.getElementById('cd-h').textContent=pad(Math.floor(diff%86400000/3600000));
+    document.getElementById('cd-m').textContent=pad(Math.floor(diff%3600000/60000));
+    document.getElementById('cd-s').textContent=pad(Math.floor(diff%60000/1000));
   }
-  filtered.forEach(a => {
-    const div = document.createElement('div');
-    div.className = `card cat-${a.category} p-3 hover:bg-slate-800/40 transition-colors`;
-    div.innerHTML = `
-      <div class="flex items-start justify-between gap-3">
-        <div class="flex-1 min-w-0">
-          <a href="${a.url}" target="_blank" class="text-sm font-medium text-slate-200 hover:text-white leading-snug line-clamp-2">${a.title_en || a.title}</a>
-${a.title_en && a.title_en !== a.title ? `<p class="text-xs text-slate-600 mt-0.5 line-clamp-1">${a.title}</p>` : ''}
-          ${a.summary ? `<p class="text-xs text-slate-500 mt-1 line-clamp-1">${a.summary}</p>` : ''}
-          <div class="flex items-center gap-2 mt-2">
-            <span class="badge-${a.category} text-xs px-2 py-0.5 rounded-full capitalize">${a.category}</span>
-            <span class="text-slate-500 text-xs">${a.location?.name || 'Erbil'}</span>
-            <span class="text-slate-600 text-xs">${timeAgo(a.timestamp)}</span>
-          </div>
-        </div>
-      </div>
-    `;
-    feed.appendChild(div);
-  });
-}
+  tick();setInterval(tick,1000);
+})();
 
-// ── HELPERS ─────────────────────────────────────────────────
-function timeAgo(iso) {
-  if (!iso) return '';
-  const diff = Date.now() - new Date(iso).getTime();
-  const m = Math.floor(diff / 60000);
-  if (m < 60) return `${m}m ago`;
-  const h = Math.floor(m / 60);
-  if (h < 24) return `${h}h ago`;
-  return `${Math.floor(h/24)}d ago`;
-}
-
-// ── MAIN RENDER ─────────────────────────────────────────────
-function renderAll() {
-  const filtered = activeFilter === 'all' ? allArticles : allArticles.filter(a => a.category === activeFilter);
-  renderStats(allArticles);
-  renderFilters();
-  renderMarkers(filtered);
-  renderVolumeChart(filtered);
-  renderCategoryChart(filtered);
-  render30DayChart(allArticles);
-  renderFeed(filtered);
-}
-
-async function loadData() {
-  try {
-    const r = await fetch(DATA_URL + '?t=' + Date.now());
-    const data = await r.json();
-    allArticles = data.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
-    document.getElementById('last-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
-    document.getElementById('article-count').textContent = allArticles.length + ' articles';
-    renderAll();
-  } catch(e) {
-    console.error('Data load failed:', e);
-    document.getElementById('last-updated').textContent = 'Load failed — retrying…';
+(function(){
+  const el=document.getElementById('clock');
+  const p=n=>String(n).padStart(2,'0');
+  function tick(){
+    const n=new Date();
+    el.textContent=`UTC ${p(n.getUTCHours())}:${p(n.getUTCMinutes())}:${p(n.getUTCSeconds())}`;
   }
-}
-
-// ── BOOT ────────────────────────────────────────────────────
-initMap();
-loadData();
-setInterval(loadData, REFRESH_MS);
+  tick();setInterval(tick,1000);
+})();
 </script>
 </body>
 </html>
