@@ -8,7 +8,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:44.616049+00:00",
+    "timestamp": "2026-05-05T22:24:22.131880+00:00",
     "location": {
       "name": "Sulaymaniyah Road",
       "lat": 36.16,
@@ -24,7 +24,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:39.196952+00:00",
+    "timestamp": "2026-05-05T22:24:16.539977+00:00",
     "location": {
       "name": "Bakhtiyari",
       "lat": 36.2078,
@@ -40,7 +40,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:34.696091+00:00",
+    "timestamp": "2026-05-05T22:24:13.011457+00:00",
     "location": {
       "name": "Shaqlawa Road",
       "lat": 36.24,
@@ -56,7 +56,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:29.433582+00:00",
+    "timestamp": "2026-05-05T22:24:08.485365+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,7 +72,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:24.360128+00:00",
+    "timestamp": "2026-05-05T22:24:04.948839+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -88,7 +88,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:19.698411+00:00",
+    "timestamp": "2026-05-05T22:23:59.338022+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -104,7 +104,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:13.776588+00:00",
+    "timestamp": "2026-05-05T22:23:55.124156+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -120,7 +120,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:08.104841+00:00",
+    "timestamp": "2026-05-05T22:23:50.087306+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -136,7 +136,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:58:03.378426+00:00",
+    "timestamp": "2026-05-05T22:23:46.829493+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -152,7 +152,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:56.683721+00:00",
+    "timestamp": "2026-05-05T22:23:40.796597+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -168,7 +168,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-05T21:57:51.515847+00:00",
+    "timestamp": "2026-05-05T22:23:35.119340+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -184,7 +184,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:47.982781+00:00",
+    "timestamp": "2026-05-05T22:23:31.293040+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -200,7 +200,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:41.201189+00:00",
+    "timestamp": "2026-05-05T22:23:24.714373+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -216,7 +216,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:36.248631+00:00",
+    "timestamp": "2026-05-05T22:23:21.768600+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +232,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 2,
-    "timestamp": "2026-05-05T21:57:32.306682+00:00",
+    "timestamp": "2026-05-05T22:23:17.177187+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -248,7 +248,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:26.290143+00:00",
+    "timestamp": "2026-05-05T22:23:11.996232+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -262,9 +262,9 @@
     "title_en": "US Warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "breaking": 3,
-    "timestamp": "2026-05-05T21:57:21.356945+00:00",
+    "timestamp": "2026-05-05T22:23:08.193748+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -280,7 +280,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:18.230008+00:00",
+    "timestamp": "2026-05-05T22:23:03.190554+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -296,7 +296,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 2,
-    "timestamp": "2026-05-05T21:57:13.393320+00:00",
+    "timestamp": "2026-05-05T22:22:58.819727+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -312,7 +312,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:08.719514+00:00",
+    "timestamp": "2026-05-05T22:22:55.430732+00:00",
     "location": {
       "name": "Hewler",
       "lat": 36.1912,
@@ -328,7 +328,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:57:02.891451+00:00",
+    "timestamp": "2026-05-05T22:22:51.144333+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -344,7 +344,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:56:58.646141+00:00",
+    "timestamp": "2026-05-05T22:22:46.607329+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -360,7 +360,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:56:53.214153+00:00",
+    "timestamp": "2026-05-05T22:22:41.123341+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -376,7 +376,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T21:56:49.823566+00:00",
+    "timestamp": "2026-05-05T22:22:35.049777+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
