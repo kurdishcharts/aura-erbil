@@ -8,7 +8,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:12:14.318597+00:00",
+    "timestamp": "2026-05-05T07:37:11.340847+00:00",
     "location": {
       "name": "Sulaymaniyah Road",
       "lat": 36.16,
@@ -24,7 +24,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:12:09.321923+00:00",
+    "timestamp": "2026-05-05T07:37:05.880250+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -40,7 +40,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:12:06.227656+00:00",
+    "timestamp": "2026-05-05T07:37:01.428440+00:00",
     "location": {
       "name": "Shaqlawa Road",
       "lat": 36.24,
@@ -56,7 +56,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:12:00.447109+00:00",
+    "timestamp": "2026-05-05T07:36:54.845559+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,7 +72,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:56.348556+00:00",
+    "timestamp": "2026-05-05T07:36:51.683148+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -88,7 +88,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:52.496638+00:00",
+    "timestamp": "2026-05-05T07:36:47.320411+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -104,7 +104,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:47.941214+00:00",
+    "timestamp": "2026-05-05T07:36:40.745683+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -120,7 +120,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:43.980335+00:00",
+    "timestamp": "2026-05-05T07:36:35.613197+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -136,7 +136,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:40.255049+00:00",
+    "timestamp": "2026-05-05T07:36:30.598799+00:00",
     "location": {
       "name": "Hewler",
       "lat": 36.1912,
@@ -152,7 +152,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:35.456285+00:00",
+    "timestamp": "2026-05-05T07:36:23.652061+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -168,7 +168,7 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:30.647826+00:00",
+    "timestamp": "2026-05-05T07:36:17.980529+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -184,7 +184,247 @@
     "source": "rudaw-scrape",
     "category": "general",
     "breaking": 1,
-    "timestamp": "2026-05-05T00:11:26.812773+00:00",
+    "timestamp": "2026-05-05T07:36:14.558870+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bab89639610c8207",
+    "url": "https://www.rudaw.net/english/business/04052026",
+    "title": "Kurdistan Region bans food exports amid price, supply concerns",
+    "title_en": "Kurdistan Region bans food exports amid price, supply concerns",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:36:08.824772+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c80333fb18ea3f9",
+    "url": "https://www.rudaw.net/english/middleeast/040520262",
+    "title": "Syria seeks to expand trade with Iraq: Official",
+    "title_en": "Syria seeks to expand trade with Iraq: Official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:36:05.625356+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9c6dee4ac00357cb",
+    "url": "https://www.rudaw.net/english/world/04052026",
+    "title": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
+    "title_en": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:36:02.652143+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ebf416e4cb137e2",
+    "url": "https://www.rudaw.net/english/middleeast/040520263",
+    "title": "UAE issues ‘missile’ threat warning following drone attack on Emirati tanker in Hormuz",
+    "title_en": "UAE Issues 'Missile' Threat Warning Following Drone Attack on Emirati Tanker in Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:56.715123+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c772d9ec5ee5a5d9",
+    "url": "https://www.rudaw.net/english/middleeast/040520264",
+    "title": "US forces escort ships through Strait of Hormuz amid Iran warnings",
+    "title_en": "US forces escort ships through Strait of Hormuz amid Iran warnings",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 3,
+    "timestamp": "2026-05-05T07:35:53.480603+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e858d223348f82c4",
+    "url": "https://www.rudaw.net/english/middleeast/040520265",
+    "title": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
+    "title_en": "UAE Thwarts Iranian Missile, Drone Attacks After Tanker Hit: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:48.303393+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01e1558c4d197a3a",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/040520262",
+    "title": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
+    "title_en": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:42.405832+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f337edf91f9ce62",
+    "url": "https://www.rudaw.net/english/middleeast/040520266",
+    "title": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
+    "title_en": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:36.983325+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd9c0855a4cc610a",
+    "url": "https://www.rudaw.net/english/world/040520262",
+    "title": "US destroyers transit Strait of Hormuz as Washington commits to long-term mine response",
+    "title_en": "US destroyers transit Strait of Hormuz as Washington commits to long-term mine response",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 3,
+    "timestamp": "2026-05-05T07:35:31.076426+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c9f19195049da44",
+    "url": "https://www.rudaw.net/english/middleeast/040520267",
+    "title": "Yazidi survivor reunites with family after 12 years in ISIS captivity",
+    "title_en": "Yazidi survivor reunites with family after 12 years in ISIS captivity",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:25.287727+00:00",
+    "location": {
+      "name": "Ankawa",
+      "lat": 36.2497,
+      "lng": 43.9992
+    }
+  },
+  {
+    "id": "efe6b2cb765a7530",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/040520263",
+    "title": "President Barzani meets Sunni leaders to advance Iraq government formation",
+    "title_en": "President Barzani meets Sunni leaders to advance Iraq government formation",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "breaking": 3,
+    "timestamp": "2026-05-05T07:35:19.970060+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "78709d4fe2bb87ad",
+    "url": "https://www.rudaw.net/english/middleeast/05052026",
+    "title": "US destroyers transit Strait of Hormuz after Iranian barrage: CBS",
+    "title_en": "US destroyers transit Strait of Hormuz after Iranian barrage: CBS",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 3,
+    "timestamp": "2026-05-05T07:35:13.986500+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07f11f4265d3cb8d",
+    "url": "https://www.rudaw.net/english/kurdistan/05052026",
+    "title": "Iranian Kurdish opposition group reports over 70 attacks on its bases: spokesperson",
+    "title_en": "Iranian Kurdish opposition group reports over 70 attacks on its bases: spokesperson",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:07.680358+00:00",
+    "location": {
+      "name": "Bakhtiyari",
+      "lat": 36.2078,
+      "lng": 44.0231
+    }
+  },
+  {
+    "id": "42b603c3ccb2d2a8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/05052026",
+    "title": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
+    "title_en": "Iraq seizes 1M Captagon pills, 100kg of hashish after foiling smuggling attempt",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 1,
+    "timestamp": "2026-05-05T07:35:02.430227+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03a662c52454d78d",
+    "url": "https://www.rudaw.net/english/middleeast/iran/05052026",
+    "title": "Iran accuses US of violating ceasefire in Strait of Hormuz",
+    "title_en": "Iran Accuses US of Violating Ceasefire in Strait of Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "breaking": 3,
+    "timestamp": "2026-05-05T07:34:56.164312+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -249,182 +489,6 @@
     "category": "general",
     "breaking": 3,
     "timestamp": "2026-05-05T00:11:03.202966+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "bab89639610c8207",
-    "url": "https://www.rudaw.net/english/business/04052026",
-    "title": "Kurdistan Region bans food exports amid price, supply concerns",
-    "title_en": "Kurdistan Region bans food exports amid price, supply concerns",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:11:00.271389+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2c80333fb18ea3f9",
-    "url": "https://www.rudaw.net/english/middleeast/040520262",
-    "title": "Syria seeks to expand trade with Iraq: Official",
-    "title_en": "Syria seeks to expand trade with Iraq: Official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:57.210101+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "9c6dee4ac00357cb",
-    "url": "https://www.rudaw.net/english/world/04052026",
-    "title": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
-    "title_en": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:52.896478+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1ebf416e4cb137e2",
-    "url": "https://www.rudaw.net/english/middleeast/040520263",
-    "title": "UAE issues ‘missile’ threat warning following drone attack on Emirati tanker in Hormuz",
-    "title_en": "UAE Issues 'Missile' Threat Warning Following Drone Attack on Emirati Tanker in Hormuz",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:48.300654+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c772d9ec5ee5a5d9",
-    "url": "https://www.rudaw.net/english/middleeast/040520264",
-    "title": "US forces escort ships through Strait of Hormuz amid Iran warnings",
-    "title_en": "US forces escort ships through Strait of Hormuz amid Iran warnings",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 3,
-    "timestamp": "2026-05-05T00:10:45.175586+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "e858d223348f82c4",
-    "url": "https://www.rudaw.net/english/middleeast/040520265",
-    "title": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
-    "title_en": "UAE Thwarts Iranian Missile, Drone Attacks After Tanker Hit: Ministry",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:40.031951+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "01e1558c4d197a3a",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/040520262",
-    "title": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
-    "title_en": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:35.099080+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8f337edf91f9ce62",
-    "url": "https://www.rudaw.net/english/middleeast/040520266",
-    "title": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
-    "title_en": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:29.916883+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cd9c0855a4cc610a",
-    "url": "https://www.rudaw.net/english/world/040520262",
-    "title": "US destroyers transit Strait of Hormuz as Washington commits to long-term mine response",
-    "title_en": "US destroyers transit Strait of Hormuz as Washington commits to long-term mine response",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 3,
-    "timestamp": "2026-05-05T00:10:24.659365+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2c9f19195049da44",
-    "url": "https://www.rudaw.net/english/middleeast/040520267",
-    "title": "Yazidi survivor reunites with family after 12 years in ISIS captivity",
-    "title_en": "Yazidi survivor reunites with family after 12 years in ISIS captivity",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "breaking": 1,
-    "timestamp": "2026-05-05T00:10:21.384521+00:00",
-    "location": {
-      "name": "Ankawa",
-      "lat": 36.2497,
-      "lng": 43.9992
-    }
-  },
-  {
-    "id": "efe6b2cb765a7530",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/040520263",
-    "title": "President Barzani meets Sunni leaders to advance Iraq government formation",
-    "title_en": "President Barzani meets Sunni leaders to advance Iraq government formation",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 3,
-    "timestamp": "2026-05-05T00:10:18.101938+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
