@@ -1,8 +1,9 @@
 """
-Aura-Erbil — AI Enrichment Scraper (Cohere API)
-Free tier: 100 calls/min. Works locally and on GitHub Actions.
-Usage: set COHERE_API_KEY env var, then:
-  python scraper/scraper_cohere.py
+Aura-Erbil — AI Enrichment Scraper (Groq Cloud API)
+Uses the SAME database and JSON export as the main scraper.
+Designed for GitHub Actions CI/CD (24/7 enrichment).
+Run locally: python scraper/scraper_groq.py
+Or via GitHub Actions with secrets.GROQ_API_KEY
 """
 
 import hashlib
@@ -16,21 +17,14 @@ from datetime import datetime, timedelta, timezone
 from urllib import robotparser
 from urllib.parse import urljoin, urlparse
 
-import cohere
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-# ── CONFIG ──────────────────────────────────────────────────────────────────
+# ── CONFIG (identical to main scraper) ───────────────────────────────────────
 BASE_URL          = "https://www.rudaw.net"
 RUDAW_RSS         = "https://www.rudaw.net/rss"
-LIST_PATHS        = [
-    "/english",
-    "/sorani/kurdistan",
-    "/sorani/middleeast",
-    "/sorani/business",
-    "/kurmanci",
-]
+LIST_PATHS        = ["/english", "/sorani", "/kurmanci"]
 USER_AGENT        = "AuraErbilBot/4.0 (monitoring dashboard; non-commercial)"
 DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
@@ -41,11 +35,16 @@ MAX_DELAY         = 5.0
 BACKOFF_BASE      = 2.0
 MAX_BACKOFF       = 60.0
 
-# Cohere configuration
-COHERE_MODEL      = "command-r7b-12-2024"          # or "command-r-plus" if available
-# The client is initialised later with the API key from environment
+# ── GROQ API CONFIG ──────────────────────────────────────────────────────────
+GROQ_API_KEY      = os.environ.get("GROQ_API_KEY", "").strip()
+GROQ_MODEL        = "llama3-8b-8192"
+GROQ_TIMEOUT      = 30
 
-# ── INCIDENT KEYWORDS ───────────────────────────────────────────────────────
+if not GROQ_API_KEY:
+    print("ERROR: GROQ_API_KEY not set. Set environment variable or create .env file")
+    exit(1)
+
+# ── INCIDENT KEYWORDS ────────────────────────────────────────────────────────
 KEYWORDS: dict[str, list[str]] = {
     "security": [
         "تەقینەوە", "ئەمنییەت", "چەکدار", "کوژران", "تیرکردن",
@@ -73,7 +72,7 @@ KEYWORDS: dict[str, list[str]] = {
     ],
 }
 
-# ── ERBIL GEOCODER DICTIONARY ───────────────────────────────────────────────
+# ── ERBIL GEOCODER DICTIONARY ────────────────────────────────────────────────
 LOCATIONS: dict[str, tuple[float, float]] = {
     "100 meter road":    (36.1911, 44.0092),
     "100m road":         (36.1911, 44.0092),
@@ -110,7 +109,7 @@ LOCATIONS: dict[str, tuple[float, float]] = {
     "kurdistan":         (36.1912, 44.0092),
 }
 
-# ── HTTP SESSION + ROBOTS ───────────────────────────────────────────────────
+# ── HTTP SESSION + ROBOTS ────────────────────────────────────────────────────
 session = requests.Session()
 session.headers.update({
     "User-Agent":      USER_AGENT,
@@ -120,36 +119,234 @@ session.headers.update({
 
 _rp = robotparser.RobotFileParser()
 _rp.set_url(urljoin(BASE_URL, "/robots.txt"))
-    # Add columns that might be missing from older DBs
-    for col, col_type in [('title_en','TEXT'),('sentiment','TEXT'),('entities','TEXT')]:
-        try:
-            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
-        except sqlite3.OperationalError:
-            pass
+try:
+    _rp.read()
+    print("  robots.txt loaded")
+except Exception as e:
+    print(f"  robots.txt fetch failed ({e}) — proceeding cautiously")
+
+def _allowed(url: str) -> bool:
+    return _rp.can_fetch(USER_AGENT, url)
+
+def _jitter():
+    time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+
+def _fetch(url: str, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
+    if not _allowed(url):
+        print(f"  [robots.txt] blocked: {url}")
+        return None, None, None
+    headers = {}
+    if etag:
+        headers["If-None-Match"] = etag
+    if last_modified:
+        headers["If-Modified-Since"] = last_modified
+    try:
+        r = session.get(url, headers=headers, timeout=12)
+        if r.status_code == 304:
+            return "NOT_MODIFIED", etag, last_modified
+        if r.status_code == 200:
+            _jitter()
+            return r.text, r.headers.get("ETag"), r.headers.get("Last-Modified")
+        if r.status_code in (429, 500, 502, 503, 504):
+            wait = min(_backoff * BACKOFF_BASE, MAX_BACKOFF)
+            print(f"  [backoff] {r.status_code} → waiting {wait:.1f}s")
+            time.sleep(wait)
+            return _fetch(url, etag, last_modified, _backoff=wait)
+        print(f"  [warn] HTTP {r.status_code}: {url}")
+        _jitter()
+        return None, None, None
+    except requests.RequestException as exc:
+        wait = min(_backoff * BACKOFF_BASE, MAX_BACKOFF)
+        print(f"  [error] {exc} → waiting {wait:.1f}s")
+        time.sleep(wait)
+        return _fetch(url, etag, last_modified, _backoff=wait)
+
+# ── HELPERS ──────────────────────────────────────────────────────────────────
+def _score_breaking(title: str, all_titles: list[str]) -> int:
+    words = set(title.lower().split())
+    score = 1
+    for other in all_titles:
+        if other == title:
+            continue
+        other_words = set(other.lower().split())
+        if len(words & other_words) >= 4:
+            score += 1
+    return min(score, 3)
+
+def _make_id(url: str) -> str:
+    return hashlib.sha256(url.encode()).hexdigest()[:16]
+
+def _now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+def _clean_title(raw: str) -> str:
+    return re.sub(
+        r'^\d+\s+(second|minute|hour|day)s?\s+ago', '',
+        raw or '', flags=re.IGNORECASE
+    ).strip()
+
+def _detect_category(text: str) -> str:
+    t = text.lower()
+    for cat, words in KEYWORDS.items():
+        if any(w.lower() in t for w in words):
+            return cat
+    return "general"
+
+def _detect_location(text: str) -> dict:
+    t = text.lower()
+    for place, (lat, lng) in LOCATIONS.items():
+        if place.lower() in t:
+            return {"name": place.title(), "lat": lat, "lng": lng}
+    return {"name": "Erbil", "lat": 36.1912, "lng": 44.0092}
+
+
+def _geocode_nominatim(query: str):
+    """Return (lat, lng) or (None, None) on failure."""
+    try:
+        url = "https://nominatim.openstreetmap.org/search"
+        params = {"q": query, "format": "json", "limit": 1}
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, params=params, headers=headers, timeout=5)
+        data = resp.json()
+        if data:
+            return float(data[0]["lat"]), float(data[0]["lon"])
+    except Exception:
+        pass
     return None, None
 
 
 def _same_origin(url: str) -> bool:
     return urlparse(url).netloc == urlparse(BASE_URL).netloc
 
-# ── COHERE AI ENRICHMENT ────────────────────────────────────────────────────
-# Initialise Cohere client once (requires COHERE_API_KEY env var)
+# ── GROQ AI ENRICHMENT ───────────────────────────────────────────────────────
+def _enrich_with_groq(title_original: str, summary: str) -> dict:
+    loc_keys = list(LOCATIONS.keys())
+    loc_list_str = ", ".join(loc_keys[:40])
+
+
+    prompt = f"""You are a news enrichment assistant for the Kurdistan region.
+Given the title and body of a news article, perform these tasks:
+1. If the title is in Sorani Kurdish (Arabic script), translate it to English.
+   If it is already in English, return it unchanged.
+2. Classify the article into ONE of these categories:
+   security, fire, traffic, infrastructure, weather, general.
+3. From the list below, pick the single location most specific to the article.
+   If none match, use "erbil".
+4. Determine the overall sentiment of the article: positive, negative, or neutral.
+5. Extract up to 5 named entities (persons, organizations, places) mentioned in the article.
+   For each entity, specify a type: PERSON, ORGANIZATION, or LOCATION.
+
+Available locations: {loc_list_str}
+
+Return ONLY a valid JSON object with exactly these keys:
+title_en, category, location_key, sentiment, entities
+
+Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, ...]
+
+Title: {title_original}
+Body: {summary[:500]}"""
+
+    try:
+        from groq import Groq
+        client = Groq(api_key=GROQ_API_KEY)
+        response = client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,
+            max_tokens=200,
+        )
+        raw = response.choices[0].message.content
+        match = re.search(r'\{.*\}', raw, re.DOTALL)
+        if not match:
+            raise ValueError("No JSON found in Groq response")
+        data = json.loads(match.group())
+    except Exception as e:
+        print(f"  [groq] AI call failed ({e}), falling back to keyword defaults")
+        loc = _detect_location(title_original + " " + summary)
+        return {
+            "title_en": title_original,
+            "category": _detect_category(title_original + " " + summary),
+            "loc_name": loc["name"],
+            "lat": loc["lat"],
+            "lng": loc["lng"],
+        }
+
+    valid_cats = set(KEYWORDS.keys()) | {"general"}
+    cat = data.get("category", "general")
+    if cat not in valid_cats:
+        cat = "general"
+
+    loc_key = data.get("location_key", "").strip().lower()
+    if loc_key in LOCATIONS:
+        lat, lng = LOCATIONS[loc_key]
+        loc_name = loc_key.title()
+    else:
+        # Try Nominatim as fallback
+        lat, lng = _geocode_nominatim(loc_key)
+        loc_name = loc_key.title() if lat else "Erbil"
+        if not lat:
+            lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092))
+
+
+
+    title_en = data.get("title_en", title_original).strip()
+    if not title_en:
+        title_en = title_original
+
+    # Sentiment
+    sentiment = data.get("sentiment", "").strip().lower()
+    if sentiment not in ("positive", "negative", "neutral"):
+        sentiment = "neutral"
+
+    # Entities – ensure list of dicts
+    entities = data.get("entities", [])
+    if not isinstance(entities, list):
+        entities = []
+    cleaned_entities = []
+    for ent in entities:
+        if isinstance(ent, dict) and "name" in ent and "type" in ent:
+            cleaned_entities.append({"name": ent["name"], "type": ent["type"]})
+
+    return {
+        "title_en": title_en,
+        "category": cat,
+        "loc_name": loc_name,
+        "lat": lat,
+        "lng": lng,
+        "sentiment": sentiment,
+        "entities": cleaned_entities,
+    }
+
+
+# ── DATABASE (adds title_en column automatically) ────────────────────────────
+def _ensure_db():
+    os.makedirs("data", exist_ok=True)
+    conn = sqlite3.connect(DB_PATH)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS articles (
+            id            TEXT PRIMARY KEY,
+            url           TEXT UNIQUE NOT NULL,
+            title         TEXT,
+            title_en      TEXT,
+            summary       TEXT,
+            source        TEXT,
+            category      TEXT,
+            loc_name      TEXT,
+            lat           REAL,
+            lng           REAL,
+            published_at  TEXT,
+            fetched_at    TEXT,
+            etag          TEXT,
+            last_modified TEXT,
+            breaking      INTEGER DEFAULT 1
+        )
+    """)
     # Add columns that might be missing from older DBs
     for col, col_type in [('title_en','TEXT'),('sentiment','TEXT'),('entities','TEXT')]:
         try:
             conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
         except sqlite3.OperationalError:
             pass
-
-    # Add sentiment and entities columns if missing
-    for col, col_type in [("sentiment", "TEXT"), ("entities", "TEXT")]:
-    # Add columns that might be missing from older DBs
-    for col, col_type in [('title_en','TEXT'),('sentiment','TEXT'),('entities','TEXT')]:
-        try:
-            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
-        except sqlite3.OperationalError:
-            pass
-
     conn.commit()
     conn.close()
 
@@ -197,10 +394,10 @@ def _export_json(conn):
             "summary":   r["summary"],
             "source":    r["source"],
             "category":  r["category"],
-            "sentiment": (r["sentiment"] or "neutral"),
-            "entities": json.loads(r["entities"] or "[]"),
             "breaking":  _score_breaking(r["title"] or "", all_titles),
             "timestamp": r["published_at"],
+            "sentiment": (r["sentiment"] or "neutral"),
+            "entities": json.loads(r["entities"] or "[]"),
             "location": {
                 "name": r["loc_name"],
                 "lat":  r["lat"],
@@ -211,18 +408,177 @@ def _export_json(conn):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"  Exported {len(records)} records → {JSON_EXPORT}")
 
-# ── MAIN INGEST (with Cohere) ───────────────────────────────────────────────
+# ── INGEST LOGIC (with Groq AI) ──────────────────────────────────────────────
 def _run():
-    print("=== Aura-Erbil AI Scraper (Cohere API) ===")
+    print("=== Aura-Erbil AI Scraper (Groq) ===")
     _ensure_db()
     conn = _connect()
 
     # RSS
     print("→ RSS feed …")
     added = 0
-    # Add columns that might be missing from older DBs
-    for col, col_type in [('title_en','TEXT'),('sentiment','TEXT'),('entities','TEXT')]:
+    try:
+        feed = feedparser.parse(RUDAW_RSS)
+        for entry in feed.entries:
+            url   = entry.get("link", "")
+            title = _clean_title(entry.get("title", "").strip())
+            if not url or not title:
+                continue
+            summary = BeautifulSoup(
+                entry.get("summary", ""), "lxml"
+            ).get_text(" ", strip=True)[:300]
+            pub_parsed = entry.get("published_parsed")
+            pub = datetime(*pub_parsed[:6], tzinfo=timezone.utc).isoformat() if pub_parsed else _now_iso()
+
+            enrichment = _enrich_with_groq(title, summary) if (title or summary) else {
+                "title_en": title, "category": "general",
+                "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
+            }
+
+            _db_upsert(conn, {
+                "id": _make_id(url), "url": url, "title": title,
+                "title_en": enrichment["title_en"],
+                "summary": summary, "source": "rudaw-rss",
+                "category": enrichment["category"],
+                "loc_name": enrichment["loc_name"],
+                "lat": enrichment["lat"], "lng": enrichment["lng"],
+                "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
+                "sentiment": enrichment.get("sentiment", "neutral"),
+                "entities": json.dumps(enrichment.get("entities", [])),
+            })
+            added += 1
+            if added % 5 == 0:
+                time.sleep(1)
+        print(f"  RSS: processed {added} entries")
+    except Exception as exc:
+        print(f"  RSS error: {exc}")
+
+    # Scrape fallback
+    if added == 0:
+        print("  RSS returned nothing — triggering scrape fallback …")
+        queue   = [urljoin(BASE_URL, p) for p in LIST_PATHS]
+        visited = set()
+        pages   = 0
+        while queue and pages < MAX_PAGES_PER_RUN:
+            url = queue.pop(0)
+            if url in visited:
+                continue
+            visited.add(url)
+            if any(url.rstrip("/").endswith(p.rstrip("/")) for p in LIST_PATHS):
+                html, _, _ = _fetch(url)
+                if not html:
+                    continue
+                pages += 1
+                soup = BeautifulSoup(html, "lxml")
+                for a in soup.select("a[href]"):
+                    href = a["href"]
+                    full = urljoin(BASE_URL, href)
+                    text = _clean_title(a.get_text(strip=True))
+                    if (
+                        _same_origin(full)
+                        and ("/english/" in full or "/sorani/" in full or "/kurmanci/" in full)
+                        and len(text) > 20
+                    ):
+                        queue.append(full)
+                continue
+            # article page
+            etag, lm = conn.execute(
+                "SELECT etag, last_modified FROM articles WHERE url=?", (url,)
+            ).fetchone() or (None, None)
+            html, new_etag, new_lm = _fetch(url, etag, lm)
+            pages += 1
+            if html in (None, "NOT_MODIFIED"):
+                continue
+            soup = BeautifulSoup(html, "lxml")
+            h1 = soup.find("h1")
+            title = _clean_title(h1.get_text(strip=True) if h1 else "")
+            if not title:
+                continue
+            time_tag = soup.find("time")
+            pub = time_tag["datetime"] if time_tag and time_tag.get("datetime") else _now_iso()
+            paras = [p.get_text(" ", strip=True) for p in soup.select("article p, .article-body p")]
+            summary = " ".join(paras)[:300] if paras else ""
+            enrichment = _enrich_with_groq(title, summary) if title else {
+                "title_en": title, "category": "general",
+                "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
+                "sentiment": "neutral",
+                "entities": [],
+            }
+            _db_upsert(conn, {
+                "id": _make_id(url), "url": url, "title": title,
+                "title_en": enrichment["title_en"],
+                "summary": summary, "source": "rudaw-scrape",
+                "category": enrichment["category"],
+                "loc_name": enrichment["loc_name"],
+                "lat": enrichment["lat"], "lng": enrichment["lng"],
+                "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
+                "sentiment": enrichment.get("sentiment", "neutral"),
+                "entities": json.dumps(enrichment.get("entities", [])),
+            })
+            added += 1
+            print(f"  [saved] {title[:70]}")
+            if added % 3 == 0:
+                time.sleep(1)
+        print(f"  Scrape: {added} new articles ({pages} pages fetched)")
+
+    _db_prune(conn)
+    _export_json(conn)
+    conn.close()
+    print("=== Done ===")
+
+if __name__ == "__main__":
+    _run()
+
+
+
+def _scrape_gavtv(conn):
+    import random
+    session = requests.Session()
+    session.headers.update({"User-Agent": USER_AGENT})
+    added = 0
+    visited = set()
+    for page in range(0, 3):
+        url = "https://www.gavtv.net/en" if page == 0 else f"https://www.gavtv.net/en?page={page}"
         try:
-            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
-        except sqlite3.OperationalError:
-            pass
+            r = session.get(url, timeout=15)
+            r.raise_for_status()
+        except Exception as e:
+            print(f"  [gavtv] listing failed: {e}")
+            break
+        soup = BeautifulSoup(r.text, "html.parser")
+        links = soup.select("div.views-field-title span.field-content a")
+        for a in links:
+            href = a.get("href", "")
+            if not href.startswith("/en/"):
+                continue
+            article_url = "https://www.gavtv.net" + href
+            if article_url in visited:
+                continue
+            visited.add(article_url)
+            if conn.execute("SELECT id FROM articles WHERE url=?", (article_url,)).fetchone():
+                continue
+            time.sleep(random.uniform(2, 4))
+            try:
+                ar = session.get(article_url, timeout=15)
+                ar.raise_for_status()
+            except Exception as e:
+                print(f"  [gavtv] article failed: {e}")
+                continue
+            asoup = BeautifulSoup(ar.text, "html.parser")
+            og = asoup.find("meta", property="og:title")
+            title = og["content"].strip() if og else ""
+            if not title:
+                continue
+            date_div = asoup.select_one("div.field--name-node-post-date")
+            try:
+                pub = datetime.strptime(date_div.get_text(strip=True), "%m/%d/%Y - %H:%M").replace(tzinfo=timezone.utc).isoformat() if date_div else _now_iso()
+            except ValueError:
+                pub = _now_iso()
+            body = asoup.select_one("div.field--name-body")
+            summary = body.get_text(" ", strip=True)[:300] if body else ""
+            enrichment = _enrich_with_ai(title, summary) if title else {"title_en": title, "category": "general", "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092}
+            _db_upsert(conn, {"id": _make_id(article_url), "url": article_url, "title": title, "title_en": enrichment["title_en"], "summary": summary, "source": "gavtv", "category": enrichment["category"], "loc_name": enrichment["loc_name"], "lat": enrichment["lat"], "lng": enrichment["lng"], "published_at": pub, "fetched_at": _now_iso(), "breaking": 0})
+            added += 1
+            print(f"  [gavtv] {title[:70]}")
+        time.sleep(3)
+    print(f"  GAV TV: {added} new articles")
