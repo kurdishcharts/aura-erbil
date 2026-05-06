@@ -475,6 +475,7 @@ def _run():
                 time.sleep(1)
         print(f"  Scrape: {added} new articles ({pages} pages fetched)")
 
+    _scrape_gavtv(conn)
     _db_prune(conn)
     _export_json(conn)
     conn.close()
