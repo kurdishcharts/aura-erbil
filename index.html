@@ -1,382 +1,407 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Secret Quant — Crypto Trading</title>
-<meta name="description" content="Systematic crypto trading. The full site is coming."/>
-<link rel="preconnect" href="https://fonts.googleapis.com"/>
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech+Mono&display=swap" rel="stylesheet"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="1800">
+<title>Aura · Erbil Intelligence Feed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
-
+*{margin:0;padding:0;box-sizing:border-box}
 :root{
-  --hot:#FF3D00;
-  --mid:#FF7300;
-  --warm:#FFAA00;
-  --coal:#050505;
-  --ash:#0e0e0e;
-  --text:#EBEBEB;
-  --muted:rgba(255,255,255,0.28);
+  --bg:#080c12;
+  --surface:#0f1520;
+  --surface2:#161e2e;
+  --border:#1e2d45;
+  --border2:#2a3d5a;
+  --text:#e8edf5;
+  --muted:#6b7f9a;
+  --dim:#3d5070;
+  --amber:#f0a030;
+  --amber2:#c47d18;
+  --blue:#3d8ef0;
+  --green:#2ecc8a;
+  --red:#e05050;
+  --purple:#8b6bf0;
+  --teal:#20c0c0;
+  --orange:#e07830;
 }
+html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;overflow:hidden}
 
-html,body{
-  width:100%;height:100%;
-  overflow:hidden;
-  background:var(--coal);
-  color:var(--text);
-  font-family:'Share Tech Mono','Courier New',monospace;
-  cursor:crosshair;
-}
+/* LAYOUT */
+.shell{display:grid;grid-template-rows:52px 1fr;height:100vh}
+.main{display:grid;grid-template-columns:360px 1fr;height:calc(100vh - 52px);overflow:hidden}
 
-#fire-canvas{
-  position:fixed;inset:0;
-  width:100%;height:100%;
-  pointer-events:none;z-index:0;
-}
+/* HEADER */
+header{display:flex;align-items:center;gap:16px;padding:0 20px;background:var(--surface);border-bottom:1px solid var(--border);z-index:100}
+.logo{font-family:'Syne',sans-serif;font-weight:700;font-size:18px;color:var(--amber);letter-spacing:0.05em;white-space:nowrap}
+.logo span{color:var(--muted);font-weight:400;font-size:12px;margin-left:8px;letter-spacing:0.1em}
+.live-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 6px var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.4}}
+.search-wrap{flex:1;position:relative;max-width:340px}
+.search-wrap input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:7px 12px 7px 34px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:13px;outline:none;transition:border 0.2s}
+.search-wrap input:focus{border-color:var(--amber2)}
+.search-wrap input::placeholder{color:var(--dim)}
+.search-icon{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:14px;pointer-events:none}
+.header-right{margin-left:auto;display:flex;align-items:center;gap:16px}
+.last-updated{font-family:'DM Mono',monospace;font-size:11px;color:var(--muted)}
+.stat-pill{background:var(--surface2);border:1px solid var(--border);border-radius:20px;padding:4px 12px;font-family:'DM Mono',monospace;font-size:11px;color:var(--amber)}
 
-#grid{
-  position:fixed;inset:0;pointer-events:none;z-index:1;
-  background-image:
-    linear-gradient(rgba(255,115,0,0.045) 1px,transparent 1px),
-    linear-gradient(90deg,rgba(255,115,0,0.045) 1px,transparent 1px);
-  background-size:60px 60px;
-  animation:gridpulse 9s ease-in-out infinite;
-}
-@keyframes gridpulse{0%,100%{opacity:1;}50%{opacity:0.4;}}
+/* LEFT PANEL */
+.left-panel{display:flex;flex-direction:column;background:var(--surface);border-right:1px solid var(--border);overflow:hidden}
+.filters{display:flex;gap:6px;padding:12px 14px;border-bottom:1px solid var(--border);flex-wrap:wrap;flex-shrink:0}
+.filter-btn{background:transparent;border:1px solid var(--border2);border-radius:4px;padding:4px 10px;color:var(--muted);font-family:'DM Mono',monospace;font-size:11px;cursor:pointer;transition:all 0.15s;white-space:nowrap}
+.filter-btn:hover{border-color:var(--amber2);color:var(--amber)}
+.filter-btn.active{background:var(--amber2);border-color:var(--amber2);color:#000;font-weight:500}
+.article-list{flex:1;overflow-y:auto;padding:8px 0}
+.article-list::-webkit-scrollbar{width:4px}
+.article-list::-webkit-scrollbar-track{background:transparent}
+.article-list::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
+.article-item{padding:10px 14px;border-bottom:1px solid var(--border);cursor:pointer;transition:background 0.15s;position:relative}
+.article-item:hover{background:var(--surface2)}
+.article-item.breaking::before{content:'';position:absolute;left:0;top:0;bottom:0;width:2px;background:var(--red)}
+.article-title{font-size:13px;font-weight:400;color:var(--text);line-height:1.4;margin-bottom:5px}
+.article-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.article-source{font-family:'DM Mono',monospace;font-size:10px;color:var(--amber);text-transform:uppercase;letter-spacing:0.05em}
+.article-time{font-family:'DM Mono',monospace;font-size:10px;color:var(--dim)}
+.article-cat{font-family:'DM Mono',monospace;font-size:10px;padding:2px 6px;border-radius:3px;border:1px solid}
+.no-results{padding:32px 14px;text-align:center;color:var(--dim);font-size:13px}
 
-#vignette{
-  position:fixed;inset:0;pointer-events:none;z-index:2;
-  background:radial-gradient(ellipse 90% 80% at 50% 50%,transparent 35%,rgba(5,5,5,0.88) 100%);
-}
+/* RIGHT PANEL */
+.right-panel{display:flex;flex-direction:column;overflow:hidden}
+.map-wrap{position:relative;flex:1;min-height:0}
+#map{width:100%;height:100%}
+.charts-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1px;background:var(--border);height:200px;flex-shrink:0}
+.chart-box{background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:8px;overflow:hidden}
+.chart-label{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em}
+.chart-canvas-wrap{position:relative;flex:1;min-height:0}
 
-#scan{
-  position:fixed;left:0;right:0;height:2px;
-  background:linear-gradient(90deg,transparent,rgba(255,115,0,0.2),transparent);
-  z-index:3;pointer-events:none;top:-2px;
-  animation:scanmove 7s linear infinite;
-}
-@keyframes scanmove{0%{top:-2px;}100%{top:100vh;}}
+/* CATEGORY COLORS */
+.cat-security{color:var(--red);border-color:var(--red)}
+.cat-traffic{color:var(--orange);border-color:var(--orange)}
+.cat-fire{color:var(--orange);border-color:var(--orange)}
+.cat-infrastructure{color:var(--blue);border-color:var(--blue)}
+.cat-weather{color:var(--teal);border-color:var(--teal)}
+.cat-general{color:var(--dim);border-color:var(--dim)}
+.cat-politics{color:var(--purple);border-color:var(--purple)}
+.cat-economy{color:var(--green);border-color:var(--green)}
 
-.ticker-wrap{
-  position:fixed;left:0;right:0;overflow:hidden;
-  z-index:10;height:30px;display:flex;align-items:center;
-  background:rgba(5,5,5,0.75);backdrop-filter:blur(6px);
-}
-.ticker-wrap.top{top:0;border-bottom:1px solid rgba(255,115,0,0.18);}
-.ticker-wrap.bot{bottom:0;border-top:1px solid rgba(255,115,0,0.18);}
-.ticker-track{display:flex;white-space:nowrap;will-change:transform;}
-.ticker-wrap.top .ticker-track{animation:tickL 30s linear infinite;}
-.ticker-wrap.bot .ticker-track{animation:tickR 24s linear infinite;}
-@keyframes tickL{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
-@keyframes tickR{0%{transform:translateX(-50%);}100%{transform:translateX(0);}}
-.t-item{font-size:9px;letter-spacing:0.24em;text-transform:uppercase;color:var(--muted);padding:0 2rem;}
-.t-item em{color:var(--mid);font-style:normal;margin-right:0.4rem;}
+/* POPUP */
+.leaflet-popup-content-wrapper{background:var(--surface2);border:1px solid var(--border2);border-radius:6px;box-shadow:0 4px 20px rgba(0,0,0,0.5);color:var(--text)}
+.leaflet-popup-tip{background:var(--surface2)}
+.popup-title{font-size:12px;font-weight:500;line-height:1.4;margin-bottom:6px;color:var(--text)}
+.popup-meta{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted)}
+.popup-link{display:inline-block;margin-top:6px;font-family:'DM Mono',monospace;font-size:10px;color:var(--amber);text-decoration:none}
 
-.corner{position:fixed;width:20px;height:20px;z-index:10;pointer-events:none;}
-.corner.tl{top:36px;left:14px;border-top:1px solid var(--mid);border-left:1px solid var(--mid);}
-.corner.tr{top:36px;right:14px;border-top:1px solid var(--mid);border-right:1px solid var(--mid);}
-.corner.bl{bottom:36px;left:14px;border-bottom:1px solid var(--mid);border-left:1px solid var(--mid);}
-.corner.br{bottom:36px;right:14px;border-bottom:1px solid var(--mid);border-right:1px solid var(--mid);}
+/* LOADING */
+.loading{display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);font-family:'DM Mono',monospace;font-size:12px;flex-direction:column;gap:12px}
+.spinner{width:24px;height:24px;border:2px solid var(--border2);border-top-color:var(--amber);border-radius:50%;animation:spin 0.8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
 
-.side{
-  position:fixed;top:50%;pointer-events:none;z-index:10;
-  font-size:8px;letter-spacing:0.32em;text-transform:uppercase;
-  color:rgba(255,115,0,0.18);white-space:nowrap;
-}
-.side.l{left:-40px;transform:translateY(-50%) rotate(-90deg);}
-.side.r{right:-40px;transform:translateY(-50%) rotate(90deg);}
-
-#stage{
-  position:fixed;inset:0;
-  display:flex;flex-direction:column;
-  align-items:center;justify-content:center;
-  z-index:20;padding:52px 2rem;gap:0;
-}
-
-.status-row{
-  display:flex;align-items:center;gap:1rem;
-  margin-bottom:2.2rem;
-  animation:rise 1.2s ease both;
-}
-.pulse-dot{
-  width:7px;height:7px;border-radius:50%;
-  background:var(--hot);box-shadow:0 0 8px var(--hot);
-  animation:pulsedot 2s ease-in-out infinite;
-}
-@keyframes pulsedot{
-  0%,100%{box-shadow:0 0 6px var(--hot);opacity:1;}
-  50%{box-shadow:0 0 20px var(--hot),0 0 36px rgba(255,61,0,0.3);opacity:0.65;}
-}
-.status-txt{font-size:9px;letter-spacing:0.3em;text-transform:uppercase;color:var(--hot);}
-.status-line{width:36px;height:1px;background:linear-gradient(90deg,var(--hot),transparent);}
-
-.hero-name{
-  font-family:'Bebas Neue',sans-serif;
-  font-size:clamp(76px,18vw,196px);
-  line-height:0.88;letter-spacing:0.03em;text-align:center;
-  animation:rise 1.4s ease 0.15s both;
-}
-.name-fire{
-  display:block;
-  background:linear-gradient(108deg,var(--hot) 0%,var(--mid) 38%,var(--warm) 72%,var(--mid) 100%);
-  background-size:200% 100%;
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
-  animation:fireshift 4s ease-in-out infinite alternate, flicker 8s ease-in-out infinite;
-}
-.name-ghost{
-  display:block;
-  -webkit-text-fill-color:transparent;
-  -webkit-text-stroke:1px rgba(255,115,0,0.28);
-}
-@keyframes fireshift{0%{background-position:0% 0%;}100%{background-position:100% 0%;}}
-@keyframes flicker{
-  0%,100%{opacity:1;}46%{opacity:1;}50%{opacity:0.82;}54%{opacity:1;}
-  74%{opacity:1;}77%{opacity:0.9;}80%{opacity:1;}
-}
-
-.fire-rule{
-  width:clamp(100px,26vw,300px);height:1px;margin:1.5rem 0;
-  background:linear-gradient(90deg,transparent,var(--hot),var(--warm),var(--hot),transparent);
-  background-size:200% 100%;
-  animation:ruleflow 3s linear infinite, rise 1.4s ease 0.4s both;
-}
-@keyframes ruleflow{0%{background-position:0%;}100%{background-position:200%;}}
-
-.tagline{
-  font-size:clamp(9px,1.3vw,12px);letter-spacing:0.24em;
-  text-transform:uppercase;color:var(--muted);
-  text-align:center;max-width:380px;line-height:2.1;
-  animation:rise 1.4s ease 0.6s both;
-}
-
-.countdown{
-  margin-top:2.2rem;display:flex;
-  gap:clamp(0.8rem,2.5vw,2rem);align-items:flex-start;
-  animation:rise 1.4s ease 0.8s both;
-}
-.cb{text-align:center;min-width:52px;}
-.cn{
-  font-family:'Bebas Neue',sans-serif;
-  font-size:clamp(40px,7vw,68px);color:var(--warm);
-  line-height:1;letter-spacing:0.06em;display:block;
-}
-.cl{
-  font-size:8px;letter-spacing:0.24em;text-transform:uppercase;
-  color:rgba(255,115,0,0.38);display:block;margin-top:0.25rem;
-}
-.csep{
-  font-family:'Bebas Neue',sans-serif;
-  font-size:clamp(40px,7vw,68px);
-  color:rgba(255,115,0,0.18);line-height:1;
-}
-
-#clock{
-  font-size:10px;letter-spacing:0.2em;
-  color:rgba(255,115,0,0.28);margin-top:0.5rem;
-  animation:rise 1.4s ease 0.95s both;
-}
-
-.cta-row{
-  margin-top:2.2rem;display:flex;gap:1rem;flex-wrap:wrap;
-  justify-content:center;animation:rise 1.4s ease 1.05s both;
-}
-.btn-fire{
-  display:inline-flex;align-items:center;gap:0.55rem;
-  padding:0.85rem 2.1rem;background:var(--hot);color:#fff;
-  font-family:'Share Tech Mono',monospace;font-size:9px;
-  letter-spacing:0.24em;text-transform:uppercase;
-  text-decoration:none;border:none;cursor:pointer;
-  transition:background 0.2s,transform 0.15s,box-shadow 0.2s;
-  position:relative;overflow:hidden;
-}
-.btn-fire::before{
-  content:'';position:absolute;inset:0;
-  background:linear-gradient(90deg,transparent,rgba(255,255,255,0.14),transparent);
-  transform:translateX(-100%);transition:transform 0.42s;
-}
-.btn-fire:hover::before{transform:translateX(100%);}
-.btn-fire:hover{background:var(--mid);transform:translateY(-2px);box-shadow:0 8px 30px rgba(255,61,0,0.32);}
-.btn-ghost{
-  display:inline-flex;align-items:center;gap:0.55rem;
-  padding:0.85rem 2.1rem;background:transparent;color:var(--mid);
-  font-family:'Share Tech Mono',monospace;font-size:9px;
-  letter-spacing:0.24em;text-transform:uppercase;
-  text-decoration:none;border:1px solid rgba(255,115,0,0.32);cursor:pointer;
-  transition:border-color 0.2s,background 0.2s,transform 0.15s;
-}
-.btn-ghost:hover{border-color:var(--mid);background:rgba(255,115,0,0.07);transform:translateY(-2px);}
-
-@keyframes rise{from{opacity:0;transform:translateY(16px);}to{opacity:1;transform:translateY(0);}}
-
-@media(max-width:560px){
-  .side{display:none;}
-  .countdown{gap:0.7rem;}
-  .cta-row{flex-direction:column;align-items:center;}
-  .btn-fire,.btn-ghost{width:220px;justify-content:center;}
+/* MOBILE */
+@media(max-width:768px){
+  html,body{overflow:auto}
+  .shell{grid-template-rows:auto auto}
+  .main{grid-template-columns:1fr;grid-template-rows:auto 300px 200px;height:auto}
+  .map-wrap{height:300px}
+  .charts-row{grid-template-columns:1fr;height:auto}
+  .chart-box{height:160px}
+  header{flex-wrap:wrap;height:auto;padding:10px}
+  .header-right{width:100%}
 }
 </style>
 </head>
 <body>
+<div class="shell">
 
-<canvas id="fire-canvas"></canvas>
-<div id="grid"></div>
-<div id="vignette"></div>
-<div id="scan"></div>
+<header>
+  <div class="logo">AURA <span>ERBIL / KRI</span></div>
+  <div class="live-dot" title="Live feed"></div>
+  <div class="search-wrap">
+    <span class="search-icon">⌕</span>
+    <input type="text" id="searchInput" placeholder="Search headlines…" autocomplete="off">
+  </div>
+  <div class="header-right">
+    <div class="stat-pill" id="articleCount">— articles</div>
+    <div class="last-updated" id="lastUpdated">loading…</div>
+  </div>
+</header>
 
-<div class="corner tl"></div>
-<div class="corner tr"></div>
-<div class="corner bl"></div>
-<div class="corner br"></div>
-<div class="side l">Quant Trading &nbsp;·&nbsp; Crypto Markets &nbsp;·&nbsp; Systematic Strategy</div>
-<div class="side r">Risk Adjusted Returns &nbsp;·&nbsp; Data Driven &nbsp;·&nbsp; High Conviction</div>
+<div class="main">
 
-<div class="ticker-wrap top"><div class="ticker-track">
-  <div class="t-item"><em>▸</em>Systematic Trading</div><div class="t-item"><em>▸</em>Crypto Quant</div>
-  <div class="t-item"><em>▸</em>Algo Strategies</div><div class="t-item"><em>▸</em>Risk Management</div>
-  <div class="t-item"><em>▸</em>Market Structure</div><div class="t-item"><em>▸</em>Edge Discovery</div>
-  <div class="t-item"><em>▸</em>Capital Efficiency</div><div class="t-item"><em>▸</em>Drawdown Control</div>
-  <div class="t-item"><em>▸</em>Backtesting Mastery</div><div class="t-item"><em>▸</em>Live Execution</div>
-  <div class="t-item"><em>▸</em>Position Sizing</div><div class="t-item"><em>▸</em>Volatility Models</div>
-  <div class="t-item"><em>▸</em>Systematic Trading</div><div class="t-item"><em>▸</em>Crypto Quant</div>
-  <div class="t-item"><em>▸</em>Algo Strategies</div><div class="t-item"><em>▸</em>Risk Management</div>
-  <div class="t-item"><em>▸</em>Market Structure</div><div class="t-item"><em>▸</em>Edge Discovery</div>
-  <div class="t-item"><em>▸</em>Capital Efficiency</div><div class="t-item"><em>▸</em>Drawdown Control</div>
-  <div class="t-item"><em>▸</em>Backtesting Mastery</div><div class="t-item"><em>▸</em>Live Execution</div>
-  <div class="t-item"><em>▸</em>Position Sizing</div><div class="t-item"><em>▸</em>Volatility Models</div>
-</div></div>
-
-<div class="ticker-wrap bot"><div class="ticker-track">
-  <div class="t-item"><em>◆</em>BTC · ETH · SOL · USDT</div>
-  <div class="t-item"><em>◆</em>High Frequency · Swing · Trend</div>
-  <div class="t-item"><em>◆</em>Funded &amp; Independent</div>
-  <div class="t-item"><em>◆</em>No Guessing. Only Data.</div>
-  <div class="t-item"><em>◆</em>1-on-1 Consultation Available</div>
-  <div class="t-item"><em>◆</em>Premium Course Coming</div>
-  <div class="t-item"><em>◆</em>Crypto-Only Payment</div>
-  <div class="t-item"><em>◆</em>Follow @secretquant on X</div>
-  <div class="t-item"><em>◆</em>BTC · ETH · SOL · USDT</div>
-  <div class="t-item"><em>◆</em>High Frequency · Swing · Trend</div>
-  <div class="t-item"><em>◆</em>Funded &amp; Independent</div>
-  <div class="t-item"><em>◆</em>No Guessing. Only Data.</div>
-  <div class="t-item"><em>◆</em>1-on-1 Consultation Available</div>
-  <div class="t-item"><em>◆</em>Premium Course Coming</div>
-  <div class="t-item"><em>◆</em>Crypto-Only Payment</div>
-  <div class="t-item"><em>◆</em>Follow @secretquant on X</div>
-</div></div>
-
-<div id="stage">
-
-  <div class="status-row">
-    <div class="status-line" style="transform:scaleX(-1)"></div>
-    <div class="pulse-dot"></div>
-    <div class="status-txt">Site Launching Soon</div>
-    <div class="pulse-dot"></div>
-    <div class="status-line"></div>
+  <div class="left-panel">
+    <div class="filters" id="filterBar">
+      <button class="filter-btn active" data-cat="all">ALL</button>
+      <button class="filter-btn" data-cat="security">SECURITY</button>
+      <button class="filter-btn" data-cat="politics">POLITICS</button>
+      <button class="filter-btn" data-cat="economy">ECONOMY</button>
+      <button class="filter-btn" data-cat="infrastructure">INFRA</button>
+      <button class="filter-btn" data-cat="traffic">TRAFFIC</button>
+      <button class="filter-btn" data-cat="weather">WEATHER</button>
+      <button class="filter-btn" data-cat="general">GENERAL</button>
+    </div>
+    <div class="article-list" id="articleList">
+      <div class="loading"><div class="spinner"></div><span>Loading feed…</span></div>
+    </div>
   </div>
 
-  <h1 class="hero-name">
-    <span class="name-fire">Secret Quant</span>
-    <span class="name-ghost">Crypto Markets</span>
-  </h1>
-
-  <div class="fire-rule"></div>
-
-  <p class="tagline">
-    Quant Trading &nbsp;·&nbsp; Crypto Markets<br/>
-    The full site is being built.<br/>
-    Something serious is coming.
-  </p>
-
-  <div class="countdown">
-    <div class="cb"><span class="cn" id="cd-d">00</span><span class="cl">Days</span></div>
-    <div class="csep">:</div>
-    <div class="cb"><span class="cn" id="cd-h">00</span><span class="cl">Hrs</span></div>
-    <div class="csep">:</div>
-    <div class="cb"><span class="cn" id="cd-m">00</span><span class="cl">Min</span></div>
-    <div class="csep">:</div>
-    <div class="cb"><span class="cn" id="cd-s">00</span><span class="cl">Sec</span></div>
-  </div>
-
-  <div id="clock">UTC — : — : —</div>
-
-  <div class="cta-row">
-    <a href="https://x.com/secretquant" target="_blank" rel="noopener noreferrer" class="btn-fire">Follow on X &nbsp;↗</a>
-    <a href="mailto:deltaquant33@protonmail.com" class="btn-ghost">Contact Me &nbsp;→</a>
+  <div class="right-panel">
+    <div class="map-wrap">
+      <div id="map"></div>
+    </div>
+    <div class="charts-row">
+      <div class="chart-box">
+        <div class="chart-label">Categories</div>
+        <div class="chart-canvas-wrap">
+          <canvas id="catChart" role="img" aria-label="Donut chart showing article counts by category">Article category distribution</canvas>
+        </div>
+      </div>
+      <div class="chart-box">
+        <div class="chart-label">Volume · 7 Days</div>
+        <div class="chart-canvas-wrap">
+          <canvas id="volChart" role="img" aria-label="Line chart showing article volume over the last 7 days">Article volume over time</canvas>
+        </div>
+      </div>
+      <div class="chart-box">
+        <div class="chart-label">Sources</div>
+        <div class="chart-canvas-wrap">
+          <canvas id="srcChart" role="img" aria-label="Bar chart showing article count by source">Articles by source</canvas>
+        </div>
+      </div>
+    </div>
   </div>
 
 </div>
+</div>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
-(function(){
-  const cv=document.getElementById('fire-canvas'),ctx=cv.getContext('2d');
-  let W,H;
-  function resize(){W=cv.width=window.innerWidth;H=cv.height=window.innerHeight;}
-  resize();window.addEventListener('resize',resize);
-  const COLS=[[255,61,0],[255,90,0],[255,115,0],[255,140,0],[255,165,0],[255,195,25]];
-  function mkP(init){
-    return{
-      x:Math.random()*W,
-      y:init?Math.random()*H:H+8,
-      vx:(Math.random()-0.5)*0.65,
-      vy:-(Math.random()*1.3+0.45),
-      life:0,
-      max:Math.random()*190+90,
-      r:Math.random()*2.6+0.4,
-      ci:Math.floor(Math.random()*COLS.length)
-    };
+let allArticles = [];
+let activeFilter = 'all';
+let activeSearch = '';
+let map, markers = [];
+let catChart, volChart, srcChart;
+
+const CAT_COLORS = {
+  security:'#e05050', traffic:'#e07830', fire:'#e07830',
+  infrastructure:'#3d8ef0', weather:'#20c0c0', general:'#3d5070',
+  politics:'#8b6bf0', economy:'#2ecc8a', default:'#3d5070'
+};
+
+function catColor(c){ return CAT_COLORS[c] || CAT_COLORS.default; }
+
+function timeAgo(iso){
+  if(!iso) return '';
+  const diff = Date.now() - new Date(iso).getTime();
+  const m = Math.floor(diff/60000);
+  if(m < 1) return 'just now';
+  if(m < 60) return m+'m ago';
+  const h = Math.floor(m/60);
+  if(h < 24) return h+'h ago';
+  return Math.floor(h/24)+'d ago';
+}
+
+function renderList(articles){
+  const el = document.getElementById('articleList');
+  if(!articles.length){
+    el.innerHTML = '<div class="no-results">No articles match your filter.</div>';
+    return;
   }
-  const N=Math.min(320,Math.floor(window.innerWidth*0.22));
-  let ps=Array.from({length:N},()=>mkP(true));
-  function loop(){
-    ctx.clearRect(0,0,W,H);
-    for(let i=0;i<ps.length;i++){
-      let p=ps[i];
-      p.x+=p.vx+Math.sin(p.life*0.038)*0.28;
-      p.y+=p.vy;
-      p.life++;
-      if(p.life>p.max){ps[i]=mkP(false);continue;}
-      const t=p.life/p.max;
-      const a=t<0.18?t/0.18:1-((t-0.18)/0.82);
-      const ci=Math.min(p.ci+Math.floor(t*2.5),COLS.length-1);
-      const[r,g,b]=COLS[ci];
-      ctx.save();
-      ctx.globalAlpha=a*0.72;
-      ctx.fillStyle=`rgb(${r},${g},${b})`;
-      ctx.shadowBlur=p.r*5;
-      ctx.shadowColor=`rgba(${r},${g},${b},0.55)`;
-      ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fill();
-      ctx.restore();
+  el.innerHTML = articles.map((a,i) => `
+    <div class="article-item ${a.breaking?'breaking':''}" data-index="${i}" onclick="focusArticle(${allArticles.indexOf(a)})">
+      <div class="article-title">${a.title_en || a.title || '—'}</div>
+      <div class="article-meta">
+        <span class="article-source">${(a.source||'').replace('-scrape','').replace('-rss','')}</span>
+        <span class="article-time">${timeAgo(a.timestamp)}</span>
+        <span class="article-cat cat-${a.category||'general'}">${(a.category||'general').toUpperCase()}</span>
+        ${a.breaking?'<span style="font-family:DM Mono,monospace;font-size:10px;color:var(--red)">● BREAKING</span>':''}
+      </div>
+    </div>
+  `).join('');
+}
+
+function focusArticle(idx){
+  const a = allArticles[idx];
+  if(!a || !a.location) return;
+  map.setView([a.location.lat, a.location.lng], 13, {animate:true});
+  if(markers[idx]) markers[idx].openPopup();
+  if(a.url) window.open(a.url,'_blank');
+}
+
+function applyFilters(){
+  let filtered = allArticles;
+  if(activeFilter !== 'all') filtered = filtered.filter(a => (a.category||'general') === activeFilter);
+  if(activeSearch) filtered = filtered.filter(a => {
+    const t = (a.title_en||a.title||'').toLowerCase();
+    const s = (a.summary||'').toLowerCase();
+    return t.includes(activeSearch) || s.includes(activeSearch);
+  });
+  renderList(filtered);
+  document.getElementById('articleCount').textContent = filtered.length + ' articles';
+}
+
+function initMap(){
+  map = L.map('map', {
+    center:[36.19,44.01], zoom:10,
+    zoomControl:true,
+    attributionControl:false
+  });
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{
+    maxZoom:19, subdomains:'abcd'
+  }).addTo(map);
+}
+
+function renderMap(articles){
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  articles.forEach((a,i) => {
+    if(!a.location || !a.location.lat) return;
+    const col = catColor(a.category);
+    const icon = L.divIcon({
+      html:`<div style="width:10px;height:10px;border-radius:50%;background:${col};border:2px solid rgba(255,255,255,0.3);box-shadow:0 0 6px ${col}88"></div>`,
+      className:'',iconSize:[10,10],iconAnchor:[5,5]
+    });
+    const m = L.marker([a.location.lat, a.location.lng], {icon})
+      .addTo(map)
+      .bindPopup(`
+        <div class="popup-title">${a.title_en||a.title||'—'}</div>
+        <div class="popup-meta">${(a.source||'').replace('-scrape','').replace('-rss','')} · ${timeAgo(a.timestamp)} · ${(a.category||'general').toUpperCase()}</div>
+        <a class="popup-link" href="${a.url||'#'}" target="_blank">Open article →</a>
+      `, {maxWidth:260});
+    markers[i] = m;
+  });
+}
+
+function buildCharts(articles){
+  const catCounts = {};
+  const srcCounts = {};
+  const dayCounts = {};
+
+  articles.forEach(a => {
+    const cat = a.category || 'general';
+    catCounts[cat] = (catCounts[cat]||0)+1;
+    const src = (a.source||'unknown').replace('-scrape','').replace('-rss','');
+    srcCounts[src] = (srcCounts[src]||0)+1;
+    if(a.timestamp){
+      const d = a.timestamp.slice(0,10);
+      dayCounts[d] = (dayCounts[d]||0)+1;
     }
-    requestAnimationFrame(loop);
-  }
-  loop();
-})();
+  });
 
-(function(){
-  const TARGET=new Date('2026-04-28T00:00:00');
-  const pad=n=>String(n).padStart(2,'0');
-  function tick(){
-    const diff=TARGET-new Date();
-    if(diff<=0){['cd-d','cd-h','cd-m','cd-s'].forEach(id=>document.getElementById(id).textContent='00');return;}
-    document.getElementById('cd-d').textContent=pad(Math.floor(diff/86400000));
-    document.getElementById('cd-h').textContent=pad(Math.floor(diff%86400000/3600000));
-    document.getElementById('cd-m').textContent=pad(Math.floor(diff%3600000/60000));
-    document.getElementById('cd-s').textContent=pad(Math.floor(diff%60000/1000));
+  const last7 = [];
+  for(let i=6;i>=0;i--){
+    const d = new Date(); d.setDate(d.getDate()-i);
+    last7.push(d.toISOString().slice(0,10));
   }
-  tick();setInterval(tick,1000);
-})();
 
-(function(){
-  const el=document.getElementById('clock');
-  const p=n=>String(n).padStart(2,'0');
-  function tick(){
-    const n=new Date();
-    el.textContent=`UTC ${p(n.getUTCHours())}:${p(n.getUTCMinutes())}:${p(n.getUTCSeconds())}`;
+  const chartDefaults = {
+    plugins:{legend:{display:false}},
+    responsive:true,
+    maintainAspectRatio:false
+  };
+
+  if(catChart) catChart.destroy();
+  catChart = new Chart(document.getElementById('catChart'),{
+    type:'doughnut',
+    data:{
+      labels: Object.keys(catCounts),
+      datasets:[{
+        data: Object.values(catCounts),
+        backgroundColor: Object.keys(catCounts).map(c=>catColor(c)),
+        borderWidth:0,
+        hoverOffset:4
+      }]
+    },
+    options:{...chartDefaults,cutout:'65%',plugins:{legend:{display:false}}}
+  });
+
+  if(volChart) volChart.destroy();
+  volChart = new Chart(document.getElementById('volChart'),{
+    type:'line',
+    data:{
+      labels: last7.map(d=>d.slice(5)),
+      datasets:[{
+        data: last7.map(d=>dayCounts[d]||0),
+        borderColor:'#f0a030',
+        backgroundColor:'rgba(240,160,48,0.08)',
+        borderWidth:2,
+        fill:true,
+        tension:0.4,
+        pointRadius:3,
+        pointBackgroundColor:'#f0a030'
+      }]
+    },
+    options:{
+      ...chartDefaults,
+      scales:{
+        x:{ticks:{color:'#6b7f9a',font:{size:10},maxRotation:0},grid:{color:'#1e2d45'}},
+        y:{ticks:{color:'#6b7f9a',font:{size:10}},grid:{color:'#1e2d45'},beginAtZero:true}
+      }
+    }
+  });
+
+  if(srcChart) srcChart.destroy();
+  srcChart = new Chart(document.getElementById('srcChart'),{
+    type:'bar',
+    data:{
+      labels: Object.keys(srcCounts),
+      datasets:[{
+        data: Object.values(srcCounts),
+        backgroundColor: Object.keys(srcCounts).map((_,i)=>['#f0a030','#3d8ef0','#2ecc8a','#8b6bf0'][i%4]),
+        borderWidth:0,
+        borderRadius:3
+      }]
+    },
+    options:{
+      ...chartDefaults,
+      indexAxis:'y',
+      scales:{
+        x:{ticks:{color:'#6b7f9a',font:{size:10}},grid:{color:'#1e2d45'},beginAtZero:true},
+        y:{ticks:{color:'#6b7f9a',font:{size:10}},grid:{display:false}}
+      }
+    }
+  });
+}
+
+async function loadData(){
+  try{
+    const r = await fetch('data/data.json?t='+Date.now());
+    if(!r.ok) throw new Error('fetch failed');
+    allArticles = await r.json();
+    allArticles.sort((a,b)=>new Date(b.timestamp||0)-new Date(a.timestamp||0));
+    const latest = allArticles[0]?.timestamp;
+    if(latest) document.getElementById('lastUpdated').textContent = 'Updated '+timeAgo(latest);
+    document.getElementById('articleCount').textContent = allArticles.length+' articles';
+    applyFilters();
+    renderMap(allArticles);
+    buildCharts(allArticles);
+  } catch(e){
+    document.getElementById('articleList').innerHTML =
+      '<div class="no-results">Could not load data.json — check console.</div>';
+    console.error(e);
   }
-  tick();setInterval(tick,1000);
-})();
+}
+
+document.getElementById('filterBar').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if(!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  activeFilter = btn.dataset.cat;
+  applyFilters();
+});
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  activeSearch = e.target.value.toLowerCase().trim();
+  applyFilters();
+});
+
+initMap();
+loadData();
+setInterval(loadData, 1800000);
 </script>
 </body>
 </html>
