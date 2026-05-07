@@ -7,12 +7,19 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:35.959166+00:00",
+    "timestamp": "2026-05-07T09:48:22.471223+00:00",
     "location": {
-      "name": "Sulaymaniyah Road",
-      "lat": 36.16,
-      "lng": 44.07
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -23,8 +30,19 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraqi police",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:30.921591+00:00",
+    "timestamp": "2026-05-07T09:48:17.667383+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -39,12 +57,19 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Shaqlawa",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:25.218794+00:00",
+    "timestamp": "2026-05-07T09:48:11.061735+00:00",
     "location": {
-      "name": "Shaqlawa Road",
-      "lat": 36.24,
-      "lng": 44.1
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -55,10 +80,25 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish family",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:19.396974+00:00",
+    "timestamp": "2026-05-07T09:48:04.878323+00:00",
     "location": {
-      "name": "Erbil",
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -71,8 +111,19 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Zakho",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Eid holidays",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:15.896951+00:00",
+    "timestamp": "2026-05-07T09:48:01.170184+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -87,40 +138,19 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "election event",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:32:09.796242+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "fbe740a8a08ee417",
-    "url": "https://www.rudaw.net/english/world/06042026",
-    "title": "Trump says wants Kurds to 'stay away' from Iran war",
-    "title_en": "Trump says wants Kurds to 'stay away' from Iran war",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-06T05:32:03.597790+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "84b35d393cce421e",
-    "url": "https://www.rudaw.net/english/world/09042026",
-    "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-06T05:31:58.120925+00:00",
+    "timestamp": "2026-05-07T09:47:53.642552+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -135,8 +165,764 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "UN",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Damascus",
+        "type": "LOCATION"
+      },
+      {
+        "name": "SDF",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UN envoy",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-06T05:31:54.961059+00:00",
+    "timestamp": "2026-05-07T09:47:46.287920+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "11246d620681ba9c",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
+    "title": "President Barzani continues Baghdad talks on second day of visit",
+    "title_en": "President Barzani continues Baghdad talks on second day of visit",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T09:47:40.328621+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "KDP",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Halbousi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:47:33.211373+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Trump",
+        "type": "PERSON"
+      },
+      {
+        "name": "Rubio",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:47:29.492411+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68c45463808bc4f7",
+    "url": "https://www.rudaw.net/english/kurdistan/06052026",
+    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish opposition group",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-07T09:47:23.537692+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1421a6045911f19c",
+    "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
+    "title": "Iran says US proposal to end war ‘under review’",
+    "title_en": "Iran says US proposal to end war ‘under review’",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "LOCATION"
+      },
+      {
+        "name": "war",
+        "type": "GENERAL"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-07T09:47:16.394785+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c0bd6eb75d0ef65e",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/060520262",
+    "title": "President Barzani vows support for minority representation in next Iraqi government",
+    "title_en": "President Barzani vows support for minority representation in next Iraqi government",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraqi government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T09:47:09.820617+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66ea42c16d410a4e",
+    "url": "https://www.rudaw.net/english/middleeast/turkey/06052026",
+    "title": "Turkey publishes landmark 15-volume Kurdish literary collection",
+    "title_en": "Turkey publishes landmark 15-volume Kurdish literary collection",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish",
+        "type": "LOCATION"
+      },
+      {
+        "name": "15-volume literary collection",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:47:05.600052+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "38627eec7ff69659",
+    "url": "https://www.rudaw.net/english/opinion/06052026",
+    "title": "Nechirvan Barzani’s helping hand to Iraqi PM-designate Zaidi",
+    "title_en": "Nechirvan Barzani’s helping hand to Iraqi PM-designate Zaidi",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraqi PM-designate Zaidi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:59.441400+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b22db9d907b43df2",
+    "url": "https://www.rudaw.net/english/middleeast/syria/06052026",
+    "title": "Syria sees rise in ‘sectarian-motivated’ killings, hate speech: Watchdog",
+    "title_en": "Syria sees rise in ‘sectarian-motivated’ killings, hate speech: Watchdog",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Watchdog",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:53.397606+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93a9b438cfeab2d9",
+    "url": "https://www.rudaw.net/english/kurdistan/060520262",
+    "title": "Kurdish opposition parties reject claims of PUK leadership in Coordination Framework meeting",
+    "title_en": "Kurdish opposition parties reject claims of PUK leadership in Coordination Framework meeting",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "PUK",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Coordination Framework",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ankawa",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T09:46:46.083453+00:00",
+    "location": {
+      "name": "Ankawa",
+      "lat": 36.2497,
+      "lng": 43.9992
+    }
+  },
+  {
+    "id": "4147a9d169073892",
+    "url": "https://www.rudaw.net/english/kurdistan/060520263",
+    "title": "KDP ends boycott of Iraq’s parliament sessions",
+    "title_en": "KDP ends boycott of Iraq’s parliament sessions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "KDP",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "parliament",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:38.546568+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4bfd09cac70cf9d1",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/060520263",
+    "title": "Iraq announces 8.8 billion-barrel supergiant oil discovery in Najaf",
+    "title_en": "Iraq announces 8.8 billion-barrel supergiant oil discovery in Najaf",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Najaf",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:32.507481+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "85206aaf51ddd429",
+    "url": "https://www.rudaw.net/english/middleeast/syria/060520261",
+    "title": "Rojava schools mark 10 years of Kurdish-language education after decades of bans",
+    "title_en": "Rojava schools mark 10 years of Kurdish-language education after decades of bans",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:26.550165+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bbf3f1ebc4aaeffb",
+    "url": "https://www.rudaw.net/english/middleeast/060520262",
+    "title": "US diverts 52 Iran-linked vessels as naval blockade holds: CENTCOM",
+    "title_en": "US diverts 52 Iran-linked vessels as naval blockade holds: CENTCOM",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "US",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "CENTCOM",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:20.185342+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c9de4f60b37c487",
+    "url": "https://www.rudaw.net/english/kurdistan/07052026",
+    "title": "Iran launches fresh drone strikes on Kurdish opposition group in Kurdistan Region",
+    "title_en": "Iran launches fresh drone strikes on Kurdish opposition group in Kurdistan Region",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish opposition group",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-07T09:46:14.932021+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39b7feb327b82677",
+    "url": "https://www.rudaw.net/english/kurdistan/070520261",
+    "title": "Oil production in two Duhok fields plummeted in first quarter of 2026: Reports",
+    "title_en": "Oil production in two Duhok fields plummeted in the first quarter of 2026: Reports",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Duhok",
+        "type": "LOCATION"
+      },
+      {
+        "name": "2026",
+        "type": "YEAR"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:07.271212+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1a7b813fcab18afc",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
+    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ba’ath",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurd",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:46:01.360880+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b32ecaa55d099b90",
+    "url": "https://www.rudaw.net/english/kurdistan/070520262",
+    "title": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "DNO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Tawke oilfield",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:45:57.490338+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6bcf8836394a9ba",
+    "url": "https://www.rudaw.net/english/kurdistan/070520263",
+    "title": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "title_en": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Hajj",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T09:45:52.689192+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84b35d393cce421e",
+    "url": "https://www.rudaw.net/english/world/09042026",
+    "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
+    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-06T18:45:32.248055+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1fbd7c8fe16d142b",
+    "url": "https://www.rudaw.net/english/middleeast/06052026",
+    "title": "US pauses Project Freedom in Strait of Hormuz amid push for Iran deal",
+    "title_en": "US pauses Project Freedom in Strait of Hormuz amid push for Iran deal",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-06T18:45:05.203406+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87d4937d9ff498e7",
+    "url": "https://www.rudaw.net/english/world/06052026",
+    "title": "UN report finds global migration broadly stable, contradicting Western political narrative",
+    "title_en": "UN report finds global migration broadly stable, contradicting Western political narrative",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-06T18:45:01.655523+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2e43e1ffd2e194e0",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/06052026",
+    "title": "US offers $10 million reward for information on Iraqi militia leader",
+    "title_en": "US offers $10 million reward for information on Iraqi militia leader",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-06T18:44:56.266453+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c5c058cbed0808ad",
+    "url": "https://www.rudaw.net/english/analysis/06052026",
+    "title": "Beyond the chokepoint: the multi-billion-dollar race to bypass the Strait of Hormuz",
+    "title_en": "Beyond the chokepoint: the multi-billion-dollar race to bypass the Strait of Hormuz",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-06T18:44:50.133377+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c2272db5a0858c7a",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/060520261",
+    "title": "US calls for 'action, not words' from Iraq over militias",
+    "title_en": "US calls for 'action, not words' from Iraq over militias",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-06T18:44:45.443273+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6826b5722519ac51",
+    "url": "https://www.rudaw.net/english/world/060520261",
+    "title": "UN says Iran should not execute people for exercising their rights",
+    "title_en": "UN says Iran should not execute people for exercising their rights",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-06T18:44:41.313881+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dcc0312e6411a852",
+    "url": "https://www.rudaw.net/english/kurdistan/060520261",
+    "title": "IRGC strikes another Kurdish opposition camp in Kurdistan Region as US-Iran deal nears",
+    "title_en": "IRGC strikes another Kurdish opposition camp in Kurdistan Region as US-Iran deal nears",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-06T18:44:35.127327+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "67e085480bc6c2ed",
+    "url": "https://www.rudaw.net/english/middleeast/060520261",
+    "title": "US, Iran near draft deal to end war as talks advance: Report",
+    "title_en": "US, Iran near draft deal to end war as talks advance: Report",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-06T18:44:20.232345+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbe740a8a08ee417",
+    "url": "https://www.rudaw.net/english/world/06042026",
+    "title": "Trump says wants Kurds to 'stay away' from Iran war",
+    "title_en": "Trump says wants Kurds to 'stay away' from Iran war",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-06T05:32:03.597790+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -151,6 +937,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:48.732061+00:00",
     "location": {
@@ -167,6 +955,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-06T05:31:45.082247+00:00",
     "location": {
@@ -183,6 +973,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:40.215920+00:00",
     "location": {
@@ -199,6 +991,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:33.558984+00:00",
     "location": {
@@ -215,40 +1009,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:30.324902+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "11246d620681ba9c",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
-    "title": "President Barzani continues Baghdad talks on second day of visit",
-    "title_en": "President Barzani continues Baghdad talks on second day of visit",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 2,
-    "timestamp": "2026-05-06T05:31:26.494854+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-06T05:31:21.603637+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -263,6 +1027,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-06T05:31:15.952799+00:00",
     "location": {
@@ -279,6 +1045,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:12.242462+00:00",
     "location": {
@@ -295,7 +1063,9 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "breaking": 2,
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
     "timestamp": "2026-05-06T05:31:06.475807+00:00",
     "location": {
       "name": "Erbil",
@@ -311,6 +1081,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:03.193666+00:00",
     "location": {
@@ -327,6 +1099,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:59.846088+00:00",
     "location": {
@@ -343,6 +1117,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:52.833469+00:00",
     "location": {
@@ -359,26 +1135,12 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:47.551330+00:00",
     "location": {
       "name": "Hewler",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "breaking": 1,
-    "timestamp": "2026-05-06T05:30:42.628989+00:00",
-    "location": {
-      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -391,6 +1153,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T20:50:27.070779+00:00",
     "location": {
@@ -407,7 +1171,9 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "breaking": 1,
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
     "timestamp": "2026-05-05T20:49:29.231699+00:00",
     "location": {
       "name": "Bakhtiyari",
@@ -423,6 +1189,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T17:11:10.397452+00:00",
     "location": {
@@ -439,7 +1207,9 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "breaking": 1,
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
     "timestamp": "2026-05-05T17:11:06.757555+00:00",
     "location": {
       "name": "Erbil",
@@ -455,6 +1225,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T17:10:42.706713+00:00",
     "location": {
@@ -471,6 +1243,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:37.442578+00:00",
     "location": {
@@ -487,6 +1261,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T17:10:31.777139+00:00",
     "location": {
@@ -503,6 +1279,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T17:10:08.613147+00:00",
     "location": {
@@ -519,6 +1297,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:43.455365+00:00",
     "location": {
@@ -535,6 +1315,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:38.780183+00:00",
     "location": {
@@ -551,6 +1333,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:34.159659+00:00",
     "location": {
@@ -567,6 +1351,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:08.824772+00:00",
     "location": {
@@ -583,6 +1369,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:05.625356+00:00",
     "location": {
@@ -599,6 +1387,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:02.652143+00:00",
     "location": {
@@ -615,6 +1405,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T07:35:56.715123+00:00",
     "location": {
@@ -631,6 +1423,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T07:35:53.480603+00:00",
     "location": {
@@ -647,6 +1441,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
@@ -663,6 +1459,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:15.604161+00:00",
     "location": {
@@ -679,6 +1477,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T00:11:10.588789+00:00",
     "location": {
@@ -695,6 +1495,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-05T00:11:03.202966+00:00",
     "location": {
@@ -711,6 +1513,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-04T20:50:22.577347+00:00",
     "location": {
@@ -727,6 +1531,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-04T19:03:07.405832+00:00",
     "location": {
@@ -743,6 +1549,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:59.537725+00:00",
     "location": {
@@ -759,6 +1567,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:54.630433+00:00",
     "location": {
@@ -775,6 +1585,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:51.370852+00:00",
     "location": {
@@ -791,6 +1603,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:44.667133+00:00",
     "location": {
@@ -807,6 +1621,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:58.297816+00:00",
     "location": {
@@ -823,6 +1639,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
@@ -839,6 +1657,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:47.972823+00:00",
     "location": {
@@ -855,6 +1675,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:44.554293+00:00",
     "location": {
@@ -871,6 +1693,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:40.668591+00:00",
     "location": {
@@ -887,6 +1711,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:35.944877+00:00",
     "location": {
@@ -903,6 +1729,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:32.837425+00:00",
     "location": {
@@ -919,6 +1747,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:27.784177+00:00",
     "location": {
@@ -935,6 +1765,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:24.511690+00:00",
     "location": {
@@ -951,6 +1783,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:20.420620+00:00",
     "location": {
@@ -967,6 +1801,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:16.666756+00:00",
     "location": {
@@ -983,6 +1819,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:11.964747+00:00",
     "location": {
@@ -999,7 +1837,9 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "breaking": 1,
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
     "timestamp": "2026-05-03T20:06:50.243236+00:00",
     "location": {
       "name": "Kurdistan",
@@ -1015,6 +1855,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:40.706560+00:00",
     "location": {
@@ -1031,6 +1873,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:37.820125+00:00",
     "location": {
@@ -1047,6 +1891,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:34.858086+00:00",
     "location": {
@@ -1063,6 +1909,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:32.044138+00:00",
     "location": {
@@ -1079,6 +1927,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:28.687155+00:00",
     "location": {
@@ -1095,6 +1945,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:24.103379+00:00",
     "location": {
@@ -1111,6 +1963,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:19.096484+00:00",
     "location": {
@@ -1127,6 +1981,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:16.142442+00:00",
     "location": {
@@ -1143,6 +1999,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:12.783664+00:00",
     "location": {
@@ -1159,6 +2017,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:09.909620+00:00",
     "location": {
@@ -1175,6 +2035,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:04.903190+00:00",
     "location": {
@@ -1191,6 +2053,8 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:01.638838+00:00",
     "location": {
