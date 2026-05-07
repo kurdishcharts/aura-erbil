@@ -288,7 +288,7 @@ def _run():
                 soup = BeautifulSoup(html, "lxml")
                 for a in soup.select("a[href]"):
                     href = a["href"]; full = urljoin(BASE_URL, href)
-                    if _same_origin(full) and ("/english/" in full or "/sorani/" in full or "/kurmanci/" in full) and len(_clean_title(a.get_text(strip=True))) > 20:
+                    if _same_origin(full) and ("/english/" in full or "/sorani/" in full or "/kurmanci/" in full) and len(_clean_title(a.get_text(strip=True))) > 5:
                         if full not in visited: queue.append(full)
                 continue
             etag, lm = conn.execute("SELECT etag, last_modified FROM articles WHERE url=?", (url,)).fetchone() or (None, None)
