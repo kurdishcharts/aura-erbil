@@ -15,7 +15,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:46.563089+00:00",
+    "timestamp": "2026-05-07T20:53:06.670481+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -42,7 +42,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:41.595903+00:00",
+    "timestamp": "2026-05-07T20:53:02.666846+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -65,7 +65,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:35.678083+00:00",
+    "timestamp": "2026-05-07T20:52:57.226870+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -96,9 +96,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:29.729789+00:00",
+    "timestamp": "2026-05-07T20:52:51.580241+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -119,11 +119,11 @@
       },
       {
         "name": "Eid holidays",
-        "type": "LOCATION"
+        "type": "EVENT"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:25.317332+00:00",
+    "timestamp": "2026-05-07T20:52:44.381630+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -146,11 +146,11 @@
       },
       {
         "name": "election event",
-        "type": "EVENT"
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:20.145033+00:00",
+    "timestamp": "2026-05-07T20:52:36.919035+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -182,10 +182,14 @@
       {
         "name": "SDF",
         "type": "ORGANIZATION"
+      },
+      {
+        "name": "UN envoy",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:14.612898+00:00",
+    "timestamp": "2026-05-07T20:52:28.152296+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -199,7 +203,7 @@
     "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
@@ -212,7 +216,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-07T16:29:09.164220+00:00",
+    "timestamp": "2026-05-07T20:52:22.596215+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -239,7 +243,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:29:02.033685+00:00",
+    "timestamp": "2026-05-07T20:52:16.646301+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -270,7 +274,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-07T16:28:58.058167+00:00",
+    "timestamp": "2026-05-07T20:52:10.691201+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -301,9 +305,470 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-07T16:28:51.281817+00:00",
+    "timestamp": "2026-05-07T20:52:03.864492+00:00",
     "location": {
       "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1a7b813fcab18afc",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
+    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "title_en": "Crimes of the Ba'ath Regime Against Kurds in Focus as Former Warden Faces Trial in Baghdad",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ba'ath Regime",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurd",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:56.821790+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b32ecaa55d099b90",
+    "url": "https://www.rudaw.net/english/kurdistan/070520262",
+    "title": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "DNO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Tawke oilfield",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Duhok",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:50.079881+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6bcf8836394a9ba",
+    "url": "https://www.rudaw.net/english/kurdistan/070520263",
+    "title": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "title_en": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Hajj",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:45.050393+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbaf41766fe6395a",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520261",
+    "title": "Ba’ath-era prison chief confesses to rape, starvation of Kurdish detainees",
+    "title_en": "Ba’ath-era prison chief confesses to rape, starvation of Kurdish detainees",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ba’ath-era prison chief",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdish detainees",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:37.642710+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1f9268884f8bcfb2",
+    "url": "https://www.rudaw.net/english/middleeast/syria/07052026",
+    "title": "Syrian authorities remove Kurdish from billboard in Rojava, sparking public anger",
+    "title_en": "Syrian authorities remove Kurdish from billboard in Rojava, sparking public anger",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Syrian authorities",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:33.027305+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "749932f9e02eae66",
+    "url": "https://www.rudaw.net/english/analysis/07052026",
+    "title": "The largest collapse of Iraq’s oil sector in modern history",
+    "title_en": "The largest collapse of Iraq’s oil sector in modern history",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "oil sector",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:26.418315+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8beb95b74dfedaab",
+    "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
+    "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
+    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Tehran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "war",
+        "type": "GENERAL"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T20:51:19.051473+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7540c542d80e239",
+    "url": "https://www.rudaw.net/english/business/070520261",
+    "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
+    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Ministry",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:13.282844+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ed1bd6b4fdceba7",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520262",
+    "title": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
+    "title_en": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "official",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:09.201847+00:00",
+    "location": {
+      "name": "Kirkuk Road",
+      "lat": 36.1722,
+      "lng": 44.0489
+    }
+  },
+  {
+    "id": "fc1d18a81c162cd4",
+    "url": "https://www.rudaw.net/english/kurdistan/070520264",
+    "title": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
+    "title_en": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Kurdish opposition leader",
+        "type": "PERSON"
+      },
+      {
+        "name": "ankawa",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:51:02.217949+00:00",
+    "location": {
+      "name": "Ankawa",
+      "lat": 36.2497,
+      "lng": 43.9992
+    }
+  },
+  {
+    "id": "645ff128a5a1b764",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520263",
+    "title": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
+    "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraqi",
+        "type": "LOCATION"
+      },
+      {
+        "name": "parliament",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T20:50:57.838807+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44a96b18e4dcf8fa",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520264",
+    "title": "US sanctions Iraq’s deputy oil minister over facilitating Iran oil sales",
+    "title_en": "US sanctions Iraq’s deputy oil minister over facilitating Iran oil sales",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iraq’s deputy oil minister",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-07T20:50:53.619857+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b521e42adbd417d",
+    "url": "https://www.rudaw.net/english/kurdistan/070520265",
+    "title": "Iran launches fresh strikes on opposition group in Erbil",
+    "title_en": "Iran launches fresh strikes on opposition group in Erbil",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "opposition group",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-07T20:50:47.052314+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "629fa4d889b4c23e",
+    "url": "https://www.rudaw.net/english/world/07052026",
+    "title": "US rep says UN draft resolution to reopen Strait of Hormuz gaining broad support",
+    "title_en": "US rep says UN draft resolution to reopen Strait of Hormuz gaining broad support",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "LOCATION"
+      },
+      {
+        "name": "UN",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "US",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-07T20:50:37.071415+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0012d4dc29065cf3",
+    "url": "https://www.rudaw.net/english/world/070520261",
+    "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
+    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "2026",
+        "type": "YEAR"
+      },
+      {
+        "name": "Ministry",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-07T20:50:29.679351+00:00",
+    "location": {
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -416,329 +881,8 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-07T16:28:26.195671+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1a7b813fcab18afc",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
-    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Ba’ath",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurd",
-        "type": "PERSON"
-      },
-      {
-        "name": "Baghdad",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:28:19.092463+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b32ecaa55d099b90",
-    "url": "https://www.rudaw.net/english/kurdistan/070520262",
-    "title": "DNO resumes operations at Duhok’s Tawke oilfield",
-    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "DNO",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Tawke oilfield",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:28:13.951960+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c6bcf8836394a9ba",
-    "url": "https://www.rudaw.net/english/kurdistan/070520263",
-    "title": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
-    "title_en": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Saudi Arabia",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Hajj",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:28:08.624071+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "fbaf41766fe6395a",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/070520261",
-    "title": "Ba’ath-era prison chief confesses to rape, starvation of Kurdish detainees",
-    "title_en": "Ba’ath-era prison chief confesses to rape, starvation of Kurdish detainees",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Ba’ath-era",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdish detainees",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:28:04.567085+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1f9268884f8bcfb2",
-    "url": "https://www.rudaw.net/english/middleeast/syria/07052026",
-    "title": "Syrian authorities remove Kurdish from billboard in Rojava, sparking public anger",
-    "title_en": "Syrian authorities remove Kurdish from billboard in Rojava, sparking public anger",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Syrian authorities",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Rojava",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:27:58.810751+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "749932f9e02eae66",
-    "url": "https://www.rudaw.net/english/analysis/07052026",
-    "title": "The largest collapse of Iraq’s oil sector in modern history",
-    "title_en": "The largest collapse of Iraq’s oil sector in modern history",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "oil sector",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:27:52.796839+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8beb95b74dfedaab",
-    "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
-    "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Tehran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "war",
-        "type": "GENERAL"
-      }
-    ],
-    "breaking": 2,
-    "timestamp": "2026-05-07T16:27:46.879757+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d7540c542d80e239",
-    "url": "https://www.rudaw.net/english/business/070520261",
-    "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Turkey",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Ministry",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:27:41.133156+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7ed1bd6b4fdceba7",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/070520262",
-    "title": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
-    "title_en": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Kirkuk",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:27:34.872840+00:00",
-    "location": {
-      "name": "Kirkuk Road",
-      "lat": 36.1722,
-      "lng": 44.0489
-    }
-  },
-  {
-    "id": "fc1d18a81c162cd4",
-    "url": "https://www.rudaw.net/english/kurdistan/070520264",
-    "title": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
-    "title_en": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Kurdish opposition leader",
-        "type": "PERSON"
-      },
-      {
-        "name": "ankawa",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-07T16:27:31.647345+00:00",
-    "location": {
-      "name": "Ankawa",
-      "lat": 36.2497,
-      "lng": 43.9992
-    }
-  },
-  {
-    "id": "645ff128a5a1b764",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/070520263",
-    "title": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
-    "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraqi",
-        "type": "LOCATION"
-      },
-      {
-        "name": "parliament",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 2,
-    "timestamp": "2026-05-07T16:27:25.005984+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
