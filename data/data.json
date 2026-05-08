@@ -10,7 +10,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:06:39.681209+00:00",
+    "timestamp": "2026-05-08T19:35:30.504093+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +28,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:06:29.681654+00:00",
+    "timestamp": "2026-05-08T19:35:19.882363+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -46,7 +46,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:06:18.376640+00:00",
+    "timestamp": "2026-05-08T19:35:10.565725+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -64,7 +64,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:06:07.653707+00:00",
+    "timestamp": "2026-05-08T19:35:00.803620+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +82,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T19:05:54.039203+00:00",
+    "timestamp": "2026-05-08T19:34:50.156909+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -100,7 +100,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:05:38.895676+00:00",
+    "timestamp": "2026-05-08T19:34:41.031757+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -118,7 +118,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:05:25.086754+00:00",
+    "timestamp": "2026-05-08T19:34:28.905450+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -136,7 +136,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 3,
-    "timestamp": "2026-05-08T19:05:15.224445+00:00",
+    "timestamp": "2026-05-08T19:34:19.527108+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -154,7 +154,277 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T19:05:05.068383+00:00",
+    "timestamp": "2026-05-08T19:34:10.810634+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0012d4dc29065cf3",
+    "url": "https://www.rudaw.net/english/world/070520261",
+    "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
+    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T19:33:56.543914+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "aada3eac8450dc05",
+    "url": "https://www.rudaw.net/english/middleeast/08052026",
+    "title": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
+    "title_en": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T19:33:45.145765+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42b95ae3026abf17",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/08052026",
+    "title": "Iraq denies US allegations tying official to Iran-linked oil diversion",
+    "title_en": "Iraq denies US allegations tying official to Iran-linked oil diversion",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:33:35.614931+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1072b8189e362960",
+    "url": "https://www.rudaw.net/english/middleeast/iran/08052026",
+    "title": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
+    "title_en": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:33:25.000843+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3cf378d694b9374",
+    "url": "https://www.rudaw.net/english/opinion/08052026",
+    "title": "Why Kurdish language rights in the new Syria require constitutional guarantees",
+    "title_en": "Why Kurdish language rights in the new Syria require constitutional guarantees",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T19:33:14.069355+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "360c181d46223f6d",
+    "url": "https://www.rudaw.net/english/middleeast/080520261",
+    "title": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
+    "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:33:00.029638+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3f0ffc49740776b7",
+    "url": "https://www.rudaw.net/english/middleeast/syria/08052026",
+    "title": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
+    "title_en": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T19:32:48.540642+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9430c8b9cc1ea5b1",
+    "url": "https://www.rudaw.net/english/middleeast/iran/080520261",
+    "title": "Iran seizes US-sanctioned tanker carrying Iranian oil",
+    "title_en": "Iran seizes US-sanctioned tanker carrying Iranian oil",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:32:39.746283+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "805b36306b4f8178",
+    "url": "https://www.rudaw.net/english/opinion/080520261",
+    "title": "Anfal: The Long Shadow of a Genocide",
+    "title_en": "Anfal: The Long Shadow of a Genocide",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:32:29.618368+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f4a63ae92b9a444f",
+    "url": "https://www.rudaw.net/english/middleeast/iran/080520262",
+    "title": "Iran accuses US of 'reckless military adventure' amid peace efforts",
+    "title_en": "Iran accuses US of 'reckless military adventure' amid peace efforts",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-08T19:32:18.777860+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f7edcfc2cc1a903b",
+    "url": "https://www.rudaw.net/english/middleeast/080520262",
+    "title": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
+    "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:32:07.717134+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0bfa952c84948813",
+    "url": "https://www.rudaw.net/english/middleeast/syria/080520261",
+    "title": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
+    "title_en": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:31:58.505592+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec451e915c5d2ba2",
+    "url": "https://www.rudaw.net/english/world/08052026",
+    "title": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
+    "title_en": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:31:49.027289+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "46302077daf847a2",
+    "url": "https://www.rudaw.net/english/middleeast/080520263",
+    "title": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "title_en": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:31:38.596663+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9ef14c4a23dc6e12",
+    "url": "https://www.rudaw.net/english/kurdistan/08052026",
+    "title": "Plans underway to build cycling lanes in Erbil amid growing demand",
+    "title_en": "Plans underway to build cycling lanes in Erbil amid growing demand",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T19:31:27.104094+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -175,258 +445,6 @@
     "timestamp": "2026-05-08T19:04:48.101874+00:00",
     "location": {
       "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0012d4dc29065cf3",
-    "url": "https://www.rudaw.net/english/world/070520261",
-    "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 2,
-    "timestamp": "2026-05-08T19:04:37.025789+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "aada3eac8450dc05",
-    "url": "https://www.rudaw.net/english/middleeast/08052026",
-    "title": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
-    "title_en": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 2,
-    "timestamp": "2026-05-08T19:04:26.784246+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42b95ae3026abf17",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/08052026",
-    "title": "Iraq denies US allegations tying official to Iran-linked oil diversion",
-    "title_en": "Iraq denies US allegations tying official to Iran-linked oil diversion",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:04:16.251559+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1072b8189e362960",
-    "url": "https://www.rudaw.net/english/middleeast/iran/08052026",
-    "title": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
-    "title_en": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:04:05.683751+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c3cf378d694b9374",
-    "url": "https://www.rudaw.net/english/opinion/08052026",
-    "title": "Why Kurdish language rights in the new Syria require constitutional guarantees",
-    "title_en": "Why Kurdish language rights in the new Syria require constitutional guarantees",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 2,
-    "timestamp": "2026-05-08T19:03:47.084790+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "360c181d46223f6d",
-    "url": "https://www.rudaw.net/english/middleeast/080520261",
-    "title": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
-    "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:03:37.617692+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "3f0ffc49740776b7",
-    "url": "https://www.rudaw.net/english/middleeast/syria/08052026",
-    "title": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
-    "title_en": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 2,
-    "timestamp": "2026-05-08T19:03:26.284155+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "9430c8b9cc1ea5b1",
-    "url": "https://www.rudaw.net/english/middleeast/iran/080520261",
-    "title": "Iran seizes US-sanctioned tanker carrying Iranian oil",
-    "title_en": "Iran seizes US-sanctioned tanker carrying Iranian oil",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:03:12.001453+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "805b36306b4f8178",
-    "url": "https://www.rudaw.net/english/opinion/080520261",
-    "title": "Anfal: The Long Shadow of a Genocide",
-    "title_en": "Anfal: The Long Shadow of a Genocide",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:02:58.545619+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f4a63ae92b9a444f",
-    "url": "https://www.rudaw.net/english/middleeast/iran/080520262",
-    "title": "Iran accuses US of 'reckless military adventure' amid peace efforts",
-    "title_en": "Iran accuses US of 'reckless military adventure' amid peace efforts",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 3,
-    "timestamp": "2026-05-08T19:02:46.896559+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f7edcfc2cc1a903b",
-    "url": "https://www.rudaw.net/english/middleeast/080520262",
-    "title": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
-    "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:02:34.353026+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0bfa952c84948813",
-    "url": "https://www.rudaw.net/english/middleeast/syria/080520261",
-    "title": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
-    "title_en": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:02:24.254909+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ec451e915c5d2ba2",
-    "url": "https://www.rudaw.net/english/world/08052026",
-    "title": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
-    "title_en": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:02:12.969056+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "46302077daf847a2",
-    "url": "https://www.rudaw.net/english/middleeast/080520263",
-    "title": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
-    "title_en": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T19:01:59.865114+00:00",
-    "location": {
-      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
