@@ -429,7 +429,12 @@ const SKIP_SENT = ['culture','music','festival','art','football','sport','concer
 function catCol(c){return CC[c]||CC.general}
 function ta(iso){if(!iso)return'';const d=Date.now()-new Date(iso).getTime(),m=Math.floor(d/60000);if(m<1)return'just now';if(m<60)return m+'m ago';const h=Math.floor(m/60);if(h<24)return h+'h ago';return Math.floor(h/24)+'d ago'}
 
-function getSentiment(article) {
+function getSentiment(a){
+  const s = (a.sentiment || '').toLowerCase();
+  if (s === 'positive') return 'bullish';
+  if (s === 'negative') return 'bearish';
+  return 'neutral';
+}
             if (!article.sentiment) return 'neutral';
             const s = article.sentiment.toLowerCase();
             if (s === 'positive') return 'bullish';
