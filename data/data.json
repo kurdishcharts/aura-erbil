@@ -10,7 +10,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:05:11.243534+00:00",
+    "timestamp": "2026-05-08T17:36:39.213884+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +28,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:05:00.407529+00:00",
+    "timestamp": "2026-05-08T17:36:30.139192+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -46,7 +46,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:04:49.786128+00:00",
+    "timestamp": "2026-05-08T17:36:18.659700+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -64,7 +64,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:04:39.229315+00:00",
+    "timestamp": "2026-05-08T17:36:07.315609+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +82,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T17:04:29.556670+00:00",
+    "timestamp": "2026-05-08T17:35:55.316531+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -100,7 +100,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:04:19.696393+00:00",
+    "timestamp": "2026-05-08T17:35:41.186578+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -118,7 +118,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:04:10.116277+00:00",
+    "timestamp": "2026-05-08T17:35:28.424054+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -136,7 +136,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 3,
-    "timestamp": "2026-05-08T17:03:59.912904+00:00",
+    "timestamp": "2026-05-08T17:35:19.289205+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -154,25 +154,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:03:48.770370+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7b521e42adbd417d",
-    "url": "https://www.rudaw.net/english/kurdistan/070520265",
-    "title": "Iran launches fresh strikes on opposition group in Erbil",
-    "title_en": "Iran launches fresh strikes on opposition group in Erbil",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 3,
-    "timestamp": "2026-05-08T17:03:33.479194+00:00",
+    "timestamp": "2026-05-08T17:35:08.059628+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -190,7 +172,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 3,
-    "timestamp": "2026-05-08T17:03:23.458794+00:00",
+    "timestamp": "2026-05-08T17:34:53.743319+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -208,7 +190,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T17:03:11.519738+00:00",
+    "timestamp": "2026-05-08T17:34:43.739855+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -222,28 +204,11 @@
     "title_en": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Trump",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T17:02:57.157180+00:00",
+    "timestamp": "2026-05-08T17:34:33.419026+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -259,26 +224,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:02:49.934894+00:00",
+    "timestamp": "2026-05-08T17:34:23.010196+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -293,23 +241,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "HRW",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "28",
-        "type": "NUMBER"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:02:39.490256+00:00",
+    "timestamp": "2026-05-08T17:34:14.110484+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -325,22 +260,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Kurdish",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Syria",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdish language",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T17:02:31.948540+00:00",
+    "timestamp": "2026-05-08T17:33:58.098244+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -354,24 +276,11 @@
     "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "UAE",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "air defenses",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:02:23.472090+00:00",
+    "timestamp": "2026-05-08T17:33:46.906965+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -387,26 +296,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Damascus",
-        "type": "LOCATION"
-      },
-      {
-        "name": "SDF",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Hasaka",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Governor",
-        "type": "PERSON"
-      }
-    ],
+    "entities": [],
     "breaking": 2,
-    "timestamp": "2026-05-08T17:02:13.517405+00:00",
+    "timestamp": "2026-05-08T17:33:35.303144+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -420,24 +312,11 @@
     "title_en": "Iran seizes US-sanctioned tanker carrying Iranian oil",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "tanker",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:02:05.486084+00:00",
+    "timestamp": "2026-05-08T17:33:22.855655+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -452,21 +331,12 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Anfal",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Genocide",
-        "type": "LOCATION"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:01:57.509157+00:00",
+    "timestamp": "2026-05-08T17:33:13.854779+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -475,27 +345,14 @@
     "id": "f4a63ae92b9a444f",
     "url": "https://www.rudaw.net/english/middleeast/iran/080520262",
     "title": "Iran accuses US of 'reckless military adventure' amid peace efforts",
-    "title_en": "Iran Accuses US of 'Reckless Military Adventure' Amid Peace Efforts",
+    "title_en": "Iran accuses US of 'reckless military adventure' amid peace efforts",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Peace Efforts",
-        "type": "GENERAL"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 3,
-    "timestamp": "2026-05-08T17:01:50.362958+00:00",
+    "timestamp": "2026-05-08T17:33:03.161895+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -509,20 +366,11 @@
     "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "US",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Iranian ports",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:01:42.753856+00:00",
+    "timestamp": "2026-05-08T17:32:51.959108+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -538,22 +386,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Kurdish",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Syrian",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Arabic",
-        "type": "LANGUAGE"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:01:35.903584+00:00",
+    "timestamp": "2026-05-08T17:32:41.153335+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -568,31 +403,46 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "US",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Gulf",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "UN",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T17:01:26.873457+00:00",
+    "timestamp": "2026-05-08T17:32:31.135646+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "46302077daf847a2",
+    "url": "https://www.rudaw.net/english/middleeast/080520263",
+    "title": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "title_en": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-08T17:32:20.500254+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b521e42adbd417d",
+    "url": "https://www.rudaw.net/english/kurdistan/070520265",
+    "title": "Iran launches fresh strikes on opposition group in Erbil",
+    "title_en": "Iran launches fresh strikes on opposition group in Erbil",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-08T17:03:33.479194+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
