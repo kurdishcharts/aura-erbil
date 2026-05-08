@@ -23,7 +23,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:05:21.426034+00:00",
+    "timestamp": "2026-05-08T06:34:56.053873+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -46,11 +46,11 @@
       },
       {
         "name": "Eid holidays",
-        "type": "EVENT"
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:05:12.996139+00:00",
+    "timestamp": "2026-05-08T06:34:49.000854+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,12 +72,12 @@
         "type": "ORGANIZATION"
       },
       {
-        "name": "election",
-        "type": "EVENT"
+        "name": "election event",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:05:05.794502+00:00",
+    "timestamp": "2026-05-08T06:34:40.252670+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +112,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:04:56.250159+00:00",
+    "timestamp": "2026-05-08T06:34:30.922246+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -132,14 +132,10 @@
       {
         "name": "Barzani",
         "type": "PERSON"
-      },
-      {
-        "name": "Baghdad",
-        "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:04:46.581422+00:00",
+    "timestamp": "2026-05-08T06:34:21.779646+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -166,7 +162,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:04:37.294443+00:00",
+    "timestamp": "2026-05-08T06:34:13.740685+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -197,7 +193,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:04:28.541788+00:00",
+    "timestamp": "2026-05-08T06:34:06.801430+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -228,7 +224,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:04:18.051134+00:00",
+    "timestamp": "2026-05-08T06:33:57.324691+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -259,34 +255,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:04:09.981075+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b32ecaa55d099b90",
-    "url": "https://www.rudaw.net/english/kurdistan/070520262",
-    "title": "DNO resumes operations at Duhok’s Tawke oilfield",
-    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "DNO",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Tawke oilfield",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T06:03:52.219571+00:00",
+    "timestamp": "2026-05-08T06:33:49.821568+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -317,7 +286,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:03:42.859267+00:00",
+    "timestamp": "2026-05-08T06:33:35.617477+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -344,7 +313,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:03:33.201555+00:00",
+    "timestamp": "2026-05-08T06:33:27.666465+00:00",
     "location": {
       "name": "Bakhtiyari",
       "lat": 36.2078,
@@ -371,7 +340,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:03:23.365352+00:00",
+    "timestamp": "2026-05-08T06:33:19.373669+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -398,7 +367,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:03:15.253580+00:00",
+    "timestamp": "2026-05-08T06:33:10.593709+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -429,7 +398,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:02:59.888429+00:00",
+    "timestamp": "2026-05-08T06:33:01.739927+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -460,7 +429,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:02:50.860765+00:00",
+    "timestamp": "2026-05-08T06:32:49.250612+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -491,7 +460,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:02:41.661814+00:00",
+    "timestamp": "2026-05-08T06:32:41.613947+00:00",
     "location": {
       "name": "Kirkuk Road",
       "lat": 36.1722,
@@ -518,7 +487,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:02:32.683806+00:00",
+    "timestamp": "2026-05-08T06:32:34.390474+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -549,7 +518,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:02:21.356451+00:00",
+    "timestamp": "2026-05-08T06:32:27.043638+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -579,7 +548,7 @@
         "type": "LOCATION"
       },
       {
-        "name": "Iraq's deputy oil minister",
+        "name": "Iraq’s deputy oil minister",
         "type": "PERSON"
       },
       {
@@ -588,7 +557,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:02:11.434048+00:00",
+    "timestamp": "2026-05-08T06:32:19.455222+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -607,7 +576,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "ORGANIZATION"
+        "type": "LOCATION"
       },
       {
         "name": "Erbil",
@@ -619,7 +588,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:02:02.711978+00:00",
+    "timestamp": "2026-05-08T06:32:10.871351+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -650,7 +619,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:01:53.690752+00:00",
+    "timestamp": "2026-05-08T06:32:01.623984+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -685,7 +654,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:01:44.212365+00:00",
+    "timestamp": "2026-05-08T06:31:52.431776+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -703,24 +672,78 @@
     "sentiment": "negative",
     "entities": [
       {
-        "name": "Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Trump",
-        "type": "PERSON"
-      },
-      {
         "name": "Iran",
         "type": "LOCATION"
       },
       {
         "name": "US",
         "type": "LOCATION"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:01:34.645683+00:00",
+    "timestamp": "2026-05-08T06:31:43.412122+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42b95ae3026abf17",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/08052026",
+    "title": "Iraq denies US allegations tying official to Iran-linked oil diversion",
+    "title_en": "Iraq denies US allegations tying official to Iran-linked oil diversion",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T06:31:34.953504+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b32ecaa55d099b90",
+    "url": "https://www.rudaw.net/english/kurdistan/070520262",
+    "title": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "DNO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Tawke oilfield",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T06:03:52.219571+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
