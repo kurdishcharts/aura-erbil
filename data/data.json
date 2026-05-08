@@ -23,9 +23,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:35:03.023626+00:00",
+    "timestamp": "2026-05-08T13:05:52.317574+00:00",
     "location": {
-      "name": "Erbil",
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:34:53.910109+00:00",
+    "timestamp": "2026-05-08T13:05:42.136248+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -77,7 +77,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:34:46.206991+00:00",
+    "timestamp": "2026-05-08T13:05:31.906929+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +112,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:34:38.080988+00:00",
+    "timestamp": "2026-05-08T13:05:22.689769+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -126,20 +126,16 @@
     "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
         "name": "Barzani",
         "type": "PERSON"
-      },
-      {
-        "name": "Baghdad",
-        "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:34:31.386934+00:00",
+    "timestamp": "2026-05-08T13:05:16.063353+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -154,7 +150,7 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "KDP",
@@ -166,7 +162,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:34:24.574833+00:00",
+    "timestamp": "2026-05-08T13:04:58.192884+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -194,14 +190,10 @@
       {
         "name": "Kurdistan",
         "type": "LOCATION"
-      },
-      {
-        "name": "Iranians",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:34:15.549371+00:00",
+    "timestamp": "2026-05-08T13:04:48.960634+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +224,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T12:34:07.024062+00:00",
+    "timestamp": "2026-05-08T13:04:39.795959+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -263,38 +255,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:33:58.775125+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8beb95b74dfedaab",
-    "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
-    "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Tehran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "war",
-        "type": "GENERAL"
-      }
-    ],
-    "breaking": 2,
-    "timestamp": "2026-05-08T12:33:44.027153+00:00",
+    "timestamp": "2026-05-08T13:04:30.566269+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -325,7 +286,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:33:36.900869+00:00",
+    "timestamp": "2026-05-08T13:04:15.728072+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -349,18 +310,14 @@
       {
         "name": "Kirkuk",
         "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:33:28.079777+00:00",
+    "timestamp": "2026-05-08T13:04:08.849824+00:00",
     "location": {
-      "name": "Kirkuk Road",
-      "lat": 36.1722,
-      "lng": 44.0489
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -378,12 +335,12 @@
         "type": "PERSON"
       },
       {
-        "name": "Thursday",
+        "name": "ankawa",
         "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:33:19.040825+00:00",
+    "timestamp": "2026-05-08T13:04:00.209598+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -414,7 +371,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:33:10.886505+00:00",
+    "timestamp": "2026-05-08T13:03:52.144464+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -453,7 +410,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:32:56.738601+00:00",
+    "timestamp": "2026-05-08T13:03:44.270212+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -472,7 +429,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       },
       {
         "name": "Erbil",
@@ -484,7 +441,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T12:32:48.423079+00:00",
+    "timestamp": "2026-05-08T13:03:34.419326+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -512,10 +469,14 @@
       {
         "name": "US",
         "type": "LOCATION"
+      },
+      {
+        "name": "rep",
+        "type": "PERSON"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T12:32:39.875924+00:00",
+    "timestamp": "2026-05-08T13:03:25.442781+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -550,7 +511,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:32:31.289667+00:00",
+    "timestamp": "2026-05-08T13:03:16.411081+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -585,7 +546,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:32:23.141433+00:00",
+    "timestamp": "2026-05-08T13:03:07.462778+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -620,7 +581,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:32:10.159332+00:00",
+    "timestamp": "2026-05-08T13:02:58.746664+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -646,12 +607,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "28",
-        "type": "NUMBER"
+        "name": "28 people",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:32:00.946311+00:00",
+    "timestamp": "2026-05-08T13:02:49.774938+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -682,7 +643,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:31:54.538166+00:00",
+    "timestamp": "2026-05-08T13:02:40.260567+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -713,7 +674,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T12:31:47.412592+00:00",
+    "timestamp": "2026-05-08T13:02:30.787922+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -741,10 +702,76 @@
       {
         "name": "Hasaka",
         "type": "LOCATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T12:31:39.561789+00:00",
+    "timestamp": "2026-05-08T13:02:21.435550+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9430c8b9cc1ea5b1",
+    "url": "https://www.rudaw.net/english/middleeast/iran/080520261",
+    "title": "Iran seizes US-sanctioned tanker carrying Iranian oil",
+    "title_en": "Iran seizes US-sanctioned tanker carrying Iranian oil",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "LOCATION"
+      },
+      {
+        "name": "tanker",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T13:02:12.149531+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8beb95b74dfedaab",
+    "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
+    "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
+    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Tehran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "war",
+        "type": "GENERAL"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-08T12:33:44.027153+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
