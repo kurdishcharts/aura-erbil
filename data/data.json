@@ -23,7 +23,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:53.844045+00:00",
+    "timestamp": "2026-05-08T11:04:48.154141+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:44.345905+00:00",
+    "timestamp": "2026-05-08T11:04:40.711452+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -77,7 +77,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:34.758805+00:00",
+    "timestamp": "2026-05-08T11:04:34.021719+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +112,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:27.436852+00:00",
+    "timestamp": "2026-05-08T11:04:22.800898+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -126,7 +126,7 @@
     "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
@@ -139,7 +139,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:34:20.063729+00:00",
+    "timestamp": "2026-05-08T11:04:13.766791+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -166,7 +166,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:11.978700+00:00",
+    "timestamp": "2026-05-08T11:04:05.330173+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -201,7 +201,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:34:03.653412+00:00",
+    "timestamp": "2026-05-08T11:03:58.055017+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +232,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T10:33:55.993182+00:00",
+    "timestamp": "2026-05-08T11:03:50.599939+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -243,14 +243,14 @@
     "id": "1a7b813fcab18afc",
     "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
     "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "title_en": "Crimes of the Ba'ath Era Against Kurds in Focus as Former Warden Faces Trial in Baghdad",
+    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "negative",
     "entities": [
       {
-        "name": "Ba'ath",
+        "name": "Ba’ath",
         "type": "ORGANIZATION"
       },
       {
@@ -263,7 +263,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:33:47.004496+00:00",
+    "timestamp": "2026-05-08T11:03:42.867315+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -290,7 +290,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:33:31.948738+00:00",
+    "timestamp": "2026-05-08T11:03:30.669484+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -321,7 +321,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:33:23.956788+00:00",
+    "timestamp": "2026-05-08T11:03:21.157092+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -352,7 +352,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:33:16.192969+00:00",
+    "timestamp": "2026-05-08T11:03:14.267590+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -376,18 +376,14 @@
       {
         "name": "Kirkuk",
         "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:33:06.643124+00:00",
+    "timestamp": "2026-05-08T11:03:06.676755+00:00",
     "location": {
-      "name": "Kirkuk Road",
-      "lat": 36.1722,
-      "lng": 44.0489
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -410,7 +406,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:32:57.624532+00:00",
+    "timestamp": "2026-05-08T11:02:59.218926+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -441,7 +437,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:32:46.409305+00:00",
+    "timestamp": "2026-05-08T11:02:48.696243+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -480,7 +476,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:32:36.441491+00:00",
+    "timestamp": "2026-05-08T11:02:41.285965+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -511,7 +507,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T10:32:29.214723+00:00",
+    "timestamp": "2026-05-08T11:02:33.500316+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -543,14 +539,10 @@
       {
         "name": "rep",
         "type": "PERSON"
-      },
-      {
-        "name": "Hormuz",
-        "type": "LOCATION"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T10:32:21.340139+00:00",
+    "timestamp": "2026-05-08T11:02:25.080734+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -585,7 +577,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:32:13.438049+00:00",
+    "timestamp": "2026-05-08T11:02:17.991558+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -620,7 +612,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:32:05.944118+00:00",
+    "timestamp": "2026-05-08T11:02:09.390038+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -655,7 +647,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:31:57.420353+00:00",
+    "timestamp": "2026-05-08T11:01:59.424428+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -686,7 +678,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:31:48.575775+00:00",
+    "timestamp": "2026-05-08T11:01:51.068732+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -712,12 +704,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "Constitutional guarantees",
+        "name": "Kurdish language",
         "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T10:31:41.808897+00:00",
+    "timestamp": "2026-05-08T11:01:40.932008+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -748,7 +740,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T10:31:35.155015+00:00",
+    "timestamp": "2026-05-08T11:01:33.841794+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
