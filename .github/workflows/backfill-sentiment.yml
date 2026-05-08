@@ -12,12 +12,10 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
-      - name: Run backfill
-        env:
-          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+      - name: Create backfill script
         run: |
-          python3 << 'PYEOF'
-          import sqlite3, json, time, sys
+          cat > backfill.py << 'PYEOF'
+          import sqlite3, json, time, os, sys
           sys.path.insert(0, 'scraper')
           from scraper_cohere import _enrich_with_ai
 
@@ -29,17 +27,17 @@ jobs:
           print(f"Backfilling {len(rows)} articles...")
           for i, row in enumerate(rows):
               try:
-                  enrichment = _enrich_with_ai(row['title'] or '', row['summary'] or '')
+                  enrichment = _enrich_with_ai(row["title"] or "", row["summary"] or "")
                   conn.execute(
                       "UPDATE articles SET title_en=?, category=?, sentiment=?, entities=? WHERE id=?",
-                      (enrichment['title_en'], enrichment['category'],
-                       enrichment['sentiment'], json.dumps(enrichment['entities']), row['id'])
+                      (enrichment["title_en"], enrichment["category"],
+                       enrichment["sentiment"], json.dumps(enrichment["entities"]), row["id"])
                   )
                   conn.commit()
                   print(f"  [{i+1}/{len(rows)}] {row['title'][:60]}")
               except Exception as e:
-                  print(f"  Skipping {str(row['id'])[:8]}... ({e})")
-              time.sleep(3)
+                  print(f"  Error: {e}")
+              # _enrich_with_ai already sleeps 3 sec, no extra sleep needed
           conn.close()
 
           # Export JSON
@@ -49,24 +47,23 @@ jobs:
           records = []
           for r in rows:
               records.append({
-                  'id': r['id'],
-                  'url': r['url'],
-                  'title': r['title'],
-                  'title_en': r['title_en'] or r['title'],
-                  'summary': r['summary'],
-                  'source': r['source'],
-                  'category': r['category'],
+                  'id': r['id'], 'url': r['url'], 'title': r['title'],
+                  'title_en': r['title_en'] or r['title'], 'summary': r['summary'],
+                  'source': r['source'], 'category': r['category'],
                   'sentiment': r['sentiment'] or 'neutral',
                   'entities': json.loads(r['entities']) if r['entities'] else [],
-                  'breaking': 1,
-                  'timestamp': r['published_at'],
-                  'location': {'name': r['loc_name'], 'lat': r['lat'], 'lng': r['lng']},
+                  'breaking': 1, 'timestamp': r['published_at'],
+                  'location': {'name': r['loc_name'], 'lat': r['lat'], 'lng': r['lng']}
               })
           with open('data/data.json', 'w') as f:
               json.dump(records, f, ensure_ascii=False, indent=2)
           print(f'Exported {len(records)} records to data/data.json')
           conn.close()
           PYEOF
+      - name: Run backfill
+        env:
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+        run: python3 backfill.py
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -75,4 +72,3 @@ jobs:
           git diff --staged --quiet || git commit -m "Backfill sentiment"
           git pull --rebase origin main
           git push origin main
-
