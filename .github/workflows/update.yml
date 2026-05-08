@@ -28,6 +28,7 @@ jobs:
         env:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
         run: python scraper/scraper_cohere.py
 
 
