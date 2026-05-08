@@ -17,7 +17,7 @@ jobs:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
         run: |
           python3 << 'PYEOF'
-          import sqlite3, json, time, os, sys
+          import sqlite3, json, time, sys
           sys.path.insert(0, 'scraper')
           from scraper_cohere import _enrich_with_ai
 
@@ -29,18 +29,19 @@ jobs:
           print(f"Backfilling {len(rows)} articles...")
           for i, row in enumerate(rows):
               try:
-                  enrichment = _enrich_with_ai(row["title"] or "", row["summary"] or "")
+                  enrichment = _enrich_with_ai(row['title'] or '', row['summary'] or '')
                   conn.execute(
                       "UPDATE articles SET title_en=?, category=?, sentiment=?, entities=? WHERE id=?",
-                      (enrichment["title_en"], enrichment["category"],
-                       enrichment["sentiment"], json.dumps(enrichment["entities"]), row["id"])
+                      (enrichment['title_en'], enrichment['category'],
+                       enrichment['sentiment'], json.dumps(enrichment['entities']), row['id'])
                   )
                   conn.commit()
                   print(f"  [{i+1}/{len(rows)}] {row['title'][:60]}")
               except Exception as e:
-                  print(f"  Skipping {row['id'][:8]}... ({e})")
+                  print(f"  Skipping {str(row['id'])[:8]}... ({e})")
               time.sleep(3)
           conn.close()
+
           # Export JSON
           conn = sqlite3.connect('data/aura.db')
           conn.row_factory = sqlite3.Row
@@ -48,13 +49,18 @@ jobs:
           records = []
           for r in rows:
               records.append({
-                  'id': r['id'], 'url': r['url'], 'title': r['title'],
-                  'title_en': r['title_en'] or r['title'], 'summary': r['summary'],
-                  'source': r['source'], 'category': r['category'],
+                  'id': r['id'],
+                  'url': r['url'],
+                  'title': r['title'],
+                  'title_en': r['title_en'] or r['title'],
+                  'summary': r['summary'],
+                  'source': r['source'],
+                  'category': r['category'],
                   'sentiment': r['sentiment'] or 'neutral',
                   'entities': json.loads(r['entities']) if r['entities'] else [],
-                  'breaking': 1, 'timestamp': r['published_at'],
-                  'location': {'name': r['loc_name'], 'lat': r['lat'], 'lng': r['lng']}
+                  'breaking': 1,
+                  'timestamp': r['published_at'],
+                  'location': {'name': r['loc_name'], 'lat': r['lat'], 'lng': r['lng']},
               })
           with open('data/data.json', 'w') as f:
               json.dump(records, f, ensure_ascii=False, indent=2)
@@ -69,3 +75,4 @@ jobs:
           git diff --staged --quiet || git commit -m "Backfill sentiment"
           git pull --rebase origin main
           git push origin main
+
