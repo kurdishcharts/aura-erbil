@@ -99,7 +99,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:19:31.732710+00:00",
     "location": {
       "name": "Erbil",
@@ -179,7 +179,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:19:10.816925+00:00",
     "location": {
       "name": "Kurdistan",
@@ -380,7 +380,7 @@
         "type": "GENERAL"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:18:23.720803+00:00",
     "location": {
       "name": "Erbil",
@@ -500,7 +500,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:17:57.745165+00:00",
     "location": {
       "name": "Erbil",
@@ -570,7 +570,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:17:44.243916+00:00",
     "location": {
       "name": "Erbil",
@@ -605,7 +605,7 @@
         "type": "PERSON"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:17:37.950803+00:00",
     "location": {
       "name": "Erbil",
@@ -636,7 +636,7 @@
         "type": "YEAR"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T04:17:33.177588+00:00",
     "location": {
       "name": "Erbil",
@@ -1141,7 +1141,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-08T02:29:56.253709+00:00",
     "location": {
       "name": "Erbil",
@@ -1273,7 +1273,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T02:29:31.709000+00:00",
     "location": {
       "name": "Erbil",
@@ -1677,7 +1677,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-08T01:55:57.612382+00:00",
     "location": {
       "name": "Erbil",
@@ -1948,7 +1948,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-07T16:28:34.142745+00:00",
     "location": {
       "name": "Kurdistan",
@@ -1975,7 +1975,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-07T16:28:26.195671+00:00",
     "location": {
       "name": "Erbil",
@@ -2006,7 +2006,7 @@
         "type": "GENERAL"
       }
     ],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-07T09:47:16.394785+00:00",
     "location": {
       "name": "Erbil",
@@ -2033,7 +2033,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-07T09:47:09.820617+00:00",
     "location": {
       "name": "Kurdistan",
@@ -2091,7 +2091,7 @@
         "type": "PERSON"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-07T09:46:59.441400+00:00",
     "location": {
       "name": "Erbil",
@@ -2149,7 +2149,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-07T09:46:46.083453+00:00",
     "location": {
       "name": "Ankawa",
@@ -2243,7 +2243,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T18:45:05.203406+00:00",
     "location": {
       "name": "Erbil",
@@ -2297,7 +2297,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T18:44:50.133377+00:00",
     "location": {
       "name": "Erbil",
@@ -2351,7 +2351,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T18:44:35.127327+00:00",
     "location": {
       "name": "Kurdistan",
@@ -2369,7 +2369,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-06T18:44:20.232345+00:00",
     "location": {
       "name": "Erbil",
@@ -2387,7 +2387,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-06T05:32:03.597790+00:00",
     "location": {
       "name": "Erbil",
@@ -2423,7 +2423,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T05:31:45.082247+00:00",
     "location": {
       "name": "Erbil",
@@ -2495,7 +2495,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T05:31:15.952799+00:00",
     "location": {
       "name": "Erbil",
@@ -2531,7 +2531,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-06T05:31:06.475807+00:00",
     "location": {
       "name": "Erbil",
@@ -2639,7 +2639,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-05T20:49:29.231699+00:00",
     "location": {
       "name": "Bakhtiyari",
@@ -2675,7 +2675,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 2,
+    "breaking": 1,
     "timestamp": "2026-05-05T17:11:06.757555+00:00",
     "location": {
       "name": "Erbil",
@@ -2693,7 +2693,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T17:10:42.706713+00:00",
     "location": {
       "name": "Erbil",
@@ -2729,7 +2729,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T17:10:31.777139+00:00",
     "location": {
       "name": "Erbil",
@@ -2747,7 +2747,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T17:10:08.613147+00:00",
     "location": {
       "name": "Erbil",
@@ -2891,7 +2891,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T07:35:53.480603+00:00",
     "location": {
       "name": "Erbil",
@@ -2909,7 +2909,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
       "name": "Erbil",
@@ -2945,7 +2945,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T00:11:10.588789+00:00",
     "location": {
       "name": "Erbil",
@@ -2963,7 +2963,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-05T00:11:03.202966+00:00",
     "location": {
       "name": "Erbil",
@@ -2981,7 +2981,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-04T20:50:22.577347+00:00",
     "location": {
       "name": "Erbil",
@@ -2999,7 +2999,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-04T19:03:07.405832+00:00",
     "location": {
       "name": "Erbil",
@@ -3107,7 +3107,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
       "name": "Erbil",
@@ -3305,7 +3305,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 3,
+    "breaking": 1,
     "timestamp": "2026-05-03T20:06:50.243236+00:00",
     "location": {
       "name": "Kurdistan",
