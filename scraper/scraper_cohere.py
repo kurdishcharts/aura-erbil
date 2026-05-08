@@ -109,7 +109,7 @@ except KeyError:
     print("FATAL: COHERE_API_KEY environment variable not set"); exit(1)
 
 def _enrich_with_ai(title_original: str, summary: str) -> dict:
-    """Try Cohere, then Together, then fall back to keyword defaults."""
+    """Try GitHub Models first (free, no key), then Cohere, then Together, then keyword defaults."""
     loc_keys = list(LOCATIONS.keys())
     loc_list_str = ", ".join(loc_keys[:40])
 
@@ -122,7 +122,7 @@ Given the title and body of a news article, perform these tasks:
 3. From the list below, pick the single location most specific to the article.
    If none match, use "erbil".
 4. Determine the overall sentiment of the article: positive, negative, or neutral.
-5. Extract up to 5 named entities (persons, organizations, places) mentioned in the article.
+5. Extract up to 5 named entities (persons, organizations, places) mentioned.
    For each entity, specify a type: PERSON, ORGANIZATION, or LOCATION.
 
 Available locations: {loc_list_str}
@@ -135,26 +135,54 @@ Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, .
 Title: {title_original}
 Body: {summary[:2000]}"""
 
-    data = None   # ensure it's always defined
+    data = None
 
-    # --- Cohere ---
-    try:
-        time.sleep(3)  # throttle for trial key (20 calls/min)
-        response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
-        raw = response.text.strip()
-        match = re.search(r'\{.*\}', raw, re.DOTALL)
-        if match:
-            data = json.loads(match.group())
-        else:
-            print("  [cohere] No JSON found, trying Together...")
-    except Exception as e:
-        print(f"  [cohere] AI call failed ({e}), trying Together AI fallback...")
+    # --- 1. GitHub Models (primary, free, zero setup) ---
+    if "GITHUB_TOKEN" in os.environ or "GH_TOKEN" in os.environ:
+        try:
+            import openai as _openai
+            gh_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+            gh_client = _openai.OpenAI(
+                base_url="https://models.github.ai/inference",
+                api_key=gh_token,
+            )
+            resp = gh_client.chat.completions.create(
+                model="cohere/command-a",  # Cohere model hosted on GitHub Models
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.0,
+                max_tokens=1000,
+            )
+            raw = resp.choices[0].message.content
+            import re as _re
+            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
+            if match:
+                data = json.loads(match.group())
+                print("  [github-models] enriched successfully")
+            else:
+                print("  [github-models] No JSON found, trying Cohere...")
+        except Exception as e:
+            print(f"  [github-models] failed ({e}), trying Cohere...")
 
-    # --- Together AI fallback ---
+    # --- 2. Cohere (fallback, 1000 calls/month trial) ---
+    if data is None:
+        try:
+            time.sleep(3)
+            response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
+            raw = response.text.strip()
+            import re as _re
+            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
+            if match:
+                data = json.loads(match.group())
+            else:
+                print("  [cohere] No JSON found, trying Together...")
+        except Exception as e:
+            print(f"  [cohere] AI call failed ({e}), trying Together AI fallback...")
+
+    # --- 3. Together AI (fallback, credit may be exhausted) ---
     if data is None and "TOGETHER_API_KEY" in os.environ:
         try:
-            import openai
-            together_client = openai.OpenAI(
+            import openai as _openai2
+            together_client = _openai2.OpenAI(
                 api_key=os.environ["TOGETHER_API_KEY"],
                 base_url="https://api.together.xyz/v1",
             )
@@ -165,7 +193,8 @@ Body: {summary[:2000]}"""
                 max_tokens=1000,
             )
             raw = resp.choices[0].message.content
-            match = re.search(r'\{.*\}', raw, re.DOTALL)
+            import re as _re
+            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
             if match:
                 data = json.loads(match.group())
             else:
@@ -173,7 +202,7 @@ Body: {summary[:2000]}"""
         except Exception as e2:
             print(f"  [together] also failed ({e2}), falling back to keyword defaults")
 
-    # --- Keyword fallback if both failed ---
+    # --- 4. Keyword fallback ---
     if data is None:
         loc = _detect_location(title_original + " " + summary)
         return {
@@ -186,7 +215,7 @@ Body: {summary[:2000]}"""
             "entities": []
         }
 
-    # --- Process successful AI data ---
+    # --- Process AI response ---
     valid_cats = set(KEYWORDS.keys()) | {"general"}
     cat = data.get("category", "general")
     if cat not in valid_cats:
@@ -225,149 +254,3 @@ Body: {summary[:2000]}"""
         "sentiment": sentiment,
         "entities": cleaned_entities
     }
-def _ensure_db():
-    os.makedirs("data", exist_ok=True)
-    conn = sqlite3.connect(DB_PATH)
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS articles (
-            id            TEXT PRIMARY KEY,
-            url           TEXT UNIQUE NOT NULL,
-            title         TEXT,
-            title_en      TEXT,
-            summary       TEXT,
-            source        TEXT,
-            category      TEXT,
-            loc_name      TEXT,
-            lat           REAL,
-            lng           REAL,
-            published_at  TEXT,
-            fetched_at    TEXT,
-            etag          TEXT,
-            last_modified TEXT,
-            breaking      INTEGER DEFAULT 1
-        )
-    """)
-    for col, col_type in [('title_en','TEXT'),('sentiment','TEXT'),('entities','TEXT')]:
-        try: conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
-        except sqlite3.OperationalError: pass
-    conn.commit()
-    conn.close()
-
-def _connect():
-    conn = sqlite3.connect(DB_PATH); conn.row_factory = sqlite3.Row; return conn
-
-def _db_upsert(conn, item, etag=None, lm=None):
-    conn.execute("""
-        INSERT INTO articles (id,url,title,title_en,summary,source,category,
-            loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking,
-            sentiment,entities)
-        VALUES (:id,:url,:title,:title_en,:summary,:source,:category,
-            :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking,
-            :sentiment,:entities)
-        ON CONFLICT(url) DO UPDATE SET
-            title=excluded.title, title_en=excluded.title_en,
-            summary=excluded.summary, category=excluded.category,
-            loc_name=excluded.loc_name, lat=excluded.lat, lng=excluded.lng,
-            published_at=excluded.published_at, fetched_at=excluded.fetched_at,
-            etag=excluded.etag, last_modified=excluded.last_modified,
-            sentiment=excluded.sentiment, entities=excluded.entities
-    """, {**item, "etag": etag, "lm": lm})
-    conn.commit()
-
-def _db_prune(conn):
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)).isoformat()
-    conn.execute("DELETE FROM articles WHERE published_at < ?", (cutoff,)); conn.commit()
-
-def _export_json(conn):
-    rows = conn.execute("SELECT * FROM articles ORDER BY published_at DESC").fetchall()
-    all_titles = [r["title"] or "" for r in rows]
-    records = []
-    for r in rows:
-        records.append({
-            "id": r["id"], "url": r["url"], "title": r["title"],
-            "title_en": r["title_en"] or r["title"], "summary": r["summary"],
-            "source": r["source"], "category": r["category"],
-            "sentiment": r["sentiment"] or "neutral",
-            "entities": json.loads(r["entities"]) if r["entities"] else [],
-            "breaking": _score_breaking(r["title"] or "", all_titles),
-            "timestamp": r["published_at"],
-            "location": {"name": r["loc_name"], "lat": r["lat"], "lng": r["lng"]}
-        })
-    with open(JSON_EXPORT, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
-    print(f"  Exported {len(records)} records → {JSON_EXPORT}")
-
-def _run():
-    print("=== Aura-Erbil AI Scraper (Cohere API) ===")
-    _ensure_db(); conn = _connect()
-    print("→ RSS feed …"); added = 0
-    try:
-        feed = feedparser.parse(RUDAW_RSS)
-        for entry in feed.entries:
-            url = entry.get("link", ""); title = _clean_title(entry.get("title", "").strip())
-            if not url or not title: continue
-            summary = BeautifulSoup(entry.get("summary", ""), "lxml").get_text(" ", strip=True)[:300]
-            pub_parsed = entry.get("published_parsed")
-            pub = datetime(*pub_parsed[:6], tzinfo=timezone.utc).isoformat() if pub_parsed else _now_iso()
-            enrichment = _enrich_with_ai(title, summary) if (title or summary) else {
-                "title_en": title, "category": "general", "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
-                "sentiment": "neutral", "entities": []}
-            _db_upsert(conn, {
-                "id": _make_id(url), "url": url, "title": title, "title_en": enrichment["title_en"],
-                "summary": summary, "source": "rudaw-rss", "category": enrichment["category"],
-                "loc_name": enrichment["loc_name"], "lat": enrichment["lat"], "lng": enrichment["lng"],
-                "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
-                "sentiment": enrichment.get("sentiment", "neutral"),
-                "entities": json.dumps(enrichment.get("entities", []))
-            })
-            added += 1
-        print(f"  RSS: processed {added} entries")
-    except Exception as exc: print(f"  RSS error: {exc}")
-
-    if added == 0:
-        print("  RSS returned nothing — triggering scrape fallback …")
-        queue = [urljoin(BASE_URL, p) for p in LIST_PATHS]; visited = set(); pages = 0
-        while queue and pages < MAX_PAGES_PER_RUN:
-            url = queue.pop(0)
-            if url in visited: continue
-            visited.add(url)
-            if any(url.rstrip("/").endswith(p.rstrip("/")) for p in LIST_PATHS):
-                html, _, _ = _fetch(url)
-                if not html: continue
-                pages += 1
-                soup = BeautifulSoup(html, "lxml")
-                for a in soup.select("a[href]"):
-                    href = a["href"]; full = urljoin(BASE_URL, href)
-                    if _same_origin(full) and ("/english/" in full or "/sorani/" in full or "/kurmanci/" in full) and len(_clean_title(a.get_text(strip=True))) > 5:
-                        if full not in visited: queue.append(full)
-                continue
-            etag, lm = conn.execute("SELECT etag, last_modified FROM articles WHERE url=?", (url,)).fetchone() or (None, None)
-            html, new_etag, new_lm = _fetch(url, etag, lm)
-            pages += 1
-            if html in (None, "NOT_MODIFIED"): continue
-            soup = BeautifulSoup(html, "lxml")
-            h1 = soup.find("h1"); title = _clean_title(h1.get_text(strip=True) if h1 else "")
-            if not title: continue
-            time_tag = soup.find("time"); pub = time_tag["datetime"] if time_tag and time_tag.get("datetime") else _now_iso()
-            paras = [p.get_text(" ", strip=True) for p in soup.select("article p, .article-body p")]
-            summary = " ".join(paras)[:2000] if paras else ""
-            enrichment = _enrich_with_ai(title, summary) if title else {
-                "title_en": title, "category": "general", "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
-                "sentiment": "neutral", "entities": []}
-            _db_upsert(conn, {
-                "id": _make_id(url), "url": url, "title": title, "title_en": enrichment["title_en"],
-                "summary": summary, "source": "rudaw-scrape", "category": enrichment["category"],
-                "loc_name": enrichment["loc_name"], "lat": enrichment["lat"], "lng": enrichment["lng"],
-                "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
-                "sentiment": enrichment.get("sentiment", "neutral"),
-                "entities": json.dumps(enrichment.get("entities", []))
-            })
-            added += 1
-            print(f"  [saved] {title[:70]}")
-        print(f"  Scrape: {added} new articles ({pages} pages fetched)")
-
-    _db_prune(conn); _export_json(conn); conn.close()
-    print("=== Done ===")
-
-if __name__ == "__main__":
-    _run()

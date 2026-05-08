@@ -6,6 +6,7 @@ on:
     - cron: '*/30 * * * *'
 
 permissions:
+  models: read
   contents: write
 
 jobs:
