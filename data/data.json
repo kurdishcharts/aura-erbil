@@ -23,9 +23,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:36:10.630121+00:00",
+    "timestamp": "2026-05-08T15:06:44.204630+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:36:01.792847+00:00",
+    "timestamp": "2026-05-08T15:06:34.505264+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,16 +72,12 @@
         "type": "ORGANIZATION"
       },
       {
-        "name": "election",
-        "type": "EVENT"
-      },
-      {
-        "name": "press",
-        "type": "ORGANIZATION"
+        "name": "election event",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:35:51.764038+00:00",
+    "timestamp": "2026-05-08T15:06:11.304223+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -116,7 +112,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:35:42.950879+00:00",
+    "timestamp": "2026-05-08T15:05:53.881158+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -143,7 +139,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:35:31.843805+00:00",
+    "timestamp": "2026-05-08T15:05:36.715642+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -170,7 +166,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:35:23.152077+00:00",
+    "timestamp": "2026-05-08T15:04:49.505976+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -198,14 +194,10 @@
       {
         "name": "Kurdistan",
         "type": "LOCATION"
-      },
-      {
-        "name": "Iranians",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:35:13.792093+00:00",
+    "timestamp": "2026-05-08T15:04:41.003660+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -236,7 +228,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:35:04.361124+00:00",
+    "timestamp": "2026-05-08T15:04:31.452613+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -267,38 +259,11 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:34:56.359462+00:00",
+    "timestamp": "2026-05-08T15:04:20.751252+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "fc1d18a81c162cd4",
-    "url": "https://www.rudaw.net/english/kurdistan/070520264",
-    "title": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
-    "title_en": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Kurdish opposition leader",
-        "type": "PERSON"
-      },
-      {
-        "name": "ankawa",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T14:34:34.273706+00:00",
-    "location": {
-      "name": "Ankawa",
-      "lat": 36.2497,
-      "lng": 43.9992
     }
   },
   {
@@ -325,7 +290,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:34:26.156797+00:00",
+    "timestamp": "2026-05-08T15:03:59.020238+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -364,7 +329,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:34:17.040279+00:00",
+    "timestamp": "2026-05-08T15:03:51.339417+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -395,7 +360,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:34:09.944820+00:00",
+    "timestamp": "2026-05-08T15:03:42.432566+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -427,14 +392,10 @@
       {
         "name": "rep",
         "type": "PERSON"
-      },
-      {
-        "name": "Hormuz",
-        "type": "LOCATION"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:34:02.191917+00:00",
+    "timestamp": "2026-05-08T15:03:32.853387+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -469,7 +430,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:33:39.709812+00:00",
+    "timestamp": "2026-05-08T15:03:25.596020+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -487,20 +448,24 @@
     "sentiment": "negative",
     "entities": [
       {
+        "name": "Hormuz",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
+      },
+      {
         "name": "Iran",
         "type": "LOCATION"
       },
       {
         "name": "US",
         "type": "LOCATION"
-      },
-      {
-        "name": "Trump",
-        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:33:31.589533+00:00",
+    "timestamp": "2026-05-08T15:03:14.455658+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -535,7 +500,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:33:24.017710+00:00",
+    "timestamp": "2026-05-08T15:03:06.678781+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -566,7 +531,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:33:16.623507+00:00",
+    "timestamp": "2026-05-08T15:02:58.161003+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -592,12 +557,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "Constitutional guarantees",
+        "name": "Kurdish language",
         "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:33:10.051660+00:00",
+    "timestamp": "2026-05-08T15:02:51.430654+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -621,14 +586,10 @@
       {
         "name": "Iran",
         "type": "LOCATION"
-      },
-      {
-        "name": "air defenses",
-        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:33:01.739623+00:00",
+    "timestamp": "2026-05-08T15:02:44.432779+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -656,14 +617,10 @@
       {
         "name": "Hasaka",
         "type": "LOCATION"
-      },
-      {
-        "name": "Governor",
-        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:32:53.583668+00:00",
+    "timestamp": "2026-05-08T15:02:37.216064+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -694,7 +651,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:32:44.096849+00:00",
+    "timestamp": "2026-05-08T15:02:28.273204+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -721,7 +678,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:32:34.764847+00:00",
+    "timestamp": "2026-05-08T15:02:20.520258+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -752,11 +709,65 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:32:25.216446+00:00",
+    "timestamp": "2026-05-08T15:02:11.794429+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
+    }
+  },
+  {
+    "id": "f7edcfc2cc1a903b",
+    "url": "https://www.rudaw.net/english/middleeast/080520262",
+    "title": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
+    "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iranian ports",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T15:02:04.971603+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fc1d18a81c162cd4",
+    "url": "https://www.rudaw.net/english/kurdistan/070520264",
+    "title": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
+    "title_en": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Kurdish opposition leader",
+        "type": "PERSON"
+      },
+      {
+        "name": "ankawa",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T14:34:34.273706+00:00",
+    "location": {
+      "name": "Ankawa",
+      "lat": 36.2497,
+      "lng": 43.9992
     }
   },
   {
