@@ -1,7 +1,7 @@
 """
-Aura-Erbil — Multisource Sorani-first scraper
-Scrapes: Rudaw Sorani, Channel8 Sorani, NRT Sorani, AVA News Kurdish,
-then English mirrors. Enriches via Cohere, upserts into same DB.
+Aura-Erbil — Multisource Sorani-first scraper (fixed sources)
+Scrapes: Rudaw, Channel8, NRT, AVA News (Sorani first, then English).
+Enriches via Cohere, upserts into same DB.
 Usage: set COHERE_API_KEY, then: python scraper/scraper_multisource.py
 """
 
@@ -22,18 +22,18 @@ MAX_DELAY         = 5.0
 MAX_PAGES         = 30
 LOOKBACK_DAYS     = 7
 
-# Sorani-first, then English
+# Sorani-first, then English — FIXED DOMAINS
 SOURCES = [
     # Sorani/Kurdish pages
     ("https://www.rudaw.net/sorani", "rudaw-sorani"),
-    ("https://channel8.tv/ku", "channel8-sorani"),
+    ("https://channel8.com/ku", "channel8-sorani"),            # fixed domain
     ("https://www.nrttv.com/ku/News.aspx", "nrt-sorani"),
-    ("https://www.avanews.ir/fa", "avanews-kurdish"),
+    ("https://ava.news/ku", "avanews-kurdish"),                # fixed domain
     # English mirrors
     ("https://www.rudaw.net/english", "rudaw-english"),
-    ("https://channel8.tv/en", "channel8-english"),
+    ("https://channel8.com/en", "channel8-english"),           # fixed domain
     ("https://www.nrttv.com/En/News.aspx", "nrt-english"),
-    ("https://www.avanews.ir/en", "avanews-english"),
+    ("https://ava.news/en", "avanews-english"),                # fixed domain
 ]
 
 session = requests.Session()
@@ -57,7 +57,7 @@ def _fetch(url):
         return None
     try:
         time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
-        r = session.get(url, timeout=15)
+        r = session.get(url, timeout=15, allow_redirects=True)   # ← fixed NRT redirect
         if r.status_code == 200:
             return r.text
         print(f"  [warn] HTTP {r.status_code} for {url}")
@@ -66,7 +66,7 @@ def _fetch(url):
         print(f"  [error] {e}")
         return None
 
-# ── helpers (same as other scrapers) ────────────────────────────────────────
+# ── helpers ────────────────────────────────────────────────────────────────
 def _connect():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -81,9 +81,7 @@ def _now_iso():
 def _clean_title(raw):
     return re.sub(r'^\d+\s+(second|minute|hour|day)s?\s+ago', '', raw or '', flags=re.IGNORECASE).strip()
 
-# ── generic article extractor ───────────────────────────────────────────────
 def _extract_links(html, base_url, source_name):
-    """Find article links on listing pages."""
     soup = BeautifulSoup(html, "lxml")
     links = []
     for a in soup.select("a[href]"):
@@ -91,10 +89,9 @@ def _extract_links(html, base_url, source_name):
         text = _clean_title(a.get_text(strip=True))
         if len(text) > 10 and base_url in href:
             links.append((href, text))
-    return list(set(links))  # dedup
+    return list(set(links))
 
 def _parse_article(html, url):
-    """Extract title and body from article page."""
     soup = BeautifulSoup(html, "lxml")
     h1 = soup.find("h1")
     title = _clean_title(h1.get_text(strip=True) if h1 else "")
@@ -111,7 +108,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from scraper_cohere import _enrich_with_ai
 
 def _run():
-    print("=== Aura-Erbil Multisource Scraper (Sorani-first) ===")
+    print("=== Aura-Erbil Multisource Scraper (fixed) ===")
     conn = _connect()
     total = 0
 
@@ -133,7 +130,6 @@ def _run():
             if not article:
                 continue
 
-            # Enrich
             enrichment = _enrich_with_ai(article["title"], article["body"])
             item = {
                 "id": _make_id(article_url),
@@ -153,7 +149,6 @@ def _run():
                 "entities": json.dumps(enrichment.get("entities", []))
             }
 
-            # Upsert
             conn.execute("""
                 INSERT INTO articles (id,url,title,title_en,summary,source,category,
                     loc_name,lat,lng,published_at,fetched_at,breaking,
