@@ -1,46 +1,37 @@
 name: Update News Data
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
 
 jobs:
-  scrape-and-deploy:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
+          python-version: '3.11'
+      
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
-
-      - name: Run scraper
+      
+      - name: Run Cohere AI scraper
+        run: python scraper/scraper_cohere.py
         env:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
-          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
-        run: python scraper/scraper_cohere.py
-
-
-      - name: Commit and push
+      
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/data.json data/aura.db
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: auto-update news data [skip ci]"
-            git pull --rebase origin main
-            git push origin main
-          fi
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Auto-update news data"
+          git push
