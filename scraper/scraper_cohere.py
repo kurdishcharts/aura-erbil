@@ -108,8 +108,11 @@ try:
 except KeyError:
     print("FATAL: COHERE_API_KEY environment variable not set"); exit(1)
 
-def _enrich_with_ai(title_original, summary):
-    loc_keys = list(LOCATIONS.keys()); loc_list_str = ", ".join(loc_keys[:40])
+def _enrich_with_ai(title_original: str, summary: str) -> dict:
+    """Try Cohere, then Together, then fall back to keyword defaults."""
+    loc_keys = list(LOCATIONS.keys())
+    loc_list_str = ", ".join(loc_keys[:40])
+
     prompt = f"""You are a news enrichment assistant for the Kurdistan region.
 Given the title and body of a news article, perform these tasks:
 1. If the title is in Sorani Kurdish (Arabic script), translate it to English.
@@ -132,75 +135,96 @@ Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, .
 Title: {title_original}
 Body: {summary[:2000]}"""
 
+    data = None   # ensure it's always defined
+
+    # --- Cohere ---
     try:
-        time.sleep(3)  # stay under 20 calls/min (trial key)
+        time.sleep(3)  # throttle for trial key (20 calls/min)
         response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
         raw = response.text.strip()
         match = re.search(r'\{.*\}', raw, re.DOTALL)
-        if not match: raise ValueError("No JSON found in Cohere response")
-        data = json.loads(match.group())
+        if match:
+            data = json.loads(match.group())
+        else:
+            print("  [cohere] No JSON found, trying Together...")
     except Exception as e:
         print(f"  [cohere] AI call failed ({e}), trying Together AI fallback...")
-        # Try Together AI if key is set
-        if "TOGETHER_API_KEY" in os.environ:
-            try:
-                import openai
-                together_client = openai.OpenAI(
-                    api_key=os.environ["TOGETHER_API_KEY"],
-                    base_url="https://api.together.xyz/v1",
-                )
-                response = together_client.chat.completions.create(
-                    model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
-                    messages=[{"role": "user", "content": prompt}],
-                    temperature=0.0,
-                    max_tokens=1000,
-                )
-                raw = response.choices[0].message.content
-                match = re.search(r'\{.*\}', raw, re.DOTALL)
-                if match:
-                    data = json.loads(match.group())
-                else:
-                    raise ValueError("No JSON from Together")
-            except Exception as e2:
-                print(f"  [together] also failed ({e2}), falling back to keyword defaults")
-        else:
-            print("  No Together API key set, using keyword defaults")
-            # fall through to keyword fallback below
-        if data is None:
-            loc = _detect_location(title_original + " " + summary)
+
+    # --- Together AI fallback ---
+    if data is None and "TOGETHER_API_KEY" in os.environ:
+        try:
+            import openai
+            together_client = openai.OpenAI(
+                api_key=os.environ["TOGETHER_API_KEY"],
+                base_url="https://api.together.xyz/v1",
+            )
+            resp = together_client.chat.completions.create(
+                model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.0,
+                max_tokens=1000,
+            )
+            raw = resp.choices[0].message.content
+            match = re.search(r'\{.*\}', raw, re.DOTALL)
+            if match:
+                data = json.loads(match.group())
+            else:
+                print("  [together] No JSON found.")
+        except Exception as e2:
+            print(f"  [together] also failed ({e2}), falling back to keyword defaults")
+
+    # --- Keyword fallback if both failed ---
+    if data is None:
+        loc = _detect_location(title_original + " " + summary)
         return {
             "title_en": title_original,
             "category": _detect_category(title_original + " " + summary),
-            "loc_name": loc["name"], "lat": loc["lat"], "lng": loc["lng"],
-            "sentiment": "neutral", "entities": []
+            "loc_name": loc["name"],
+            "lat": loc["lat"],
+            "lng": loc["lng"],
+            "sentiment": "neutral",
+            "entities": []
         }
 
+    # --- Process successful AI data ---
     valid_cats = set(KEYWORDS.keys()) | {"general"}
     cat = data.get("category", "general")
-    if cat not in valid_cats: cat = "general"
+    if cat not in valid_cats:
+        cat = "general"
 
     loc_key = data.get("location_key", "").strip().lower()
-    if loc_key in LOCATIONS: lat, lng = LOCATIONS[loc_key]; loc_name = loc_key.title()
-    else: lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092)); loc_name = "Erbil"
+    if loc_key in LOCATIONS:
+        lat, lng = LOCATIONS[loc_key]
+        loc_name = loc_key.title()
+    else:
+        lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092))
+        loc_name = "Erbil"
 
     title_en = data.get("title_en", title_original).strip()
-    if not title_en: title_en = title_original
+    if not title_en:
+        title_en = title_original
 
     sentiment = data.get("sentiment", "").strip().lower()
-    if sentiment not in ("positive", "negative", "neutral"): sentiment = "neutral"
+    if sentiment not in ("positive", "negative", "neutral"):
+        sentiment = "neutral"
 
     entities = data.get("entities", [])
-    if not isinstance(entities, list): entities = []
+    if not isinstance(entities, list):
+        entities = []
     cleaned_entities = []
     for ent in entities:
         if isinstance(ent, dict) and "name" in ent and "type" in ent:
             cleaned_entities.append({"name": ent["name"], "type": ent["type"]})
 
     return {
-        "title_en": title_en, "category": cat, "loc_name": loc_name,
-        "lat": lat, "lng": lng, "sentiment": sentiment, "entities": cleaned_entities
+        "title_en": title_en,
+        "category": cat,
+        "loc_name": loc_name,
+        "lat": lat,
+        "lng": lng,
+        "sentiment": sentiment,
+        "entities": cleaned_entities
     }
-
 def _ensure_db():
     os.makedirs("data", exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
