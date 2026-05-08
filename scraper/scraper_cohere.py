@@ -133,6 +133,7 @@ Title: {title_original}
 Body: {summary[:2000]}"""
 
     try:
+        time.sleep(3)  # stay under 20 calls/min (trial key)
         response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
         raw = response.text.strip()
         match = re.search(r'\{.*\}', raw, re.DOTALL)
@@ -270,7 +271,6 @@ def _run():
                 "entities": json.dumps(enrichment.get("entities", []))
             })
             added += 1
-            if added % 5 == 0: time.sleep(1)
         print(f"  RSS: processed {added} entries")
     except Exception as exc: print(f"  RSS error: {exc}")
 
@@ -314,7 +314,6 @@ def _run():
             })
             added += 1
             print(f"  [saved] {title[:70]}")
-            if added % 3 == 0: time.sleep(1)
         print(f"  Scrape: {added} new articles ({pages} pages fetched)")
 
     _db_prune(conn); _export_json(conn); conn.close()
