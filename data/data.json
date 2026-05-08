@@ -23,9 +23,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:35:36.595908+00:00",
+    "timestamp": "2026-05-08T14:05:30.480293+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:35:28.006892+00:00",
+    "timestamp": "2026-05-08T14:05:23.583414+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -73,11 +73,15 @@
       },
       {
         "name": "election",
-        "type": "LOCATION"
+        "type": "EVENT"
+      },
+      {
+        "name": "press",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:35:19.929627+00:00",
+    "timestamp": "2026-05-08T14:05:14.560995+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -112,7 +116,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:35:09.338478+00:00",
+    "timestamp": "2026-05-08T14:05:06.239832+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -126,7 +130,7 @@
     "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
@@ -139,7 +143,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:34:56.947705+00:00",
+    "timestamp": "2026-05-08T14:04:57.374711+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -166,7 +170,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:34:45.629006+00:00",
+    "timestamp": "2026-05-08T14:04:48.382464+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -197,7 +201,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:34:33.838084+00:00",
+    "timestamp": "2026-05-08T14:04:40.980333+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -228,7 +232,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T13:34:23.846755+00:00",
+    "timestamp": "2026-05-08T14:04:31.743660+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -259,40 +263,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:34:14.640472+00:00",
+    "timestamp": "2026-05-08T14:04:23.089034+00:00",
     "location": {
       "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d7540c542d80e239",
-    "url": "https://www.rudaw.net/english/business/070520261",
-    "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Turkey",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Ministry",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T13:34:00.203472+00:00",
-    "location": {
-      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -316,12 +289,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "hemorrhagic fever",
-        "type": "LOCATION"
+        "name": "official",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:33:44.562058+00:00",
+    "timestamp": "2026-05-08T14:04:06.137840+00:00",
     "location": {
       "name": "Kirkuk Road",
       "lat": 36.1722,
@@ -343,12 +316,12 @@
         "type": "PERSON"
       },
       {
-        "name": "Thursday",
+        "name": "ankawa",
         "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:33:34.319325+00:00",
+    "timestamp": "2026-05-08T14:03:58.082210+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -379,7 +352,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:33:26.505608+00:00",
+    "timestamp": "2026-05-08T14:03:50.072813+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -418,7 +391,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:33:16.721920+00:00",
+    "timestamp": "2026-05-08T14:03:40.474113+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -437,7 +410,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "ORGANIZATION"
+        "type": "LOCATION"
       },
       {
         "name": "Erbil",
@@ -449,7 +422,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T13:33:05.886822+00:00",
+    "timestamp": "2026-05-08T14:03:32.323795+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -481,10 +454,14 @@
       {
         "name": "rep",
         "type": "PERSON"
+      },
+      {
+        "name": "Hormuz",
+        "type": "LOCATION"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T13:32:58.381914+00:00",
+    "timestamp": "2026-05-08T14:03:19.783486+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -519,7 +496,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:32:51.141643+00:00",
+    "timestamp": "2026-05-08T14:03:11.302783+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -554,7 +531,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:32:41.016220+00:00",
+    "timestamp": "2026-05-08T14:02:56.799634+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -589,7 +566,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:32:32.955688+00:00",
+    "timestamp": "2026-05-08T14:02:47.689999+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -620,7 +597,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:32:23.202514+00:00",
+    "timestamp": "2026-05-08T14:02:38.109012+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -651,7 +628,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:32:14.809746+00:00",
+    "timestamp": "2026-05-08T14:02:29.717201+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -682,7 +659,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:32:07.355619+00:00",
+    "timestamp": "2026-05-08T14:02:20.966047+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -717,7 +694,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T13:31:57.407611+00:00",
+    "timestamp": "2026-05-08T14:02:10.963444+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -748,9 +725,67 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T13:31:50.964706+00:00",
+    "timestamp": "2026-05-08T14:02:03.430327+00:00",
     "location": {
       "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "805b36306b4f8178",
+    "url": "https://www.rudaw.net/english/opinion/080520261",
+    "title": "Anfal: The Long Shadow of a Genocide",
+    "title_en": "Anfal: The Long Shadow of a Genocide",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Anfal",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Genocide",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T14:01:57.223786+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7540c542d80e239",
+    "url": "https://www.rudaw.net/english/business/070520261",
+    "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
+    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Ministry",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T13:34:00.203472+00:00",
+    "location": {
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
