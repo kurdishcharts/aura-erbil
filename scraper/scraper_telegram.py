@@ -13,20 +13,13 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-# ── config ──────────────────────────────────────────────────────────────────
-TELEGRAM_CHANNELS = [
-    "rudawenglish",
-    "AvaNews",
-    # add more public channel usernames (without @)
-]
+TELEGRAM_CHANNELS = ["rudawenglish", "AvaNews"]
 USER_AGENT        = "RSSReader/2.0"
 DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
-MAX_AGE_DAYS      = 30
 MIN_DELAY         = 2.0
 MAX_DELAY         = 5.0
 
-# ── DB helpers ──────────────────────────────────────────────────────────────
 def _connect():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -38,7 +31,6 @@ def _make_id(url):
 def _now_iso():
     return datetime.now(timezone.utc).isoformat()
 
-# ── polite scraping ─────────────────────────────────────────────────────────
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT})
 
@@ -68,7 +60,6 @@ def _fetch(url, delay=True):
         print(f"  [error] {e}")
         return None
 
-# ── Telegram page parser ────────────────────────────────────────────────────
 def _parse_channel(html, channel_name):
     soup = BeautifulSoup(html, "lxml")
     posts = []
@@ -87,8 +78,7 @@ def _parse_channel(html, channel_name):
     return posts
 
 def _enrich_and_save(posts, channel_name):
-    # import enrichment from Cohere scraper (safe – same project)
-    sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), "scraper"))
     from scraper_cohere import _enrich_with_ai
 
     conn = _connect()
@@ -154,7 +144,7 @@ def _export_json(conn):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"  Exported {len(records)} records → {JSON_EXPORT}")
 
-def _run():
+if __name__ == "__main__":
     print("=== Aura-Erbil Telegram Scraper ===")
     conn = _connect()
     total = 0
@@ -170,6 +160,3 @@ def _run():
     _export_json(conn)
     conn.close()
     print(f"=== Done ({total} new articles) ===")
-
-if __name__ == "__main__":
-    _run()
