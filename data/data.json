@@ -23,7 +23,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:56.053873+00:00",
+    "timestamp": "2026-05-08T07:05:24.210720+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:49.000854+00:00",
+    "timestamp": "2026-05-08T07:05:16.262913+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -73,11 +73,11 @@
       },
       {
         "name": "election event",
-        "type": "LOCATION"
+        "type": "EVENT"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:40.252670+00:00",
+    "timestamp": "2026-05-08T07:05:05.492493+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -99,20 +99,20 @@
         "type": "LOCATION"
       },
       {
+        "name": "UN",
+        "type": "ORGANIZATION"
+      },
+      {
         "name": "Damascus",
         "type": "LOCATION"
       },
       {
         "name": "SDF",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "UN",
-        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:30.922246+00:00",
+    "timestamp": "2026-05-08T07:04:48.080251+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -132,10 +132,14 @@
       {
         "name": "Barzani",
         "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:34:21.779646+00:00",
+    "timestamp": "2026-05-08T07:04:39.780674+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -162,7 +166,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:13.740685+00:00",
+    "timestamp": "2026-05-08T07:04:31.561326+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -193,7 +197,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:34:06.801430+00:00",
+    "timestamp": "2026-05-08T07:04:22.076811+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -224,7 +228,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:33:57.324691+00:00",
+    "timestamp": "2026-05-08T07:04:13.284631+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -255,40 +259,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:33:49.821568+00:00",
+    "timestamp": "2026-05-08T07:04:03.834416+00:00",
     "location": {
       "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c6bcf8836394a9ba",
-    "url": "https://www.rudaw.net/english/kurdistan/070520263",
-    "title": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
-    "title_en": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Saudi Arabia",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Hajj",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T06:33:35.617477+00:00",
-    "location": {
-      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -313,7 +286,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:33:27.666465+00:00",
+    "timestamp": "2026-05-08T07:03:50.033916+00:00",
     "location": {
       "name": "Bakhtiyari",
       "lat": 36.2078,
@@ -340,7 +313,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:33:19.373669+00:00",
+    "timestamp": "2026-05-08T07:03:41.295374+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -363,11 +336,11 @@
       },
       {
         "name": "oil sector",
-        "type": "ORGANIZATION"
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:33:10.593709+00:00",
+    "timestamp": "2026-05-08T07:03:32.357037+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -398,7 +371,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:33:01.739927+00:00",
+    "timestamp": "2026-05-08T07:03:24.639010+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -429,7 +402,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:32:49.250612+00:00",
+    "timestamp": "2026-05-08T07:03:15.308318+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -460,7 +433,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:32:41.613947+00:00",
+    "timestamp": "2026-05-08T07:03:05.399310+00:00",
     "location": {
       "name": "Kirkuk Road",
       "lat": 36.1722,
@@ -482,12 +455,12 @@
         "type": "PERSON"
       },
       {
-        "name": "ankawa",
+        "name": "Thursday",
         "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:32:34.390474+00:00",
+    "timestamp": "2026-05-08T07:02:55.930603+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -518,7 +491,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:32:27.043638+00:00",
+    "timestamp": "2026-05-08T07:02:44.765528+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -548,7 +521,7 @@
         "type": "LOCATION"
       },
       {
-        "name": "Iraq’s deputy oil minister",
+        "name": "Iraq's deputy oil minister",
         "type": "PERSON"
       },
       {
@@ -557,7 +530,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:32:19.455222+00:00",
+    "timestamp": "2026-05-08T07:02:37.299263+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -576,7 +549,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       },
       {
         "name": "Erbil",
@@ -588,7 +561,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:32:10.871351+00:00",
+    "timestamp": "2026-05-08T07:02:29.238774+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -616,10 +589,18 @@
       {
         "name": "US",
         "type": "LOCATION"
+      },
+      {
+        "name": "rep",
+        "type": "PERSON"
+      },
+      {
+        "name": "Hormuz",
+        "type": "LOCATION"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T06:32:01.623984+00:00",
+    "timestamp": "2026-05-08T07:02:19.870368+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -654,7 +635,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:31:52.431776+00:00",
+    "timestamp": "2026-05-08T07:02:11.997030+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -685,7 +666,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T06:31:43.412122+00:00",
+    "timestamp": "2026-05-08T07:02:02.060712+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -713,12 +694,78 @@
       {
         "name": "Iran",
         "type": "LOCATION"
+      },
+      {
+        "name": "official",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T06:31:34.953504+00:00",
+    "timestamp": "2026-05-08T07:01:53.561565+00:00",
     "location": {
       "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1072b8189e362960",
+    "url": "https://www.rudaw.net/english/middleeast/iran/08052026",
+    "title": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
+    "title_en": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "HRW",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "28",
+        "type": "NUMBER"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T07:01:44.169861+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6bcf8836394a9ba",
+    "url": "https://www.rudaw.net/english/kurdistan/070520263",
+    "title": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "title_en": "First batch of Kurdistan Region pilgrims depart for Saudi Arabia to perform Hajj",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Hajj",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T06:33:35.617477+00:00",
+    "location": {
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
