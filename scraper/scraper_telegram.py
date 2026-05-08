@@ -1,24 +1,23 @@
 """
-Aura-Erbil — Telegram public channel scraper (no API token required)
-Reads public t.me/s/ pages, extracts posts, enriches via Cohere,
+Aura-Erbil — Telegram RSS scraper (no token needed)
+Reads public Telegram RSS feeds, extracts posts, enriches via Cohere,
 and upserts into the same database.
 Usage: set COHERE_API_KEY, then: python scraper/scraper_telegram.py
 """
 
-import hashlib, json, os, random, re, sqlite3, sys, time
-from datetime import datetime, timezone, timedelta
-from urllib import robotparser
-from urllib.parse import urljoin
+import hashlib, json, os, sqlite3, sys, time
+from datetime import datetime, timezone
 
-import requests
-from bs4 import BeautifulSoup
+import feedparser
 
-TELEGRAM_CHANNELS = ["rudawenglish", "AvaNews"]
+# ── config ──────────────────────────────────────────────────────────────────
+TELEGRAM_FEEDS = [
+    "https://tg.i-c-a.su/rss/rudawenglish",
+    "https://tg.i-c-a.su/rss/AvaNews",
+]
 USER_AGENT        = "RSSReader/2.0"
 DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
-MIN_DELAY         = 2.0
-MAX_DELAY         = 5.0
 
 def _connect():
     conn = sqlite3.connect(DB_PATH)
@@ -31,56 +30,11 @@ def _make_id(url):
 def _now_iso():
     return datetime.now(timezone.utc).isoformat()
 
-session = requests.Session()
-session.headers.update({"User-Agent": USER_AGENT})
-
-_rp = robotparser.RobotFileParser()
-_rp.set_url("https://t.me/robots.txt")
-try:
-    _rp.read()
-except Exception:
-    pass
-
-def _allowed(url):
-    return _rp.can_fetch(USER_AGENT, url)
-
-def _fetch(url, delay=True):
-    if not _allowed(url):
-        print(f"  [robots.txt] blocked: {url}")
-        return None
-    try:
-        if delay:
-            time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
-        r = session.get(url, timeout=15)
-        if r.status_code == 200:
-            return r.text
-        print(f"  [warn] HTTP {r.status_code} for {url}")
-        return None
-    except Exception as e:
-        print(f"  [error] {e}")
-        return None
-
-def _parse_channel(html, channel_name):
-    soup = BeautifulSoup(html, "lxml")
-    posts = []
-    for msg in soup.select(".tgme_widget_message_wrap"):
-        text_div = msg.select_one(".tgme_widget_message_text")
-        if not text_div:
-            continue
-        text = text_div.get_text("\n", strip=True)
-        if len(text) < 20:
-            continue
-        time_tag = msg.select_one("time.datetime")
-        pub = time_tag["datetime"] if time_tag and time_tag.has_attr("datetime") else _now_iso()
-        link_tag = msg.select_one("a.tgme_widget_message_date")
-        url = link_tag["href"] if link_tag and link_tag.has_attr("href") else f"https://t.me/s/{channel_name}/{pub}"
-        posts.append({"text": text, "published_at": pub, "url": url})
-    return posts
+# ── AI enrichment (import from cohere scraper) ──────────────────────────────
+sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
+from scraper_cohere import _enrich_with_ai
 
 def _enrich_and_save(posts, channel_name):
-    sys.path.insert(0, os.path.join(os.path.dirname(__file__), "scraper"))
-    from scraper_cohere import _enrich_with_ai
-
     conn = _connect()
     added = 0
     for post in posts:
@@ -144,19 +98,30 @@ def _export_json(conn):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"  Exported {len(records)} records → {JSON_EXPORT}")
 
-if __name__ == "__main__":
-    print("=== Aura-Erbil Telegram Scraper ===")
+def _run():
+    print("=== Aura-Erbil Telegram Scraper (RSS) ===")
     conn = _connect()
     total = 0
-    for channel in TELEGRAM_CHANNELS:
-        print(f"→ Channel: @{channel}")
-        html = _fetch(f"https://t.me/s/{channel}")
-        if not html:
-            continue
-        posts = _parse_channel(html, channel)
+    for feed_url in TELEGRAM_FEEDS:
+        print(f"→ Feed: {feed_url}")
+        feed = feedparser.parse(feed_url)
+        posts = []
+        for entry in feed.entries:
+            title = entry.get("title", "")
+            link = entry.get("link", "")
+            summary = entry.get("summary", "")
+            published = entry.get("published_parsed")
+            pub = datetime(*published[:6], tzinfo=timezone.utc).isoformat() if published else _now_iso()
+            if not title or not link:
+                continue
+            text = f"{title}\n{summary}"
+            posts.append({"text": text, "published_at": pub, "url": link})
         print(f"  Found {len(posts)} posts")
-        added = _enrich_and_save(posts, channel)
+        added = _enrich_and_save(posts, feed_url.split("/")[-1])
         total += added
     _export_json(conn)
     conn.close()
     print(f"=== Done ({total} new articles) ===")
+
+if __name__ == "__main__":
+    _run()
