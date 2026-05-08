@@ -23,9 +23,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:05:30.480293+00:00",
+    "timestamp": "2026-05-08T14:36:10.630121+00:00",
     "location": {
-      "name": "Erbil",
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -50,7 +50,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:05:23.583414+00:00",
+    "timestamp": "2026-05-08T14:36:01.792847+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -81,7 +81,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:05:14.560995+00:00",
+    "timestamp": "2026-05-08T14:35:51.764038+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -116,7 +116,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:05:06.239832+00:00",
+    "timestamp": "2026-05-08T14:35:42.950879+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -130,7 +130,7 @@
     "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
@@ -143,7 +143,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:04:57.374711+00:00",
+    "timestamp": "2026-05-08T14:35:31.843805+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -170,7 +170,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:04:48.382464+00:00",
+    "timestamp": "2026-05-08T14:35:23.152077+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -198,10 +198,14 @@
       {
         "name": "Kurdistan",
         "type": "LOCATION"
+      },
+      {
+        "name": "Iranians",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:04:40.980333+00:00",
+    "timestamp": "2026-05-08T14:35:13.792093+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +236,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:04:31.743660+00:00",
+    "timestamp": "2026-05-08T14:35:04.361124+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -263,42 +267,11 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:04:23.089034+00:00",
+    "timestamp": "2026-05-08T14:34:56.359462+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "7ed1bd6b4fdceba7",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/070520262",
-    "title": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
-    "title_en": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Kirkuk",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T14:04:06.137840+00:00",
-    "location": {
-      "name": "Kirkuk Road",
-      "lat": 36.1722,
-      "lng": 44.0489
     }
   },
   {
@@ -321,7 +294,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:03:58.082210+00:00",
+    "timestamp": "2026-05-08T14:34:34.273706+00:00",
     "location": {
       "name": "Ankawa",
       "lat": 36.2497,
@@ -352,7 +325,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:03:50.072813+00:00",
+    "timestamp": "2026-05-08T14:34:26.156797+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -391,7 +364,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:03:40.474113+00:00",
+    "timestamp": "2026-05-08T14:34:17.040279+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -410,7 +383,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       },
       {
         "name": "Erbil",
@@ -422,7 +395,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:03:32.323795+00:00",
+    "timestamp": "2026-05-08T14:34:09.944820+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -461,7 +434,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T14:03:19.783486+00:00",
+    "timestamp": "2026-05-08T14:34:02.191917+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -496,7 +469,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:03:11.302783+00:00",
+    "timestamp": "2026-05-08T14:33:39.709812+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -514,24 +487,20 @@
     "sentiment": "negative",
     "entities": [
       {
-        "name": "Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Trump",
-        "type": "PERSON"
-      },
-      {
         "name": "Iran",
         "type": "LOCATION"
       },
       {
         "name": "US",
         "type": "LOCATION"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:02:56.799634+00:00",
+    "timestamp": "2026-05-08T14:33:31.589533+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -566,7 +535,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:02:47.689999+00:00",
+    "timestamp": "2026-05-08T14:33:24.017710+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -597,7 +566,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:02:38.109012+00:00",
+    "timestamp": "2026-05-08T14:33:16.623507+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -623,12 +592,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "Kurdish language",
+        "name": "Constitutional guarantees",
         "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:02:29.717201+00:00",
+    "timestamp": "2026-05-08T14:33:10.051660+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -659,7 +628,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:02:20.966047+00:00",
+    "timestamp": "2026-05-08T14:33:01.739623+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -694,7 +663,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T14:02:10.963444+00:00",
+    "timestamp": "2026-05-08T14:32:53.583668+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -725,7 +694,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:02:03.430327+00:00",
+    "timestamp": "2026-05-08T14:32:44.096849+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -752,11 +721,73 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T14:01:57.223786+00:00",
+    "timestamp": "2026-05-08T14:32:34.764847+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
+    }
+  },
+  {
+    "id": "f4a63ae92b9a444f",
+    "url": "https://www.rudaw.net/english/middleeast/iran/080520262",
+    "title": "Iran accuses US of 'reckless military adventure' amid peace efforts",
+    "title_en": "Iran Accuses US of 'Reckless Military Adventure' Amid Peace Efforts",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Peace Efforts",
+        "type": "GENERAL"
+      }
+    ],
+    "breaking": 3,
+    "timestamp": "2026-05-08T14:32:25.216446+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ed1bd6b4fdceba7",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520262",
+    "title": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
+    "title_en": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "official",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T14:04:06.137840+00:00",
+    "location": {
+      "name": "Kirkuk Road",
+      "lat": 36.1722,
+      "lng": 44.0489
     }
   },
   {
