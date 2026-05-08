@@ -140,8 +140,34 @@ Body: {summary[:2000]}"""
         if not match: raise ValueError("No JSON found in Cohere response")
         data = json.loads(match.group())
     except Exception as e:
-        print(f"  [cohere] AI call failed ({e}), falling back to keyword defaults")
-        loc = _detect_location(title_original + " " + summary)
+        print(f"  [cohere] AI call failed ({e}), trying Together AI fallback...")
+        # Try Together AI if key is set
+        if "TOGETHER_API_KEY" in os.environ:
+            try:
+                import openai
+                together_client = openai.OpenAI(
+                    api_key=os.environ["TOGETHER_API_KEY"],
+                    base_url="https://api.together.xyz/v1",
+                )
+                response = together_client.chat.completions.create(
+                    model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.0,
+                    max_tokens=1000,
+                )
+                raw = response.choices[0].message.content
+                match = re.search(r'\{.*\}', raw, re.DOTALL)
+                if match:
+                    data = json.loads(match.group())
+                else:
+                    raise ValueError("No JSON from Together")
+            except Exception as e2:
+                print(f"  [together] also failed ({e2}), falling back to keyword defaults")
+        else:
+            print("  No Together API key set, using keyword defaults")
+            # fall through to keyword fallback below
+        if data is None:
+            loc = _detect_location(title_original + " " + summary)
         return {
             "title_en": title_original,
             "category": _detect_category(title_original + " " + summary),
