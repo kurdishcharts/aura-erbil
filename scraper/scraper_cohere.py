@@ -130,10 +130,10 @@ title_en, category, location_key, sentiment, entities
 Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, ...]
 
 Title: {title_original}
-Body: {summary[:500]}"""
+Body: {summary[:2000]}"""
 
     try:
-        response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=200)
+        response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
         raw = response.text.strip()
         match = re.search(r'\{.*\}', raw, re.DOTALL)
         if not match: raise ValueError("No JSON found in Cohere response")
@@ -300,7 +300,7 @@ def _run():
             if not title: continue
             time_tag = soup.find("time"); pub = time_tag["datetime"] if time_tag and time_tag.get("datetime") else _now_iso()
             paras = [p.get_text(" ", strip=True) for p in soup.select("article p, .article-body p")]
-            summary = " ".join(paras)[:300] if paras else ""
+            summary = " ".join(paras)[:2000] if paras else ""
             enrichment = _enrich_with_ai(title, summary) if title else {
                 "title_en": title, "category": "general", "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
                 "sentiment": "neutral", "entities": []}

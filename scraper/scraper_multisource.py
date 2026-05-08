@@ -98,7 +98,7 @@ def _parse_article(html, url):
     if not title or len(title) < 10:
         return None
     paras = soup.select("article p, .article-body p, .content p")
-    body = " ".join(p.get_text(" ", strip=True) for p in paras)[:500]
+    body = " ".join(p.get_text(" ", strip=True) for p in paras)[:2000]
     time_tag = soup.find("time")
     pub = time_tag.get("datetime") if time_tag else _now_iso()
     return {"title": title, "body": body, "published_at": pub, "url": url}
