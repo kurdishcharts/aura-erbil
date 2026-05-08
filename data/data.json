@@ -10,7 +10,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:20:08.655481+00:00",
+    "timestamp": "2026-05-08T04:34:27.460960+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +28,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:20:01.685299+00:00",
+    "timestamp": "2026-05-08T04:34:20.546515+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -46,7 +46,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:19:54.397879+00:00",
+    "timestamp": "2026-05-08T04:34:14.846584+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -64,7 +64,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:19:44.791537+00:00",
+    "timestamp": "2026-05-08T04:34:06.371822+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +82,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:19:37.807792+00:00",
+    "timestamp": "2026-05-08T04:33:59.494653+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -99,8 +99,8 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:19:31.732710+00:00",
+    "breaking": 2,
+    "timestamp": "2026-05-08T04:33:52.288358+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -118,7 +118,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:19:22.842868+00:00",
+    "timestamp": "2026-05-08T04:33:44.210350+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -133,23 +133,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Trump",
-        "type": "PERSON"
-      },
-      {
-        "name": "Rubio",
-        "type": "PERSON"
-      },
-      {
-        "name": "Kurdistan",
-        "type": "LOCATION"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:19:18.245713+00:00",
+    "timestamp": "2026-05-08T04:33:36.096336+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -163,24 +150,11 @@
     "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iran",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdistan Region of Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdish opposition group",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:19:10.816925+00:00",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-08T04:33:30.419998+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -194,24 +168,11 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Ba’ath",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurd",
-        "type": "PERSON"
-      },
-      {
-        "name": "Baghdad",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:58.530143+00:00",
+    "timestamp": "2026-05-08T04:33:18.197951+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -225,20 +186,11 @@
     "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "DNO",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Tawke oilfield",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:53.431945+00:00",
+    "timestamp": "2026-05-08T04:33:11.252092+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -253,23 +205,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Saudi Arabia",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Hajj",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:48.011688+00:00",
+    "timestamp": "2026-05-08T04:33:03.419317+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -283,20 +222,11 @@
     "title_en": "Ba’ath-era prison chief confesses to rape, starvation of Kurdish detainees",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Ba’ath-era",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdish",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:42.287021+00:00",
+    "timestamp": "2026-05-08T04:32:54.739752+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -311,19 +241,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Syrian authorities",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Rojava",
-        "type": "LOCATION"
-      }
-    ],
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:36.917533+00:00",
+    "timestamp": "2026-05-08T04:32:47.542615+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -337,22 +258,13 @@
     "title_en": "The largest collapse of Iraq’s oil sector in modern history",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "oil sector",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:28.790808+00:00",
+    "timestamp": "2026-05-08T04:32:36.104541+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -366,22 +278,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Tehran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "war",
-        "type": "GENERAL"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:18:23.720803+00:00",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T04:32:29.585197+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -397,24 +296,11 @@
     "source": "rudaw-scrape",
     "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Turkey",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Ministry",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:17.213845+00:00",
+    "timestamp": "2026-05-08T04:32:22.119011+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -426,28 +312,15 @@
     "title_en": "Iraq records first case of hemorrhagic fever this year in Kirkuk: official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kirkuk",
-        "type": "LOCATION"
-      },
-      {
-        "name": "official",
-        "type": "PERSON"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:10.510078+00:00",
+    "timestamp": "2026-05-08T04:32:14.469946+00:00",
     "location": {
-      "name": "Kirkuk Road",
-      "lat": 36.1722,
-      "lng": 44.0489
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -459,22 +332,13 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Kurdish opposition leader",
-        "type": "PERSON"
-      },
-      {
-        "name": "ankawa",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:18:04.283107+00:00",
+    "timestamp": "2026-05-08T04:32:06.658910+00:00",
     "location": {
-      "name": "Ankawa",
-      "lat": 36.2497,
-      "lng": 43.9992
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -486,22 +350,9 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraqi",
-        "type": "LOCATION"
-      },
-      {
-        "name": "parliament",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:17:57.745165+00:00",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T04:32:00.231734+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -515,34 +366,13 @@
     "title_en": "US sanctions Iraq’s deputy oil minister over facilitating Iran oil sales",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq's deputy oil minister",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iran oil sales",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-08T04:17:51.171261+00:00",
+    "timestamp": "2026-05-08T04:31:52.806946+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -554,24 +384,11 @@
     "title_en": "Iran launches fresh strikes on opposition group in Erbil",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iran",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      },
-      {
-        "name": "opposition group",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:17:44.243916+00:00",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-08T04:31:45.731471+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -585,28 +402,11 @@
     "title_en": "US rep says UN draft resolution to reopen Strait of Hormuz gaining broad support",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "traffic",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Strait of Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "UN",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "rep",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:17:37.950803+00:00",
+    "entities": [],
+    "breaking": 3,
+    "timestamp": "2026-05-08T04:31:39.594859+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -621,23 +421,10 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Germany",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "2026",
-        "type": "YEAR"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-08T04:17:33.177588+00:00",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 2,
+    "timestamp": "2026-05-08T04:31:31.950280+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1141,7 +928,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-08T02:29:56.253709+00:00",
     "location": {
       "name": "Erbil",
@@ -1273,7 +1060,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-08T02:29:31.709000+00:00",
     "location": {
       "name": "Erbil",
@@ -1677,7 +1464,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-08T01:55:57.612382+00:00",
     "location": {
       "name": "Erbil",
@@ -1948,7 +1735,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-07T16:28:34.142745+00:00",
     "location": {
       "name": "Kurdistan",
@@ -1975,7 +1762,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-07T16:28:26.195671+00:00",
     "location": {
       "name": "Erbil",
@@ -2006,7 +1793,7 @@
         "type": "GENERAL"
       }
     ],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-07T09:47:16.394785+00:00",
     "location": {
       "name": "Erbil",
@@ -2033,7 +1820,7 @@
         "type": "ORGANIZATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-07T09:47:09.820617+00:00",
     "location": {
       "name": "Kurdistan",
@@ -2091,7 +1878,7 @@
         "type": "PERSON"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-07T09:46:59.441400+00:00",
     "location": {
       "name": "Erbil",
@@ -2149,7 +1936,7 @@
         "type": "LOCATION"
       }
     ],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-07T09:46:46.083453+00:00",
     "location": {
       "name": "Ankawa",
@@ -2243,7 +2030,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T18:45:05.203406+00:00",
     "location": {
       "name": "Erbil",
@@ -2297,7 +2084,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T18:44:50.133377+00:00",
     "location": {
       "name": "Erbil",
@@ -2351,7 +2138,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T18:44:35.127327+00:00",
     "location": {
       "name": "Kurdistan",
@@ -2369,7 +2156,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-06T18:44:20.232345+00:00",
     "location": {
       "name": "Erbil",
@@ -2387,7 +2174,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-06T05:32:03.597790+00:00",
     "location": {
       "name": "Erbil",
@@ -2423,7 +2210,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T05:31:45.082247+00:00",
     "location": {
       "name": "Erbil",
@@ -2495,7 +2282,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T05:31:15.952799+00:00",
     "location": {
       "name": "Erbil",
@@ -2531,7 +2318,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-06T05:31:06.475807+00:00",
     "location": {
       "name": "Erbil",
@@ -2639,7 +2426,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-05T20:49:29.231699+00:00",
     "location": {
       "name": "Bakhtiyari",
@@ -2675,7 +2462,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 2,
     "timestamp": "2026-05-05T17:11:06.757555+00:00",
     "location": {
       "name": "Erbil",
@@ -2693,7 +2480,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T17:10:42.706713+00:00",
     "location": {
       "name": "Erbil",
@@ -2729,7 +2516,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T17:10:31.777139+00:00",
     "location": {
       "name": "Erbil",
@@ -2747,7 +2534,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T17:10:08.613147+00:00",
     "location": {
       "name": "Erbil",
@@ -2891,7 +2678,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T07:35:53.480603+00:00",
     "location": {
       "name": "Erbil",
@@ -2909,7 +2696,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
       "name": "Erbil",
@@ -2945,7 +2732,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T00:11:10.588789+00:00",
     "location": {
       "name": "Erbil",
@@ -2963,7 +2750,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-05T00:11:03.202966+00:00",
     "location": {
       "name": "Erbil",
@@ -2981,7 +2768,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-04T20:50:22.577347+00:00",
     "location": {
       "name": "Erbil",
@@ -2999,7 +2786,7 @@
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-04T19:03:07.405832+00:00",
     "location": {
       "name": "Erbil",
@@ -3107,7 +2894,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
       "name": "Erbil",
@@ -3305,7 +3092,7 @@
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
-    "breaking": 1,
+    "breaking": 3,
     "timestamp": "2026-05-03T20:06:50.243236+00:00",
     "location": {
       "name": "Kurdistan",
