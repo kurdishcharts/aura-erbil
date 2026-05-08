@@ -23,7 +23,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:35:02.303183+00:00",
+    "timestamp": "2026-05-08T16:03:41.854298+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -43,10 +43,14 @@
       {
         "name": "Zakho",
         "type": "LOCATION"
+      },
+      {
+        "name": "Eid holidays",
+        "type": "EVENT"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:34:53.579102+00:00",
+    "timestamp": "2026-05-08T16:03:34.978054+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -70,14 +74,10 @@
       {
         "name": "election",
         "type": "EVENT"
-      },
-      {
-        "name": "Foreign missions",
-        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:34:43.347815+00:00",
+    "timestamp": "2026-05-08T16:03:27.559135+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -99,10 +99,6 @@
         "type": "LOCATION"
       },
       {
-        "name": "UN",
-        "type": "ORGANIZATION"
-      },
-      {
         "name": "Damascus",
         "type": "LOCATION"
       },
@@ -111,12 +107,16 @@
         "type": "ORGANIZATION"
       },
       {
+        "name": "UN",
+        "type": "ORGANIZATION"
+      },
+      {
         "name": "UN envoy",
         "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:34:33.957373+00:00",
+    "timestamp": "2026-05-08T16:03:17.489189+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -143,7 +143,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:34:24.929540+00:00",
+    "timestamp": "2026-05-08T16:03:08.033017+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -170,7 +170,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:34:16.808602+00:00",
+    "timestamp": "2026-05-08T16:03:00.085706+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -198,10 +198,14 @@
       {
         "name": "Kurdistan",
         "type": "LOCATION"
+      },
+      {
+        "name": "Iranians",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:34:06.575074+00:00",
+    "timestamp": "2026-05-08T16:02:49.609965+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -232,7 +236,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:33:58.693808+00:00",
+    "timestamp": "2026-05-08T16:02:41.261656+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -263,38 +267,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:33:49.564190+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "645ff128a5a1b764",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/070520263",
-    "title": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
-    "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
-    "summary": "",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraqi",
-        "type": "LOCATION"
-      },
-      {
-        "name": "parliament",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 2,
-    "timestamp": "2026-05-08T15:33:37.437477+00:00",
+    "timestamp": "2026-05-08T16:02:31.560316+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -333,7 +306,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:33:27.567579+00:00",
+    "timestamp": "2026-05-08T16:02:16.421378+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -364,7 +337,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:33:18.263811+00:00",
+    "timestamp": "2026-05-08T16:02:08.074633+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -395,7 +368,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:33:09.230456+00:00",
+    "timestamp": "2026-05-08T16:01:58.602988+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -430,7 +403,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:33:01.032031+00:00",
+    "timestamp": "2026-05-08T16:01:48.901612+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -461,7 +434,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:32:48.758460+00:00",
+    "timestamp": "2026-05-08T16:01:39.310174+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -496,7 +469,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:32:38.083640+00:00",
+    "timestamp": "2026-05-08T16:01:28.135660+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -527,7 +500,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:32:28.505203+00:00",
+    "timestamp": "2026-05-08T16:01:18.106314+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -553,12 +526,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "Constitutional guarantees",
-        "type": "LOCATION"
+        "name": "Constitutional",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:32:19.131996+00:00",
+    "timestamp": "2026-05-08T16:01:10.533451+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -585,7 +558,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:32:05.400716+00:00",
+    "timestamp": "2026-05-08T16:01:01.938160+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -616,7 +589,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:31:57.123972+00:00",
+    "timestamp": "2026-05-08T16:00:52.731550+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -647,7 +620,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:31:48.892501+00:00",
+    "timestamp": "2026-05-08T16:00:43.320028+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -674,7 +647,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:31:39.461470+00:00",
+    "timestamp": "2026-05-08T16:00:34.688857+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -705,7 +678,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:31:29.417923+00:00",
+    "timestamp": "2026-05-08T16:00:25.919095+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -732,7 +705,69 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:31:21.745123+00:00",
+    "timestamp": "2026-05-08T16:00:17.946052+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0bfa952c84948813",
+    "url": "https://www.rudaw.net/english/middleeast/syria/080520261",
+    "title": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
+    "title_en": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Kurdish",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syrian",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Arabic",
+        "type": "LANGUAGE"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-08T16:00:09.462595+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "645ff128a5a1b764",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/070520263",
+    "title": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
+    "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
+    "summary": "",
+    "source": "rudaw-scrape",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraqi",
+        "type": "LOCATION"
+      },
+      {
+        "name": "parliament",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 2,
+    "timestamp": "2026-05-08T15:33:37.437477+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
