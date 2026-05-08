@@ -23,9 +23,9 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:06:44.204630+00:00",
+    "timestamp": "2026-05-08T15:35:02.303183+00:00",
     "location": {
-      "name": "Erbil",
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -43,14 +43,10 @@
       {
         "name": "Zakho",
         "type": "LOCATION"
-      },
-      {
-        "name": "Eid holidays",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:06:34.505264+00:00",
+    "timestamp": "2026-05-08T15:34:53.579102+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -72,12 +68,16 @@
         "type": "ORGANIZATION"
       },
       {
-        "name": "election event",
-        "type": "LOCATION"
+        "name": "election",
+        "type": "EVENT"
+      },
+      {
+        "name": "Foreign missions",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:06:11.304223+00:00",
+    "timestamp": "2026-05-08T15:34:43.347815+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -109,10 +109,14 @@
       {
         "name": "SDF",
         "type": "ORGANIZATION"
+      },
+      {
+        "name": "UN envoy",
+        "type": "PERSON"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:05:53.881158+00:00",
+    "timestamp": "2026-05-08T15:34:33.957373+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -139,7 +143,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:05:36.715642+00:00",
+    "timestamp": "2026-05-08T15:34:24.929540+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -166,7 +170,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:04:49.505976+00:00",
+    "timestamp": "2026-05-08T15:34:16.808602+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -197,7 +201,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:04:41.003660+00:00",
+    "timestamp": "2026-05-08T15:34:06.575074+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -228,7 +232,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:04:31.452613+00:00",
+    "timestamp": "2026-05-08T15:33:58.693808+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -259,7 +263,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:04:20.751252+00:00",
+    "timestamp": "2026-05-08T15:33:49.564190+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -290,7 +294,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:03:59.020238+00:00",
+    "timestamp": "2026-05-08T15:33:37.437477+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -317,19 +321,19 @@
       },
       {
         "name": "US",
-        "type": "ORGANIZATION"
+        "type": "LOCATION"
       },
       {
-        "name": "Iraq’s deputy oil minister",
+        "name": "Iraq's deputy oil minister",
         "type": "PERSON"
       },
       {
         "name": "Iran oil sales",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:03:51.339417+00:00",
+    "timestamp": "2026-05-08T15:33:27.567579+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -348,7 +352,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "ORGANIZATION"
+        "type": "LOCATION"
       },
       {
         "name": "Erbil",
@@ -360,7 +364,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:03:42.432566+00:00",
+    "timestamp": "2026-05-08T15:33:18.263811+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -388,14 +392,10 @@
       {
         "name": "US",
         "type": "LOCATION"
-      },
-      {
-        "name": "rep",
-        "type": "PERSON"
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:03:32.853387+00:00",
+    "timestamp": "2026-05-08T15:33:09.230456+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -430,7 +430,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:03:25.596020+00:00",
+    "timestamp": "2026-05-08T15:33:01.032031+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -448,24 +448,20 @@
     "sentiment": "negative",
     "entities": [
       {
-        "name": "Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Trump",
-        "type": "PERSON"
-      },
-      {
         "name": "Iran",
         "type": "LOCATION"
       },
       {
         "name": "US",
         "type": "LOCATION"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:03:14.455658+00:00",
+    "timestamp": "2026-05-08T15:32:48.758460+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -500,7 +496,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:03:06.678781+00:00",
+    "timestamp": "2026-05-08T15:32:38.083640+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -531,7 +527,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:02:58.161003+00:00",
+    "timestamp": "2026-05-08T15:32:28.505203+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -557,12 +553,12 @@
         "type": "LOCATION"
       },
       {
-        "name": "Kurdish language",
+        "name": "Constitutional guarantees",
         "type": "LOCATION"
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:02:51.430654+00:00",
+    "timestamp": "2026-05-08T15:32:19.131996+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -589,7 +585,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:02:44.432779+00:00",
+    "timestamp": "2026-05-08T15:32:05.400716+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -620,7 +616,7 @@
       }
     ],
     "breaking": 2,
-    "timestamp": "2026-05-08T15:02:37.216064+00:00",
+    "timestamp": "2026-05-08T15:31:57.123972+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -651,7 +647,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:02:28.273204+00:00",
+    "timestamp": "2026-05-08T15:31:48.892501+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -678,7 +674,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:02:20.520258+00:00",
+    "timestamp": "2026-05-08T15:31:39.461470+00:00",
     "location": {
       "name": "Kurdistan",
       "lat": 36.1912,
@@ -709,7 +705,7 @@
       }
     ],
     "breaking": 3,
-    "timestamp": "2026-05-08T15:02:11.794429+00:00",
+    "timestamp": "2026-05-08T15:31:29.417923+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -736,7 +732,7 @@
       }
     ],
     "breaking": 1,
-    "timestamp": "2026-05-08T15:02:04.971603+00:00",
+    "timestamp": "2026-05-08T15:31:21.745123+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
