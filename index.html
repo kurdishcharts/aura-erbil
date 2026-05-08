@@ -435,6 +435,11 @@ function getSentiment(a){
   if (s === 'negative') return 'bearish';
   return 'neutral';
 }
+  const s = (a.sentiment || '').toLowerCase();
+  if (s === 'positive') return 'bullish';
+  if (s === 'negative') return 'bearish';
+  return 'neutral';
+}
             if (!article.sentiment) return 'neutral';
             const s = article.sentiment.toLowerCase();
             if (s === 'positive') return 'bullish';
