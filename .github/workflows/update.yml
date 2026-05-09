@@ -26,6 +26,7 @@ jobs:
       - name: Run Cohere AI scraper
         run: python scraper/scraper_cohere.py
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
       
