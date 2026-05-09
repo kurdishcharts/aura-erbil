@@ -132,7 +132,8 @@ def _same_origin(url): return urlparse(url).netloc == urlparse(BASE_URL).netloc
 
 # ── Cohere client ──
 try:
-    co = cohere.Client(api_key=os.environ["COHERE_API_KEY"])
+# Cloud AI calls removed — local Ollama handles enrichment
+pass
 except KeyError:
     print("FATAL: COHERE_API_KEY environment variable not set"); exit(1)
 
