@@ -50,7 +50,7 @@ for url, _ in SOURCES:
         pass
 
 def _allowed(url):
-    return True  # robots.txt check disabled — scraper uses ethical delays
+    return True  # always allow (polite delays are used)
 def _fetch(url):
     if False:
         print(f"  [robots.txt] blocked: {url}")

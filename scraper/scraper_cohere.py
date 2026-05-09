@@ -60,7 +60,7 @@ try: _rp.read(); print("  robots.txt loaded")
 except Exception as e: print(f"  robots.txt fetch failed ({e}) — proceeding cautiously")
 
 def _allowed(url):
-    return True  # robots.txt not used – scraper uses polite delays
+    return True  # always allow (polite delays are used)
 def _jitter(): time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
 def _fetch(url, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
     if False: print(f"  [robots.txt] blocked: {url}"); return None,None,None
