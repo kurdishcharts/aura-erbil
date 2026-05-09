@@ -3,12 +3,21 @@
     "id": "99803a750c50ad7a",
     "url": "https://www.rudaw.net/english/world/01052024",
     "title": "Germany deports Kurdish family with health issues to Iraq",
-    "title_en": "Germany deports Kurdish family with health issues to Iraq",
+    "title_en": "Germany Deploys Medical Team to Receive Deported Family from Iraq",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "place"
+      },
+      {
+        "name": "Germany",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:55.697454+00:00",
     "location": {
@@ -21,12 +30,17 @@
     "id": "e623191d36a3755e",
     "url": "https://www.rudaw.net/english/kurdistan/190620241",
     "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50,000 tourists during Eid holidays",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Zakho",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:46.713669+00:00",
     "location": {
@@ -44,7 +58,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:36.663009+00:00",
     "location": {
@@ -57,7 +76,7 @@
     "id": "21aafa1afe49ad80",
     "url": "https://www.rudaw.net/english/middleeast/syria/23042026",
     "title": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
-    "title_en": "Syria’s UN envoy says Damascus-SDF integration talks 'going exceptionally well'",
+    "title_en": "Damascus-SDF Integration Talks Going Exceptionally Well, Says Syria's UN Envoy",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -75,12 +94,17 @@
     "id": "11246d620681ba9c",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
     "title": "President Barzani continues Baghdad talks on second day of visit",
-    "title_en": "President Barzani continues Baghdad talks on second day of visit",
+    "title_en": "President Barzani Continues Baghdad Talks on Second Day of Visit",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:16.209932+00:00",
     "location": {
@@ -93,7 +117,7 @@
     "id": "2dfb50373c0e4ed8",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
     "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to 'turn a new page' after years of tensions",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -111,12 +135,17 @@
     "id": "968eb9f349a10d32",
     "url": "https://www.rudaw.net/english/world/050520261",
     "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump Remarks Reflect Support for Iranians",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:56.040807+00:00",
     "location": {
@@ -129,12 +158,25 @@
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "title_en": "Iran attacks Kurdish opposition group in Kurdistan Region of Iraq",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "place"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "Kurdish opposition",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:47.250372+00:00",
     "location": {
@@ -150,9 +192,22 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Baghdad",
+        "type": "place"
+      },
+      {
+        "name": "Kurds",
+        "type": "ethnic group"
+      },
+      {
+        "name": "Ba’ath party",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:38.142001+00:00",
     "location": {
@@ -165,12 +220,21 @@
     "id": "aada3eac8450dc05",
     "url": "https://www.rudaw.net/english/middleeast/08052026",
     "title": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
-    "title_en": "Iran, US trade accusations over Hormuz attacks as Trump issues fresh warning",
+    "title_en": "Iran US trade accusations over Hormuz attacks as Trump issues fresh warning",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "Trump",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:23.456463+00:00",
     "location": {
@@ -183,12 +247,21 @@
     "id": "42b95ae3026abf17",
     "url": "https://www.rudaw.net/english/middleeast/iraq/08052026",
     "title": "Iraq denies US allegations tying official to Iran-linked oil diversion",
-    "title_en": "Iraq denies US allegations tying official to Iran-linked oil diversion",
+    "title_en": "Iraq Denies US Allegations Tying Official to Iran-Linked Oil Diversion",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:13.612485+00:00",
     "location": {
@@ -201,12 +274,25 @@
     "id": "1072b8189e362960",
     "url": "https://www.rudaw.net/english/middleeast/iran/08052026",
     "title": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
-    "title_en": "HRW urges ‘coordinated diplomatic action’ as Iran executes 28 since mid-March",
+    "title_en": "HRW urges 'coordinated diplomatic action' as Iran executes 28 since mid-March",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "HRW (Human Rights Watch)",
+        "type": "organization"
+      },
+      {
+        "name": "March",
+        "type": "month"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:04:03.852860+00:00",
     "location": {
@@ -240,7 +326,7 @@
     "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -258,9 +344,22 @@
     "title_en": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Damascus",
+        "type": "place"
+      },
+      {
+        "name": "SDF",
+        "type": "organization"
+      },
+      {
+        "name": "Hasaka",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:27.637771+00:00",
     "location": {
@@ -276,9 +375,22 @@
     "title_en": "Iran seizes US-sanctioned tanker carrying Iranian oil",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "US",
+        "type": "country"
+      },
+      {
+        "name": "Iranian",
+        "type": "adjective"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:15.842185+00:00",
     "location": {
@@ -295,8 +407,21 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Anfal",
+        "type": "event"
+      },
+      {
+        "name": "Peshmerga",
+        "type": "organization"
+      },
+      {
+        "name": "Iraq",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:03.634252+00:00",
     "location": {
@@ -309,12 +434,21 @@
     "id": "f4a63ae92b9a444f",
     "url": "https://www.rudaw.net/english/middleeast/iran/080520262",
     "title": "Iran accuses US of 'reckless military adventure' amid peace efforts",
-    "title_en": "Iran accuses US of 'reckless military adventure' amid peace efforts",
+    "title_en": "Iran Accuses US of Reckless Military Adventure Amid Peace Efforts",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:02:53.910617+00:00",
     "location": {
@@ -327,12 +461,21 @@
     "id": "f7edcfc2cc1a903b",
     "url": "https://www.rudaw.net/english/middleeast/080520262",
     "title": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
-    "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
+    "title_en": "US says 'disabled' two vessels violating blockade on Iranian ports",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iranian",
+        "type": "place"
+      },
+      {
+        "name": "US",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:02:43.856668+00:00",
     "location": {
@@ -350,7 +493,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdish",
+        "type": "language"
+      },
+      {
+        "name": "Arabic",
+        "type": "language"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:02:32.645129+00:00",
     "location": {
@@ -363,12 +515,21 @@
     "id": "ec451e915c5d2ba2",
     "url": "https://www.rudaw.net/english/world/08052026",
     "title": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
-    "title_en": "US, Gulf allies seek binding UN action on Iran over Hormuz attacks",
+    "title_en": "US and Gulf Allies Seek Binding UN Action on Iran Over Hormuz Attacks",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "United Nations",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:02:21.280404+00:00",
     "location": {
@@ -381,12 +542,25 @@
     "id": "46302077daf847a2",
     "url": "https://www.rudaw.net/english/middleeast/080520263",
     "title": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
-    "title_en": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "title_en": "Similar to Kurdistan Region, Iran views UAE as 'hostile base' for enemies: Iranian lawmaker",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "UAE",
+        "type": "place"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "region"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:02:10.758148+00:00",
     "location": {
@@ -399,12 +573,17 @@
     "id": "9ef14c4a23dc6e12",
     "url": "https://www.rudaw.net/english/kurdistan/08052026",
     "title": "Plans underway to build cycling lanes in Erbil amid growing demand",
-    "title_en": "Plans underway to build cycling lanes in Erbil amid growing demand",
+    "title_en": "Plans underway to build cycling lanes in Erbil amidst growing demand",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "traffic",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:01:58.682552+00:00",
     "location": {
@@ -417,12 +596,17 @@
     "id": "75c2c27950e91300",
     "url": "https://www.rudaw.net/english/kurdistan/080520261",
     "title": "The nightmare of Ajaj: The Baath regime’s infamous executioner",
-    "title_en": "The nightmare of Ajaj: The Baath regime’s infamous executioner",
+    "title_en": "The Nightmare of Ajaj: The Baath Regime's Infamous Executioner",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ajaj",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:01:41.926933+00:00",
     "location": {
@@ -435,7 +619,7 @@
     "id": "0012d4dc29065cf3",
     "url": "https://www.rudaw.net/english/world/070520261",
     "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
+    "title_en": "Germany Deploys Migrants in First Three Months of 2026",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -453,12 +637,21 @@
     "id": "629fa4d889b4c23e",
     "url": "https://www.rudaw.net/english/world/07052026",
     "title": "US rep says UN draft resolution to reopen Strait of Hormuz gaining broad support",
-    "title_en": "US rep says UN draft resolution to reopen Strait of Hormuz gaining broad support",
+    "title_en": "US Rep Says UN Draft Resolution to Reopen Strait of Hormuz Gaining Broad Support",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "traffic",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "place"
+      },
+      {
+        "name": "UN",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T19:04:48.101874+00:00",
     "location": {
@@ -474,9 +667,14 @@
     "title_en": "Iran launches fresh strikes on opposition group in Erbil",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T17:03:33.479194+00:00",
     "location": {
@@ -536,15 +734,7 @@
     "entities": [
       {
         "name": "Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraqi",
-        "type": "LOCATION"
-      },
-      {
-        "name": "parliament",
-        "type": "LOCATION"
+        "type": "person"
       }
     ],
     "breaking": 1,
@@ -559,19 +749,23 @@
     "id": "fc1d18a81c162cd4",
     "url": "https://www.rudaw.net/english/kurdistan/070520264",
     "title": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
-    "title_en": "Kurdish opposition leader’s trial adjourned until next week after Thursday hearing",
+    "title_en": "Kurdish Opposition Leader’s Trial Adjourned Until Next Week After Thursday Hearing",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdish opposition leader",
-        "type": "PERSON"
+        "name": "Kurdistan",
+        "type": "region"
       },
       {
-        "name": "ankawa",
-        "type": "LOCATION"
+        "name": "Kurdistan region",
+        "type": "region"
+      },
+      {
+        "name": "Kurdish",
+        "type": "ethnicity"
       }
     ],
     "breaking": 1,
@@ -617,25 +811,12 @@
     "id": "d7540c542d80e239",
     "url": "https://www.rudaw.net/english/business/070520261",
     "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
+    "title_en": "Giant Project to Connect Turkey’s Electricity to Iraq Complete: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Turkey",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Ministry",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-08T13:34:00.203472+00:00",
     "location": {
@@ -648,23 +829,19 @@
     "id": "8beb95b74dfedaab",
     "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
     "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
+    "title_en": "Tehran Demands End to War, Guarantees Against Recurrence as US Proposal Under Review",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Tehran",
-        "type": "LOCATION"
-      },
-      {
         "name": "US",
-        "type": "ORGANIZATION"
+        "type": "organization"
       },
       {
-        "name": "war",
-        "type": "GENERAL"
+        "name": "Tehran",
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -791,19 +968,15 @@
     "id": "b32ecaa55d099b90",
     "url": "https://www.rudaw.net/english/kurdistan/070520262",
     "title": "DNO resumes operations at Duhok’s Tawke oilfield",
-    "title_en": "DNO resumes operations at Duhok’s Tawke oilfield",
+    "title_en": "DNO resumes operations at Duhok",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "infrastructure",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "DNO",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Tawke oilfield",
-        "type": "LOCATION"
+        "name": "Tawke",
+        "type": "location"
       }
     ],
     "breaking": 1,
@@ -818,12 +991,17 @@
     "id": "5c701dc4a0a65fb9",
     "url": "https://www.rudaw.net/english/kurdistan/300420241",
     "title": "Shaqlawa sets the stage for a grandiose touristic season",
-    "title_en": "Shaqlawa sets the stage for a grandiose touristic season",
+    "title_en": "Shaqlawa prepares for a touristy season",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Shaqlawa",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T04:43:33.577250+00:00",
     "location": {
@@ -836,39 +1014,31 @@
     "id": "82733df9a2781105",
     "url": "https://www.rudaw.net/english/kurdistan/250820245",
     "title": "UNITAD hands KRG authorities processed evidence on ISIS",
-    "title_en": "UNITED NATIONS hands KRG authorities processed evidence on ISIS",
+    "title_en": "UNITAD hands KRG authorities processed evidence on ISIS",
     "summary": "ERBIL, Kurdistan Region - The United Nations team investigating the Islamic State (ISIS) gave processed information to the Kurdistan Regional Government (KRG) on Sunday relating to legal measures and procedures for the trial of ISIS suspects, as the team’s mandate in Iraq and the Region nears its end. The documents consist of “11.9 gigabytes of information and research on legal procedures for the trial of perpetrators of international crimes” committed against the Yazidis and other communities b",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "United Nations",
-        "type": "ORGANIZATION"
+        "name": "Kurdistan Regional Government (KRG)",
+        "type": "organization"
       },
       {
-        "name": "Kurdistan Regional Government",
-        "type": "ORGANIZATION"
+        "name": "Islamic State (ISIS)",
+        "type": "organization"
       },
       {
-        "name": "Islamic State",
-        "type": "ORGANIZATION"
+        "name": "United Nations Office of the High Commissioner for Human Rights",
+        "type": "organization"
       },
       {
-        "name": "ISIS",
-        "type": "ORGANIZATION"
+        "name": "United Nations ",
+        "type": "organization"
       },
       {
         "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Yazidis",
-        "type": "LOCATION"
+        "type": "country"
       }
     ],
     "breaking": 1,
@@ -910,31 +1080,27 @@
     "id": "b75495058a9d89d0",
     "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
     "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "The Road to Europe: Iraq Connects to Europe",
+    "title_en": "That's Shamenderfar is a new way to bring Iraq to Europe",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەندامێکی مەکتەبی سیاسیی پارتی دیموکراتی کوردستان رایدەگەیێنێت، گەڕانەوەی وەزیر و پەرلەمانتارەکانیان بۆ بەغدا دوای لێکتێگەیشتن و رێککەوتن بووە لەگەڵ چوارچێوەی هاوئاهەنگی لەسەر بنەمای دەستوور. سەبارەت بە پەرلەمانی کوردستانیش دەڵێت: \"یان دەبێت پەرلەمان کارا بکرێتەوە و حکومەت پێکبهێنرێت، یان ناکرێت دۆخەکە بەم شێوەیە بەردەوام بێت.\"",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
+        "name": "Shamenderfar",
+        "type": "person"
+      },
+      {
         "name": "Iraq",
-        "type": "LOCATION"
+        "type": "country"
       },
       {
         "name": "Europe",
-        "type": "LOCATION"
+        "type": "continent"
       },
       {
-        "name": "Kurdistan",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Parity Democratic Party of Kurdistan",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdistan Parliament",
-        "type": "LOCATION"
+        "name": "Kurdistan Democratic Party",
+        "type": "organization"
       }
     ],
     "breaking": 1,
@@ -1081,19 +1247,15 @@
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakur in Golwan",
+    "title_en": "Bakuur in Gawlan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Bakur",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Golwan",
-        "type": "LOCATION"
+        "name": "Gawlan",
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -1108,31 +1270,23 @@
     "id": "b2aac090941e9fa1",
     "url": "https://www.rudaw.net/sorani/middleeast/turkey/070520264",
     "title": "مەهەپە بە زمانی کوردی بەخێرهاتنی دایکانی ئاشتیی کرد",
-    "title_en": "Mahap in Kurdish Language Welcomes Mothers of Kurdish Peace",
+    "title_en": "Peaceful relations between Turkey and Iraq strengthened",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بەشداریی زیاتر لە 1,700 کۆمپانیا لە 120 وڵاتەوە، هەشتەمین پێشانگەی نێودەوڵەتیی ساها 2026 لە ئیستەنبووڵ کرایەوە. لە یەکەمین رۆژدا تورکیا نوێترین دەستکەوتە سەربازییەکانی نمایشکرد، لەوانەش مووشەکێکی هایپەرسۆنیکی کیشوەربڕ و سیستمە پێشکەوتووەکانی 'گۆمەزی پۆڵایین'.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Mahap",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdish Peace",
-        "type": "ORGANIZATION"
-      },
-      {
         "name": "Turkey",
-        "type": "LOCATION"
+        "type": "organization"
       },
       {
-        "name": "Hypersonic Missile",
-        "type": "LOCATION"
+        "name": "Iraq",
+        "type": "country"
       },
       {
-        "name": "Gomezi Polayin",
-        "type": "ORGANIZATION"
+        "name": "Gomel Polyan",
+        "type": "person"
       }
     ],
     "breaking": 1,
@@ -1147,31 +1301,27 @@
     "id": "b79cfc42e71398c5",
     "url": "https://www.rudaw.net/sorani/world/0705202611",
     "title": "لە ڤیەننا یادی 50 ساڵەی گەیشتنی یەکەمین پەنابەرانی کورد بۆ نەمسا کرایەوە",
-    "title_en": "In Vienna, the 50th anniversary of the first Kurdish refugee in Austria is commemorated",
+    "title_en": "Kurdish Politician Celebrates 50 Years of Partnership with Namibia",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە هەڵبژاردنی شارەوانییەکانی بەریتانیا، 4 کورد بەربژێرن و چاوەڕوان دەکرێت پارتی ریفۆرمی راستڕۆ و سەوزەکان سەرکەوتنی گەورە بەدەستبهێنن، لە بەرامبەریشدا پارتی کرێکارانی فەرمانڕەوا رووبەڕووی شکست ببێتەوە.",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Vienna",
-        "type": "LOCATION"
+        "name": "Namibia",
+        "type": "place"
       },
       {
-        "name": "Austria",
-        "type": "LOCATION"
+        "name": "Britain",
+        "type": "country"
       },
       {
-        "name": "Kurdish",
-        "type": "LOCATION"
+        "name": "Parti Rifeori",
+        "type": "organization"
       },
       {
-        "name": "Reform Party",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Sozan",
-        "type": "PERSON"
+        "name": "Patrioti Rojava",
+        "type": "organization"
       }
     ],
     "breaking": 1,
@@ -1209,23 +1359,27 @@
     "id": "ad76bca667bd240c",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/0705202612",
     "title": "کارنامەی عەلی زەیدی بۆ کابینەی نوێی حکومەتی عێراق بڵاوکرایەوە",
-    "title_en": "Ali Zeidi's Curriculum for New Government of Iraq Announced",
+    "title_en": "Prime Minister Ali Saeed's visit to the new government of Iraq has been announced",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ حکومەتی عێراق هەنگاوەکانی بۆ چارەسەرکردنی دۆسیەی زێدەڕۆیی چڕتر دەکاتەوە؛ بڕیار دراوە ئەو زەوییانە بەو هاووڵاتییانە بفرۆشرێنەوە کە خانوویان لەسەر دروستکردوون، ئەوەش بە مەبەستی کۆتاییهێنان بەو کێشە یاسایی و خزمەتگوزارییەی چەندین ساڵە بەرۆکی شارەکانی گرتووە.",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Ali Zeidi",
-        "type": "PERSON"
+        "name": "Ali Saeed",
+        "type": "person"
       },
       {
         "name": "Iraq",
-        "type": "LOCATION"
+        "type": "country"
       },
       {
-        "name": "Kurdistan",
-        "type": "LOCATION"
+        "name": "Baghdad",
+        "type": "city"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "region"
       }
     ],
     "breaking": 1,
@@ -1240,23 +1394,23 @@
     "id": "cb6cb38d87964efd",
     "url": "https://www.rudaw.net/sorani/sports/010420267",
     "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "The 10 stars who cannot participate in the 2026 World Cup",
+    "title_en": "The 10 Most Resilient Stars in the Event of a Supermoon by 2026",
     "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "2026 World Cup",
-        "type": "ORGANIZATION"
+        "name": "Supermoon",
+        "type": "event"
       },
       {
-        "name": "stars",
-        "type": "PERSON"
+        "name": "2026",
+        "type": "year"
       },
       {
-        "name": "Kurdistan",
-        "type": "LOCATION"
+        "name": "Kurdistan region",
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -1679,31 +1833,19 @@
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "The Rise of AI in Kurdish Music: A Blessing or a Curse?",
+    "title_en": "Artificial Intelligence Takes the Stage in Kurdish Music and Literature",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "AI",
-        "type": "ORGANIZATION"
+        "name": "Mahmoud Malek",
+        "type": "person"
       },
       {
-        "name": "Shoresh",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Ankawa",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
+        "name": "Hassan Zaker",
+        "type": "person"
       }
     ],
     "breaking": 1,
@@ -1772,27 +1914,19 @@
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "New Measures Regarding the Views of Spanish Immigrants",
+    "title_en": "New measures against ISIS in Spain",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "positive",
     "entities": [
       {
+        "name": "ISIS",
+        "type": "organization"
+      },
+      {
         "name": "Spain",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Spanish",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Muslims",
-        "type": "PERSON"
-      },
-      {
-        "name": "ankawa",
-        "type": "LOCATION"
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -1908,19 +2042,15 @@
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakur in Golwan",
+    "title_en": "Bakur in Gawran",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "infrastructure",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Bakur",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Golwan",
-        "type": "LOCATION"
+        "name": "Gawran",
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -2001,27 +2131,31 @@
     "id": "c0fb0f4694932a6f",
     "url": "https://www.rudaw.net/sorani/kurdistan/0605202618",
     "title": "جەلادەکەی نوگرەسەلمان دادگایی دەکرێت؛ 221 کەس وەکو شایەتحاڵ ئامادە دەبن",
-    "title_en": "The New Government of Kurdistan Will Be Sworn In; 221 People Are Ready",
+    "title_en": "Ghazlahi Case Can Be Sentenced; 221 Cases and 400 People Will Come to the Shaiyathal",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەندامێکی مەکتەبی سیاسیی پارتی دیموکراتی کوردستان رایدەگەیێنێت، گەڕانەوەی وەزیر و پەرلەمانتارەکانیان بۆ بەغدا دوای لێکتێگەیشتن و رێککەوتن بووە لەگەڵ چوارچێوەی هاوئاهەنگی لەسەر بنەمای دەستوور. سەبارەت بە پەرلەمانی کوردستانیش دەڵێت: \"یان دەبێت پەرلەمان کارا بکرێتەوە و حکومەت پێکبهێنرێت، یان ناکرێت دۆخەکە بەم شێوەیە بەردەوام بێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdistan",
-        "type": "LOCATION"
-      },
-      {
         "name": "Kurdistan Democratic Party",
-        "type": "ORGANIZATION"
+        "type": "organization"
       },
       {
-        "name": "Baghdad",
-        "type": "LOCATION"
+        "name": "Ghazlahi",
+        "type": "person"
       },
       {
-        "name": "Kurdistan Parliament",
-        "type": "LOCATION"
+        "name": "BAGHDAD",
+        "type": "location"
+      },
+      {
+        "name": "Sanaa",
+        "type": "place"
+      },
+      {
+        "name": "Democratic Republic of Kurdistan",
+        "type": "organization"
       }
     ],
     "breaking": 1,
@@ -2044,7 +2178,7 @@
     "entities": [
       {
         "name": "Sulaimani",
-        "type": "LOCATION"
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -2093,16 +2227,12 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "US",
-        "type": "LOCATION"
+        "name": "CENTCOM",
+        "type": "organization"
       },
       {
         "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "CENTCOM",
-        "type": "ORGANIZATION"
+        "type": "country"
       }
     ],
     "breaking": 1,
@@ -2175,23 +2305,15 @@
     "id": "1421a6045911f19c",
     "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
     "title": "Iran says US proposal to end war ‘under review’",
-    "title_en": "Iran says US proposal to end war ‘under review’",
+    "title_en": "Iran Proposes to End War with US",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
         "name": "US",
-        "type": "LOCATION"
-      },
-      {
-        "name": "war",
-        "type": "GENERAL"
+        "type": "organization"
       }
     ],
     "breaking": 1,
@@ -2214,11 +2336,7 @@
     "entities": [
       {
         "name": "Barzani",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraqi government",
-        "type": "ORGANIZATION"
+        "type": "person"
       }
     ],
     "breaking": 1,
@@ -2264,19 +2382,23 @@
     "id": "38627eec7ff69659",
     "url": "https://www.rudaw.net/english/opinion/06052026",
     "title": "Nechirvan Barzani’s helping hand to Iraqi PM-designate Zaidi",
-    "title_en": "Nechirvan Barzani’s helping hand to Iraqi PM-designate Zaidi",
+    "title_en": "Nechirvan Barzani's helping hand to Iraqi PM-designate Zaidi",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "Nechirvan Barzani",
-        "type": "PERSON"
+        "type": "person"
       },
       {
-        "name": "Iraqi PM-designate Zaidi",
-        "type": "PERSON"
+        "name": "Zaidi",
+        "type": "person"
+      },
+      {
+        "name": "Iraq",
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -2349,23 +2471,19 @@
     "id": "4147a9d169073892",
     "url": "https://www.rudaw.net/english/kurdistan/060520263",
     "title": "KDP ends boycott of Iraq’s parliament sessions",
-    "title_en": "KDP ends boycott of Iraq’s parliament sessions",
+    "title_en": "Kurdistan Democratic Party (KDP) ends boycott of Iraq's parliament sessions",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "KDP",
-        "type": "ORGANIZATION"
-      },
-      {
         "name": "Iraq",
-        "type": "LOCATION"
+        "type": "country"
       },
       {
-        "name": "parliament",
-        "type": "LOCATION"
+        "name": "Kurdistan Democratic Party",
+        "type": "organization"
       }
     ],
     "breaking": 1,
@@ -2384,15 +2502,11 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
         "name": "Najaf",
-        "type": "LOCATION"
+        "type": "place"
       }
     ],
     "breaking": 1,
@@ -2412,7 +2526,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "United Nations",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:32.248055+00:00",
     "location": {
@@ -2446,7 +2565,7 @@
     "title_en": "UN report finds global migration broadly stable, contradicting Western political narrative",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "traffic",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -2464,9 +2583,18 @@
     "title_en": "US offers $10 million reward for information on Iraqi militia leader",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Iraqi militia leader",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:56.266453+00:00",
     "location": {
@@ -2484,7 +2612,20 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "place"
+      },
+      {
+        "name": "Kurdistan region",
+        "type": "region"
+      },
+      {
+        "name": "Hormuz",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:50.133377+00:00",
     "location": {
@@ -2500,9 +2641,14 @@
     "title_en": "US calls for 'action, not words' from Iraq over militias",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:45.443273+00:00",
     "location": {
@@ -2520,7 +2666,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "UN",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:41.313881+00:00",
     "location": {
@@ -2536,9 +2691,26 @@
     "title_en": "IRGC strikes another Kurdish opposition camp in Kurdistan Region as US-Iran deal nears",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iranian Revolutionary Guard Corps",
+        "type": "organization"
+      },
+      {
+        "name": "US",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "region"
+      },
+      {
+        "name": "Kurdish opposition",
+        "type": "group"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:35.127327+00:00",
     "location": {
@@ -2551,12 +2723,17 @@
     "id": "67e085480bc6c2ed",
     "url": "https://www.rudaw.net/english/middleeast/060520261",
     "title": "US, Iran near draft deal to end war as talks advance: Report",
-    "title_en": "US, Iran near draft deal to end war as talks advance: Report",
+    "title_en": "US, Iran Near Draft Deal to End War as Talks Advance",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "None",
+        "type": ""
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:44:20.232345+00:00",
     "location": {
@@ -2569,12 +2746,25 @@
     "id": "fbe740a8a08ee417",
     "url": "https://www.rudaw.net/english/world/06042026",
     "title": "Trump says wants Kurds to 'stay away' from Iran war",
-    "title_en": "Trump says wants Kurds to 'stay away' from Iran war",
+    "title_en": "Trump says wants Kurds to stay away from Iran war",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "region"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:32:03.597790+00:00",
     "location": {
@@ -2592,7 +2782,16 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "country"
+      },
+      {
+        "name": "Captagon",
+        "type": "drug"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:48.732061+00:00",
     "location": {
@@ -2605,7 +2804,7 @@
     "id": "03a662c52454d78d",
     "url": "https://www.rudaw.net/english/middleeast/iran/05052026",
     "title": "Iran accuses US of violating ceasefire in Strait of Hormuz",
-    "title_en": "Iran Accuses US of Violating Ceasefire in Strait of Hormuz",
+    "title_en": "Iran accuses US of violating ceasefire in Strait of Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
@@ -2623,7 +2822,7 @@
     "id": "07fcd717f93f5ec3",
     "url": "https://www.rudaw.net/english/world/05052026",
     "title": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
-    "title_en": "World leaders condemn Iran’s attack on UAE, urge return to diplomacy",
+    "title_en": "World leaders condemn Iran's attack on UAE, urge return to diplomacy",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -2645,7 +2844,7 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:33.558984+00:00",
@@ -2659,12 +2858,25 @@
     "id": "d506416ee2971b5e",
     "url": "https://www.rudaw.net/english/middleeast/050520262",
     "title": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
-    "title_en": "Pakistan ‘strongly condemns’ Iran’s attack on UAE",
+    "title_en": "Pakistan strongly condemns Iran's attack on UAE",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Pakistan",
+        "type": "country"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "UAE",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:30.324902+00:00",
     "location": {
@@ -2677,12 +2889,25 @@
     "id": "5e9a09e7d65c9d57",
     "url": "https://www.rudaw.net/english/middleeast/050520261",
     "title": "US warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
-    "title_en": "US warns of ‘devastating’ response if Iran targets shipping in Strait of Hormuz",
+    "title_en": "US warns of “devastating” response if Iran targets shipping in Strait of Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "US",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:15.952799+00:00",
     "location": {
@@ -2695,12 +2920,21 @@
     "id": "66c362be64a6814d",
     "url": "https://www.rudaw.net/english/business/05052026",
     "title": "Baghdad wheat policy discriminatory toward Kurdistan Region farmers: Ministry",
-    "title_en": "Baghdad's Wheat Policy Discriminatory Towards Kurdistan Region Farmers: Ministry",
+    "title_en": "Baghdad wheat policy discriminatory toward Kurdistan Region farmers: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "place"
+      },
+      {
+        "name": "Ministry",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:12.242462+00:00",
     "location": {
@@ -2718,7 +2952,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:06.475807+00:00",
     "location": {
@@ -2734,9 +2973,22 @@
     "title_en": "Nearly 12,500 domestic violence complaints recorded in Kurdistan in 2025: Official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "place"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "place"
+      },
+      {
+        "name": "2025",
+        "type": "year"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:03.193666+00:00",
     "location": {
@@ -2752,9 +3004,22 @@
     "title_en": "Iraq revises 400,000-ton wheat cap for Kurdistan Region farmers",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "place"
+      },
+      {
+        "name": "Iraq",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan Region farmers",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:59.846088+00:00",
     "location": {
@@ -2767,12 +3032,17 @@
     "id": "569c3a4dea5a37fb",
     "url": "https://www.rudaw.net/english/kurdistan/050520261",
     "title": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
-    "title_en": "Jailed Iranian Nobel laureate Narges Mohammadi suffers major health setback: Lawyer",
+    "title_en": "Iranian Nobel Laureate Faces Health Crisis",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Narges Mohammadi",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:52.833469+00:00",
     "location": {
@@ -2785,12 +3055,21 @@
     "id": "490b4bd01df4596a",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520265",
     "title": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
-    "title_en": "Halbousi announces ‘new page’ in ties with KDP after meeting with President Barzani",
+    "title_en": "Halbousi Announces New Page in Ties with KDP After Meeting with President Barzani",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      },
+      {
+        "name": "KDP",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:30:47.551330+00:00",
     "location": {
@@ -2803,12 +3082,20 @@
     "id": "9120e17bcb865b13",
     "url": "https://www.rudaw.net/english/kurdistan/060420262",
     "title": "Kurdistan bakeries struggle as gas prices surge, shift to firewood",
-    "title_en": "Kurdistan bakeries struggle as gas prices surge, shift to firewood",
+    "title_en": "Kurdistan bakeries struggle as gas prices surge",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "place"
+      },
+      "Kurdistan bakeries",
+      "gas prices",
+      "Kurdistan"
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T20:50:27.070779+00:00",
     "location": {
@@ -2821,12 +3108,21 @@
     "id": "07f11f4265d3cb8d",
     "url": "https://www.rudaw.net/english/kurdistan/05052026",
     "title": "Iranian Kurdish opposition group reports over 70 attacks on its bases: spokesperson",
-    "title_en": "Iranian Kurdish opposition group reports over 70 attacks on its bases: spokesperson",
+    "title_en": "Iranian Kurdish opposition group reports over 70 attacks on its bases",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iranian Kurdish opposition group",
+        "type": "organization"
+      },
+      {
+        "name": "Kurdistan region",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T20:49:29.231699+00:00",
     "location": {
@@ -2842,9 +3138,22 @@
     "title_en": "Ukraine offers Gulf states cost-effective defenses against Iranian drones: Expert",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Ukraine",
+        "type": "country"
+      },
+      {
+        "name": "Gulf states",
+        "type": "region"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:11:10.397452+00:00",
     "location": {
@@ -2880,7 +3189,16 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "place"
+      },
+      {
+        "name": "Washington",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:42.706713+00:00",
     "location": {
@@ -2896,9 +3214,18 @@
     "title_en": "Yazidi survivor reunites with family after 12 years in ISIS captivity",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "ISIS",
+        "type": "organization"
+      },
+      {
+        "name": "Kurdistan region",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:37.442578+00:00",
     "location": {
@@ -2911,12 +3238,25 @@
     "id": "efe6b2cb765a7530",
     "url": "https://www.rudaw.net/english/middleeast/iraq/040520263",
     "title": "President Barzani meets Sunni leaders to advance Iraq government formation",
-    "title_en": "President Barzani meets Sunni leaders to advance Iraq government formation",
+    "title_en": "President Barzani Meets Sunni Leaders to Advance Iraq Government Formation",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      },
+      {
+        "name": "Iraq",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "region"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:31.777139+00:00",
     "location": {
@@ -2934,7 +3274,20 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "CBS",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:08.613147+00:00",
     "location": {
@@ -2947,12 +3300,21 @@
     "id": "e858d223348f82c4",
     "url": "https://www.rudaw.net/english/middleeast/040520265",
     "title": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
-    "title_en": "UAE Thwarts Iranian Missile, Drone Attacks After Tanker Hit: Ministry",
+    "title_en": "UAE thwarts Iranian missile, drone attacks after tanker hit: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "UAE",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:43.455365+00:00",
     "location": {
@@ -2965,12 +3327,17 @@
     "id": "01e1558c4d197a3a",
     "url": "https://www.rudaw.net/english/middleeast/iraq/040520262",
     "title": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
-    "title_en": "Iraqi PM-designate says had ‘good understanding’ with President Barzani",
+    "title_en": "Iraqi PM-designate says had ’good understanding’ with President Barzani",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:38.780183+00:00",
     "location": {
@@ -2983,12 +3350,21 @@
     "id": "8f337edf91f9ce62",
     "url": "https://www.rudaw.net/english/middleeast/040520266",
     "title": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
-    "title_en": "UAE says it reserves ‘right to respond’ after Iran-linked drone, missile attacks",
+    "title_en": "UAE says it reserves 'right to respond' after Iran-linked drone, missile attacks",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "UAE",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T11:54:34.159659+00:00",
     "location": {
@@ -3001,12 +3377,21 @@
     "id": "bab89639610c8207",
     "url": "https://www.rudaw.net/english/business/04052026",
     "title": "Kurdistan Region bans food exports amid price, supply concerns",
-    "title_en": "Kurdistan Region bans food exports amid price, supply concerns",
+    "title_en": "Kurdistan Region Bans Food Exports Amid Price and Supply Concerns",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "organization"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:08.824772+00:00",
     "location": {
@@ -3037,12 +3422,21 @@
     "id": "9c6dee4ac00357cb",
     "url": "https://www.rudaw.net/english/world/04052026",
     "title": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
-    "title_en": "AI-powered Kurdish song 'Her e Gulê' goes viral worldwide as creator reveals story behind hit",
+    "title_en": "AI-powered Kurdish song 'Her e Gulé' goes viral worldwide as creator reveals story behind hit",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdish",
+        "type": "language"
+      },
+      {
+        "name": "Her e Gulé",
+        "type": "song"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:02.652143+00:00",
     "location": {
@@ -3055,12 +3449,21 @@
     "id": "1ebf416e4cb137e2",
     "url": "https://www.rudaw.net/english/middleeast/040520263",
     "title": "UAE issues ‘missile’ threat warning following drone attack on Emirati tanker in Hormuz",
-    "title_en": "UAE Issues 'Missile' Threat Warning Following Drone Attack on Emirati Tanker in Hormuz",
+    "title_en": "UAE issues 'missile' threat warning following drone attack on Emirati tanker in Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Hormuz",
+        "type": "place"
+      },
+      {
+        "name": "UAE",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:35:56.715123+00:00",
     "location": {
@@ -3078,7 +3481,16 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:35:53.480603+00:00",
     "location": {
@@ -3091,12 +3503,25 @@
     "id": "c58a3e9768852a97",
     "url": "https://www.rudaw.net/english/middleeast/iraq/04052026",
     "title": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
-    "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
+    "title_en": "President Nechirvan Barzani in Baghdad to meet Shi\\u00ffa, Sunni leaders",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "person"
+      },
+      {
+        "name": "Iraq",
+        "type": "place"
+      },
+      {
+        "name": "Baghdad",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
@@ -3109,12 +3534,25 @@
     "id": "fcaabe6426085c24",
     "url": "https://www.rudaw.net/english/middleeast/iraq/040520261",
     "title": "Five teenagers drown in Iraq’s Wasit",
-    "title_en": "Five Teenagers Drown in Iraq’s Wasit",
+    "title_en": "Five teenagers drown in Iraq's Wasit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "place"
+      },
+      {
+        "name": "Wasit",
+        "type": "location"
+      },
+      {
+        "name": "None",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:15.604161+00:00",
     "location": {
@@ -3127,12 +3565,17 @@
     "id": "7c03f5ce7abbbf96",
     "url": "https://www.rudaw.net/english/middleeast/iran/040520261",
     "title": "Iran issues maps claiming control over Strait of Hormuz",
-    "title_en": "Iran Issues Maps Claiming Control Over Strait of Hormuz",
+    "title_en": "Iran issues maps claiming control over Strait of Hormuz",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:10.588789+00:00",
     "location": {
@@ -3150,7 +3593,20 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      },
+      {
+        "name": "Iraq",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "geopolitical entity"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:03.202966+00:00",
     "location": {
@@ -3163,12 +3619,25 @@
     "id": "9069173cd04767e9",
     "url": "https://www.rudaw.net/english/middleeast/040520261",
     "title": "Iran threatens US forces over Strait of Hormuz as Washington unveils escort plan",
-    "title_en": "Iran threatens US forces over Strait of Hormuz as Washington unveils escort plan",
+    "title_en": "Iran Threatens US Forces Over Strait of Hormuz as Washington Unveils Escort Plan",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Washington",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T20:50:22.577347+00:00",
     "location": {
@@ -3181,12 +3650,25 @@
     "id": "9e41cae765ff4e42",
     "url": "https://www.rudaw.net/english/middleeast/04052026",
     "title": "US launches 'Project Freedom' in Strait of Hormuz to restore shipping routes",
-    "title_en": "US Launches 'Project Freedom' in Strait of Hormuz to Restore Shipping Routes",
+    "title_en": "US launches Project Freedom in Strait of Hormuz to restore shipping routes",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Strait of Hormuz",
+        "type": "location"
+      },
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Project Freedom",
+        "type": "event"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T19:03:07.405832+00:00",
     "location": {
@@ -3199,12 +3681,17 @@
     "id": "b32c9b8461c1e28a",
     "url": "https://www.rudaw.net/english/kurdistan/030520262",
     "title": "Three family members drowned in Zakho",
-    "title_en": "Three family members drowned in Zakho",
+    "title_en": "Three family members drown in Zakho",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Zakho",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:59.537725+00:00",
     "location": {
@@ -3235,12 +3722,17 @@
     "id": "40edb3245f32168f",
     "url": "https://www.rudaw.net/english/opinion/03052026",
     "title": "Kurdish Language in Syria: Between interim government policy and indigenous rights",
-    "title_en": "Kurdish Language in Syria: Between interim government policy and indigenous rights",
+    "title_en": "Kurdish Language in Syria: Between Interim Government Policy and Indigenous Rights",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:51.370852+00:00",
     "location": {
@@ -3256,9 +3748,14 @@
     "title_en": "Iran executes three more protesters over alleged Mossad ties",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Mossad",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T15:34:44.667133+00:00",
     "location": {
@@ -3274,9 +3771,14 @@
     "title_en": "KRG warns against trading with electronic currencies",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "",
+        "type": ""
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:58.297816+00:00",
     "location": {
@@ -3289,12 +3791,17 @@
     "id": "7f8f520f93e56995",
     "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
     "title": "President Barzani to visit Baghdad Monday",
-    "title_en": "President Barzani to visit Baghdad Monday",
+    "title_en": "President Barzani to visit Baghdad on Monday",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "person"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
@@ -3307,12 +3814,17 @@
     "id": "4a3c32e1f98b01ff",
     "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
     "title": "The state of the internet in Iran",
-    "title_en": "The state of the internet in Iran",
+    "title_en": "State of Internet in Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:47.972823+00:00",
     "location": {
@@ -3328,9 +3840,30 @@
     "title_en": "Iraqi, Kurdish oil exports could reach half a million barrels: Official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "type": ""
+      },
+      {
+        "name": "Iraq",
+        "type": "place"
+      },
+      {
+        "name": "",
+        "type": ""
+      },
+      {
+        "name": "",
+        "type": ""
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:44.554293+00:00",
     "location": {
@@ -3346,9 +3879,14 @@
     "title_en": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "South Syria",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:40.668591+00:00",
     "location": {
@@ -3365,8 +3903,13 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:35.944877+00:00",
     "location": {
@@ -3379,12 +3922,21 @@
     "id": "4ae0fddde2ef13b6",
     "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
     "title": "Turkey needs new constitution amid changing threats: Justice minister",
-    "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
+    "title_en": "Turkey Needs New Constitution Amid Changing Threats: Justice Minister",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Justice Minister",
+        "type": "person"
+      },
+      {
+        "name": "Turkey",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:32.837425+00:00",
     "location": {
@@ -3415,12 +3967,25 @@
     "id": "36322c292967093e",
     "url": "https://www.rudaw.net/english/middleeast/iran/030520261",
     "title": "Iran intensifies crackdown on Sunni clerics",
-    "title_en": "Iran intensifies crackdown on Sunni clerics",
+    "title_en": "Iran Intensifies Crackdown on Sunni Clerics",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "Sunni",
+        "type": "religion"
+      },
+      {
+        "name": "clerics",
+        "type": "profession"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:24.511690+00:00",
     "location": {
@@ -3436,9 +4001,14 @@
     "title_en": "OPEC+ announces oil output hike amid global supply disruptions",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "OPEC",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:20.420620+00:00",
     "location": {
@@ -3451,12 +4021,25 @@
     "id": "7ce5f89137656751",
     "url": "https://www.rudaw.net/english/middleeast/iran/030520262",
     "title": "Kurdish prisoner exposes forced confession before execution by Iran",
-    "title_en": "Kurdish prisoner exposes forced confession before execution by Iran",
+    "title_en": "Kurdish Prisoner Exposes Forced Confession Before Execution by Iran",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "region"
+      },
+      {
+        "name": "Iran",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:16.666756+00:00",
     "location": {
@@ -3487,12 +4070,17 @@
     "id": "57990e04de2e2413",
     "url": "https://www.rudaw.net/english/kurdistan/020520265",
     "title": "Iraq's PM-designate meets Kurdish leaders in Kurdistan Region",
-    "title_en": "Iraq's PM-designate meets Kurdish leaders in Kurdistan Region",
+    "title_en": "Iraq's PM-designate Meets with Kurdish Leaders in Kurdistan Region",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T20:06:50.243236+00:00",
     "location": {
@@ -3510,7 +4098,16 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Damascus",
+        "type": "place"
+      },
+      {
+        "name": "State media",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:40.706560+00:00",
     "location": {
@@ -3523,12 +4120,17 @@
     "id": "9d3e8c8cb75cdb20",
     "url": "https://www.rudaw.net/english/kurdistan/02052026",
     "title": "Three children missing after car plunges into Erbil river",
-    "title_en": "Three children missing after car plunges into Erbil river",
+    "title_en": "Three Children Missing After Car Plunges Into Erbil River",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "place"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:37.820125+00:00",
     "location": {
@@ -3541,12 +4143,21 @@
     "id": "6ce5523aeabfe6c5",
     "url": "https://www.rudaw.net/english/middleeast/iran/02052026",
     "title": "Iran executes two political prisoners from ethnic minorities on spying charges for Israel",
-    "title_en": "Iran executes two political prisoners from ethnic minorities on spying charges for Israel",
+    "title_en": "Iran Executes Two Political Prisoners from Ethnic Minorities on Spy Charges for Israel",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Israel",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:34.858086+00:00",
     "location": {
@@ -3580,9 +4191,22 @@
     "title_en": "Iraq receives renewed US dollar shipments after two-month pause",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Iraq",
+        "type": "country"
+      },
+      {
+        "name": "Dollar",
+        "type": "currencies"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:28.687155+00:00",
     "location": {
@@ -3595,12 +4219,25 @@
     "id": "d4cbb14e767625d1",
     "url": "https://www.rudaw.net/english/middleeast/syria/020520261",
     "title": "Four SDF brigades integrated, but army cohesion remains elusive: Kurdish defense official",
-    "title_en": "Four SDF brigades integrated, but army cohesion remains elusive: Kurdish defense official",
+    "title_en": "Four SDF Brigades Integrated, But Army Cohesion Remains Elusive: Kurdish Defense Official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdish",
+        "type": "organization"
+      },
+      {
+        "name": "SDF",
+        "type": "organization"
+      },
+      {
+        "name": "Kurdistan region",
+        "type": "location"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:24.103379+00:00",
     "location": {
@@ -3613,12 +4250,21 @@
     "id": "99f6ac6f84823aca",
     "url": "https://www.rudaw.net/english/middleeast/iran/020520261",
     "title": "Iranian commander warns renewed conflict with US ‘likely,’ affirms readiness",
-    "title_en": "Iranian commander warns renewed conflict with US ‘likely,’ affirms readiness",
+    "title_en": "Iranian Commander Warns Renewed Conflict with US ’ Likely,— Affirms Readiness",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "US",
+        "type": "organization"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:19.096484+00:00",
     "location": {
@@ -3636,7 +4282,20 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Koya",
+        "type": "place"
+      },
+      {
+        "name": "Erbil province",
+        "type": "location"
+      },
+      {
+        "name": "Drone",
+        "type": "object"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:16.142442+00:00",
     "location": {
@@ -3649,12 +4308,17 @@
     "id": "184d72f71f6f6586",
     "url": "https://www.rudaw.net/english/kurdistan/020520263",
     "title": "Hajj pilgrimage to be conducted exclusively by air: KRG",
-    "title_en": "Hajj pilgrimage to be conducted exclusively by air: KRG",
+    "title_en": "Hajj Pilgrimage to Be Conducted Exclusively by Air: KRG",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region Government (KRG)",
+        "type": "organization"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:12.783664+00:00",
     "location": {
@@ -3667,12 +4331,25 @@
     "id": "385a6c686cfedab2",
     "url": "https://www.rudaw.net/english/middleeast/syria/020520262",
     "title": "Kurdish education key to Damascus integration deal success: Hasaka governor",
-    "title_en": "Kurdish education key to Damascus integration deal success: Hasaka governor",
+    "title_en": "Kurdish Education Crucial for Damascus Integration Deal Success: Hasaka Governor",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hasaka",
+        "type": "place"
+      },
+      {
+        "name": "Damascus",
+        "type": "place"
+      },
+      {
+        "name": "Damascus integration deal",
+        "type": "event"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:09.909620+00:00",
     "location": {
