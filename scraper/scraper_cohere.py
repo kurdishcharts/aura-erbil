@@ -130,12 +130,7 @@ def _detect_location(text):
     return {"name": "Erbil", "lat": 36.1912, "lng": 44.0092}
 def _same_origin(url): return urlparse(url).netloc == urlparse(BASE_URL).netloc
 
-# ── Cohere client ──
-try:
 # Cloud AI calls removed — local Ollama handles enrichment
-pass
-except KeyError:
-    print("FATAL: COHERE_API_KEY environment variable not set"); exit(1)
 
 def _enrich_with_ai(title_original: str, summary: str) -> dict:
     """Keyword‑based fallback only – local Ollama handles real enrichment."""
