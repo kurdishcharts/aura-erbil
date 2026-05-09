@@ -24,16 +24,17 @@ LOOKBACK_DAYS     = 7
 
 # Sorani-first, then English — FIXED DOMAINS
 SOURCES = [
-    # Sorani/Kurdish pages
+    # Sorani/Kurdish pages (scraped first)
     ("https://www.rudaw.net/sorani", "rudaw-sorani"),
-    ("https://channel8.com/ku", "channel8-sorani"),            # fixed domain
+    ("https://channel8.com", "channel8-sorani"),               # homepage has Kurdish news listing
     ("https://www.nrttv.com/ku/News.aspx", "nrt-sorani"),
-    ("https://ava.news/ku", "avanews-kurdish"),                # fixed domain
+    ("https://ava.news", "avanews-kurdish"),                   # root domain — Kurdish content
+    ("https://anfsorani.com", "anf-sorani"),                   # may fail if blocked — graceful skip
     # English mirrors
     ("https://www.rudaw.net/english", "rudaw-english"),
-    ("https://channel8.com/en", "channel8-english"),           # fixed domain
+    ("https://channel8.com/en", "channel8-english"),
     ("https://www.nrttv.com/En/News.aspx", "nrt-english"),
-    ("https://ava.news/en", "avanews-english"),                # fixed domain
+    ("https://ava.news/en", "avanews-english"),
 ]
 
 session = requests.Session()
