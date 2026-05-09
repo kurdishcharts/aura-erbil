@@ -20,8 +20,8 @@ DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
 MAX_AGE_DAYS      = 30
 MAX_PAGES_PER_RUN = 40
-MIN_DELAY         = 2.0
-MAX_DELAY         = 5.0
+MIN_DELAY = 5.0
+MAX_DELAY = 7.0
 BACKOFF_BASE      = 2.0
 MAX_BACKOFF       = 60.0
 COHERE_MODEL      = "command-r7b-12-2024"
@@ -59,7 +59,35 @@ try: _rp.read(); print("  robots.txt loaded")
 except Exception as e: print(f"  robots.txt fetch failed ({e}) — proceeding cautiously")
 
 def _allowed(url):
-    return True  # always allow (polite delays are used)
+    """Check robots.txt for the specific domain (cached per run)."""
+    parsed = urlparse(url)
+    base = f"{parsed.scheme}://{parsed.netloc}"
+    domain_robots = f"{base}/robots.txt"
+
+    # Cache the robots for each domain (simple dict, reset each run)
+    if not hasattr(_allowed, "cache"):
+        _allowed.cache = {}
+
+    if domain_robots not in _allowed.cache:
+        rp = robotparser.RobotFileParser()
+        rp.set_url(domain_robots)
+        try:
+            rp.read()
+            _allowed.cache[domain_robots] = rp
+        except Exception:
+            # If we can't fetch robots.txt, allow by default (conservative)
+            print(f"  [robots.txt] Could not fetch {domain_robots}, allowing")
+            _allowed.cache[domain_robots] = None
+            return True
+
+    rp = _allowed.cache[domain_robots]
+    if rp is None:
+        return True
+
+    allowed = rp.can_fetch(USER_AGENT, url)
+    if not allowed:
+        print(f"  [robots.txt] DISALLOWED: {url}")
+    return allowed
 def _jitter(): time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
 def _fetch(url, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
     if False: print(f"  [robots.txt] blocked: {url}"); return None,None,None
