@@ -102,12 +102,21 @@
     "id": "11246d620681ba9c",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
     "title": "President Barzani continues Baghdad talks on second day of visit",
-    "title_en": "President Barzani Continues Baghdad Talks on Second Day of Visit",
+    "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:16.209932+00:00",
     "location": {
@@ -353,7 +362,16 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "UAE",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:41.674590+00:00",
     "location": {
@@ -366,13 +384,24 @@
     "id": "3f0ffc49740776b7",
     "url": "https://www.rudaw.net/english/middleeast/syria/08052026",
     "title": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
-    "title_en": "Damascus to Release 250 SDF-Linked Detainees, Tensions in Hasaka Contained: Governor",
+    "title_en": "Damascus to release 250 SDF-linked detainees, tensions in Hasaka contained: Governor",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
     "entities": [
-      "Damascus"
+      {
+        "name": "Damascus",
+        "type": "LOCATION"
+      },
+      {
+        "name": "SDF",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hasaka",
+        "type": "LOCATION"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:27.637771+00:00",
@@ -641,12 +670,21 @@
     "id": "0012d4dc29065cf3",
     "url": "https://www.rudaw.net/english/world/070520261",
     "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany Deploys 135 Iraqi Migrants",
+    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T20:34:35.808324+00:00",
     "location": {
@@ -744,12 +782,21 @@
     "id": "645ff128a5a1b764",
     "url": "https://www.rudaw.net/english/middleeast/iraq/070520263",
     "title": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
-    "title_en": "Iraqi PM-Designate Zaidi to Present Cabinet Next Week in Parliament",
+    "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T15:33:37.437477+00:00",
     "location": {
@@ -1265,12 +1312,21 @@
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakuor in Gawilan",
+    "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Bakur",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Gulistan",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T02:30:38.642226+00:00",
     "location": {
@@ -1843,13 +1899,20 @@
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "Artificial Intelligence Takes Over Kurdistan's Radio and Music",
+    "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Mahmoud Mahamleh"
+      {
+        "name": "Mameli",
+        "type": "PERSON"
+      },
+      {
+        "name": "Zarek",
+        "type": "PERSON"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-08T01:56:50.962404+00:00",
@@ -2307,12 +2370,21 @@
     "id": "1421a6045911f19c",
     "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
     "title": "Iran says US proposal to end war ‘under review’",
-    "title_en": "Iran Says US Proposal to End War Under Review",
+    "title_en": "Iran says US proposal to end war ‘under review’",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-07T09:47:16.394785+00:00",
     "location": {
@@ -2522,12 +2594,21 @@
     "id": "84b35d393cce421e",
     "url": "https://www.rudaw.net/english/world/09042026",
     "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "title_en": "UN Emphasizes Maritime Freedom, Political Rights Amid Iran Tensions",
+    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:32.248055+00:00",
     "location": {
@@ -2572,7 +2653,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Western",
+        "type": "REGION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:01.655523+00:00",
     "location": {
@@ -3390,7 +3480,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:05.625356+00:00",
     "location": {
@@ -3487,9 +3586,18 @@
     "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
@@ -3755,12 +3863,21 @@
     "id": "7f8f520f93e56995",
     "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
     "title": "President Barzani to visit Baghdad Monday",
-    "title_en": "President Barzani to visit Baghdad on Monday",
+    "title_en": "President Barzani to visit Baghdad Monday",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
@@ -3773,12 +3890,17 @@
     "id": "4a3c32e1f98b01ff",
     "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
     "title": "The state of the internet in Iran",
-    "title_en": "The State of Internet in Iran",
+    "title_en": "The state of the internet in Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:47.972823+00:00",
     "location": {
@@ -3829,11 +3951,16 @@
     "title_en": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Syria"
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Jordan",
+        "type": "COUNTRY"
       }
     ],
     "breaking": 1,
@@ -3874,9 +4001,18 @@
     "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Justice Minister",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:32.837425+00:00",
     "location": {
