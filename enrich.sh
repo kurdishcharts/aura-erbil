@@ -128,7 +128,7 @@ for i, row in enumerate(rows):
             update_fields += ["lat=?","lng=?","loc_name=?"]
             update_vals += [lat, lng, loc_name]
         update_vals.append(row["id"])
-        conn.execute(f"UPDATE articles SET {",".join(update_fields)} WHERE id=?", update_vals)
+        conn.execute("UPDATE articles SET " + ",".join(update_fields) + " WHERE id=?", update_vals)
         conn.commit()
         count += 1
         print(f"  → {data['sentiment']:10} | {translated_title[:50]}")
