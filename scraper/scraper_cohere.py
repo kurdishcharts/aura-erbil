@@ -147,7 +147,7 @@ Body: {summary[:2000]}"""
                 api_key=gh_token,
             )
             resp = gh_client.chat.completions.create(
-                model="cohere/command-a",  # Cohere model hosted on GitHub Models
+                model="cohere-command-r",  # Cohere model hosted on GitHub Models
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.0,
                 max_tokens=1000,
