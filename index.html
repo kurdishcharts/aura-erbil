@@ -194,42 +194,6 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
         <line x1="12" y1="8" x2="15" y2="8" stroke="white" stroke-width="1.4"/>
       </svg>
     </div>
-      <!-- Stat Cards -->
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6" id="stat-cards">
-        <div class="bg-card border border-border rounded-lg p-4 flex flex-col gap-2" id="total-card">
-          <div class="flex items-center justify-between">
-            <span class="text-xs text-muted-foreground uppercase tracking-widest">Total Articles</span>
-            <svg class="w-4 h-4 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/></svg>
-          </div>
-          <span class="text-2xl font-semibold font-mono text-foreground" id="total-value">0</span>
-          <span class="text-xs text-muted-foreground">All time</span>
-        </div>
-        <div class="bg-card border border-border rounded-lg p-4 flex flex-col gap-2" id="bullish-card">
-          <div class="flex items-center justify-between">
-            <span class="text-xs text-muted-foreground uppercase tracking-widest">Bullish</span>
-            <svg class="w-4 h-4 text-bullish" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
-          </div>
-          <span class="text-2xl font-semibold font-mono text-bullish" id="bullish-value">0</span>
-          <span class="text-xs text-muted-foreground" id="bullish-pct">0% of total</span>
-        </div>
-        <div class="bg-card border border-border rounded-lg p-4 flex flex-col gap-2" id="bearish-card">
-          <div class="flex items-center justify-between">
-            <span class="text-xs text-muted-foreground uppercase tracking-widest">Bearish</span>
-            <svg class="w-4 h-4 text-bearish" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0v-8m0 8l-8-8-4 4-6-6"/></svg>
-          </div>
-          <span class="text-2xl font-semibold font-mono text-bearish" id="bearish-value">0</span>
-          <span class="text-xs text-muted-foreground" id="bearish-pct">0% of total</span>
-        </div>
-        <div class="bg-card border border-border rounded-lg p-4 flex flex-col gap-2" id="neutral-card">
-          <div class="flex items-center justify-between">
-            <span class="text-xs text-muted-foreground uppercase tracking-widest">Neutral</span>
-            <svg class="w-4 h-4 text-neutral" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"/></svg>
-          </div>
-          <span class="text-2xl font-semibold font-mono text-neutral" id="neutral-value">0</span>
-          <span class="text-xs text-muted-foreground" id="neutral-pct">0% of total</span>
-        </div>
-      </div>
-
     <div class="brand-text">
       <span class="brand-name">AURA</span>
       <span class="brand-region">Kurdistan · Erbil</span>
@@ -399,6 +363,53 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
         <span class="card-sub">article count</span>
       </div>
       <div style="height:200px;position:relative"><canvas id="ch-src"></canvas></div>
+    </div>
+
+    <!-- ── QUANT SECTION HEADER ── -->
+    <div style="grid-column:1/-1;padding:8px 2px 4px;border-top:1px solid var(--border);margin-top:4px;display:flex;align-items:center;gap:10px">
+      <span style="font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--text3)">Quantitative Indicators</span>
+      <span style="font-size:10px;color:var(--text3)">— RSI · SMA · Momentum · Velocity · Divergence · Stacked</span>
+    </div>
+
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Sentiment RSI-14</span><span class="card-sub">momentum oscillator</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-rsi"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Bull/Bear Ratio</span><span class="card-sub">positive ÷ (pos + neg) %</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-bb-ratio"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Net Sentiment</span><span class="card-sub">positive − negative / day</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-diverge"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Cumulative Volume</span><span class="card-sub">running article total</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-cumvol"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">6-Hour Velocity</span><span class="card-sub">articles per 6h window</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-velocity"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Day of Week</span><span class="card-sub">volume by weekday</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-weekday"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Source × Sentiment</span><span class="card-sub">stacked pos/neg/neut</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-src-sent"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Category × Sentiment</span><span class="card-sub">stacked pos/neg/neut</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-cat-sent"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Sentiment SMA</span><span class="card-sub">3-day &amp; 7-day moving avg</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-sma"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">News Momentum</span><span class="card-sub">daily volume Δ (rate of change)</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-momentum"></canvas></div>
     </div>
 
     <div class="card an-full">
@@ -841,6 +852,107 @@ function renderAnalytics() {
     }
   });
 
+  // ── QUANT HELPERS ────────────────────────────────────────────────────────
+  const dailyKeys = Object.keys(byDay).sort();
+  const dailyVol  = dailyKeys.map(d => byDay[d].p + byDay[d].n + byDay[d].u);
+  const shortLbls = dailyKeys.map(d => d.slice(5));
+
+  function sma(arr, n) {
+    return arr.map((_,i) => i < n-1 ? null : arr.slice(i-n+1,i+1).reduce((a,b)=>a+b,0)/n);
+  }
+  function calcRSI(arr, p=14) {
+    const r = new Array(arr.length).fill(null);
+    if(arr.length < p+1) return r;
+    let ag=0, al=0;
+    for(let i=1;i<=p;i++){const d=arr[i]-arr[i-1]; if(d>0)ag+=d; else al+=Math.abs(d);}
+    ag/=p; al/=p;
+    r[p] = al===0 ? 100 : 100-100/(1+ag/al);
+    for(let i=p+1;i<arr.length;i++){
+      const d=arr[i]-arr[i-1];
+      ag=(ag*(p-1)+(d>0?d:0))/p; al=(al*(p-1)+(d<0?Math.abs(d):0))/p;
+      r[i]=al===0?100:100-100/(1+ag/al);
+    }
+    return r;
+  }
+
+  // 1 · RSI-14
+  const rsiVals = calcRSI(dailyVol);
+  mkChart('ch-rsi',{type:'line',data:{labels:shortLbls,datasets:[
+    {label:'RSI-14',data:rsiVals,borderColor:'#7c3aed',backgroundColor:'rgba(124,58,237,.07)',fill:true,tension:.3,pointRadius:2,pointBackgroundColor:'#7c3aed',spanGaps:true},
+    {label:'OB 70',data:dailyKeys.map(()=>70),borderColor:'rgba(220,38,38,.4)',borderDash:[4,4],borderWidth:1,pointRadius:0},
+    {label:'OS 30',data:dailyKeys.map(()=>30),borderColor:'rgba(5,150,105,.4)',borderDash:[4,4],borderWidth:1,pointRadius:0},
+  ]},options:{...BASE_OPT,plugins:{legend:{display:true,position:'top',labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:8,usePointStyle:true,pointStyleWidth:6}}},scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},min:0,max:100}}}});
+
+  // 2 · Bull/Bear ratio %
+  const bbRatio = dailyKeys.map(d=>{const t=byDay[d].p+byDay[d].n; return t ? +(byDay[d].p/t*100).toFixed(1):null;});
+  mkChart('ch-bb-ratio',{type:'line',data:{labels:shortLbls,datasets:[
+    {label:'Bull%',data:bbRatio,borderColor:'#059669',backgroundColor:'rgba(5,150,105,.08)',fill:true,tension:.3,pointRadius:2,spanGaps:true},
+    {label:'50%',data:dailyKeys.map(()=>50),borderColor:'rgba(100,100,100,.3)',borderDash:[4,4],borderWidth:1,pointRadius:0},
+  ]},options:{...BASE_OPT,plugins:{legend:{display:false}},scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},min:0,max:100}}}});
+
+  // 3 · Net sentiment (pos - neg)
+  const netSent = dailyKeys.map(d=>byDay[d].p - byDay[d].n);
+  mkChart('ch-diverge',{type:'bar',data:{labels:shortLbls,datasets:[{label:'Net',data:netSent,
+    backgroundColor:netSent.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'),
+    borderColor:netSent.map(v=>v>=0?'#059669':'#dc2626'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
+    options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR}}}}});
+
+  // 4 · Cumulative volume
+  const cumVol = dailyVol.reduce((acc,v,i)=>{acc.push((acc[i-1]||0)+v);return acc;},[]);
+  mkChart('ch-cumvol',{type:'line',data:{labels:shortLbls,datasets:[{label:'Total',data:cumVol,borderColor:'#1a56db',backgroundColor:'rgba(26,86,219,.07)',fill:true,tension:.3,pointRadius:2}]},
+    options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true}}}});
+
+  // 5 · 6-hour velocity
+  const velMap={};
+  D.forEach(a=>{if(!a.timestamp)return; const dt=new Date(a.timestamp);
+    const k=dt.toISOString().slice(0,10)+'-'+Math.floor(dt.getHours()/6); velMap[k]=(velMap[k]||0)+1;});
+  const velKeys=Object.keys(velMap).sort().slice(-28);
+  const velData=velKeys.map(k=>velMap[k]);
+  const velLbls=velKeys.map(k=>{const p=k.split('-');return p[1]+'/'+p[2]+' '+(parseInt(p[3])*6)+'h';});
+  mkChart('ch-velocity',{type:'bar',data:{labels:velLbls,datasets:[{label:'Articles',data:velData,backgroundColor:'rgba(14,165,233,.55)',borderColor:'#0ea5e9',borderWidth:1,borderRadius:3,borderSkipped:false}]},
+    options:{...BASE_OPT,scales:{x:{ticks:{...TICK_STYLE,maxRotation:60},grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true}}}});
+
+  // 6 · Day of week
+  const dow=new Array(7).fill(0);
+  D.forEach(a=>{if(a.timestamp)dow[new Date(a.timestamp).getDay()]++;});
+  mkChart('ch-weekday',{type:'bar',data:{labels:['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],datasets:[{data:dow,
+    backgroundColor:['#e0e7ff','#c7d2fe','#a5b4fc','#818cf8','#6366f1','#4f46e5','#4338ca'],borderWidth:0,borderRadius:5,borderSkipped:false}]},
+    options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true}}}});
+
+  // 7 · Source × Sentiment stacked
+  const srcList=[...new Set(D.map(a=>a.source).filter(Boolean))].slice(0,8);
+  mkChart('ch-src-sent',{type:'bar',data:{labels:srcList,datasets:[
+    {label:'Positive',data:srcList.map(s=>D.filter(a=>a.source===s&&a.sentiment==='positive').length),backgroundColor:'rgba(5,150,105,.75)'},
+    {label:'Negative',data:srcList.map(s=>D.filter(a=>a.source===s&&a.sentiment==='negative').length),backgroundColor:'rgba(220,38,38,.75)'},
+    {label:'Neutral', data:srcList.map(s=>D.filter(a=>a.source===s&&a.sentiment==='neutral').length), backgroundColor:'rgba(217,119,6,.65)'},
+  ]},options:{...BASE_OPT,plugins:{legend:{display:true,position:'top',labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:8,usePointStyle:true,pointStyleWidth:6}}},
+    scales:{x:{stacked:true,ticks:{...TICK_STYLE,maxRotation:45},grid:{display:false}},y:{stacked:true,ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true}}}});
+
+  // 8 · Category × Sentiment stacked
+  const catList=Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,8).map(c=>c[0]);
+  mkChart('ch-cat-sent',{type:'bar',data:{labels:catList,datasets:[
+    {label:'Positive',data:catList.map(c=>D.filter(a=>a.category===c&&a.sentiment==='positive').length),backgroundColor:'rgba(5,150,105,.75)'},
+    {label:'Negative',data:catList.map(c=>D.filter(a=>a.category===c&&a.sentiment==='negative').length),backgroundColor:'rgba(220,38,38,.75)'},
+    {label:'Neutral', data:catList.map(c=>D.filter(a=>a.category===c&&a.sentiment==='neutral').length), backgroundColor:'rgba(217,119,6,.65)'},
+  ]},options:{...BASE_OPT,plugins:{legend:{display:false}},
+    scales:{x:{stacked:true,ticks:{...TICK_STYLE,maxRotation:45},grid:{display:false}},y:{stacked:true,ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true}}}});
+
+  // 9 · Sentiment SMA-3 & SMA-7
+  const posRatio=dailyKeys.map(d=>{const t=byDay[d].p+byDay[d].n+byDay[d].u; return t?+(byDay[d].p/t*100).toFixed(1):0;});
+  mkChart('ch-sma',{type:'line',data:{labels:shortLbls,datasets:[
+    {label:'Raw',  data:posRatio,borderColor:'rgba(100,116,139,.4)',borderWidth:1,tension:.2,pointRadius:2,pointBackgroundColor:'#94a3b8'},
+    {label:'SMA-3',data:sma(posRatio,3),borderColor:'#f59e0b',borderWidth:2,tension:.4,pointRadius:0,spanGaps:true},
+    {label:'SMA-7',data:sma(posRatio,7),borderColor:'#1a56db',borderWidth:2,tension:.4,pointRadius:0,spanGaps:true},
+  ]},options:{...BASE_OPT,plugins:{legend:{display:true,position:'top',labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:8,usePointStyle:true,pointStyleWidth:6}}},
+    scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},min:0,max:100}}}});
+
+  // 10 · News momentum (daily ROC %)
+  const roc=dailyVol.map((v,i)=>i===0?0:+(((v-(dailyVol[i-1]||1))/(dailyVol[i-1]||1))*100).toFixed(1));
+  mkChart('ch-momentum',{type:'bar',data:{labels:shortLbls,datasets:[{label:'ROC%',data:roc,
+    backgroundColor:roc.map(v=>v>=0?'rgba(5,150,105,.6)':'rgba(220,38,38,.6)'),
+    borderColor:roc.map(v=>v>=0?'#059669':'#dc2626'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
+    options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR}}}}});
+
   // Full table
   document.getElementById('tbl-cnt').textContent = D.length+' articles';
   document.getElementById('tbl-body').innerHTML = D.map(a => `
@@ -885,245 +997,6 @@ function escHtml(s) {
 
 /* ══ BOOT ════════════════════════════════════════════════════════════════════ */
 loadData();
-
-  function updateStatCards(articles) {
-    const total = articles.length;
-    const bullish = articles.filter(a => a.sentiment === 'positive').length;
-    const bearish = articles.filter(a => a.sentiment === 'negative').length;
-    const neutral = articles.filter(a => a.sentiment === 'neutral').length;
-    document.getElementById('total-value').textContent = total;
-    document.getElementById('bullish-value').textContent = bullish;
-    document.getElementById('bearish-value').textContent = bearish;
-    document.getElementById('neutral-value').textContent = neutral;
-    if (total > 0) {
-      document.getElementById('bullish-pct').textContent = ((bullish/total)*100).toFixed(0) + '% of total';
-      document.getElementById('bearish-pct').textContent = ((bearish/total)*100).toFixed(0) + '% of total';
-      document.getElementById('neutral-pct').textContent = ((neutral/total)*100).toFixed(0) + '% of total';
-    }
-  }
-
-
-  // ---------- ANALYTICS CHARTS ----------
-  let chartInstances = [];
-
-  function destroyAllCharts() {
-    chartInstances.forEach(c => c.destroy());
-    chartInstances = [];
-  }
-
-  function renderAllAnalyticsCharts(articles) {
-    destroyAllCharts();
-    if (!articles.length) return;
-
-    // Helper: group by date
-    const groupByDate = (items) => {
-      const map = {};
-      items.forEach(a => {
-        const d = new Date(a.timestamp).toISOString().slice(0,10);
-        map[d] = (map[d]||0)+1;
-      });
-      const sorted = Object.entries(map).sort((a,b)=>a[0].localeCompare(b[0]));
-      return { labels: sorted.map(e=>e[0]), values: sorted.map(e=>e[1]) };
-    };
-
-    // Chart 1: Sentiment Doughnut
-    const sPos = articles.filter(a=>a.sentiment==='positive').length;
-    const sNeg = articles.filter(a=>a.sentiment==='negative').length;
-    const sNeu = articles.filter(a=>a.sentiment==='neutral').length;
-    chartInstances.push(new Chart(document.getElementById('chart-sentiment-doughnut'), {
-      type: 'doughnut',
-      data: {
-        labels: ['Bullish','Bearish','Neutral'],
-        datasets: [{
-          data: [sPos, sNeg, sNeu],
-          backgroundColor: ['#059669','#dc2626','#d97706']
-        }]
-      },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 2: Sentiment Trend (7 days)
-    const last7 = {};
-    for (let i=6; i>=0; i--) { const d = new Date(); d.setDate(d.getDate()-i); last7[d.toISOString().slice(0,10)] = {pos:0,neg:0,neu:0}; }
-    articles.forEach(a => {
-      const d = a.timestamp.slice(0,10);
-      if (last7[d]) {
-        if (a.sentiment==='positive') last7[d].pos++;
-        else if (a.sentiment==='negative') last7[d].neg++;
-        else last7[d].neu++;
-      }
-    });
-    const days7 = Object.keys(last7).sort();
-    chartInstances.push(new Chart(document.getElementById('chart-sentiment-trend'), {
-      type: 'line',
-      data: {
-        labels: days7,
-        datasets: [
-          { label:'Bullish', data: days7.map(d=>last7[d].pos), borderColor:'#059669', fill:false, tension:0.3 },
-          { label:'Bearish', data: days7.map(d=>last7[d].neg), borderColor:'#dc2626', fill:false, tension:0.3 },
-          { label:'Neutral', data: days7.map(d=>last7[d].neu), borderColor:'#d97706', fill:false, tension:0.3 }
-        ]
-      },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 3: Volume by Day (30 days)
-    const all30 = articles.slice(0,30); // assume sorted by date desc
-    const daily = groupByDate(articles);
-    chartInstances.push(new Chart(document.getElementById('chart-volume-daily'), {
-      type: 'bar',
-      data: { labels: daily.labels.slice(-30), datasets: [{ label:'Articles', data: daily.values.slice(-30), backgroundColor:'#1a56db' }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 4: Hourly Distribution
-    const hours = new Array(24).fill(0);
-    articles.forEach(a => { const h = new Date(a.timestamp).getHours(); hours[h]++; });
-    chartInstances.push(new Chart(document.getElementById('chart-hourly'), {
-      type: 'bar',
-      data: { labels: Array.from({length:24},(_,i)=>i+':00'), datasets: [{ label:'Articles', data: hours, backgroundColor:'#1a56db' }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 5: Weekday
-    const weekdays = new Array(7).fill(0);
-    const dayNames = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
-    articles.forEach(a => { const d = new Date(a.timestamp).getDay(); weekdays[d]++; });
-    chartInstances.push(new Chart(document.getElementById('chart-weekday'), {
-      type: 'bar',
-      data: { labels: dayNames, datasets: [{ label:'Articles', data: weekdays, backgroundColor:'#1a56db' }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 6: Category Breakdown
-    const cats = {};
-    articles.forEach(a => { cats[a.category] = (cats[a.category]||0)+1; });
-    const catLabels = Object.keys(cats);
-    chartInstances.push(new Chart(document.getElementById('chart-category-pie'), {
-      type: 'pie',
-      data: { labels: catLabels, datasets: [{ data: catLabels.map(c=>cats[c]), backgroundColor: ['#1a56db','#059669','#dc2626','#d97706','#6b7280','#9ca3af'] }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 7: Category by Sentiment (stacked)
-    const catSent = {};
-    catLabels.forEach(c => { catSent[c] = {pos:0,neg:0,neu:0}; });
-    articles.forEach(a => {
-      if (catSent[a.category]) {
-        if (a.sentiment==='positive') catSent[a.category].pos++;
-        else if (a.sentiment==='negative') catSent[a.category].neg++;
-        else catSent[a.category].neu++;
-      }
-    });
-    chartInstances.push(new Chart(document.getElementById('chart-category-stacked'), {
-      type: 'bar',
-      data: {
-        labels: catLabels,
-        datasets: [
-          { label:'Bullish', data: catLabels.map(c=>catSent[c].pos), backgroundColor:'#059669' },
-          { label:'Bearish', data: catLabels.map(c=>catSent[c].neg), backgroundColor:'#dc2626' },
-          { label:'Neutral', data: catLabels.map(c=>catSent[c].neu), backgroundColor:'#d97706' }
-        ]
-      },
-      options: { responsive:true, maintainAspectRatio:false, scales:{x:{stacked:true},y:{stacked:true}} }
-    }));
-
-    // Chart 8: Top Sources
-    const sources = {};
-    articles.forEach(a => { sources[a.source] = (sources[a.source]||0)+1; });
-    const srcSorted = Object.entries(sources).sort((a,b)=>b[1]-a[1]).slice(0,10);
-    chartInstances.push(new Chart(document.getElementById('chart-sources'), {
-      type: 'bar',
-      data: { labels: srcSorted.map(e=>e[0]), datasets: [{ label:'Articles', data: srcSorted.map(e=>e[1]), backgroundColor:'#1a56db' }] },
-      options: { indexAxis:'y', responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 9: Sentiment Gauge (score 0-100, 50=neutral, 100=bullish, 0=bearish)
-    const total = sPos+sNeg+sNeu;
-    const score = total ? Math.round(((sPos*100)+(sNeg*0)+(sNeu*50))/total) : 50;
-    chartInstances.push(new Chart(document.getElementById('chart-gauge'), {
-      type: 'doughnut',
-      data: {
-        datasets: [{
-          data: [score, 100-score],
-          backgroundColor: ['#1a56db','#e5e7eb'],
-          circumference: 180,
-          rotation: 270
-        }]
-      },
-      options: { responsive:true, maintainAspectRatio:false, plugins:{tooltip:{enabled:false}} }
-    }));
-
-    // Chart 10: Breaking Score Distribution
-    const breakingDist = {1:0,2:0,3:0};
-    articles.forEach(a => { breakingDist[a.breaking] = (breakingDist[a.breaking]||0)+1; });
-    chartInstances.push(new Chart(document.getElementById('chart-breaking'), {
-      type: 'bar',
-      data: { labels: ['Score 1','Score 2','Score 3'], datasets: [{ label:'Articles', data: [breakingDist[1],breakingDist[2],breakingDist[3]], backgroundColor:['#9ca3af','#d97706','#dc2626'] }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 11: Top Entities
-    const entityCount = {};
-    articles.forEach(a => {
-      (a.entities||[]).forEach(e => { entityCount[e.name] = (entityCount[e.name]||0)+1; });
-    });
-    const topEntities = Object.entries(entityCount).sort((a,b)=>b[1]-a[1]).slice(0,10);
-    chartInstances.push(new Chart(document.getElementById('chart-entities'), {
-      type: 'bar',
-      data: { labels: topEntities.map(e=>e[0]), datasets: [{ label:'Mentions', data: topEntities.map(e=>e[1]), backgroundColor:'#1a56db' }] },
-      options: { indexAxis:'y', responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 12: Positive vs Negative Trend (7d)
-    chartInstances.push(new Chart(document.getElementById('chart-posneg-trend'), {
-      type: 'line',
-      data: {
-        labels: days7,
-        datasets: [
-          { label:'Bullish', data: days7.map(d=>last7[d].pos), borderColor:'#059669', backgroundColor:'rgba(5,150,105,0.1)', fill:true, tension:0.3 },
-          { label:'Bearish', data: days7.map(d=>last7[d].neg), borderColor:'#dc2626', backgroundColor:'rgba(220,38,38,0.1)', fill:true, tension:0.3 }
-        ]
-      },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 13: Neutral Ratio Trend
-    const neutralRatio = days7.map(d => last7[d].neu / (last7[d].pos+last7[d].neg+last7[d].neu || 1));
-    chartInstances.push(new Chart(document.getElementById('chart-neutral-ratio'), {
-      type: 'line',
-      data: { labels: days7, datasets: [{ label:'Neutral Ratio', data: neutralRatio, borderColor:'#d97706', fill:false, tension:0.3 }] },
-      options: { responsive:true, maintainAspectRatio:false, scales:{y:{min:0,max:1}} }
-    }));
-
-    // Chart 14: Volatility Index (std dev of sentiment score over 3-day rolling)
-    const sentScores = articles.map(a => a.sentiment==='positive'?1:(a.sentiment==='negative'?-1:0));
-    const volatility = [];
-    for (let i=2; i<sentScores.length; i+=3) {
-      const slice = sentScores.slice(i-2,i+1);
-      const avg = slice.reduce((a,b)=>a+b,0)/slice.length;
-      const variance = slice.reduce((a,b)=>a+(b-avg)**2,0)/slice.length;
-      volatility.push(Math.sqrt(variance));
-    }
-    const volLabels = [];
-    for (let i=0; i<volatility.length; i++) { volLabels.push('Day '+(i+1)); }
-    chartInstances.push(new Chart(document.getElementById('chart-volatility'), {
-      type: 'line',
-      data: { labels: volLabels, datasets: [{ label:'Volatility', data: volatility, borderColor:'#6b7280', fill:false, tension:0.3 }] },
-      options: { responsive:true, maintainAspectRatio:false }
-    }));
-
-    // Chart 15: Recent Feed (last 5)
-    const recent5 = articles.slice(0,5);
-    const feedHtml = recent5.map(a => `
-      <div class="flex justify-between items-center p-2 border-b border-border">
-        <span class="truncate max-w-[70%]">${a.title_en || a.title}</span>
-        <span class="font-mono text-${a.sentiment==='positive'?'bullish':(a.sentiment==='negative'?'bearish':'neutral')}">${a.sentiment}</span>
-      </div>
-    `).join('');
-    document.getElementById('recent-feed').innerHTML = feedHtml;
-  }
-
 </script>
 </body>
 </html>
