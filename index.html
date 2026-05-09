@@ -368,7 +368,21 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
     <!-- ── QUANT SECTION HEADER ── -->
     <div style="grid-column:1/-1;padding:8px 2px 4px;border-top:1px solid var(--border);margin-top:4px;display:flex;align-items:center;gap:10px">
       <span style="font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--text3)">Quantitative Indicators</span>
-      <span style="font-size:10px;color:var(--text3)">— RSI · SMA · Momentum · Velocity · Divergence · Stacked</span>
+      <span style="font-size:10px;color:var(--text3)">— RSI · SMA · Momentum · Velocity · Divergence · Gauge · Entities · Volatility</span>
+    </div>
+
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Sentiment Gauge</span><span class="card-sub">weighted score 0–100</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-gauge"></canvas></div>
+      <div style="text-align:center;margin-top:-38px;font-family:'DM Mono',monospace;font-size:11px;color:var(--text3)" id="ch-gauge-lbl">—</div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Top Entities</span><span class="card-sub">most mentioned names</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-entities"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-hd"><span class="card-title">Sentiment Volatility</span><span class="card-sub">std dev per 3-article window</span></div>
+      <div style="height:155px;position:relative"><canvas id="ch-volatility"></canvas></div>
     </div>
 
     <div class="card">
@@ -475,9 +489,10 @@ function mkBadge(s) {
 async function loadData() {
   try {
     const res = await fetch('data/data.json?t='+Date.now());
+    const lastMod = res.headers.get('last-modified');
     D = await res.json();
-    const latestTs = D.find(a=>a.timestamp)?.timestamp;
-    document.getElementById('sync-txt').textContent = latestTs ? 'Updated '+relTime(latestTs) : '';
+    const displayTs = lastMod ? new Date(lastMod).toISOString() : (D.reduce((max,a)=>a.timestamp>max?a.timestamp:max,''));
+    document.getElementById('sync-txt').textContent = displayTs ? 'Updated '+relTime(displayTs) : '';
     renderAll();
   } catch(e) {
     document.getElementById('sync-txt').textContent = 'Load failed';
@@ -952,6 +967,59 @@ function renderAnalytics() {
     backgroundColor:roc.map(v=>v>=0?'rgba(5,150,105,.6)':'rgba(220,38,38,.6)'),
     borderColor:roc.map(v=>v>=0?'#059669':'#dc2626'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
     options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR}}}}});
+
+  // 11 · Sentiment Gauge (half-doughnut, weighted: pos=100, neut=50, neg=0)
+  const gaugeTotal = D.length;
+  const gaugeScore = gaugeTotal ? Math.round(
+    (D.filter(a=>a.sentiment==='positive').length*100 +
+     D.filter(a=>a.sentiment==='neutral').length*50) / gaugeTotal
+  ) : 50;
+  const gaugeColor = gaugeScore>=60?'#059669':gaugeScore<=40?'#dc2626':'#d97706';
+  mkChart('ch-gauge',{type:'doughnut',data:{datasets:[{
+    data:[gaugeScore, 100-gaugeScore],
+    backgroundColor:[gaugeColor,'#e8ecf3'],
+    borderWidth:0,
+    circumference:180,
+    rotation:270
+  }]},options:{...BASE_OPT,cutout:'72%',plugins:{legend:{display:false},tooltip:{enabled:false}}}});
+  const gl = document.getElementById('ch-gauge-lbl');
+  if(gl){ gl.textContent = gaugeScore+' / 100'; gl.style.color = gaugeColor; }
+
+  // 12 · Top Entities (from entities array on each article)
+  const entMap={};
+  D.forEach(a=>{(a.entities||[]).forEach(e=>{
+    const name = typeof e==='string'?e:(e.name||e.text||null);
+    if(name) entMap[name]=(entMap[name]||0)+1;
+  });});
+  const entArr=Object.entries(entMap).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  if(entArr.length){
+    mkChart('ch-entities',{type:'bar',data:{labels:entArr.map(e=>e[0]),datasets:[{data:entArr.map(e=>e[1]),
+      backgroundColor:'rgba(99,102,241,.65)',borderColor:'#6366f1',borderWidth:1,borderRadius:3,borderSkipped:false}]},
+      options:{...BASE_OPT,indexAxis:'y',scales:{
+        x:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true},
+        y:{ticks:{font:{family:'DM Sans',size:10},color:'#4b5875'},grid:{display:false}}
+      }}});
+  } else {
+    const el=document.getElementById('ch-entities');
+    if(el){const ctx=el.getContext('2d');ctx.fillStyle='#8892a4';ctx.font='11px DM Sans';ctx.textAlign='center';ctx.fillText('No entity data yet',el.width/2,80);}
+  }
+
+  // 13 · Volatility (std dev of sentiment score in 3-article rolling windows)
+  const sentScores=D.map(a=>a.sentiment==='positive'?1:a.sentiment==='negative'?-1:0);
+  const volPts=[],volLbls=[];
+  for(let i=2;i<sentScores.length;i+=3){
+    const sl=sentScores.slice(i-2,i+1);
+    const avg=sl.reduce((a,b)=>a+b,0)/3;
+    const stddev=Math.sqrt(sl.reduce((a,b)=>a+(b-avg)**2,0)/3);
+    volPts.push(+stddev.toFixed(3));
+    volLbls.push('#'+(i+1));
+  }
+  mkChart('ch-volatility',{type:'line',data:{labels:volLbls,datasets:[{label:'StdDev',data:volPts,
+    borderColor:'#64748b',backgroundColor:'rgba(100,116,139,.06)',fill:true,tension:.3,pointRadius:1}]},
+    options:{...BASE_OPT,scales:{
+      x:{ticks:{...TICK_STYLE,maxTicksLimit:10},grid:{display:false}},
+      y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},beginAtZero:true,max:1}
+    }}});
 
   // Full table
   document.getElementById('tbl-cnt').textContent = D.length+' articles';
