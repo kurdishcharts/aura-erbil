@@ -102,13 +102,20 @@
     "id": "11246d620681ba9c",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520261",
     "title": "President Barzani continues Baghdad talks on second day of visit",
-    "title_en": "President Barzani Continues Baghdad Talks on Second Day of Visit",
+    "title_en": "President Barzani continues Baghdad talks on second day of visit",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Barzani"
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:05:16.209932+00:00",
@@ -323,19 +330,19 @@
     "id": "c3cf378d694b9374",
     "url": "https://www.rudaw.net/english/opinion/08052026",
     "title": "Why Kurdish language rights in the new Syria require constitutional guarantees",
-    "title_en": "Kurdish Language Rights in New Syria Require Constitutional Guarantees",
+    "title_en": "Why Kurdish language rights in the new Syria require constitutional guarantees",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Syria",
+        "name": "Kurdistan",
         "type": "LOCATION"
       },
       {
-        "name": "Kurdistan",
-        "type": "ORGANIZATION"
+        "name": "Syria",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -357,7 +364,7 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "United Arab Emirates",
+        "name": "UAE",
         "type": "LOCATION"
       },
       {
@@ -384,12 +391,16 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Hasaka",
+        "name": "Damascus",
         "type": "LOCATION"
       },
       {
         "name": "SDF",
         "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hasaka",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -493,18 +504,18 @@
     "id": "f7edcfc2cc1a903b",
     "url": "https://www.rudaw.net/english/middleeast/080520262",
     "title": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
-    "title_en": "US says 'disabled' two vessels violating blockade on Iranian ports",
+    "title_en": "US says ‘disabled’ two vessels violating blockade on Iranian ports",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
+    "category": "general",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Iran",
         "type": "LOCATION"
       },
       {
-        "name": "United States",
+        "name": "US",
         "type": "ORGANIZATION"
       }
     ],
@@ -520,23 +531,15 @@
     "id": "0bfa952c84948813",
     "url": "https://www.rudaw.net/english/middleeast/syria/080520261",
     "title": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
-    "title_en": "Syrian decree recognizes Kurdish as national language, Arabic remains official",
+    "title_en": "Syrian decree recognizes Kurdish as ‘national language,’ Arabic remains official",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Kurdistan Region of Iraq",
-        "type": "LOCATION"
-      },
-      {
         "name": "Syria",
-        "type": "COUNTRY"
-      },
-      {
-        "name": "Arabic",
-        "type": "LANGUAGE"
+        "type": "LOCATION"
       },
       {
         "name": "Kurdish",
@@ -667,12 +670,21 @@
     "id": "0012d4dc29065cf3",
     "url": "https://www.rudaw.net/english/world/070520261",
     "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany Deploys 135 Iraqi Migrants in First Three Months of 2026",
+    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T20:34:35.808324+00:00",
     "location": {
@@ -773,9 +785,18 @@
     "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T15:33:37.437477+00:00",
     "location": {
@@ -846,12 +867,21 @@
     "id": "d7540c542d80e239",
     "url": "https://www.rudaw.net/english/business/070520261",
     "title": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
-    "title_en": "Giant Project to Connect Turkey's Electricity to Iraq Complete: Ministry",
+    "title_en": "Giant project to connect Turkey's electricity to Iraq complete: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T13:34:00.203472+00:00",
     "location": {
@@ -864,19 +894,19 @@
     "id": "8beb95b74dfedaab",
     "url": "https://www.rudaw.net/english/middleeast/iran/07052026",
     "title": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
-    "title_en": "Tehran Demands End to War, Guarantees Against Recurrence as US Proposal Under Review",
+    "title_en": "Tehran demands end to war, guarantees against recurrence as US proposal under review",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
+    "category": "general",
+    "sentiment": "positive",
     "entities": [
       {
-        "type": "organization",
-        "value": "US"
+        "name": "Tehran",
+        "type": "LOCATION"
       },
       {
-        "type": "place",
-        "value": "Tehran"
+        "name": "US",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -1208,23 +1238,31 @@
     "id": "bc55cf83ca7cec93",
     "url": "https://www.rudaw.net/sorani/world/15012024",
     "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "US President How They Will Vote?",
+    "title_en": "How is the President of the United States elected?",
     "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە هەڵبژاردنی شارەوانییەکانی بەریتانیا، 4 کورد بەربژێرن و چاوەڕوان دەکرێت پارتی ریفۆرمی راستڕۆ و سەوزەکان سەرکەوتنی گەورە بەدەستبهێنن، لە بەرامبەریشدا پارتی کرێکارانی فەرمانڕەوا رووبەڕووی شکست ببێتەوە.",
     "source": "rudaw-sorani",
     "category": "general",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Barack Obama",
-        "type": "PERSON"
-      },
       {
         "name": "Patriotic Union of Kurdistan",
         "type": "ORGANIZATION"
       },
       {
-        "name": "Republican Party",
-        "type": "PARTY"
+        "name": "Kurdistan Democratic Party",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sorani language",
+        "type": "LANGUAGE"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
       }
     ],
     "breaking": 1,
@@ -1274,19 +1312,19 @@
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakuor in Gawran",
+    "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Gawran",
+        "name": "Bakur",
         "type": "LOCATION"
       },
       {
-        "name": "Bakuor",
-        "type": "ORGANIZATION"
+        "name": "Gulistan",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -1417,20 +1455,13 @@
     "id": "cb6cb38d87964efd",
     "url": "https://www.rudaw.net/sorani/sports/010420267",
     "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "10 Stars in the Sky That Can't Be Reached by Airplane Until 2026",
+    "title_en": "The Darkest 10 Stars Will Not Participate in Monteil's 2026 Reality TV Show",
     "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      }
+      "Monteil"
     ],
     "breaking": 1,
     "timestamp": "2026-05-08T02:30:06.934520+00:00",
@@ -1868,18 +1899,18 @@
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "Kurdish Artist's AI Dilemma: Can It Be a Force for Good or a Threat?",
+    "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Mohammed Mamlouk",
+        "name": "Mameli",
         "type": "PERSON"
       },
       {
-        "name": "Hassan Zakariya",
+        "name": "Zarek",
         "type": "PERSON"
       }
     ],
@@ -2077,19 +2108,19 @@
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakuor in Gawran",
+    "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Gawran",
+        "name": "Bakur",
         "type": "LOCATION"
       },
       {
-        "name": "Bakuor",
-        "type": "ORGANIZATION"
+        "name": "Gulistan",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -2348,12 +2379,21 @@
     "id": "1421a6045911f19c",
     "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
     "title": "Iran says US proposal to end war ‘under review’",
-    "title_en": "Iran says US proposal to end war ’under review’",
+    "title_en": "Iran says US proposal to end war ‘under review’",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-07T09:47:16.394785+00:00",
     "location": {
@@ -2568,7 +2608,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:32.248055+00:00",
     "location": {
@@ -2608,12 +2657,21 @@
     "id": "87d4937d9ff498e7",
     "url": "https://www.rudaw.net/english/world/06052026",
     "title": "UN report finds global migration broadly stable, contradicting Western political narrative",
-    "title_en": "UN Report Finds Global Migration Broadly Stable, Contradicting Western Political Narrative",
+    "title_en": "UN report finds global migration broadly stable, contradicting Western political narrative",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Western",
+        "type": "REGION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:01.655523+00:00",
     "location": {
@@ -2810,8 +2868,17 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Captagon",
+        "type": "DRUG"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T05:31:48.732061+00:00",
     "location": {
@@ -3159,9 +3226,22 @@
     "title_en": "Ukraine offers Gulf states cost-effective defenses against Iranian drones: Expert",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Ukraine",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Gulf states",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:11:10.397452+00:00",
     "location": {
@@ -3259,8 +3339,17 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T17:10:31.777139+00:00",
     "location": {
@@ -3413,7 +3502,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:05.625356+00:00",
     "location": {
@@ -3507,13 +3605,20 @@
     "id": "c58a3e9768852a97",
     "url": "https://www.rudaw.net/english/middleeast/iraq/04052026",
     "title": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
-    "title_en": "President Nechirvan Barzani Meets with Leaders from Both Sides",
+    "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Nechirvan Barzani"
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
@@ -3783,9 +3888,18 @@
     "title_en": "President Barzani to visit Baghdad Monday",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
@@ -3798,12 +3912,17 @@
     "id": "4a3c32e1f98b01ff",
     "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
     "title": "The state of the internet in Iran",
-    "title_en": "State of the Internet in Iran",
+    "title_en": "The state of the internet in Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:47.972823+00:00",
     "location": {
@@ -3854,9 +3973,18 @@
     "title_en": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Jordan",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:40.668591+00:00",
     "location": {
@@ -3892,12 +4020,21 @@
     "id": "4ae0fddde2ef13b6",
     "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
     "title": "Turkey needs new constitution amid changing threats: Justice minister",
-    "title_en": "Turkey Needs New Constitution Amid Changing Threats: Justice Minister",
+    "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Justice Minister",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:32.837425+00:00",
     "location": {
@@ -4199,9 +4336,18 @@
     "title_en": "Iraq receives renewed US dollar shipments after two-month pause",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:28.687155+00:00",
     "location": {
@@ -4276,8 +4422,17 @@
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Koya",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil province",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:16.142442+00:00",
     "location": {
@@ -4290,12 +4445,21 @@
     "id": "184d72f71f6f6586",
     "url": "https://www.rudaw.net/english/kurdistan/020520263",
     "title": "Hajj pilgrimage to be conducted exclusively by air: KRG",
-    "title_en": "Pilgrimage to the Hajj to be Conducted Exclusively by Air: KRG",
+    "title_en": "Hajj pilgrimage to be conducted exclusively by air: KRG",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Regional Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T02:06:12.783664+00:00",
     "location": {
