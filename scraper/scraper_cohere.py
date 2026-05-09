@@ -79,7 +79,6 @@ def _fetch(url, etag=None, last_modified=None, _backoff=BACKOFF_BASE):
         wait = min(_backoff*BACKOFF_BASE, MAX_BACKOFF)
         print(f"  [error] {exc} → waiting {wait:.1f}s"); time.sleep(wait)
         return _fetch(url, etag, last_modified, _backoff=wait)
-
 def _score_breaking(title, all_titles):
     words = set(title.lower().split()); score = 1
     for other in all_titles:
