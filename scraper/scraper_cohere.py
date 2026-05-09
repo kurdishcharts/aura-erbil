@@ -1,3 +1,4 @@
+import requests
 """
 Aura-Erbil — AI Enrichment Scraper (Cohere API)
 Free tier: 100 calls/min. Works locally and on GitHub Actions.
