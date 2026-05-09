@@ -38,7 +38,7 @@ jobs:
                   print(f"  [{i+1}/{len(rows)}] {row['title'][:60]}")
               except Exception as e:
                   print(f"  Error: {e}")
-              # _enrich_with_ai already sleeps 3 sec, no extra sleep needed
+              time.sleep(5)  # GitHub Models: 15 req/min hard limit — do not remove
           conn.close()
 
           # Export JSON
