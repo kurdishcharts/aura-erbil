@@ -902,6 +902,228 @@ loadData();
     }
   }
 
+
+  // ---------- ANALYTICS CHARTS ----------
+  let chartInstances = [];
+
+  function destroyAllCharts() {
+    chartInstances.forEach(c => c.destroy());
+    chartInstances = [];
+  }
+
+  function renderAllAnalyticsCharts(articles) {
+    destroyAllCharts();
+    if (!articles.length) return;
+
+    // Helper: group by date
+    const groupByDate = (items) => {
+      const map = {};
+      items.forEach(a => {
+        const d = new Date(a.timestamp).toISOString().slice(0,10);
+        map[d] = (map[d]||0)+1;
+      });
+      const sorted = Object.entries(map).sort((a,b)=>a[0].localeCompare(b[0]));
+      return { labels: sorted.map(e=>e[0]), values: sorted.map(e=>e[1]) };
+    };
+
+    // Chart 1: Sentiment Doughnut
+    const sPos = articles.filter(a=>a.sentiment==='positive').length;
+    const sNeg = articles.filter(a=>a.sentiment==='negative').length;
+    const sNeu = articles.filter(a=>a.sentiment==='neutral').length;
+    chartInstances.push(new Chart(document.getElementById('chart-sentiment-doughnut'), {
+      type: 'doughnut',
+      data: {
+        labels: ['Bullish','Bearish','Neutral'],
+        datasets: [{
+          data: [sPos, sNeg, sNeu],
+          backgroundColor: ['#059669','#dc2626','#d97706']
+        }]
+      },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 2: Sentiment Trend (7 days)
+    const last7 = {};
+    for (let i=6; i>=0; i--) { const d = new Date(); d.setDate(d.getDate()-i); last7[d.toISOString().slice(0,10)] = {pos:0,neg:0,neu:0}; }
+    articles.forEach(a => {
+      const d = a.timestamp.slice(0,10);
+      if (last7[d]) {
+        if (a.sentiment==='positive') last7[d].pos++;
+        else if (a.sentiment==='negative') last7[d].neg++;
+        else last7[d].neu++;
+      }
+    });
+    const days7 = Object.keys(last7).sort();
+    chartInstances.push(new Chart(document.getElementById('chart-sentiment-trend'), {
+      type: 'line',
+      data: {
+        labels: days7,
+        datasets: [
+          { label:'Bullish', data: days7.map(d=>last7[d].pos), borderColor:'#059669', fill:false, tension:0.3 },
+          { label:'Bearish', data: days7.map(d=>last7[d].neg), borderColor:'#dc2626', fill:false, tension:0.3 },
+          { label:'Neutral', data: days7.map(d=>last7[d].neu), borderColor:'#d97706', fill:false, tension:0.3 }
+        ]
+      },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 3: Volume by Day (30 days)
+    const all30 = articles.slice(0,30); // assume sorted by date desc
+    const daily = groupByDate(articles);
+    chartInstances.push(new Chart(document.getElementById('chart-volume-daily'), {
+      type: 'bar',
+      data: { labels: daily.labels.slice(-30), datasets: [{ label:'Articles', data: daily.values.slice(-30), backgroundColor:'#1a56db' }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 4: Hourly Distribution
+    const hours = new Array(24).fill(0);
+    articles.forEach(a => { const h = new Date(a.timestamp).getHours(); hours[h]++; });
+    chartInstances.push(new Chart(document.getElementById('chart-hourly'), {
+      type: 'bar',
+      data: { labels: Array.from({length:24},(_,i)=>i+':00'), datasets: [{ label:'Articles', data: hours, backgroundColor:'#1a56db' }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 5: Weekday
+    const weekdays = new Array(7).fill(0);
+    const dayNames = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    articles.forEach(a => { const d = new Date(a.timestamp).getDay(); weekdays[d]++; });
+    chartInstances.push(new Chart(document.getElementById('chart-weekday'), {
+      type: 'bar',
+      data: { labels: dayNames, datasets: [{ label:'Articles', data: weekdays, backgroundColor:'#1a56db' }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 6: Category Breakdown
+    const cats = {};
+    articles.forEach(a => { cats[a.category] = (cats[a.category]||0)+1; });
+    const catLabels = Object.keys(cats);
+    chartInstances.push(new Chart(document.getElementById('chart-category-pie'), {
+      type: 'pie',
+      data: { labels: catLabels, datasets: [{ data: catLabels.map(c=>cats[c]), backgroundColor: ['#1a56db','#059669','#dc2626','#d97706','#6b7280','#9ca3af'] }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 7: Category by Sentiment (stacked)
+    const catSent = {};
+    catLabels.forEach(c => { catSent[c] = {pos:0,neg:0,neu:0}; });
+    articles.forEach(a => {
+      if (catSent[a.category]) {
+        if (a.sentiment==='positive') catSent[a.category].pos++;
+        else if (a.sentiment==='negative') catSent[a.category].neg++;
+        else catSent[a.category].neu++;
+      }
+    });
+    chartInstances.push(new Chart(document.getElementById('chart-category-stacked'), {
+      type: 'bar',
+      data: {
+        labels: catLabels,
+        datasets: [
+          { label:'Bullish', data: catLabels.map(c=>catSent[c].pos), backgroundColor:'#059669' },
+          { label:'Bearish', data: catLabels.map(c=>catSent[c].neg), backgroundColor:'#dc2626' },
+          { label:'Neutral', data: catLabels.map(c=>catSent[c].neu), backgroundColor:'#d97706' }
+        ]
+      },
+      options: { responsive:true, maintainAspectRatio:false, scales:{x:{stacked:true},y:{stacked:true}} }
+    }));
+
+    // Chart 8: Top Sources
+    const sources = {};
+    articles.forEach(a => { sources[a.source] = (sources[a.source]||0)+1; });
+    const srcSorted = Object.entries(sources).sort((a,b)=>b[1]-a[1]).slice(0,10);
+    chartInstances.push(new Chart(document.getElementById('chart-sources'), {
+      type: 'bar',
+      data: { labels: srcSorted.map(e=>e[0]), datasets: [{ label:'Articles', data: srcSorted.map(e=>e[1]), backgroundColor:'#1a56db' }] },
+      options: { indexAxis:'y', responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 9: Sentiment Gauge (score 0-100, 50=neutral, 100=bullish, 0=bearish)
+    const total = sPos+sNeg+sNeu;
+    const score = total ? Math.round(((sPos*100)+(sNeg*0)+(sNeu*50))/total) : 50;
+    chartInstances.push(new Chart(document.getElementById('chart-gauge'), {
+      type: 'doughnut',
+      data: {
+        datasets: [{
+          data: [score, 100-score],
+          backgroundColor: ['#1a56db','#e5e7eb'],
+          circumference: 180,
+          rotation: 270
+        }]
+      },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{tooltip:{enabled:false}} }
+    }));
+
+    // Chart 10: Breaking Score Distribution
+    const breakingDist = {1:0,2:0,3:0};
+    articles.forEach(a => { breakingDist[a.breaking] = (breakingDist[a.breaking]||0)+1; });
+    chartInstances.push(new Chart(document.getElementById('chart-breaking'), {
+      type: 'bar',
+      data: { labels: ['Score 1','Score 2','Score 3'], datasets: [{ label:'Articles', data: [breakingDist[1],breakingDist[2],breakingDist[3]], backgroundColor:['#9ca3af','#d97706','#dc2626'] }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 11: Top Entities
+    const entityCount = {};
+    articles.forEach(a => {
+      (a.entities||[]).forEach(e => { entityCount[e.name] = (entityCount[e.name]||0)+1; });
+    });
+    const topEntities = Object.entries(entityCount).sort((a,b)=>b[1]-a[1]).slice(0,10);
+    chartInstances.push(new Chart(document.getElementById('chart-entities'), {
+      type: 'bar',
+      data: { labels: topEntities.map(e=>e[0]), datasets: [{ label:'Mentions', data: topEntities.map(e=>e[1]), backgroundColor:'#1a56db' }] },
+      options: { indexAxis:'y', responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 12: Positive vs Negative Trend (7d)
+    chartInstances.push(new Chart(document.getElementById('chart-posneg-trend'), {
+      type: 'line',
+      data: {
+        labels: days7,
+        datasets: [
+          { label:'Bullish', data: days7.map(d=>last7[d].pos), borderColor:'#059669', backgroundColor:'rgba(5,150,105,0.1)', fill:true, tension:0.3 },
+          { label:'Bearish', data: days7.map(d=>last7[d].neg), borderColor:'#dc2626', backgroundColor:'rgba(220,38,38,0.1)', fill:true, tension:0.3 }
+        ]
+      },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 13: Neutral Ratio Trend
+    const neutralRatio = days7.map(d => last7[d].neu / (last7[d].pos+last7[d].neg+last7[d].neu || 1));
+    chartInstances.push(new Chart(document.getElementById('chart-neutral-ratio'), {
+      type: 'line',
+      data: { labels: days7, datasets: [{ label:'Neutral Ratio', data: neutralRatio, borderColor:'#d97706', fill:false, tension:0.3 }] },
+      options: { responsive:true, maintainAspectRatio:false, scales:{y:{min:0,max:1}} }
+    }));
+
+    // Chart 14: Volatility Index (std dev of sentiment score over 3-day rolling)
+    const sentScores = articles.map(a => a.sentiment==='positive'?1:(a.sentiment==='negative'?-1:0));
+    const volatility = [];
+    for (let i=2; i<sentScores.length; i+=3) {
+      const slice = sentScores.slice(i-2,i+1);
+      const avg = slice.reduce((a,b)=>a+b,0)/slice.length;
+      const variance = slice.reduce((a,b)=>a+(b-avg)**2,0)/slice.length;
+      volatility.push(Math.sqrt(variance));
+    }
+    const volLabels = [];
+    for (let i=0; i<volatility.length; i++) { volLabels.push('Day '+(i+1)); }
+    chartInstances.push(new Chart(document.getElementById('chart-volatility'), {
+      type: 'line',
+      data: { labels: volLabels, datasets: [{ label:'Volatility', data: volatility, borderColor:'#6b7280', fill:false, tension:0.3 }] },
+      options: { responsive:true, maintainAspectRatio:false }
+    }));
+
+    // Chart 15: Recent Feed (last 5)
+    const recent5 = articles.slice(0,5);
+    const feedHtml = recent5.map(a => `
+      <div class="flex justify-between items-center p-2 border-b border-border">
+        <span class="truncate max-w-[70%]">${a.title_en || a.title}</span>
+        <span class="font-mono text-${a.sentiment==='positive'?'bullish':(a.sentiment==='negative'?'bearish':'neutral')}">${a.sentiment}</span>
+      </div>
+    `).join('');
+    document.getElementById('recent-feed').innerHTML = feedHtml;
+  }
+
 </script>
 </body>
 </html>
