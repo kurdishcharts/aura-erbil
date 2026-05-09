@@ -30,6 +30,14 @@ jobs:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
       
+      - name: Run multisource scraper
+        run: python scraper/scraper_multisource.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+        continue-on-error: true
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
