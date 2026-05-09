@@ -3840,28 +3840,24 @@
     "title_en": "Iraqi, Kurdish oil exports could reach half a million barrels: Official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "infrastructure",
-    "sentiment": "neutral",
+    "category": "economy",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "",
-        "type": ""
-      },
-      {
-        "name": "",
-        "type": ""
+        "name": "Adnan Hussein",
+        "type": "PERSON"
       },
       {
         "name": "Iraq",
-        "type": "place"
+        "type": "LOCATION"
       },
       {
-        "name": "",
-        "type": ""
+        "name": "Kurdistan Region",
+        "type": "REGION"
       },
       {
-        "name": "",
-        "type": ""
+        "name": "Kurdish Regional Government",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
