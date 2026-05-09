@@ -10,7 +10,6 @@ from datetime import datetime, timedelta, timezone
 from urllib import robotparser
 from urllib.parse import urljoin, urlparse
 
-import cohere, feedparser, requests
 from bs4 import BeautifulSoup
 
 BASE_URL          = "https://www.rudaw.net"
@@ -109,148 +108,15 @@ except KeyError:
     print("FATAL: COHERE_API_KEY environment variable not set"); exit(1)
 
 def _enrich_with_ai(title_original: str, summary: str) -> dict:
-    """Try GitHub Models first (free, no key), then Cohere, then Together, then keyword defaults."""
-    loc_keys = list(LOCATIONS.keys())
-    loc_list_str = ", ".join(loc_keys[:40])
-
-    prompt = f"""You are a news enrichment assistant for the Kurdistan region.
-Given the title and body of a news article, perform these tasks:
-1. If the title is in Sorani Kurdish (Arabic script), translate it to English.
-   If it is already in English, return it unchanged.
-2. Classify the article into ONE of these categories:
-   security, fire, traffic, infrastructure, weather, general.
-3. From the list below, pick the single location most specific to the article.
-   If none match, use "erbil".
-4. Determine the overall sentiment of the article: positive, negative, or neutral.
-5. Extract up to 5 named entities (persons, organizations, places) mentioned.
-   For each entity, specify a type: PERSON, ORGANIZATION, or LOCATION.
-
-Available locations: {loc_list_str}
-
-Return ONLY a valid JSON object with exactly these keys:
-title_en, category, location_key, sentiment, entities
-
-Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, ...]
-
-Title: {title_original}
-Body: {summary[:2000]}"""
-
-    data = None
-
-    # --- 1. GitHub Models (primary, free, zero setup) ---
-    if "GITHUB_TOKEN" in os.environ or "GH_TOKEN" in os.environ:
-        try:
-            import openai as _openai
-            gh_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-            gh_client = _openai.OpenAI(
-                base_url="https://models.github.ai/inference",
-                api_key=gh_token,
-            )
-            resp = gh_client.chat.completions.create(
-                model="meta-llama/Llama-3.2-3B-Instruct",  # Cohere model hosted on GitHub Models
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.0,
-                max_tokens=1000,
-            )
-            raw = resp.choices[0].message.content
-            import re as _re
-            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
-            if match:
-                data = json.loads(match.group())
-                print("  [github-models] enriched successfully")
-            else:
-                print("  [github-models] No JSON found, trying Cohere...")
-        except Exception as e:
-            print(f"  [github-models] failed ({e}), trying Cohere...")
-
-    # --- 2. Cohere (fallback, 1000 calls/month trial) ---
-    if data is None:
-        try:
-            time.sleep(3)
-            response = co.chat(model=COHERE_MODEL, message=prompt, temperature=0.0, max_tokens=1000)
-            raw = response.text.strip()
-            import re as _re
-            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
-            if match:
-                data = json.loads(match.group())
-            else:
-                print("  [cohere] No JSON found, trying Together...")
-        except Exception as e:
-            print(f"  [cohere] AI call failed ({e}), trying Together AI fallback...")
-
-    # --- 3. Together AI (fallback, credit may be exhausted) ---
-    if data is None and "TOGETHER_API_KEY" in os.environ:
-        try:
-            import openai as _openai2
-            together_client = _openai2.OpenAI(
-                api_key=os.environ["TOGETHER_API_KEY"],
-                base_url="https://api.together.xyz/v1",
-            )
-            resp = together_client.chat.completions.create(
-                model="meta-llama/Llama-3.2-3B-Instruct-Turbo",
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.0,
-                max_tokens=1000,
-            )
-            raw = resp.choices[0].message.content
-            import re as _re
-            match = _re.search(r'\{.*\}', raw, _re.DOTALL)
-            if match:
-                data = json.loads(match.group())
-            else:
-                print("  [together] No JSON found.")
-        except Exception as e2:
-            print(f"  [together] also failed ({e2}), falling back to keyword defaults")
-
-    # --- 4. Keyword fallback ---
-    if data is None:
-        loc = _detect_location(title_original + " " + summary)
-        return {
-            "title_en": title_original,
-            "category": _detect_category(title_original + " " + summary),
-            "loc_name": loc["name"],
-            "lat": loc["lat"],
-            "lng": loc["lng"],
-            "sentiment": "neutral",
-            "entities": []
-        }
-
-    # --- Process AI response ---
-    valid_cats = set(KEYWORDS.keys()) | {"general"}
-    cat = data.get("category", "general")
-    if cat not in valid_cats:
-        cat = "general"
-
-    loc_key = data.get("location_key", "").strip().lower()
-    if loc_key in LOCATIONS:
-        lat, lng = LOCATIONS[loc_key]
-        loc_name = loc_key.title()
-    else:
-        lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092))
-        loc_name = "Erbil"
-
-    title_en = data.get("title_en", title_original).strip()
-    if not title_en:
-        title_en = title_original
-
-    sentiment = data.get("sentiment", "").strip().lower()
-    if sentiment not in ("positive", "negative", "neutral"):
-        sentiment = "neutral"
-
-    entities = data.get("entities", [])
-    if not isinstance(entities, list):
-        entities = []
-    cleaned_entities = []
-    for ent in entities:
-        if isinstance(ent, dict) and "name" in ent and "type" in ent:
-            cleaned_entities.append({"name": ent["name"], "type": ent["type"]})
-
+    """Keyword‑based fallback only – local Ollama handles real enrichment."""
+    combined = (title_original or "") + " " + (summary or "")
+    loc = _detect_location(combined)
     return {
-        "title_en": title_en,
-        "category": cat,
-        "loc_name": loc_name,
-        "lat": lat,
-        "lng": lng,
-        "sentiment": sentiment,
-        "entities": cleaned_entities
+        "title_en": title_original,
+        "category": _detect_category(combined),
+        "loc_name": loc["name"],
+        "lat": loc["lat"],
+        "lng": loc["lng"],
+        "sentiment": "neutral",
+        "entities": []
     }
