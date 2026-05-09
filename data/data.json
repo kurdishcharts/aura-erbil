@@ -2108,21 +2108,12 @@
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakur in Gulistan",
+    "title_en": "Bakuor in Gulan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Bakur",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Gulistan",
-        "type": "LOCATION"
-      }
-    ],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-08T01:55:27.800920+00:00",
     "location": {
