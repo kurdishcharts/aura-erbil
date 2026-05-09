@@ -706,9 +706,48 @@ function loadMore() {
 }
 
 /* ══ MAP ══════════════════════════════════════════════════════════════════════ */
+
+// Iraqi Kurdistan bounding box — articles outside this are not pinned
+const KRG_BOUNDS = { latMin:35.0, latMax:37.5, lngMin:42.0, lngMax:46.5 };
+
+// Known KRG city coordinates — AI returns location_key matching these
+const KRG_CITIES = {
+  erbil:        [36.1912, 44.0092],
+  hewler:       [36.1912, 44.0092],
+  sulaymaniyah: [35.5571, 45.4357],
+  slemani:      [35.5571, 45.4357],
+  duhok:        [36.8669, 43.0032],
+  halabja:      [35.1787, 45.9861],
+  zakho:        [37.1441, 42.6875],
+  ranya:        [36.2558, 44.8783],
+  koya:         [36.0862, 44.6283],
+  amadiya:      [37.0924, 43.4889],
+  chamchamal:   [35.5279, 44.8318],
+  penjwin:      [35.6234, 45.9435],
+  kirkuk:       [35.4681, 44.3922],
+  sinjar:       [36.3197, 41.8694],
+  makhmur:      [35.7738, 43.5908],
+};
+
+function inKRG(lat, lng) {
+  return lat >= KRG_BOUNDS.latMin && lat <= KRG_BOUNDS.latMax &&
+         lng >= KRG_BOUNDS.lngMin && lng <= KRG_BOUNDS.lngMax;
+}
+
+// Jitter identical coordinates so overlapping pins spread into a small circle
+function jitterCoords(coordMap, lat, lng) {
+  const key = lat.toFixed(4)+'_'+lng.toFixed(4);
+  coordMap[key] = (coordMap[key] || 0) + 1;
+  const n = coordMap[key];
+  if(n === 1) return [lat, lng];
+  const angle = (n * 137.5) * Math.PI / 180; // golden angle spiral
+  const r = 0.004 * Math.sqrt(n);
+  return [lat + r * Math.cos(angle), lng + r * Math.sin(angle)];
+}
+
 function initMap() {
   if(MAP_OBJ) return;
-  MAP_OBJ = L.map('map-el').setView([36.19, 44.01], 9);
+  MAP_OBJ = L.map('map-el').setView([36.5, 44.3], 8);
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a> © <a href="https://carto.com">CARTO</a>',
     subdomains: 'abcd', maxZoom: 19
@@ -723,46 +762,96 @@ function renderMap() {
 
   const heatPts = [];
   const sideItems = [];
+  const coordMap = {};
+  let pinned = 0, skipped = 0;
 
   D.forEach(a => {
-    const lat = a.location?.lat, lng = a.location?.lng;
-    if(!lat || !lng) return;
-    heatPts.push([lat, lng, 0.5]);
-    sideItems.push(a);
+    let lat = a.location?.lat, lng = a.location?.lng;
+    const locName = a.location?.name || '';
 
-    const m = L.circleMarker([lat, lng], {
-      radius: 7,
+    // Try location_key lookup first (set by updated AI)
+    if(a.location_key && KRG_CITIES[a.location_key.toLowerCase()]) {
+      [lat, lng] = KRG_CITIES[a.location_key.toLowerCase()];
+    }
+
+    if(!lat || !lng) { skipped++; return; }
+    if(!inKRG(lat, lng)) { skipped++; return; }
+
+    const [jLat, jLng] = jitterCoords(coordMap, lat, lng);
+    heatPts.push([jLat, jLng, 0.6]);
+    sideItems.push(a);
+    pinned++;
+
+    const radius = a.sentiment === 'negative' ? 8 : 6;
+    const m = L.circleMarker([jLat, jLng], {
+      radius,
       fillColor: sColor(a.sentiment),
       color: '#fff',
       weight: 1.5,
       opacity: 1,
-      fillOpacity: 0.85
+      fillOpacity: 0.88
     });
+
     m.bindPopup(`
-      <div style="font-family:'DM Sans',sans-serif;max-width:220px;line-height:1.4">
-        <div style="font-size:12px;font-weight:600;margin-bottom:7px">${escHtml(a.title_en||a.title)}</div>
-        <div style="display:flex;align-items:center;gap:8px">
-          <span style="font-family:'DM Mono',monospace;font-size:10px;color:${sColor(a.sentiment)};font-weight:500;text-transform:uppercase">${sLabel(a.sentiment)}</span>
+      <div style="font-family:'DM Sans',sans-serif;max-width:240px;line-height:1.5">
+        <div style="font-size:11px;font-family:'DM Mono',monospace;color:#8892a4;margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em">
+          📍 ${escHtml(locName || 'Kurdistan Region')}
+        </div>
+        <div style="font-size:12px;font-weight:600;color:#0d1526;margin-bottom:8px">
+          ${escHtml(a.title_en||a.title)}
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+          <span style="font-family:'DM Mono',monospace;font-size:10px;color:${sColor(a.sentiment)};font-weight:600;text-transform:uppercase">${sLabel(a.sentiment)}</span>
+          <span style="font-family:'DM Mono',monospace;font-size:10px;color:#8892a4">${escHtml(a.source)}</span>
           <span style="font-family:'DM Mono',monospace;font-size:10px;color:#8892a4">${relTime(a.timestamp)}</span>
         </div>
-        <a href="${escHtml(a.url)}" target="_blank" style="font-size:11px;color:#1a56db;display:inline-block;margin-top:8px">Open article →</a>
+        <a href="${escHtml(a.url)}" target="_blank"
+           style="font-size:11px;color:#1a56db;font-weight:500;text-decoration:none">
+          Read article →
+        </a>
       </div>
     `);
     m.addTo(MAP_OBJ);
     mapMarkers.push(m);
   });
 
-  heatLayer = L.heatLayer(heatPts, {radius:28,blur:18,maxZoom:13,gradient:{0.4:'#bfdbfe',0.65:'#60a5fa',1:'#1a56db'}});
+  heatLayer = L.heatLayer(heatPts, {
+    radius: 32, blur: 20, maxZoom: 13,
+    gradient: {0.3:'#bfdbfe', 0.6:'#60a5fa', 1:'#1a56db'}
+  });
+
+  // Show heatmap toggle button
+  const mapEl = document.getElementById('map-el');
+  if(mapEl && !document.getElementById('heat-toggle')) {
+    const btn = document.createElement('button');
+    btn.id = 'heat-toggle';
+    btn.textContent = 'Heatmap: OFF';
+    btn.style.cssText = 'position:absolute;top:10px;right:10px;z-index:999;padding:6px 12px;background:white;border:1px solid #dde2ec;border-radius:6px;font-family:DM Sans,sans-serif;font-size:11px;font-weight:600;cursor:pointer;color:#4b5875;';
+    let heatOn = false;
+    btn.onclick = () => {
+      heatOn = !heatOn;
+      heatOn ? heatLayer.addTo(MAP_OBJ) : MAP_OBJ.removeLayer(heatLayer);
+      btn.textContent = 'Heatmap: '+(heatOn?'ON':'OFF');
+      btn.style.color = heatOn ? '#1a56db' : '#4b5875';
+      btn.style.borderColor = heatOn ? '#1a56db' : '#dde2ec';
+    };
+    mapEl.style.position = 'relative';
+    mapEl.appendChild(btn);
+  }
 
   document.getElementById('map-list').innerHTML =
+    `<div style="font-family:'DM Mono',monospace;font-size:9px;color:var(--text3);margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid var(--border)">
+      ${pinned} pins shown · ${skipped} outside KRG
+    </div>` +
     '<div class="art-list">' +
-    sideItems.slice(0,40).map(a => `
+    sideItems.slice(0,60).map(a => `
       <div class="art-item" onclick="window.open('${escHtml(a.url)}','_blank')">
         <div class="art-bar" style="background:${sColor(a.sentiment)}"></div>
         <div class="art-body">
           <div class="art-title">${escHtml(a.title_en||a.title)}</div>
           <div class="art-meta">
             ${mkBadge(a.sentiment)}
+            <span class="tag">${escHtml(a.location?.name||'KRG')}</span>
             <span class="tag">${relTime(a.timestamp)}</span>
           </div>
         </div>
