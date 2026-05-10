@@ -30,6 +30,7 @@ jobs:
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
       
       - name: Run multisource scraper
+        timeout-minutes: 5
         run: python scraper/scraper_multisource.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,6 +39,7 @@ jobs:
         continue-on-error: true
 
       - name: Run multisource scraper
+        timeout-minutes: 5
         run: python scraper/scraper_multisource.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -46,6 +48,7 @@ jobs:
         continue-on-error: true
 
       - name: Run Telegram scraper
+        if: false
         run: python scraper/scraper_telegram.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
