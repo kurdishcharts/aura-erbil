@@ -7,8 +7,29 @@
     "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
     "source": "rudaw-scrape",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Islamic Revolutionary Guard Corps",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Komala of the Toilers of Kurdistan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Democratic Party of Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sulaimani province",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:39:00.905565+00:00",
     "location": {
@@ -75,12 +96,21 @@
     "id": "cb6cb38d87964efd",
     "url": "https://www.rudaw.net/sorani/sports/010420267",
     "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "title_en": "The 10 most famous football stars cannot participate in the 2026 World Cup",
     "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Peres Amadabane",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kilian Frei Dreschler",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:36:13.175628+00:00",
     "location": {
@@ -93,12 +123,25 @@
     "id": "c60bcf9214db330a",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
     "source": "rudaw-sorani",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Mehmed Mahmaud",
+        "type": "PERSON"
+      },
+      {
+        "name": "Agrin Dlshad",
+        "type": "PERSON"
+      },
+      {
+        "name": "Hossein Madadi",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:35:58.166448+00:00",
     "location": {
@@ -129,12 +172,21 @@
     "id": "bc55cf83ca7cec93",
     "url": "https://www.rudaw.net/sorani/world/15012024",
     "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "title_en": "How is the President of the United States elected?",
     "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی ناوخۆی بەحرێن رایگەیاند، دەزگە ئەمنییەکانی ئەو وڵاتە رێکخراوێکیان هەڵوەشاندووەتەوە کە تۆمەتبارە بە هەبوونی پەیوەندی بە سوپای پاسدارانی ئێران و 41 ئەندامیان دەستگیرکردوون.",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "United States",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:35:37.422625+00:00",
     "location": {
@@ -183,12 +235,25 @@
     "id": "63ab57b280469217",
     "url": "https://www.rudaw.net/sorani/sports/250520233",
     "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "title_en": "Video: Protestors Retreat After Clash with Police",
     "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "traffic",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "پالawanetiy Tenesi Leon",
+        "type": "LOCATION"
+      },
+      {
+        "name": "میکایل یەمیری",
+        "type": "PERSON"
+      },
+      {
+        "name": "ئارسەر فیلی فەرەنسی",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:35:16.044206+00:00",
     "location": {
@@ -204,9 +269,30 @@
     "title_en": "Displaced families from Afrin to begin returning home on Saturday: Hasaka governor",
     "summary": "ERBIL, Kurdistan Region - Around 1,200 displaced families from the predominantly Kurdish city of Afrin in northwestern Syria are set to return to their homes on Saturday, according to the governor of Hasaka, who said preparations for the process have been completed as authorities push toward ending displacement and political detentions in northeast Syria (Rojava). “Our goal is for no displaced person and no political prisoner to remain,” Hasaka Governor Nour al-Din Ahmed told Rudaw, adding that officials are working toward reaching a “zero displacement” stage “where no family remains in a state of displacement.” Families in Afrin have faced repeated waves of displacement since first fleeing in 2018 during a Turkish-backed offensive. They were forced to flee again in 2024 in the wake of the fall of Bashar al-Assad’s regime, and once more this year following renewed clashes between the interim authorities and Kurdish forces in northern Syria and Rojava, which came to an end following a landmark January deal. In mid-January, the Syrian Arab Army and affiliated armed groups launched a major offensive into areas held by the SDF. The operation led to the gradual withdrawal of Kurdish-led forces from territories in eastern Aleppo, Deir ez-Zor, Raqqa, as well as the Kurdish-majority Hasaka province. After weeks of fighting, an internationally brokered agreement between the SDF and Damascus was signed in late January. One of the key clauses of the deal was the return of displaced persons, including those to Afrin. Ahmed stressed that authorities are seeking to eliminate politically motivated detentions. “Another of our primary goals is to have zero political prisoners or detainees of opinion,” he said, adding that efforts are underway to ensure complete security and stability. According to the governor, once the return process is stabilized, authorities will shift focus toward improving services for residents across the region. Rudaw moderates all comments submitted on our w",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nour al-Din Ahmed",
+        "type": "PERSON"
+      },
+      {
+        "name": "Afrin",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Hasaka",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:33.043833+00:00",
     "location": {
@@ -222,9 +308,30 @@
     "title_en": "Iraqi police cracks down on crime in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rusafa",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi Police",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Jordan",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:27.245654+00:00",
     "location": {
@@ -240,9 +347,30 @@
     "title_en": "Dozens of Iraqi MPs depart for Hajj despite parliamentary order to remain for cabinet vote",
     "summary": "ERBIL, Kurdistan Region - The Iraqi parliament announced on Friday that 29 lawmakers have traveled to Saudi Arabia to perform the Hajj pilgrimage despite a directive barring MPs from leaving the country ahead of a crucial vote on the new government cabinet. “Only 29 MPs have travelled for Hajj pilgrimage this year,” parliament said in a statement, noting that the lawmakers were either assigned to oversee the affairs of Iraqi pilgrims in Saudi Arabia or had secured their Hajj slots through the lottery system before being elected to parliament. The statement came a day after Prime Minister-designate Ali al-Zaidi submitted his government program to parliament, paving the way for a confidence vote expected to take place next week, according to the office of Parliament Speaker Haibat al-Halbousi. In preparation for the session, parliament issued instructions prohibiting lawmakers from traveling abroad until the cabinet vote is held. This year’s Hajj, scheduled to take place between May 24 and 29, is one of Islam’s Five Pillars and is obligatory for Muslims who are physically and financially able to undertake the pilgrimage. The annual pilgrimage is performed between the 8th and 12th days of Dhu al-Hijjah in the Islamic calendar, with pilgrims typically arriving in advance to prepare in the holy cities of Mecca and Medina. Safwan Bashir Younish al-Gargari, secretary-general of the Iraqi parliament, told Rudaw on Friday that more than 100 MPs are eligible to perform Hajj this year. “Planes are ready and all preparations have been completed, but instructions were issued stressing that no MP should leave for Hajj until the new cabinet receives parliament’s vote of confidence,” he said. Lawmaker Gharib Ahmed told Rudaw that many MPs intend to perform Hajj “under the pretext of monitoring” Iraqi pilgrims, arguing that such oversight does not require a large parliamentary delegation. Around 42,500 Iraqi pilgrims, including 5,120 from the Kurdistan Region, are expected to perfor",
     "source": "rudaw-english",
-    "category": "traffic",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Haibat al-Halbousi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Safwan Bashir Younis al-Gargari",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraqi parliament",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:20.019160+00:00",
     "location": {
@@ -258,9 +386,18 @@
     "title_en": "Rojava's ruling party says Kurdish signboards would strengthen Syria",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:07.818689+00:00",
     "location": {
@@ -277,8 +414,21 @@
     "summary": "ERBIL, Kurdistan Region - Iraq’s Communications and Media Commission (CMC) announced on Saturday that the ban on the Telegram messaging application will be lifted nationwide after the platform’s management pledged to comply with Iraqi legal and regulatory requirements. In a statement carried by the state-run Iraqi News Agency, the commission said Telegram service would resume “across all parts of Iraq” once the Ministry of Communications completes the required technical procedures through approved internet gateways. The CMC said the decision followed “pledges made by the application’s management to comply with regulatory requirements.” Telegram had been suspended in Iraq since May 3, excluding the Kurdistan Region. The platform is widely used across Iraq and the Kurdistan Region, with around 16 million users. According to the Commission, Telegram’s management agreed to implement measures related to “content moderation, user protection, and compliance with the legal frameworks in force in Iraq.” The watchdog added that it would continue monitoring the platform to ensure the commitments are implemented. “All social media platforms operating in Iraq are bound to full compliance with current legislation without exception, in order to safeguard the public interest and national information security,” it said. Ali Sheikh Khalis, a member of the Iraqi parliament’s Transportation and Communications Committee, told Rudaw on Saturday that lawmakers are still awaiting an explanation as to why it was suspended in the first place. “Our committee has officially requested a clarification from the Iraqi Communications and Media Commission to explain the reasons for the Telegram suspension, but so far, our committee has not received an official response,” he said. Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about",
     "source": "rudaw-english",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraqi Communications and Media Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Telegram",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Ali Sheikh Khalis",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:33:55.783462+00:00",
     "location": {
@@ -294,9 +444,18 @@
     "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:33:49.632725+00:00",
     "location": {
@@ -314,7 +473,28 @@
     "source": "rudaw-english",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Pakistan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Strait of Hormuz",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:33:43.519661+00:00",
     "location": {
@@ -327,12 +507,21 @@
     "id": "7441f547af91c5fe",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/090520266",
     "title": "پێکهێنانی حکومەتی عێراق؛ شیعە لەسەر پۆستە سیادییەکان و سوننە لەسەر خاڵەکان ناکۆکن",
-    "title_en": "پێکهێنانی حکومەتی عێراق؛ شیعە لەسەر پۆستە سیادییەکان و سوننە لەسەر خاڵەکان ناکۆکن",
+    "title_en": "Formation of the Iraqi Government: Shia and Sunni disagree over key positions",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەرلەمانتارێکی پارتی لە عێراق راگەیاند، فراکسیۆنەکەیان بەشداریی دانیشتنی داهاتووی پەرلەمانی عێراق دەکات.",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Patriotic Union of Kurdistan",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:51.855910+00:00",
     "location": {
@@ -345,12 +534,21 @@
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "New developments regarding the anti-Muslim statements of Spanish protesters",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Spain",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kilian Amadey",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:44.002994+00:00",
     "location": {
@@ -363,12 +561,33 @@
     "id": "4e83a2f2b36c1e7a",
     "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
     "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "title_en": "Security and the Kurdistan Regional Government were key topics in Baghdad talks",
     "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پسپۆڕێکی مایکرۆبایۆلۆجیی پزیشکی لە زانکۆی هەولێری پزیشکی، دڵنیایی دەداتە هاونیشتمانییان کە بڵاوبوونەوەی ڤایرۆسی (هانتا) لەناو کەشتییەکی گەشتیاریدا کە نابێتە پەتایەکی جیهانیی هاوشێوەی کۆرۆنا. رێکخراوی تەندروستیی جیهانیش دەڵێت: \"مەترسییەکە زۆر کەمە.\"",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Raghebinder",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Romanosky",
+        "type": "PERSON"
+      },
+      {
+        "name": "Hawler University",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:37.014324+00:00",
     "location": {
@@ -399,12 +618,21 @@
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
+    "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:21.472397+00:00",
     "location": {
@@ -471,12 +699,21 @@
     "id": "52821bc9a4c6fad6",
     "url": "https://www.rudaw.net/sorani/kurdistan/080520269",
     "title": "بە 90 کیلۆمەتر پایسکیلسواری؛ تیمی کەرکووک بۆ بەشداریکردن لە بەرنامەی دکتۆر ئاراس گەیشتنە هەولێر",
-    "title_en": "بە 90 کیلۆمەتر پایسکیلسواری؛ تیمی کەرکووک بۆ بەشداریکردن لە بەرنامەی دکتۆر ئاراس گەیشتنە هەولێر",
+    "title_en": "Cycling trip of 90 kilometers; Erbil team arrives in Erbil to participate in the Dr. Aras program",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پسپۆڕێکی مایکرۆبایۆلۆجیی پزیشکی لە زانکۆی هەولێری پزیشکی، دڵنیایی دەداتە هاونیشتمانییان کە بڵاوبوونەوەی ڤایرۆسی (هانتا) لەناو کەشتییەکی گەشتیاریدا کە نابێتە پەتایەکی جیهانیی هاوشێوەی کۆرۆنا. رێکخراوی تەندروستیی جیهانیش دەڵێت: \"مەترسییەکە زۆر کەمە.\"",
     "source": "rudaw-sorani",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Dr. Aras program",
+        "type": "PROGRAM"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:30:51.974801+00:00",
     "location": {
@@ -1066,10 +1303,10 @@
     "id": "7a6eb0b24f600e11",
     "url": "https://www.rudaw.net/sorani/health/090520268",
     "title": "ڤایرۆسی هانتا وەک کۆرۆنایە؟",
-    "title_en": "Is Hantavirus like Corona?",
+    "title_en": "ڤایرۆسی هانتا وەک کۆرۆنایە؟",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ناوەندی کۆنترۆڵکردن و پێشگیریکردن لە نەخۆشییەکان لە ئەمریکا (CDC) رایدەگەیێنێت، سەرباری گیانلەدەستدانی لانیکەم 3 کەس و تووشبوونی ژمارەیەکی دیکە بە هانتاڤایرۆس لەنێو کەشتییەکی گەشتیاریدا، بەڵام مەترسیی بڵاوبوونەوەی ڤایرۆسەکە لە مرۆڤێکەوە بۆ مرۆڤێکی دیکە \"زۆر کەمە\".",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "health",
     "sentiment": "neutral",
     "entities": [
       {
