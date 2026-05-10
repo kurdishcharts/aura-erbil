@@ -19,8 +19,8 @@ DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
 MIN_DELAY = 5.0
 MAX_DELAY = 7.0
-MAX_PAGES         = 30
-LOOKBACK_DAYS     = 7
+MAX_PAGES         = 10
+LOOKBACK_DAYS     = 3
 
 # Sorani-first, then English — FIXED DOMAINS
 SOURCES = [
@@ -85,7 +85,7 @@ def _fetch(url):
         return None
     try:
         time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
-        r = session.get(url, timeout=15, allow_redirects=True)   # ← fixed NRT redirect
+        r = session.get(url, timeout=8, allow_redirects=True)   # ← fixed NRT redirect
         if r.status_code == 200:
             return r.text
         print(f"  [warn] HTTP {r.status_code} for {url}")
