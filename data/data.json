@@ -10,7 +10,187 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-11T04:05:12.582834+00:00",
+    "timestamp": "2026-05-11T04:35:14.496894+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "83d5f85a8b0f25f4",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/100520263",
+    "title": "Baghdad plans to buy Kurdistan electricity to meet summer demand",
+    "title_en": "Baghdad plans to buy Kurdistan electricity to meet summer demand",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:35:03.743267+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60a129c808d53f77",
+    "url": "https://www.rudaw.net/english/kurdistan/160920242",
+    "title": "Foreign missions praise free, objective press at Rudaw election event",
+    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:34:52.649544+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "54f6229c172bd76a",
+    "url": "https://www.rudaw.net/english/culture/28042024",
+    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:34:17.696616+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "99803a750c50ad7a",
+    "url": "https://www.rudaw.net/english/world/01052024",
+    "title": "Germany deports Kurdish family with health issues to Iraq",
+    "title_en": "Germany deports Kurdish family with health issues to Iraq",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-scrape",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:34:02.557449+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d29c35cb86415af7",
+    "url": "https://www.rudaw.net/sorani/world/1005202611",
+    "title": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
+    "title_en": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا سێنتکۆم رایگەیاند، لە چوارچێوەی جێبەجێکردنی گەمارۆ دەریاییەکەی سەر تاران، تاوەکو ئێستا رێگرییان لە 61 کەشتیی بازرگانی کردووە کە هەوڵیانداوە بچنە ناو بەندەرەکانی ئێران یان لێی بێنە دەرەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:32:02.528116+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "67d5458b91dbd6c7",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/121220231",
+    "title": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
+    "title_en": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێشانگەی ساها 2026، کە دوایین پێشکەوتنەکانی پیشەسازیی بەرگریی تورکیای خستەڕوو، بە بەشداریی زیاتر لە 150 هەزار سەردانیکار، شاندی زیاتر لە 75 وڵات و واژۆکردنی گرێبەستی هەناردەکردن بە بەهای نزیکەی 8 ملیار دۆلار کۆتاییهات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:31:51.594440+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec9c1b9336e27a24",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
+    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:31:42.066009+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a961a9579c711a3",
+    "url": "https://www.rudaw.net/sorani/world/020720251",
+    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ چۆڵەکە و کۆتر و باڵندەی دیکەی نێو شارەکان زیاتر لە ژنان دەترسن وەک لە پیاوان.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:31:24.363105+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:31:02.533777+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d19cecaffa24567",
+    "url": "https://www.rudaw.net/sorani/business/021020232",
+    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرچاوەیەک لە حکومەتی عێراق بە رووداوی راگەیاند، وەزیری دارایی عێراق رەزامەندیی لەسەر خەرجکردنی مووچەی مانگی 4ی هەرێمی کوردستان داوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-11T04:30:50.443412+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -47,24 +227,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T04:04:51.684051+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "99803a750c50ad7a",
-    "url": "https://www.rudaw.net/english/world/01052024",
-    "title": "Germany deports Kurdish family with health issues to Iraq",
-    "title_en": "Germany deports Kurdish family with health issues to Iraq",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-11T04:04:40.631901+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -234,24 +396,6 @@
     }
   },
   {
-    "id": "83d5f85a8b0f25f4",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/100520263",
-    "title": "Baghdad plans to buy Kurdistan electricity to meet summer demand",
-    "title_en": "Baghdad plans to buy Kurdistan electricity to meet summer demand",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-11T03:35:03.995603+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "ea1d8cd62124a794",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520264",
     "title": "Kurds, Sunnis reach cabinet deal as US blocks armed factions: Official",
@@ -396,24 +540,6 @@
     }
   },
   {
-    "id": "ec9c1b9336e27a24",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
-    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-11T03:31:05.424124+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "e9f6a241aebb5462",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/100520266",
     "title": "عێراق وەزارەتێکی هاوتەریب لەگەڵ وەزارەتی دەرەوە دروستدەکات",
@@ -479,24 +605,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T03:02:00.845745+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d29c35cb86415af7",
-    "url": "https://www.rudaw.net/sorani/world/1005202611",
-    "title": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
-    "title_en": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا سێنتکۆم رایگەیاند، لە چوارچێوەی جێبەجێکردنی گەمارۆ دەریاییەکەی سەر تاران، تاوەکو ئێستا رێگرییان لە 61 کەشتیی بازرگانی کردووە کە هەوڵیانداوە بچنە ناو بەندەرەکانی ئێران یان لێی بێنە دەرەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-11T03:01:49.577478+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -955,33 +1063,6 @@
     }
   },
   {
-    "id": "54f6229c172bd76a",
-    "url": "https://www.rudaw.net/english/culture/28042024",
-    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-scrape",
-    "category": "culture",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Sulaymaniyah",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-10T08:33:49.632725+00:00",
-    "location": {
-      "name": "Sulaymaniyah",
-      "lat": 35.5571,
-      "lng": 45.4357
-    }
-  },
-  {
     "id": "62fbe77ec2382bee",
     "url": "https://www.rudaw.net/english/world/09052026",
     "title": "Trump says US could revive ‘Project Freedom’ if Iran talks collapse",
@@ -1198,33 +1279,6 @@
     }
   },
   {
-    "id": "60a129c808d53f77",
-    "url": "https://www.rudaw.net/english/kurdistan/160920242",
-    "title": "Foreign missions praise free, objective press at Rudaw election event",
-    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-09T22:07:37.657400+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "9ef14c4a23dc6e12",
     "url": "https://www.rudaw.net/english/kurdistan/08052026",
     "title": "Plans underway to build cycling lanes in Erbil amid growing demand",
@@ -1424,33 +1478,6 @@
     }
   },
   {
-    "id": "9d19cecaffa24567",
-    "url": "https://www.rudaw.net/sorani/business/021020232",
-    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "title_en": "Oil production in the Kurdistan Region has increased",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوت ئەمڕۆ پێنجشەممە نزیکەی 1 دۆلار بەرزبووەوە و وەبەرهێنەران و بازرگانان چاوەڕێی ئەنجامی دانوستاندنەکانی نێوان ئەمریکا و ئێران دەکەن.",
-    "source": "rudaw-sorani",
-    "category": "economy",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-09T22:00:34.958136+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "4485998678766526",
     "url": "https://www.rudaw.net/sorani/world/090520268",
     "title": "هەزاران قوتابی لە ئەڵمانیا دژی خزمەتی سەربازیی زۆرەملێ رژانە سەر شەقامەکان",
@@ -1525,33 +1552,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:59:51.035051+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakur in Gulistan",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "culture",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Bakur",
-        "type": "PERSON"
-      },
-      {
-        "name": "Gulistan",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-09T21:59:24.733387+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1830,27 +1830,6 @@
       "name": "Halabja",
       "lat": 35.1787,
       "lng": 45.9861
-    }
-  },
-  {
-    "id": "3a961a9579c711a3",
-    "url": "https://www.rudaw.net/sorani/world/020720251",
-    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "title_en": "Bombing in Kerkuk kills dozens",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کۆماری ئیسلامیی ئێران گومانی خستە سەر رژدبوونی دیپلۆماسیی ئەمریکا بۆ کۆتاییهێنان بە جەنگ، ئەمەش دوای دەستپێکردنەوەی پێکدادانە دەریاییەکان لە ناوچەی کەنداو. تاران تاوەکو ئێستا واشنتنی بەدیار وەڵامی دوایین پێشنیازی دانوستاندنەکانەوە هێشتووەتەوە.",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      "Iran",
-      "US"
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-09T21:49:40.268091+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
     }
   },
   {
