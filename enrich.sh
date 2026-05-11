@@ -13,7 +13,12 @@ fi
 export OLLAMA_NUM_THREADS=4
 export OLLAMA_KEEP_ALIVE=0
 
-python3 << 'PYEOF'
+python3 << 'subprocess.run(["git","add","data/"], cwd=proj_dir)
+subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
+subprocess.run(["git","stash"], cwd=proj_dir)
+subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
+subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes"})
+PYEOF'
 import sqlite3, json, time, requests, os, subprocess
 import ollama
 
@@ -201,7 +206,12 @@ subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], c
 subprocess.run(["git","stash"], cwd=proj_dir)   # stash any leftover changes
 subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
 subprocess.run(["git","remote","set-url","origin","git@github.com:kurdishcharts/aura-erbil.git"], cwd=proj_dir)
-    subprocess.run(["git","push","origin","main"], cwd=proj_dir)
+subprocess.run(["git","push","origin","main"], cwd=proj_dir)
+subprocess.run(["git","add","data/"], cwd=proj_dir)
+subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
+subprocess.run(["git","stash"], cwd=proj_dir)
+subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
+subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes"})
 PYEOF
 
 # Stop Ollama to free RAM
