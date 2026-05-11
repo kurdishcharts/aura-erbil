@@ -38,14 +38,6 @@ jobs:
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
         continue-on-error: true
 
-      - name: Run multisource scraper
-        timeout-minutes: 5
-        run: python scraper/scraper_multisource.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
-          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
-        continue-on-error: true
 
       - name: Run Telegram scraper
         if: false
@@ -87,5 +79,13 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git diff --staged --quiet || git commit -m "Auto-update news data"
-          git pull --rebase origin main
-          git push
+          for i in 1 2 3; do
+            git fetch origin main
+            git checkout --ours data/aura.db data/data.json 2>/dev/null || true
+            git add data/ 2>/dev/null || true
+            GIT_EDITOR=true git rebase --continue 2>/dev/null || true
+            git push origin HEAD:main --force-with-lease && break
+            echo "Push attempt $i failed, retrying in 10s..."
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done

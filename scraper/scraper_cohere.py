@@ -180,7 +180,7 @@ Return ONLY the JSON object:"""
 def _keyword_fallback(title_original: str, summary: str) -> dict:
     combined = (title_original or "") + " " + (summary or "")
     loc = _detect_location(combined)
-    return {"title_en":data.get("title_en", title_original),"category":_detect_category(combined),
+    return {"title_en":title_original,"category":_detect_category(combined),
             "loc_name":loc["name"],"lat":loc["lat"],"lng":loc["lng"],
             "sentiment":"neutral","entities":[]}
 

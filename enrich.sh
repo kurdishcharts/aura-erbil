@@ -195,7 +195,7 @@ print(f"\nExported {len(records)} records.")
 
 # Git push via SSH (authentication works in cron)
 import subprocess, os
-proj_dir = os.path.dirname(os.path.abspath(__file__))
+proj_dir = os.path.expanduser("~/aura-erbil")
 subprocess.run(["git","add","data/"], cwd=proj_dir)
 subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
 subprocess.run(["git","stash"], cwd=proj_dir)   # stash any leftover changes
