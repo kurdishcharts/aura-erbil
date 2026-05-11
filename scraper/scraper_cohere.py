@@ -122,64 +122,9 @@ def _detect_location(text):
 
 # ── AI Enrichment ────────────────────────────────────────────────────────────
 def _enrich_with_ai(title_original: str, summary: str) -> dict:
-    """GitHub Models AI — Kurdistan-aware, city-level location."""
-    from openai import OpenAI
-    token = os.environ.get("GITHUB_TOKEN", "")
-    if not token:
-        return _keyword_fallback(title_original, summary)
-    client = OpenAI(base_url="https://models.github.ai/inference", api_key=token)
-    COORDS = {
-        "erbil": (36.1912, 44.0092), "hewler": (36.1912, 44.0092),
-        "sulaymaniyah": (35.5571, 45.4357), "slemani": (35.5571, 45.4357),
-        "duhok": (36.8669, 43.0032), "halabja": (35.1787, 45.9861),
-        "zakho": (37.1441, 42.6875), "ranya": (36.2558, 44.8783),
-        "koya": (36.0862, 44.6283), "amadiya": (37.0924, 43.4889),
-        "chamchamal": (35.5279, 44.8318), "kirkuk": (35.4681, 44.3922),
-        "sinjar": (36.3197, 41.8694), "makhmur": (35.7738, 43.5908),
-        "shaqlawa": (36.5485, 44.3397), "soran": (36.6539, 44.5472),
-    }
-    CITIES = list(COORDS.keys())
-    prompt = f"""You are a geopolitical analyst for the Kurdistan Region of Iraq (KRI).
-Return ONLY valid JSON with exactly these 5 keys:
-"title_en": English translation of the title (translate if Sorani/Kurdish, keep if already English)
-"sentiment": "positive"|"negative"|"neutral" — impact on KRI ONLY
-"category": security|politics|economy|infrastructure|weather|fire|traffic|health|culture|general
-"entities": up to 5 objects with name and type (PERSON/ORGANIZATION/LOCATION), KRI-relevant only
-"location_key": primary KRI city lowercase from {CITIES} — "erbil" for general KRI, null if entirely outside KRI
-
-Examples:
-Title: "PKK attack kills 2 peshmerga near Duhok"
-{{"sentiment":"negative","category":"security","entities":[{{"name":"PKK","type":"ORGANIZATION"}},{{"name":"Duhok","type":"LOCATION"}}],"location_key":"duhok","title_en":"PKK attack kills 2 peshmerga near Duhok"}}
-Title: "US Federal Reserve raises rates"
-{{"sentiment":"neutral","category":"economy","entities":[{{"name":"US Federal Reserve","type":"ORGANIZATION"}}],"location_key":null,"title_en":"US Federal Reserve raises rates"}}
-
-Article:
-Title: {title_original}
-Body: {summary[:1500]}
-Return ONLY the JSON:"""
-    try:
-        time.sleep(2)
-        resp = client.chat.completions.create(
-            model="openai/gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0, max_tokens=350,
-        )
-        data = json.loads(resp.choices[0].message.content.strip())
-        loc = (data.get("location_key") or "erbil").lower().strip()
-        lat, lng = COORDS.get(loc, (36.1912, 44.0092))
-        return {
-            "title_en":  data.get("title_en", title_original),
-            "category":  data.get("category", "general"),
-            "sentiment": data.get("sentiment", "neutral"),
-            "entities":  data.get("entities", []),
-            "loc_name":  loc.title(),
-            "lat":       lat,
-            "lng":       lng,
-        }
-    except Exception as e:
-        print(f"  [AI] error: {e}")
-        return _keyword_fallback(title_original, summary)
-
+    """Local‑only enrichment — saves as neutral, real sentiment comes from enrich.sh."""
+    combined = (title_original or "") + " " + (summary or "")
+    return _keyword_fallback(title_original, summary)
 def _keyword_fallback(title_original: str, summary: str) -> dict:
     combined = (title_original or "") + " " + (summary or "")
     loc = _detect_location(combined)
