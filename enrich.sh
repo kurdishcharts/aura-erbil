@@ -198,20 +198,27 @@ with open("data/data.json","w") as f:
 conn2.close()
 print(f"\nExported {len(records)} records.")
 
-# Git push via SSH (authentication works in cron)
-import subprocess, os
+# Git push via SSH – robust, retrying, uses force‑with‑lease
+import subprocess, os, time
 proj_dir = os.path.expanduser("~/aura-erbil")
 subprocess.run(["git","add","data/"], cwd=proj_dir)
 subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
-subprocess.run(["git","stash"], cwd=proj_dir)   # stash any leftover changes
-subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
-subprocess.run(["git","remote","set-url","origin","git@github.com:kurdishcharts/aura-erbil.git"], cwd=proj_dir)
-subprocess.run(["git","push","origin","main"], cwd=proj_dir)
-subprocess.run(["git","add","data/"], cwd=proj_dir)
-subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
-subprocess.run(["git","stash"], cwd=proj_dir)
-subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
-subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"})
+for attempt in range(3):
+    # Pull latest changes first so we never conflict
+    subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
+    result = subprocess.run(
+        ["git","push","origin","main"],
+        cwd=proj_dir,
+        env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"}
+    )
+    if result.returncode == 0:
+        print("Push succeeded.")
+        break
+    else:
+        print(f"Push attempt {attempt+1} failed, retrying in 10s...")
+        time.sleep(10)
+else:
+    print("Push failed after 3 attempts – data will be pushed next time.")
 PYEOF
 
 # Stop Ollama to free RAM
