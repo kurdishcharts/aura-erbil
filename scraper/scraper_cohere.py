@@ -130,18 +130,56 @@ def _detect_location(text):
     return {"name": "Erbil", "lat": 36.1912, "lng": 44.0092}
 def _same_origin(url): return urlparse(url).netloc == urlparse(BASE_URL).netloc
 
-# Cloud AI calls removed — local Ollama handles enrichment
-
 def _enrich_with_ai(title_original: str, summary: str) -> dict:
-    """Keyword‑based fallback only – local Ollama handles real enrichment."""
+    """GitHub Models AI — Kurdistan-aware, city-level location."""
+    import time, json
+    from openai import OpenAI
+    import os
+    token = os.environ.get("GITHUB_TOKEN","")
+    if not token:
+        return _keyword_fallback(title_original, summary)
+    client = OpenAI(base_url="https://models.github.ai/inference", api_key=token)
+    COORDS = {"erbil":(36.1912,44.0092),"hewler":(36.1912,44.0092),
+              "sulaymaniyah":(35.5571,45.4357),"slemani":(35.5571,45.4357),
+              "duhok":(36.8669,43.0032),"halabja":(35.1787,45.9861),
+              "zakho":(37.1441,42.6875),"ranya":(36.2558,44.8783),
+              "koya":(36.0862,44.6283),"amadiya":(37.0924,43.4889),
+              "chamchamal":(35.5279,44.8318),"kirkuk":(35.4681,44.3922),
+              "sinjar":(36.3197,41.8694),"makhmur":(35.7738,43.5908),
+              "shaqlawa":(36.5485,44.3397),"soran":(36.6539,44.5472)}
+    CITIES = list(COORDS.keys())
+    prompt = f"""You are a geopolitical analyst for the Kurdistan Region of Iraq (KRI).
+Return ONLY valid JSON with exactly these 4 keys:
+"sentiment": "positive"|"negative"|"neutral" — impact on KRI only
+"category": security|politics|economy|infrastructure|weather|fire|traffic|health|culture|general
+"entities": up to 5 objects with name and type (PERSON/ORGANIZATION/LOCATION)
+"location_key": primary KRI city lowercase from {CITIES} — use "erbil" for general KRI news, null if entirely outside KRI
+
+Article — Title: {title_original}
+Body: {summary[:1500]}
+Return ONLY the JSON object:"""
+    try:
+        time.sleep(2)
+        resp = client.chat.completions.create(
+            model="openai/gpt-4o-mini",
+            messages=[{"role":"user","content":prompt}],
+            temperature=0, max_tokens=350)
+        data = json.loads(resp.choices[0].message.content.strip())
+        loc = (data.get("location_key") or "erbil").lower().strip()
+        lat,lng = COORDS.get(loc,(36.1912,44.0092))
+        return {"title_en":title_original,
+                "category":data.get("category","general"),
+                "sentiment":data.get("sentiment","neutral"),
+                "entities":data.get("entities",[]),
+                "loc_name":loc.title(),"lat":lat,"lng":lng}
+    except Exception as e:
+        print(f"  [AI] error: {e}")
+        return _keyword_fallback(title_original, summary)
+
+def _keyword_fallback(title_original: str, summary: str) -> dict:
     combined = (title_original or "") + " " + (summary or "")
     loc = _detect_location(combined)
-    return {
-        "title_en": title_original,
-        "category": _detect_category(combined),
-        "loc_name": loc["name"],
-        "lat": loc["lat"],
-        "lng": loc["lng"],
-        "sentiment": "neutral",
-        "entities": []
-    }
+    return {"title_en":title_original,"category":_detect_category(combined),
+            "loc_name":loc["name"],"lat":loc["lat"],"lng":loc["lng"],
+            "sentiment":"neutral","entities":[]}
+
