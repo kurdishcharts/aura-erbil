@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="refresh" content="300">
-<title>AURA — Erbil Intelligence</title>
+<title>Kurdish Charts — KRG Intelligence</title>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231a56db'/%3E%3Ccircle cx='16' cy='16' r='5' fill='none' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23fff'/%3E%3Cline x1='16' y1='2' x2='16' y2='7' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='16' y1='25' x2='16' y2='30' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='2' y1='16' x2='7' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='25' y1='16' x2='30' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -22,15 +22,15 @@
   --text3:#8892a4;
   --accent:#1a56db;
   --accent-lt:#eff4ff;
-  --bull:#059669;
-  --bull-bg:#ecfdf5;
-  --bull-bd:#6ee7b7;
-  --bear:#dc2626;
-  --bear-bg:#fef2f2;
-  --bear-bd:#fca5a5;
-  --neut:#d97706;
-  --neut-bg:#fffbeb;
-  --neut-bd:#fcd34d;
+  --bull:#1a1a1a;
+  --bull-bg:#f5f5f5;
+  --bull-bd:#aaaaaa;
+  --bear:#f0f0f0;
+  --bear-bg:#1a1a1a;
+  --bear-bd:#444444;
+  --neut:#888888;
+  --neut-bg:#f0f0f0;
+  --neut-bd:#999999;
   --r:10px;
   --sh:0 1px 3px rgba(13,21,38,.07),0 1px 2px rgba(13,21,38,.04);
 }
@@ -184,19 +184,15 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
 <!-- ── TOP NAV ── -->
 <nav class="topnav">
   <a class="brand" href="#">
-    <div class="brand-icon">
+    <div class="brand-icon" style="background:#1a1a1a">
       <svg viewBox="0 0 16 16" fill="none">
-        <circle cx="8" cy="8" r="3" stroke="white" stroke-width="1.4"/>
-        <circle cx="8" cy="8" r="1.2" fill="white"/>
-        <line x1="8" y1="1" x2="8" y2="4" stroke="white" stroke-width="1.4"/>
-        <line x1="8" y1="12" x2="8" y2="15" stroke="white" stroke-width="1.4"/>
-        <line x1="1" y1="8" x2="4" y2="8" stroke="white" stroke-width="1.4"/>
-        <line x1="12" y1="8" x2="15" y2="8" stroke="white" stroke-width="1.4"/>
+        <polygon points="2,13 8,3 14,13" fill="none" stroke="white" stroke-width="1.3" stroke-linejoin="round"/>
+        <polygon points="5,13 9,7 13,13" fill="white" opacity="0.4"/>
       </svg>
     </div>
     <div class="brand-text">
-      <span class="brand-name">AURA</span>
-      <span class="brand-region">Kurdistan · Erbil</span>
+      <span class="brand-name">Kurdish Charts</span>
+      <span class="brand-region">KRG Intelligence</span>
     </div>
   </a>
   <div class="nav-tabs">
@@ -207,10 +203,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
   </div>
   <div class="nav-right">
     <span class="sync-txt" id="sync-txt">—</span>
-    <div class="live-pill">
-      <span class="live-dot"></span>
-      <span class="live-label">LIVE</span>
-    </div>
+    
   </div>
 </nav>
 
@@ -218,13 +211,13 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
 <div id="overview-page" class="page active">
 
   <div class="stats-row">
-    <div class="stat-card">
+    <div class="stat-card" onclick="showTab('feed',document.querySelector('.tab-btn:nth-child(3)'));setSentFilter('all',document.querySelector('.f-btn.on')||document.querySelectorAll('.filter-bar .f-btn')[0])" style="cursor:pointer">
       <div class="stat-head">
         <span class="stat-lbl">Articles</span>
         <span class="stat-badge" style="background:var(--accent-lt);color:var(--accent)">TOTAL</span>
       </div>
       <div class="stat-val" id="s-total">—</div>
-      <div class="stat-sub">indexed articles</div>
+      <div class="stat-sub">tap to see all</div>
       <div class="stat-bar"><div class="stat-fill" id="b-total" style="width:100%;background:var(--accent)"></div></div>
     </div>
     <div class="stat-card">
@@ -467,18 +460,24 @@ const PER_PAGE = 20;
 
 /* ══ HELPERS ════════════════════════════════════════════════════════════════ */
 const sClass = s => s==='positive'?'bull':s==='negative'?'bear':'neut';
+const SOURCE_NAMES = {
+  'rudaw-scrape':'Rudaw','rudaw-english':'Rudaw EN','rudaw-sorani':'Rudaw KU',
+  'rudaw-rss':'Rudaw','channel8-sorani':'Channel8','channel8-english':'Channel8 EN',
+  'nrt-sorani':'NRT','nrt-english':'NRT EN','avanews-kurdish':'AVA News',
+  'avanews-english':'AVA News EN','anf-sorani':'ANF','multisource':'Multi'
+};
+const srcName = s => SOURCE_NAMES[s] || s || 'Rudaw';
 const sLabel = s => s==='positive'?'Bullish':s==='negative'?'Bearish':'Neutral';
-const sColor = s => s==='positive'?'#059669':s==='negative'?'#dc2626':'#d97706';
+const sColor = s => s==='positive'?'#1a1a1a':s==='negative'?'#f0f0f0':'#888888';
 const pct    = (n,t) => t ? (n/t*100).toFixed(1)+'%' : '0%';
 
 function relTime(ts) {
   if(!ts) return '—';
-  const diff = Date.now() - new Date(ts);
-  if(diff < 60000)    return 'just now';
-  if(diff < 3600000)  return Math.floor(diff/60000)+'m ago';
-  if(diff < 86400000) return Math.floor(diff/3600000)+'h ago';
-  const d = new Date(ts);
-  return d.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
+  try {
+    const d = new Date(ts);
+    if(isNaN(d)) return '—';
+    return d.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'2-digit'});
+  } catch(e) { return '—'; }
 }
 
 function mkBadge(s) {
@@ -532,9 +531,9 @@ function renderStats() {
   const sn = document.getElementById('score-n');
   const sl = document.getElementById('score-l');
   sn.textContent = score;
-  if(score >= 60)      { sn.style.color='#059669'; sl.style.color='#059669'; sl.textContent='BULLISH'; }
-  else if(score <= 40) { sn.style.color='#dc2626'; sl.style.color='#dc2626'; sl.textContent='BEARISH'; }
-  else                 { sn.style.color='#d97706'; sl.style.color='#d97706'; sl.textContent='NEUTRAL'; }
+  if(score >= 60)      { sn.style.color='#1a1a1a'; sl.style.color='#1a1a1a'; sl.textContent='BULLISH'; }
+  else if(score <= 40) { sn.style.color='#f0f0f0'; sl.style.color='#f0f0f0'; sl.textContent='BEARISH'; }
+  else                 { sn.style.color='#888888'; sl.style.color='#888888'; sl.textContent='NEUTRAL'; }
   document.getElementById('score-h').textContent =
     pos+' positive · '+neg+' negative · '+neut+' neutral';
 }
@@ -569,7 +568,7 @@ function renderChartDonut() {
       labels: ['Positive','Negative','Neutral'],
       datasets: [{
         data: [pos, neg, neut],
-        backgroundColor: ['#059669','#dc2626','#d97706'],
+        backgroundColor: ['#1a1a1a','#f0f0f0','#888888'],
         borderWidth: 0,
         hoverOffset: 6
       }]
@@ -628,7 +627,7 @@ function renderLatest() {
           <div class="art-title">${escHtml(a.title_en||a.title)}</div>
           <div class="art-meta">
             ${mkBadge(a.sentiment)}
-            <span class="tag">${escHtml(a.source)}</span>
+            <span class="tag">${srcName(a.source)}</span>
             <span class="tag">${relTime(a.timestamp)}</span>
           </div>
         </div>
@@ -688,7 +687,7 @@ function renderFeed() {
             <div class="feed-title">${escHtml(a.title_en||a.title)}</div>
             <div class="feed-meta">
               ${mkBadge(a.sentiment)}
-              <span class="tag">${escHtml(a.source)}</span>
+              <span class="tag">${srcName(a.source)}</span>
               ${a.category ? `<span class="tag">${escHtml(a.category)}</span>` : ''}
               <span class="tag">${relTime(a.timestamp)}</span>
             </div>
@@ -802,7 +801,7 @@ function renderMap() {
         </div>
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
           <span style="font-family:'DM Mono',monospace;font-size:10px;color:${sColor(a.sentiment)};font-weight:600;text-transform:uppercase">${sLabel(a.sentiment)}</span>
-          <span style="font-family:'DM Mono',monospace;font-size:10px;color:#8892a4">${escHtml(a.source)}</span>
+          <span style="font-family:'DM Mono',monospace;font-size:10px;color:#8892a4">${srcName(a.source)}</span>
           <span style="font-family:'DM Mono',monospace;font-size:10px;color:#8892a4">${relTime(a.timestamp)}</span>
         </div>
         <a href="${escHtml(a.url)}" target="_blank"
@@ -878,9 +877,9 @@ function renderAnalytics() {
     data: {
       labels: days.map(d => d.slice(5)),
       datasets: [
-        {label:'Positive', data:days.map(d=>byDay[d].p), borderColor:'#059669', backgroundColor:'rgba(5,150,105,.08)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#059669'},
-        {label:'Negative', data:days.map(d=>byDay[d].n), borderColor:'#dc2626', backgroundColor:'rgba(220,38,38,.06)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#dc2626'},
-        {label:'Neutral',  data:days.map(d=>byDay[d].u), borderColor:'#d97706', backgroundColor:'rgba(217,119,6,.04)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#d97706'},
+        {label:'Positive', data:days.map(d=>byDay[d].p), borderColor:'#1a1a1a', backgroundColor:'rgba(5,150,105,.08)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#1a1a1a'},
+        {label:'Negative', data:days.map(d=>byDay[d].n), borderColor:'#f0f0f0', backgroundColor:'rgba(220,38,38,.06)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#f0f0f0'},
+        {label:'Neutral',  data:days.map(d=>byDay[d].u), borderColor:'#888888', backgroundColor:'rgba(217,119,6,.04)', fill:true, tension:.35, pointRadius:3, pointBackgroundColor:'#888888'},
       ]
     },
     options: {
@@ -990,7 +989,7 @@ function renderAnalytics() {
   // 2 · Bull/Bear ratio %
   const bbRatio = dailyKeys.map(d=>{const t=byDay[d].p+byDay[d].n; return t ? +(byDay[d].p/t*100).toFixed(1):null;});
   mkChart('ch-bb-ratio',{type:'line',data:{labels:shortLbls,datasets:[
-    {label:'Bull%',data:bbRatio,borderColor:'#059669',backgroundColor:'rgba(5,150,105,.08)',fill:true,tension:.3,pointRadius:2,spanGaps:true},
+    {label:'Bull%',data:bbRatio,borderColor:'#1a1a1a',backgroundColor:'rgba(5,150,105,.08)',fill:true,tension:.3,pointRadius:2,spanGaps:true},
     {label:'50%',data:dailyKeys.map(()=>50),borderColor:'rgba(100,100,100,.3)',borderDash:[4,4],borderWidth:1,pointRadius:0},
   ]},options:{...BASE_OPT,plugins:{legend:{display:false}},scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR},min:0,max:100}}}});
 
@@ -998,7 +997,7 @@ function renderAnalytics() {
   const netSent = dailyKeys.map(d=>byDay[d].p - byDay[d].n);
   mkChart('ch-diverge',{type:'bar',data:{labels:shortLbls,datasets:[{label:'Net',data:netSent,
     backgroundColor:netSent.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'),
-    borderColor:netSent.map(v=>v>=0?'#059669':'#dc2626'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
+    borderColor:netSent.map(v=>v>=0?'#1a1a1a':'#f0f0f0'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
     options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR}}}}});
 
   // 4 · Cumulative volume
@@ -1054,7 +1053,7 @@ function renderAnalytics() {
   const roc=dailyVol.map((v,i)=>i===0?0:+(((v-(dailyVol[i-1]||1))/(dailyVol[i-1]||1))*100).toFixed(1));
   mkChart('ch-momentum',{type:'bar',data:{labels:shortLbls,datasets:[{label:'ROC%',data:roc,
     backgroundColor:roc.map(v=>v>=0?'rgba(5,150,105,.6)':'rgba(220,38,38,.6)'),
-    borderColor:roc.map(v=>v>=0?'#059669':'#dc2626'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
+    borderColor:roc.map(v=>v>=0?'#1a1a1a':'#f0f0f0'),borderWidth:1,borderRadius:3,borderSkipped:false}]},
     options:{...BASE_OPT,scales:{x:{ticks:TICK_STYLE,grid:{display:false}},y:{ticks:TICK_STYLE,grid:{color:GRID_COLOR}}}}});
 
   // 11 · Sentiment Gauge (half-doughnut, weighted: pos=100, neut=50, neg=0)
@@ -1063,7 +1062,7 @@ function renderAnalytics() {
     (D.filter(a=>a.sentiment==='positive').length*100 +
      D.filter(a=>a.sentiment==='neutral').length*50) / gaugeTotal
   ) : 50;
-  const gaugeColor = gaugeScore>=60?'#059669':gaugeScore<=40?'#dc2626':'#d97706';
+  const gaugeColor = gaugeScore>=60?'#1a1a1a':gaugeScore<=40?'#f0f0f0':'#888888';
   mkChart('ch-gauge',{type:'doughnut',data:{datasets:[{
     data:[gaugeScore, 100-gaugeScore],
     backgroundColor:[gaugeColor,'#e8ecf3'],
@@ -1115,7 +1114,7 @@ function renderAnalytics() {
   document.getElementById('tbl-body').innerHTML = D.map(a => `
     <tr onclick="window.open('${escHtml(a.url)}','_blank')">
       <td class="td-title">${escHtml(a.title_en||a.title)}</td>
-      <td><span class="tag">${escHtml(a.source)}</span></td>
+      <td><span class="tag">${srcName(a.source)}</span></td>
       <td style="text-transform:capitalize">${escHtml(a.category||'—')}</td>
       <td>${mkBadge(a.sentiment)}</td>
       <td style="font-family:'DM Mono',monospace;font-size:11px;color:var(--text3)">${relTime(a.timestamp)}</td>
