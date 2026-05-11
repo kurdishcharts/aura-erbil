@@ -1,10 +1,10 @@
 """
-Aura-Erbil — Main Scraper with GitHub Models AI
-Scrapes Rudaw RSS + listing pages. Saves real pubDate, not scrape time.
+Aura-Erbil — Main Scraper (Sitemap-based)
+Fetches article URLs + real publish dates from Rudaw's sitemap.
 Runs every 30 min via GitHub Actions.
 """
 
-import feedparser, hashlib, json, os, random, re, sqlite3, time
+import hashlib, json, os, random, re, sqlite3, time, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from urllib import robotparser
 from urllib.parse import urljoin, urlparse
@@ -14,13 +14,12 @@ from bs4 import BeautifulSoup
 
 # ── Config ───────────────────────────────────────────────────────────────────
 BASE_URL          = "https://www.rudaw.net"
-RUDAW_RSS         = "https://www.rudaw.net/rss"
-LIST_PATHS        = ["/english", "/sorani/kurdistan", "/sorani/middleeast", "/sorani/business"]
+SITEMAP_INDEX     = "https://www.rudaw.net/sitemap.xml"
 USER_AGENT        = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0"
 DB_PATH           = "data/aura.db"
 JSON_EXPORT       = "data/data.json"
 MAX_AGE_DAYS      = 30
-MAX_PAGES_PER_RUN = 20
+MAX_PAGES_PER_RUN = 30
 MIN_DELAY         = 3.0
 MAX_DELAY         = 5.0
 BACKOFF_BASE      = 2.0
@@ -103,17 +102,6 @@ def _make_id(url):
 
 def _now_iso():
     return datetime.now(timezone.utc).isoformat()
-
-def _parse_pub_date(entry):
-    """Extract real publish date from RSS entry. Never falls back to scrape time."""
-    for attr in ("published_parsed", "updated_parsed", "created_parsed"):
-        t = getattr(entry, attr, None)
-        if t:
-            try:
-                return datetime(*t[:6], tzinfo=timezone.utc).isoformat()
-            except Exception:
-                pass
-    return None  # unknown — better than a lie
 
 def _clean_title(raw):
     return re.sub(r'^\d+\s+(second|minute|hour|day)s?\s+ago', '', raw or '', flags=re.IGNORECASE).strip()
@@ -228,7 +216,6 @@ def _ensure_db(conn):
             last_modified TEXT
         )
     """)
-    # Add columns if missing (safe migration)
     for col, defn in [("title_en","TEXT"), ("entities","TEXT DEFAULT '[]'"),
                       ("loc_name","TEXT"), ("lat","REAL"), ("lng","REAL"),
                       ("published_at","TEXT"), ("breaking","INTEGER DEFAULT 1")]:
@@ -239,14 +226,12 @@ def _ensure_db(conn):
     conn.commit()
 
 def _upsert(conn, item):
-    """Insert or update — never overwrites already-enriched sentiment/category."""
     existing = conn.execute(
         "SELECT sentiment, category, title_en, lat, lng FROM articles WHERE id=?",
         (item["id"],)
     ).fetchone()
 
     if existing:
-        # Only update fields that are missing/neutral
         updates, vals = [], []
         if not existing["title_en"] or existing["title_en"] == item["title"]:
             updates.append("title_en=?"); vals.append(item.get("title_en", item["title"]))
@@ -316,48 +301,121 @@ def _export(conn):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"  Exported {len(records)} records → {JSON_EXPORT}")
 
-# ── RSS Ingestion ─────────────────────────────────────────────────────────────
-def ingest_rss(conn):
-    print(f"\n→ RSS: {RUDAW_RSS}")
-    feed = feedparser.parse(RUDAW_RSS)
+# ── Sitemap Scraper ──────────────────────────────────────────────────────────
+def _parse_sitemap_index():
+    """Fetch the sitemap index and return a list of sub-sitemap URLs."""
+    print(f"\n→ Sitemap index: {SITEMAP_INDEX}")
+    xml_data = _fetch(SITEMAP_INDEX)
+    if not xml_data:
+        return []
+    try:
+        root = ET.fromstring(xml_data)
+        ns = '{http://www.sitemaps.org/schemas/sitemap/0.9}'
+        return [elem.find(f'{ns}loc').text for elem in root.findall(f'{ns}sitemap') if elem.find(f'{ns}loc') is not None]
+    except Exception as e:
+        print(f"  Error parsing sitemap index: {e}")
+        return []
+
+def _parse_sub_sitemap(url):
+    """Fetch a sub-sitemap and return list of (article_url, lastmod_date)."""
+    print(f"  → Sub-sitemap: {url}")
+    xml_data = _fetch(url)
+    if not xml_data:
+        return []
+    entries = []
+    try:
+        root = ET.fromstring(xml_data)
+        ns = '{http://www.sitemaps.org/schemas/sitemap/0.9}'
+        for url_elem in root.findall(f'{ns}url'):
+            loc = url_elem.find(f'{ns}loc')
+            lastmod = url_elem.find(f'{ns}lastmod')
+            if loc is not None and loc.text:
+                entry_url = loc.text.strip()
+                # Only include article URLs (exclude /authors/, /opinion/, etc.)
+                if '/authors/' not in entry_url and '/opinion/' not in entry_url:
+                    date_str = lastmod.text.strip() if lastmod is not None and lastmod.text else None
+                    if date_str:
+                        entries.append((entry_url, date_str))
+    except Exception as e:
+        print(f"    Error parsing sub-sitemap: {e}")
+    return entries
+
+def _extract_article_data(html, url):
+    """Extract title and body from an article page."""
+    soup = BeautifulSoup(html, "html.parser")
+    # Title
+    h1 = soup.find("h1")
+    title = h1.get_text(strip=True) if h1 else None
+    if not title:
+        return None, None
+    # Body
+    body = ""
+    for sel in ["article", ".article-body", ".story-body", "main", ".content"]:
+        tag = soup.select_one(sel)
+        if tag:
+            body = tag.get_text(separator=" ", strip=True)[:2000]
+            break
+    return title, body
+
+def ingest_sitemap(conn):
+    """Main ingestion: sitemap → real dates → AI enrichment."""
+    sub_sitemaps = _parse_sitemap_index()
+    if not sub_sitemaps:
+        print("  No sub-sitemaps found.")
+        return 0
+
+    # Collect entries from all sub-sitemaps
+    all_entries = []
+    for sub_url in sub_sitemaps:
+        entries = _parse_sub_sitemap(sub_url)
+        all_entries.extend(entries)
+
+    # Sort by lastmod descending
+    all_entries.sort(key=lambda x: x[1], reverse=True)
+
+    # Take the most recent up to MAX_PAGES_PER_RUN
+    to_fetch = all_entries[:MAX_PAGES_PER_RUN]
+    print(f"  Collected {len(to_fetch)} most recent articles from sitemap(s)")
+
     saved = 0
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
-
-    for entry in feed.entries:
-        url = entry.get("link", "")
-        if not url:
+    for article_url, lastmod in to_fetch:
+        if not _allowed(article_url):
             continue
 
-        # Get REAL publish date from RSS
-        pub_date = _parse_pub_date(entry)
-        if pub_date:
-            try:
-                if datetime.fromisoformat(pub_date.replace("Z", "+00:00")) < cutoff:
-                    continue
-            except Exception:
-                pass
-
-        title = _clean_title(entry.get("title", ""))
-        summary = entry.get("summary", "") or entry.get("description", "")
-        summary = re.sub(r'<[^>]+>', '', summary).strip()
-        article_id = _make_id(url)
-
-        # Skip if already enriched
+        article_id = _make_id(article_url)
         existing = conn.execute(
-            "SELECT sentiment FROM articles WHERE id=?", (article_id,)
+            "SELECT sentiment, published_at FROM articles WHERE id=?", (article_id,)
         ).fetchone()
-        if existing and existing["sentiment"] not in ("neutral", None, ""):
+        if existing and existing["sentiment"] not in ("neutral", None, "") and existing["published_at"]:
             continue
 
-        enrichment = _enrich_with_ai(title, summary)
+        html = _fetch(article_url)
+        if not html:
+            continue
 
+        title, body = _extract_article_data(html, article_url)
+        if not title:
+            continue
+
+        # Determine source label
+        if '/sorani/' in article_url:
+            source = "rudaw-sorani"
+        elif '/english/' in article_url:
+            source = "rudaw-english"
+        else:
+            source = "rudaw"
+
+        # Convert lastmod to ISO format
+        pub_date = lastmod if lastmod else None
+
+        enrichment = _enrich_with_ai(title, body)
         item = {
             "id":           article_id,
-            "url":          url,
-            "title":        title,
+            "url":          article_url,
+            "title":        _clean_title(title),
             "title_en":     enrichment.get("title_en", title),
-            "summary":      summary[:500],
-            "source":       "Rudaw",
+            "summary":      body[:500],
+            "source":       source,
             "category":     enrichment.get("category", "general"),
             "sentiment":    enrichment.get("sentiment", "neutral"),
             "entities":     enrichment.get("entities", []),
@@ -369,131 +427,25 @@ def ingest_rss(conn):
         }
         _upsert(conn, item)
         saved += 1
-        print(f"  [saved] {enrichment.get('sentiment','?'):8} | {title[:60]}")
+        print(f"  [saved] {enrichment.get('sentiment','?'):8} | {title[:55]}")
 
-    print(f"  RSS: {saved} new/updated articles")
+    print(f"  Sitemap: {saved} new/updated articles")
     return saved
-
-# ── Listing page scraper (fallback) ──────────────────────────────────────────
-def _parse_article_date(soup):
-    """Try to extract article publish date from HTML."""
-    # Try meta tags first (most reliable)
-    for sel in ["meta[property='article:published_time']",
-                "meta[name='pubdate']",
-                "meta[itemprop='datePublished']"]:
-        tag = soup.select_one(sel)
-        if tag and tag.get("content"):
-            try:
-                dt = datetime.fromisoformat(tag["content"].replace("Z", "+00:00"))
-                return dt.astimezone(timezone.utc).isoformat()
-            except Exception:
-                pass
-    # Try time tags
-    for tag in soup.select("time[datetime]"):
-        try:
-            dt = datetime.fromisoformat(tag["datetime"].replace("Z", "+00:00"))
-            return dt.astimezone(timezone.utc).isoformat()
-        except Exception:
-            pass
-    return None  # Unknown — don't save scrape time as a lie
-
-def _parse_listing(html, base_url):
-    soup = BeautifulSoup(html, "html.parser")
-    links = []
-    for a in soup.select("a[href]"):
-        href = urljoin(base_url, a["href"])
-        if urlparse(href).netloc == urlparse(base_url).netloc:
-            if re.search(r'/\d{4,}|/news/|/story/', href):
-                title = a.get_text(strip=True)
-                if len(title) > 15:
-                    links.append((href, title))
-    # Deduplicate
-    seen = set()
-    result = []
-    for href, title in links:
-        if href not in seen:
-            seen.add(href)
-            result.append((href, title))
-    return result
-
-def ingest_scrape(conn):
-    total_saved = 0
-    for path in LIST_PATHS:
-        url = urljoin(BASE_URL, path)
-        if not _allowed(url):
-            continue
-        print(f"\n→ Listing: {url}")
-        html = _fetch(url)
-        if not html:
-            continue
-        links = _parse_listing(html, BASE_URL)
-        print(f"  Found {len(links)} potential articles")
-        saved = 0
-        for article_url, title_hint in links[:MAX_PAGES_PER_RUN]:
-            article_id = _make_id(article_url)
-            existing = conn.execute(
-                "SELECT sentiment, published_at FROM articles WHERE id=?", (article_id,)
-            ).fetchone()
-            # Skip if already enriched with real data
-            if existing and existing["sentiment"] not in ("neutral", None, "") and existing["published_at"]:
-                continue
-            if not _allowed(article_url):
-                continue
-            html = _fetch(article_url)
-            if not html:
-                continue
-            soup = BeautifulSoup(html, "html.parser")
-            # Get real publish date from article HTML
-            pub_date = _parse_article_date(soup)
-            # Extract body
-            body = ""
-            for sel in ["article", ".article-body", ".story-body", "main", ".content"]:
-                tag = soup.select_one(sel)
-                if tag:
-                    body = tag.get_text(separator=" ", strip=True)[:2000]
-                    break
-            title = _clean_title(
-                soup.select_one("h1") and soup.select_one("h1").get_text(strip=True) or title_hint
-            )
-            source = "rudaw-" + ("sorani" if any(c > '\u0600' for c in title) else "english")
-            enrichment = _enrich_with_ai(title, body)
-            item = {
-                "id":           article_id,
-                "url":          article_url,
-                "title":        title,
-                "title_en":     enrichment.get("title_en", title),
-                "summary":      body[:500],
-                "source":       source,
-                "category":     enrichment.get("category", "general"),
-                "sentiment":    enrichment.get("sentiment", "neutral"),
-                "entities":     enrichment.get("entities", []),
-                "loc_name":     enrichment.get("loc_name", "Erbil"),
-                "lat":          enrichment.get("lat", 36.1912),
-                "lng":          enrichment.get("lng", 44.0092),
-                "published_at": pub_date,
-                "breaking":     1,
-            }
-            _upsert(conn, item)
-            saved += 1
-            print(f"  [saved] {enrichment.get('sentiment','?'):8} | {title[:55]}")
-        total_saved += saved
-    return total_saved
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 def _run():
-    print("=== Aura-Erbil Main Scraper ===")
+    print("=== Aura-Erbil Main Scraper (Sitemap) ===")
     os.makedirs("data", exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     _ensure_db(conn)
 
-    rss_saved = ingest_rss(conn)
-    scrape_saved = ingest_scrape(conn) if rss_saved < 5 else 0
+    ingested = ingest_sitemap(conn)
 
     _prune(conn)
     _export(conn)
     conn.close()
-    print(f"\n=== Done: {rss_saved} from RSS, {scrape_saved} from scrape ===")
+    print(f"\n=== Done: {ingested} articles ===")
 
 if __name__ == "__main__":
     _run()
