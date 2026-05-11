@@ -149,7 +149,8 @@ def _enrich_with_ai(title_original: str, summary: str) -> dict:
               "shaqlawa":(36.5485,44.3397),"soran":(36.6539,44.5472)}
     CITIES = list(COORDS.keys())
     prompt = f"""You are a geopolitical analyst for the Kurdistan Region of Iraq (KRI).
-Return ONLY valid JSON with exactly these 4 keys:
+Return ONLY valid JSON with exactly these 5 keys:
+"title_en": English translation of the original title (if Sorani, translate; if already English, keep as is)
 "sentiment": "positive"|"negative"|"neutral" — impact on KRI only
 "category": security|politics|economy|infrastructure|weather|fire|traffic|health|culture|general
 "entities": up to 5 objects with name and type (PERSON/ORGANIZATION/LOCATION)
@@ -167,7 +168,7 @@ Return ONLY the JSON object:"""
         data = json.loads(resp.choices[0].message.content.strip())
         loc = (data.get("location_key") or "erbil").lower().strip()
         lat,lng = COORDS.get(loc,(36.1912,44.0092))
-        return {"title_en":title_original,
+        return {"title_en":data.get("title_en", title_original),
                 "category":data.get("category","general"),
                 "sentiment":data.get("sentiment","neutral"),
                 "entities":data.get("entities",[]),
@@ -179,7 +180,7 @@ Return ONLY the JSON object:"""
 def _keyword_fallback(title_original: str, summary: str) -> dict:
     combined = (title_original or "") + " " + (summary or "")
     loc = _detect_location(combined)
-    return {"title_en":title_original,"category":_detect_category(combined),
+    return {"title_en":data.get("title_en", title_original),"category":_detect_category(combined),
             "loc_name":loc["name"],"lat":loc["lat"],"lng":loc["lng"],
             "sentiment":"neutral","entities":[]}
 

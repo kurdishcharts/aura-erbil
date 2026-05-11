@@ -1,6 +1,8 @@
 #!/bin/bash
 cd ~/aura-erbil
 source venv/bin/activate
+exec >> ~/aura-erbil/enrich.log 2>&1
+echo "=== $(date) ==="
 
 # Start Ollama if not running
 if ! pgrep -x "ollama" > /dev/null; then
@@ -63,26 +65,55 @@ def translate_title(title):
 # Sentiment enrichment – Kurdistan‑aware (same as before)
 # ------------------------------------------------------------
 def enrich(title, summary):
-    prompt = f"""You are an expert geopolitical analyst for the Kurdistan Region of Iraq.
-Your job is to classify news articles based on their impact on the **Kurdistan Region** only.
+    SORANI_CITIES = """
+SORANI SCRIPT TO CITY NAME (use these to detect location in Kurdish text):
+هەولێر = erbil        |  سلێمانی = sulaymaniyah  |  دهۆک = duhok
+هەڵەبجە = halabja     |  زاخۆ = zakho             |  ڕانیە = ranya
+کۆیە = koya           |  ئامێدی = amadiya          |  چەمچەماڵ = chamchamal
+شەقڵاوە = shaqlawa   |  کەرکووک = kirkuk          |  مەخمووڕ = makhmur
+سۆران = soran         |  دەربەندیخان = darbandikhan|  پەنجوێن = penjwin
+بارزان = barzan       |  ڕاوەندوز = rawanduz       |  عەقرە = akre
+"""
+    KURDISTAN_CITIES = ["erbil","hewler","sulaymaniyah","slemani","duhok","halabja","zakho","ranya","koya","amadiya","chamchamal","penjwin","kirkuk","sinjar","makhmur","raparin","darbandikhan","shaqlawa","rawanduz","barzan","akre","soran"]
+    prompt = f"""You are an expert geopolitical analyst for the Kurdistan Region of Iraq (KRI).
 
-**Key rule:** 
-- If an article is about another country’s internal affairs and does NOT directly involve or affect Kurdistan, mark it as **neutral**.
-- If an article is about Kurdistan (any city like Erbil, Duhok, Sulaymaniyah, Halabja, Kirkuk), or about Kurdish diaspora, or about international events that **directly impact Kurdistan** (e.g., Strait of Hormuz crisis → affects oil exports; global pandemics → affect the region), then classify sentiment accordingly.
+TASK: Analyse the article below and return a JSON object with EXACTLY these 5 keys.
 
-**Sentiment definitions (Kurdistan perspective):**
-- **POSITIVE** – good for Kurdistan’s economy, security, diplomacy, infrastructure, minority rights, tourism, autonomy, international standing.
-- **NEGATIVE** – bad for Kurdistan’s stability or interests.
-- **NEUTRAL** – no clear impact on Kurdistan.
+1. sentiment — impact on the Kurdistan Region ONLY:
+   "positive": good for KRI economy, security, autonomy, diplomacy, infrastructure, rights
+   "negative": bad for KRI stability, security, economy, sovereignty
+   "neutral": about another country with no direct KRI impact
 
-**Additional tasks:**
-1. Categorise the article into ONE of: security, fire, traffic, infrastructure, weather, general.
-2. Extract up to 5 named entities relevant to the region. Each must have a "name" and a "type" (PERSON, ORGANIZATION, or LOCATION).
+2. category — ONE of: security | politics | economy | infrastructure | weather | fire | traffic | health | culture | general
 
-Return ONLY a valid JSON object (no extra text) with exactly these keys:
-{{"category": "…", "sentiment": "positive|negative|neutral", "entities": [{{"name": "…", "type": "…"}}] }}
+3. entities — up to 5 named entities directly relevant to KRI. Each: {{"name": "...", "type": "PERSON|ORGANIZATION|LOCATION"}}
 
-**Now analyse this article:**
+4. location_key — the PRIMARY city or district this article is about, lowercase, ONE of:
+   {KURDISTAN_CITIES}
+   Return "erbil" if the article is about KRI generally.
+   Return null ONLY if the article is entirely about a place outside Iraqi Kurdistan.
+
+5. title_en — provide an English translation of the original title if it is in Sorani Kurdish (Arabic script). If already English, return the title unchanged.
+
+RULES:
+- If the article mentions Erbil, Sulaymaniyah, Duhok or other KRI cities — use that city as location_key.
+- If it mentions both KRI and outside places, use the KRI city.
+- Kurdish diaspora news → location_key "erbil", sentiment based on KRI impact.
+- International events (oil prices, Turkey relations, Iran sanctions) → assess real KRI impact, do not auto-neutral.
+
+EXAMPLES:
+Title: "پەیوەندییەکانی هەولێر و ئەنقەرە باستر دەبێت"
+→ {{"sentiment":"positive","category":"politics","entities":[{{"name":"Erbil","type":"LOCATION"}},{{"name":"Ankara","type":"LOCATION"}}],"location_key":"erbil","title_en":"Relations between Erbil and Ankara strengthen"}}
+
+Title: "Terrorist attack kills 3 in Kirkuk marketplace"
+→ {{"sentiment":"negative","category":"security","entities":[{{"name":"Kirkuk","type":"LOCATION"}}],"location_key":"kirkuk","title_en":"Terrorist attack kills 3 in Kirkuk marketplace"}}
+
+Title: "US Federal Reserve raises interest rates"
+→ {{"sentiment":"neutral","category":"economy","entities":[{{"name":"US Federal Reserve","type":"ORGANIZATION"}}],"location_key":null,"title_en":"US Federal Reserve raises interest rates"}}
+
+{SORANI_CITIES}
+
+NOW ANALYSE:
 Title: {title}
 Body: {summary[:2000]}"""
     try:
@@ -162,10 +193,14 @@ with open("data/data.json","w") as f:
 conn2.close()
 print(f"\nExported {len(records)} records.")
 
-subprocess.run(["git","add","data/"], cwd=os.path.dirname(os.path.abspath(__file__)))
-subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=os.path.dirname(os.path.abspath(__file__)))
-subprocess.run(["git","pull","--rebase","origin","main"], cwd=os.path.dirname(os.path.abspath(__file__)))
-subprocess.run(["git","push","origin","main"], cwd=os.path.dirname(os.path.abspath(__file__)))
+# Git push via SSH (authentication works in cron)
+import subprocess, os
+proj_dir = os.path.dirname(os.path.abspath(__file__))
+subprocess.run(["git","add","data/"], cwd=proj_dir)
+subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
+subprocess.run(["git","stash"], cwd=proj_dir)   # stash any leftover changes
+subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
+subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes"})
 PYEOF
 
 # Stop Ollama to free RAM

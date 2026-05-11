@@ -56,6 +56,31 @@ jobs:
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
         continue-on-error: true
 
+      - name: Safety-net export (always exports latest data.json)
+        run: |
+          python3 -c "
+          import sqlite3, json
+          conn = sqlite3.connect('data/aura.db')
+          conn.row_factory = sqlite3.Row
+          rows = conn.execute('SELECT * FROM articles ORDER BY published_at DESC').fetchall()
+          records = []
+          for r in rows:
+              records.append({
+                  'id': r['id'], 'url': r['url'], 'title': r['title'],
+                  'title_en': r['title_en'] or r['title'], 'summary': r['summary'],
+                  'source': r['source'], 'category': r['category'],
+                  'sentiment': r['sentiment'] or 'neutral',
+                  'entities': json.loads(r['entities']) if r['entities'] else [],
+                  'breaking': 1, 'timestamp': r['published_at'],
+                  'location': {'name': r['loc_name'], 'lat': r['lat'], 'lng': r['lng']}
+              })
+          with open('data/data.json', 'w') as f:
+              json.dump(records, f, ensure_ascii=False, indent=2)
+          print(f'Safety-net exported {len(records)} records')
+          conn.close()
+          "
+        continue-on-error: true
+      
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
