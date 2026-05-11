@@ -6,9 +6,18 @@
     "title_en": "Iran to treat price gougers as agents of US, Israel",
     "summary": "ERBIL, Kurdistan Region - Anyone engaging in price gouging will be treated as an “agent” of the United States and Israel, a senior Iranian official warned on Sunday, adding that the legislature is set to hold a session to review “suspicious domestic movements.” The statement comes as the cost of living continues to rise for ordinary Iranian families and as a comprehensive resolution to the Iran war is still pending. “The parliament will hold an extraordinary session on Sunday to review price hikes unrelated to the war, and those responsible for driving up prices will be dealt with in coordination with measures against the United States and the Zionist [Israeli] regime,” said Hamid Reza Haji Babaei, Iran’s deputy parliament speaker. He alleged that “suspicious domestic movements” are unfolding in local markets aimed at creating public dissatisfaction and opening a new front against the Islamic Republic. “Our red line is public satisfaction and anyone who knowingly or unknowingly engages in hoarding or price gouging will be dealt with decisively and treated as an agent of the United States,” Hajji Babaei added. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country over six weeks of hostilities before the sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports in mid-April. Haji Babaei also claimed that Iran, by using land crossings across 16 border provinces with neighboring countries, has managed to mi",
     "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:35:20.778704+00:00",
     "location": {
@@ -24,9 +33,14 @@
     "title_en": "Baghdad plans to buy Kurdistan electricity to meet summer demand",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:35:03.995603+00:00",
     "location": {
@@ -42,9 +56,18 @@
     "title_en": "Kurds, Sunnis reach cabinet deal as US blocks armed factions: Official",
     "summary": "ERBIL, Kurdistan Region - A senior figure in Iraq’s al-Hikma Movement said on Sunday that Kurdish and Sunni political parties have reached an agreement with Prime Minister-designate Ali al-Zaidi on their shares in the incoming cabinet, as parliament prepares to vote on the new government within days, adding that the US opposes granting ministries to armed factions unless they disarm. “According to information, our Kurdish and Sunni brothers have reached an agreement with the Prime Minister-designate, and their ministries will remain as they are,” Abdullah al-Zaidi, an advisor to the Iraqi president and senior member of the Shiite al-Hikma Movement, led by Ammar al-Hakim, told Rudaw. The politician also said the Kurds are expected to receive four ministries and Sunnis six, with the possible addition of a deputy prime minister position without a ministry. His remarks come as Iraq’s parliament prepares for a confidence vote on the new cabinet in the coming days, according to the secretary-general of the legislature Safwan al-Jarjari who said late Saturday that all preparations for the session had been finalized and that invitations would be sent to political leaders and diplomats ahead of the vote, which could take place on Monday or Tuesday. “We hope the government will pass by the middle or end of this week. If not Tuesday, I expect it to be Thursday,” al-Hikma’s Zaidi said, adding that the cabinet could still secure approval “with an absolute majority” even if not fully complete. Zaidi said the ruling Shiite Coordination Framework is facing two major obstacles in finalizing the cabinet lineup, the first being the issue of armed factions seeking ministries. “The US has a veto on those forces that have armed wings and wish to take over ministries,” he said. “Washington has a condition that these parties must engage only in political work and hand over their weapons - specifically missiles and drones - to the official security forces,” the al-Hikma official added. Wash",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:34:28.563892+00:00",
     "location": {
@@ -60,9 +83,18 @@
     "title_en": "Iran sends response to US proposal via Pakistan",
     "summary": "ERBIL, Kurdistan Region - Iran on Sunday sent its response to the US proposal to end the war to Pakistan, state media reported, days after Tehran said the document was “under review.” “The response of the Islamic Republic of Iran to the latest US proposed text for ending the war was sent today through a Pakistani mediator,” the Islamic Republic of Iran Broadcaster (IRIB) reported. “According to the proposed plan, this phase of negotiations will focus on ending the war in the region,” the state-run outlet added. Tehran’s foreign ministry spokesperson has stated on Wednesday that “the US plan and proposal [to end the escalation between the two sides] are still under review by Iran,” according to the state-affiliated Iranian Students' News Agency (ISNA). Esmaeil Baghaei then informed that Tehran will convey its position to the Pakistani side once the assessment process is complete. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country over six weeks of hostilities before the sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Earlier in the week, the American website Axios reported that Washington and Tehran are moving closer to agreeing on a one-page memorandum of understanding that could end hostilities and establish a framework for broader nuclear talks, according to US officials and sources familiar with the matter. The report added that Washington expects Iran to respond “on several",
     "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:34:16.728112+00:00",
     "location": {
@@ -78,9 +110,18 @@
     "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Democratic Party",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Halabousi",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:34:06.108083+00:00",
     "location": {
@@ -93,12 +134,21 @@
     "id": "997f04220d936bc4",
     "url": "https://www.rudaw.net/sorani/world/0104202612",
     "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "title_en": "Trump's attack on the house of Nuri Barzani in Erbil thwarted",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ چۆڵەکە و کۆتر و باڵندەی دیکەی نێو شارەکان زیاتر لە ژنان دەترسن وەک لە پیاوان.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nuri Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:58.932436+00:00",
     "location": {
@@ -111,12 +161,21 @@
     "id": "fe2eed1c17764c9e",
     "url": "https://www.rudaw.net/sorani/world/100520268",
     "title": "سێنتکۆم: رێگریمان لە 61 کەشتی کردووە بچنە بەندەرەکانی ئێران",
-    "title_en": "سێنتکۆم: رێگریمان لە 61 کەشتی کردووە بچنە بەندەرەکانی ئێران",
+    "title_en": "Saint-Come: Prevented 61 ships from entering Iranian ports",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ چۆڵەکە و کۆتر و باڵندەی دیکەی نێو شارەکان زیاتر لە ژنان دەترسن وەک لە پیاوان.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Saint-Come",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:47.600049+00:00",
     "location": {
@@ -129,12 +188,21 @@
     "id": "5872dd28c722c1b7",
     "url": "https://www.rudaw.net/sorani/business/150620234",
     "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "This new housing project in Erbil will be unveiled",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی دارایی و ئابووریی هەرێمی کوردستان رایگەیاند، داهاتی نانەوتییان بۆ مانگی نیسان خستووەتە سەر هەژماری بانکیی وەزارەتی دارایی عێراق، کە زیاتر لە 50 ملیار دینارە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region Government",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:36.908093+00:00",
     "location": {
@@ -147,12 +215,21 @@
     "id": "9e2876e34285adf6",
     "url": "https://www.rudaw.net/sorani/kurdistan/1005202622",
     "title": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
-    "title_en": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
+    "title_en": "Seven people killed in a gas leak in Qamishli",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جێگری سەرۆکوەزیرانی هەرێمی کوردستان راگەیاند، بۆ هەردوو بژاردەی دووبارەکردنەوەی هەڵبژاردن یان پێکهێنانی کابینەی دەیەم ئامادەن و گوتی، \"بۆ پێکهێنانی حکومەت مەرجمان هەیە کە یەکێتی هاوبەشێکی راستەقینە بێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "health",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Qamishli",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Hawler",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:27.323548+00:00",
     "location": {
@@ -165,12 +242,17 @@
     "id": "82512c0878c9213e",
     "url": "https://www.rudaw.net/sorani/middleeast/100520265",
     "title": "سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو",
-    "title_en": "سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو",
+    "title_en": "Lebanese-Syrian diplomat arrested who claimed to be a security official at the embassy",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای پچڕانی پرۆسەکە بۆ 18 ساڵ، میسر جارێکی دیکە هەناردەکردنی ئەسپی رەسەنی عەرەبی بۆ عێراق دەستپێکردەوە. یەکەم کاروانی ئەسپەکانیش گەیشتە عێراق",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:15.152590+00:00",
     "location": {
@@ -183,30 +265,48 @@
     "id": "ec9c1b9336e27a24",
     "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
     "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "title_en": "Ministry of Higher Education Requests Special Internet Allowance for Online Learning",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Ministry of Higher Education",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:31:05.424124+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "e9f6a241aebb5462",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/100520266",
     "title": "عێراق وەزارەتێکی هاوتەریب لەگەڵ وەزارەتی دەرەوە دروستدەکات",
-    "title_en": "عێراق وەزارەتێکی هاوتەریب لەگەڵ وەزارەتی دەرەوە دروستدەکات",
+    "title_en": "Iraq Establishes a Joint Ministry with the Foreign Ministry",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی خوێندنی باڵا و توێژینەوەی زانستیی عێراق، بە فەرمی دەستپێکردنی پرۆسەی پێشکێشکردنی ئەلیکترۆنی بۆ خوێندنی باڵا (دکتۆرا، ماستەر و دبلۆم) بۆ ساڵی خوێندنی 2025-2026 راگەیاند و کۆتایی مانگی داهاتوو تاقیکردنەوە دەکرێت.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Foreign Ministry",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:30:53.168575+00:00",
     "location": {
@@ -222,9 +322,18 @@
     "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
     "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
     "source": "rudaw-scrape",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Marco Rubio",
+        "type": "PERSON"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:04:42.322738+00:00",
     "location": {
@@ -241,8 +350,17 @@
     "summary": "ERBIL, Kurdistan Region - Iran’s navy said that any “aggression” against its tankers and vessels would trigger a “heavy assault” on one of the United States’ “centers in the region,” as well as on its ships, Iranian state media reported on Sunday, shortly after the US Central Command stated that a naval blockade on Iranian ports remains in effect and that its forces have redirected nearly 60 commercial vessels and disabled four ships linked to Tehran since the blockade. The Islamic Revolutionary Guard Corps (IRGC) said that “any aggression toward Iranian oil tankers and commercial vessels will result in a heavy assault against one of the American centers in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet added that the IRGC navy on Friday “opened fire on US military destroyers” in response to what it described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” The incident followed the approach of US destroyers toward the Strait of Hormuz, IRNA said, adding that, during a “highly coordinated operation,” the IRGC targeted the American destroyers “using a range of anti-ship ballistic and cruise missiles, as well as explosive-laden drones.” Earlier on Saturday, CENTCOM said that “the U.S. naval blockade against Iran continues to be fully enforced,” adding that as of that day, its forces had “redirected 58 commercial vessels and disabled four” since the blockade was initiated on April 13, in order “to prevent ships from entering or leaving Iranian ports.” The latest incident occurred on Friday, when US forces disabled two Iranian-flagged oil tankers - the Motor Tanker (M/T) Sea Star III and M/T Sevda - after they attempted to enter an Iranian port via the Gulf of Oman in violation of the blockade, according to CENTCOM. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "United States",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:04:28.682524+00:00",
     "location": {
@@ -258,9 +376,22 @@
     "title_en": "Vessel hit by projectile near Qatar as maritime tensions escalate",
     "summary": "ERBIL, Kurdistan Region - A commercial vessel was struck by an “unidentified projectile” near Qatar, the British maritime security monitor said on Sunday, as Qatar’s defense ministry later stated that a vessel coming from Abu Dhabi was “targeted by a drone.” The incident comes amid escalating tensions between Iran and the United States in the Persian Gulf. The United Kingdom Maritime Trade Operations (UKMTO) said it received a report of “an incident 23nm [nautical miles] northeast of Doha, Qatar,” in which “the master of a bulk carrier” reported being “hit by an unknown projectile,” causing “a small fire that has been extinguished.” “Authorities are investigating,” the monitor added, advising vessels to “transit with caution and report any suspicious activity to UKMTO.” The Qatari defense ministry later said in a statement that “a commercial cargo vessel in the country’s territorial waters - northeast of Mesaieed Port - coming from Abu Dhabi, was targeted by a drone on Sunday morning.” “The incident resulted in a limited fire onboard the vessel, with no reported injuries,” the ministry added, noting that the vessel “continued its journey toward Mesaieed Port after the fire was brought under control” and that “the necessary measures were taken, and coordination was carried out with the relevant authorities.” Earlier on Sunday, the Islamic Revolutionary Guard Corps (IRGC)navy command  said that “any aggression toward Iranian oil tankers and commercial vessels will result in a heavy assault against one of the American centers in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet added that the IRGC navy on Friday “opened fire on US military destroyers” in response to what it described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” The incident followed the approach of US destroyers toward the Strait of Hormuz, IRNA said, addi",
     "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "United States",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Qatar",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:04:11.451193+00:00",
     "location": {
@@ -273,30 +404,48 @@
     "id": "4246cd1f53dfba7a",
     "url": "https://www.rudaw.net/sorani/kurdistan/1005202624",
     "title": "مەزڵووم عەبدی: سەرەتای شەڕی داعش هاوپەیمانان لە یارمەتیدانمان دەترسان",
-    "title_en": "مەزڵووم عەبدی: سەرەتای شەڕی داعش هاوپەیمانان لە یارمەتیدانمان دەترسان",
+    "title_en": "Mazlum Abdul: The Beginning of the ISIS War Frightened Allies Who Were Supposed to Help Us",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جێگری سەرۆکوەزیرانی هەرێمی کوردستان راگەیاند، بۆ هەردوو بژاردەی دووبارەکردنەوەی هەڵبژاردن یان پێکهێنانی کابینەی دەیەم ئامادەن و گوتی، \"بۆ پێکهێنانی حکومەت مەرجمان هەیە کە یەکێتی هاوبەشێکی راستەقینە بێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Mazlum Abdul",
+        "type": "PERSON"
+      },
+      {
+        "name": "ISIS",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:02:12.824807+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "New developments regarding the anti-Muslim statements of Spanish protesters",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هەزاران هاندەر ئاهەنگ بۆ سەرکەوتنی ئامەدسپۆر دەگێڕن",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Spain",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Muslims",
+        "type": "GROUP"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:02:00.845745+00:00",
     "location": {
@@ -309,12 +458,21 @@
     "id": "d29c35cb86415af7",
     "url": "https://www.rudaw.net/sorani/world/1005202611",
     "title": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
-    "title_en": "ترەمپ وەڵامەکەی ئێرانی رەتکردەوە: بە هیچ شێوەیەک قبووڵکراو نییە",
+    "title_en": "Trump rejects Iranian response: Not accepted in any way",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا سێنتکۆم رایگەیاند، لە چوارچێوەی جێبەجێکردنی گەمارۆ دەریاییەکەی سەر تاران، تاوەکو ئێستا رێگرییان لە 61 کەشتیی بازرگانی کردووە کە هەوڵیانداوە بچنە ناو بەندەرەکانی ئێران یان لێی بێنە دەرەوە.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:01:49.577478+00:00",
     "location": {
@@ -327,12 +485,17 @@
     "id": "715711870088d9cb",
     "url": "https://www.rudaw.net/sorani/world/190620241",
     "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "title_en": "United States: The Flood and Drought Are Caused by the Effects of War",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ چۆڵەکە و کۆتر و باڵندەی دیکەی نێو شارەکان زیاتر لە ژنان دەترسن وەک لە پیاوان.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "weather",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:01:34.224873+00:00",
     "location": {
@@ -345,12 +508,17 @@
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
+    "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "culture",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:01:23.203102+00:00",
     "location": {
@@ -363,12 +531,21 @@
     "id": "109395490cc81733",
     "url": "https://www.rudaw.net/sorani/business/160620212",
     "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "Project for the Accommodation of Yves Avignon Towers",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی دارایی و ئابووریی هەرێمی کوردستان رایگەیاند، داهاتی نانەوتییان بۆ مانگی نیسان خستووەتە سەر هەژماری بانکیی وەزارەتی دارایی عێراق، کە زیاتر لە 50 ملیار دینارە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:01:11.300029+00:00",
     "location": {
@@ -381,12 +558,21 @@
     "id": "09d967de54f0dab6",
     "url": "https://www.rudaw.net/sorani/kurdistan/1005202623",
     "title": "ئێران و هاوکێشە نوێیەکانی ناوچەکە؛ ئیمارات و هەرێمی کوردستان وەک ئامانجێکی سەربازی",
-    "title_en": "ئێران و هاوکێشە نوێیەکانی ناوچەکە؛ ئیمارات و هەرێمی کوردستان وەک ئامانجێکی سەربازی",
+    "title_en": "Iran and the New Challenges in the Region; The UAE and Iraqi Kurdistan as Military Targets",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جێگری سەرۆکوەزیرانی هەرێمی کوردستان راگەیاند، بۆ هەردوو بژاردەی دووبارەکردنەوەی هەڵبژاردن یان پێکهێنانی کابینەی دەیەم ئامادەن و گوتی، \"بۆ پێکهێنانی حکومەت مەرجمان هەیە کە یەکێتی هاوبەشێکی راستەقینە بێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UAE",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T03:00:45.824400+00:00",
     "location": {
