@@ -84,20 +84,16 @@
     "title_en": "IRGC threatens ‘heavy’ response to US attacks on Iranian tankers, vessels",
     "summary": "ERBIL, Kurdistan Region - Iran’s navy said that any “aggression” against its tankers and vessels would trigger a “heavy assault” on one of the United States’ “centers in the region,” as well as on its ships, Iranian state media reported on Sunday, shortly after the US Central Command stated that a naval blockade on Iranian ports remains in effect and that its forces have redirected nearly 60 commercial vessels and disabled four ships linked to Tehran since the blockade. The Islamic Revolutionary Guard Corps (IRGC) said that “any aggression toward Iranian oil tankers and commercial vessels will result in a heavy assault against one of the American centers in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet added that the IRGC navy on Friday “opened fire on US military destroyers” in response to what it described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” The incident followed the approach of US destroyers toward the Strait of Hormuz, IRNA said, adding that, during a “highly coordinated operation,” the IRGC targeted the American destroyers “using a range of anti-ship ballistic and cruise missiles, as well as explosive-laden drones.” Earlier on Saturday, CENTCOM said that “the U.S. naval blockade against Iran continues to be fully enforced,” adding that as of that day, its forces had “redirected 58 commercial vessels and disabled four” since the blockade was initiated on April 13, in order “to prevent ships from entering or leaving Iranian ports.” The latest incident occurred on Friday, when US forces disabled two Iranian-flagged oil tankers - the Motor Tanker (M/T) Sea Star III and M/T Sevda - after they attempted to enter an Iranian port via the Gulf of Oman in violation of the blockade, according to CENTCOM. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Islamic Revolutionary Guard Corps (IRGC)",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "US Central Command",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Strait of Hormuz",
+        "name": "Iran",
         "type": "LOCATION"
+      },
+      {
+        "name": "United States",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -181,28 +177,24 @@
     "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Mehmed Mahmaud",
-        "type": "PERSON"
+        "name": "Kurdistan",
+        "type": "LOCATION"
       },
       {
-        "name": "Agrin Dlshad",
-        "type": "PERSON"
-      },
-      {
-        "name": "Hossein Madadi",
-        "type": "PERSON"
+        "name": "Kurdish music",
+        "type": "MUSIC"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:35:58.166448+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
@@ -212,16 +204,16 @@
     "title_en": "With Sorrow - Protecting the Environment",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "environment",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdistan Region",
+        "name": "Iraq",
         "type": "LOCATION"
       },
       {
-        "name": "Erbil",
-        "type": "LOCATION"
+        "name": "United Nations",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -260,15 +252,11 @@
     "title_en": "Iraq gains access to horse breeding",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لێکۆڵینەوەیەکی رۆژنامەی (واشنتن پۆست) کە پشت بە وێنەی مانگە دەستکردەکان دەبەستێت، باس لەوە دەکات کە هێرشە ئاسمانییەکانی ئێران لە سەرەتای جەنگەوە زیانیان بە لانیکەم 228 باڵەخانە و کەرەستەی سەربازیی ئەمریکا لە سەرانسەری رۆژهەڵاتی نێوەڕاست گەیاندووە. ئەم ئامارەش زۆر لەوە زیاترە کە حکومەتی ئەمریکا بە فەرمی دانی پێدا ناوە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "economy",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "US government",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Erbil",
+        "name": "Iraq",
         "type": "LOCATION"
       }
     ],
@@ -287,16 +275,16 @@
     "title_en": "Large oil spill occurs off the coast of Khark; risk to 100 million people",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەپێی میدیای ئێران، نزیکەی کاژێرێکە شەڕ و پێکدادان له نزیک تەنگەی هورمز دەستی پێکردووەتەوە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Khark",
         "type": "LOCATION"
       },
       {
-        "name": "Hormuz",
-        "type": "LOCATION"
+        "name": "Iran",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -375,28 +363,16 @@
     "title_en": "Iraqi police cracks down on crime in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Baghdad",
+        "name": "Kurdistan Region",
         "type": "LOCATION"
       },
       {
-        "name": "Erbil",
+        "name": "Iraq",
         "type": "LOCATION"
-      },
-      {
-        "name": "Rusafa",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraqi Police",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Jordan",
-        "type": "COUNTRY"
       }
     ],
     "breaking": 1,
@@ -414,28 +390,16 @@
     "title_en": "Dozens of Iraqi MPs depart for Hajj despite parliamentary order to remain for cabinet vote",
     "summary": "ERBIL, Kurdistan Region - The Iraqi parliament announced on Friday that 29 lawmakers have traveled to Saudi Arabia to perform the Hajj pilgrimage despite a directive barring MPs from leaving the country ahead of a crucial vote on the new government cabinet. “Only 29 MPs have travelled for Hajj pilgrimage this year,” parliament said in a statement, noting that the lawmakers were either assigned to oversee the affairs of Iraqi pilgrims in Saudi Arabia or had secured their Hajj slots through the lottery system before being elected to parliament. The statement came a day after Prime Minister-designate Ali al-Zaidi submitted his government program to parliament, paving the way for a confidence vote expected to take place next week, according to the office of Parliament Speaker Haibat al-Halbousi. In preparation for the session, parliament issued instructions prohibiting lawmakers from traveling abroad until the cabinet vote is held. This year’s Hajj, scheduled to take place between May 24 and 29, is one of Islam’s Five Pillars and is obligatory for Muslims who are physically and financially able to undertake the pilgrimage. The annual pilgrimage is performed between the 8th and 12th days of Dhu al-Hijjah in the Islamic calendar, with pilgrims typically arriving in advance to prepare in the holy cities of Mecca and Medina. Safwan Bashir Younish al-Gargari, secretary-general of the Iraqi parliament, told Rudaw on Friday that more than 100 MPs are eligible to perform Hajj this year. “Planes are ready and all preparations have been completed, but instructions were issued stressing that no MP should leave for Hajj until the new cabinet receives parliament’s vote of confidence,” he said. Lawmaker Gharib Ahmed told Rudaw that many MPs intend to perform Hajj “under the pretext of monitoring” Iraqi pilgrims, arguing that such oversight does not require a large parliamentary delegation. Around 42,500 Iraqi pilgrims, including 5,120 from the Kurdistan Region, are expected to perfor",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Ali al-Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Haibat al-Halbousi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Safwan Bashir Younis al-Gargari",
-        "type": "PERSON"
+        "name": "Erbil",
+        "type": "LOCATION"
       },
       {
         "name": "Iraqi parliament",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -453,15 +417,15 @@
     "title_en": "Rojava's ruling party says Kurdish signboards would strengthen Syria",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
+        "name": "Rojava",
+        "type": "LOCATION"
       },
       {
-        "name": "Rojava",
+        "name": "Syria",
         "type": "LOCATION"
       }
     ],
@@ -511,11 +475,11 @@
     "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Sulaimani",
+        "name": "Sulaymaniyah",
         "type": "LOCATION"
       },
       {
@@ -526,9 +490,9 @@
     "breaking": 1,
     "timestamp": "2026-05-10T08:33:49.632725+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Sulaymaniyah",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
@@ -538,27 +502,15 @@
     "title_en": "Trump says US could revive ‘Project Freedom’ if Iran talks collapse",
     "summary": "WASHINGTON - US President Donald Trump said on Friday that Washington could revive “Project Freedom” - a major maritime initiative aimed at securing commercial shipping through the Strait of Hormuz - if ongoing talks with Iran fail, though he stressed the United States is currently pursuing other options. Speaking to Rudaw before departing the White House for Sterling on Friday evening, Trump said he expected a response from Tehran later that night regarding the latest US proposal. “I’m getting a letter supposedly tonight. So, we’ll see how that goes,” Trump said when asked whether Iran had responded. “We’ll see what happens. Look, they have no military, they have not a lot left,” he added. Trump’s remarks come amid renewed tensions around the Strait of Hormuz, as Iran continues reviewing a US-backed proposal intended to ease hostilities between the two longtime adversaries. Asked whether “Project Freedom” could be reinstated, Trump said the operation remained an option if negotiations fail. “I don’t think so, we might do it, but I don’t think so,” Trump said. “We’ll go a different route if everything doesn’t get signed up, buttoned up.” The US president described the initiative favorably, adding that Pakistan had urged Washington not to move forward with it. “Project Freedom is good. We were asked not to do that by Pakistan,” Trump said. “We may go back to Project Freedom if things don’t happen, but it would be Project Freedom plus other things.” US President Donald Trump told Rudaw's @diyarkurda he is uncertain about Iran's response to Washington’s proposal, saying Tehran has been significantly weakened militarily. “We’ll see what happens. They have no military. They don’t have a lot left. We’ll see what happens.\" pic.twitter.com/oA0KagM1bN   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about R",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "Donald Trump",
         "type": "PERSON"
       },
       {
-        "name": "Iran",
-        "type": "ORGANIZATION"
-      },
-      {
         "name": "Pakistan",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Strait of Hormuz",
-        "type": "LOCATION"
-      },
-      {
-        "name": "US",
         "type": "ORGANIZATION"
       }
     ],
@@ -577,15 +529,19 @@
     "title_en": "Formation of the Iraqi Government: Shia and Sunni disagree over key positions",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەرلەمانتارێکی پارتی لە عێراق راگەیاند، فراکسیۆنەکەیان بەشداریی دانیشتنی داهاتووی پەرلەمانی عێراق دەکات.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Iraq",
         "type": "LOCATION"
       },
       {
-        "name": "Patriotic Union of Kurdistan",
+        "name": "Shia",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sunni",
         "type": "ORGANIZATION"
       }
     ],
@@ -604,15 +560,15 @@
     "title_en": "New developments regarding the anti-Muslim statements of Spanish protesters",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Spain",
         "type": "LOCATION"
       },
       {
-        "name": "Kilian Amadey",
+        "name": "Kilian Amadeus",
         "type": "PERSON"
       }
     ],
@@ -631,27 +587,19 @@
     "title_en": "Security and the Kurdistan Regional Government were key topics in Baghdad talks",
     "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پسپۆڕێکی مایکرۆبایۆلۆجیی پزیشکی لە زانکۆی هەولێری پزیشکی، دڵنیایی دەداتە هاونیشتمانییان کە بڵاوبوونەوەی ڤایرۆسی (هانتا) لەناو کەشتییەکی گەشتیاریدا کە نابێتە پەتایەکی جیهانیی هاوشێوەی کۆرۆنا. رێکخراوی تەندروستیی جیهانیش دەڵێت: \"مەترسییەکە زۆر کەمە.\"",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Barzani",
+        "name": "Barzanani",
         "type": "PERSON"
       },
       {
-        "name": "Raghebinder",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Romanosky",
+        "name": "Alina Romanovskaya",
         "type": "PERSON"
       },
       {
-        "name": "Hawler University",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
+        "name": "Erbil",
         "type": "LOCATION"
       }
     ],
@@ -670,8 +618,8 @@
     "title_en": "Tonight is Clasico, and Barcelona wants to create a match that will never be forgotten.",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەبۆنەی سەرکەوتنی بۆ خولی نایابی تۆپی پێی تورکیا (سوپەرلیگ)، بڕیارە سبەی یانەی ئامەدسپۆر ئاهەنگێکی گەورە لە پارێزگای ئامەد ساز دەکات.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "Barcelona",
@@ -697,15 +645,11 @@
     "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "culture",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
+        "name": "Iraq",
         "type": "LOCATION"
       }
     ],
@@ -724,15 +668,11 @@
     "title_en": "Iraqi Oil Minister Discusses Summer Oil Delivery with Iraqi Kurdistan",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوتی برێنت رۆژی هەینی بەڕێژەی 3٪ بەرزبووەوە، بەهۆی هێرشەکانی ئەمریکا و ئێران بۆ سەر یەکدی، بەڵام لە کاتی داخستنی بازاڕەکاندا نرخی نەوت زۆربەی قازانجەکانی لەدەستدا بەو هیوایەی کە ئەگەری رێککەوتنی نێوان ئێران و ئەمریکا دەتوانێت تەنگەی هورمز بەڕووی کەشتییە نەوتییەکان بکاتەوە.",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Iraqi Kurdistan",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
         "type": "LOCATION"
       }
     ],
@@ -751,9 +691,14 @@
     "title_en": "Two people injured in a stampede in the Swedish city of Orebro",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "health",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Orebro",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:06.580945+00:00",
     "location": {
@@ -889,11 +834,11 @@
     "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Kurdistan Democratic Party (KDP)",
+        "name": "Kurdistan Democratic Party",
         "type": "ORGANIZATION"
       },
       {
@@ -916,16 +861,16 @@
     "title_en": "Shaqlawa sets the stage for a grandiose touristic season",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
-      {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
-      },
       {
         "name": "Shaqlawa",
         "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -1098,11 +1043,11 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Erbil",
+        "name": "Kurdistan Region of Iraq",
         "type": "LOCATION"
       },
       {
-        "name": "Kurdistan Region",
+        "name": "Iraq",
         "type": "LOCATION"
       }
     ],
@@ -1148,8 +1093,8 @@
     "title_en": "Thousands of students in Germany protest against the mandatory military service law",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای تەنیا دوو ساڵ لە پاشەکشەی پارتی فەرمانڕەوا، نەرێندرا مۆدی جارێکی دیکە لە رێگەی سەرکەوتنە یەک لەدوای یەکەکان لە هەڵبژاردنی ویلایەتەکاندا، پێگەی خۆی وەک پیاوی بەهێزی هیندستان جێگیر کردەوەو رێگەی بۆ خولی چوارەمی سەرۆکایەتی خۆش کرد.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Germany",
@@ -1202,13 +1147,9 @@
     "title_en": "Putin: We are ready to acquire Iranian uranium",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای تەنیا دوو ساڵ لە پاشەکشەی پارتی فەرمانڕەوا، نەرێندرا مۆدی جارێکی دیکە لە رێگەی سەرکەوتنە یەک لەدوای یەکەکان لە هەڵبژاردنی ویلایەتەکاندا، پێگەی خۆی وەک پیاوی بەهێزی هیندستان جێگیر کردەوەو رێگەی بۆ خولی چوارەمی سەرۆکایەتی خۆش کرد.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Putin",
-        "type": "PERSON"
-      },
       {
         "name": "Iran",
         "type": "LOCATION"
@@ -1233,12 +1174,12 @@
     "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "culture",
     "sentiment": "neutral",
     "entities": [
       {
         "name": "Bakur",
-        "type": "LOCATION"
+        "type": "PERSON"
       },
       {
         "name": "Gulistan",
@@ -1287,16 +1228,16 @@
     "title_en": "With Sorrow - Protecting the Environment",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "environment",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdistan Region",
+        "name": "Iraq",
         "type": "LOCATION"
       },
       {
-        "name": "Erbil",
-        "type": "LOCATION"
+        "name": "United Nations",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -1314,13 +1255,9 @@
     "title_en": "Sale of assets at the Sahar Gallery in 2026 for $8 billion",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا ئاماژە بە گرنگی ستراتیژیی تورکیا لە پرۆسەی ئەندامێتی یەکێتی ئەورووپا دەکات و دەڵێ، \"یەکێتی ئەورووپا زیاتر پێویستی بە تورکیایە لەوەی تورکیا پێویستی بە یەکێتییەکە هەبێت و ئەم پێویستییە لە داهاتوودا زیاتر دەبێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
-      {
-        "name": "Recep Tayyip Erdogan",
-        "type": "PERSON"
-      },
       {
         "name": "Turkey",
         "type": "LOCATION"
@@ -1328,10 +1265,6 @@
       {
         "name": "European Union",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Dahod",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -1376,8 +1309,8 @@
     "title_en": "Is Hantavirus like Corona?",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ناوەندی کۆنترۆڵکردن و پێشگیریکردن لە نەخۆشییەکان لە ئەمریکا (CDC) رایدەگەیێنێت، سەرباری گیانلەدەستدانی لانیکەم 3 کەس و تووشبوونی ژمارەیەکی دیکە بە هانتاڤایرۆس لەنێو کەشتییەکی گەشتیاریدا، بەڵام مەترسیی بڵاوبوونەوەی ڤایرۆسەکە لە مرۆڤێکەوە بۆ مرۆڤێکی دیکە \"زۆر کەمە\".",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "health",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "CDC",
@@ -1501,23 +1434,15 @@
     "summary": "ERBIL, Kurdistan Region - The United States military said on Saturday that its naval blockade on Iran remains “fully enforced,” announcing that American forces have redirected dozens of commercial vessels and disabled four ships since the operation began last month amid ongoing tensions in the Persian Gulf. “The U.S. Naval blockade against Iran continues be to fully enforced. As of today, CENTCOM forces have redirected 58 commercial vessels and disabled 4 since April 13 to prevent the ships from entering or leaving Iranian ports,” the Central Command (CENTCOM) said on X. The latest incident took place on Friday when US forces disabled two Iranian-flagged oil tankers - identified as the M/T Sea Star III and M/T Sevda - after they allegedly attempted to enter an Iranian port through the Gulf of Oman in violation of the blockade, according to CENTCOM. The blockade, imposed on April 13 following the collapse of Pakistan-mediated peace negotiations between Washington and Tehran, targets vessels entering or leaving Iranian ports while officially allowing commercial navigation through the Strait of Hormuz to non-Iranian destinations. Saturday’s statement comes as the fragile ceasefire between the United States and Iran - brokered after nearly six weeks of conflict that erupted on February 28 - remains under growing strain. Despite repeated diplomatic contacts and ongoing mediation efforts by regional countries, military tensions have persisted in and around the Strait of Hormuz, the strategic waterway through which around one-fifth of global oil supplies passed before the crisis. Washington has defended the blockade as part of a broader maritime security effort aimed at protecting shipping lanes and preventing Iran from threatening international navigation. The operation was accompanied by “Project Freedom,” a US-led initiative launched earlier this month to guide and protect commercial vessels transiting near the Strait of Hormuz. Iran, however, has repeatedly condemned t",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Erbil",
+        "name": "Kurdistan Region",
         "type": "LOCATION"
       },
       {
         "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "United States",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Strait of Hormuz",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -1535,24 +1460,24 @@
     "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "Zakho",
         "type": "LOCATION"
       },
       {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
+        "name": "Eid",
+        "type": "EVENT"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:56:22.105020+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
     }
   },
   {
@@ -1562,19 +1487,11 @@
     "title_en": "Lebanese PM visits Damascus amid renewed push for Syria-Lebanon ties",
     "summary": "ERBIL, Kurdistan Region - Lebanese Prime Minister Nawaf Salam visited Damascus on Saturday and held talks with Syrian President Ahmed al-Sharaa, as the two neighboring countries seek to strengthen cooperation amid growing regional uncertainty. Salam was received at the People’s Palace in the Syrian capital alongside ministerial delegations from both countries, according to a statement from the Syrian presidency. The talks focused on boosting bilateral ties, enhancing economic and trade cooperation, and increasing security coordination to support regional stability. The visit comes at a sensitive time for both countries and the wider Middle East. Syria is attempting to recover economically and diplomatically after more than a decade of conflict and international isolation, while Lebanon continues to grapple with a deep financial crisis, political paralysis, and growing security concerns along its borders. Damascus and Beirut also face mounting regional challenges linked to tensions involving Iran, Israel, and the United States, as instability across the Levant continues to affect trade routes, border security, and energy supplies. According to the Syrian presidency, the two sides exchanged views on regional and international developments and discussed issues of common interest. \"We visited Damascus to continue consultations and work on strengthening Lebanese-Syrian relations across all fronts, relations built on trust and mutual respect for the sovereignty of the two countries and on shared interests,\" the Lebanese prime minister said in a statement. Relations between Syria and Lebanon have historically been complex and deeply intertwined. Syria maintained a significant military and political presence in Lebanon for nearly three decades until its withdrawal in 2005 following the assassination of former Lebanese prime minister Rafik Hariri. Since then, ties between the two countries have fluctuated depending on Lebanon’s internal political divisions and wider regional",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Nawaf Salam",
-        "type": "PERSON"
-      },
-      {
-        "name": "Ahmed al-Sharaa",
-        "type": "PERSON"
-      },
-      {
-        "name": "Syria",
+        "name": "Erbil",
         "type": "LOCATION"
       },
       {
@@ -1597,28 +1514,24 @@
     "title_en": "Report: Iran's War Causes Increased Sulfur Dioxide Pollution",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ حیزبوڵڵای لوبنان رایگەیاند، لە وەڵامی کوژرانی فەرماندەیەکی باڵای، بنکەیەکی سەربازیی ئیسرائیلی لە باکووری ئەو وڵاتە کردووەتە ئامانج؛ هاوکات هێرشە نوێیەکانی ئیسرائیل بۆسەر باشووری لوبنان بوونەهۆی کوژرانی پێنج کەس کە یەکێکیان کارمەندی تیمی فریاگوزاری بوو.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Iran",
-        "type": "COUNTRY"
-      },
-      {
-        "name": "Lubnan",
         "type": "LOCATION"
       },
       {
         "name": "Israel",
-        "type": "COUNTRY"
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:49:48.041418+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Halabja",
+      "lat": 35.1787,
+      "lng": 45.9861
     }
   },
   {
@@ -1649,15 +1562,11 @@
     "title_en": "850 Iraqi pilgrims have arrived in Saudi Arabia",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەری بەرگریی شارستانیی سۆران راگەیاند، دوای زیاتر لە هەفتەیەک تاوەکو ئێستا بەردەوامن لە گەڕان و گوتی:\" 18 تەکنیکمان بەکارهێناوە، بەڵام هێشتا چارەنووسی دوو منداڵەکە دیار نییە\".",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "health",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Saudi Arabia",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iraq",
         "type": "LOCATION"
       }
     ],
@@ -1677,15 +1586,11 @@
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جێگری سەرۆکی کۆمەڵەی تالاسیمیای هەولێر رایگەیاند، کاردەکەن بۆ بنبڕکردنی نەخۆشیی تالاسیمیا و رێنوێنی بڵاودەکەنەوە بۆ ئەوەی دوو هەڵگری نەخۆشییەکە هاوسەرگیری نەکەن.",
     "source": "rudaw-sorani",
     "category": "health",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Hawler",
+        "name": "Erbil",
         "type": "LOCATION"
-      },
-      {
-        "name": "Talasemia",
-        "type": "DISEASE"
       }
     ],
     "breaking": 1,
@@ -1703,36 +1608,24 @@
     "title_en": "Iraq's internal security forces are being unified; will the Kurdistan Region be integrated?",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دەزگای ئاسایشی نیشتمانیی عێراق هۆشداری لە زیادبوونی فێڵکردنی دارایی ئەلیکترۆنی دەدات و دەڵێت، لە کەرکووک و دیالە چەندین تۆمەتباریان دەستگیرکردووە سەتان ماستەرکارد و سیمکارتیان پێبووە.",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
       {
         "name": "Kurdistan Region",
         "type": "LOCATION"
       },
       {
-        "name": "Kirkuk",
+        "name": "Iraq",
         "type": "LOCATION"
-      },
-      {
-        "name": "Duhok",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Mashturkard",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:49:15.048023+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
@@ -1742,24 +1635,24 @@
     "title_en": "8.3 Percent of Kurds Speak Persian",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "Kurdistan",
         "type": "LOCATION"
       },
       {
-        "name": "Persian",
-        "type": "LANGUAGE"
+        "name": "Persia",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:48:37.524782+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
@@ -1769,15 +1662,11 @@
     "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "culture",
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
+        "name": "Iraq",
         "type": "LOCATION"
       }
     ],
@@ -1796,20 +1685,12 @@
     "title_en": "Eyad Kakayi: A Decision on the Future Will Be Made at the Ceja Council Next Week",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەرلەمانتارێکی پارتی لە عێراق راگەیاند، فراکسیۆنەکەیان بەشداریی دانیشتنی داهاتووی پەرلەمانی عێراق دەکات.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "positive",
     "entities": [
-      {
-        "name": "Eyad Kakayi",
-        "type": "PERSON"
-      },
       {
         "name": "Ceja Council",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -1828,15 +1709,11 @@
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەری بەرگریی شارستانیی سۆران راگەیاند، دوای زیاتر لە هەفتەیەک تاوەکو ئێستا بەردەوامن لە گەڕان و گوتی:\" 18 تەکنیکمان بەکارهێناوە، بەڵام هێشتا چارەنووسی دوو منداڵەکە دیار نییە\".",
     "source": "rudaw-sorani",
     "category": "health",
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Hantavirus",
-        "type": "DISEASE"
-      },
-      {
-        "name": "Coronavirus",
-        "type": "DISEASE"
+        "name": "Soran",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -2015,12 +1892,12 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "UAE",
+        "name": "Iran",
         "type": "LOCATION"
       },
       {
-        "name": "Iran",
-        "type": "LOCATION"
+        "name": "UAE",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -2042,15 +1919,11 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "Damascus",
+        "name": "Hasaka",
         "type": "LOCATION"
       },
       {
-        "name": "SDF",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Hasaka",
+        "name": "Damascus",
         "type": "LOCATION"
       }
     ],
@@ -2243,16 +2116,16 @@
     "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Germany",
-        "type": "COUNTRY"
+        "name": "Iraq",
+        "type": "LOCATION"
       },
       {
-        "name": "Iraq",
-        "type": "COUNTRY"
+        "name": "Germany",
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -2355,7 +2228,7 @@
     "title_en": "Iraqi PM-designate Zaidi to present cabinet next week in parliament",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "politics",
     "sentiment": "neutral",
     "entities": [
       {
@@ -2788,12 +2661,12 @@
     "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "culture",
     "sentiment": "neutral",
     "entities": [
       {
         "name": "Bakur",
-        "type": "LOCATION"
+        "type": "PERSON"
       },
       {
         "name": "Gulistan",
@@ -3157,24 +3030,24 @@
     "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "culture",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Mameli",
-        "type": "PERSON"
+        "name": "Kurdistan",
+        "type": "LOCATION"
       },
       {
-        "name": "Zarek",
-        "type": "PERSON"
+        "name": "Erbil",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
     "timestamp": "2026-05-08T01:56:50.962404+00:00",
     "location": {
-      "name": "Ankawa",
-      "lat": 36.2497,
-      "lng": 43.9992
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -3471,12 +3344,12 @@
     "title_en": "Iran says US proposal to end war ‘under review’",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Iran",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       },
       {
         "name": "US",
@@ -3700,7 +3573,7 @@
     "entities": [
       {
         "name": "Iran",
-        "type": "COUNTRY"
+        "type": "LOCATION"
       },
       {
         "name": "United Nations",
@@ -3753,12 +3626,8 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "name": "United Nations",
+        "name": "UN",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Western",
-        "type": "REGION"
       }
     ],
     "breaking": 1,
@@ -4581,11 +4450,11 @@
     "entities": [
       {
         "name": "Syria",
-        "type": "COUNTRY"
+        "type": "LOCATION"
       },
       {
         "name": "Iraq",
-        "type": "COUNTRY"
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -4684,7 +4553,7 @@
     "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "politics",
     "sentiment": "neutral",
     "entities": [
       {
@@ -4964,7 +4833,7 @@
     "title_en": "President Barzani to visit Baghdad Monday",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "politics",
     "sentiment": "neutral",
     "entities": [
       {
@@ -5058,7 +4927,7 @@
       },
       {
         "name": "Jordan",
-        "type": "COUNTRY"
+        "type": "ORGANIZATION"
       }
     ],
     "breaking": 1,
@@ -5099,16 +4968,16 @@
     "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "politics",
+    "sentiment": "negative",
     "entities": [
       {
         "name": "Turkey",
         "type": "LOCATION"
       },
       {
-        "name": "Justice Minister",
-        "type": "PERSON"
+        "name": "Erbil",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
