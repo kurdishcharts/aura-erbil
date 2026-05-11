@@ -375,9 +375,30 @@
     "title_en": "Iraqi police cracks down on crime in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": "[\"Iraq\", \"Baghdad\", \"Shaalan Ali\", \"Zafir Mohammadawi\"]",
+    "entities": [
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rusafa",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi Police",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Jordan",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:27.245654+00:00",
     "location": {
@@ -492,7 +513,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:33:49.632725+00:00",
     "location": {
@@ -571,12 +601,21 @@
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "New Measures Regarding Handwritten Messages of Spanish Authorities Against Muslims",
+    "title_en": "New developments regarding the anti-Muslim statements of Spanish protesters",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Spain",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kilian Amadey",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:44.002994+00:00",
     "location": {
@@ -852,7 +891,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Democratic Party (KDP)",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Halabousi",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T22:07:11.210094+00:00",
     "location": {
@@ -872,8 +920,12 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "type": "",
-        "text": ""
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Shaqlawa",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -1178,12 +1230,21 @@
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Barzani Faction in Gulkhan",
+    "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Bakur",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Gulistan",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:59:24.733387+00:00",
     "location": {
@@ -1223,12 +1284,21 @@
     "id": "15ec42f1ff05f06e",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "With Rangin - Seasonal Peace",
+    "title_en": "With Sorrow - Protecting the Environment",
     "summary": "",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:59:05.694957+00:00",
     "location": {
@@ -1467,7 +1537,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Zakho",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:56:22.105020+00:00",
     "location": {
@@ -1687,12 +1766,21 @@
     "id": "c3d9ec803692a6d4",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "Shikakery City Council Approves Plans for New Highway",
+    "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T21:48:18.518498+00:00",
     "location": {
@@ -1920,12 +2008,21 @@
     "id": "360c181d46223f6d",
     "url": "https://www.rudaw.net/english/middleeast/080520261",
     "title": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
-    "title_en": "UAE Air Defenses Intercept Missiles, Drones Amid Sharp Rhetoric Exchange with Iran",
+    "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "UAE",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:41.674590+00:00",
     "location": {
@@ -1943,7 +2040,20 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Damascus",
+        "type": "LOCATION"
+      },
+      {
+        "name": "SDF",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hasaka",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:27.637771+00:00",
     "location": {
@@ -2130,12 +2240,21 @@
     "id": "0012d4dc29065cf3",
     "url": "https://www.rudaw.net/english/world/070520261",
     "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany Deports 135 Iraqi Migrants in First Three Months of 2024: Ministry",
+    "title_en": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T20:34:35.808324+00:00",
     "location": {
@@ -2240,8 +2359,12 @@
     "sentiment": "neutral",
     "entities": [
       {
-        "type": "person",
-        "value": "Zaidi"
+        "name": "Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -2662,12 +2785,21 @@
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakour in Gawilan",
+    "title_en": "Bakur in Gulistan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Bakur",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Gulistan",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T02:30:38.642226+00:00",
     "location": {
@@ -3022,15 +3154,20 @@
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "Is Artificial Intelligence a Threat to Kurdish Culture and Art?",
+    "title_en": "The impact of traditional Kurdish musical instruments on Kurdish music and music",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Kurdish people",
-      "Mahmoud Abul-Ezz",
-      "Hasan Zarka"
+      {
+        "name": "Mameli",
+        "type": "PERSON"
+      },
+      {
+        "name": "Zarek",
+        "type": "PERSON"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-08T01:56:50.962404+00:00",
@@ -3331,12 +3468,21 @@
     "id": "1421a6045911f19c",
     "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
     "title": "Iran says US proposal to end war ‘under review’",
-    "title_en": "Iran says US proposal to end war’t under review",
+    "title_en": "Iran says US proposal to end war ‘under review’",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-07T09:47:16.394785+00:00",
     "location": {
@@ -3549,9 +3695,18 @@
     "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:32.248055+00:00",
     "location": {
@@ -3591,12 +3746,21 @@
     "id": "87d4937d9ff498e7",
     "url": "https://www.rudaw.net/english/world/06052026",
     "title": "UN report finds global migration broadly stable, contradicting Western political narrative",
-    "title_en": "UN Report Finds Global Migration Broadly Stable, Contradicting Western Political Narrative",
+    "title_en": "UN report finds global migration broadly stable, contradicting Western political narrative",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Western",
+        "type": "REGION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-06T18:45:01.655523+00:00",
     "location": {
@@ -4414,7 +4578,16 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T07:36:05.625356+00:00",
     "location": {
@@ -4508,12 +4681,21 @@
     "id": "c58a3e9768852a97",
     "url": "https://www.rudaw.net/english/middleeast/iraq/04052026",
     "title": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
-    "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite and Sunni leaders",
+    "title_en": "President Nechirvan Barzani in Baghdad to meet Shiite, Sunni leaders",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
@@ -4779,12 +4961,21 @@
     "id": "7f8f520f93e56995",
     "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
     "title": "President Barzani to visit Baghdad Monday",
-    "title_en": "President Barzani to visit Baghdad on Monday",
+    "title_en": "President Barzani to visit Baghdad Monday",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-04T13:27:54.187550+00:00",
     "location": {
@@ -4802,7 +4993,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:47.972823+00:00",
     "location": {
@@ -4853,9 +5049,18 @@
     "title_en": "Jordan says strikes hit drug, arms smuggling sites in south Syria",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Jordan",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:40.668591+00:00",
     "location": {
@@ -4891,12 +5096,21 @@
     "id": "4ae0fddde2ef13b6",
     "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
     "title": "Turkey needs new constitution amid changing threats: Justice minister",
-    "title_en": "Turkey needs new constitution amid changing threats",
+    "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Justice Minister",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-03T21:32:32.837425+00:00",
     "location": {
