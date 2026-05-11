@@ -151,14 +151,20 @@
     "id": "cb6cb38d87964efd",
     "url": "https://www.rudaw.net/sorani/sports/010420267",
     "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "The Darkest Stars Are Not Expected to Participate in Mondiali 2026",
+    "title_en": "The Darkest Stars Can't Participate in Mundiali 2026",
     "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
-    "category": "sports",
-    "sentiment": "neutral",
+    "category": "general",
+    "sentiment": "negative",
     "entities": [
-      "Mondiali 2026",
-      "Kilian Amadeus"
+      {
+        "type": "person",
+        "text": "Kilian Amadeus"
+      },
+      {
+        "type": "organization",
+        "text": "Mundiali"
+      }
     ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:36:13.175628+00:00",
@@ -230,20 +236,14 @@
     "id": "bc55cf83ca7cec93",
     "url": "https://www.rudaw.net/sorani/world/15012024",
     "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "How is the President of the United States elected?",
+    "title_en": "US President How They Are Dealing?",
     "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی ناوخۆی بەحرێن رایگەیاند، دەزگە ئەمنییەکانی ئەو وڵاتە رێکخراوێکیان هەڵوەشاندووەتەوە کە تۆمەتبارە بە هەبوونی پەیوەندی بە سوپای پاسدارانی ئێران و 41 ئەندامیان دەستگیرکردوون.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "United States",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      }
+      "US",
+      "Iran"
     ],
     "breaking": 1,
     "timestamp": "2026-05-10T08:35:37.422625+00:00",
@@ -377,28 +377,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "type": "person",
-        "value": "Shaalan Ali"
-      },
-      {
-        "type": "organization",
-        "value": "Rusafa operations command"
-      },
-      {
-        "type": "location",
-        "value": "Baghdad"
-      },
-      {
-        "type": "location",
-        "value": "Bataween"
-      },
-      {
-        "type": "location",
-        "value": "Saadon"
-      }
-    ],
+    "entities": "[\"Iraq\", \"Baghdad\", \"Shaalan Ali\", \"Zafir Mohammadawi\"]",
     "breaking": 1,
     "timestamp": "2026-05-10T08:34:27.245654+00:00",
     "location": {
@@ -592,21 +571,12 @@
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "New Spanish Ambassador Meets With Kurdish Leaders",
+    "title_en": "New Measures Regarding Handwritten Messages of Spanish Authorities Against Muslims",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز ئامادەنابێت و کیلیان ئامادەیە",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "type": "person",
-        "name": "Peres Amadab"
-      },
-      {
-        "type": "organization",
-        "name": "Kurdistan region"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-10T08:31:44.002994+00:00",
     "location": {
@@ -900,7 +870,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "type": "",
+        "text": ""
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-09T22:06:38.470097+00:00",
     "location": {
@@ -952,31 +927,20 @@
     "id": "46302077daf847a2",
     "url": "https://www.rudaw.net/english/middleeast/080520263",
     "title": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
-    "title_en": "Similar to Kurdistan Region, Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
+    "title_en": "Iran views UAE as ‘hostile base’ for enemies: Iranian lawmaker",
     "summary": "ERBIL, Kurdistan Region - A hardline Iranian lawmaker warned on Thursday that Tehran now views the United Arab Emirates as a “hostile base” for its enemies, saying the Gulf country could face the same treatment as the Kurdistan Region. Ali Khezrian accused the UAE of taking direct action against Iran during the coordinated US-Israeli war on the Islamic republic, adding that Tehran no longer considers the Emirates a neighboring state. “Iran's security equation regarding the Kurdistan Region will now also include the UAE,” Khezrian told Iranian state media on Thursday. “At any moment, if the Islamic Republic senses an enemy base in the UAE, just as it attacks enemy bases in Erbil, it will take action and strike it.” Khezrian is a member of Iran’s parliamentary National Security Committee. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months by Iran and Iran-backed militia groups in Iraq following the war between Tehran and Washington. Since February 28, when the US-Israeli military campaign against Iran began, hundreds of drones and missiles have struck the Region, with repeated attacks continuing even after a ceasefire was declared on April 7. Kurdish authorities have repeatedly condemned the strikes, stressing that the Kurdistan Region is not a party to the conflict. Iranian officials, however, continue to accuse Iranian Kurdish opposition groups of threatening the country’s national security, claims Tehran has used to justify continued cross-border attacks despite the fragile truce. On April 24, the Kurdistan Region strongly rejected Iranian allegations that it hosts foreign intelligence training facilities. “The Kurdistan Regional Government rejects these allegations and emphasizes that there are no headquarters, facilities, or training centers affiliated with any foreign intelligence service operating within the Kurdistan Region,” the Kurdistan Region’s Department of Foreign Relations (DFR) said in a statement. “Linking the Kurdistan",
     "source": "rudaw-scrape",
-    "category": "general",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
       {
-        "name": "Ali Khezrian",
-        "type": "PERSON"
+        "name": "Ali Khezrian"
       },
       {
-        "name": "United Arab Emirates",
-        "type": "LOCATION"
+        "name": "United Arab Emirates"
       },
       {
-        "name": "Iran",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
+        "name": "Iran"
       }
     ],
     "breaking": 1,
@@ -1214,10 +1178,10 @@
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakoor in Gulan",
+    "title_en": "Barzani Faction in Gulkhan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -1259,10 +1223,10 @@
     "id": "15ec42f1ff05f06e",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "Together We Fight - Winter Storm",
+    "title_en": "With Rangin - Seasonal Peace",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "weather",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -1723,10 +1687,10 @@
     "id": "c3d9ec803692a6d4",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "Shin Valley Development",
+    "title_en": "Shikakery City Council Approves Plans for New Highway",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -1956,21 +1920,12 @@
     "id": "360c181d46223f6d",
     "url": "https://www.rudaw.net/english/middleeast/080520261",
     "title": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
-    "title_en": "UAE air defenses intercept missiles, drones amid sharp rhetoric exchange with Iran",
+    "title_en": "UAE Air Defenses Intercept Missiles, Drones Amid Sharp Rhetoric Exchange with Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "UAE",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Iran",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:41.674590+00:00",
     "location": {
@@ -1988,20 +1943,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Damascus",
-        "type": "LOCATION"
-      },
-      {
-        "name": "SDF",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Hasaka",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-09T01:03:27.637771+00:00",
     "location": {
@@ -2188,7 +2130,7 @@
     "id": "0012d4dc29065cf3",
     "url": "https://www.rudaw.net/english/world/070520261",
     "title": "Germany deports 135 Iraqi migrants in first three months of 2026: Ministry",
-    "title_en": "Germany Deploys 135 Iraqi Migrants in First Three Months of 2026: Ministry",
+    "title_en": "Germany Deports 135 Iraqi Migrants in First Three Months of 2024: Ministry",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
@@ -2296,7 +2238,12 @@
     "source": "rudaw-scrape",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "type": "person",
+        "value": "Zaidi"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-08T15:33:37.437477+00:00",
     "location": {
@@ -2715,10 +2662,10 @@
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
-    "title_en": "Bakuor in Golbain",
+    "title_en": "Bakour in Gawilan",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -3075,15 +3022,15 @@
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "Artificial Intelligence Takes Over Kurdish Music and Radio",
+    "title_en": "Is Artificial Intelligence a Threat to Kurdish Culture and Art?",
     "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەن",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Mahmmad Amla",
-      "Hasan Zeker",
-      "Turkey"
+      "Kurdish people",
+      "Mahmoud Abul-Ezz",
+      "Hasan Zarka"
     ],
     "breaking": 1,
     "timestamp": "2026-05-08T01:56:50.962404+00:00",
@@ -3384,7 +3331,7 @@
     "id": "1421a6045911f19c",
     "url": "https://www.rudaw.net/english/middleeast/iran/06052026",
     "title": "Iran says US proposal to end war ‘under review’",
-    "title_en": "Iran says US proposal to end war ‘under review’",
+    "title_en": "Iran says US proposal to end war’t under review",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
@@ -3599,7 +3546,7 @@
     "id": "84b35d393cce421e",
     "url": "https://www.rudaw.net/english/world/09042026",
     "title": "UN emphasizes maritime freedom, political rights amid Iran tensions",
-    "title_en": "UN Emphasizes Maritime Freedom, Political Rights Amid Iran Tensions",
+    "title_en": "UN emphasizes maritime freedom, political rights amid Iran tensions",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
@@ -3644,7 +3591,7 @@
     "id": "87d4937d9ff498e7",
     "url": "https://www.rudaw.net/english/world/06052026",
     "title": "UN report finds global migration broadly stable, contradicting Western political narrative",
-    "title_en": "UN report finds global migration broadly stable, contradicting Western political narrative",
+    "title_en": "UN Report Finds Global Migration Broadly Stable, Contradicting Western Political Narrative",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -4465,7 +4412,7 @@
     "title_en": "Syria seeks to expand trade with Iraq: Official",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -4566,9 +4513,7 @@
     "source": "rudaw-scrape",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      "Nechirvan Barzani"
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-05T00:11:20.681457+00:00",
     "location": {
@@ -4834,10 +4779,10 @@
     "id": "7f8f520f93e56995",
     "url": "https://www.rudaw.net/english/middleeast/iraq/030520262",
     "title": "President Barzani to visit Baghdad Monday",
-    "title_en": "President Barzani to Visit Baghdad on Monday",
+    "title_en": "President Barzani to visit Baghdad on Monday",
     "summary": "",
     "source": "rudaw-scrape",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -4852,7 +4797,7 @@
     "id": "4a3c32e1f98b01ff",
     "url": "https://www.rudaw.net/english/middleeast/iran/020520262",
     "title": "The state of the internet in Iran",
-    "title_en": "The State of Internet in Iran",
+    "title_en": "The state of the internet in Iran",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "general",
@@ -4946,7 +4891,7 @@
     "id": "4ae0fddde2ef13b6",
     "url": "https://www.rudaw.net/english/middleeast/turkey/03052026",
     "title": "Turkey needs new constitution amid changing threats: Justice minister",
-    "title_en": "Turkey needs new constitution amid changing threats: Justice minister",
+    "title_en": "Turkey needs new constitution amid changing threats",
     "summary": "",
     "source": "rudaw-scrape",
     "category": "security",
