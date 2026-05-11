@@ -200,7 +200,8 @@ subprocess.run(["git","add","data/"], cwd=proj_dir)
 subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
 subprocess.run(["git","stash"], cwd=proj_dir)   # stash any leftover changes
 subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
-subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes"})
+subprocess.run(["git","remote","set-url","origin","git@github.com:kurdishcharts/aura-erbil.git"], cwd=proj_dir)
+    subprocess.run(["git","push","origin","main"], cwd=proj_dir)
 PYEOF
 
 # Stop Ollama to free RAM
