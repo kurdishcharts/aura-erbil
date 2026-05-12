@@ -219,9 +219,7 @@
     // C6. Intraday Swing
     {
       const card   = mkCard(panel, 'Intraday Swing · Daily High / Low / Close');
-  // ── Group D & E cards ──
-  let cardD1 = mkCard(panel, 'Entity Type Distribution');
-  renderEntityTypePie();
+
 
   let cardD2 = mkCard(panel, 'Top Persons Mentioned');
   renderTopEntities('PERSON', 'entity-top-persons');
