@@ -1,5 +1,343 @@
 [
   {
+    "id": "0569f8a740456859",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520262",
+    "title": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
+    "title_en": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ex-PM",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:16:52.253645+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d9501a3c023d277e",
+    "url": "https://www.rudaw.net/english/world/110520261",
+    "title": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
+    "title_en": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
+    "summary": "ERBIL, Kurdistan Region - The United Kingdom on Monday added a dozen individuals and groups linked to Iran, accusing them of planning or facilitating “hostile activity” on behalf of the Iranian government, London’s Foreign, Commonwealth and Development Office (FCDO) said in a notice. The notice details that the designations include nine individuals - seven of them of Iranian descent - some of whom are suspected of being “involved in hostile activity by the Government of Iran” or by an “armed group backed by the Government of Iran,” including “threatening, planning or conducting attacks against persons and assets in the United Kingdom or any other country.” Furthermore, some individuals are accused of conduct that “facilitates (or is intended to facilitate) or gives support or assistance” to hostile acts, including “providing financial services to individuals and entities involved in activity which is intended to cause the destabilisation of the United Kingdom or any other country.” Meanwhile, the three sanctioned entities include the Zindashti network, which the FCDO said “is or has been involved in hostile activity by an armed group backed by the Government of Iran, including threatening, planning or conducting attacks against persons and assets in the United Kingdom or any other country.” The other two entities are identified as Berelian Exchange and GCM Exchange, which the Office said are linked to “conduct which facilitates hostile activity by the Government of Iran, namely providing financial services to individuals and entities involved in activity which is intended to cause the destabilisation of the United Kingdom or any other country.” The UK government had in February sanctioned ten individuals and one organization it said were involved in the crackdown on pro-reform demonstrations that swept through Iran earlier this year. The sanctions targeted parts of the Iranian security apparatus, starting with the Law Enforcement Forces (FARAJA), which were designat",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:16:40.989001+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:16:22.465374+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bb8f58f6fa8c8430",
+    "url": "https://www.rudaw.net/english/world/110520263",
+    "title": "Sweden says important that Syria moves in right direction on minority rights",
+    "title_en": "Sweden says important that Syria moves in right direction on minority rights",
+    "summary": "ERBIL, Kurdistan Region - Sweden’s foreign minister said on Monday that there is a window of opportunity in Syria regarding minority rights, adding that it is important for the interim government in Damascus to move in the right direction. “When I meet with the high-level representatives of the Syrian government, I always raise the issue of the protection of the minorities and it is very important that we now have an inclusive way forward in Syria, and we really have a window of opportunity but it is important that they move in the right direction,” she told Rudaw. Her remarks came on the sidelines of a European Union meeting on Monday during which the bloc lifted sanctions on Syrian defense minister Murhaf Abu Qasra and interior minister Anas Khattab. The move follows a May 2025 decision by the EU to ease broader economic sanctions, including restrictions on banking, energy, trade, and transport, in support of post-regime stability. The EU has lifted most of the sanctions imposed on Syria during Bashar al-Assad’s rule. However, it has maintained an arms embargo as well as restrictions on certain technological tools that could potentially be used for internal repression and surveillance. European officials have repeatedly said that lifting sanctions is conditional on verifiable evidence that Syrian authorities are committed to adopting a tolerant and inclusive approach toward the country’s ethnic and religious communities and improving the overall human rights situation. Italian Foreign Minister Antonio Tajani told Rudaw on Monday that he had spoken with Syria’s interim President Ahmed Sharaa about minorities in the country, noting that Sharaa assured him regarding their rights. “He told me every Syrian is a citizen of Syria,” the Italian official said. “I believe in this. This is a good solution,” he added. Tajani also said that protecting minorities and guaranteeing freedom of religion and the right to study in one’s native language are “principle[s] good for ever",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:16:05.658098+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "80f89447c390acce",
+    "url": "https://www.rudaw.net/english/middleeast/12052026",
+    "title": "Iraq receives first Syria-Kuwait TIR shipment through al-Waleed crossing",
+    "title_en": "Iraq receives first Syria-Kuwait TIR shipment through al-Waleed crossing",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kuwait",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:15:49.465503+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "794cbed5ded41fc2",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520261",
+    "title": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
+    "title_en": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
+    "summary": "ERBIL, Kurdistan Region - The Iraq-Iran committee formed to implement a 2023 border agreement aimed at disarming and relocating Kurdish opposition groups based in the Kurdistan Region held a meeting in Baghdad on Monday. This comes as Tehran has since the outbreak of the Iran war intensified its attacks on Kurdish dissident groups in the Region, despite their non-involvement in the conflict. The High Committee for the Implementation of the Security Agreement met in the presence of Iraqi National Security Advisor Qasim al-Araji, where delegates from Baghdad and Tehran “emphasized the importance of strengthening joint security coordination, tightening border control measures, and preventing any infiltration or movements by terrorist or armed groups that could threaten security and stability in both countries and the wider region,” according to Araji’s office. The Iranian side reportedly “presented information related to the activities of certain Iranian armed groups present in the Kurdistan Region,” the Advisor’s office added, noting that “it was agreed to continue coordination and take necessary measures to address this issue in a comprehensive manner, ensuring the prevention of any activities that could threaten regional security or undermine stability.” For his part, Araji reaffirmed “Iraq’s firm position” against “the use of Iraqi territory as a launching pad for any hostile acts, security operations, or military actions targeting neighboring countries,” in a way that aligns with “Baghdad’s efforts to consolidate regional security, respect state sovereignty, and promote shared stability.” In March 2023, Iran and Iraq signed a security pact under which Baghdad committed to disarming Kurdish opposition groups and tightening security along the shared border. Iran had threatened military action if Baghdad failed to implement the agreement, accusing Iranian Kurdish opposition groups based in the Kurdistan Region of fueling Iran’s nationwide protest movement in 2022 and",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:15:31.075319+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dbfb5649f6c5534",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202629",
+    "title": "گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە",
+    "title_en": "Search for two children of the Ali Beg community continues with a special camera and sonar",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هێرشە مووشەکی و درۆنییەکان بۆ سەر سنووری قەزای کۆیە، زیانی گەورەیان بە کێڵگە پەلەوەرییەکانی سنوورەکە گەیاندووە؛ بەهۆیەوە دەیان هەزار پەلەوەر لەنێوچوون و دەیان خێزانیش بێکار بوون.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Ali Beg",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:13:42.208564+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07764df9d8590bae",
+    "url": "https://www.rudaw.net/sorani/world/1105202611",
+    "title": "وەزیری دەرەوەی کەنەدا: ناتۆ بەرگەی گوشارەکانی ترەمپ دەگرێت",
+    "title_en": "Canadian Foreign Minister: NATO will support Trump's initiatives",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکێتیی ئەورووپا بە فەرمی رێککەوتننامەی هاوکارییەکانی لەگەڵ سووریا کارا کردەوە. ئەم هەنگاوە وەک هەوڵێک بۆ بووژاندنەوەی ئەو وڵاتە و خۆشکردنی زەمینە بۆ گەڕانەوەی ئارەزوومەندانەی ملیۆنان کۆچبەری سووری لە ئەورووپاوە بۆ نیشتمانی خۆیان دەبیندرێت.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "NATO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Canada",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:13:31.625982+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d0ef24f43c446562",
+    "url": "https://www.rudaw.net/sorani/world/1105202616",
+    "title": "ستامەر لەژێر گوشاری دەستلەکارکێشانەوەدایە؛ بەڵێنی \"گۆڕانکاریی گەورە\" دەدات",
+    "title_en": "Canada's Foreign Minister under pressure; says 'major changes' are coming",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزیری دەرەوەی کەنەدا رایگەیاند، هاوپەیمانیی ناتۆ \"خۆڕاگرە\" و دەتوانێت بەرگەی ئەو رەخنانە بگرێت کە دۆناڵد ترەمپ، سەرۆکی ئەمریکا ئاراستەی دەکات. راشیگەیاند، ئەم هاوپەیمانێتییە بۆ پاراستنی ئاسایشی وڵاتانی رۆژئاوا لە بەرامبەر رووسیا، لە هەموو کاتێک گرنگترە",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Canada",
+        "type": "LOCATION"
+      },
+      {
+        "name": "NATO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:13:19.831215+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d9b76eb42d9cfbc",
+    "url": "https://www.rudaw.net/sorani/kurdistan/12052026",
+    "title": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
+    "title_en": "In the Kurdish family atmosphere in Istanbul, a conflict arose over the book's content",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هێرشە مووشەکی و درۆنییەکان بۆ سەر سنووری قەزای کۆیە، زیانی گەورەیان بە کێڵگە پەلەوەرییەکانی سنوورەکە گەیاندووە؛ بەهۆیەوە دەیان هەزار پەلەوەر لەنێوچوون و دەیان خێزانیش بێکار بوون.",
+    "source": "rudaw-sorani",
+    "category": "culture",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Istanbul",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:13:09.839158+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bc55cf83ca7cec93",
+    "url": "https://www.rudaw.net/sorani/world/15012024",
+    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "title_en": "How will the President of America be elected?",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکێتیی ئەورووپا بە فەرمی رێککەوتننامەی هاوکارییەکانی لەگەڵ سووریا کارا کردەوە. ئەم هەنگاوە وەک هەوڵێک بۆ بووژاندنەوەی ئەو وڵاتە و خۆشکردنی زەمینە بۆ گەڕانەوەی ئارەزوومەندانەی ملیۆنان کۆچبەری سووری لە ئەورووپاوە بۆ نیشتمانی خۆیان دەبیندرێت.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "United States",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      },
+      {
+        "name": "European Union",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:12:54.468299+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66be384550f951e8",
+    "url": "https://www.rudaw.net/sorani/world/110520263",
+    "title": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
+    "title_en": "Swedish Foreign Minister on the incident: When I meet with the Syrian government, I talk about protecting minorities",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکێتیی ئەورووپا بە فەرمی رێککەوتننامەی هاوکارییەکانی لەگەڵ سووریا کارا کردەوە. ئەم هەنگاوە وەک هەوڵێک بۆ بووژاندنەوەی ئەو وڵاتە و خۆشکردنی زەمینە بۆ گەڕانەوەی ئارەزوومەندانەی ملیۆنان کۆچبەری سووری لە ئەورووپاوە بۆ نیشتمانی خۆیان دەبیندرێت.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Sweden",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syrian government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:12:42.815423+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dfe7818a62728df1",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202630",
+    "title": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
+    "title_en": "The Union of the Police Commander of Kirkuk Province is being taken over",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هێرشە مووشەکی و درۆنییەکان بۆ سەر سنووری قەزای کۆیە، زیانی گەورەیان بە کێڵگە پەلەوەرییەکانی سنوورەکە گەیاندووە؛ بەهۆیەوە دەیان هەزار پەلەوەر لەنێوچوون و دەیان خێزانیش بێکار بوون.",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:12:33.093261+00:00",
+    "location": {
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
+    }
+  },
+  {
+    "id": "c41b99077601133f",
+    "url": "https://www.rudaw.net/sorani/business/120520262",
+    "title": "نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە",
+    "title_en": "Dollar price has risen to 184.8 thousand dinars",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوو رێگەی قەرزی ناوخۆیی و دەرەکی لەبەردەم عێراقدایە",
+    "source": "rudaw-sorani",
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T05:12:15.747175+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "2dfb50373c0e4ed8",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
     "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
@@ -33,7 +371,7 @@
     "title_en": "Kurdish language education is a ‘red line for us’: Rojava academic",
     "summary": "ERBIL, Kurdistan Region - A senior official from a university in northeast Syria (Rojava) told Rudaw on Monday that educational institutions in the Kurdish-led enclave will continue providing education in Kurdish, urging the need to safeguard the educational system in place. The remarks come as integration talks between Damascus and Rojava continue, with education as a central issue in the discussions. “When it comes to our mother tongue, this issue is related to our national cause,” said Shervan Mahmood, co-chair of the University of Kobani, stressing that “the Kurdish language is a red line for us” and that “we will never take a step back regarding this language.” Founded in 2017, the University of Kobani was the first higher education institution in the Kurdish majority city, situated in north-central Rojava. It comprises 20 departments across four faculties and five institutes, offering various undergraduate and postgraduate programs in fields including Kurdish literature as well as arts, humanities, medicine and natural sciences. “Some courses are taught in English as well as Arabic, but the primary language and the adopted language policy at the university is Kurdish,” Mahmood noted. The University of Kobani launched a PhD program in the Kurdish language last year, according to the university’s co-chair, who added that the first master’s degree awarded was also in Kurdish language. “For a language that has reached the level where Master's and PhD programs are opened, I don't believe anyone has the right to put this language under discussion anymore,” he added. Since 2011, authorities in Rojava have implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. However, Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29, with significant mediation from the United States through its Special Envoy for Syria",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -173,29 +511,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-11T16:03:52.652135+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "66be384550f951e8",
-    "url": "https://www.rudaw.net/sorani/world/110520263",
-    "title": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
-    "title_en": "Swedish Foreign Minister on the situation: When I meet with the Syrian government, I discuss protecting minorities",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ژیریی دەستکرد، نەخشەی بازاڕی کار لە هەموو کەرتەکاندا دەگۆڕێ، بەڵام توێژینەوەیەکی نوێ ئاماژە بەوە دەکات، لە داهاتوویەکی نزیکدا ژنان زیاتر لە پیاوان دەکەونە ژێر کاریگەریی ئەم تەکنەلۆژیایە و ئەگەری لەدەستدانی کارەکانیان زیاترە.",
-    "source": "rudaw-sorani",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-11T16:02:03.034134+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1189,33 +1504,6 @@
     }
   },
   {
-    "id": "bc55cf83ca7cec93",
-    "url": "https://www.rudaw.net/sorani/world/15012024",
-    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "How is the President of the United States elected?",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆناڵد ترەمپ، سەرۆکی ئەمریکا لە ترووس سۆشیاڵ، هەڤپەیڤینێکی تایبەتی قوباد تاڵەبانی، جێگری سەرۆکوەزیرانی هەرێمی کوردستانی بڵاوکردەوە. قوباد تاڵەبانی لەو هەڤپەیڤینەدا دەڵێ، ترەمپ \"وەستای رێککەوتنە\" و دەتوانێت بگاتە رێککەوتنێکی گەورە لەگەڵ ئێران کە ببێتە هۆی بووژانەوەی ئابووری لە هەموو جیهاندا.",
-    "source": "rudaw-sorani",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Region of Iraq",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Donald Trump",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-11T13:31:48.607576+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "ec9c1b9336e27a24",
     "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
     "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
@@ -1371,33 +1659,6 @@
       "name": "Sulaymaniyah",
       "lat": 35.5571,
       "lng": 45.4357
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Marco Rubio",
-        "type": "PERSON"
-      },
-      {
-        "name": "Donald Trump",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-11T13:04:22.484052+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
     }
   },
   {
@@ -1799,48 +2060,12 @@
     }
   },
   {
-    "id": "bb8f58f6fa8c8430",
-    "url": "https://www.rudaw.net/english/world/110520263",
-    "title": "Sweden says important that Syria moves in right direction on minority rights",
-    "title_en": "Sweden says important that Syria moves in right direction on minority rights",
-    "summary": "Znar Shino SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. - Also in World Trump reiterates disappointment with Kurds over alleged weapons delivery UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties EU to raise Kurdish language rights with Damascus US says naval blockade on Iran remains 'fully enforced' A+ A- ERBIL, Kurdistan R",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "47a035efe725c806",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520263",
     "title": "Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity",
     "title_en": "Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Travelers line up in front of check-in counters at Baghdad International Airport on May 8, 2026. Photo: Baghdad International Airport/Facebook Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Ex-PM warns of ‘grave’ breach over alleged secret foreign military bas",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0569f8a740456859",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/110520262",
-    "title": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
-    "title_en": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Mustafa al-Kadhimi. Photo: Kadhimi's Telegram channel. Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Iran-Iraq committee discusses border security as attacks on Kurdis",
-    "source": "rudaw-sorani",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
@@ -1871,37 +2096,6 @@
     }
   },
   {
-    "id": "794cbed5ded41fc2",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/110520261",
-    "title": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
-    "title_en": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq The Iran-Iraq High Committee for the Implementation of the March 2023 Security Agreement meets in Baghdad on May 11, 2026. Photo: Iraqi National Security Advisory Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as in",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Iran-Iraq High Committee",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Qasim al-Araji",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "41eb3ae59a72fa6c",
     "url": "https://www.rudaw.net/english/world/110520262",
     "title": "Trump reiterates disappointment with Kurds over alleged weapons delivery",
@@ -1909,24 +2103,6 @@
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Trump speaking at an event in Washington on May 11, 2026. Photo: AFP Also in World Sweden says important that Syria moves in right direction on minority rights UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties EU to raise Kurdish language rights with Damascus US says ",
     "source": "rudaw-english",
     "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d9501a3c023d277e",
-    "url": "https://www.rudaw.net/english/world/110520261",
-    "title": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
-    "title_en": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Plaque of the UK Government’s Foreign, Commonwealth and Development Office (FCDO). File photo: AP. Also in World Sweden says important that Syria moves in right direction on minority rights Trump reiterates disappointment with Kurds over alleged weapons delivery EU to raise Kurdish language right",
-    "source": "rudaw-sorani",
-    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -2028,49 +2204,13 @@
     }
   },
   {
-    "id": "2dbfb5649f6c5534",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1105202629",
-    "title": "گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە",
-    "title_en": "گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە",
-    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ئەو شوێنەی گەلی عەلی بەگ کە ئۆتۆمبێلەکەی تێدا کەوتە نێو رووبار زۆرتر لە کوردستان یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە هێر",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "dfe7818a62728df1",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1105202630",
-    "title": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
-    "title_en": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
-    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ژمارەیەک پۆلیس لە کەرکووک. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیا",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "24bc950ba2824621",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202628",
     "title": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
     "title_en": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان فرۆکەیەکی هێڵی ئاسمانی تورکیش ئێرلاین. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان",
     "source": "rudaw-sorani",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -2088,7 +2228,7 @@
     "title_en": "لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان بینایەک لە ئیلام کە بە بۆردوومانی ئەمریکا/ئیسرائیل لە جەنگی 40 رۆژەدا وێران بووە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان",
     "source": "rudaw-sorani",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -2645,24 +2785,6 @@
     "title": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
     "title_en": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کرێکارێک لە کۆمپانیای ئارامکۆ زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ کۆمپانیای ئارامکۆی سعودی رایگەیاند، قاز",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c41b99077601133f",
-    "url": "https://www.rudaw.net/sorani/business/120520262",
-    "title": "نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە",
-    "title_en": "نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە",
-    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری تمەن و دۆلار. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ ئەمڕۆ ئاراستەی نرخی دۆ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
