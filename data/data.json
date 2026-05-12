@@ -176,21 +176,12 @@
     "id": "1795769734562cef",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "With Sorrow - Protecting the Environment",
+    "title_en": "With the people's rage - a protest in the city",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "environment",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "United Nations",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-12T07:13:38.615715+00:00",
     "location": {
@@ -974,16 +965,13 @@
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "The Beauty of the Land",
+    "title_en": "Shin valley explosion",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "culture",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      }
+      "Shin Valley"
     ],
     "breaking": 1,
     "timestamp": "2026-05-11T16:01:41.234687+00:00",
