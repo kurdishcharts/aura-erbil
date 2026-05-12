@@ -74,7 +74,7 @@
       const card   = mkCard(panel, 'Hourly Activity · Articles by Hour');
       const canvas = mkCanvas(card, 145);
       const hours  = new Array(24).fill(0);
-      articles.forEach(a => { if (a.timestamp) hours[new Date(a.timestamp).getHours()]++; });
+      filteredArticles.forEach(a => { if (a.timestamp) hours[new Date(a.timestamp).getHours()]++; });
       mkC(canvas, {
         type: 'bar',
         data: { labels: Array.from({ length: 24 }, (_, i) => i + 'h'), datasets: [{ data: hours, backgroundColor: hours.map(v => `rgba(26,86,219,${Math.min(0.15 + v / 10, 0.9)})`), borderWidth: 0, borderRadius: 2, borderSkipped: false }] },
@@ -87,7 +87,7 @@
       const card   = mkCard(panel, 'Weekday Activity · Which Day is Busiest');
       const canvas = mkCanvas(card, 145);
       const dow    = new Array(7).fill(0);
-      articles.forEach(a => { if (a.timestamp) dow[new Date(a.timestamp).getDay()]++; });
+      filteredArticles.forEach(a => { if (a.timestamp) dow[new Date(a.timestamp).getDay()]++; });
       mkC(canvas, {
         type: 'bar',
         data: { labels: ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], datasets: [{ data: dow, backgroundColor: ['#e0e7ff','#c7d2fe','#a5b4fc','#818cf8','#6366f1','#4f46e5','#4338ca'], borderWidth: 0, borderRadius: 5, borderSkipped: false }] },
@@ -274,6 +274,225 @@
           plugins: { legend:{ display:true, position:'top', labels:{ font:{family:'DM Sans',size:9}, color:'#4b5875', padding:8, usePointStyle:true, pointStyleWidth:6 } } },
           scales: { x:{ticks:TICK,grid:{display:false}}, y:{ticks:{...TICK,callback:v=>v===1?'+1':v===-1?'-1':'0'},grid:{color:GRID},min:-1.5,max:1.5} }
         }
+      });
+    }
+
+    // ── Entity helper ──
+    function parseEnts(a) {
+      if (!a.entities) return [];
+      try {
+        const e = typeof a.entities === 'string' ? JSON.parse(a.entities) : a.entities;
+        return Array.isArray(e) ? e : [];
+      } catch(_) { return []; }
+    }
+
+    // D1. Entity Type Distribution
+    {
+      const card   = mkCard(panel, 'Entity Type Distribution');
+      const canvas = mkCanvas(card, 145);
+      const typeCounts = {};
+      filteredArticles.forEach(a => parseEnts(a).forEach(e => {
+        const t = (e.type || 'OTHER').toUpperCase();
+        typeCounts[t] = (typeCounts[t] || 0) + 1;
+      }));
+      const types  = Object.keys(typeCounts);
+      const colors = ['#1a56db','#059669','#7c3aed','#d97706','#dc2626','#0891b2','#be185d','#0f766e'];
+      mkC(canvas, {
+        type: 'doughnut',
+        data: { labels: types, datasets: [{ data: types.map(t=>typeCounts[t]), backgroundColor: colors.slice(0,types.length), borderWidth: 0 }] },
+        options: { ...BASE, cutout:'60%', plugins:{ legend:{ display:true, position:'right', labels:{ font:{family:'DM Sans',size:9}, color:'#4b5875', padding:6, usePointStyle:true, pointStyleWidth:6 } } } }
+      });
+    }
+
+    // D2. Top Persons Mentioned
+    {
+      const card   = mkCard(panel, 'Top Persons Mentioned');
+      const canvas = mkCanvas(card, 145);
+      const counts = {};
+      filteredArticles.forEach(a => parseEnts(a).filter(e=>e.type==='PERSON').forEach(e => {
+        counts[e.name] = (counts[e.name] || 0) + 1;
+      }));
+      const top = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t=>t[0]), datasets: [{ data: top.map(t=>t[1]), backgroundColor:'rgba(26,86,219,.65)', borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID},beginAtZero:true}, y:{ticks:{...TICK,font:{size:9}},grid:{display:false}} } }
+      });
+    }
+
+    // D3. Top Organizations
+    {
+      const card   = mkCard(panel, 'Top Organizations');
+      const canvas = mkCanvas(card, 145);
+      const counts = {};
+      filteredArticles.forEach(a => parseEnts(a).filter(e=>e.type==='ORGANIZATION').forEach(e => {
+        counts[e.name] = (counts[e.name] || 0) + 1;
+      }));
+      const top = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t=>t[0]), datasets: [{ data: top.map(t=>t[1]), backgroundColor:'rgba(124,58,237,.65)', borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID},beginAtZero:true}, y:{ticks:{...TICK,font:{size:9}},grid:{display:false}} } }
+      });
+    }
+
+    // D4. Entity Co-occurrence · Top Pairs
+    {
+      const card   = mkCard(panel, 'Entity Co-occurrence · Top Pairs');
+      const canvas = mkCanvas(card, 145);
+      const pairs  = {};
+      articles.forEach(a => {
+        const names = [...new Set(parseEnts(a).map(e=>e.name).filter(Boolean))].slice(0,5);
+        for (let i=0;i<names.length;i++) for(let j=i+1;j<names.length;j++) {
+          const key = [names[i],names[j]].sort().join(' + ');
+          pairs[key] = (pairs[key]||0)+1;
+        }
+      });
+      const top = Object.entries(pairs).sort((a,b)=>b[1]-a[1]).slice(0,8);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t=>t[0]), datasets: [{ data: top.map(t=>t[1]), backgroundColor:'rgba(8,145,178,.65)', borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID},beginAtZero:true}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
+      });
+    }
+
+    // D5. Entity Sentiment Breakdown
+    {
+      const card   = mkCard(panel, 'Entity Sentiment Breakdown');
+      const canvas = mkCanvas(card, 145);
+      const entSent = {};
+      filteredArticles.forEach(a => parseEnts(a).slice(0,3).forEach(e => {
+        const n = e.name; if (!n) return;
+        if (!entSent[n]) entSent[n] = {pos:0,neg:0,neu:0,total:0};
+        entSent[n][a.sentiment==='positive'?'pos':a.sentiment==='negative'?'neg':'neu']++;
+        entSent[n].total++;
+      }));
+      const top = Object.entries(entSent).sort((a,b)=>b[1].total-a[1].total).slice(0,8);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t=>t[0]), datasets:[
+          { label:'Pos', data:top.map(t=>t[1].pos), backgroundColor:'rgba(5,150,105,.75)',  borderWidth:0 },
+          { label:'Neg', data:top.map(t=>t[1].neg), backgroundColor:'rgba(220,38,38,.75)',  borderWidth:0 },
+          { label:'Neu', data:top.map(t=>t[1].neu), backgroundColor:'rgba(217,119,6,.65)',  borderWidth:0 },
+        ]},
+        options: { ...BASE,
+          plugins:{ legend:{ display:true, position:'top', labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:6,usePointStyle:true,pointStyleWidth:6} } },
+          scales:{ x:{stacked:true,ticks:{...TICK,font:{size:8}},grid:{display:false}}, y:{stacked:true,ticks:TICK,grid:{color:GRID},beginAtZero:true} }
+        }
+      });
+    }
+
+    // E1. Sentiment Z-Score
+    {
+      const card     = mkCard(panel, 'Sentiment Z-Score · Daily vs Mean');
+      const canvas   = mkCanvas(card, 145);
+      const dailyAvg = days.map(d=>{ const arr=byDay[d].map(sentScore); return arr.reduce((a,b)=>a+b,0)/arr.length; });
+      const mean     = dailyAvg.reduce((a,b)=>a+b,0)/dailyAvg.length;
+      const std      = Math.sqrt(dailyAvg.reduce((a,b)=>a+(b-mean)**2,0)/dailyAvg.length)||1;
+      const zScores  = dailyAvg.map(v=>+((v-mean)/std).toFixed(2));
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: shortLbls, datasets:[{ data:zScores, backgroundColor:zScores.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options: { ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+    // E2. Category Correlation · % Positive per Category
+    {
+      const card   = mkCard(panel, 'Category Correlation · % Positive per Category');
+      const canvas = mkCanvas(card, 145);
+      const cats   = [...new Set(articles.map(a=>a.category).filter(Boolean))].slice(0,8);
+      const pctPos = cats.map(c=>{ const sub=articles.filter(a=>a.category===c); return sub.length?Math.round(sub.filter(a=>a.sentiment==='positive').length/sub.length*100):0; });
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels:cats, datasets:[{ data:pctPos, backgroundColor:pctPos.map(v=>v>=50?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options: { ...BASE, scales:{ x:{ticks:{...TICK,maxRotation:45},grid:{display:false}}, y:{ticks:{...TICK,callback:v=>v+'%'},grid:{color:GRID},beginAtZero:true,max:100} } }
+      });
+    }
+
+    // E3. Bull/Bear Acceleration
+    {
+      const card   = mkCard(panel, 'Bull/Bear Acceleration · Δ² Pos Ratio');
+      const canvas = mkCanvas(card, 145);
+      const posR   = days.map(d=>byDay[d].filter(a=>a.sentiment==='positive').length/byDay[d].length);
+      const mom    = posR.map((v,i)=>i===0?0:v-posR[i-1]);
+      const accel  = mom.map((v,i)=>i===0?0:+(v-mom[i-1]).toFixed(3));
+      mkC(canvas, {
+        type: 'bar',
+        data:{ labels:shortLbls, datasets:[{ data:accel, backgroundColor:accel.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+    // E4. Sentiment Velocity · Hourly Average Score
+    {
+      const card    = mkCard(panel, 'Sentiment Velocity · Hourly Average Score');
+      const canvas  = mkCanvas(card, 145);
+      const byHour  = {};
+      filteredArticles.forEach(a=>{ if(!a.timestamp) return; const h=new Date(a.timestamp).getHours(); if(!byHour[h]) byHour[h]=[]; byHour[h].push(sentScore(a)); });
+      const hourAvg = Array.from({length:24},(_,i)=>{ const arr=byHour[i]||[]; return arr.length?+(arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2):null; });
+      mkC(canvas, {
+        type:'line',
+        data:{ labels:Array.from({length:24},(_,i)=>i+'h'), datasets:[{ data:hourAvg, borderColor:'#0891b2', backgroundColor:'rgba(8,145,178,.08)', fill:true, tension:.4, pointRadius:2, spanGaps:true }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},min:-1,max:1} } }
+      });
+    }
+
+    // E5. Cumulative Net Sentiment
+    {
+      const card   = mkCard(panel, 'Cumulative Net Sentiment');
+      const canvas = mkCanvas(card, 145);
+      let cum = 0;
+      const cumArr = days.map(d=>{ cum += byDay[d].reduce((s,a)=>s+sentScore(a),0); return cum; });
+      const col    = cumArr[cumArr.length-1] >= 0 ? '#059669' : '#dc2626';
+      mkC(canvas, {
+        type:'line',
+        data:{ labels:shortLbls, datasets:[{ data:cumArr, borderColor:col, backgroundColor:col+'18', fill:true, tension:.4, pointRadius:1.5 }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+    // E6. Daily Volatility
+    {
+      const card   = mkCard(panel, 'Daily Volatility · Absolute Daily Swing');
+      const canvas = mkCanvas(card, 145);
+      const swing  = days.map(d=>{ const arr=byDay[d].map(sentScore); return +(Math.max(...arr)-Math.min(...arr)).toFixed(2); });
+      mkC(canvas, {
+        type:'bar',
+        data:{ labels:shortLbls, datasets:[{ data:swing, backgroundColor:'rgba(124,58,237,.55)', borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},beginAtZero:true} } }
+      });
+    }
+
+    // E7. SMA Crossover (3d vs 7d)
+    {
+      const card     = mkCard(panel, 'SMA Crossover · 3d vs 7d');
+      const canvas   = mkCanvas(card, 145);
+      const dailyAvg = days.map(d=>{ const arr=byDay[d].map(sentScore); return arr.reduce((a,b)=>a+b,0)/arr.length; });
+      const sma      = n => dailyAvg.map((_,i)=>i<n-1?null:+(dailyAvg.slice(i-n+1,i+1).reduce((a,b)=>a+b,0)/n).toFixed(3));
+      mkC(canvas, {
+        type:'line',
+        data:{ labels:shortLbls, datasets:[
+          { label:'SMA3', data:sma(3), borderColor:'#1a56db', tension:.4, pointRadius:1.5, borderWidth:2,   spanGaps:true },
+          { label:'SMA7', data:sma(7), borderColor:'#d97706', tension:.4, pointRadius:1.5, borderWidth:1.5, borderDash:[4,3], spanGaps:true },
+        ]},
+        options:{ ...BASE,
+          plugins:{ legend:{ display:true, position:'top', labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:8,usePointStyle:true,pointStyleWidth:6} } },
+          scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} }
+        }
+      });
+    }
+
+    // E8. Intraday Sentiment Swing · 4h Blocks
+    {
+      const card   = mkCard(panel, 'Intraday Sentiment Swing · 4h Blocks');
+      const canvas = mkCanvas(card, 145);
+      const blocks = ['0–4h','4–8h','8–12h','12–16h','16–20h','20–24h'];
+      const bData  = blocks.map((_,i)=>{ const arr=articles.filter(a=>{ if(!a.timestamp) return false; const h=new Date(a.timestamp).getHours(); return h>=i*4&&h<(i+1)*4; }).map(sentScore); return arr.length?+(arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2):0; });
+      mkC(canvas, {
+        type:'bar',
+        data:{ labels:blocks, datasets:[{ data:bData, backgroundColor:bData.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},min:-1,max:1} } }
       });
     }
   }
