@@ -3,12 +3,21 @@
     "id": "202ecb8dd36fdf99",
     "url": "https://www.rudaw.net/sorani/business/12052026",
     "title": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
-    "title_en": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "One ounce of gold is sold for approximately $4,720",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نزیکەی 664 ملیار دیناری پارەی مووچە خرایە سەر هەژماری وەزارەتی دارایی هەرێمی کوردستان.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:15:07.605231+00:00",
     "location": {
@@ -21,12 +30,17 @@
     "id": "5872dd28c722c1b7",
     "url": "https://www.rudaw.net/sorani/business/150620234",
     "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "This new housing project in Erbil will be unveiled",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ سێشەممە نرخی ئۆنسەیەک زێڕ بە بەرزبوونەوەی بەرچاو کرایەوە و توانی ئاستی 4,770 دۆلار بپێکێت، بەڵام لە دوای چەند کاژێرێک قازانجەکانی لەدەستدا و ئێستا لە نزیک 4720 دۆلار مامەڵەی پێوەدەکرێت.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:14:58.167850+00:00",
     "location": {
@@ -39,12 +53,17 @@
     "id": "508437d052e7ea1d",
     "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
     "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "How does groundwater form?",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەری بەرگریی شارستانیی سۆران راگەیاند، بۆ ماوەی 10 رۆژە گەڕان بەدوای ئەو دوو منداڵەی کەوتوونەتە نێو ئاوی گەلی عەلی بەگ بەردەوامە. راشیگەیاند، جگە لە بەکارهێنانی سۆنەر، بڕیارە سبەی سێ کامێرای تایبەت لە هەولێرەوە بگەنە شوێنەکە بۆ چڕکردنەوەی گەڕانەکان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:14:37.729847+00:00",
     "location": {
@@ -57,12 +76,21 @@
     "id": "642a2fc0f2bded4a",
     "url": "https://www.rudaw.net/sorani/world/120520261",
     "title": "بۆ یەکەمجار لە ئەمریکا؛ ژمارەی دایکانی تەمەن 40 ساڵ لە دایکە هەرزەکار و گەنجەکان زیاترە",
-    "title_en": "بۆ یەکەمجار لە ئەمریکا؛ ژمارەی دایکانی تەمەن 40 ساڵ لە دایکە هەرزەکار و گەنجەکان زیاترە",
+    "title_en": "For the first time in America: The number of mothers over 40 is greater than that of young mothers",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، واشنتن بیر لە دەستپێکردنی (پڕۆژەی ئازادی) دەکاتەوە. راشیگەیاند، هەر کردەوەیەکی سەربازی لە ناوچەکەدا، زۆر لە پاراستنی کەشتییە بازرگانییەکان گەورەتر دەبێت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      },
+      {
+        "name": "Washington",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:14:23.856831+00:00",
     "location": {
@@ -75,12 +103,17 @@
     "id": "e372e61125b32202",
     "url": "https://www.rudaw.net/sorani/kurdistan/310320263",
     "title": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
-    "title_en": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
+    "title_en": "New Message from Ocalan: The Era of Armed Struggle is Over",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەری بەرگریی شارستانیی سۆران راگەیاند، بۆ ماوەی 10 رۆژە گەڕان بەدوای ئەو دوو منداڵەی کەوتوونەتە نێو ئاوی گەلی عەلی بەگ بەردەوامە. راشیگەیاند، جگە لە بەکارهێنانی سۆنەر، بڕیارە سبەی سێ کامێرای تایبەت لە هەولێرەوە بگەنە شوێنەکە بۆ چڕکردنەوەی گەڕانەکان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ocalan",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:14:12.787039+00:00",
     "location": {
@@ -93,30 +126,44 @@
     "id": "57327df16e27b8fa",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
     "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "8.3 Percent of Kurds Speak Persian",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Persia",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:14:01.266142+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "cd9414166743a361",
     "url": "https://www.rudaw.net/sorani/business/120520261",
     "title": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
-    "title_en": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
+    "title_en": "Brent crude oil price close to $104",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نزیکەی 664 ملیار دیناری پارەی مووچە خرایە سەر هەژماری وەزارەتی دارایی هەرێمی کوردستان.",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:13:49.273747+00:00",
     "location": {
@@ -129,12 +176,21 @@
     "id": "1795769734562cef",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "With Sorrow - Protecting the Environment",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "environment",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:13:38.615715+00:00",
     "location": {
@@ -336,16 +392,14 @@
     "id": "cbb4acb26537616f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
     "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "Two people injured in a stampede in the Swedish city of Orebro",
+    "title_en": "Two Bodyguards Killed in an Attack at Örebro City in Sweden",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "health",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Orebro",
-        "type": "LOCATION"
-      }
+      "Örebro",
+      "Sweden"
     ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:17.501489+00:00",
@@ -2172,9 +2226,22 @@
     "title_en": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Logo of Iraq’s Joint Operations Command (JOC). Graphic: Rudaw Also in Iraq Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq Iran-Iraq committee discusses border security as at",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2298,9 +2365,18 @@
     "title_en": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria SDF chief Mazloum Abdi speaking to ANHA. Also in Syria Unidentified gunmen kill at least two Syrian soldiers in Hasaka Kurdish language education is a ‘red line for us’: Rojava academic Celebratory gunfire during detainees return kills man in Rojava Bus explosion injures five civilians in Damascu",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "culture",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Mazloum Abdi",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -3611,45 +3687,76 @@
     "title_en": "Chinese company says Iraq power plants to add 1200 MW by summer",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq A power station in the Kurdistan Region. Photo: Bilind T. Abdullah/Rudaw Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleged secre",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "economy",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "China",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "bba0640afd97ca3b",
     "url": "https://www.rudaw.net/sorani/kurdistan/120520262",
     "title": "نێچیرڤان بارزانی لە ساڵیادی شەهیدبوونی لەیلا قاسم: مەشخەڵی هۆشیاری و پێشەنگیی ئافره‌تانی کوردستان بوو",
-    "title_en": "نێچیرڤان بارزانی لە ساڵیادی شەهیدبوونی لەیلا قاسم: مەشخەڵی هۆشیاری و پێشەنگیی ئافره‌تانی کوردستان بوو",
+    "title_en": "Nader Barzani on the anniversary of the death of Ilay Qasim: A symbol of vigilance and progress in the Kurdistan region",
     "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان زۆرتر لە کوردستان دەروازەی سنووریی کانیاخەزالان دوای 12 ساڵ دەکرێتەوە لە ئامەد کۆڕبەندی ئاشتی بەڕێوەدەچێت و پارێزگارانی هەولێر و دهۆک بانگهێشتکراون لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی گەڕان بەدوای دوو م",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nader Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ilay Qasim",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "dbaae89bdb707747",
     "url": "https://www.rudaw.net/sorani/kurdistan/120520264",
     "title": "دەروازەی سنووریی کانیاخەزالان دوای 12 ساڵ دەکرێتەوە",
-    "title_en": "دەروازەی سنووریی کانیاخەزالان دوای 12 ساڵ دەکرێتەوە",
+    "title_en": "Kanya Xan border crossing reopens after 12 years",
     "summary": "هەوار ئیسماعیل به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان دیمەنێکی دەروازە سنوورییەکەی نێوان باکوور و رۆژئاوای کوردستان زۆرتر لە کوردستان لە ئامەد کۆڕبەندی ئاشتی بەڕێوەدەچێت و پارێزگارانی هەولێر و دهۆک بانگهێشتکراون نێچیرڤان بارزانی لە ساڵیادی شەهیدبوونی لەیلا قاسم: مەشخەڵی هۆشیاری و پێشەنگیی ئافره‌تانی کوردستان بوو لە ئاهەنگی خانەوادەیەکی کوردی ئیس",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -3662,66 +3769,98 @@
     "id": "b4a92911800562f8",
     "url": "https://www.rudaw.net/sorani/kurdistan/120520263",
     "title": "لە ئامەد کۆڕبەندی ئاشتی بەڕێوەدەچێت و پارێزگارانی هەولێر و دهۆک بانگهێشتکراون",
-    "title_en": "لە ئامەد کۆڕبەندی ئاشتی بەڕێوەدەچێت و پارێزگارانی هەولێر و دهۆک بانگهێشتکراون",
+    "title_en": "Peace rally held in Amadi, supporters of Erbil and Duhok are invited",
     "summary": "رووداو @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان دیمەنێکی ناوچەی سووری ئامەد زۆرتر لە کوردستان دەروازەی سنووریی کانیاخەزالان دوای 12 ساڵ دەکرێتەوە نێچیرڤان بارزانی لە ساڵیادی شەهیدبوونی لەیلا قاسم: مەشخەڵی هۆشیاری و پێشەنگیی ئافره‌تانی کوردستان بوو لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی گەڕان بەدوای دو",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Amadiya",
+      "lat": 37.0924,
+      "lng": 43.4889
     }
   },
   {
     "id": "117349ebd4b61788",
     "url": "https://www.rudaw.net/sorani/middleeast/12052026",
     "title": "دوای زیاتر لە 2800 هێرش؛ ئیمارات وەڵامی سەربازیی ئێرانی دایەوە",
-    "title_en": "دوای زیاتر لە 2800 هێرش؛ ئیمارات وەڵامی سەربازیی ئێرانی دایەوە",
+    "title_en": "Following more than 2800 attacks; the United Arab Emirates responds with military action against Iran",
     "summary": "بەشدار موزەفەر @bashdarmu به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست بەرزبوونەوەی ئاگر و دووکەڵ لە کۆگایەکی سووتەمەنی لەنزیک فڕۆکەخانەی نێودەوڵەتیی دووبەی لەدوای هێرشێکی درۆنی لە 16ی ئادار. وێنە: AP زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "United Arab Emirates",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "7073187700246544",
     "url": "https://www.rudaw.net/sorani/business/120520264",
     "title": "وەزارەتی نەوتی عێراق بۆ رووداو: لە هەفتەیەکدا دوو کەشتیمان بە تەنگەی هورمزدا تێپەڕیون",
-    "title_en": "وەزارەتی نەوتی عێراق بۆ رووداو: لە هەفتەیەکدا دوو کەشتیمان بە تەنگەی هورمزدا تێپەڕیون",
+    "title_en": "Ministry of Oil of Iraq: Two ships have passed through the Khor Al-Amad canal in one week",
     "summary": "مالیک محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری تەنگەی هورمز زۆرتر لە ئابووری ئەمریکا هۆشداری دەداتە بانکەکان: سوپای پاسداران دۆلار لە رێگەی دراوە دیجیتاڵییەکانەوە دەگوازێتەوە نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت A+ A- رووداو دیجیتاڵ بری",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Khor Al-Amad canal",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "5403278c7171864d",
     "url": "https://www.rudaw.net/sorani/business/120520263",
     "title": "ئەمریکا هۆشداری دەداتە بانکەکان: سوپای پاسداران دۆلار لە رێگەی دراوە دیجیتاڵییەکانەوە دەگوازێتەوە",
-    "title_en": "ئەمریکا هۆشداری دەداتە بانکەکان: سوپای پاسداران دۆلار لە رێگەی دراوە دیجیتاڵییەکانەوە دەگوازێتەوە",
+    "title_en": "United States Warns Banks: IRGC is Transferring Money Through Digital Currencies",
     "summary": "بەشدار موزەفەر @bashdarmu به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری لۆگۆی ژمارەیەک دراوی دیجیتاڵی زۆرتر لە ئابووری وەزارەتی نەوتی عێراق بۆ رووداو: لە هەفتەیەکدا دوو کەشتیمان بە تەنگەی هورمزدا تێپەڕیون نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت A+ A- ر",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "IRGC",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
