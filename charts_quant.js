@@ -664,6 +664,120 @@
       });
     }
 
+
+    // ═══════════════════════════════════════════════════════════════
+    // G1 · Article Velocity · 7‑Day Rolling Average
+    // Momentum of news flow — sudden changes precede events
+    // ═══════════════════════════════════════════════════════════════
+    {
+      const card   = mkCard(panel, 'Article Velocity · 7‑Day Rolling Avg');
+      const canvas = mkCanvas(card, 145);
+      const dailyVol = days.map(d => byDay[d].length);
+      const rolling = dailyVol.map((_,i) => i<6 ? null : dailyVol.slice(i-6,i+1).reduce((a,b)=>a+b,0)/7);
+      mkC(canvas, {
+        type: 'line',
+        data: { labels: shortLbls, datasets: [
+          { label: 'Daily', data: dailyVol, borderColor: 'rgba(255,255,255,.15)', backgroundColor: 'transparent', tension: .3, pointRadius: 0 },
+          { label: '7D Avg', data: rolling, borderColor: '#00B2FF', borderWidth: 2.5, tension: .4, pointRadius: 2, pointBackgroundColor: '#00B2FF', spanGaps: true }
+        ]},
+        options: { ...BASE,
+          plugins: { legend: { display: true, position: 'top', labels: { font: {family:'DM Sans',size:9}, color:'#4b5875', padding:6, usePointStyle:true, pointStyleWidth:6 } } },
+          scales: { x: { ticks: TICK, grid: { display: false } }, y: { ticks: TICK, grid: { color: GRID }, beginAtZero: true } }
+        }
+      });
+    }
+
+    // G2 · Sentiment Volatility Bands · Mean ±2σ
+    {
+      const card   = mkCard(panel, 'Sentiment Volatility Bands · Mean ±2σ');
+      const canvas = mkCanvas(card, 145);
+      const dailyAvg = days.map(d => {
+        const scores = byDay[d].map(sentScore);
+        return scores.length ? scores.reduce((a,b)=>a+b,0)/scores.length : 0;
+      });
+      const dailyStd = days.map((d,i) => {
+        const scores = days.slice(Math.max(0,i-6),i+1).flatMap(dd => byDay[dd].map(sentScore));
+        return scores.length ? Math.sqrt(scores.reduce((a,b)=>a+(b)**2,0)/scores.length) : 0;
+      });
+      const upper = dailyAvg.map((v,i) => v + 2*dailyStd[i]);
+      const lower = dailyAvg.map((v,i) => v - 2*dailyStd[i]);
+      mkC(canvas, {
+        type: 'line',
+        data: { labels: shortLbls, datasets: [
+          { label: 'Upper', data: upper, borderColor: 'transparent', backgroundColor: 'transparent', pointRadius: 0 },
+          { label: 'Lower', data: lower, borderColor: 'transparent', backgroundColor: 'rgba(0,178,255,0.08)', fill: 1, pointRadius: 0 },
+          { label: 'Sentiment', data: dailyAvg, borderColor: '#FFD700', borderWidth: 2, tension: .4, pointRadius: 2, pointBackgroundColor: '#FFD700' }
+        ]},
+        options: { ...BASE,
+          plugins: { legend: { display: false } },
+          scales: { x: { ticks: TICK, grid: { display: false } }, y: { ticks: TICK, grid: { color: GRID }, min: -1, max: 1 } }
+        }
+      });
+    }
+
+    // G3 · Source Dominance Area · Share of Voice over Time
+    {
+      const card   = mkCard(panel, 'Source Dominance · Share of Voice');
+      const canvas = mkCanvas(card, 145);
+      const topSources = Object.entries(
+        filteredArticles.reduce((acc,a) => { const s = a.source || 'unknown'; acc[s] = (acc[s]||0)+1; return acc; }, {})
+      ).sort((a,b) => b[1]-a[1]).slice(0,6).map(e => e[0]);
+      const byDaySource = {};
+      days.forEach(d => { byDaySource[d] = {}; topSources.forEach(s => byDaySource[d][s] = 0); });
+      filteredArticles.forEach(a => {
+        const d = a.timestamp && a.timestamp.slice(0,10);
+        if (d && byDaySource[d]) byDaySource[d][a.source || 'unknown'] = (byDaySource[d][a.source || 'unknown']||0)+1;
+      });
+      const colors = ['#00B2FF','#FFD700','#FF4B4B','#00FFC2','#C77DFF','#FFA500'];
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: shortLbls, datasets: topSources.map((s,i) => ({
+          label: s, data: days.map(d => byDaySource[d][s]||0), backgroundColor: colors[i%6], borderWidth: 0, borderRadius: 2, borderSkipped: false
+        }))},
+        options: { ...BASE,
+          plugins: { legend: { display: true, position: 'top', labels: { font: {family:'DM Sans',size:8}, color:'#4b5875', padding:4, usePointStyle:true, pointStyleWidth:4 } } },
+          scales: { x: { stacked: true, ticks: TICK, grid: { display: false } }, y: { stacked: true, ticks: TICK, grid: { color: GRID }, beginAtZero: true } }
+        }
+      });
+    }
+
+    // G4 · Geographical Impact Score · Total Reach per City
+    {
+      const card   = mkCard(panel, 'Geographical Impact · Weighted Score');
+      const canvas = mkCanvas(card, 145);
+      const cityScore = {};
+      filteredArticles.forEach(a => {
+        const loc = (a.location && a.location.name) || 'Erbil';
+        const intensity = Math.abs(sentScore(a));
+        cityScore[loc] = (cityScore[loc] || 0) + 1 + intensity * 5;
+      });
+      const topCities = Object.entries(cityScore).sort((a,b) => b[1]-a[1]).slice(0,10);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: topCities.map(e => e[0]), datasets: [{ data: topCities.map(e => e[1]), backgroundColor: 'rgba(0,255,194,.65)', borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID}}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
+      });
+    }
+
+    // G5 · Thematic Sentiment Radar · By Category
+    {
+      const card   = mkCard(panel, 'Thematic Sentiment · Radar');
+      const canvas = mkCanvas(card, 145);
+      const categories = [...new Set(filteredArticles.map(a => a.category).filter(Boolean))].slice(0,10);
+      const categorySent = categories.map(c => {
+        const arts = filteredArticles.filter(a => a.category === c);
+        return arts.length ? arts.reduce((s,a) => s+sentScore(a),0)/arts.length : 0;
+      });
+      mkC(canvas, {
+        type: 'radar',
+        data: { labels: categories, datasets: [{ data: categorySent, borderColor: '#FFD700', backgroundColor: 'rgba(255,215,0,.1)', borderWidth: 2, pointBackgroundColor: '#FFD700' }] },
+        options: { ...BASE,
+          plugins: { legend: { display: false } },
+          scales: { r: { ticks: { display: false }, grid: { color: GRID }, min: -1, max: 1, beginAtZero: true } }
+        }
+      });
+    }
+
   function init() {
     if (typeof D === 'undefined' || !D || !D.length) { setTimeout(init, 500); return; }
     const panel = document.getElementById('quant-panel');
