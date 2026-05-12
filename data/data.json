@@ -1,5 +1,50 @@
 [
   {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "KDP",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Halbousi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-12T04:43:47.735278+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87538b8a9eff8303",
+    "url": "https://www.rudaw.net/english/middleeast/syria/110520262",
+    "title": "Kurdish language education is a ‘red line for us’: Rojava academic",
+    "title_en": "Kurdish language education is a ‘red line for us’: Rojava academic",
+    "summary": "ERBIL, Kurdistan Region - A senior official from a university in northeast Syria (Rojava) told Rudaw on Monday that educational institutions in the Kurdish-led enclave will continue providing education in Kurdish, urging the need to safeguard the educational system in place. The remarks come as integration talks between Damascus and Rojava continue, with education as a central issue in the discussions. “When it comes to our mother tongue, this issue is related to our national cause,” said Shervan Mahmood, co-chair of the University of Kobani, stressing that “the Kurdish language is a red line for us” and that “we will never take a step back regarding this language.” Founded in 2017, the University of Kobani was the first higher education institution in the Kurdish majority city, situated in north-central Rojava. It comprises 20 departments across four faculties and five institutes, offering various undergraduate and postgraduate programs in fields including Kurdish literature as well as arts, humanities, medicine and natural sciences. “Some courses are taught in English as well as Arabic, but the primary language and the adopted language policy at the university is Kurdish,” Mahmood noted. The University of Kobani launched a PhD program in the Kurdish language last year, according to the university’s co-chair, who added that the first master’s degree awarded was also in Kurdish language. “For a language that has reached the level where Master's and PhD programs are opened, I don't believe anyone has the right to put this language under discussion anymore,” he added. Since 2011, authorities in Rojava have implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. However, Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29, with significant mediation from the United States through its Special Envoy for Syria",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T04:43:14.006751+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
@@ -1040,33 +1085,6 @@
     }
   },
   {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Kurdistan Democratic Party",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Halabousi",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-11T14:04:18.261344+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "c7d945af82cdde08",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/110520261",
     "title": "ئێران دزەپێکردنی نەوت لە دوورگەی خارک رەتدەکاتەوە",
@@ -1738,6 +1756,1180 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-11T12:31:22.304269+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47e4df5eeb84d527",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
+    "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
+    "title_en": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Logo of Iraq’s Joint Operations Command (JOC). Graphic: Rudaw Also in Iraq Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq Iran-Iraq committee discusses border security as at",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4fa6208b199db061",
+    "url": "https://www.rudaw.net/english/middleeast/iran/110520261",
+    "title": "Iran-US rhetoric intensifies after ceasefire proposal falters",
+    "title_en": "Iran-US rhetoric intensifies after ceasefire proposal falters",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iran Undated picture of Iranian Parliament Speaker Mohammed Bagher Ghalibaf. File photo: IRNA Also in Iran Iran hangs top university student on Mossad, CIA spying charges Iran sends response to US proposal via Pakistan Iran to treat price gougers as agents of US, Israel IRGC threatens ‘heavy’ response ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bb8f58f6fa8c8430",
+    "url": "https://www.rudaw.net/english/world/110520263",
+    "title": "Sweden says important that Syria moves in right direction on minority rights",
+    "title_en": "Sweden says important that Syria moves in right direction on minority rights",
+    "summary": "Znar Shino SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. - Also in World Trump reiterates disappointment with Kurds over alleged weapons delivery UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties EU to raise Kurdish language rights with Damascus US says naval blockade on Iran remains 'fully enforced' A+ A- ERBIL, Kurdistan R",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47a035efe725c806",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520263",
+    "title": "Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity",
+    "title_en": "Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Travelers line up in front of check-in counters at Baghdad International Airport on May 8, 2026. Photo: Baghdad International Airport/Facebook Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Ex-PM warns of ‘grave’ breach over alleged secret foreign military bas",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0569f8a740456859",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520262",
+    "title": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
+    "title_en": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Mustafa al-Kadhimi. Photo: Kadhimi's Telegram channel. Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Iran-Iraq committee discusses border security as attacks on Kurdis",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47262aa7abce7f7a",
+    "url": "https://www.rudaw.net/english/middleeast/syria/110520263",
+    "title": "Unidentified gunmen kill at least two Syrian soldiers in Hasaka",
+    "title_en": "Unidentified gunmen kill at least two Syrian soldiers in Hasaka",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria Aftermath of attack on Syrian army in Hasaka on May 11, 2026. Photo: SOHR Also in Syria Kurdish language education is a ‘red line for us’: Rojava academic SDF chief says Arabic-only signboard in Rojava temporarily accepted Celebratory gunfire during detainees return kills man in Rojava Bus explos",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "794cbed5ded41fc2",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/110520261",
+    "title": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
+    "title_en": "Iran-Iraq committee discusses border security as attacks on Kurdish opposition groups persist",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq The Iran-Iraq High Committee for the Implementation of the March 2023 Security Agreement meets in Baghdad on May 11, 2026. Photo: Iraqi National Security Advisory Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as in",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran-Iraq High Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Qasim al-Araji",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "41eb3ae59a72fa6c",
+    "url": "https://www.rudaw.net/english/world/110520262",
+    "title": "Trump reiterates disappointment with Kurds over alleged weapons delivery",
+    "title_en": "Trump reiterates disappointment with Kurds over alleged weapons delivery",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Trump speaking at an event in Washington on May 11, 2026. Photo: AFP Also in World Sweden says important that Syria moves in right direction on minority rights UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties EU to raise Kurdish language rights with Damascus US says ",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d9501a3c023d277e",
+    "url": "https://www.rudaw.net/english/world/110520261",
+    "title": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
+    "title_en": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Plaque of the UK Government’s Foreign, Commonwealth and Development Office (FCDO). File photo: AP. Also in World Sweden says important that Syria moves in right direction on minority rights Trump reiterates disappointment with Kurds over alleged weapons delivery EU to raise Kurdish language right",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6e7c6a8a6761a7ab",
+    "url": "https://www.rudaw.net/english/middleeast/syria/110520261",
+    "title": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
+    "title_en": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria SDF chief Mazloum Abdi speaking to ANHA. Also in Syria Unidentified gunmen kill at least two Syrian soldiers in Hasaka Kurdish language education is a ‘red line for us’: Rojava academic Celebratory gunfire during detainees return kills man in Rojava Bus explosion injures five civilians in Damascu",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d0655ffc2e5ed70c",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/11052026",
+    "title": "Iraq cabinet vote to see delay as Shiite bloc splits over key ministries",
+    "title_en": "Iraq cabinet vote to see delay as Shiite bloc splits over key ministries",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq A meeting of Iraq’s ruling Shiite Coordination Framework held on April 24, 2026. Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleg",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a693121e806737c9",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202621",
+    "title": "هێرشەکانی سنووری کۆیە ئاژەڵەکانیشی گرتوە؛ 25 هەزار مریشک و جوچک سووتان",
+    "title_en": "هێرشەکانی سنووری کۆیە ئاژەڵەکانیشی گرتوە؛ 25 هەزار مریشک و جوچک سووتان",
+    "summary": "ئەبوبەکر ئیسماعیل به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە پاشماوەی بۆردوومانەکە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cfc1f3dc3ce48342",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202626",
+    "title": "گوتەبێژی یەکگرتوو: وەزارەتێکمان لە بەغدا مسۆگەر کردووە",
+    "title_en": "گوتەبێژی یەکگرتوو: وەزارەتێکمان لە بەغدا مسۆگەر کردووە",
+    "summary": "شیراز رەئوف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە سەلاحەدین بابەکر، گوتەبێژی یەکگرتووی ئیسلامیی کوردستان زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 1",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c9a3d0844d9b6279",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202618",
+    "title": "وەزارەتی تەندروستی: هیچ تووشبوویەکی ڤایرۆسی 'هانتا' لە هەرێمی کوردستان تۆمارنەکراوە",
+    "title_en": "وەزارەتی تەندروستی: هیچ تووشبوویەکی ڤایرۆسی 'هانتا' لە هەرێمی کوردستان تۆمارنەکراوە",
+    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ڤایرۆسی هانتا زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dbfb5649f6c5534",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202629",
+    "title": "گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە",
+    "title_en": "گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە",
+    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ئەو شوێنەی گەلی عەلی بەگ کە ئۆتۆمبێلەکەی تێدا کەوتە نێو رووبار زۆرتر لە کوردستان یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە هێر",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dfe7818a62728df1",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202630",
+    "title": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
+    "title_en": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ژمارەیەک پۆلیس لە کەرکووک. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیا",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "24bc950ba2824621",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202628",
+    "title": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
+    "title_en": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان فرۆکەیەکی هێڵی ئاسمانی تورکیش ئێرلاین. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d5b8fba4f5b00ae7",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202627",
+    "title": "لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە",
+    "title_en": "لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان بینایەک لە ئیلام کە بە بۆردوومانی ئەمریکا/ئیسرائیل لە جەنگی 40 رۆژەدا وێران بووە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "043c80ef86db7326",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202625",
+    "title": "خۆپێشاندان لە حەسەکە بەردەوامە",
+    "title_en": "خۆپێشاندان لە حەسەکە بەردەوامە",
+    "summary": "ڤیڤیان فەتاح به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە خۆپێشاندەرێک بەرامبەر کۆشکی دادی حەسەکە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a1637e5eb58d4145",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202624",
+    "title": "لە هەرێمی کوردستان سووتاندنی پەرێز قەدەخە دەکرێت",
+    "title_en": "لە هەرێمی کوردستان سووتاندنی پەرێز قەدەخە دەکرێت",
+    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان کۆبوونەوەی وەزارەتی ناوخۆ و کشتوکاڵ زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزا",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6b17e105f2a5569c",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202617",
+    "title": "دوو گیرفانبڕەکەی مزگەوتەکانی سلێمانی دەستگیرکران",
+    "title_en": "دوو گیرفانبڕەکەی مزگەوتەکانی سلێمانی دەستگیرکران",
+    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ساتی گیرفانبڕینی نوێژخوێنان لەلایەن یەکێک لە تۆمەتبارەکانەوە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ba0d9776f0ca3e16",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202616",
+    "title": "لە کەرکووک بەرپرسێکی ئەمنی بە تۆمەتی گەندەڵی و وەرگرتنی سەرانە دەستگیر دەکرێت",
+    "title_en": "لە کەرکووک بەرپرسێکی ئەمنی بە تۆمەتی گەندەڵی و وەرگرتنی سەرانە دەستگیر دەکرێت",
+    "summary": "مالیک محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی ",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15610e286fda928b",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1105202615",
+    "title": "پارەی گەنمی جووتیاران لە هەولێر و دهۆک دابەشدەکرێت؛ کەی دەگاتە سلێمانی؟",
+    "title_en": "پارەی گەنمی جووتیاران لە هەولێر و دهۆک دابەشدەکرێت؛ کەی دەگاتە سلێمانی؟",
+    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان گەنمی جووتیاران. وێنە: بڵند تاهیر-رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fa3ab019632c7269",
+    "url": "https://www.rudaw.net/sorani/kurdistan/110520265",
+    "title": "هاوسەرۆکی زانکۆی کۆبانێ بۆ رووداو: 1,200 خوێندکاری فەرمی و 550 دەرچوومان هەیە",
+    "title_en": "هاوسەرۆکی زانکۆی کۆبانێ بۆ رووداو: 1,200 خوێندکاری فەرمی و 550 دەرچوومان هەیە",
+    "summary": "نالین حەسەن به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە زانکۆی کۆبانێ زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9e2876e34285adf6",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1005202622",
+    "title": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
+    "title_en": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
+    "summary": "ڤیڤیان فەتاح به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە . زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "db33900284b149c5",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1005202618",
+    "title": "بی پی دەست بە کارەکانی دەکاتەوە و ئاستی بەرهەمهێنانی نەوتی کەرکووک بەرزدەکاتەوە",
+    "title_en": "بی پی دەست بە کارەکانی دەکاتەوە و ئاستی بەرهەمهێنانی نەوتی کەرکووک بەرزدەکاتەوە",
+    "summary": "هەردی محەممەد عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کێڵگەیەکی نەوت لە کەرکووک زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75fe72875204cba",
+    "url": "https://www.rudaw.net/sorani/kurdistan/100520269",
+    "title": "کچێکی عەفرینی بەدوای کەسانی سەرووی 100 ساڵدا دەگەڕێت",
+    "title_en": "کچێکی عەفرینی بەدوای کەسانی سەرووی 100 ساڵدا دەگەڕێت",
+    "summary": "نالین حەسەن به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە روولا حەمدۆ میوانی بووڵتەنی نووڕۆژی رووداو بوو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3f66792c15d5a51",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0905202613",
+    "title": "ئەو باڵۆنەی لە ئاسمانی هەولێرە چییە؟",
+    "title_en": "ئەو باڵۆنەی لە ئاسمانی هەولێرە چییە؟",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە دیمەنێکی بالۆنەکە. وێنە: بڵند تاهیر - رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "summary": "زانا کایانی @zana_kayani به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە زانا کایانی پێشکێشکاری رووداو، بەشێوەی دیجیتاڵی لە وێستگەیەکی شەمەندەفەر لە پێشخابوور دانیشتووە. زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "64a6f91dc8f15de2",
+    "url": "https://www.rudaw.net/sorani/middleeast/11052026",
+    "title": "میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە",
+    "title_en": "میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە",
+    "summary": "سینا سۆما به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست دۆناڵد ترەمپ، سەرۆکی ئەمریکا. وێنە: AFP زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "67dfbaea2df20f56",
+    "url": "https://www.rudaw.net/sorani/middleeast/100520263",
+    "title": "نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراوەکە لەو وڵاتە ببرێتە دەرەوە",
+    "title_en": "نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراوەکە لەو وڵاتە ببرێتە دەرەوە",
+    "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست بنیامین نەتەنیاهوو، سەرۆکوەزیرانی ئیسرائیل زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە نا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "22b4c3a70291a0e3",
+    "url": "https://www.rudaw.net/sorani/middleeast/100520264",
+    "title": "لە سەرەتای ئادارەوە 2846 لوبنانی بە هێرشی ئیسرائیل کوژراون",
+    "title_en": "لە سەرەتای ئادارەوە 2846 لوبنانی بە هێرشی ئیسرائیل کوژراون",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست هێرشێکی سوپای ئیسرائیل بۆسەر باشووری لوبنان. وێنە: AFP زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "96f9bb29c87500e8",
+    "url": "https://www.rudaw.net/sorani/middleeast/090520264",
+    "title": "راپۆرتێک: ئیسرائیل بنکەیەکی سەربازیی نهێنیی بۆ جەنگی ئێران لەناو خاکی عێراق دروستکردووە",
+    "title_en": "راپۆرتێک: ئیسرائیل بنکەیەکی سەربازیی نهێنیی بۆ جەنگی ئێران لەناو خاکی عێراق دروستکردووە",
+    "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ژمارەیەک سەربازی ئیسرائیلی. وێنەکە بۆ روونکردنەوە لەسەر هەواڵەکە دانراوە زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی با",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "372a5169c3a449b1",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1105202610",
+    "title": "ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە",
+    "title_en": "ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی فەرماندەیی ئۆپەراسیۆنە هاوبەشەکانی عێراق زۆرتر لە عێراق عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێتەوە A+ A- رووداو دیجی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ac625248be572b1",
+    "url": "https://www.rudaw.net/sorani/middleeast/110520262",
+    "title": "ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە",
+    "title_en": "ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە",
+    "summary": "بەشدار موزەفەر @bashdarmu به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست سیستەمی بەرگریی (گومبەزی ئاسنین)ـە. وێنە: رۆیتەرز زۆرتر لە رۆژهەڵاتی نێوەڕاست میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7bc00d3c39b0be38",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/110520268",
+    "title": "دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت",
+    "title_en": "دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران عەلی کەریمی، یاریزانی پێشووی هەڵبژاردەی ئێران زۆرتر لە ئێران قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d4db4bd04871eafb",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/110520267",
+    "title": "قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت",
+    "title_en": "قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران محەممەدباقر قالیباف، سەرۆکی پەرلەمانی ئێران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b9a828d22a197acf",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/110520266",
+    "title": "تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە",
+    "title_en": "تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران شەقامێکی ئێران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ A+ A- رووداو دیجیتاڵ ئابووریی ئێران",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0e362aeb50749ae3",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520269",
+    "title": "عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە",
+    "title_en": "عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لیژنەی باڵای ئەمنیی عێراق و ئێران زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێتەوە A+ A- رووداو ",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d328077c04fd56c1",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/110520263",
+    "title": "تورکیا: رۆژانە 22 ملیۆن مەتر سێجا گازی سروشتی بەرهەم دەهێنین",
+    "title_en": "تورکیا: رۆژانە 22 ملیۆن مەتر سێجا گازی سروشتی بەرهەم دەهێنین",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا ئاڵپەرسلان بەیراکتار، وەزیری وزە و سەرچاوە سرووشتییەکانی تورکیا زۆرتر لە تورکیا ئەردۆغان: دەستووری ئێستا عەیبەیە و گۆڕینی ئەرکە تورکیا لە هەفتەیەکدا دەست بەسەر 659 کیلۆگرام هۆشبەردا گیرا هاوسەرۆکانی دەم پارتی: دەبێت راستییەکان لەبارەی کۆمەڵکوژییەکەی رەیحانلی ئاشکرا بکرێن داهاتی تورکیا لە ئاسمانەکەی 739 ملیۆن ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "85018dd97b08aea1",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520268",
+    "title": "لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن",
+    "title_en": "لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق دیمەنێک لە ناوچەیەکی ئەنبار. وێنە: ئەرشیڤ زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9bfc24f20234fbd6",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/110520265",
+    "title": "سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت",
+    "title_en": "سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران لۆگۆی سوپای پاسداران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ A+ A- رووداو دیج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "78ad3ac4e01f9011",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520265",
+    "title": "قائانی بۆ چوارچێوەی هاوئاهەنگی: نابێت سەرکردەی گرووپە چەکدارەکان لە حکومەت دووربخرێنەوە",
+    "title_en": "قائانی بۆ چوارچێوەی هاوئاهەنگی: نابێت سەرکردەی گرووپە چەکدارەکان لە حکومەت دووربخرێنەوە",
+    "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق ئیسماعیل قائانی، فەرماندەی فەیلەقی قودسی سوپای پاسداران زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6ae5b2a19b30c701",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520263",
+    "title": "عێراق کێشانی بەرهەمەکانی تووتن سنووردار دەکات؛ سزای دەگاتە بەندکردن و پێنج ملیۆن دینار",
+    "title_en": "عێراق کێشانی بەرهەمەکانی تووتن سنووردار دەکات؛ سزای دەگاتە بەندکردن و پێنج ملیۆن دینار",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کەسێک جگەرە دەکێشێت. وێنە: بڵند تاهیر - رووداو زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "95844f16edb7b956",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520261",
+    "title": "تۆپی پێکهێنانی حکومەت لە گۆڕەپانی شیعەکاندایە؛ وەزارەتێک و جێگری سەرۆکوەزیران دواى خستووە",
+    "title_en": "تۆپی پێکهێنانی حکومەت لە گۆڕەپانی شیعەکاندایە؛ وەزارەتێک و جێگری سەرۆکوەزیران دواى خستووە",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کۆبوونەوەیەکی پێشووی چوارچێوەی هاوئاهەنگی زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd9414166743a361",
+    "url": "https://www.rudaw.net/sorani/business/120520261",
+    "title": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
+    "title_en": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵکەیەکی نەوت لە بەسرە. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ ئەمڕۆ سێشەممە نرخی نەوت لە دوای کردنەوەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7a297ae3019796d8",
+    "url": "https://www.rudaw.net/sorani/business/110520264",
+    "title": "داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات",
+    "title_en": "داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دیناری عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ داهاتی نەوتی عێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "90b264ea59c02d88",
+    "url": "https://www.rudaw.net/sorani/business/110520265",
+    "title": "راوێژکارێکی سوودانی: داهات چوار تریلیۆن دینارە و خەرجی دوو ئەوەندە",
+    "title_en": "راوێژکارێکی سوودانی: داهات چوار تریلیۆن دینارە و خەرجی دوو ئەوەندە",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دراوی عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ راوێژکارێکی محەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5dbbf27f78e38dc9",
+    "url": "https://www.rudaw.net/sorani/business/110520266",
+    "title": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
+    "title_en": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کرێکارێک لە کۆمپانیای ئارامکۆ زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ کۆمپانیای ئارامکۆی سعودی رایگەیاند، قاز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c41b99077601133f",
+    "url": "https://www.rudaw.net/sorani/business/120520262",
+    "title": "نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە",
+    "title_en": "نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری تمەن و دۆلار. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ ئەمڕۆ ئاراستەی نرخی دۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "202ecb8dd36fdf99",
+    "url": "https://www.rudaw.net/sorani/business/12052026",
+    "title": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ ئەمڕۆ سێشەممە نرخی ئۆنسەیەک زێڕ بە بەرزبوونەوەی بەرچاو کرایەوە و توا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2876792e75e03ae3",
+    "url": "https://www.rudaw.net/sorani/business/110520267",
+    "title": "نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان",
+    "title_en": "نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان",
+    "summary": "سەنگەر عەبدولڕەحمان @sangarrudaw به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دیناری عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ نزیکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bc1afdd7ea3eff04",
+    "url": "https://www.rudaw.net/sorani/business/110520263",
+    "title": "دوو کەشتیی نەوتیی زۆر گەورە بە تەنگەی هورمزدا تێپەڕین",
+    "title_en": "دوو کەشتیی نەوتیی زۆر گەورە بە تەنگەی هورمزدا تێپەڕین",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کەشتییەکی نەوت لە تەنگەی هورمز. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ هەفتەی رابردوو دوو کەشتیی نەوتهەڵگر ت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a86c563e047e1e64",
+    "url": "https://www.rudaw.net/sorani/business/110520262",
+    "title": "یەک دۆلار بە 181 هەزار تمەنە",
+    "title_en": "One dollar is 181 thousand dinars",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دۆلار و تمەنی ئێرانی زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ نرخی دۆلار بەرامبەر بە تمەن لە دوو رۆژی رابردوود",
+    "source": "rudaw-sorani",
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "dollar",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a21e148145cdc2a2",
+    "url": "https://www.rudaw.net/sorani/business/110520261",
+    "title": "یەک ئۆنسە زێڕ نزیکەی 30 دۆلار دابەزی",
+    "title_en": "یەک ئۆنسە زێڕ نزیکەی 30 دۆلار دابەزی",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری ئۆنسەی زێڕ زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ بەرزبوونەوەی دووبارەی نرخەکانی نەوت، ئەمڕۆ دووشەممە بووە ه",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fced5a3185fd499d",
+    "url": "https://www.rudaw.net/sorani/business/11052026",
+    "title": "بەڕێوەبەری ئارامکۆ: جیهان یەک ملیار بەرمیل نەوتی لەدەستداوە",
+    "title_en": "بەڕێوەبەری ئارامکۆ: جیهان یەک ملیار بەرمیل نەوتی لەدەستداوە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵگەیەکی نەوت. وێنە: AFP زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ نرخی نەوت ئەمڕۆ دووشەممە لە یەکەم رۆژی مامە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "69d45663f19eca1b",
+    "url": "https://www.rudaw.net/sorani/business/100520268",
+    "title": "جەنگ لەگەڵ ئێرانە و عێراق زەرەرمەندی گەورەیە",
+    "title_en": "جەنگ لەگەڵ ئێرانە و عێراق زەرەرمەندی گەورەیە",
+    "summary": "مەحموود بابان @MahmoodBaban2 به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵگەیەکی نەوت. وێنەکە بۆ روونکردنەوە دانراوە زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دی",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09daf475d4bee887",
+    "url": "https://www.rudaw.net/sorani/business/100520267",
+    "title": "سەرچاوەیەک لە حکومەتی عێراق بۆ رووداو: تەیف سامی رەزامەندیی دا بۆ خەرجکردنی مووچەی مانگی 4",
+    "title_en": "سەرچاوەیەک لە حکومەتی عێراق بۆ رووداو: تەیف سامی رەزامەندیی دا بۆ خەرجکردنی مووچەی مانگی 4",
+    "summary": "رووداو @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری پارەی دیناری عێراقی جۆری 25 هەزار دیناری. وێنە: بڵند تاهیر- رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4856820f2bdd7b8f",
+    "url": "https://www.rudaw.net/sorani/business/250420262",
+    "title": "نرخی باخ و ڤێلا لە سلێمانی هاڕەی کردووە؛ باخی ملیۆن دۆلاری نیوەی بەهاکەی لەدەستداوە",
+    "title_en": "نرخی باخ و ڤێلا لە سلێمانی هاڕەی کردووە؛ باخی ملیۆن دۆلاری نیوەی بەهاکەی لەدەستداوە",
+    "summary": "نزار جەزا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە پەیامنێری رووداو لەکاتی ئامادەکردنی راپۆرتێکدا لەگەڵ نێوەندگیرێکی کڕین و فرۆشتنی باخ و ڤێلا قسە دەکات زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c955e5e4f33b3e54",
+    "url": "https://www.rudaw.net/sorani/business/030420265",
+    "title": "وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەروازەی مونزرییەی خانەقین بەردەوامە",
+    "title_en": "وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەروازەی مونزرییەی خانەقین بەردەوامە",
+    "summary": "هونەر حەمید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە دەروازەی مونزرییە لە خانەقین. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەر",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "40d90392dd6f5912",
+    "url": "https://www.rudaw.net/sorani/business/27032026",
+    "title": "نەتەوە یەکگرتووەکان هۆشداری شۆکێکی گەورە لە بازاڕی خۆراک دەدات ئەگەر جەنگ بەردەوام بێت",
+    "title_en": "نەتەوە یەکگرتووەکان هۆشداری شۆکێکی گەورە لە بازاڕی خۆراک دەدات ئەگەر جەنگ بەردەوام بێت",
+    "summary": "نامۆ عەبدوڵڵا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە گۆشتفرۆشێک لە هەولێر. وێنە:  AFP زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ هۆشدارییەکی گەورە لە نەتەوە یە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "33a0191af0e1f809",
+    "url": "https://www.rudaw.net/sorani/business/160320265",
+    "title": "وەزیری نەوتی عێراق: لە رێگەیەکی دیکەوە نەوت هەناردە دەکەین کە بە هەرێمی کوردستاندا تێپەڕ نابێت",
+    "title_en": "وەزیری نەوتی عێراق: لە رێگەیەکی دیکەوە نەوت هەناردە دەکەین کە بە هەرێمی کوردستاندا تێپەڕ نابێت",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە حەیان عەبدولغەنی، وەزیری نەوتی عێراق زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ وەزیری نەوتی عێراق رایگەیان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bb29bd5ad3250a68",
+    "url": "https://www.rudaw.net/sorani/business/140320267",
+    "title": "د. فازڵ نەبی: تەیف سامی فەرمانی خەرجکردنی مووچەی پێش جەژن داوە",
+    "title_en": "د. فازڵ نەبی: تەیف سامی فەرمانی خەرجکردنی مووچەی پێش جەژن داوە",
+    "summary": "محەممەد رەحمان @Muhamma98676674 به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تەیف سامی، وەزیری دارایی عێراق. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ بریکاری پێشوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c241de2f0c5e496c",
+    "url": "https://www.rudaw.net/sorani/world/14032026",
+    "title": "بازاڕەکانی ئەمریکا بەهۆی شەڕی ئێرانەوە زیانیان پێدەگات؛ '94% دابەزین لە کەشتیوانیدا هەبووە'",
+    "title_en": "بازاڕەکانی ئەمریکا بەهۆی شەڕی ئێرانەوە زیانیان پێدەگات؛ '94% دابەزین لە کەشتیوانیدا هەبووە'",
+    "summary": "نامۆ عەبدوڵڵا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کەشتییەک لە تەنگەی هورمز زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ کۆتایی رۆژی هەینی، بازاڕی بۆرسەی ئەمری",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
