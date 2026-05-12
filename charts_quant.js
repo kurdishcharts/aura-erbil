@@ -497,6 +497,173 @@
     }
   }
 
+
+    // ═══════════════════════════════════════════════════════════════
+    // F1 · Flashpoint Detection · Volume Z‑Score
+    // Spikes signal potential breaking events
+    // ═══════════════════════════════════════════════════════════════
+    {
+      const card   = mkCard(panel, 'Flashpoint Detection · Volume Z‑Score');
+      const canvas = mkCanvas(card, 145);
+      const dailyVol = days.map(d => byDay[d].length);
+      const meanVol  = dailyVol.reduce((a,b)=>a+b,0)/dailyVol.length;
+      const stdVol   = Math.sqrt(dailyVol.reduce((a,b)=>a+(b-meanVol)**2,0)/dailyVol.length) || 1;
+      const zVol     = dailyVol.map(v => +((v-meanVol)/stdVol).toFixed(2));
+      const highlights = dailyVol.map((v,i) => v > meanVol + 1.5*stdVol ? v : 0);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: shortLbls, datasets: [
+          { label: 'Z‑Score', data: zVol, backgroundColor: zVol.map(v => v>=2?'rgba(220,38,38,.85)':v>=1?'rgba(217,119,6,.65)':'rgba(26,86,219,.40)'), borderWidth:0, borderRadius:4, borderSkipped:false },
+          { label: 'Spike', data: highlights, backgroundColor: 'rgba(220,38,38,.90)', borderWidth:0, type:'bar', order:1 }
+        ]},
+        options: { ...BASE, scales: { x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+    // F2 · Polarization Index · Sentiment Score Histogram
+    {
+      const card   = mkCard(panel, 'Polarization Index · Sentiment Distribution');
+      const canvas = mkCanvas(card, 145);
+      const bins   = [-1.0,-0.8,-0.6,-0.4,-0.2,0,0.2,0.4,0.6,0.8,1.0];
+      const hist   = bins.map((b,i) => {
+        const next = bins[i+1] || 1.1;
+        return filteredArticles.filter(a => sentScore(a) >= b && sentScore(a) < next).length;
+      });
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: bins.map(b => b.toFixed(1)), datasets: [{ data: hist, backgroundColor: hist.map((_,i) => i<5?'rgba(220,38,38,.65)':'rgba(5,150,105,.65)'), borderWidth:0, borderRadius:3, barPercentage:0.95 }] },
+        options: { ...BASE, scales: { x:{ticks:{...TICK,font:{size:8}},grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+    // F3 · Source Bias Matrix · Avg Sentiment vs Subjectivity
+    {
+      const card   = mkCard(panel, 'Source Bias Matrix · Sentiment vs Subjectivity');
+      const canvas = mkCanvas(card, 145);
+      const sources = [...new Set(filteredArticles.map(a => a.source))].slice(0,10);
+      const data = sources.map(src => {
+        const arts = filteredArticles.filter(a => a.source === src);
+        const avgSent = arts.length ? arts.reduce((s,a) => s+sentScore(a),0)/arts.length : 0;
+        const subjectivity = arts.length ? arts.reduce((s,a) => {
+          const txt = ((a.title_en||a.title||'') + ' ' + (a.summary||'')).toLowerCase();
+          const opinionWords = /\b(think|believe|opinion|suggest|maybe|perhaps|likely|feel|seem)\b/g;
+          return s + (txt.match(opinionWords) || []).length;
+        },0)/arts.length : 0;
+        return { x: +avgSent.toFixed(3), y: +subjectivity.toFixed(2), label: src };
+      });
+      mkC(canvas, {
+        type: 'scatter',
+        data: { datasets: [{
+          label: 'Sources',
+          data: data,
+          backgroundColor: data.map(d => d.x >= 0 ? 'rgba(5,150,105,.7)' : 'rgba(220,38,38,.7)'),
+          borderColor: 'transparent',
+        }]},
+        options: { ...BASE,
+          plugins: { tooltip: { callbacks: { label: ctx => ctx.raw.label } } },
+          scales: {
+            x: { title:{display:true,text:'Avg Sentiment'}, ticks:TICK, grid:{color:GRID} },
+            y: { title:{display:true,text:'Subjectivity'}, ticks:TICK, grid:{color:GRID} }
+          }
+        }
+      });
+    }
+
+    // F4 · Political Weight Bar · Top Figures by Reach
+    {
+      const card   = mkCard(panel, 'Political Weight · Top Figures');
+      const canvas = mkCanvas(card, 145);
+      const entCount = {};
+      filteredArticles.forEach(a => parseEnts(a).filter(e => e.type === 'PERSON').forEach(e => {
+        entCount[e.name] = (entCount[e.name] || 0) + 1 + Math.abs(sentScore(a)) * 2;
+      }));
+      const top = Object.entries(entCount).sort((a,b) => b[1]-a[1]).slice(0,15);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t => t[0]), datasets: [{ data: top.map(t => t[1]), backgroundColor: 'rgba(26,86,219,.70)', borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID}}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
+      });
+    }
+
+    // F5 · Stability Index · Gauge + Sparkline
+    {
+      const card   = mkCard(panel, 'Stability Index · KRI Composite');
+      const canvas = mkCanvas(card, 145);
+      const dailySent = days.map(d => {
+        const arr = byDay[d].map(sentScore);
+        return arr.reduce((a,b)=>a+b,0)/arr.length;
+      });
+      const volatility = +(Math.sqrt(dailySent.reduce((a,b)=>a+(b-0)**2,0)/dailySent.length)).toFixed(3);
+      const avgVol     = days.map(d => byDay[d].length).reduce((a,b)=>a+b,0)/days.length;
+      const stability  = Math.max(0, Math.min(100, Math.round((1 - volatility) * 50 + (avgVol>5?30:20))));
+      const color      = stability >= 60 ? '#059669' : stability >= 40 ? '#d97706' : '#dc2626';
+      mkC(canvas, {
+        type: 'doughnut',
+        data: { datasets: [{ data: [stability, 100-stability], backgroundColor: [color, '#e8ecf3'], borderWidth:0, circumference:180, rotation:270 }] },
+        options: { ...BASE, cutout:'72%', plugins:{ legend:{display:false}, tooltip:{enabled:false} } }
+      });
+      // Add center text via annotation-like HTML (simplified)
+    }
+
+    // F6 · Reach vs Impact · Bubble chart
+    {
+      const card   = mkCard(panel, 'Reach vs Impact · Bubble');
+      const canvas = mkCanvas(card, 145);
+      const reachMap = {};
+      filteredArticles.forEach(a => { reachMap[a.source] = (reachMap[a.source]||0)+1; });
+      const data = filteredArticles.slice(0,80).map(a => ({
+        x: Math.abs(sentScore(a)),
+        y: reachMap[a.source] || 1,
+        r: Math.min(15, 3 + (a.breaking || 1) * 2),
+        sentiment: sentScore(a)
+      }));
+      mkC(canvas, {
+        type: 'bubble',
+        data: { datasets: [{
+          data: data,
+          backgroundColor: data.map(d => d.sentiment >= 0 ? 'rgba(5,150,105,.6)' : 'rgba(220,38,38,.6)'),
+          borderColor: 'transparent',
+        }]},
+        options: { ...BASE,
+          scales: {
+            x: { title:{display:true,text:'Sentiment Intensity'}, ticks:TICK, grid:{color:GRID} },
+            y: { title:{display:true,text:'Source Reach'}, ticks:TICK, grid:{color:GRID} }
+          }
+        }
+      });
+    }
+
+    // F7 · Source Reliability · Fact vs Opinion Ratio
+    {
+      const card   = mkCard(panel, 'Source Reliability · Fact vs Opinion');
+      const canvas = mkCanvas(card, 145);
+      const srcs = [...new Set(filteredArticles.map(a => a.source))].slice(0,8);
+      const factWords = /\b(according|reported|confirmed|official|data|statistics|document|statement|announced|figure)\b/g;
+      const opWords   = /\b(think|believe|opinion|suggest|maybe|perhaps|likely|feel|seem)\b/g;
+      const data = srcs.map(src => {
+        const arts = filteredArticles.filter(a => a.source === src);
+        let fact=0, op=0;
+        arts.forEach(a => {
+          const txt = ((a.title_en||a.title||'') + ' ' + (a.summary||'')).toLowerCase();
+          fact += (txt.match(factWords) || []).length;
+          op   += (txt.match(opWords) || []).length;
+        });
+        const total = fact+op || 1;
+        return { src, fact: +(fact/total*100).toFixed(1), op: +(op/total*100).toFixed(1) };
+      });
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: data.map(d => d.src), datasets: [
+          { label:'Fact', data: data.map(d => d.fact), backgroundColor:'rgba(26,86,219,.75)', borderWidth:0 },
+          { label:'Opinion', data: data.map(d => d.op), backgroundColor:'rgba(220,38,38,.55)', borderWidth:0 }
+        ]},
+        options: { ...BASE,
+          plugins:{ legend:{ display:true, position:'top', labels:{font:{family:'DM Sans',size:9},color:'#4b5875',padding:6,usePointStyle:true,pointStyleWidth:6} } },
+          scales:{ x:{stacked:true,ticks:{...TICK,maxRotation:45},grid:{display:false}}, y:{stacked:true,ticks:{...TICK,callback:v=>v+'%'},grid:{color:GRID},min:0,max:100} }
+        }
+      });
+    }
+
   function init() {
     if (typeof D === 'undefined' || !D || !D.length) { setTimeout(init, 500); return; }
     const panel = document.getElementById('quant-panel');
