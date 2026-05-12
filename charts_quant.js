@@ -44,19 +44,87 @@
   }
 
   function buildAll(articles) {
-    const panel = document.getElementById('quant-panel');
-    if (!panel) return;
+  if (!articles.length) return;
+  const panel = document.getElementById('quant-panel');
+  if (!panel) return;
 
-    const byDay = {};
-    articles.forEach(a => {
-      if (!a.timestamp) return;
-      const d = a.timestamp.slice(0, 10);
-      if (!byDay[d]) byDay[d] = [];
-      byDay[d].push(a);
+  // ── Timeframe selector bar ──
+  (function() {
+    if (document.getElementById('timeframe-bar')) return;
+    const bar = document.createElement('div');
+    bar.id = 'timeframe-bar';
+    bar.style.cssText = 'display:flex;align-items:center;gap:8px;margin-bottom:16px;padding:8px 12px;background:var(--card);border:1px solid var(--border);border-radius:8px;flex-wrap:wrap;';
+    const label = document.createElement('span');
+    label.textContent = 'Timeframe:';
+    label.style.cssText = 'font-family:DM Mono,monospace;font-size:11px;color:var(--text2);font-weight:500;';
+    bar.appendChild(label);
+    const timeframes = [
+      { label:'1W', days:7 },
+      { label:'2W', days:14 },
+      { label:'1M', days:30 },
+      { label:'6M', days:180 },
+      { label:'1Y', days:365 },
+      { label:'All', days:0 }
+    ];
+    window.QUANT_TIMEFRAME = { days: 0, label: 'All' };
+    window.QUANT_TIMEFRAME_BUTTONS = {};
+    timeframes.forEach(tf => {
+      const btn = document.createElement('button');
+      btn.textContent = tf.label;
+      btn.style.cssText = 'padding:4px 12px;border:1px solid var(--border);border-radius:6px;background:var(--card);font-family:DM Mono,monospace;font-size:10px;color:var(--text2);cursor:pointer;transition:all .15s;';
+      btn.onclick = function() {
+        window.QUANT_TIMEFRAME = tf;
+        Object.values(window.QUANT_TIMEFRAME_BUTTONS).forEach(b => {
+          b.style.background = 'var(--card)';
+          b.style.color = 'var(--text2)';
+          b.style.borderColor = 'var(--border)';
+        });
+        btn.style.background = 'var(--accent)';
+        btn.style.color = '#fff';
+        btn.style.borderColor = 'var(--accent)';
+        if (typeof buildAll === 'function' && typeof D !== 'undefined') {
+          buildAll(D);
+        }
+      };
+      window.QUANT_TIMEFRAME_BUTTONS[tf.label] = btn;
+      bar.appendChild(btn);
     });
-    const days      = Object.keys(byDay).sort();
-    const shortLbls = days.map(d => d.slice(5));
-    const dailyVol  = days.map(d => byDay[d].length);
+    window.QUANT_TIMEFRAME_BUTTONS['All'].style.background = 'var(--accent)';
+    window.QUANT_TIMEFRAME_BUTTONS['All'].style.color = '#fff';
+    window.QUANT_TIMEFRAME_BUTTONS['All'].style.borderColor = 'var(--accent)';
+    panel.insertBefore(bar, panel.firstChild);
+  })();
+
+  // ── Timeframe filtering ──
+  const timeframe = window.QUANT_TIMEFRAME || { days: 0, label: 'All' };
+  const now = new Date();
+  const cutoffDate = timeframe.days > 0 ? new Date(now - timeframe.days * 86400000) : null;
+  const filteredArticles = cutoffDate ? articles.filter(a => {
+    if (!a.timestamp) return true;
+    return new Date(a.timestamp) >= cutoffDate;
+  }) : articles;
+
+  // ── Daily helper ──
+  const byDay = {}, byDayKeys = [];
+  filteredArticles.forEach(a => {
+    if (!a.timestamp) return;
+    const d = a.timestamp.slice(0,10);
+    if (!byDay[d]) { byDay[d] = []; byDayKeys.push(d); }
+    byDay[d].push(a);
+  });
+  byDayKeys.sort();
+  const days   = byDayKeys;
+  const shortLbls = days.map(d => d.slice(5));
+  const sentScore = a => a.sentiment === 'positive' ? 1 : a.sentiment === 'negative' ? -1 : 0;
+
+  // ── Base chart options ──
+  const BASE = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } }
+  };
+  const TICK = { font: { family: 'DM Mono', size: 9 }, color: '#8892a4' };
+  const GRID = '#eaecf2';
 
     // B1. Daily Volume
     {
@@ -68,6 +136,7 @@
         options: { ...BASE, scales: { x: { ticks: TICK, grid: { display: false } }, y: { ticks: TICK, grid: { color: GRID }, beginAtZero: true } } }
       });
     }
+
 
     // B2. Hourly Activity
     {
@@ -82,6 +151,7 @@
       });
     }
 
+
     // B3. Weekday Activity
     {
       const card   = mkCard(panel, 'Weekday Activity · Which Day is Busiest');
@@ -94,6 +164,7 @@
         options: { ...BASE, scales: { x: { ticks: TICK, grid: { display: false } }, y: { ticks: TICK, grid: { color: GRID }, beginAtZero: true } } }
       });
     }
+
 
     // B4. Source × Sentiment stacked
     {
@@ -113,6 +184,7 @@
         }
       });
     }
+
 
     // B5. Silence Detection — 48h coverage
     {
@@ -139,6 +211,7 @@
       });
     }
 
+
     // C1. Sentiment Volatility — 5-day rolling STD
     {
       const card     = mkCard(panel, 'Sentiment Volatility · 5-Day Rolling STD');
@@ -156,6 +229,7 @@
       });
     }
 
+
     // C2. Sentiment Momentum
     {
       const card     = mkCard(panel, 'Sentiment Momentum · Day-over-Day Δ');
@@ -168,6 +242,7 @@
         options: { ...BASE, scales: { x: { ticks: TICK, grid: { display: false } }, y: { ticks: TICK, grid: { color: GRID } } } }
       });
     }
+
 
     // C3. Panic Index
     {
@@ -186,6 +261,7 @@
       mkC(canvas, { type:'doughnut', data:{ datasets:[{ data:[pct,100-pct], backgroundColor:[col,'#e8ecf3'], borderWidth:0, circumference:180, rotation:270 }]}, options:{...BASE,cutout:'65%',plugins:{legend:{display:false},tooltip:{enabled:false}}} });
     }
 
+
     // C4. Sentiment Velocity — scatter
     {
       const card   = mkCard(panel, 'Sentiment Velocity · Hour vs Score');
@@ -197,6 +273,7 @@
         options: { ...BASE, scales: { x:{ticks:{...TICK,callback:v=>v+'h'},grid:{display:false},min:0,max:23}, y:{ticks:{...TICK,callback:v=>v===1?'▲+':v===-1?'▼-':'—'},grid:{color:GRID},min:-1.5,max:1.5} } }
       });
     }
+
 
     // C5. Category Volatility — radar
     {
@@ -215,6 +292,7 @@
         options: { ...BASE, scales: { r: { ticks:{...TICK,backdropColor:'transparent',maxTicksLimit:3}, grid:{color:GRID}, angleLines:{color:GRID}, pointLabels:{font:{family:'DM Sans',size:9},color:'#4b5875'}, min:0 } } }
       });
     }
+
 
     // C6. Intraday Swing
     {
@@ -284,23 +362,6 @@
       } catch(_) { return []; }
     }
 
-    // D1. Entity Type Distribution
-    {
-      const card   = mkCard(panel, 'Entity Type Distribution');
-      const canvas = mkCanvas(card, 145);
-      const typeCounts = {};
-      filteredArticles.forEach(a => parseEnts(a).forEach(e => {
-        const t = (e.type || 'OTHER').toUpperCase();
-        typeCounts[t] = (typeCounts[t] || 0) + 1;
-      }));
-      const types  = Object.keys(typeCounts);
-      const colors = ['#1a56db','#059669','#7c3aed','#d97706','#dc2626','#0891b2','#be185d','#0f766e'];
-      mkC(canvas, {
-        type: 'doughnut',
-        data: { labels: types, datasets: [{ data: types.map(t=>typeCounts[t]), backgroundColor: colors.slice(0,types.length), borderWidth: 0 }] },
-        options: { ...BASE, cutout:'60%', plugins:{ legend:{ display:true, position:'right', labels:{ font:{family:'DM Sans',size:9}, color:'#4b5875', padding:6, usePointStyle:true, pointStyleWidth:6 } } } }
-      });
-    }
 
     // D2. Top Persons Mentioned
     {
@@ -318,6 +379,7 @@
       });
     }
 
+
     // D3. Top Organizations
     {
       const card   = mkCard(panel, 'Top Organizations');
@@ -334,25 +396,6 @@
       });
     }
 
-    // D4. Entity Co-occurrence · Top Pairs
-    {
-      const card   = mkCard(panel, 'Entity Co-occurrence · Top Pairs');
-      const canvas = mkCanvas(card, 145);
-      const pairs  = {};
-      articles.forEach(a => {
-        const names = [...new Set(parseEnts(a).map(e=>e.name).filter(Boolean))].slice(0,5);
-        for (let i=0;i<names.length;i++) for(let j=i+1;j<names.length;j++) {
-          const key = [names[i],names[j]].sort().join(' + ');
-          pairs[key] = (pairs[key]||0)+1;
-        }
-      });
-      const top = Object.entries(pairs).sort((a,b)=>b[1]-a[1]).slice(0,8);
-      mkC(canvas, {
-        type: 'bar',
-        data: { labels: top.map(t=>t[0]), datasets: [{ data: top.map(t=>t[1]), backgroundColor:'rgba(8,145,178,.65)', borderWidth:0, borderRadius:3, borderSkipped:false }] },
-        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID},beginAtZero:true}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
-      });
-    }
 
     // D5. Entity Sentiment Breakdown
     {
@@ -380,61 +423,6 @@
       });
     }
 
-    // E1. Sentiment Z-Score
-    {
-      const card     = mkCard(panel, 'Sentiment Z-Score · Daily vs Mean');
-      const canvas   = mkCanvas(card, 145);
-      const dailyAvg = days.map(d=>{ const arr=byDay[d].map(sentScore); return arr.reduce((a,b)=>a+b,0)/arr.length; });
-      const mean     = dailyAvg.reduce((a,b)=>a+b,0)/dailyAvg.length;
-      const std      = Math.sqrt(dailyAvg.reduce((a,b)=>a+(b-mean)**2,0)/dailyAvg.length)||1;
-      const zScores  = dailyAvg.map(v=>+((v-mean)/std).toFixed(2));
-      mkC(canvas, {
-        type: 'bar',
-        data: { labels: shortLbls, datasets:[{ data:zScores, backgroundColor:zScores.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
-        options: { ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
-      });
-    }
-
-    // E2. Category Correlation · % Positive per Category
-    {
-      const card   = mkCard(panel, 'Category Correlation · % Positive per Category');
-      const canvas = mkCanvas(card, 145);
-      const cats   = [...new Set(articles.map(a=>a.category).filter(Boolean))].slice(0,8);
-      const pctPos = cats.map(c=>{ const sub=articles.filter(a=>a.category===c); return sub.length?Math.round(sub.filter(a=>a.sentiment==='positive').length/sub.length*100):0; });
-      mkC(canvas, {
-        type: 'bar',
-        data: { labels:cats, datasets:[{ data:pctPos, backgroundColor:pctPos.map(v=>v>=50?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:4, borderSkipped:false }] },
-        options: { ...BASE, scales:{ x:{ticks:{...TICK,maxRotation:45},grid:{display:false}}, y:{ticks:{...TICK,callback:v=>v+'%'},grid:{color:GRID},beginAtZero:true,max:100} } }
-      });
-    }
-
-    // E3. Bull/Bear Acceleration
-    {
-      const card   = mkCard(panel, 'Bull/Bear Acceleration · Δ² Pos Ratio');
-      const canvas = mkCanvas(card, 145);
-      const posR   = days.map(d=>byDay[d].filter(a=>a.sentiment==='positive').length/byDay[d].length);
-      const mom    = posR.map((v,i)=>i===0?0:v-posR[i-1]);
-      const accel  = mom.map((v,i)=>i===0?0:+(v-mom[i-1]).toFixed(3));
-      mkC(canvas, {
-        type: 'bar',
-        data:{ labels:shortLbls, datasets:[{ data:accel, backgroundColor:accel.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
-        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
-      });
-    }
-
-    // E4. Sentiment Velocity · Hourly Average Score
-    {
-      const card    = mkCard(panel, 'Sentiment Velocity · Hourly Average Score');
-      const canvas  = mkCanvas(card, 145);
-      const byHour  = {};
-      filteredArticles.forEach(a=>{ if(!a.timestamp) return; const h=new Date(a.timestamp).getHours(); if(!byHour[h]) byHour[h]=[]; byHour[h].push(sentScore(a)); });
-      const hourAvg = Array.from({length:24},(_,i)=>{ const arr=byHour[i]||[]; return arr.length?+(arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2):null; });
-      mkC(canvas, {
-        type:'line',
-        data:{ labels:Array.from({length:24},(_,i)=>i+'h'), datasets:[{ data:hourAvg, borderColor:'#0891b2', backgroundColor:'rgba(8,145,178,.08)', fill:true, tension:.4, pointRadius:2, spanGaps:true }] },
-        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},min:-1,max:1} } }
-      });
-    }
 
     // E5. Cumulative Net Sentiment
     {
@@ -450,6 +438,107 @@
       });
     }
 
+
+    // D1. Entity Type Distribution
+    {
+      const card   = mkCard(panel, 'Entity Type Distribution');
+      const canvas = mkCanvas(card, 145);
+      const typeCounts = {};
+      filteredArticles.forEach(a => parseEnts(a).forEach(e => {
+        const t = (e.type || 'OTHER').toUpperCase();
+        typeCounts[t] = (typeCounts[t] || 0) + 1;
+      }));
+      const types  = Object.keys(typeCounts);
+      const colors = ['#1a56db','#059669','#7c3aed','#d97706','#dc2626','#0891b2','#be185d','#0f766e'];
+      mkC(canvas, {
+        type: 'doughnut',
+        data: { labels: types, datasets: [{ data: types.map(t=>typeCounts[t]), backgroundColor: colors.slice(0,types.length), borderWidth: 0 }] },
+        options: { ...BASE, cutout:'60%', plugins:{ legend:{ display:true, position:'right', labels:{ font:{family:'DM Sans',size:9}, color:'#4b5875', padding:6, usePointStyle:true, pointStyleWidth:6 } } } }
+      });
+    }
+
+
+    // D4. Entity Co-occurrence · Top Pairs
+    {
+      const card   = mkCard(panel, 'Entity Co-occurrence · Top Pairs');
+      const canvas = mkCanvas(card, 145);
+      const pairs  = {};
+      articles.forEach(a => {
+        const names = [...new Set(parseEnts(a).map(e=>e.name).filter(Boolean))].slice(0,5);
+        for (let i=0;i<names.length;i++) for(let j=i+1;j<names.length;j++) {
+          const key = [names[i],names[j]].sort().join(' + ');
+          pairs[key] = (pairs[key]||0)+1;
+        }
+      });
+      const top = Object.entries(pairs).sort((a,b)=>b[1]-a[1]).slice(0,8);
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: top.map(t=>t[0]), datasets: [{ data: top.map(t=>t[1]), backgroundColor:'rgba(8,145,178,.65)', borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID},beginAtZero:true}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
+      });
+    }
+
+
+    // E1. Sentiment Z-Score
+    {
+      const card     = mkCard(panel, 'Sentiment Z-Score · Daily vs Mean');
+      const canvas   = mkCanvas(card, 145);
+      const dailyAvg = days.map(d=>{ const arr=byDay[d].map(sentScore); return arr.reduce((a,b)=>a+b,0)/arr.length; });
+      const mean     = dailyAvg.reduce((a,b)=>a+b,0)/dailyAvg.length;
+      const std      = Math.sqrt(dailyAvg.reduce((a,b)=>a+(b-mean)**2,0)/dailyAvg.length)||1;
+      const zScores  = dailyAvg.map(v=>+((v-mean)/std).toFixed(2));
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels: shortLbls, datasets:[{ data:zScores, backgroundColor:zScores.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options: { ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+
+    // E2. Category Correlation · % Positive per Category
+    {
+      const card   = mkCard(panel, 'Category Correlation · % Positive per Category');
+      const canvas = mkCanvas(card, 145);
+      const cats   = [...new Set(articles.map(a=>a.category).filter(Boolean))].slice(0,8);
+      const pctPos = cats.map(c=>{ const sub=articles.filter(a=>a.category===c); return sub.length?Math.round(sub.filter(a=>a.sentiment==='positive').length/sub.length*100):0; });
+      mkC(canvas, {
+        type: 'bar',
+        data: { labels:cats, datasets:[{ data:pctPos, backgroundColor:pctPos.map(v=>v>=50?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:4, borderSkipped:false }] },
+        options: { ...BASE, scales:{ x:{ticks:{...TICK,maxRotation:45},grid:{display:false}}, y:{ticks:{...TICK,callback:v=>v+'%'},grid:{color:GRID},beginAtZero:true,max:100} } }
+      });
+    }
+
+
+    // E3. Bull/Bear Acceleration
+    {
+      const card   = mkCard(panel, 'Bull/Bear Acceleration · Δ² Pos Ratio');
+      const canvas = mkCanvas(card, 145);
+      const posR   = days.map(d=>byDay[d].filter(a=>a.sentiment==='positive').length/byDay[d].length);
+      const mom    = posR.map((v,i)=>i===0?0:v-posR[i-1]);
+      const accel  = mom.map((v,i)=>i===0?0:+(v-mom[i-1]).toFixed(3));
+      mkC(canvas, {
+        type: 'bar',
+        data:{ labels:shortLbls, datasets:[{ data:accel, backgroundColor:accel.map(v=>v>=0?'rgba(5,150,105,.65)':'rgba(220,38,38,.65)'), borderWidth:0, borderRadius:3, borderSkipped:false }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
+      });
+    }
+
+
+    // E4. Sentiment Velocity · Hourly Average Score
+    {
+      const card    = mkCard(panel, 'Sentiment Velocity · Hourly Average Score');
+      const canvas  = mkCanvas(card, 145);
+      const byHour  = {};
+      filteredArticles.forEach(a=>{ if(!a.timestamp) return; const h=new Date(a.timestamp).getHours(); if(!byHour[h]) byHour[h]=[]; byHour[h].push(sentScore(a)); });
+      const hourAvg = Array.from({length:24},(_,i)=>{ const arr=byHour[i]||[]; return arr.length?+(arr.reduce((a,b)=>a+b,0)/arr.length).toFixed(2):null; });
+      mkC(canvas, {
+        type:'line',
+        data:{ labels:Array.from({length:24},(_,i)=>i+'h'), datasets:[{ data:hourAvg, borderColor:'#0891b2', backgroundColor:'rgba(8,145,178,.08)', fill:true, tension:.4, pointRadius:2, spanGaps:true }] },
+        options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},min:-1,max:1} } }
+      });
+    }
+
+
     // E6. Daily Volatility
     {
       const card   = mkCard(panel, 'Daily Volatility · Absolute Daily Swing');
@@ -461,6 +550,7 @@
         options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},beginAtZero:true} } }
       });
     }
+
 
     // E7. SMA Crossover (3d vs 7d)
     {
@@ -481,6 +571,7 @@
       });
     }
 
+
     // E8. Intraday Sentiment Swing · 4h Blocks
     {
       const card   = mkCard(panel, 'Intraday Sentiment Swing · 4h Blocks');
@@ -495,7 +586,8 @@
     }
 
     // ═══════════════════════════════════════════════════════════════
-    // F1 · Flashpoint Detection · Volume Z‑Score
+
+
     // Spikes signal potential breaking events
     // ═══════════════════════════════════════════════════════════════
     {
@@ -516,6 +608,7 @@
       });
     }
 
+
     // F2 · Polarization Index · Sentiment Score Histogram
     {
       const card   = mkCard(panel, 'Polarization Index · Sentiment Distribution');
@@ -531,6 +624,7 @@
         options: { ...BASE, scales: { x:{ticks:{...TICK,font:{size:8}},grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID}} } }
       });
     }
+
 
     // F3 · Source Bias Matrix · Avg Sentiment vs Subjectivity
     {
@@ -565,6 +659,7 @@
       });
     }
 
+
     // F4 · Political Weight Bar · Top Figures by Reach
     {
       const card   = mkCard(panel, 'Political Weight · Top Figures');
@@ -580,6 +675,7 @@
         options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID}}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
       });
     }
+
 
     // F5 · Stability Index · Gauge + Sparkline
     {
@@ -600,6 +696,7 @@
       });
       // Add center text via annotation-like HTML (simplified)
     }
+
 
     // F6 · Reach vs Impact · Bubble chart
     {
@@ -628,6 +725,7 @@
         }
       });
     }
+
 
     // F7 · Source Reliability · Fact vs Opinion Ratio
     {
@@ -662,7 +760,8 @@
 
 
     // ═══════════════════════════════════════════════════════════════
-    // G1 · Article Velocity · 7‑Day Rolling Average
+
+
     // Momentum of news flow — sudden changes precede events
     // ═══════════════════════════════════════════════════════════════
     {
@@ -682,6 +781,7 @@
         }
       });
     }
+
 
     // G2 · Sentiment Volatility Bands · Mean ±2σ
     {
@@ -711,6 +811,7 @@
       });
     }
 
+
     // G3 · Source Dominance Area · Share of Voice over Time
     {
       const card   = mkCard(panel, 'Source Dominance · Share of Voice');
@@ -737,6 +838,7 @@
       });
     }
 
+
     // G4 · Geographical Impact Score · Total Reach per City
     {
       const card   = mkCard(panel, 'Geographical Impact · Weighted Score');
@@ -754,6 +856,7 @@
         options: { ...BASE, indexAxis:'y', scales: { x:{ticks:TICK,grid:{color:GRID}}, y:{ticks:{...TICK,font:{size:8}},grid:{display:false}} } }
       });
     }
+
 
     // G5 · Thematic Sentiment Radar · By Category
     {
@@ -775,6 +878,64 @@
     }
 
   function init() {
+    if (typeof D === 'undefined' || !D || !D.length) { setTimeout(init, 500); return; }
+    const panel = document.getElementById('quant-panel');
+    if (!panel) { setTimeout(init, 500); return; }
+    buildAll(D);
+    setInterval(() => {
+      if (typeof D === 'undefined' || !D.length) return;
+      destroyAll();
+      document.querySelectorAll('.quant-card').forEach(el => el.remove());
+      buildAll(D);
+    }, 120_000);
+  }
+
+  init();
+})();
+
+function buildTikTokPanel() {
+  const accounts = [
+    {username: 'rudaw.official', name: 'Rudaw'},
+    {username: 'channel8corp', name: 'Channel8'},
+    {username: 'nrttvofficial', name: 'NRT'},
+    {username: '964.kurdi', name: '964 Kurdi'},
+    {username: 'vartvnet', name: 'Var TV'},
+    {username: 'paytextmedia', name: 'Paytext Media'},
+    {username: 'kurdistan24', name: 'Kurdistan24'},
+    {username: 'avamediatv', name: 'Ava Media'}
+  ];
+  const grid = document.getElementById('quant-panel');
+  if (!grid) return;
+  const section = document.createElement('div');
+  section.style.cssText = 'grid-column:1/-1;';
+  const title = document.createElement('h2');
+  title.textContent = 'TikTok News Accounts';
+  title.style.cssText = 'font-size:0.85rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--muted-foreground);margin-bottom:0.75rem;';
+  section.appendChild(title);
+  const row = document.createElement('div');
+  row.style.cssText = 'display:flex;flex-wrap:wrap;gap:1rem;';
+  accounts.forEach(acc => {
+    const card = document.createElement('div');
+    card.style.cssText = 'background:var(--card);border:1px solid var(--border);border-radius:0.5rem;padding:0.75rem 1rem;min-width:160px;';
+    card.innerHTML = `<a href="https://www.tiktok.com/@${acc.username}" target="_blank" style="text-decoration:none;color:var(--text);">
+      <div style="font-weight:600;font-size:0.9rem;">${acc.name}</div>
+      <div style="font-size:0.75rem;color:var(--text2);">@${acc.username}</div>
+    </a>`;
+    row.appendChild(card);
+  });
+  section.appendChild(row);
+  grid.appendChild(section);
+}
+if (document.readyState === 'loading') {
+  window.addEventListener('DOMContentLoaded', function() {
+    setTimeout(buildTikTokPanel, 500);
+  });
+} else {
+  setTimeout(buildTikTokPanel, 500);
+}
+
+  }
+function init() {
     if (typeof D === 'undefined' || !D || !D.length) { setTimeout(init, 500); return; }
     const panel = document.getElementById('quant-panel');
     if (!panel) { setTimeout(init, 500); return; }
