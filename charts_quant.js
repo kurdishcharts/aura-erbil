@@ -253,3 +253,44 @@
 
   init();
 })();
+
+function buildTikTokPanel() {
+  const accounts = [
+    {username: 'rudaw.official', name: 'Rudaw'},
+    {username: 'channel8corp', name: 'Channel8'},
+    {username: 'nrttvofficial', name: 'NRT'},
+    {username: '964.kurdi', name: '964 Kurdi'},
+    {username: 'vartvnet', name: 'Var TV'},
+    {username: 'paytextmedia', name: 'Paytext Media'},
+    {username: 'kurdistan24', name: 'Kurdistan24'},
+    {username: 'avamediatv', name: 'Ava Media'}
+  ];
+  const grid = document.getElementById('quant-panel');
+  if (!grid) return;
+  const section = document.createElement('div');
+  section.style.cssText = 'grid-column:1/-1;';
+  const title = document.createElement('h2');
+  title.textContent = 'TikTok News Accounts';
+  title.style.cssText = 'font-size:0.85rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--muted-foreground);margin-bottom:0.75rem;';
+  section.appendChild(title);
+  const row = document.createElement('div');
+  row.style.cssText = 'display:flex;flex-wrap:wrap;gap:1rem;';
+  accounts.forEach(acc => {
+    const card = document.createElement('div');
+    card.style.cssText = 'background:var(--card);border:1px solid var(--border);border-radius:0.5rem;padding:0.75rem 1rem;min-width:160px;';
+    card.innerHTML = `<a href="https://www.tiktok.com/@${acc.username}" target="_blank" style="text-decoration:none;color:var(--text);">
+      <div style="font-weight:600;font-size:0.9rem;">${acc.name}</div>
+      <div style="font-size:0.75rem;color:var(--text2);">@${acc.username}</div>
+    </a>`;
+    row.appendChild(card);
+  });
+  section.appendChild(row);
+  grid.appendChild(section);
+}
+if (document.readyState === 'loading') {
+  window.addEventListener('DOMContentLoaded', function() {
+    setTimeout(buildTikTokPanel, 500);
+  });
+} else {
+  setTimeout(buildTikTokPanel, 500);
+}
