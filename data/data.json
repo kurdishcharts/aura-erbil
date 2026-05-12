@@ -681,12 +681,21 @@
     "id": "3fc1eb289636f107",
     "url": "https://www.rudaw.net/english/middleeast/syria/100520261",
     "title": "Bus explosion injures five civilians in Damascus",
-    "title_en": "Bus explosion injures five civilians",
+    "title_en": "Bus explosion injures five civilians in Damascus",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "health",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Damascus",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T16:04:12.677603+00:00",
     "location": {
@@ -794,12 +803,17 @@
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "Shin Region Development",
+    "title_en": "The Beauty of the Land",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "infrastructure",
+    "category": "culture",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T16:01:41.234687+00:00",
     "location": {
@@ -1392,7 +1406,12 @@
     "source": "rudaw-english",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-11T14:33:46.193718+00:00",
     "location": {
@@ -2110,13 +2129,24 @@
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
-    "title_en": "Iraq affirms no unauthorized bases, forces present in southern desert",
+    "title_en": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Logo of Iraq’s Joint Operations Command (JOC). Graphic: Rudaw Also in Iraq Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq Iran-Iraq committee discusses border security as at",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [
-      "Rudaw"
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      }
     ],
     "breaking": 1,
     "timestamp": null,
@@ -2238,13 +2268,20 @@
     "id": "6e7c6a8a6761a7ab",
     "url": "https://www.rudaw.net/english/middleeast/syria/110520261",
     "title": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
-    "title_en": "SDF chief accepts Arabic-only signboard in Rojava temporarily",
+    "title_en": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria SDF chief Mazloum Abdi speaking to ANHA. Also in Syria Unidentified gunmen kill at least two Syrian soldiers in Hasaka Kurdish language education is a ‘red line for us’: Rojava academic Celebratory gunfire during detainees return kills man in Rojava Bus explosion injures five civilians in Damascu",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "culture",
     "sentiment": "neutral",
     "entities": [
-      "Mazloum Abdi"
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Mazloum Abdi",
+        "type": "PERSON"
+      }
     ],
     "breaking": 1,
     "timestamp": null,
