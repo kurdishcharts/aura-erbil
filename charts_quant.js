@@ -219,6 +219,46 @@
     // C6. Intraday Swing
     {
       const card   = mkCard(panel, 'Intraday Swing · Daily High / Low / Close');
+  // ── Group D & E cards ──
+  let cardD1 = mkCard(panel, 'Entity Type Distribution');
+  renderEntityTypePie();
+
+  let cardD2 = mkCard(panel, 'Top Persons Mentioned');
+  renderTopEntities('PERSON', 'entity-top-persons');
+
+  let cardD3 = mkCard(panel, 'Top Organizations');
+  renderTopEntities('ORGANIZATION', 'entity-top-orgs');
+
+  let cardD4 = mkCard(panel, 'Entity Co-occurrence Grid');
+  renderEntityCooccurrence();
+
+  let cardD5 = mkCard(panel, 'Entity Sentiment Breakdown');
+  renderEntitySentiment();
+
+  let cardE1 = mkCard(panel, 'Sentiment Z-Score');
+  renderSentimentZScore();
+
+  let cardE2 = mkCard(panel, 'Category Correlation Heatmap');
+  renderCategoryCorrelation();
+
+  let cardE3 = mkCard(panel, 'Bull/Bear Acceleration');
+  renderBullBearAcceleration();
+
+  let cardE4 = mkCard(panel, 'Sentiment Velocity');
+  renderSentimentVelocity();
+
+  let cardE5 = mkCard(panel, 'Cumulative Net Sentiment');
+  renderCumNetSentiment();
+
+  let cardE6 = mkCard(panel, 'Daily Volatility');
+  renderDailyVolatility();
+
+  let cardE7 = mkCard(panel, 'SMA Crossover (3d vs 7d)');
+  renderSMACrossover();
+
+  let cardE8 = mkCard(panel, 'Intraday Sentiment Swing');
+  renderIntradaySwing();
+
       const canvas = mkCanvas(card, 145);
       const highs  = days.map(d=>Math.max(...byDay[d].map(sentScore)));
       const lows   = days.map(d=>Math.min(...byDay[d].map(sentScore)));
