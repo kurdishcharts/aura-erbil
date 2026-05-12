@@ -1,5 +1,41 @@
 [
   {
+    "id": "1cce153c7ef8afb1",
+    "url": "https://www.rudaw.net/sorani/world/120520267",
+    "title": "ترەمپ بۆ رووداو: ئەو بەرپرسانەی دەڵێن چەکمان بە کورد نەداوە هەڵەن",
+    "title_en": "ترەمپ بۆ رووداو: ئەو بەرپرسانەی دەڵێن چەکمان بە کورد نەداوە هەڵەن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تەقینەوەیەکی بەهێز لە بازاڕێکی قەرەباڵخ لە باکووری رۆژئاوای پاکستان روویدا و بەهۆیەوە لانیکەم 9 کەس کوژران و 35 کەسی دیکەش بریندار بوون. تەقینەوەکە ترسێکی زۆری لەناو خەڵکدا دروست کردووە و، مەترسیی سەرهەڵدانەوەی شەڕ و پێکدادانە سنوورییەکانی نێوان پاکستان و ئەفغانستانی هێناوەتە پێشەوە",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T22:44:53.625220+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "63ab57b280469217",
+    "url": "https://www.rudaw.net/sorani/sports/250520233",
+    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکەمجارە ئەم هەموو هاندەرە ئامادەی ئاهەنگی یانەکە بن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-12T22:44:37.326126+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "54f6229c172bd76a",
     "url": "https://www.rudaw.net/english/culture/28042024",
     "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
@@ -78,7 +114,7 @@
     "title_en": "US offers $15 million reward for info on IRGC oil shipments, facilitators",
     "summary": "ERBIL, Kurdistan Region - The US Department of State on Tuesday announced a reward of up to $15 million for information on oil shipments linked to Iran’s Islamic Revolutionary Guard Corps (IRGC) and its facilitators. The move comes a day after Washington said it was “intensifying pressure” on the IRGC by sanctioning its oil shipment and sales arm. The Department’s Rewards for Justice Program issued a statement titled “Reward of up to $15 million for information on IRGC oil sales,” noting that the IRGC “generates revenue for its activities through various illicit operations, including the sale and shipment of sanctioned Iranian oil.” It added, “If you have information about the IRGC’s oil shipments, the tankers or entities involved in such illicit oil transfers, or related activities or individuals, contact us. Your information could make you eligible for a reward and relocation.” A day earlier, State Department Deputy Spokesperson Tommy Pigott said in a Monday statement that the administration of President Donald Trump is “intensifying pressure” on the IRGC by “targeting the financial networks that enable its illicit oil operations.” He said the US is sanctioning “a network involved in selling and shipping Iranian oil to overseas buyers on behalf of the IRGC.” as well as “three senior officials from the IRGC’s Shahid Purja’fari Oil Headquarters who coordinate these transactions.” The Shahid Purja’fari Oil Headquarters is an IRGC-affiliated unit responsible for managing and coordinating the shipment and sale of Iranian oil. Pigott added that the sanctions aim to disrupt IRGC oil operations, which he said “finance Iran’s support for terrorist proxies and regional aggression,” describing them as an “additional round of sanctions under Economic Fury” against Tehran. The US launched Operation Epic Fury on February 28, a joint aerial campaign with Israel against Iran, striking more than 17,000 sites over six weeks before a Pakistan-mediated ceasefire was agreed on April 8",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -150,7 +186,7 @@
     "title_en": "ئێران: ئاشتیی راستەقینە بە هەڕەشە بەدی نایەت",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی پەرلەمانی ئێران وەڵامی هەڕەشەکانی سەرۆکی ئەمریکا دەداتەوە و رایدەگەیێنێت، هێزە چەکدارەکانیان بۆ هەموو بژارەیەک ئامادەن و وەڵامێکی وایان دەبێت کە \"سەریان سووڕبمێنێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -637,29 +673,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:17.501489+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "63ab57b280469217",
-    "url": "https://www.rudaw.net/sorani/sports/250520233",
-    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "title_en": "Video: Protestors Retreat After Clash with Police",
-    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ریال مەدرید  تیپێکی بێ رۆح و بێ کەسایەتی",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Tensid League",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-12T05:42:04.520942+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
