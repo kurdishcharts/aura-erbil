@@ -493,8 +493,6 @@
         options:{ ...BASE, scales:{ x:{ticks:TICK,grid:{display:false}}, y:{ticks:TICK,grid:{color:GRID},min:-1,max:1} } }
       });
     }
-  }
-
 
     // ═══════════════════════════════════════════════════════════════
     // F1 · Flashpoint Detection · Volume Z‑Score
