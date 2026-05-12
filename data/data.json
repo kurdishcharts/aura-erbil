@@ -6,15 +6,24 @@
     "title_en": "Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:46:24.956000+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
@@ -25,8 +34,17 @@
     "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:45:59.905895+00:00",
     "location": {
@@ -42,9 +60,18 @@
     "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
     "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:45:49.708107+00:00",
     "location": {
@@ -60,27 +87,45 @@
     "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Sulaymaniyah",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:45:32.080257+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Sulaymaniyah",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "cd9414166743a361",
     "url": "https://www.rudaw.net/sorani/business/120520261",
     "title": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
-    "title_en": "نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە",
+    "title_en": "Brent crude oil price close to $104",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوو رێگەی قەرزی ناوخۆیی و دەرەکی لەبەردەم عێراقدایە",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "economy",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Brent crude oil",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:43:19.628730+00:00",
     "location": {
@@ -93,12 +138,21 @@
     "id": "66be384550f951e8",
     "url": "https://www.rudaw.net/sorani/world/110520263",
     "title": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
-    "title_en": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
+    "title_en": "Swedish Foreign Minister on the situation: When I meet with the Syrian government, I discuss protecting minorities",
     "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ داواکاری گشتیی ئەڵمانیا رایگەیاند، پۆلیسی شاری هامبۆرگ مێرمنداڵێکی سووری تەمەن 17 ساڵیان بە تۆمەتی پلاندانان بۆ هێرشێکی تیرۆریستی دەستگیر کردووە، کە پێدەچێت لەژێر کاریگەریی گرووپی داعش دا بووبێت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hamborg",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Germany",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:43:09.579225+00:00",
     "location": {
@@ -111,30 +165,48 @@
     "id": "37f552d6e84073d1",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
     "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "8.3 Percent of Kurds Speak Persian",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Persia",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:52.986155+00:00",
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "3a961a9579c711a3",
     "url": "https://www.rudaw.net/sorani/world/020720251",
     "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "title_en": "The story of the woman who planted a bomb",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ داواکاری گشتیی ئەڵمانیا رایگەیاند، پۆلیسی شاری هامبۆرگ مێرمنداڵێکی سووری تەمەن 17 ساڵیان بە تۆمەتی پلاندانان بۆ هێرشێکی تیرۆریستی دەستگیر کردووە، کە پێدەچێت لەژێر کاریگەریی گرووپی داعش دا بووبێت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hambörger",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Germany",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:40.620379+00:00",
     "location": {
@@ -147,12 +219,17 @@
     "id": "cbb4acb26537616f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
     "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "Two people injured in a stampede in the Swedish city of Orebro",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "health",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Orebro",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:17.501489+00:00",
     "location": {
@@ -165,12 +242,17 @@
     "id": "63ab57b280469217",
     "url": "https://www.rudaw.net/sorani/sports/250520233",
     "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "title_en": "Video: Protestors Retreat After Clash with Police",
     "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ریال مەدرید  تیپێکی بێ رۆح و بێ کەسایەتی",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Tensid League",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:42:04.520942+00:00",
     "location": {
@@ -186,9 +268,18 @@
     "title_en": "UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties",
     "summary": "ERBIL, Kurdistan Region - The United Kingdom on Monday added a dozen individuals and groups linked to Iran, accusing them of planning or facilitating “hostile activity” on behalf of the Iranian government, London’s Foreign, Commonwealth and Development Office (FCDO) said in a notice. The notice details that the designations include nine individuals - seven of them of Iranian descent - some of whom are suspected of being “involved in hostile activity by the Government of Iran” or by an “armed group backed by the Government of Iran,” including “threatening, planning or conducting attacks against persons and assets in the United Kingdom or any other country.” Furthermore, some individuals are accused of conduct that “facilitates (or is intended to facilitate) or gives support or assistance” to hostile acts, including “providing financial services to individuals and entities involved in activity which is intended to cause the destabilisation of the United Kingdom or any other country.” Meanwhile, the three sanctioned entities include the Zindashti network, which the FCDO said “is or has been involved in hostile activity by an armed group backed by the Government of Iran, including threatening, planning or conducting attacks against persons and assets in the United Kingdom or any other country.” The other two entities are identified as Berelian Exchange and GCM Exchange, which the Office said are linked to “conduct which facilitates hostile activity by the Government of Iran, namely providing financial services to individuals and entities involved in activity which is intended to cause the destabilisation of the United Kingdom or any other country.” The UK government had in February sanctioned ten individuals and one organization it said were involved in the crackdown on pro-reform demonstrations that swept through Iran earlier this year. The sanctions targeted parts of the Iranian security apparatus, starting with the Law Enforcement Forces (FARAJA), which were designat",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:16:40.989001+00:00",
     "location": {
@@ -204,9 +295,18 @@
     "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
     "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
     "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Marco Rubio",
+        "type": "PERSON"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:16:22.465374+00:00",
     "location": {
@@ -222,9 +322,18 @@
     "title_en": "Sweden says important that Syria moves in right direction on minority rights",
     "summary": "ERBIL, Kurdistan Region - Sweden’s foreign minister said on Monday that there is a window of opportunity in Syria regarding minority rights, adding that it is important for the interim government in Damascus to move in the right direction. “When I meet with the high-level representatives of the Syrian government, I always raise the issue of the protection of the minorities and it is very important that we now have an inclusive way forward in Syria, and we really have a window of opportunity but it is important that they move in the right direction,” she told Rudaw. Her remarks came on the sidelines of a European Union meeting on Monday during which the bloc lifted sanctions on Syrian defense minister Murhaf Abu Qasra and interior minister Anas Khattab. The move follows a May 2025 decision by the EU to ease broader economic sanctions, including restrictions on banking, energy, trade, and transport, in support of post-regime stability. The EU has lifted most of the sanctions imposed on Syria during Bashar al-Assad’s rule. However, it has maintained an arms embargo as well as restrictions on certain technological tools that could potentially be used for internal repression and surveillance. European officials have repeatedly said that lifting sanctions is conditional on verifiable evidence that Syrian authorities are committed to adopting a tolerant and inclusive approach toward the country’s ethnic and religious communities and improving the overall human rights situation. Italian Foreign Minister Antonio Tajani told Rudaw on Monday that he had spoken with Syria’s interim President Ahmed Sharaa about minorities in the country, noting that Sharaa assured him regarding their rights. “He told me every Syrian is a citizen of Syria,” the Italian official said. “I believe in this. This is a good solution,” he added. Tajani also said that protecting minorities and guaranteeing freedom of religion and the right to study in one’s native language are “principle[s] good for ever",
     "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Sweden",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:16:05.658098+00:00",
     "location": {
@@ -272,8 +381,17 @@
     "summary": "ERBIL, Kurdistan Region - The Iraq-Iran committee formed to implement a 2023 border agreement aimed at disarming and relocating Kurdish opposition groups based in the Kurdistan Region held a meeting in Baghdad on Monday. This comes as Tehran has since the outbreak of the Iran war intensified its attacks on Kurdish dissident groups in the Region, despite their non-involvement in the conflict. The High Committee for the Implementation of the Security Agreement met in the presence of Iraqi National Security Advisor Qasim al-Araji, where delegates from Baghdad and Tehran “emphasized the importance of strengthening joint security coordination, tightening border control measures, and preventing any infiltration or movements by terrorist or armed groups that could threaten security and stability in both countries and the wider region,” according to Araji’s office. The Iranian side reportedly “presented information related to the activities of certain Iranian armed groups present in the Kurdistan Region,” the Advisor’s office added, noting that “it was agreed to continue coordination and take necessary measures to address this issue in a comprehensive manner, ensuring the prevention of any activities that could threaten regional security or undermine stability.” For his part, Araji reaffirmed “Iraq’s firm position” against “the use of Iraqi territory as a launching pad for any hostile acts, security operations, or military actions targeting neighboring countries,” in a way that aligns with “Baghdad’s efforts to consolidate regional security, respect state sovereignty, and promote shared stability.” In March 2023, Iran and Iraq signed a security pact under which Baghdad committed to disarming Kurdish opposition groups and tightening security along the shared border. Iran had threatened military action if Baghdad failed to implement the agreement, accusing Iranian Kurdish opposition groups based in the Kurdistan Region of fueling Iran’s nationwide protest movement in 2022 and",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:15:31.075319+00:00",
     "location": {
@@ -309,19 +427,15 @@
     "id": "07764df9d8590bae",
     "url": "https://www.rudaw.net/sorani/world/1105202611",
     "title": "وەزیری دەرەوەی کەنەدا: ناتۆ بەرگەی گوشارەکانی ترەمپ دەگرێت",
-    "title_en": "Canadian Foreign Minister: NATO will support Trump's initiatives",
+    "title_en": "Canadian Foreign Minister: NATO takes Trump's \"America First\" policy",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکێتیی ئەورووپا بە فەرمی رێککەوتننامەی هاوکارییەکانی لەگەڵ سووریا کارا کردەوە. ئەم هەنگاوە وەک هەوڵێک بۆ بووژاندنەوەی ئەو وڵاتە و خۆشکردنی زەمینە بۆ گەڕانەوەی ئارەزوومەندانەی ملیۆنان کۆچبەری سووری لە ئەورووپاوە بۆ نیشتمانی خۆیان دەبیندرێت.",
     "source": "rudaw-sorani",
     "category": "politics",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "NATO",
         "type": "ORGANIZATION"
-      },
-      {
-        "name": "Canada",
-        "type": "LOCATION"
       }
     ],
     "breaking": 1,
@@ -336,23 +450,15 @@
     "id": "d0ef24f43c446562",
     "url": "https://www.rudaw.net/sorani/world/1105202616",
     "title": "ستامەر لەژێر گوشاری دەستلەکارکێشانەوەدایە؛ بەڵێنی \"گۆڕانکاریی گەورە\" دەدات",
-    "title_en": "Canada's Foreign Minister under pressure; says 'major changes' are coming",
+    "title_en": "Stammering under pressure; promises \"major change",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزیری دەرەوەی کەنەدا رایگەیاند، هاوپەیمانیی ناتۆ \"خۆڕاگرە\" و دەتوانێت بەرگەی ئەو رەخنانە بگرێت کە دۆناڵد ترەمپ، سەرۆکی ئەمریکا ئاراستەی دەکات. راشیگەیاند، ئەم هاوپەیمانێتییە بۆ پاراستنی ئاسایشی وڵاتانی رۆژئاوا لە بەرامبەر رووسیا، لە هەموو کاتێک گرنگترە",
     "source": "rudaw-sorani",
     "category": "politics",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
-        "name": "Canada",
+        "name": "Erbil",
         "type": "LOCATION"
-      },
-      {
-        "name": "NATO",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Donald Trump",
-        "type": "PERSON"
       }
     ],
     "breaking": 1,
@@ -390,19 +496,15 @@
     "id": "bc55cf83ca7cec93",
     "url": "https://www.rudaw.net/sorani/world/15012024",
     "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "How will the President of America be elected?",
+    "title_en": "How is the President of the United States elected?",
     "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکێتیی ئەورووپا بە فەرمی رێککەوتننامەی هاوکارییەکانی لەگەڵ سووریا کارا کردەوە. ئەم هەنگاوە وەک هەوڵێک بۆ بووژاندنەوەی ئەو وڵاتە و خۆشکردنی زەمینە بۆ گەڕانەوەی ئارەزوومەندانەی ملیۆنان کۆچبەری سووری لە ئەورووپاوە بۆ نیشتمانی خۆیان دەبیندرێت.",
     "source": "rudaw-sorani",
     "category": "politics",
-    "sentiment": "neutral",
+    "sentiment": "positive",
     "entities": [
       {
         "name": "United States",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Syria",
-        "type": "LOCATION"
+        "type": "ORGANIZATION"
       },
       {
         "name": "European Union",
@@ -497,9 +599,22 @@
     "title_en": "Kurdish language education is a ‘red line for us’: Rojava academic",
     "summary": "ERBIL, Kurdistan Region - A senior official from a university in northeast Syria (Rojava) told Rudaw on Monday that educational institutions in the Kurdish-led enclave will continue providing education in Kurdish, urging the need to safeguard the educational system in place. The remarks come as integration talks between Damascus and Rojava continue, with education as a central issue in the discussions. “When it comes to our mother tongue, this issue is related to our national cause,” said Shervan Mahmood, co-chair of the University of Kobani, stressing that “the Kurdish language is a red line for us” and that “we will never take a step back regarding this language.” Founded in 2017, the University of Kobani was the first higher education institution in the Kurdish majority city, situated in north-central Rojava. It comprises 20 departments across four faculties and five institutes, offering various undergraduate and postgraduate programs in fields including Kurdish literature as well as arts, humanities, medicine and natural sciences. “Some courses are taught in English as well as Arabic, but the primary language and the adopted language policy at the university is Kurdish,” Mahmood noted. The University of Kobani launched a PhD program in the Kurdish language last year, according to the university’s co-chair, who added that the first master’s degree awarded was also in Kurdish language. “For a language that has reached the level where Master's and PhD programs are opened, I don't believe anyone has the right to put this language under discussion anymore,” he added. Since 2011, authorities in Rojava have implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. However, Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29, with significant mediation from the United States through its Special Envoy for Syria",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Rojava",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Shervan Mahmood",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-12T04:43:14.006751+00:00",
     "location": {
@@ -566,21 +681,12 @@
     "id": "3fc1eb289636f107",
     "url": "https://www.rudaw.net/english/middleeast/syria/100520261",
     "title": "Bus explosion injures five civilians in Damascus",
-    "title_en": "Bus explosion injures five civilians in Damascus",
+    "title_en": "Bus explosion injures five civilians",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "health",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Damascus",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T16:04:12.677603+00:00",
     "location": {
@@ -647,21 +753,12 @@
     "id": "15ec42f1ff05f06e",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "With Sorrow - Protecting the Environment",
+    "title_en": "Together for a Brighter Future",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "environment",
-    "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "United Nations",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T16:01:56.530169+00:00",
     "location": {
@@ -697,17 +794,12 @@
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
-    "title_en": "The Beauty of the Land",
+    "title_en": "Shin Region Development",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "culture",
+    "category": "infrastructure",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T16:01:41.234687+00:00",
     "location": {
@@ -824,16 +916,13 @@
     "id": "42c14d0af256b488",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
     "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "Two people injured in a stampede in the Swedish city of Orebro",
+    "title_en": "Two security personnel killed in Orabro, Sweden",
     "summary": "",
     "source": "rudaw-sorani",
-    "category": "health",
-    "sentiment": "neutral",
+    "category": "security",
+    "sentiment": "negative",
     "entities": [
-      {
-        "name": "Orebro",
-        "type": "LOCATION"
-      }
+      "Orabro"
     ],
     "breaking": 1,
     "timestamp": "2026-05-11T15:31:40.016816+00:00",
@@ -1303,12 +1392,7 @@
     "source": "rudaw-english",
     "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Rudaw",
-        "type": "ORGANIZATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-11T14:33:46.193718+00:00",
     "location": {
@@ -2026,12 +2110,14 @@
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
-    "title_en": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
+    "title_en": "Iraq affirms no unauthorized bases, forces present in southern desert",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Logo of Iraq’s Joint Operations Command (JOC). Graphic: Rudaw Also in Iraq Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleged secret foreign military base in Iraq Iran-Iraq committee discusses border security as at",
     "source": "rudaw-sorani",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      "Rudaw"
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2047,9 +2133,18 @@
     "title_en": "Iran-US rhetoric intensifies after ceasefire proposal falters",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iran Undated picture of Iranian Parliament Speaker Mohammed Bagher Ghalibaf. File photo: IRNA Also in Iran Iran hangs top university student on Mossad, CIA spying charges Iran sends response to US proposal via Pakistan Iran to treat price gougers as agents of US, Israel IRGC threatens ‘heavy’ response ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2066,8 +2161,17 @@
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Travelers line up in front of check-in counters at Baghdad International Airport on May 8, 2026. Photo: Baghdad International Airport/Facebook Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Ex-PM warns of ‘grave’ breach over alleged secret foreign military bas",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Baghdad International Airport",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2084,8 +2188,17 @@
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria Aftermath of attack on Syrian army in Hasaka on May 11, 2026. Photo: SOHR Also in Syria Kurdish language education is a ‘red line for us’: Rojava academic SDF chief says Arabic-only signboard in Rojava temporarily accepted Celebratory gunfire during detainees return kills man in Rojava Bus explos",
     "source": "rudaw-english",
     "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hasaka",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2101,9 +2214,18 @@
     "title_en": "Trump reiterates disappointment with Kurds over alleged weapons delivery",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Trump speaking at an event in Washington on May 11, 2026. Photo: AFP Also in World Sweden says important that Syria moves in right direction on minority rights UK sanctions 12 Iran-linked entities, individuals over ‘hostile activity’ ties EU to raise Kurdish language rights with Damascus US says ",
     "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurds",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2116,12 +2238,14 @@
     "id": "6e7c6a8a6761a7ab",
     "url": "https://www.rudaw.net/english/middleeast/syria/110520261",
     "title": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
-    "title_en": "SDF chief says Arabic-only signboard in Rojava temporarily accepted",
+    "title_en": "SDF chief accepts Arabic-only signboard in Rojava temporarily",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria SDF chief Mazloum Abdi speaking to ANHA. Also in Syria Unidentified gunmen kill at least two Syrian soldiers in Hasaka Kurdish language education is a ‘red line for us’: Rojava academic Celebratory gunfire during detainees return kills man in Rojava Bus explosion injures five civilians in Damascu",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      "Mazloum Abdi"
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2137,9 +2261,18 @@
     "title_en": "Iraq cabinet vote to see delay as Shiite bloc splits over key ministries",
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq A meeting of Iraq’s ruling Shiite Coordination Framework held on April 24, 2026. Also in Iraq Iraq affirms no ‘unauthorized’ bases, forces present in southern desert Turkish carrier to resume flights to Baghdad as international airport restores 90% capacity Ex-PM warns of ‘grave’ breach over alleg",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Shiite Coordination Framework",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2152,66 +2285,102 @@
     "id": "a693121e806737c9",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202621",
     "title": "هێرشەکانی سنووری کۆیە ئاژەڵەکانیشی گرتوە؛ 25 هەزار مریشک و جوچک سووتان",
-    "title_en": "هێرشەکانی سنووری کۆیە ئاژەڵەکانیشی گرتوە؛ 25 هەزار مریشک و جوچک سووتان",
+    "title_en": "Attacks on the villages of Koy Ajeh have left many homeless; 25,000 homes and livestock destroyed",
     "summary": "ئەبوبەکر ئیسماعیل به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە پاشماوەی بۆردوومانەکە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Koy Ajeh",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "cfc1f3dc3ce48342",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202626",
     "title": "گوتەبێژی یەکگرتوو: وەزارەتێکمان لە بەغدا مسۆگەر کردووە",
-    "title_en": "گوتەبێژی یەکگرتوو: وەزارەتێکمان لە بەغدا مسۆگەر کردووە",
+    "title_en": "Unified Union: Our Ministry Has Been Located in Baghdad",
     "summary": "شیراز رەئوف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە سەلاحەدین بابەکر، گوتەبێژی یەکگرتووی ئیسلامیی کوردستان زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 1",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "c9a3d0844d9b6279",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202618",
     "title": "وەزارەتی تەندروستی: هیچ تووشبوویەکی ڤایرۆسی 'هانتا' لە هەرێمی کوردستان تۆمارنەکراوە",
-    "title_en": "وەزارەتی تەندروستی: هیچ تووشبوویەکی ڤایرۆسی 'هانتا' لە هەرێمی کوردستان تۆمارنەکراوە",
+    "title_en": "Ministry of Health: No cases of the \"Hanta\" virus have been recorded in the Kurdistan Region.",
     "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ڤایرۆسی هانتا زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "health",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "24bc950ba2824621",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202628",
     "title": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
-    "title_en": "هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە",
+    "title_en": "Turkish astronomical tours begin in Turkey and extend to Iraq and the Kurdistan Region",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان فرۆکەیەکی هێڵی ئاسمانی تورکیش ئێرلاین. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2224,66 +2393,98 @@
     "id": "d5b8fba4f5b00ae7",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202627",
     "title": "لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە",
-    "title_en": "لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوتووە",
+    "title_en": "More than 14,000 residential and commercial units in Ilam province have been damaged by the earthquake.",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان بینایەک لە ئیلام کە بە بۆردوومانی ئەمریکا/ئیسرائیل لە جەنگی 40 رۆژەدا وێران بووە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "043c80ef86db7326",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202625",
     "title": "خۆپێشاندان لە حەسەکە بەردەوامە",
-    "title_en": "خۆپێشاندان لە حەسەکە بەردەوامە",
+    "title_en": "Protest continues in Hasakah",
     "summary": "ڤیڤیان فەتاح به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە خۆپێشاندەرێک بەرامبەر کۆشکی دادی حەسەکە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "a1637e5eb58d4145",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202624",
     "title": "لە هەرێمی کوردستان سووتاندنی پەرێز قەدەخە دەکرێت",
-    "title_en": "لە هەرێمی کوردستان سووتاندنی پەرێز قەدەخە دەکرێت",
+    "title_en": "Burning of the sacred flag is banned in the Kurdistan Region",
     "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان کۆبوونەوەی وەزارەتی ناوخۆ و کشتوکاڵ زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزا",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "6b17e105f2a5569c",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202617",
     "title": "دوو گیرفانبڕەکەی مزگەوتەکانی سلێمانی دەستگیرکران",
-    "title_en": "دوو گیرفانبڕەکەی مزگەوتەکانی سلێمانی دەستگیرکران",
+    "title_en": "Two members of the mosques in Erbil arrested",
     "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان ساتی گیرفانبڕینی نوێژخوێنان لەلایەن یەکێک لە تۆمەتبارەکانەوە زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2296,30 +2497,48 @@
     "id": "ba0d9776f0ca3e16",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202616",
     "title": "لە کەرکووک بەرپرسێکی ئەمنی بە تۆمەتی گەندەڵی و وەرگرتنی سەرانە دەستگیر دەکرێت",
-    "title_en": "لە کەرکووک بەرپرسێکی ئەمنی بە تۆمەتی گەندەڵی و وەرگرتنی سەرانە دەستگیر دەکرێت",
+    "title_en": "Security official in Kirkuk arrested on corruption and abuse of power charges",
     "summary": "مالیک محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی ",
     "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "15610e286fda928b",
     "url": "https://www.rudaw.net/sorani/kurdistan/1105202615",
     "title": "پارەی گەنمی جووتیاران لە هەولێر و دهۆک دابەشدەکرێت؛ کەی دەگاتە سلێمانی؟",
-    "title_en": "پارەی گەنمی جووتیاران لە هەولێر و دهۆک دابەشدەکرێت؛ کەی دەگاتە سلێمانی؟",
+    "title_en": "Wheat harvest in Erbil and Duhok; when will it reach Sulaymaniyah?",
     "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان گەنمی جووتیاران. وێنە: بڵند تاهیر-رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region Government",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2332,12 +2551,21 @@
     "id": "fa3ab019632c7269",
     "url": "https://www.rudaw.net/sorani/kurdistan/110520265",
     "title": "هاوسەرۆکی زانکۆی کۆبانێ بۆ رووداو: 1,200 خوێندکاری فەرمی و 550 دەرچوومان هەیە",
-    "title_en": "هاوسەرۆکی زانکۆی کۆبانێ بۆ رووداو: 1,200 خوێندکاری فەرمی و 550 دەرچوومان هەیە",
+    "title_en": "University of Kobane Rector: We have 1,200 registered students and 550 graduates",
     "summary": "نالین حەسەن به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە زانکۆی کۆبانێ زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kobane",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2350,12 +2578,21 @@
     "id": "9e2876e34285adf6",
     "url": "https://www.rudaw.net/sorani/kurdistan/1005202622",
     "title": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
-    "title_en": "بە هۆی تەقەی خۆشی لە قامشلۆ 7 کەس بوونە قوربانیی",
+    "title_en": "Seven people killed in a gas leak in Qamishli",
     "summary": "ڤیڤیان فەتاح به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە . زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێبوون و بازرگانی زیانیان بەرکەوت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Qamishli",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2368,48 +2605,67 @@
     "id": "db33900284b149c5",
     "url": "https://www.rudaw.net/sorani/kurdistan/1005202618",
     "title": "بی پی دەست بە کارەکانی دەکاتەوە و ئاستی بەرهەمهێنانی نەوتی کەرکووک بەرزدەکاتەوە",
-    "title_en": "بی پی دەست بە کارەکانی دەکاتەوە و ئاستی بەرهەمهێنانی نەوتی کەرکووک بەرزدەکاتەوە",
+    "title_en": "BP begins operations and increases the oil production rate of Kirkuk",
     "summary": "هەردی محەممەد عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کێڵگەیەکی نەوت لە کەرکووک زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێب",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "b75fe72875204cba",
     "url": "https://www.rudaw.net/sorani/kurdistan/100520269",
     "title": "کچێکی عەفرینی بەدوای کەسانی سەرووی 100 ساڵدا دەگەڕێت",
-    "title_en": "کچێکی عەفرینی بەدوای کەسانی سەرووی 100 ساڵدا دەگەڕێت",
+    "title_en": "A Kurdish-Jewish family celebrates its 100th anniversary",
     "summary": "نالین حەسەن به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە روولا حەمدۆ میوانی بووڵتەنی نووڕۆژی رووداو بوو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "c3f66792c15d5a51",
     "url": "https://www.rudaw.net/sorani/kurdistan/0905202613",
     "title": "ئەو باڵۆنەی لە ئاسمانی هەولێرە چییە؟",
-    "title_en": "ئەو باڵۆنەی لە ئاسمانی هەولێرە چییە؟",
+    "title_en": "What is that balloon in the sky over Erbil?",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە دیمەنێکی بالۆنەکە. وێنە: بڵند تاهیر - رووداو زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هەرێمی کوردستان دەستپێدەکاتەوە لە ئیلام زیاتر لە 14 هەزار یەکەی نیشتەجێب",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2422,12 +2678,21 @@
     "id": "b75495058a9d89d0",
     "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
     "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "See the road that connects Iraq to Europe",
     "summary": "زانا کایانی @zana_kayani به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە زانا کایانی پێشکێشکاری رووداو، بەشێوەی دیجیتاڵی لە وێستگەیەکی شەمەندەفەر لە پێشخابوور دانیشتووە. زۆرتر لە کوردستان گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێر",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Zana Kani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Turkey",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2440,12 +2705,21 @@
     "id": "64a6f91dc8f15de2",
     "url": "https://www.rudaw.net/sorani/middleeast/11052026",
     "title": "میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە",
-    "title_en": "میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە",
+    "title_en": "Iran's media: Trump's response to Iran is not important",
     "summary": "سینا سۆما به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست دۆناڵد ترەمپ، سەرۆکی ئەمریکا. وێنە: AFP زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراو",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Donald Trump",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2458,12 +2732,16 @@
     "id": "67dfbaea2df20f56",
     "url": "https://www.rudaw.net/sorani/middleeast/100520263",
     "title": "نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراوەکە لەو وڵاتە ببرێتە دەرەوە",
-    "title_en": "نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت یۆرانیۆمە پیتێندراوەکە لەو وڵاتە ببرێتە دەرەوە",
+    "title_en": "No Ceasefire in Iran Conflict, US Sanctions Iranian General",
     "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست بنیامین نەتەنیاهوو، سەرۆکوەزیرانی ئیسرائیل زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە نا",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      "Natiq Bashir",
+      "US Administration",
+      "Iran"
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2476,12 +2754,16 @@
     "id": "22b4c3a70291a0e3",
     "url": "https://www.rudaw.net/sorani/middleeast/100520264",
     "title": "لە سەرەتای ئادارەوە 2846 لوبنانی بە هێرشی ئیسرائیل کوژراون",
-    "title_en": "لە سەرەتای ئادارەوە 2846 لوبنانی بە هێرشی ئیسرائیل کوژراون",
+    "title_en": "Iranian Forces Interrogate Israeli Druze in Lebanon",
     "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست هێرشێکی سوپای ئیسرائیل بۆسەر باشووری لوبنان. وێنە: AFP زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [
+      "Iran",
+      "Israel",
+      "Lebanon"
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2494,30 +2776,43 @@
     "id": "96f9bb29c87500e8",
     "url": "https://www.rudaw.net/sorani/middleeast/090520264",
     "title": "راپۆرتێک: ئیسرائیل بنکەیەکی سەربازیی نهێنیی بۆ جەنگی ئێران لەناو خاکی عێراق دروستکردووە",
-    "title_en": "راپۆرتێک: ئیسرائیل بنکەیەکی سەربازیی نهێنیی بۆ جەنگی ئێران لەناو خاکی عێراق دروستکردووە",
+    "title_en": "Report: Israeli Military Base Established on Iranian Border",
     "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ژمارەیەک سەربازی ئیسرائیلی. وێنەکە بۆ روونکردنەوە لەسەر هەواڵەکە دانراوە زۆرتر لە رۆژهەڵاتی نێوەڕاست ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی با",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      "Ahmad Bahshi",
+      "Iran",
+      "Israel"
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   },
   {
     "id": "372a5169c3a449b1",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/1105202610",
     "title": "ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە",
-    "title_en": "ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە",
+    "title_en": "Joint Operations: No Sovereign Military Force Exists in Iraq",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی فەرماندەیی ئۆپەراسیۆنە هاوبەشەکانی عێراق زۆرتر لە عێراق عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێتەوە A+ A- رووداو دیجی",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Anbar",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2530,30 +2825,48 @@
     "id": "7ac625248be572b1",
     "url": "https://www.rudaw.net/sorani/middleeast/110520262",
     "title": "ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە",
-    "title_en": "ئیسرائیل: گومەزی ئاسنین 99%ـی مووشەکەکانی حەماس و حیزبوڵڵای تێکشکاندووە",
+    "title_en": "Israel: Hamas and Hezbollah's 99% of weapons have been destroyed",
     "summary": "بەشدار موزەفەر @bashdarmu به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست سیستەمی بەرگریی (گومبەزی ئاسنین)ـە. وێنە: رۆیتەرز زۆرتر لە رۆژهەڵاتی نێوەڕاست میدیای ئێران: کاردانەوەی ترەمپ لە بەرامبەر وەڵامی ئێران گرنگ نییە سوپای لوبنان عێراقییەکی دەستگیرکرد کە خۆی وەک بەرپرسێکی ئەمنیی باڵیۆزخانە ناساندبوو نەتەنیاهوو: جەنگی ئێران تەواو نەبووە و دەبێت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hamas",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hezbollah",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Halabja",
+      "lat": 35.1787,
+      "lng": 45.9861
     }
   },
   {
     "id": "7bc00d3c39b0be38",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/110520268",
     "title": "دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت",
-    "title_en": "دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت",
+    "title_en": "Iranian authorities seize control of Iranian athlete's account",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران عەلی کەریمی، یاریزانی پێشووی هەڵبژاردەی ئێران زۆرتر لە ئێران قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمر",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2566,12 +2879,21 @@
     "id": "d4db4bd04871eafb",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/110520267",
     "title": "قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت",
-    "title_en": "قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت",
+    "title_en": "Carpet for America: Ready for Any Floor and Will Amaze You",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران محەممەدباقر قالیباف، سەرۆکی پەرلەمانی ئێران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2584,12 +2906,17 @@
     "id": "b9a828d22a197acf",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/110520266",
     "title": "تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە",
-    "title_en": "تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە",
+    "title_en": "Economic Crisis in Iran; All Sectors Affected, Unemployment Soars",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران شەقامێکی ئێران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ A+ A- رووداو دیجیتاڵ ئابووریی ئێران",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2602,12 +2929,21 @@
     "id": "0e362aeb50749ae3",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520269",
     "title": "عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە",
-    "title_en": "عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە",
+    "title_en": "Iraq and Iran meet to discuss security cooperation",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لیژنەی باڵای ئەمنیی عێراق و ئێران زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێتەوە A+ A- رووداو ",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2620,12 +2956,21 @@
     "id": "d328077c04fd56c1",
     "url": "https://www.rudaw.net/sorani/middleeast/turkey/110520263",
     "title": "تورکیا: رۆژانە 22 ملیۆن مەتر سێجا گازی سروشتی بەرهەم دەهێنین",
-    "title_en": "تورکیا: رۆژانە 22 ملیۆن مەتر سێجا گازی سروشتی بەرهەم دەهێنین",
+    "title_en": "Turkey: Produces 22 million cubic meters of natural gas per day",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا ئاڵپەرسلان بەیراکتار، وەزیری وزە و سەرچاوە سرووشتییەکانی تورکیا زۆرتر لە تورکیا ئەردۆغان: دەستووری ئێستا عەیبەیە و گۆڕینی ئەرکە تورکیا لە هەفتەیەکدا دەست بەسەر 659 کیلۆگرام هۆشبەردا گیرا هاوسەرۆکانی دەم پارتی: دەبێت راستییەکان لەبارەی کۆمەڵکوژییەکەی رەیحانلی ئاشکرا بکرێن داهاتی تورکیا لە ئاسمانەکەی 739 ملیۆن ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Turkey",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Ankara",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2638,12 +2983,21 @@
     "id": "85018dd97b08aea1",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520268",
     "title": "لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن",
-    "title_en": "لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن",
+    "title_en": "10 Governors and Mayors in Anbar Replaced",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق دیمەنێک لە ناوچەیەکی ئەنبار. وێنە: ئەرشیڤ زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنییەکان دەگەڕێندرێتەوە چوارچێوەی هاوئاهەنگی کۆدەبێت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Anbar",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi Republic Guard",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2656,12 +3010,17 @@
     "id": "9bfc24f20234fbd6",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/110520265",
     "title": "سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت",
-    "title_en": "سوپای پاسداران پێنج مەرج بۆ دانوستاندن لەگەڵ ئەمریکا دادەنێت",
+    "title_en": "IRGC demands five conditions for talks with the United States",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران لۆگۆی سوپای پاسداران زۆرتر لە ئێران دەسەڵاتی دادی ئێران دەستی بەسەر سامانی یاریزانێکدا گرت قالیباف بۆ ئەمریکا: بۆ هەموو بژارەیەک ئامادەین و سەرتان سووڕدەمێنێت تەنگژەی ئابووری لە ئێران؛ هەڵاوسان و بێکاری بەرۆکی هەموو کەرتەکانی گرتووە وەڵامەکەی ئێران بۆ پێشنیازەکەی ئەمریکا چی تێدایە؟ A+ A- رووداو دیج",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iranian Revolutionary Guard Corps",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2674,12 +3033,21 @@
     "id": "78ad3ac4e01f9011",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520265",
     "title": "قائانی بۆ چوارچێوەی هاوئاهەنگی: نابێت سەرکردەی گرووپە چەکدارەکان لە حکومەت دووربخرێنەوە",
-    "title_en": "قائانی بۆ چوارچێوەی هاوئاهەنگی: نابێت سەرکردەی گرووپە چەکدارەکان لە حکومەت دووربخرێنەوە",
+    "title_en": "A call for a framework of cooperation: Should commanders of armed groups be excluded from government?",
     "summary": "تەنیا ئەحمەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق ئیسماعیل قائانی، فەرماندەی فەیلەقی قودسی سوپای پاسداران زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2692,30 +3060,44 @@
     "id": "6ae5b2a19b30c701",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520263",
     "title": "عێراق کێشانی بەرهەمەکانی تووتن سنووردار دەکات؛ سزای دەگاتە بەندکردن و پێنج ملیۆن دینار",
-    "title_en": "عێراق کێشانی بەرهەمەکانی تووتن سنووردار دەکات؛ سزای دەگاتە بەندکردن و پێنج ملیۆن دینار",
+    "title_en": "Iraq imposes fines on the sale of restricted products; penalties can include imprisonment and fines of up to 5 million dinars",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کەسێک جگەرە دەکێشێت. وێنە: بڵند تاهیر - رووداو زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "95844f16edb7b956",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/110520261",
     "title": "تۆپی پێکهێنانی حکومەت لە گۆڕەپانی شیعەکاندایە؛ وەزارەتێک و جێگری سەرۆکوەزیران دواى خستووە",
-    "title_en": "تۆپی پێکهێنانی حکومەت لە گۆڕەپانی شیعەکاندایە؛ وەزارەتێک و جێگری سەرۆکوەزیران دواى خستووە",
+    "title_en": "Government Formation in the Shadow of Sectarianism: Ministry and Prime Minister Posts Vacant",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کۆبوونەوەیەکی پێشووی چوارچێوەی هاوئاهەنگی زۆرتر لە عێراق ئۆپەراسیۆنە هاوبەشەکان: هیچ بنکەیەکی سەربازیی مۆڵەتپێنەدراو لە عێراقدا نییە عێراق و ئێران لە بارەی رێککەوتنی ئەمنیی نێوانیان کۆبوونەوە لە ئەنبار 10 قایمقام و بەڕێوەبەری ناحیە دەگۆڕدرێن وەزیری بازرگانیی عێراق: بەشەخۆراکی مانگانە بۆ هێزە ئەمنی",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2728,12 +3110,21 @@
     "id": "7a297ae3019796d8",
     "url": "https://www.rudaw.net/sorani/business/110520264",
     "title": "داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات",
-    "title_en": "داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات",
+    "title_en": "Iraqi oil revenues account for one-third of the country's budget",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دیناری عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ داهاتی نەوتی عێ",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Iraqi oil revenues",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hawler",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2746,16 +3137,25 @@
     "id": "90b264ea59c02d88",
     "url": "https://www.rudaw.net/sorani/business/110520265",
     "title": "راوێژکارێکی سوودانی: داهات چوار تریلیۆن دینارە و خەرجی دوو ئەوەندە",
-    "title_en": "راوێژکارێکی سوودانی: داهات چوار تریلیۆن دینارە و خەرجی دوو ئەوەندە",
+    "title_en": "Consultant's Report: Revenue is 4 trillion dinars and expenses are 2 trillion",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دراوی عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ راوێژکارێکی محەم",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hewler",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi Kurdistan",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
+      "name": "Hewler",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -2764,12 +3164,21 @@
     "id": "5dbbf27f78e38dc9",
     "url": "https://www.rudaw.net/sorani/business/110520266",
     "title": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
-    "title_en": "ئارامکۆ لە 3 مانگ یەکەمی ئەمساڵدا 32.5 ملیار دۆلار پوختەی قازانجی هەبووە",
+    "title_en": "Armanco has $32.5 billion in cash reserves in the first three months of this year",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کرێکارێک لە کۆمپانیای ئارامکۆ زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ کۆمپانیای ئارامکۆی سعودی رایگەیاند، قاز",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Saudi Arabia",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2782,48 +3191,75 @@
     "id": "202ecb8dd36fdf99",
     "url": "https://www.rudaw.net/sorani/business/12052026",
     "title": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
-    "title_en": "یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "One ounce of gold is sold for approximately $4,720",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ ئەمڕۆ سێشەممە نرخی ئۆنسەیەک زێڕ بە بەرزبوونەوەی بەرچاو کرایەوە و توا",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "2876792e75e03ae3",
     "url": "https://www.rudaw.net/sorani/business/110520267",
     "title": "نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان",
-    "title_en": "نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان",
+    "title_en": "Over 664 million dollars of funds have arrived in the Kurdistan Region",
     "summary": "سەنگەر عەبدولڕەحمان @sangarrudaw به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری دیناری عێراقی. وێنە: بڵند تاهیر - رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت داهاتی نەوتی عێراق بەشی سێیەکی پارەی مووچە دەکات A+ A- رووداو دیجیتاڵ نزیکە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi dinar",
+        "type": "CURRENCY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "bc1afdd7ea3eff04",
     "url": "https://www.rudaw.net/sorani/business/110520263",
     "title": "دوو کەشتیی نەوتیی زۆر گەورە بە تەنگەی هورمزدا تێپەڕین",
-    "title_en": "دوو کەشتیی نەوتیی زۆر گەورە بە تەنگەی هورمزدا تێپەڕین",
+    "title_en": "Two large oil tankers pass through the Hormuz Strait",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کەشتییەکی نەوت لە تەنگەی هورمز. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ هەفتەی رابردوو دوو کەشتیی نەوتهەڵگر ت",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hormuz Strait",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2863,12 +3299,17 @@
     "id": "a21e148145cdc2a2",
     "url": "https://www.rudaw.net/sorani/business/110520261",
     "title": "یەک ئۆنسە زێڕ نزیکەی 30 دۆلار دابەزی",
-    "title_en": "یەک ئۆنسە زێڕ نزیکەی 30 دۆلار دابەزی",
+    "title_en": "One ounce of gold rises to around $30",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری ئۆنسەی زێڕ زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ بەرزبوونەوەی دووبارەی نرخەکانی نەوت، ئەمڕۆ دووشەممە بووە ه",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region of Iraq",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2881,12 +3322,21 @@
     "id": "fced5a3185fd499d",
     "url": "https://www.rudaw.net/sorani/business/11052026",
     "title": "بەڕێوەبەری ئارامکۆ: جیهان یەک ملیار بەرمیل نەوتی لەدەستداوە",
-    "title_en": "بەڕێوەبەری ئارامکۆ: جیهان یەک ملیار بەرمیل نەوتی لەدەستداوە",
+    "title_en": "CEO of Aramco: World has lost one billion barrels of oil",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵگەیەکی نەوت. وێنە: AFP زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ نرخی نەوت ئەمڕۆ دووشەممە لە یەکەم رۆژی مامە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hawler",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2899,12 +3349,21 @@
     "id": "69d45663f19eca1b",
     "url": "https://www.rudaw.net/sorani/business/100520268",
     "title": "جەنگ لەگەڵ ئێرانە و عێراق زەرەرمەندی گەورەیە",
-    "title_en": "جەنگ لەگەڵ ئێرانە و عێراق زەرەرمەندی گەورەیە",
+    "title_en": "Conflict with Iran and Iraq causes great damage",
     "summary": "مەحموود بابان @MahmoodBaban2 به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵگەیەکی نەوت. وێنەکە بۆ روونکردنەوە دانراوە زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دی",
     "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2917,12 +3376,21 @@
     "id": "09daf475d4bee887",
     "url": "https://www.rudaw.net/sorani/business/100520267",
     "title": "سەرچاوەیەک لە حکومەتی عێراق بۆ رووداو: تەیف سامی رەزامەندیی دا بۆ خەرجکردنی مووچەی مانگی 4",
-    "title_en": "سەرچاوەیەک لە حکومەتی عێراق بۆ رووداو: تەیف سامی رەزامەندیی دا بۆ خەرجکردنی مووچەی مانگی 4",
+    "title_en": "Source of the incident: Teyf Sami provides consent for the release of the monthly allowance",
     "summary": "رووداو @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری پارەی دیناری عێراقی جۆری 25 هەزار دیناری. وێنە: بڵند تاهیر- رووداو زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hawler",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraqi Kurdistan",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2935,30 +3403,44 @@
     "id": "4856820f2bdd7b8f",
     "url": "https://www.rudaw.net/sorani/business/250420262",
     "title": "نرخی باخ و ڤێلا لە سلێمانی هاڕەی کردووە؛ باخی ملیۆن دۆلاری نیوەی بەهاکەی لەدەستداوە",
-    "title_en": "نرخی باخ و ڤێلا لە سلێمانی هاڕەی کردووە؛ باخی ملیۆن دۆلاری نیوەی بەهاکەی لەدەستداوە",
+    "title_en": "Rose garden and vineyard in Sulaymaniyah destroyed; million-dollar garden loses half its value",
     "summary": "نزار جەزا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە پەیامنێری رووداو لەکاتی ئامادەکردنی راپۆرتێکدا لەگەڵ نێوەندگیرێکی کڕین و فرۆشتنی باخ و ڤێلا قسە دەکات زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Sulaymaniyah",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Sulaymaniyah",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
     "id": "c955e5e4f33b3e54",
     "url": "https://www.rudaw.net/sorani/business/030420265",
     "title": "وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەروازەی مونزرییەی خانەقین بەردەوامە",
-    "title_en": "وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەروازەی مونزرییەی خانەقین بەردەوامە",
+    "title_en": "Ongoing trade dispute at the Khankin port",
     "summary": "هونەر حەمید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە دەروازەی مونزرییە لە خانەقین. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ وێڕای جەنگ ئاڵوگۆڕی بازرگانی لە دەر",
     "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Khankin port",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2971,12 +3453,21 @@
     "id": "40d90392dd6f5912",
     "url": "https://www.rudaw.net/sorani/business/27032026",
     "title": "نەتەوە یەکگرتووەکان هۆشداری شۆکێکی گەورە لە بازاڕی خۆراک دەدات ئەگەر جەنگ بەردەوام بێت",
-    "title_en": "نەتەوە یەکگرتووەکان هۆشداری شۆکێکی گەورە لە بازاڕی خۆراک دەدات ئەگەر جەنگ بەردەوام بێت",
+    "title_en": "United States Issues Warning of Major Food Crisis if War Continues",
     "summary": "نامۆ عەبدوڵڵا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە گۆشتفرۆشێک لە هەولێر. وێنە:  AFP زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ هۆشدارییەکی گەورە لە نەتەوە یە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Hawler",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "COUNTRY"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -2989,12 +3480,21 @@
     "id": "33a0191af0e1f809",
     "url": "https://www.rudaw.net/sorani/business/160320265",
     "title": "وەزیری نەوتی عێراق: لە رێگەیەکی دیکەوە نەوت هەناردە دەکەین کە بە هەرێمی کوردستاندا تێپەڕ نابێت",
-    "title_en": "وەزیری نەوتی عێراق: لە رێگەیەکی دیکەوە نەوت هەناردە دەکەین کە بە هەرێمی کوردستاندا تێپەڕ نابێت",
+    "title_en": "Iraq's Oil Minister: We will transport oil through a different route that passes through the Kurdistan Region.",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە حەیان عەبدولغەنی، وەزیری نەوتی عێراق زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ وەزیری نەوتی عێراق رایگەیان",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -3007,12 +3507,21 @@
     "id": "bb29bd5ad3250a68",
     "url": "https://www.rudaw.net/sorani/business/140320267",
     "title": "د. فازڵ نەبی: تەیف سامی فەرمانی خەرجکردنی مووچەی پێش جەژن داوە",
-    "title_en": "د. فازڵ نەبی: تەیف سامی فەرمانی خەرجکردنی مووچەی پێش جەژن داوە",
+    "title_en": "Dr. Fazel Nabi: Tayf Sami issued a decree to ban the use of talcum powder before surgery",
     "summary": "محەممەد رەحمان @Muhamma98676674 به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تەیف سامی، وەزیری دارایی عێراق. زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ بریکاری پێشوو",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hawler",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -3025,12 +3534,17 @@
     "id": "c241de2f0c5e496c",
     "url": "https://www.rudaw.net/sorani/world/14032026",
     "title": "بازاڕەکانی ئەمریکا بەهۆی شەڕی ئێرانەوە زیانیان پێدەگات؛ '94% دابەزین لە کەشتیوانیدا هەبووە'",
-    "title_en": "بازاڕەکانی ئەمریکا بەهۆی شەڕی ئێرانەوە زیانیان پێدەگات؛ '94% دابەزین لە کەشتیوانیدا هەبووە'",
+    "title_en": "US Markets Suffered Due to Iran War; \"94% Increase in Shipments",
     "summary": "نامۆ عەبدوڵڵا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کەشتییەک لە تەنگەی هورمز زۆرتر لە ئابووری نرخی دۆلار بۆ 184.8 هەزار تمەن بەرزبووەوە نرخی یەک بەرمیل نەوتی برێنت نزیکەی 104 دۆلارە یەک ئۆنسە زێڕ بە نزیکەی 4,720 دۆلار مامەڵەی پێوەدەکرێت نزیکەی 664 ملیار دیناری پارەی مووچە گەیشتە هەرێمی کوردستان A+ A- رووداو دیجیتاڵ کۆتایی رۆژی هەینی، بازاڕی بۆرسەی ئەمری",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "ORGANIZATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
@@ -3043,18 +3557,23 @@
     "id": "d2e4030283ca374f",
     "url": "https://www.rudaw.net/sorani/kurdistan/120520261",
     "title": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
-    "title_en": "یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە",
+    "title_en": "Police Chief's Post Assigned to Kirkuk Province",
     "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان عەمید نەشئەت شاهوێز زۆرتر لە کوردستان لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی گەڕان بەدوای دوو منداڵەکەی گەلی عەلی بەگ بە کامێرای تایبەت و سۆنەر چڕ دەکرێتەوە یەکێتی پۆستی فەرماندەی پۆلیسی پارێزگای کەرکووک وەردەگرێتەوە هێڵی ئاسمانیی تورکیا گەشتەکانی بۆ عێراق و هە",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": null,
     "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
     }
   }
 ]
