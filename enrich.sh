@@ -13,12 +13,7 @@ fi
 export OLLAMA_NUM_THREADS=4
 export OLLAMA_KEEP_ALIVE=0
 
-python3 << 'subprocess.run(["git","add","data/"], cwd=proj_dir)
-subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
-subprocess.run(["git","stash"], cwd=proj_dir)
-subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
-subprocess.run(["git","push","origin","main"], cwd=proj_dir, env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"})
-PYEOF'
+python3 << 'PYEOF'
 import sqlite3, json, time, requests, os, subprocess
 import ollama
 
@@ -26,9 +21,6 @@ ANALYSIS_MODEL = "llama3.2:3b"
 TRANSLATE_MODEL = "translategemma:4b"
 DB_PATH = "data/aura.db"
 
-# ------------------------------------------------------------
-# Model unloader (same as before, bulletproof)
-# ------------------------------------------------------------
 def unload_model(model_name):
     for attempt in range(3):
         try:
@@ -41,14 +33,9 @@ def unload_model(model_name):
         time.sleep(1)
     return False
 
-# ------------------------------------------------------------
-# Translation step – Sorani → English
-# ------------------------------------------------------------
 def translate_title(title):
-    # Only translate if it contains Arabic script characters
     if not any('\u0600' <= c <= '\u06ff' for c in title):
-        return title   # already English
-
+        return title
     prompt = (
         "You are a Sorani Kurdish to English translator. "
         "Translate the following title accurately into English. "
@@ -58,17 +45,13 @@ def translate_title(title):
     try:
         resp = ollama.chat(model=TRANSLATE_MODEL, messages=[{"role":"user","content":prompt}], options={"temperature":0})
         translated = resp["message"]["content"].strip()
-        # Clean up common artifacts
         translated = translated.split('\n')[0].strip('"').strip()
         print(f"  [translate] Sorani → English: {translated[:60]}")
         return translated
     except Exception as e:
         print(f"  [translate] failed ({e})")
-        return title   # fallback to original
+        return title
 
-# ------------------------------------------------------------
-# Sentiment enrichment – Kurdistan‑aware (same as before)
-# ------------------------------------------------------------
 def enrich(title, summary):
     SORANI_CITIES = """
 SORANI SCRIPT TO CITY NAME (use these to detect location in Kurdish text):
@@ -127,9 +110,6 @@ Body: {summary[:2000]}"""
     except:
         return None
 
-# ------------------------------------------------------------
-# Main pipeline
-# ------------------------------------------------------------
 conn = sqlite3.connect(DB_PATH)
 conn.row_factory = sqlite3.Row
 rows = conn.execute("SELECT id, title, summary FROM articles WHERE sentiment='neutral' OR sentiment IS NULL OR sentiment=''").fetchall()
@@ -145,14 +125,12 @@ for i, row in enumerate(rows):
     original_title = row["title"] or ""
     print(f"\n[{i+1}/{len(rows)}] {original_title[:60]}")
 
-    # Step 1: Translate if Sorani
     translated_title = translate_title(original_title)
-    unload_model(TRANSLATE_MODEL)   # free translation model immediately
+    unload_model(TRANSLATE_MODEL)
 
-    # Step 2: Perform sentiment analysis (with translated or original title)
     combined_title = translated_title if translated_title != original_title else original_title
     data = enrich(combined_title, row["summary"] or "")
-    
+
     if data:
         loc_key = (data.get("location_key") or "").lower().strip()
         COORDS = {"erbil":(36.1912,44.0092),"hewler":(36.1912,44.0092),"sulaymaniyah":(35.5571,45.4357),"slemani":(35.5571,45.4357),"duhok":(36.8669,43.0032),"halabja":(35.1787,45.9861),"zakho":(37.1441,42.6875),"ranya":(36.2558,44.8783),"koya":(36.0862,44.6283),"amadiya":(37.0924,43.4889),"chamchamal":(35.5279,44.8318),"penjwin":(35.6234,45.9435),"kirkuk":(35.4681,44.3922),"sinjar":(36.3197,41.8694),"makhmur":(35.7738,43.5908)}
@@ -176,9 +154,7 @@ for i, row in enumerate(rows):
 
 conn.close()
 
-# ------------------------------------------------------------
-# Export JSON & push
-# ------------------------------------------------------------
+# Export JSON
 conn2 = sqlite3.connect(DB_PATH)
 conn2.row_factory = sqlite3.Row
 rows2 = conn2.execute("SELECT * FROM articles ORDER BY published_at DESC").fetchall()
@@ -198,13 +174,12 @@ with open("data/data.json","w") as f:
 conn2.close()
 print(f"\nExported {len(records)} records.")
 
-# Git push via SSH – robust, retrying, uses force‑with‑lease
+# Git push via SSH (authentication works in cron)
 import subprocess, os, time
 proj_dir = os.path.expanduser("~/aura-erbil")
 subprocess.run(["git","add","data/"], cwd=proj_dir)
 subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
 for attempt in range(3):
-    # Pull latest changes first so we never conflict
     subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
     result = subprocess.run(
         ["git","push","origin","main"],
@@ -221,6 +196,4 @@ else:
     print("Push failed after 3 attempts – data will be pushed next time.")
 PYEOF
 
-# Stop Ollama to free RAM
-pkill ollama
 echo "Ollama stopped. RAM freed."
