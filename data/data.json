@@ -1,5 +1,23 @@
 [
   {
+    "id": "a6512924abdc7d80",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/12052026",
+    "title": "Chinese company says Iraq power plants to add 1200 MW by summer",
+    "title_en": "Chinese company says Iraq power plants to add 1200 MW by summer",
+    "summary": "ERBIL, Kurdistan Region - A Chinese state-owned company operating in Iraq said Monday that several power plants under construction are expected to come online in summer, adding more than 1,200 megawatts to Iraq’s national grid as the country struggles to meet rising power demand. “The company is currently building gas-fired power plants that will enter service next summer and will add around 1,000 megawatts to the national grid,” Ahmed al-Amin, regional director of Shanghai Electric, told Iraqi state media. He added that the company is also upgrading the al-Haritha station in southern Basra province and the Wasit station in eastern Wasit province. Haritha station is expected to add about 220 megawatts, while Wasit is projected to add around 2,520 megawatts. Iraqi electricity ministry spokesperson Ahmed Mousa told Rudaw on Sunday that Iraq expects a generation deficit of around 42,000 megawatts during the summer, with overall demand projected to reach 60,000 megawatts. He also revealed the federal government’s plan to purchase power from the Kurdistan Region to meet the demand after it was halted due to the Iran war since February 28. Electricity generation in Iraq frequently falls short during peak summer and winter seasons. The shortage has worsened since Washington rescinded Iraq’s waiver to import electricity from Iran in March 2025 as part of the Trump administration’s “maximum pressure” campaign against Tehran. The electricity ministry said in late April that power grid interconnection projects with neighboring countries are expected to become operational before the summer season, with projected imports of around 600 megawatts from Turkey, 500 megawatts from Gulf countries in the first phase, and 150 megawatts from Jordan. Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be appro",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:15:42.572268+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "02637b7fe71e646e",
     "url": "https://www.rudaw.net/english/middleeast/iraq/120520265",
     "title": "Iraqi judiciary reports role in thwarting ‘terrorist plot’ in Hamburg",
@@ -10,7 +28,187 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-13T00:45:53.574058+00:00",
+    "timestamp": "2026-05-13T01:15:19.128419+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8bfb51865d14a8f4",
+    "url": "https://www.rudaw.net/english/kurdistan/12052026",
+    "title": "KRG urges Baghdad to finalize stalled customs unification deal",
+    "title_en": "KRG urges Baghdad to finalize stalled customs unification deal",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Regional Government (KRG) has formally petitioned the Iraqi federal government to convene an urgent session of the Ministerial Council for the Economy to finalize a customs and trade unification agreement that has remained stalled for more than a month, a senior commerce official in Erbil told Rudaw on Tuesday. Erbil and Baghdad reached an agreement in early April to implement the United Nations-backed Automated System for Customs Data (ASYCUDA) across the Kurdistan Region’s border crossings, aiming to unify customs procedures and modernize trade infrastructure between the two sides. However, Gilan Haji Said, head of Erbil’s Chamber of Commerce and Industry, told Rudaw that “so far, the Ministerial Council for Economy has not held the meeting designated to ratify this understanding.” In mid-April, the KRG submitted an official proposal to the Iraqi cabinet requesting a meeting of the council to resolve outstanding issues and complete the requirements for implementing the agreement “without delay.” The proposal included several key demands intended to balance federal oversight with the Region’s administrative particularities. The demands include adopting bilingual customs tariffs in Kurdish and Arabic, granting Kurdish traders access to US dollars at the official exchange rate set by the Central Bank of Iraq (CBI), assigning a joint committee to conduct field visits to unrecognized border crossings in the Kurdistan Region to facilitate their formal legal integration, and mutually recognizing trade identities and tax clearance certificates issued by either the KRG or the federal government. However, the lack of formal approval from the federal council has delayed implementation of the framework, which seeks to streamline trade and resolve the legal status of regional companies. Developed by the UN Conference on Trade and Development (UNCTAD) in the early 1980s, the ASYCUDA electronic automation system is currently used at all 22",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:14:50.339609+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5872dd28c722c1b7",
+    "url": "https://www.rudaw.net/sorani/business/150620234",
+    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ ئاراستەی نرخی دۆلاری ئەمریکی بەرامبەر بە تمەن وەک دوێنێ بەرزبوونەوەیە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:59.527135+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:48.943039+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f69d126cb1d37441",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1205202629",
+    "title": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
+    "title_en": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:37.976357+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb6cb38d87964efd",
+    "url": "https://www.rudaw.net/sorani/sports/010420267",
+    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکەمجارە ئەم هەموو هاندەرە ئامادەی ئاهەنگی یانەکە بن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:27.649730+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66be384550f951e8",
+    "url": "https://www.rudaw.net/sorani/world/110520263",
+    "title": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
+    "title_en": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، دڵنیایە لەوەی ئێران پیتاندنی یۆرانیۆم رادەگرێ و دەستبەرداری هەوڵەکانی بۆ دروستکردنی چەکی ئەتۆمی دەبێت. ئەمەش لە کاتێکدایە، دانوستاندنەکانی نێوان واشنتن و تاران گەیشتوونەتە بنبەست.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:17.180283+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d088f01e56d90eff",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/120520264",
+    "title": "وەزارەتی ناوخۆی عێراق بۆ رووداو: زیاتر لە دوو هەزار بیانی بوونەتە خاوەنی وڵاتینامەی عێراقی",
+    "title_en": "وەزارەتی ناوخۆی عێراق بۆ رووداو: زیاتر لە دوو هەزار بیانی بوونەتە خاوەنی وڵاتینامەی عێراقی",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ناکۆکی لەسەر دابەشکردنی وەزارەتەکان و بەربژێرەکان، هێشتا لەنێو هاوپەیمانیی چوارچێوەی هاوئاهەنگی یەکلا نەبووەتەوە و عەلى فالح زەیدى مەرجى هەیە، بڕیارە ئەو هاوپەیمانێتییە بۆ تێپەڕاندنى ئەو دۆخە کۆببێتەوە. گوتەبێژی ئەنجوومەنى باڵاى ئیسلامى دەڵێت: \"بە پشتیوانیی خوا، پێنجشەممە دەنگ بە کابینەی حکومەت دەدرێت،\"  بەرپرسێکی دیکەی لایەنە شیعەکان پێشبینی دەکات بە دوو قۆناخ دەنگ بەو کابینەیە بدرێت.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:12:05.089376+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "94d6c17f8305ed25",
+    "url": "https://www.rudaw.net/sorani/world/120520266",
+    "title": "پێنتاگۆن: تێچووی جەنگی ئێران بۆ نزیکەی 29 ملیار دۆلار بەرزبووەتەوە",
+    "title_en": "پێنتاگۆن: تێچووی جەنگی ئێران بۆ نزیکەی 29 ملیار دۆلار بەرزبووەتەوە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تەقینەوەیەکی بەهێز لە بازاڕێکی قەرەباڵخ لە باکووری رۆژئاوای پاکستان روویدا و بەهۆیەوە لانیکەم 9 کەس کوژران و 35 کەسی دیکەش بریندار بوون. تەقینەوەکە ترسێکی زۆری لەناو خەڵکدا دروست کردووە و، مەترسیی سەرهەڵدانەوەی شەڕ و پێکدادانە سنوورییەکانی نێوان پاکستان و ئەفغانستانی هێناوەتە پێشەوە",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:11:46.830564+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:11:36.776516+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15ec42f1ff05f06e",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:11:25.379802+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -60,7 +258,7 @@
     "title_en": "Pentagon says Iran war spending hits $29 billion as defense costs rise",
     "summary": "ERBIL, Kurdistan Region - The United States spending on the Iran war has reached $29 billion, a senior Pentagon official said during a testimony at a Senate defense budget hearing on Tuesday, as efforts to reach a comprehensive end to the conflict remain stalled amid delayed negotiations between Washington and Tehran. “As of this morning, our verified operational outlays and replacement costs for the conflict with Iran have reached $29 billion,” said Jules Hurst III, the Acting Under Secretary of Defense. Appearing alongside Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff General Dan Caine, Hurst was asked by Senator Jack Reed about the jump from the $25 billion figure reported by Hegseth in late April to the current total. The figure “reflects a necessary, though significant, $4 billion adjustment over the last fortnight to account for the accelerated attrition of our precision-guided munitions and the heightened tempo of carrier strike group operations in the Gulf,” the senior Pentagon official explained. Hurst further noted that \"a lot of that increase comes from having refined estimates on repair and replacement cost of equipment,\" adding that \"our munitions costs are fairly fixed.\" The US and Israel launched a large-scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country during six weeks of hostilities. Senators said during Tuesday’s hearing that Iran had struck more than 200 US structures or pieces of military equipment since the conflict began. Acting Under Secretary of Defense also said the Pentagon has yet to estimate military construction costs, noting that “we don’t know how these bases are going to be reconstructed.” The warring sides agreed to a Pakistan-mediated ceasefire on April 8, halting the fighting and paving the way for negotiations. While the first round of talks ended on April 11 without a final agreement, a second round has yet to take place, leaving a broader resolution p",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -78,7 +276,7 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. Iraq’s oil ministry said Tuesday that two tankers carrying Iraqi crude oil have passed through the Strait of Hormuz this month amid ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -114,7 +312,7 @@
     "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
     "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "traffic",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -150,7 +348,7 @@
     "title_en": "میدیای ئێران: دەبێ 5 مەرجمان جێبەجێ بکرێن بۆ ئەوەی گەڕی دووەمی دانوستاندن بکرێ",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی پەرلەمانی ئێران وەڵامی هەڕەشەکانی سەرۆکی ئەمریکا دەداتەوە و رایدەگەیێنێت، هێزە چەکدارەکانیان بۆ هەموو بژارەیەک ئامادەن و وەڵامێکی وایان دەبێت کە \"سەریان سووڕبمێنێت.\"",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -227,24 +425,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T00:41:24.808164+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cb6cb38d87964efd",
-    "url": "https://www.rudaw.net/sorani/sports/010420267",
-    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکەمجارە ئەم هەموو هاندەرە ئامادەی ئاهەنگی یانەکە بن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T00:41:13.618559+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -414,24 +594,6 @@
     }
   },
   {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T00:10:46.915129+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5b099a6845e9a270",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
     "title": "BP resumes operations in Kirkuk after war-related suspension",
@@ -443,24 +605,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-12T23:45:41.928705+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8bfb51865d14a8f4",
-    "url": "https://www.rudaw.net/english/kurdistan/12052026",
-    "title": "KRG urges Baghdad to finalize stalled customs unification deal",
-    "title_en": "KRG urges Baghdad to finalize stalled customs unification deal",
-    "summary": "ERBIL, Kurdistan Region - The Kurdistan Regional Government (KRG) has formally petitioned the Iraqi federal government to convene an urgent session of the Ministerial Council for the Economy to finalize a customs and trade unification agreement that has remained stalled for more than a month, a senior commerce official in Erbil told Rudaw on Tuesday. Erbil and Baghdad reached an agreement in early April to implement the United Nations-backed Automated System for Customs Data (ASYCUDA) across the Kurdistan Region’s border crossings, aiming to unify customs procedures and modernize trade infrastructure between the two sides. However, Gilan Haji Said, head of Erbil’s Chamber of Commerce and Industry, told Rudaw that “so far, the Ministerial Council for Economy has not held the meeting designated to ratify this understanding.” In mid-April, the KRG submitted an official proposal to the Iraqi cabinet requesting a meeting of the council to resolve outstanding issues and complete the requirements for implementing the agreement “without delay.” The proposal included several key demands intended to balance federal oversight with the Region’s administrative particularities. The demands include adopting bilingual customs tariffs in Kurdish and Arabic, granting Kurdish traders access to US dollars at the official exchange rate set by the Central Bank of Iraq (CBI), assigning a joint committee to conduct field visits to unrecognized border crossings in the Kurdistan Region to facilitate their formal legal integration, and mutually recognizing trade identities and tax clearance certificates issued by either the KRG or the federal government. However, the lack of formal approval from the federal council has delayed implementation of the framework, which seeks to streamline trade and resolve the legal status of regional companies. Developed by the UN Conference on Trade and Development (UNCTAD) in the early 1980s, the ASYCUDA electronic automation system is currently used at all 22",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T23:45:31.877871+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -497,24 +641,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-12T23:44:35.109353+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f69d126cb1d37441",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1205202629",
-    "title": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
-    "title_en": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T23:42:03.174269+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -666,24 +792,6 @@
     }
   },
   {
-    "id": "94d6c17f8305ed25",
-    "url": "https://www.rudaw.net/sorani/world/120520266",
-    "title": "پێنتاگۆن: تێچووی جەنگی ئێران بۆ نزیکەی 29 ملیار دۆلار بەرزبووەتەوە",
-    "title_en": "پێنتاگۆن: تێچووی جەنگی ئێران بۆ نزیکەی 29 ملیار دۆلار بەرزبووەتەوە",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تەقینەوەیەکی بەهێز لە بازاڕێکی قەرەباڵخ لە باکووری رۆژئاوای پاکستان روویدا و بەهۆیەوە لانیکەم 9 کەس کوژران و 35 کەسی دیکەش بریندار بوون. تەقینەوەکە ترسێکی زۆری لەناو خەڵکدا دروست کردووە و، مەترسیی سەرهەڵدانەوەی شەڕ و پێکدادانە سنوورییەکانی نێوان پاکستان و ئەفغانستانی هێناوەتە پێشەوە",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T23:12:00.550639+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "c3d9ec803692a6d4",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
@@ -774,24 +882,6 @@
     }
   },
   {
-    "id": "a6512924abdc7d80",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/12052026",
-    "title": "Chinese company says Iraq power plants to add 1200 MW by summer",
-    "title_en": "Chinese company says Iraq power plants to add 1200 MW by summer",
-    "summary": "ERBIL, Kurdistan Region - A Chinese state-owned company operating in Iraq said Monday that several power plants under construction are expected to come online in summer, adding more than 1,200 megawatts to Iraq’s national grid as the country struggles to meet rising power demand. “The company is currently building gas-fired power plants that will enter service next summer and will add around 1,000 megawatts to the national grid,” Ahmed al-Amin, regional director of Shanghai Electric, told Iraqi state media. He added that the company is also upgrading the al-Haritha station in southern Basra province and the Wasit station in eastern Wasit province. Haritha station is expected to add about 220 megawatts, while Wasit is projected to add around 2,520 megawatts. Iraqi electricity ministry spokesperson Ahmed Mousa told Rudaw on Sunday that Iraq expects a generation deficit of around 42,000 megawatts during the summer, with overall demand projected to reach 60,000 megawatts. He also revealed the federal government’s plan to purchase power from the Kurdistan Region to meet the demand after it was halted due to the Iran war since February 28. Electricity generation in Iraq frequently falls short during peak summer and winter seasons. The shortage has worsened since Washington rescinded Iraq’s waiver to import electricity from Iran in March 2025 as part of the Trump administration’s “maximum pressure” campaign against Tehran. The electricity ministry said in late April that power grid interconnection projects with neighboring countries are expected to become operational before the summer season, with projected imports of around 600 megawatts from Turkey, 500 megawatts from Gulf countries in the first phase, and 150 megawatts from Jordan. Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be appro",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T22:15:30.927494+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5c701dc4a0a65fb9",
     "url": "https://www.rudaw.net/english/kurdistan/300420241",
     "title": "Shaqlawa sets the stage for a grandiose touristic season",
@@ -828,24 +918,6 @@
     }
   },
   {
-    "id": "15ec42f1ff05f06e",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T22:12:30.317827+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "f78fa5e3d02e088a",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/120520266",
     "title": "وەزارەتی ناوخۆی عێراق بۆ رووداو: بازرگانێکی مەترسیداری مادە هۆشبەرەکانمان لە نێو رێڕەوێکی نهێنی دا دەستگیرکرد",
@@ -857,24 +929,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-12T22:12:14.193670+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T22:11:35.222725+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -920,29 +974,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-12T07:15:07.605231+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5872dd28c722c1b7",
-    "url": "https://www.rudaw.net/sorani/business/150620234",
-    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "This new housing project in Erbil will be unveiled",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ سێشەممە نرخی ئۆنسەیەک زێڕ بە بەرزبوونەوەی بەرچاو کرایەوە و توانی ئاستی 4,770 دۆلار بپێکێت، بەڵام لە دوای چەند کاژێرێک قازانجەکانی لەدەستدا و ئێستا لە نزیک 4720 دۆلار مامەڵەی پێوەدەکرێت.",
-    "source": "rudaw-sorani",
-    "category": "infrastructure",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-12T07:14:58.167850+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1092,33 +1123,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-12T05:45:49.708107+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "66be384550f951e8",
-    "url": "https://www.rudaw.net/sorani/world/110520263",
-    "title": "وەزیری دەرەوەی سوێد بۆ رووداو: کاتێک لەگەڵ حکومەتی سووریا کۆدەبمەوە، باسی پاراستنی کەمینەکان دەکەم",
-    "title_en": "Swedish Foreign Minister on the situation: When I meet with the Syrian government, I discuss protecting minorities",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ داواکاری گشتیی ئەڵمانیا رایگەیاند، پۆلیسی شاری هامبۆرگ مێرمنداڵێکی سووری تەمەن 17 ساڵیان بە تۆمەتی پلاندانان بۆ هێرشێکی تیرۆریستی دەستگیر کردووە، کە پێدەچێت لەژێر کاریگەریی گرووپی داعش دا بووبێت",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Hamborg",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Germany",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-12T05:43:09.579225+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -4389,24 +4393,6 @@
     "title": "پلانێکی \"تیرۆریستی\" لە هامبۆرگی ئەڵمانیا پووچەڵکرایەوە",
     "title_en": "پلانێکی \"تیرۆریستی\" لە هامبۆرگی ئەڵمانیا پووچەڵکرایەوە",
     "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق وێنەیەکی گشتیی هامبۆرگ زۆرتر لە عێراق وەزارەتی ناوخۆی عێراق بۆ رووداو: بازرگانێکی مەترسیداری مادە هۆشبەرەکانمان لە نێو رێڕەوێکی نهێنی دا دەستگیرکرد وەزارەتی ناوخۆی عێراق بۆ رووداو: زیاتر لە دوو هەزار بیانی بوونەتە خاوەنی وڵاتینامەی عێراقی لێکۆڵینەوە لە ڤیدیۆی خێزانێکی \"عێراق\"ی دەکرێ کە \"دوای کوشتنی",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d088f01e56d90eff",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/120520264",
-    "title": "وەزارەتی ناوخۆی عێراق بۆ رووداو: زیاتر لە دوو هەزار بیانی بوونەتە خاوەنی وڵاتینامەی عێراقی",
-    "title_en": "وەزارەتی ناوخۆی عێراق بۆ رووداو: زیاتر لە دوو هەزار بیانی بوونەتە خاوەنی وڵاتینامەی عێراقی",
-    "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی وەزارەتی ناوخۆی عێراق زۆرتر لە عێراق وەزارەتی ناوخۆی عێراق بۆ رووداو: بازرگانێکی مەترسیداری مادە هۆشبەرەکانمان لە نێو رێڕەوێکی نهێنی دا دەستگیرکرد پلانێکی \"تیرۆریستی\" لە هامبۆرگی ئەڵمانیا پووچەڵکرایەوە لێکۆڵینەوە لە ڤیدیۆی خێزانێکی \"عێراق\"ی دەکرێ کە \"دوای کوشتنی کچەکەیان هەڵدەپەڕن\" بانکی ناوە",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
