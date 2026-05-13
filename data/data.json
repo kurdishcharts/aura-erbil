@@ -1,5 +1,167 @@
 [
   {
+    "id": "fc732b5a67b292fb",
+    "url": "https://www.rudaw.net/sorani/kurdistan/130520266",
+    "title": "(کۆڕبەندی ئاشتی و ئازادی) لە ئامەد؛ هاوسەرۆکی دەم پارتی بانگەوازی بۆ دادپەروەری کرد",
+    "title_en": "(کۆڕبەندی ئاشتی و ئازادی) لە ئامەد؛ هاوسەرۆکی دەم پارتی بانگەوازی بۆ دادپەروەری کرد",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە لە سنووری شارۆچکەی بسمل سەر بە پارێزگای ئامەدی باکووری کوردستان، سێ بیر لێبدرێن، ئەوەش لە چوارچێوەی کارەکانی گەڕان بەدوای سەرچاوەی وزەی گەرمیی ژێرزەوی و ئاوی کانزاییدا. دەکرێ لێدانی بیرەکان تاوەکو قووڵایی نزیکەی 900 مەتر بڕوات",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:43:21.389971+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f7af6c3895fb6b0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1305202610",
+    "title": "ئاسیاسێڵ 125 ملیۆن دینار بە کەرتی تەندروستی و چاودێریی منداڵان دەبەخشێت",
+    "title_en": "ئاسیاسێڵ 125 ملیۆن دینار بە کەرتی تەندروستی و چاودێریی منداڵان دەبەخشێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئێوارەی دوێنێ (کۆڕبەندی ئاشتیی کۆمەڵایەتی و ئازادی) بە بەشداریی ژمارەیەکی بەرچاو لە کەسایەتییە سیاسییەکان، شاندە حکومییەکانی هەرێمی کوردستان و نوێنەرانی رێکخراوە مەدەنییەکان دەستی پێکرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:43:10.640184+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1f096f7b04cc1396",
+    "url": "https://www.rudaw.net/sorani/sports/130520265",
+    "title": "یاریی کۆتایی جامی ئیتاڵیا بەڕێوەدەچێت",
+    "title_en": "یاریی کۆتایی جامی ئیتاڵیا بەڕێوەدەچێت",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:42:59.256424+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57327df16e27b8fa",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:42:47.506104+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "77b7978fd128e8df",
+    "url": "https://www.rudaw.net/sorani/sports/130520267",
+    "title": "ئەنچێلۆتی: تەنیا من بڕیار لە بانگهێشتکردنی نەیمار دەدەم",
+    "title_en": "ئەنچێلۆتی: تەنیا من بڕیار لە بانگهێشتکردنی نەیمار دەدەم",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئینتەر دەیەوێت نازناوێکی دیکە بباتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:42:31.984812+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d19cecaffa24567",
+    "url": "https://www.rudaw.net/sorani/business/021020232",
+    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بریکاری وەزارەتی نەوتی عێراق رایگەیاند، لەم مانگەدا دوو کەشتی هەڵگری نەوتی عێراق تەنگەی هورمزیان تێپەڕاندووە؛ بەڵام دەڵێت، بڕەکە \"کەم\" بووە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:42:14.555050+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37f552d6e84073d1",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:42:04.443821+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dcf63eddcd070391",
+    "url": "https://www.rudaw.net/sorani/health/110520263",
+    "title": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
+    "title_en": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەپێی نوێترین زانیارییەکان، پشکنینی پزیشکیی گەشتیارێکی ئەمریکی و خانمێکی فەڕەنسی کە لەو کەشتییە گەشتیارییەدا بوون کە ڤایرۆسی \"هانتا\"ی تێدا بڵاوبووەتەوە، گەڕاونەتەوە و پۆزەتیڤ دەرچوون و بە فەرمی تووشبوونیان راگەیەندرا، هەروەها گەشتیارێکی تری ئەمریکیش نیشانەی سووکی نەخۆشییەکەی تێدا دەرکەوتووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:41:54.864505+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d9b76eb42d9cfbc",
+    "url": "https://www.rudaw.net/sorani/kurdistan/12052026",
+    "title": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
+    "title_en": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە لە سنووری شارۆچکەی بسمل سەر بە پارێزگای ئامەدی باکووری کوردستان، سێ بیر لێبدرێن، ئەوەش لە چوارچێوەی کارەکانی گەڕان بەدوای سەرچاوەی وزەی گەرمیی ژێرزەوی و ئاوی کانزاییدا. دەکرێ لێدانی بیرەکان تاوەکو قووڵایی نزیکەی 900 مەتر بڕوات",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T11:41:45.227042+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "42dd73728b641fa3",
     "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
     "title": "Iraqi police cracks down on crime in Baghdad",
@@ -42,7 +204,7 @@
     "title_en": "KRG urges Baghdad to finalize stalled customs unification deal",
     "summary": "ERBIL, Kurdistan Region - The Kurdistan Regional Government (KRG) has formally petitioned the Iraqi federal government to convene an urgent session of the Ministerial Council for the Economy to finalize a customs and trade unification agreement that has remained stalled for more than a month, a senior commerce official in Erbil told Rudaw on Tuesday. Erbil and Baghdad reached an agreement in early April to implement the United Nations-backed Automated System for Customs Data (ASYCUDA) across the Kurdistan Region’s border crossings, aiming to unify customs procedures and modernize trade infrastructure between the two sides. However, Gilan Haji Said, head of Erbil’s Chamber of Commerce and Industry, told Rudaw that “so far, the Ministerial Council for Economy has not held the meeting designated to ratify this understanding.” In mid-April, the KRG submitted an official proposal to the Iraqi cabinet requesting a meeting of the council to resolve outstanding issues and complete the requirements for implementing the agreement “without delay.” The proposal included several key demands intended to balance federal oversight with the Region’s administrative particularities. The demands include adopting bilingual customs tariffs in Kurdish and Arabic, granting Kurdish traders access to US dollars at the official exchange rate set by the Central Bank of Iraq (CBI), assigning a joint committee to conduct field visits to unrecognized border crossings in the Kurdistan Region to facilitate their formal legal integration, and mutually recognizing trade identities and tax clearance certificates issued by either the KRG or the federal government. However, the lack of formal approval from the federal council has delayed implementation of the framework, which seeks to streamline trade and resolve the legal status of regional companies. Developed by the UN Conference on Trade and Development (UNCTAD) in the early 1980s, the ASYCUDA electronic automation system is currently used at all 22",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -60,7 +222,7 @@
     "title_en": "US Navy turns back tanker carrying Iraqi crude after transiting Strait of Hormuz",
     "summary": "ERBIL, Kurdistan Region - An oil tanker carrying nearly two million barrels of Iraqi crude was turned back by the US Navy after passing through the Strait of Hormuz, according to reports. Tehran has exempted Baghdad from its blockade of the waterway. The Maltese-flagged Agios Fanourios I, carrying 1.99 million barrels of crude loaded from Iraq’s southern Basra port, performed a U-turn on Monday shortly after clearing the strategic waterway and entering the Gulf of Oman. The vessel had been bound for the Vietnamese port of Nghi Son, according to ship-tracking data and shipping documents cited by Bloomberg and Reuters. PetroVietnam Oil Corporation, the trading arm of Vietnam’s state energy company, urged US authorities to allow the shipment through, warning the cargo was essential for domestic fuel supply. The tanker had passed through the strait Sunday using a route designated by Iran, according to Tasnim News Agency, after Tehran announced Iraqi cargoes would be exempt from restrictions imposed following the US-Israeli war against Iran that began on February 28. “This cargo is of extreme importance to Nghi Son Refinery, to the Socialist Republic of Vietnam and to the Vietnamese people,” the company said in a letter sent to US military and diplomatic officials. “NSRP's [⁠Nghi Son Refinery] feedstock inventories are critically low; any further delay risks halting refinery throughput, with cascading consequences for millions of Vietnamese consumers, businesses, public services and industries.” A spokesperson for United States Central Command said the vessel was redirected as part of Washington’s enforcement measures in the region. “U.S. forces redirected the vessel as part of ongoing enforcement of the blockade against Iran,” Reuters cited the spokesperson as saying, adding that the blockade is intended to prevent maritime traffic to or from Iranian ports. According to the US Central Command (CENTCOM), its forces have \"redirected 65 commercial vessels and disabled 4\" a",
     "source": "rudaw-english",
-    "category": "traffic",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -132,7 +294,7 @@
     "title_en": "پارێزەرەکەی: سبەی لاهوور شێخ جەنگی و 11 کەسی دیکە گوتەیان لێ وەردەگیرێ",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئێوارەی دوێنێ (کۆڕبەندی ئاشتیی کۆمەڵایەتی و ئازادی) بە بەشداریی ژمارەیەکی بەرچاو لە کەسایەتییە سیاسییەکان، شاندە حکومییەکانی هەرێمی کوردستان و نوێنەرانی رێکخراوە مەدەنییەکان دەستی پێکرد",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -738,24 +900,6 @@
     }
   },
   {
-    "id": "1d9b76eb42d9cfbc",
-    "url": "https://www.rudaw.net/sorani/kurdistan/12052026",
-    "title": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
-    "title_en": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ شەڕ لەنێوان خاوەن ماڵ و کرێچییەکەیدا لە پارێزگای سەمسووری باکووری کوردستان روویدا و لە ئەنجامدا 11 کەس بریندار بوون کە دووانیان ژنن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T09:42:20.416343+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "3a961a9579c711a3",
     "url": "https://www.rudaw.net/sorani/world/020720251",
     "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
@@ -810,24 +954,6 @@
     }
   },
   {
-    "id": "9d19cecaffa24567",
-    "url": "https://www.rudaw.net/sorani/business/021020232",
-    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بریکاری وەزارەتی نەوتی عێراق رایگەیاند، لەم مانگەدا دوو کەشتی هەڵگری نەوتی عێراق تەنگەی هورمزیان تێپەڕاندووە؛ بەڵام دەڵێت، بڕەکە \"کەم\" بووە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T09:14:09.115704+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "d02194c17cb2a542",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/130520266",
     "title": "پەرلەمانتارێکی پارتی: دەنگ بە کابینەکەی عەلی زەیدی دەدەین",
@@ -875,24 +1001,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T08:45:08.627516+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "dcf63eddcd070391",
-    "url": "https://www.rudaw.net/sorani/health/110520263",
-    "title": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
-    "title_en": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەپێی نوێترین زانیارییەکان، پشکنینی پزیشکیی گەشتیارێکی ئەمریکی و خانمێکی فەڕەنسی کە لەو کەشتییە گەشتیارییەدا بوون کە ڤایرۆسی \"هانتا\"ی تێدا بڵاوبووەتەوە، گەڕاونەتەوە و پۆزەتیڤ دەرچوون و بە فەرمی تووشبوونیان راگەیەندرا، هەروەها گەشتیارێکی تری ئەمریکیش نیشانەی سووکی نەخۆشییەکەی تێدا دەرکەوتووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T08:44:29.290738+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -983,24 +1091,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T08:13:13.242773+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "57327df16e27b8fa",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T08:12:58.098778+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1505,24 +1595,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T04:48:34.927479+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "37f552d6e84073d1",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "In Kurdish language, there are 8.3 Persian words",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "culture",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T04:45:17.543092+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -5026,24 +5098,6 @@
     }
   },
   {
-    "id": "fc732b5a67b292fb",
-    "url": "https://www.rudaw.net/sorani/kurdistan/130520266",
-    "title": "(کۆڕبەندی ئاشتی و ئازادی) لە ئامەد؛ هاوسەرۆکی دەم پارتی بانگەوازی بۆ دادپەروەری کرد",
-    "title_en": "(کۆڕبەندی ئاشتی و ئازادی) لە ئامەد؛ هاوسەرۆکی دەم پارتی بانگەوازی بۆ دادپەروەری کرد",
-    "summary": "رووداو @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان دیمەنێکی بەڕێوەچوونی کۆڕبەندەکە. وێنە: پەیجی فەیسبووکی ئومێد خۆشناو، پارێزگاری هەولێر زۆرتر لە کوردستان سێ بیری وزەی گەرمیی ژێرزەوی بە قووڵایی 900 مەتر لە ئامەد لێدەدرێن ئەحمەد تورک: ئامەدسپۆر یانەیەکی کوردستانییە پارێزەرەکەی: سبەی لاهوور شێخ جەنگی و 11 کەسی دیکە گوتەیان لێ وەردەگیرێ سە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "66f521444528b0e8",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/130520267",
     "title": "ئەندامێکی هاوپەیمانییەکەی سوودانی: دەنگدان لەسەر 6 وەزارەت دوادەخرێ",
@@ -5062,11 +5116,29 @@
     }
   },
   {
-    "id": "8f7af6c3895fb6b0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1305202610",
-    "title": "ئاسیاسێڵ 125 ملیۆن دینار بە کەرتی تەندروستی و چاودێریی منداڵان دەبەخشێت",
-    "title_en": "ئاسیاسێڵ 125 ملیۆن دینار بە کەرتی تەندروستی و چاودێریی منداڵان دەبەخشێت",
-    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان لۆگۆی ئاسیاسێڵ زۆرتر لە کوردستان محەممەدی 10 ساڵان پووکانەوەی دەمار و ماسولکەی هەیە: هاوکاریم بکەن تاوەکو چارەسەر بکرێم باڵیۆزی نوێی ڤاتیکان بۆ مەسرور بارزانی: کوردستان لە دڵی پاپادایە سێ بیری وزەی گەرمیی ژێرزەوی بە قووڵایی 900 مەتر لە ئامەد لێدەدرێن (کۆڕبەندی ئاشتی و ئازادی) لە ئامەد؛ هاوسە",
+    "id": "bd814e375e2765d4",
+    "url": "https://www.rudaw.net/english/world/13052026",
+    "title": "Trump trip to China could boost global stability: Analyst",
+    "title_en": "Trump trip to China could boost global stability: Analyst",
+    "summary": "Mahdi Faraj SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Wang Huiyao, founder and president of the Center for China and Globalization (CCG), speaking to Rudaw in Beijing on May 13, 2026. Photo: Screengrab / Rudaw Also in World UK announces major air, naval deployment in Hormuz under multinational mission Pentagon says Iran war spending hits $29 b",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4a76635f15801f28",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1305202612",
+    "title": "لە سنووری سۆران گورگ پەلاماری دوو هاوژین دەدات و برینداریان دەکات",
+    "title_en": "لە سنووری سۆران گورگ پەلاماری دوو هاوژین دەدات و برینداریان دەکات",
+    "summary": "ئەندام جەبار به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان دەستی شێروان مەعرووف، یەکێک لە بریندارەکان. زۆرتر لە کوردستان ئاسیاسێڵ 125 ملیۆن دینار بە کەرتی تەندروستی و چاودێریی منداڵان دەبەخشێت محەممەدی 10 ساڵان پووکانەوەی دەمار و ماسولکەی هەیە: هاوکاریم بکەن تاوەکو چارەسەر بکرێم باڵیۆزی نوێی ڤاتیکان بۆ مەسرور بارزانی: کوردستان لە دڵی پاپادایە سێ بیری و",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
