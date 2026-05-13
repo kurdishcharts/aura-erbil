@@ -1,5 +1,59 @@
 [
   {
+    "id": "67d5458b91dbd6c7",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/121220231",
+    "title": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
+    "title_en": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:46:06.147838+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "418ff6ce4e44764c",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/120520265",
+    "title": "هاووڵاتییەک لە تورکیا دوو مانگ لە توالێتی مزگەوتێک خۆی شاردەوە",
+    "title_en": "هاووڵاتییەک لە تورکیا دوو مانگ لە توالێتی مزگەوتێک خۆی شاردەوە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەگوێرەی دوایین ئامارەکانی دامەزراوەی ئاماری تورکیا (TÜİK)، قەبارەی خێزان لە تورکیا و باکووری کوردستان بەرەو بچووکبوونەوە دەچێت. پارێزگای شرنەخ بەرزترین و دێرسم نزمترین تێکڕای قەبارەی خێزانیان تۆمارکردووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:45:55.767800+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dcf63eddcd070391",
+    "url": "https://www.rudaw.net/sorani/health/110520263",
+    "title": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
+    "title_en": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پسپۆڕێکی حوکمڕانیی تەندروستی رایدەگەیێنێت، یاسای بیمەی تەندروستیی عێراق \"بۆشایی گەورەی تێدایە\" و پێویستە قۆناخ بە قۆناخ چاکبکرێتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-13T01:45:43.929139+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "a6512924abdc7d80",
     "url": "https://www.rudaw.net/english/middleeast/iraq/12052026",
     "title": "Chinese company says Iraq power plants to add 1200 MW by summer",
@@ -42,7 +96,7 @@
     "title_en": "KRG urges Baghdad to finalize stalled customs unification deal",
     "summary": "ERBIL, Kurdistan Region - The Kurdistan Regional Government (KRG) has formally petitioned the Iraqi federal government to convene an urgent session of the Ministerial Council for the Economy to finalize a customs and trade unification agreement that has remained stalled for more than a month, a senior commerce official in Erbil told Rudaw on Tuesday. Erbil and Baghdad reached an agreement in early April to implement the United Nations-backed Automated System for Customs Data (ASYCUDA) across the Kurdistan Region’s border crossings, aiming to unify customs procedures and modernize trade infrastructure between the two sides. However, Gilan Haji Said, head of Erbil’s Chamber of Commerce and Industry, told Rudaw that “so far, the Ministerial Council for Economy has not held the meeting designated to ratify this understanding.” In mid-April, the KRG submitted an official proposal to the Iraqi cabinet requesting a meeting of the council to resolve outstanding issues and complete the requirements for implementing the agreement “without delay.” The proposal included several key demands intended to balance federal oversight with the Region’s administrative particularities. The demands include adopting bilingual customs tariffs in Kurdish and Arabic, granting Kurdish traders access to US dollars at the official exchange rate set by the Central Bank of Iraq (CBI), assigning a joint committee to conduct field visits to unrecognized border crossings in the Kurdistan Region to facilitate their formal legal integration, and mutually recognizing trade identities and tax clearance certificates issued by either the KRG or the federal government. However, the lack of formal approval from the federal council has delayed implementation of the framework, which seeks to streamline trade and resolve the legal status of regional companies. Developed by the UN Conference on Trade and Development (UNCTAD) in the early 1980s, the ASYCUDA electronic automation system is currently used at all 22",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -414,24 +468,6 @@
     }
   },
   {
-    "id": "67d5458b91dbd6c7",
-    "url": "https://www.rudaw.net/sorani/middleeast/turkey/121220231",
-    "title": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
-    "title_en": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T00:41:24.808164+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "9f881fe918321170",
     "url": "https://www.rudaw.net/english/middleeast/iraq/120520262",
     "title": "Ajaj in Tahrir Square: The unblinking testimonies of survivors",
@@ -576,24 +612,6 @@
     }
   },
   {
-    "id": "dcf63eddcd070391",
-    "url": "https://www.rudaw.net/sorani/health/110520263",
-    "title": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
-    "title_en": "ژمارەی تووشبووانی ''ڤایرۆسە کوشندەکە''ـی کەشتییە گەشتیارییەکە زیاد دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پسپۆڕێکی حوکمڕانیی تەندروستی رایدەگەیێنێت، یاسای بیمەی تەندروستیی عێراق \"بۆشایی گەورەی تێدایە\" و پێویستە قۆناخ بە قۆناخ چاکبکرێتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T00:10:56.821319+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5b099a6845e9a270",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
     "title": "BP resumes operations in Kirkuk after war-related suspension",
@@ -677,24 +695,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-12T23:41:42.713014+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "418ff6ce4e44764c",
-    "url": "https://www.rudaw.net/sorani/middleeast/turkey/120520265",
-    "title": "هاووڵاتییەک لە تورکیا دوو مانگ لە توالێتی مزگەوتێک خۆی شاردەوە",
-    "title_en": "هاووڵاتییەک لە تورکیا دوو مانگ لە توالێتی مزگەوتێک خۆی شاردەوە",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەگوێرەی دوایین ئامارەکانی دامەزراوەی ئاماری تورکیا (TÜİK)، قەبارەی خێزان لە تورکیا و باکووری کوردستان بەرەو بچووکبوونەوە دەچێت. پارێزگای شرنەخ بەرزترین و دێرسم نزمترین تێکڕای قەبارەی خێزانیان تۆمارکردووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-12T23:41:31.077443+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
