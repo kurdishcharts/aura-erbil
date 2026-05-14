@@ -1,23 +1,5 @@
 [
   {
-    "id": "5f8cec06fe8732e7",
-    "url": "https://www.rudaw.net/english/business/14052026",
-    "title": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
-    "title_en": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
-    "summary": "ERBIL, Kurdistan Region - The UAE-based Dana Gas on Thursday reported a sharp rise in profits for the first four months of 2026 of around $74 million, mainly due to a one-time financial adjustment linked to gas operations in the Kurdistan Region. Dana Gas and its partner Crescent Petroleum are major stakeholders in Pearl Petroleum, the consortium operating the Khor Mor gas field and the Chamchamal field in the Region’s eastern Sulaimani province. The firm said its net profit for the first quarter reached $74 million, up 72 percent compared to the same period last year. The increase was largely driven by a one-time $48 million gain related to gas metering adjustments in the Kurdistan Region, though this was partly offset by a $6 million one-time drilling expense in Egypt. The company added its “underlying” profit, which excludes one-off gains and losses, stood at $26 million. This was affected by higher operating costs following the completion of the Khor Mor KM250 expansion project and a temporary production disruption in March. Dana Gas noted however, that the latter impacts are expected to be temporary as production capacity increases, with total revenue in the first three months of 2026 reaching $145 million and marking a 59 percent increase year-on-year. The company also said its operations in the Kurdistan Region achieved important milestones after completing the KM250 expansion project and that the system has now shown it can handle higher gas production. Gas production briefly rose above 700 million cubic feet per day in January, increasing output by about 15,000 barrels of oil equivalent per day. This lifted total production across all operations to around 70,000 barrels per day - the highest level since 2018. On average, production in the Kurdistan Region stood at about 40,100 barrels per day, though it dipped slightly in March due to temporary limits at the Khor Mor field. The report also noted that operations at the Khor Mor field were temporarily suspend",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T08:27:13.983444+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "82733df9a2781105",
     "url": "https://www.rudaw.net/english/kurdistan/250820245",
     "title": "UNITAD hands KRG authorities processed evidence on ISIS",
@@ -28,7 +10,187 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T08:27:03.390013+00:00",
+    "timestamp": "2026-05-14T08:47:09.034104+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0a0e1718c53830fe",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
+    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:46:38.282583+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:46:20.837759+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f69d53bed61808f7",
+    "url": "https://www.rudaw.net/english/middleeast/130520262",
+    "title": "Iran claims citizen detention after Kuwait reports IRGC infiltration attempt",
+    "title_en": "Iran claims citizen detention after Kuwait reports IRGC infiltration attempt",
+    "summary": "ERBIL, Kurdistan Region - Iran’s chief diplomat on Wednesday accused Kuwait of attacking an Iranian boat and detaining its citizens, calling for their immediate release and stressing Tehran’s right to respond. Abbas Araghchi’s remarks come a day after Kuwait accused members of Iran’s Islamic Revolutionary Guard Corps (IRGC) of attempting to infiltrate its largest island to carry out “hostile acts.” “In a clear attempt to sow discord, Kuwait has unlawfully attacked an Iranian boat and detained 4 of our citizens in the Persian Gulf,” Abbas Araghchi said in a statement on X, adding that “this illegal act took place near an island used by the U.S. to attack Iran.” “We demand immediate release of our nationals and reserve the right to respond,” the Iranian diplomat noted. Araghchi’s remarks come a day after Kuwait’s foreign ministry issued a “strong condemnation” over what it described as an “armed group from the IRGC infiltrating Bubiyan Island to carry out hostile acts.” According to the ministry, the group “engaged in a clash with the Kuwaiti Armed Forces before being apprehended,” an incident that resulted in the injury of a Kuwaiti military member. Affirming its “inherent right to self-defense” and calling for “an immediate and unconditional end to these illegitimate hostile acts,” Kuwait affirmed that it “will take all necessary measures to protect its people, residents, and sovereignty in accordance with international law.” Bubiyan is Kuwait’s largest island, located at the northwestern tip of the Persian Gulf where Kuwait, Iran, and Iraq converge. The incident comes as tensions continue to escalate between Iran and Gulf Arab states following the six-week war that erupted when the United States and Israel launched a wide-scale aerial campaign striking thousands of targets across Iran on February 28. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf states - as well as lau",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:46:03.370747+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "63ab57b280469217",
+    "url": "https://www.rudaw.net/sorani/sports/250520233",
+    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:43:58.837110+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "997f04220d936bc4",
+    "url": "https://www.rudaw.net/sorani/world/0104202612",
+    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوو بەرپرسی رۆژئاوایی و دوو بەرپرسی ئێرانی دەڵێن، سعودیە لە کاتی جەنگی ویلایەتە یەکگرتووەکانی ئەمریکا و ئیسرائیل لەگەڵ ئێراندا، چەندینجار هێرشی کردووەتە سەر ئێران، ئەوەش وەک وەڵامدانەوەیەک بۆ ئەو هێرشانەی دەکرانە سەری.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:43:49.140586+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "17aa5aab4c2b02c9",
+    "url": "https://www.rudaw.net/sorani/sports/14052026",
+    "title": "لە دوای هێرشەکانی سەرۆکی ریال مەدرید، بەرپرسێک دەستلەکاردەکێشێتەوە",
+    "title_en": "لە دوای هێرشەکانی سەرۆکی ریال مەدرید، بەرپرسێک دەستلەکاردەکێشێتەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گرێبەستەکەی لە کۆتایی نزیکدەبێتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:43:32.667314+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:43:13.989572+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:43:03.153084+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15ec42f1ff05f06e",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:42:52.281657+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f8cec06fe8732e7",
+    "url": "https://www.rudaw.net/english/business/14052026",
+    "title": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
+    "title_en": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
+    "summary": "ERBIL, Kurdistan Region - The UAE-based Dana Gas on Thursday reported a sharp rise in profits for the first four months of 2026 of around $74 million, mainly due to a one-time financial adjustment linked to gas operations in the Kurdistan Region. Dana Gas and its partner Crescent Petroleum are major stakeholders in Pearl Petroleum, the consortium operating the Khor Mor gas field and the Chamchamal field in the Region’s eastern Sulaimani province. The firm said its net profit for the first quarter reached $74 million, up 72 percent compared to the same period last year. The increase was largely driven by a one-time $48 million gain related to gas metering adjustments in the Kurdistan Region, though this was partly offset by a $6 million one-time drilling expense in Egypt. The company added its “underlying” profit, which excludes one-off gains and losses, stood at $26 million. This was affected by higher operating costs following the completion of the Khor Mor KM250 expansion project and a temporary production disruption in March. Dana Gas noted however, that the latter impacts are expected to be temporary as production capacity increases, with total revenue in the first three months of 2026 reaching $145 million and marking a 59 percent increase year-on-year. The company also said its operations in the Kurdistan Region achieved important milestones after completing the KM250 expansion project and that the system has now shown it can handle higher gas production. Gas production briefly rose above 700 million cubic feet per day in January, increasing output by about 15,000 barrels of oil equivalent per day. This lifted total production across all operations to around 70,000 barrels per day - the highest level since 2018. On average, production in the Kurdistan Region stood at about 40,100 barrels per day, though it dipped slightly in March due to temporary limits at the Khor Mor field. The report also noted that operations at the Khor Mor field were temporarily suspend",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T08:27:13.983444+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -78,7 +240,7 @@
     "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
     "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "traffic",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -114,7 +276,7 @@
     "title_en": "67 vessels redirected, 4 disabled under Iran maritime blockade: CENTCOM",
     "summary": "ERBIL, Kurdistan Region - US forces have redirected 67 vessels leaving or entering Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) reported on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” US forces have redirected 67 vessels entering or leaving Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) said on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the Command said in a post on X, adding that “as of today, American forces have redirected 67 commercial vessels, allowed 15 carrying humanitarian aid to pass, and disabled four to ensure compliance.” CENTCOM added that its forces “ensured that two commercial vessels turned around to comply with the blockade” earlier this week, stressing that “U.S. enforcement remains in full effect.” The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country over six weeks of hostilities before the sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Amid the maritime escalation, US President Donald Trump told reporters on Monday that “the ceasefire is on massive life support, where the doctor walks in and says, 'Sir, your loved one has approximately a one percent c",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -137,24 +299,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T08:24:00.899588+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "17aa5aab4c2b02c9",
-    "url": "https://www.rudaw.net/sorani/sports/14052026",
-    "title": "لە دوای هێرشەکانی سەرۆکی ریال مەدرید، بەرپرسێک دەستلەکاردەکێشێتەوە",
-    "title_en": "لە دوای هێرشەکانی سەرۆکی ریال مەدرید، بەرپرسێک دەستلەکاردەکێشێتەوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ستافی تەکنیکیی هەڵبژاردەی بەرازیل گومانیان لە ئامادەیی نەیمار داسێلڤا هەیە بۆ مۆندیال و چەند هۆکارێکیان دەستنیشان کردووە، دەڵێن ئەو هۆکارانە رێگرن لە بانگهێشتکردنی ئەو یاریزانە بۆ مۆندیال.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T08:23:40.299670+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -414,24 +558,6 @@
     }
   },
   {
-    "id": "15ec42f1ff05f06e",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T07:15:07.987296+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "508437d052e7ea1d",
     "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
     "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
@@ -497,24 +623,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T07:14:07.405553+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T07:13:47.051419+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -594,24 +702,6 @@
     }
   },
   {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گرێبەستەکەی لە کۆتایی نزیکدەبێتەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:44:56.855293+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "be20dd495e97122f",
     "url": "https://www.rudaw.net/sorani/kurdistan/1305202627",
     "title": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
@@ -623,24 +713,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T06:44:35.724620+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "997f04220d936bc4",
-    "url": "https://www.rudaw.net/sorani/world/0104202612",
-    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:44:14.953974+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -731,24 +803,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T06:14:09.610052+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T05:48:09.212493+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1130,24 +1184,6 @@
     }
   },
   {
-    "id": "f69d53bed61808f7",
-    "url": "https://www.rudaw.net/english/middleeast/130520262",
-    "title": "Iran claims citizen detention after Kuwait reports IRGC infiltration attempt",
-    "title_en": "Iran claims citizen detention after Kuwait reports IRGC infiltration attempt",
-    "summary": "ERBIL, Kurdistan Region - Iran’s chief diplomat on Wednesday accused Kuwait of attacking an Iranian boat and detaining its citizens, calling for their immediate release and stressing Tehran’s right to respond. Abbas Araghchi’s remarks come a day after Kuwait accused members of Iran’s Islamic Revolutionary Guard Corps (IRGC) of attempting to infiltrate its largest island to carry out “hostile acts.” “In a clear attempt to sow discord, Kuwait has unlawfully attacked an Iranian boat and detained 4 of our citizens in the Persian Gulf,” Abbas Araghchi said in a statement on X, adding that “this illegal act took place near an island used by the U.S. to attack Iran.” “We demand immediate release of our nationals and reserve the right to respond,” the Iranian diplomat noted. Araghchi’s remarks come a day after Kuwait’s foreign ministry issued a “strong condemnation” over what it described as an “armed group from the IRGC infiltrating Bubiyan Island to carry out hostile acts.” According to the ministry, the group “engaged in a clash with the Kuwaiti Armed Forces before being apprehended,” an incident that resulted in the injury of a Kuwaiti military member. Affirming its “inherent right to self-defense” and calling for “an immediate and unconditional end to these illegitimate hostile acts,” Kuwait affirmed that it “will take all necessary measures to protect its people, residents, and sovereignty in accordance with international law.” Bubiyan is Kuwait’s largest island, located at the northwestern tip of the Persian Gulf where Kuwait, Iran, and Iraq converge. The incident comes as tensions continue to escalate between Iran and Gulf Arab states following the six-week war that erupted when the United States and Israel launched a wide-scale aerial campaign striking thousands of targets across Iran on February 28. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf states - as well as lau",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T03:44:44.577567+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
@@ -1357,24 +1393,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T02:12:22.023943+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "63ab57b280469217",
-    "url": "https://www.rudaw.net/sorani/sports/250520233",
-    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ستافی تەکنیکیی هەڵبژاردەی بەرازیل گومانیان لە ئامادەیی نەیمار داسێلڤا هەیە بۆ مۆندیال و چەند هۆکارێکیان دەستنیشان کردووە، دەڵێن ئەو هۆکارانە رێگرن لە بانگهێشتکردنی ئەو یاریزانە بۆ مۆندیال.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T02:12:05.488380+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -6298,11 +6316,29 @@
     }
   },
   {
-    "id": "0a0e1718c53830fe",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
-    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq First Qatari carrier arrives at Baghdad International Airport on May 3, 2026, following months of suspension triggered by the outbreak of the Iran war. Photo: Baghdad International Airport/Facebook Also in Iraq Iraqi court to issue final ruling in Ba’ath-era executioner case amid possible death se",
+    "id": "f8643efefe74c9b4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/140520262",
+    "title": "بە بەشداریی نێچیرڤان بارزانی ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ بەڕێوەدەچێت",
+    "title_en": "بە بەشداریی نێچیرڤان بارزانی ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ بەڕێوەدەچێت",
+    "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان بڕیارێکی وەزارەتی ناوخۆ لە بەرژەوەندیی کۆمپانیاکانی هاوردەکردنی ئۆتۆمبێل و ماتۆڕسکیل ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون بە درۆن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f16bf0dba4de561",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520261",
+    "title": "Kurdish parties finalize ministerial picks as Iraq set for cabinet confidence vote",
+    "title_en": "Kurdish parties finalize ministerial picks as Iraq set for cabinet confidence vote",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Fuad Hussein (left), Khalid Shwani, Rebaz Hamlan, and Sirwa Abdulwahid. Graphic: Rudaw Also in Iraq Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds Iraqi court to issue final ruling in Ba’ath-era executioner case amid possible death sentence Iraqis alarmed b",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
@@ -6316,11 +6352,11 @@
     }
   },
   {
-    "id": "f8643efefe74c9b4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/140520262",
-    "title": "بە بەشداریی نێچیرڤان بارزانی ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ بەڕێوەدەچێت",
-    "title_en": "بە بەشداریی نێچیرڤان بارزانی ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ بەڕێوەدەچێت",
-    "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان بڕیارێکی وەزارەتی ناوخۆ لە بەرژەوەندیی کۆمپانیاکانی هاوردەکردنی ئۆتۆمبێل و ماتۆڕسکیل ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون بە درۆن",
+    "id": "c7b6f25a2653bb42",
+    "url": "https://www.rudaw.net/sorani/kurdistan/140520263",
+    "title": "مەسرور بارزانی: هیوای سەرکەوتن بۆ عەلی زەیدی دەخوازین",
+    "title_en": "مەسرور بارزانی: هیوای سەرکەوتن بۆ عەلی زەیدی دەخوازین",
+    "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان بە بەشداریی نێچیرڤان بارزانی ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ بەڕێوەدەچێت بڕیارێکی وەزارەتی ناوخۆ لە بەرژەوەندیی کۆمپانیاکانی هاوردەکردنی ئۆتۆمبێل و ماتۆڕسکیل ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنف",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
