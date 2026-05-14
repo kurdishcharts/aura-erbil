@@ -1,14 +1,298 @@
 [
   {
+    "id": "99803a750c50ad7a",
+    "url": "https://www.rudaw.net/english/world/01052024",
+    "title": "Germany deports Kurdish family with health issues to Iraq",
+    "title_en": "Germany deports Kurdish family with health issues to Iraq",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "health",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Germany",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish family",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:47:49.280284+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "54f6229c172bd76a",
+    "url": "https://www.rudaw.net/english/culture/28042024",
+    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:47:32.643579+00:00",
+    "location": {
+      "name": "Sulaymaniyah",
+      "lat": 35.5571,
+      "lng": 45.4357
+    }
+  },
+  {
+    "id": "dc868209929ff6b7",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/130520264",
+    "title": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
+    "title_en": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
+    "summary": "ERBIL, Kurdistan Region - Iraqis on Wednesday expressed concern over reports alleging the presence of a secret Israeli base in Iraq’s southern desert, despite authorities dismissing the claims as outdated images tied to a one-time incident in early March that killed one Iraqi soldier and injured two others. “Where do I begin - with the Israelis, the United States, or the Iranian forces active in the country?” Hussein Falah, a retired government employee said. “We do not have a strong government. We do not have an authority capable of securing our borders,” he lamented. Similarly, Aliya Mohammed, a civil servant said the reports were “not a good thing, and they will affect our children,” adding, “The armed forces should be more vigilant and careful in protecting our territory.” The unease on Iraqi streets, comes against the backdrop of a Saturday report by The Wall Street Journal, which stated that “Israel set up a clandestine military outpost in the Iraqi desert to support its air campaign against Iran and launched airstrikes against Iraqi troops who almost discovered it early in the war, people familiar with the matter, including U.S. officials, said.” According to the newspaper, the installation “housed special forces and served as a logistical hub for the Israeli air force, just before the war started with the knowledge of the U.S.” However, Major General Tahseen al-Khafaji, Director of Media and Moral Guidance at the Iraqi defense ministry, told Rudaw that the report relates to an incident in early March. “We had received intelligence about the presence of armed men in the area who were speaking broken Arabic and carrying US-made weapons,” Khafaji said, adding that Iraqi forces “were deployed to the location; however, before reaching the identified site, our troops were struck by an airstrike, resulting in the martyrdom of one soldier and injuries to two others.” Iraq’s Joint Operations Command on Monday firmly denied the presence of any “unauthorized bases or f",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:46:59.969702+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3ceac7b1620a1b99",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/13052026",
+    "title": "Iraq says granted citizenship to nearly 3,000 foreigners since 2006",
+    "title_en": "Iraq says granted citizenship to nearly 3,000 foreigners since 2006",
+    "summary": "ERBIL, Kurdistan Region - Iraq has granted citizenship to 2,757 foreign nationals in the last two decades, with most obtaining nationality through marriage to Iraqi citizens, the country’s interior ministry said on Tuesday. “The total number of foreigners who have been granted Iraqi citizenship since 2006 has reached 2,757 people,” Major General Miqdad Miri, spokesperson for the federal interior ministry, said on Tuesday. He said the process had been carried out under Iraq’s legal framework and subject to official approvals. “The process of granting citizenship has been conducted according to legal procedures. These measures were implemented following official approvals and the completion of all security and administrative requirements,” he said. According to Miri, the majority of foreign nationals were granted citizenship after marrying Iraqi citizens. Others qualified after residing continuously in Iraq for at least 10 years without leaving the country, in accordance with nationality regulations. “The granting of Iraqi citizenship falls within precise official procedures to ensure compliance with the laws and regulations specific to nationality,” Miri added. Under Iraqi law, foreign nationals can obtain citizenship through several pathways, including marriage to an Iraqi citizen or continuous legal residence in the country for at least 10 years. Applicants must meet a series of legal, security, and administrative conditions before citizenship is approved by the authorities. The process is overseen by the ministry of interior and requires official approvals after background checks and document verification. Iraqi officials say naturalization is granted only after ensuring applicants comply with the country’s nationality laws and related regulations.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism ",
+    "source": "rudaw-english",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Major General Miqdad Miri",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:46:43.155526+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "Project of Housing and Weaving Avenue Towers",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ چوارشەممە نرخی زێڕ دابەزی بەهۆی ناڕوونییەکانی جەنگی ئێران و بەرزبوونەوەی هەڵاوسان لە ئەمریکا کە ئەگەری کەمکردنەوەی رێژەی سوودی بانکی لاواز کردووە.",
+    "source": "rudaw-sorani",
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      },
+      {
+        "name": "America",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:44:44.777637+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "See the pipeline that connects Iraq to Europe",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "European Union",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:44:34.367082+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e7a0996bb6af30d7",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1305202618",
+    "title": "سوودانی لە گوتاری ماڵئاوایدا: سەرکردە شکستخواردووەکان هەوڵی شێواندنی راستییەکانیان دا",
+    "title_en": "Sudani in his speech: The leader of the defeated has attempted to distort their truths",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە سبەی پێنجشەممە دادگەی تێهەڵچوونەوەی رەسافە لە بەغدا، بڕیاری کۆتایی لەبارەی \"عەجاج تکریتی\" بدات کە بە جەللادەکەی نوگرە سەلمان ناسراوە؛ پارێزەرێکی دۆسیەکەش دەڵێت: \"تۆمەتبار دانی بە تاوانەکانیدا ناوە.\"",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Sudani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:44:23.914848+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d4cb39104f8cd4e",
+    "url": "https://www.rudaw.net/sorani/world/130520264",
+    "title": "سووریا لەبەردەم بڕیارێکی مێژوویی دا لەبارەی خوێندن بە زمانی کوردی",
+    "title_en": "Syria faces a historic decision regarding education in the Kurdish language",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Syria",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:44:06.407481+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be20dd495e97122f",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1305202627",
+    "title": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
+    "title_en": "Judge Asso Mohammed on the incident: Kurdish judges are not present in the higher courts of Baghdad",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ محەمەد حەمید، هەر جارێک دەچێتە ماڵی مریەم لە گەرمیان، چاوەکانی دەبنە ئاوێنەی مێژوویەکی پڕ لە ئازار. ئەو لەنێو کەلوپەلە بەجێماوەکانی کەسوکاری ئەنفالکراواندا، بۆنی باوکی دەکات؛ ئەو باوکەی لە زیندانی نوگرەسەلمان شەهید کرا.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Asso Mohammed",
+        "type": "PERSON"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:43:54.812768+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "New developments regarding the Spanish handlers against Muslims",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ستافی تەکنیکیی هەڵبژاردەی بەرازیل گومانیان لە ئامادەیی نەیمار داسێلڤا هەیە بۆ مۆندیال و چەند هۆکارێکیان دەستنیشان کردووە، دەڵێن ئەو هۆکارانە رێگرن لە بانگهێشتکردنی ئەو یاریزانە بۆ مۆندیال.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:43:45.983479+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f69d126cb1d37441",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1205202629",
+    "title": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
+    "title_en": "Kurdish activists discuss the Iraqi government's policies at the Atlantic Council",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraqi government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Atlantic Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-14T04:43:29.800926+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "c43485d37a2d2e6b",
     "url": "https://www.rudaw.net/english/world/130520261",
     "title": "US defense official denies claim that Kurds diverted weapons meant for Iranian protesters",
     "title_en": "US defense official denies claim that Kurds diverted weapons meant for Iranian protesters",
     "summary": "WASHINGTON - A US defense official told Rudaw that reports alleging Kurdish groups diverted weapons intended for anti-government protesters in Iran are \"false,\" directly contradicting repeated claims made by US President Donald Trump. \"These reports are false, and we are not tracking any of that,\" the defense official said on Monday in response to Rudaw's inquiry about allegations that weapons shipments intended for Iranian protesters had been taken by Kurdish intermediaries. The official spoke on condition of anonymity to speak freely on the issue. The comments came after Trump again accused the Kurds on Monday of taking weapons that he claimed were meant for protesters in Iran. \"The Iranian people want to go out on the streets. They have no weapons. They have no guns,\" Trump told reporters. \"We thought the Kurds were going to give [them] weapons, but the Kurds disappointed us. The Kurds take, take, take... I'm very disappointed in the Kurds.\" Another source familiar with the matter told Rudaw that the United States had considered sending weapons to Iranian protesters, but said the weapons were never delivered either to Kurdish groups or to civilians inside Iran. According to the same source, the weapons remain stored at US military bases in the Middle East and were never transferred beyond American custody. The allegations stem from nationwide protests that erupted in Iran in late December and quickly spread across the country, posing one of the most serious challenges to the Iranian regime in recent years. Human rights organizations monitoring the unrest say security forces responded with live ammunition and mass arrests, with tens of thousands reportedly killed or detained during the crackdown. Since January, Trump has repeatedly expressed support for Iranian protesters through posts on Truth Social, encouraging demonstrations and promising that \"HELP IS ON ITS WAY.\" Questions intensified after videos circulated online allegedly showing rows of body bags in a mo",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "US defense official",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurds",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-14T04:16:55.715018+00:00",
     "location": {
@@ -47,24 +331,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T04:16:16.264526+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "54f6229c172bd76a",
-    "url": "https://www.rudaw.net/english/culture/28042024",
-    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T04:16:03.250166+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -126,24 +392,6 @@
     }
   },
   {
-    "id": "e7a0996bb6af30d7",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1305202618",
-    "title": "سوودانی لە گوتاری ماڵئاوایدا: سەرکردە شکستخواردووەکان هەوڵی شێواندنی راستییەکانیان دا",
-    "title_en": "سوودانی لە گوتاری ماڵئاوایدا: سەرکردە شکستخواردووەکان هەوڵی شێواندنی راستییەکانیان دا",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە سبەی پێنجشەممە دادگەی تێهەڵچوونەوەی رەسافە لە بەغدا، بڕیاری کۆتایی لەبارەی \"عەجاج تکریتی\" بدات کە بە جەللادەکەی نوگرە سەلمان ناسراوە؛ پارێزەرێکی دۆسیەکەش دەڵێت: \"تۆمەتبار دانی بە تاوانەکانیدا ناوە.\"",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T04:13:23.050049+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
@@ -180,24 +428,6 @@
     }
   },
   {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T04:12:49.384612+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "23832a3edd0671ab",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/1305202615",
     "title": "بڕیاری کۆتایی لەسەر عەجاج دەدرێت و پارێزەرێک پێشبینی سزای لە سێدارەدانی بۆ دەکات",
@@ -209,24 +439,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T04:12:34.690209+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "3ceac7b1620a1b99",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/13052026",
-    "title": "Iraq says granted citizenship to nearly 3,000 foreigners since 2006",
-    "title_en": "Iraq says granted citizenship to nearly 3,000 foreigners since 2006",
-    "summary": "ERBIL, Kurdistan Region - Iraq has granted citizenship to 2,757 foreign nationals in the last two decades, with most obtaining nationality through marriage to Iraqi citizens, the country’s interior ministry said on Tuesday. “The total number of foreigners who have been granted Iraqi citizenship since 2006 has reached 2,757 people,” Major General Miqdad Miri, spokesperson for the federal interior ministry, said on Tuesday. He said the process had been carried out under Iraq’s legal framework and subject to official approvals. “The process of granting citizenship has been conducted according to legal procedures. These measures were implemented following official approvals and the completion of all security and administrative requirements,” he said. According to Miri, the majority of foreign nationals were granted citizenship after marrying Iraqi citizens. Others qualified after residing continuously in Iraq for at least 10 years without leaving the country, in accordance with nationality regulations. “The granting of Iraqi citizenship falls within precise official procedures to ensure compliance with the laws and regulations specific to nationality,” Miri added. Under Iraqi law, foreign nationals can obtain citizenship through several pathways, including marriage to an Iraqi citizen or continuous legal residence in the country for at least 10 years. Applicants must meet a series of legal, security, and administrative conditions before citizenship is approved by the authorities. The process is overseen by the ministry of interior and requires official approvals after background checks and document verification. Iraqi officials say naturalization is granted only after ensuring applicants comply with the country’s nationality laws and related regulations.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T03:45:39.375025+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -486,42 +698,6 @@
     }
   },
   {
-    "id": "f69d126cb1d37441",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1205202629",
-    "title": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
-    "title_en": "جووتیارانی کورد لە سەرگەڕان دژی رێکارەکانی سوپای عێراق گردبوونەوە",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T03:13:31.557903+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "be20dd495e97122f",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1305202627",
-    "title": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
-    "title_en": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ محەمەد حەمید، هەر جارێک دەچێتە ماڵی مریەم لە گەرمیان، چاوەکانی دەبنە ئاوێنەی مێژوویەکی پڕ لە ئازار. ئەو لەنێو کەلوپەلە بەجێماوەکانی کەسوکاری ئەنفالکراواندا، بۆنی باوکی دەکات؛ ئەو باوکەی لە زیندانی نوگرەسەلمان شەهید کرا.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T03:13:21.146316+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "1795769734562cef",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
@@ -720,24 +896,6 @@
     }
   },
   {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ حکومەتى هەرێمى کوردستان زیاتر لە مانگێکە چاوەڕێى رەزامەندیى ئەنجوومەنى وەزاریى ئابووریى عێراقە بۆ یەکلاکردنەوەى ئەو لێکتێگەیشتنەى لەنێوان هەولێر و بەغدا لەبارەى گومرگەوە لەنێوانیان کراوە، بە نووسراوى فەرمییش داواى لە حکومەتى فیدراڵى کردووە بۆ یەکلاکردنەوەى کۆبوونەوە بکرێت",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T02:41:57.566932+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "04df562255b39aa4",
     "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
     "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
@@ -780,29 +938,24 @@
     "title_en": "Erbil adopts precautionary measures to limit the Hantavirus spread",
     "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s agriculture ministry on Wednesday announced precautionary measures to prevent any potential spread of the Hantavirus, including the launch of a large-scale rodent control campaign, a senior ministry official told Rudaw. “The virus spread globally between 1950 and 1953 and was identified in South Korea in 1978, but there is still no vaccine for it,” said Rabir Mohammed, Director General of Livestock and Veterinary Affairs at the agriculture ministry, adding that Hantavirus is transmitted through rodents such as rats and mice. Accordingly, the Kurdistan Region’s agriculture ministry has decided to launch a campaign to eliminate rats and mice in all government and non-government institutions, as well as in areas where rodents are widely present. The ministry also mandated the use of rodenticides in animal feed factories, livestock projects, slaughterhouses, dairy plants, meat-processing facilities, and butcher shops. Moreover, Kurdish authorities have decided to ban the entry of pet hamsters through border crossings and urged owners of dog and cat food warehouses to take the necessary measures to eliminate rats and mice from their storage facilities as well. Earlier this month, Salah Tawfiq Balaki, a professor and medical microbiology specialist at Hawler Medical University, told Rudaw that chances of human-to-human transmission of the Hantavirus are “very weak,” noting that the likelihood of the virus developing into a widespread pandemic similar to coronavirus are also “very low.” The main symptoms of the virus include fever, severe fatigue, headaches, muscle and abdominal pain, diarrhea, coughing, and shortness of breath in severe cases. International health organizations in early May began monitoring a serious outbreak of Hantavirus Pulmonary Syndrome (HPS) linked to the Dutch cruise ship MV Hondius, which departed Argentina on April 1 and has since drawn global attention after several passengers developed severe res",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "health",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region’s agriculture ministry",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Rabir Mohammed",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-14T02:14:58.389491+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "dc868209929ff6b7",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/130520264",
-    "title": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
-    "title_en": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
-    "summary": "ERBIL, Kurdistan Region - Iraqis on Wednesday expressed concern over reports alleging the presence of a secret Israeli base in Iraq’s southern desert, despite authorities dismissing the claims as outdated images tied to a one-time incident in early March that killed one Iraqi soldier and injured two others. “Where do I begin - with the Israelis, the United States, or the Iranian forces active in the country?” Hussein Falah, a retired government employee said. “We do not have a strong government. We do not have an authority capable of securing our borders,” he lamented. Similarly, Aliya Mohammed, a civil servant said the reports were “not a good thing, and they will affect our children,” adding, “The armed forces should be more vigilant and careful in protecting our territory.” The unease on Iraqi streets, comes against the backdrop of a Saturday report by The Wall Street Journal, which stated that “Israel set up a clandestine military outpost in the Iraqi desert to support its air campaign against Iran and launched airstrikes against Iraqi troops who almost discovered it early in the war, people familiar with the matter, including U.S. officials, said.” According to the newspaper, the installation “housed special forces and served as a logistical hub for the Israeli air force, just before the war started with the knowledge of the U.S.” However, Major General Tahseen al-Khafaji, Director of Media and Moral Guidance at the Iraqi defense ministry, told Rudaw that the report relates to an incident in early March. “We had received intelligence about the presence of armed men in the area who were speaking broken Arabic and carrying US-made weapons,” Khafaji said, adding that Iraqi forces “were deployed to the location; however, before reaching the identified site, our troops were struck by an airstrike, resulting in the martyrdom of one soldier and injuries to two others.” Iraq’s Joint Operations Command on Monday firmly denied the presence of any “unauthorized bases or f",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T02:14:46.357886+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -857,24 +1010,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T02:12:05.488380+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1d4cb39104f8cd4e",
-    "url": "https://www.rudaw.net/sorani/world/130520264",
-    "title": "سووریا لەبەردەم بڕیارێکی مێژوویی دا لەبارەی خوێندن بە زمانی کوردی",
-    "title_en": "سووریا لەبەردەم بڕیارێکی مێژوویی دا لەبارەی خوێندن بە زمانی کوردی",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T02:11:27.317079+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -947,24 +1082,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T01:13:32.132413+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ستافی تەکنیکیی هەڵبژاردەی بەرازیل گومانیان لە ئامادەیی نەیمار داسێلڤا هەیە بۆ مۆندیال و چەند هۆکارێکیان دەستنیشان کردووە، دەڵێن ئەو هۆکارانە رێگرن لە بانگهێشتکردنی ئەو یاریزانە بۆ مۆندیال.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T01:12:58.284469+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1379,24 +1496,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T19:13:10.366504+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "99803a750c50ad7a",
-    "url": "https://www.rudaw.net/english/world/01052024",
-    "title": "Germany deports Kurdish family with health issues to Iraq",
-    "title_en": "Germany deports Kurdish family with health issues to Iraq",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T18:46:04.452659+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -6055,6 +6154,24 @@
     "title": "عێراق درۆنێکی سەربازی بە ناوی 'سارا 1' دروستکرد",
     "title_en": "عێراق درۆنێکی سەربازی بە ناوی 'سارا 1' دروستکرد",
     "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق درۆنی \"سارا 1\". وێنە: دەزگای ئاسایشی نیشتمانیی عێراق زۆرتر لە عێراق بڕیاری کۆتایی لەسەر عەجاج دەدرێت و پارێزەرێک پێشبینی سزای لە سێدارەدانی بۆ دەکات پانێڵێکی ئەنجوومەنی ئەتڵەنتیک: جەنگ لاوازییەکانی کەرتی وزەی عێراقی دەرخست هۆشیار زێباری: بەشێک لە شیعە و سوننەکان وەک سیستمێکی ناوەندی سەیری عێراق دەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e1334886810b454d",
+    "url": "https://www.rudaw.net/sorani/business/14052026",
+    "title": "نرخی نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "نرخی نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری بەرمیلی نەوت زۆرتر لە ئابووری بازاڕی هەرێمی کوردستان؛ لە ساڵێکدا نرخی برنج 25% و گۆشت 12% بەرزبووەتەوە گرووپێکی لێکۆڵینەوەی ئابووری: ئەم ساڵ نەوت لە سەرووی 80 دۆلار دەمێنێتەوە نرخی زێڕ بەرزی ناچالاکە، بەڵام لەبەرچی؟ زیاتر لە 762 هەزار فەرمانبەر لە رێگەی (هەژماری من)ـەوە مووچەی مانگی نیسان وەردەگرن A+ A- روود",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
