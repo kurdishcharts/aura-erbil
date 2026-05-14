@@ -1,70 +1,16 @@
 [
   {
-    "id": "5b099a6845e9a270",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
-    "title": "BP resumes operations in Kirkuk after war-related suspension",
-    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
-    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:17:11.605661+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1fc24be79ff707f4",
-    "url": "https://www.rudaw.net/english/kurdistan/13052026",
-    "title": "Erbil adopts precautionary measures to limit the Hantavirus spread",
-    "title_en": "Erbil adopts precautionary measures to limit the Hantavirus spread",
-    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s agriculture ministry on Wednesday announced precautionary measures to prevent any potential spread of the Hantavirus, including the launch of a large-scale rodent control campaign, a senior ministry official told Rudaw. “The virus spread globally between 1950 and 1953 and was identified in South Korea in 1978, but there is still no vaccine for it,” said Rabir Mohammed, Director General of Livestock and Veterinary Affairs at the agriculture ministry, adding that Hantavirus is transmitted through rodents such as rats and mice. Accordingly, the Kurdistan Region’s agriculture ministry has decided to launch a campaign to eliminate rats and mice in all government and non-government institutions, as well as in areas where rodents are widely present. The ministry also mandated the use of rodenticides in animal feed factories, livestock projects, slaughterhouses, dairy plants, meat-processing facilities, and butcher shops. Moreover, Kurdish authorities have decided to ban the entry of pet hamsters through border crossings and urged owners of dog and cat food warehouses to take the necessary measures to eliminate rats and mice from their storage facilities as well. Earlier this month, Salah Tawfiq Balaki, a professor and medical microbiology specialist at Hawler Medical University, told Rudaw that chances of human-to-human transmission of the Hantavirus are “very weak,” noting that the likelihood of the virus developing into a widespread pandemic similar to coronavirus are also “very low.” The main symptoms of the virus include fever, severe fatigue, headaches, muscle and abdominal pain, diarrhea, coughing, and shortness of breath in severe cases. International health organizations in early May began monitoring a serious outbreak of Hantavirus Pulmonary Syndrome (HPS) linked to the Dutch cruise ship MV Hondius, which departed Argentina on April 1 and has since drawn global attention after several passengers developed severe res",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:17:00.652805+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0a0e1718c53830fe",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
-    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:16:48.191731+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7f7755f9e5f6df80",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/130520263",
-    "title": "Outgoing Iraqi PM backs new cabinet as parliament prepares confidence vote",
-    "title_en": "Outgoing Iraqi PM backs new cabinet as parliament prepares confidence vote",
-    "summary": "ERBIL, Kurdistan Region - Iraq’s outgoing Prime Minister Mohammed Shia’ al-Sudani on Wednesday delivered his farewell address, expressing support for the incoming cabinet of Prime Minister-designate Ali al-Zaidi and for all decisions taken in the public interest. The remarks came on the eve of a vote of confidence for Zaidi’s cabinet lineup in the Iraqi legislature on Thursday. “Our government was formed in late October 2022 following a dangerous political turning point that swept the country,” Sudani said, referring to a prolonged political crisis over government formation that had gripped the country at the time. He added, “We faced regional and international challenges and worked to keep the fire away from our land and people,” in reference to the recent Iran war that broke out in late February with Iraq caught in the crossfire. Sudani noted that, against that backdrop, “We adopted a balanced diplomacy and avoided alignment with regional axes, which reflected positively on internal stability.” The outgoing premier said that during his tenure, the government focused on “five priorities in our government program: combating corruption, fighting poverty, addressing unemployment, financial and administrative reform, and improving service delievery.” Accordingly, Sudani expressed his support for Zaidi’s cabinet to continue along the same path, affirming his “determination to support the new government in all decisions taken for the public good.” Earlier on Wednesday, the Iraqi legislature published its schedule for its Thursday session with one key item on the agenda: “Voting on the ministerial program and the government of Prime Minister-designate Ali Falih al-Zaidi.” The announcement came amid speculation that the vote of confidence in the incoming cabinet could be delayed due to disputes over ministerial portfolios within the Coordination Framework. “Disagreements over the allocation of ministerial posts within the Coordination Framework are behind the postponement ",
+    "id": "54f6229c172bd76a",
+    "url": "https://www.rudaw.net/english/culture/28042024",
+    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T12:16:37.189376+00:00",
+    "timestamp": "2026-05-14T12:45:57.320992+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -82,7 +28,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T12:16:26.944955+00:00",
+    "timestamp": "2026-05-14T12:45:29.769390+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -90,17 +36,251 @@
     }
   },
   {
-    "id": "54f6229c172bd76a",
-    "url": "https://www.rudaw.net/english/culture/28042024",
-    "title": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "title_en": "Kurdish melodies harmonized with Italian melodies in Sulaimani",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "id": "12c9bc97573e3dc6",
+    "url": "https://www.rudaw.net/english/kurdistan/130520261",
+    "title": "Iran launches drone attack on Kurdish opposition site near Erbil",
+    "title_en": "Iran launches drone attack on Kurdish opposition site near Erbil",
+    "summary": "ERBIL, Kurdistan Region - A double Iranian drone attack targeted a “residential site” for families of the Democratic Party of Iranian Kurdistan (KDPI), north of Erbil late Wednesday, with no casualties reported. The group further noted that Tehran has launched more than 126 drone and missile strikes against its civilian facilities since the outbreak of the Iran conflict in late February. “On Wednesday night, May 13, 2026, at 9:30 pm [local time], the Islamic Republic targeted a camp belonging to the Democratic Party of Iranian Kurdistan (KDPI) near Erbil with two drones,” the dissident group said in a statement, adding that “the camp houses families affiliated with the Democratic Party and has been targeted several times by the Islamic Republic since the start of the 40-day war” in late February. The KDPI, which is the largest Iranian Kurdish dissident group, added that “since the outbreak of the war with the United States and Israel, the Islamic Republic of Iran has launched more than 126 missile and drone strikes on camps housing families of the Democratic Party of Iranian Kurdistan, as well as on the party’s medical and educational facilities.” The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets over six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets and launching retaliatory attacks against Israel. The Iranian response also involved Iraqi armed groups aligned with the Tehran-led ‘Axis of Resistance,’ with several factions claiming responsibility for attacks on purported US targets in the region, including in Iraq and the Kurdistan Region. The US and Iran agreed to a Pakistan-mediated ceasefire on April 8, halting fighting to allow space for talks. While the first round of discussions concluded without a final agreement on April 11, a second round has yet to take place, as the war has yet to fully conclu",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T12:16:07.959286+00:00",
+    "timestamp": "2026-05-14T12:45:13.774244+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f7755f9e5f6df80",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/130520263",
+    "title": "Outgoing Iraqi PM backs new cabinet as parliament prepares confidence vote",
+    "title_en": "Outgoing Iraqi PM backs new cabinet as parliament prepares confidence vote",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s outgoing Prime Minister Mohammed Shia’ al-Sudani on Wednesday delivered his farewell address, expressing support for the incoming cabinet of Prime Minister-designate Ali al-Zaidi and for all decisions taken in the public interest. The remarks came on the eve of a vote of confidence for Zaidi’s cabinet lineup in the Iraqi legislature on Thursday. “Our government was formed in late October 2022 following a dangerous political turning point that swept the country,” Sudani said, referring to a prolonged political crisis over government formation that had gripped the country at the time. He added, “We faced regional and international challenges and worked to keep the fire away from our land and people,” in reference to the recent Iran war that broke out in late February with Iraq caught in the crossfire. Sudani noted that, against that backdrop, “We adopted a balanced diplomacy and avoided alignment with regional axes, which reflected positively on internal stability.” The outgoing premier said that during his tenure, the government focused on “five priorities in our government program: combating corruption, fighting poverty, addressing unemployment, financial and administrative reform, and improving service delievery.” Accordingly, Sudani expressed his support for Zaidi’s cabinet to continue along the same path, affirming his “determination to support the new government in all decisions taken for the public good.” Earlier on Wednesday, the Iraqi legislature published its schedule for its Thursday session with one key item on the agenda: “Voting on the ministerial program and the government of Prime Minister-designate Ali Falih al-Zaidi.” The announcement came amid speculation that the vote of confidence in the incoming cabinet could be delayed due to disputes over ministerial portfolios within the Coordination Framework. “Disagreements over the allocation of ministerial posts within the Coordination Framework are behind the postponement ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:45:03.368444+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:44:53.070816+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c104b6ba1e1170c",
+    "url": "https://www.rudaw.net/sorani/world/14052026",
+    "title": "ترەمپ لە چین چی دەکات و باسی چ بابەتێک دەکات؟",
+    "title_en": "ترەمپ لە چین چی دەکات و باسی چ بابەتێک دەکات؟",
+    "summary": "       وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوو بەرپرسی رۆژئاوایی و دوو بەرپرسی ئێرانی دەڵێن، سعودیە لە کاتی جەنگی ویلایەتە یەکگرتووەکانی ئەمریکا و ئیسرائیل لەگەڵ ئێراندا، چەندینجار هێرشی کردووەتە سەر ئێران، ئەوەش وەک وەڵامدانەوەیەک بۆ ئەو هێرشانەی دەکرانە سەری.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:53.515497+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb969fcf016b4d4e",
+    "url": "https://www.rudaw.net/sorani/world/140520261",
+    "title": "تورکیا دەچێتە ناو هاوپەیمانیی بەرگریی پاکستان - سعودیە؟",
+    "title_en": "تورکیا دەچێتە ناو هاوپەیمانیی بەرگریی پاکستان - سعودیە؟",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوو بەرپرسی رۆژئاوایی و دوو بەرپرسی ئێرانی دەڵێن، سعودیە لە کاتی جەنگی ویلایەتە یەکگرتووەکانی ئەمریکا و ئیسرائیل لەگەڵ ئێراندا، چەندینجار هێرشی کردووەتە سەر ئێران، ئەوەش وەک وەڵامدانەوەیەک بۆ ئەو هێرشانەی دەکرانە سەری.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:43.951068+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8ad25f62cb6c54f3",
+    "url": "https://www.rudaw.net/sorani/sports/140520265",
+    "title": "تێباس هێرشیکی تووند دەکاتە سەر پێرێز",
+    "title_en": "تێباس هێرشیکی تووند دەکاتە سەر پێرێز",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گوتبووی کار بۆ رووخاندنی ریال مەدرید دەکەن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:33.841259+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2379dd39d3839115",
+    "url": "https://www.rudaw.net/sorani/health/140520262",
+    "title": "چارەسەرکارێکی دەروونی: بۆ چارەسەر پێویستە رووبەڕووی زەبرە دەروونییەکان ببینەوە",
+    "title_en": "چارەسەرکارێکی دەروونی: بۆ چارەسەر پێویستە رووبەڕووی زەبرە دەروونییەکان ببینەوە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەری گشتیی سامانی ئاژەڵ و ڤێتێرنەری لە وەزارەتی کشتوکاڵ دەڵێ، ئامادەکارییەکان بۆ رووبەڕووبوونەوەی تای خوێنبەربوون چڕکراونەتەوە و بۆ هەر پارێزگا و ئیدارەیەکی سەربەخۆ نزیکەی 100 ملیۆن دینار بۆ کڕینی دەرمان تەرخانکراوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:22.965621+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b38b650fa4bf4759",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/140520262",
+    "title": "عەجاج بە لە سێدارەدان سزا درا",
+    "title_en": "عەجاج بە لە سێدارەدان سزا درا",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پارتی فوئاد حوسێن و رێباز حەملان و یەکێتی خالید شوانی بۆ ئەو وەزارەتانە بەربژێر کردووە کە لە حکومەتی نوێی عێراقدا پێیان دەدرێت، هەروەها سروە عەبدولواحید بەربژێری نەوەی نوێیە بۆ پۆستی وەزیری ژینگە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:12.905103+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە کاژێر 04:00ـی ئێوارەی ئەمڕۆ پەرلەمانی عێراق بۆ متمانەدان بە کابینە وزارییەکەی عەلی فالح زەیدی کۆببێتەوە، بەڵام سێ لایەنی کوردی کە خاوەنی 10 کورسین، مەرجی وەرگرتنی وەزارەتێک و جێکردنەوەی داواکارییەکانیان لە کارنامەی حکومەتدا دەستنیشان دەکەن، بۆ ئەوەی دەنگ بە کابینەکە بدەن.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:42:01.917665+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb6cb38d87964efd",
+    "url": "https://www.rudaw.net/sorani/sports/010420267",
+    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەرزێکی سفریی بەڕێکرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:41:50.278377+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8ca73dd9cd610ab4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1405202610",
+    "title": "نەوت و کانزاکانی گەرمیان: مانگانە پێویستمان بە 110 هەزار بوتڵ گازی شلە",
+    "title_en": "نەوت و کانزاکانی گەرمیان: مانگانە پێویستمان بە 110 هەزار بوتڵ گازی شلە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی پەروەردەی حکومەتی هەرێمی کوردستان راگەیاند، لە ئەمڕۆوە بەخێوکارانی قوتابییانی بازنەی یەکەم لە قوتابخانە حکومییەکان دەتوانن لە رێگەی ئەپڵیکەیشنی (ئی-هەڵسەنگاندن) ئەنجامی کۆتایی ساڵی خوێندنی 2025-2026ـی منداڵەکانیان وەربگرنەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:41:39.443199+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b099a6845e9a270",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
+    "title": "BP resumes operations in Kirkuk after war-related suspension",
+    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
+    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:17:11.605661+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1fc24be79ff707f4",
+    "url": "https://www.rudaw.net/english/kurdistan/13052026",
+    "title": "Erbil adopts precautionary measures to limit the Hantavirus spread",
+    "title_en": "Erbil adopts precautionary measures to limit the Hantavirus spread",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s agriculture ministry on Wednesday announced precautionary measures to prevent any potential spread of the Hantavirus, including the launch of a large-scale rodent control campaign, a senior ministry official told Rudaw. “The virus spread globally between 1950 and 1953 and was identified in South Korea in 1978, but there is still no vaccine for it,” said Rabir Mohammed, Director General of Livestock and Veterinary Affairs at the agriculture ministry, adding that Hantavirus is transmitted through rodents such as rats and mice. Accordingly, the Kurdistan Region’s agriculture ministry has decided to launch a campaign to eliminate rats and mice in all government and non-government institutions, as well as in areas where rodents are widely present. The ministry also mandated the use of rodenticides in animal feed factories, livestock projects, slaughterhouses, dairy plants, meat-processing facilities, and butcher shops. Moreover, Kurdish authorities have decided to ban the entry of pet hamsters through border crossings and urged owners of dog and cat food warehouses to take the necessary measures to eliminate rats and mice from their storage facilities as well. Earlier this month, Salah Tawfiq Balaki, a professor and medical microbiology specialist at Hawler Medical University, told Rudaw that chances of human-to-human transmission of the Hantavirus are “very weak,” noting that the likelihood of the virus developing into a widespread pandemic similar to coronavirus are also “very low.” The main symptoms of the virus include fever, severe fatigue, headaches, muscle and abdominal pain, diarrhea, coughing, and shortness of breath in severe cases. International health organizations in early May began monitoring a serious outbreak of Hantavirus Pulmonary Syndrome (HPS) linked to the Dutch cruise ship MV Hondius, which departed Argentina on April 1 and has since drawn global attention after several passengers developed severe res",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:17:00.652805+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0a0e1718c53830fe",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
+    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T12:16:48.191731+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -162,24 +342,6 @@
     }
   },
   {
-    "id": "8ca73dd9cd610ab4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1405202610",
-    "title": "نەوت و کانزاکانی گەرمیان: مانگانە پێویستمان بە 110 هەزار بوتڵ گازی شلە",
-    "title_en": "نەوت و کانزاکانی گەرمیان: مانگانە پێویستمان بە 110 هەزار بوتڵ گازی شلە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی پەروەردەی حکومەتی هەرێمی کوردستان راگەیاند، لە ئەمڕۆوە بەخێوکارانی قوتابییانی بازنەی یەکەم لە قوتابخانە حکومییەکان دەتوانن لە رێگەی ئەپڵیکەیشنی (ئی-هەڵسەنگاندن) ئەنجامی کۆتایی ساڵی خوێندنی 2025-2026ـی منداڵەکانیان وەربگرنەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:13:17.139947+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "bc55cf83ca7cec93",
     "url": "https://www.rudaw.net/sorani/world/15012024",
     "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
@@ -198,24 +360,6 @@
     }
   },
   {
-    "id": "8ad25f62cb6c54f3",
-    "url": "https://www.rudaw.net/sorani/sports/140520265",
-    "title": "تێباس هێرشیکی تووند دەکاتە سەر پێرێز",
-    "title_en": "تێباس هێرشیکی تووند دەکاتە سەر پێرێز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هەڵبژاردەی عێراق دووەمجارە لە مێژووی خۆیدا بەشداری لە یارییەکانی مۆندیال دەکات",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:12:54.321030+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
@@ -227,24 +371,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T12:12:36.268034+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cb6cb38d87964efd",
-    "url": "https://www.rudaw.net/sorani/sports/010420267",
-    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گوتبووی کار بۆ رووخاندنی ریال مەدرید دەکەن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:12:23.484290+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -447,24 +573,6 @@
       "name": "Shaqlawa",
       "lat": 36.5485,
       "lng": 44.3397
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T11:16:17.118623+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
     }
   },
   {
@@ -684,24 +792,6 @@
     }
   },
   {
-    "id": "b38b650fa4bf4759",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/140520262",
-    "title": "سزای لەسێدارەدان بۆ عەجاج دەرچوو",
-    "title_en": "سزای لەسێدارەدان بۆ عەجاج دەرچوو",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هاوپەیمانیی ئاوەدانکردنەوە و گەشەپێدان کە محەممەد شیاع سوودانی سەرۆکایەتیی دەکات، بە فەرمی باسم محەممەد خزەیری بۆ پۆستی وەزارەتی نەوت بەربژێر کرد.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T10:41:49.995802+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "c6875f93b31a9e2a",
     "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
     "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
@@ -767,24 +857,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T09:47:24.780413+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان بەشداریی لە 30ـەمین ئاهەنگی دەرچوونی خولی پێگەیاندنی کۆلێژی سەربازیی زاخۆ دەکات.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T09:44:09.906147+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1199,24 +1271,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T07:44:30.567859+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "12c9bc97573e3dc6",
-    "url": "https://www.rudaw.net/english/kurdistan/130520261",
-    "title": "Iran launches drone attack on Kurdish opposition site near Erbil",
-    "title_en": "Iran launches drone attack on Kurdish opposition site near Erbil",
-    "summary": "ERBIL, Kurdistan Region - A double Iranian drone attack targeted a “residential site” for families of the Democratic Party of Iranian Kurdistan (KDPI), north of Erbil late Wednesday, with no casualties reported. The group further noted that Tehran has launched more than 126 drone and missile strikes against its civilian facilities since the outbreak of the Iran conflict in late February. “On Wednesday night, May 13, 2026, at 9:30 pm [local time], the Islamic Republic targeted a camp belonging to the Democratic Party of Iranian Kurdistan (KDPI) near Erbil with two drones,” the dissident group said in a statement, adding that “the camp houses families affiliated with the Democratic Party and has been targeted several times by the Islamic Republic since the start of the 40-day war” in late February. The KDPI, which is the largest Iranian Kurdish dissident group, added that “since the outbreak of the war with the United States and Israel, the Islamic Republic of Iran has launched more than 126 missile and drone strikes on camps housing families of the Democratic Party of Iranian Kurdistan, as well as on the party’s medical and educational facilities.” The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets over six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets and launching retaliatory attacks against Israel. The Iranian response also involved Iraqi armed groups aligned with the Tehran-led ‘Axis of Resistance,’ with several factions claiming responsibility for attacks on purported US targets in the region, including in Iraq and the Kurdistan Region. The US and Iran agreed to a Pakistan-mediated ceasefire on April 8, halting fighting to allow space for talks. While the first round of discussions concluded without a final agreement on April 11, a second round has yet to take place, as the war has yet to fully conclu",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T07:17:34.115401+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
