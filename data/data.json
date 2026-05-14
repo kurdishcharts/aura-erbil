@@ -1,16 +1,34 @@
 [
   {
-    "id": "dc868209929ff6b7",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/130520264",
-    "title": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
-    "title_en": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
-    "summary": "ERBIL, Kurdistan Region - Iraqis on Wednesday expressed concern over reports alleging the presence of a secret Israeli base in Iraq’s southern desert, despite authorities dismissing the claims as outdated images tied to a one-time incident in early March that killed one Iraqi soldier and injured two others. “Where do I begin - with the Israelis, the United States, or the Iranian forces active in the country?” Hussein Falah, a retired government employee said. “We do not have a strong government. We do not have an authority capable of securing our borders,” he lamented. Similarly, Aliya Mohammed, a civil servant said the reports were “not a good thing, and they will affect our children,” adding, “The armed forces should be more vigilant and careful in protecting our territory.” The unease on Iraqi streets, comes against the backdrop of a Saturday report by The Wall Street Journal, which stated that “Israel set up a clandestine military outpost in the Iraqi desert to support its air campaign against Iran and launched airstrikes against Iraqi troops who almost discovered it early in the war, people familiar with the matter, including U.S. officials, said.” According to the newspaper, the installation “housed special forces and served as a logistical hub for the Israeli air force, just before the war started with the knowledge of the U.S.” However, Major General Tahseen al-Khafaji, Director of Media and Moral Guidance at the Iraqi defense ministry, told Rudaw that the report relates to an incident in early March. “We had received intelligence about the presence of armed men in the area who were speaking broken Arabic and carrying US-made weapons,” Khafaji said, adding that Iraqi forces “were deployed to the location; however, before reaching the identified site, our troops were struck by an airstrike, resulting in the martyrdom of one soldier and injuries to two others.” Iraq’s Joint Operations Command on Monday firmly denied the presence of any “unauthorized bases or f",
+    "id": "1d58229b064bc086",
+    "url": "https://www.rudaw.net/english/middleeast/140520261",
+    "title": "Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’",
+    "title_en": "Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’",
+    "summary": "ERBIL, Kurdistan Region - Iranian Foreign Minister Abbas Araghchi on Thursday expressed “regret” over the United Arab Emirates’ (UAE) “active role” in the US-Israeli military campaign against Iran, saying that Abu Dhabi expected Tehran to remain “passive” and “stay silent” while being attacked with “UAE’s backing.” Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran, Arahchi said. Aragchi’s remarks came at the meeting of the member states of BRICS - an intergovernmental organization comprising 11 states, including the UAE - in New Delhi, India, as cited by Iranian state media. The Iranian foreign minister “strongly advised the UAE to reconsider its policy toward Iran,” adding that they have “not attacked the UAE itself” but “American military bases and installations” in the country, parallel to “its right to self-defense.” He further made reference to the alleged visit of the Israeli Prime Minister Benjamin Netanyahu to Abu Dhabi, claiming that the visit served  as evidence that Emirates “had taken part in the strikes” and “perhaps even acted directly against Iran.” On Wednesday, Netenyahu’s office said during the nearly 40-day-long war with Iran, the Israeli premier visited the Emirates and met with President Sheikh Mohammed Bin Zayed. “This visit has led to a historic breakthrough in relations between Israel and the UAE,” their statement added. But the UAE labeled the claim as \"entirely unfounded,” saying that its relations with Israel are “public and conducted within the well-known and officially declared Abraham Accords, and are not based on non-transparent or unofficial arrangements.” UAE has been a primary target for attacks from Iran and its allied armed groups in the region during the war. Over 2,800 drones and missiles hit the",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T19:17:55.594075+00:00",
+    "timestamp": "2026-05-14T19:46:31.272745+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0a0e1718c53830fe",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
+    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:46:10.357050+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +46,241 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T19:17:38.339729+00:00",
+    "timestamp": "2026-05-14T19:45:50.047625+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b97439aaab60e2a5",
+    "url": "https://www.rudaw.net/english/world/14052026",
+    "title": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
+    "title_en": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
+    "summary": "BEIJING - Chinese President Xi Jinping and US President Donald Trump held extensive talks in Beijing on Thursday during Trump’s first official visit to China since his return to office, with both leaders presenting the summit as a crucial moment for global stability and China-US relations. The meeting, which lasted around two hours at the Great Hall of the People, focused on a wide range of sensitive issues, including trade disputes, artificial intelligence, semiconductor restrictions, rare earth exports, and ongoing tensions between the US and Iran, as well as disagreements over the status of Taiwan. Xi described the current international situation as a period of “accelerated changes unseen in a century,” warning that growing geopolitical instability has made cooperation between Beijing and Washington increasingly important. He added that stable China-US relations are not only vital for both countries but also for global peace and economic stability. Moreover, the Chinese leader raised what he called the “questions of history, the world, and the people,” asking whether China and the United States could avoid the so-called “Thucydides Trap,” establish a new model of relations between major powers, and jointly respond to global challenges. Xi also described 2026 as a possible “historic landmark year” for bilateral relations and called for opening “a new chapter” in ties between the world’s two largest economies. He stressed the importance of mutual respect, peaceful coexistence, and “win-win cooperation,” while managing disagreements carefully. He further argued that economic and trade ties between China and the US are fundamentally mutually beneficial, saying the success of one side creates opportunities rather than threats for the other. Xi further urged Washington to provide a fair and predictable environment for Chinese companies operating in the US, while reaffirming his country’s willingness to further open its market to American businesses. Importantly, Taiwan",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:45:38.107544+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:45:27.992319+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "82733df9a2781105",
+    "url": "https://www.rudaw.net/english/kurdistan/250820245",
+    "title": "UNITAD hands KRG authorities processed evidence on ISIS",
+    "title_en": "UNITAD hands KRG authorities processed evidence on ISIS",
+    "summary": "ERBIL, Kurdistan Region - The United Nations team investigating the Islamic State (ISIS) gave processed information to the Kurdistan Regional Government (KRG) on Sunday relating to legal measures and procedures for the trial of ISIS suspects, as the team’s mandate in Iraq and the Region nears its end. The documents consist of “11.9 gigabytes of information and research on legal procedures for the trial of perpetrators of international crimes” committed against the Yazidis and other communities by ISIS, according to a statement from the office of Dindar Zebari, the KRG’s coordinator for international advocacy. Ana Peyro Llopis, the head of the UN Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD), handed over the files during a meeting with Zebari. “[T]he structured version of this information represents a major step forward in our efforts to support the Kurdistan Region's investigative processes. This information is crucial for advancing accountability for the crimes committed by ISIL (Da’esh), both within Iraq and globally,”  Llopis said in a statement from UNITAD. Another version of the information “in its original, unaltered state” was delivered by UNITAD to the KRG in July. The documents consisted of nearly 46 gigabytes of evidence and encrypted information. UNITAD was established in 2017 to investigate crimes by ISIS. The team’s mandate in Iraq is set to expire on September 17. During the meeting, Zebari and Llopis discussed the conclusion of UNITAD’s mission, according to the KRG statement. “The KRG will continue with UNITAD until the end of its mission. In this context, UNITAD has committed to coordination with third countries and requesting assistance after the end of the UNITAD team’s mandate in Iraq and the Kurdistan Region,” it noted. The team's work included collecting witness testimonies, leading the exhumation of mass graves, and training Iraq's judiciary. The investigative team has had a difficult relationship wi",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:45:16.573139+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:45:05.463708+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان رایگەیاند، بڕیاری سزادانی عەجاج تکریتی \"سەرکەوتن و جێبه‌جێبوونى دادپەروەری و لانى كه‌مى دڵدانه‌وه‌ى کەسوکاری ئەنفالکراوانه‌\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:43:08.494225+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b883a199b5c4f69",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202616",
+    "title": "کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕەبۆکسی نێو هۆڵی پەرلەماندا",
+    "title_en": "کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕەبۆکسی نێو هۆڵی پەرلەماندا",
+    "summary": "      وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سێ فراکسیۆنی کوردستانی لە پەرلەمانی عێراق رایانگەیاند، کارنامەی حکومەتی نوێی عێراق، هیچ ئاماژەیەکی جیدیی بۆ چارەسەرکردنی کێشە ئاڵۆزەکانی نێوان هەرێمی کوردستان و بەغدا تێدا نییە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:42:57.773596+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "50f5cc21831df825",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202615",
+    "title": "تۆم باراک بۆ عەلی زەیدی: سەرۆک ترەمپ ئامادەیە لە نزیکەوە کارت لەگەڵ دا بکات",
+    "title_en": "تۆم باراک بۆ عەلی زەیدی: سەرۆک ترەمپ ئامادەیە لە نزیکەوە کارت لەگەڵ دا بکات",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سێ فراکسیۆنی کوردستانی لە پەرلەمانی عێراق رایانگەیاند، کارنامەی حکومەتی نوێی عێراق، هیچ ئاماژەیەکی جیدیی بۆ چارەسەرکردنی کێشە ئاڵۆزەکانی نێوان هەرێمی کوردستان و بەغدا تێدا نییە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:42:47.183220+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "63ab57b280469217",
+    "url": "https://www.rudaw.net/sorani/sports/250520233",
+    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
+    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:42:36.416570+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bc55cf83ca7cec93",
+    "url": "https://www.rudaw.net/sorani/world/15012024",
+    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە لووتکەی نێوان ئەمریکا و چیندا کە چاوەڕوانیی ئەوەی لێدەکرێت پێشکەوتنی گەورە لە پرسە ناکۆکەکانی وەک جەنگی ئێران، بازرگانی، تەکنەلۆژیا و تایواندا بەدەستبهێنێت، سەرۆک شی جینپینگ و دۆناڵد ترەمپ لە پەکین کۆبوونەوە. لە کاتێکدا ترەمپ بە ستایشکردنی شی وەک \"سەرکردەیەکی مەزن\" دەستیپێکرد، سەرۆکی چین هۆشداریدا لەوەی جیهان گەیشتووەتە \"چوارڕێیانێکی نوێ\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:42:19.917477+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d9b76eb42d9cfbc",
+    "url": "https://www.rudaw.net/sorani/kurdistan/12052026",
+    "title": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
+    "title_en": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان رایگەیاند، بڕیاری سزادانی عەجاج تکریتی \"سەرکەوتن و جێبه‌جێبوونى دادپەروەری و لانى كه‌مى دڵدانه‌وه‌ى کەسوکاری ئەنفالکراوانه‌\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:42:07.743512+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f921e52610d059a",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1405202619",
+    "title": "ئەشواق جاف: رێککەوتن لەسەر مووچە کراوە و بووەتە بەشێک لە کارنامەی حکومەتی عێراق",
+    "title_en": "ئەشواق جاف: رێککەوتن لەسەر مووچە کراوە و بووەتە بەشێک لە کارنامەی حکومەتی عێراق",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەو فەرمانبەرانەی میلاکی حکومەتی هەرێمی کوردستانن و کارتی زانیارییان ناوچەکانی مادەی 140ـە، کێشەی وەرگرتنی زەوییان لە هەولێر بۆ دروستبووە؛ بەڕێوەبەری گشتیی شارەوانییەکانی هەولێریش دەڵێت، \"وەک هەموو فەرمانبەرانی دیکە زەوی وەردەگرن.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:41:58.153848+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42c14d0af256b488",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:41:47.883986+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc868209929ff6b7",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/130520264",
+    "title": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
+    "title_en": "Iraqis alarmed by reports of alleged Israeli base in southern desert",
+    "summary": "ERBIL, Kurdistan Region - Iraqis on Wednesday expressed concern over reports alleging the presence of a secret Israeli base in Iraq’s southern desert, despite authorities dismissing the claims as outdated images tied to a one-time incident in early March that killed one Iraqi soldier and injured two others. “Where do I begin - with the Israelis, the United States, or the Iranian forces active in the country?” Hussein Falah, a retired government employee said. “We do not have a strong government. We do not have an authority capable of securing our borders,” he lamented. Similarly, Aliya Mohammed, a civil servant said the reports were “not a good thing, and they will affect our children,” adding, “The armed forces should be more vigilant and careful in protecting our territory.” The unease on Iraqi streets, comes against the backdrop of a Saturday report by The Wall Street Journal, which stated that “Israel set up a clandestine military outpost in the Iraqi desert to support its air campaign against Iran and launched airstrikes against Iraqi troops who almost discovered it early in the war, people familiar with the matter, including U.S. officials, said.” According to the newspaper, the installation “housed special forces and served as a logistical hub for the Israeli air force, just before the war started with the knowledge of the U.S.” However, Major General Tahseen al-Khafaji, Director of Media and Moral Guidance at the Iraqi defense ministry, told Rudaw that the report relates to an incident in early March. “We had received intelligence about the presence of armed men in the area who were speaking broken Arabic and carrying US-made weapons,” Khafaji said, adding that Iraqi forces “were deployed to the location; however, before reaching the identified site, our troops were struck by an airstrike, resulting in the martyrdom of one soldier and injuries to two others.” Iraq’s Joint Operations Command on Monday firmly denied the presence of any “unauthorized bases or f",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T19:17:55.594075+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -78,7 +330,7 @@
     "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -96,7 +348,7 @@
     "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
     "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "traffic",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -216,24 +468,6 @@
     }
   },
   {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەهۆی کەمبوونەوەی بەرهەمهێنان و ئاڵۆزییەکانی ناوچەکە، نرخی گازی شلی (LPG) لە هەولێر 100% بەرزبووەتەوە؛ ئەندامێکی ئەنجوومەنی بەنزینخانەکانیش دەڵێت، شۆفێران واز لە گاز دەهێنن و روو لە بەنزین دەکەن، ئەوەش گوشاری لەسەر بازاڕی بەنزین دروستکردووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T19:13:41.922581+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "15ec42f1ff05f06e",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
@@ -263,24 +497,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T19:13:09.460093+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T18:46:57.996230+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1008,24 +1224,6 @@
     }
   },
   {
-    "id": "1d58229b064bc086",
-    "url": "https://www.rudaw.net/english/middleeast/140520261",
-    "title": "Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’",
-    "title_en": "Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’",
-    "summary": "ERBIL, Kurdistan Region - Iranian Foreign Minister Abbas Araghchi on Thursday expressed “regret” over the United Arab Emirates’ (UAE) “active role” in the US-Israeli military campaign against Iran, saying that Abu Dhabi expected Tehran to remain “passive” and “stay silent” while being attacked with “UAE’s backing.” Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran, Arahchi said. Aragchi’s remarks came at the meeting of the member states of BRICS - an intergovernmental organization comprising 11 states, including the UAE - in New Delhi, India, as cited by Iranian state media. The Iranian foreign minister “strongly advised the UAE to reconsider its policy toward Iran,” adding that they have “not attacked the UAE itself” but “American military bases and installations” in the country, parallel to “its right to self-defense.” He further made reference to the alleged visit of the Israeli Prime Minister Benjamin Netanyahu to Abu Dhabi, claiming that the visit served  as evidence that Emirates “had taken part in the strikes” and “perhaps even acted directly against Iran.” On Wednesday, Netenyahu’s office said during the nearly 40-day-long war with Iran, the Israeli premier visited the Emirates and met with President Sheikh Mohammed Bin Zayed. “This visit has led to a historic breakthrough in relations between Israel and the UAE,” their statement added. But the UAE labeled the claim as \"entirely unfounded,” saying that its relations with Israel are “public and conducted within the well-known and officially declared Abraham Accords, and are not based on non-transparent or unofficial arrangements.” UAE has been a primary target for attacks from Iran and its allied armed groups in the region during the war. Over 2,800 drones and missiles hit the",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T16:16:43.998646+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "79076f0a90fe70a2",
     "url": "https://www.rudaw.net/sorani/world/140520264",
     "title": "جەنگی ئێران و نەوت باڵ بەسەر کۆبوونەوەی بریکسدا دەکێشن",
@@ -1206,24 +1404,6 @@
     }
   },
   {
-    "id": "0a0e1718c53830fe",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
-    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T14:44:30.265759+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2ac41cd88478710b",
     "url": "https://www.rudaw.net/english/middleeast/iraq/14052026",
     "title": "Iraqi court to issue final ruling in Ba’ath-era executioner case amid possible death sentence",
@@ -1235,24 +1415,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T14:15:35.919663+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T14:15:25.169114+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1307,24 +1469,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T14:12:27.565019+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "82733df9a2781105",
-    "url": "https://www.rudaw.net/english/kurdistan/250820245",
-    "title": "UNITAD hands KRG authorities processed evidence on ISIS",
-    "title_en": "UNITAD hands KRG authorities processed evidence on ISIS",
-    "summary": "ERBIL, Kurdistan Region - The United Nations team investigating the Islamic State (ISIS) gave processed information to the Kurdistan Regional Government (KRG) on Sunday relating to legal measures and procedures for the trial of ISIS suspects, as the team’s mandate in Iraq and the Region nears its end. The documents consist of “11.9 gigabytes of information and research on legal procedures for the trial of perpetrators of international crimes” committed against the Yazidis and other communities by ISIS, according to a statement from the office of Dindar Zebari, the KRG’s coordinator for international advocacy. Ana Peyro Llopis, the head of the UN Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD), handed over the files during a meeting with Zebari. “[T]he structured version of this information represents a major step forward in our efforts to support the Kurdistan Region's investigative processes. This information is crucial for advancing accountability for the crimes committed by ISIL (Da’esh), both within Iraq and globally,”  Llopis said in a statement from UNITAD. Another version of the information “in its original, unaltered state” was delivered by UNITAD to the KRG in July. The documents consisted of nearly 46 gigabytes of evidence and encrypted information. UNITAD was established in 2017 to investigate crimes by ISIS. The team’s mandate in Iraq is set to expire on September 17. During the meeting, Zebari and Llopis discussed the conclusion of UNITAD’s mission, according to the KRG statement. “The KRG will continue with UNITAD until the end of its mission. In this context, UNITAD has committed to coordination with third countries and requesting assistance after the end of the UNITAD team’s mandate in Iraq and the Kurdistan Region,” it noted. The team's work included collecting witness testimonies, leading the exhumation of mass graves, and training Iraq's judiciary. The investigative team has had a difficult relationship wi",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T13:45:11.464709+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1422,24 +1566,6 @@
     }
   },
   {
-    "id": "b97439aaab60e2a5",
-    "url": "https://www.rudaw.net/english/world/14052026",
-    "title": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
-    "title_en": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
-    "summary": "BEIJING - Chinese President Xi Jinping and US President Donald Trump held extensive talks in Beijing on Thursday during Trump’s first official visit to China since his return to office, with both leaders presenting the summit as a crucial moment for global stability and China-US relations. The meeting, which lasted around two hours at the Great Hall of the People, focused on a wide range of sensitive issues, including trade disputes, artificial intelligence, semiconductor restrictions, rare earth exports, and ongoing tensions between the US and Iran, as well as disagreements over the status of Taiwan. Xi described the current international situation as a period of “accelerated changes unseen in a century,” warning that growing geopolitical instability has made cooperation between Beijing and Washington increasingly important. He added that stable China-US relations are not only vital for both countries but also for global peace and economic stability. Moreover, the Chinese leader raised what he called the “questions of history, the world, and the people,” asking whether China and the United States could avoid the so-called “Thucydides Trap,” establish a new model of relations between major powers, and jointly respond to global challenges. Xi also described 2026 as a possible “historic landmark year” for bilateral relations and called for opening “a new chapter” in ties between the world’s two largest economies. He stressed the importance of mutual respect, peaceful coexistence, and “win-win cooperation,” while managing disagreements carefully. He further argued that economic and trade ties between China and the US are fundamentally mutually beneficial, saying the success of one side creates opportunities rather than threats for the other. Xi further urged Washington to provide a fair and predictable environment for Chinese companies operating in the US, while reaffirming his country’s willingness to further open its market to American businesses. Importantly, Taiwan",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T13:15:13.973718+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "8ca73dd9cd610ab4",
     "url": "https://www.rudaw.net/sorani/kurdistan/1405202610",
     "title": "نەوت و کانزاکانی گەرمیان: مانگانە پێویستمان بە 110 هەزار بوتڵ گازی شلە",
@@ -1451,24 +1577,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T13:12:31.841571+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1d9b76eb42d9cfbc",
-    "url": "https://www.rudaw.net/sorani/kurdistan/12052026",
-    "title": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
-    "title_en": "لە ئاهەنگی خانەوادەیەکی کوردی ئیستەنبووڵدا خشڵ و زێڕ جووڵەی لە بووک بڕی",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بڕیارە کاژێر 04:00ـی ئێوارەی ئەمڕۆ پەرلەمانی عێراق بۆ متمانەدان بە کابینە وزارییەکەی عەلی فالح زەیدی کۆببێتەوە، بەڵام سێ لایەنی کوردی کە خاوەنی 10 کورسین، مەرجی وەرگرتنی وەزارەتێک و جێکردنەوەی داواکارییەکانیان لە کارنامەی حکومەتدا دەستنیشان دەکەن، بۆ ئەوەی دەنگ بە کابینەکە بدەن.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T13:12:09.666207+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1559,24 +1667,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T12:17:00.652805+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "bc55cf83ca7cec93",
-    "url": "https://www.rudaw.net/sorani/world/15012024",
-    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا (سێنتکۆم) ئاماری نوێی گەمارۆ دەریاییەکەی سەر ئێرانی بڵاوکردەوە و رایگەیاند، لە ماوەی چوار هەفتەی رابردوودا رێگرییان لە 67 کەشتیی بازرگانی کردوە، هەوڵیانداوە بچنە ناو بەندەرەکانی ئێران یان لێی بچنە دەرەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T12:13:06.587478+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1692,24 +1782,6 @@
     }
   },
   {
-    "id": "42c14d0af256b488",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T10:42:36.712206+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "b3e0550f64224f32",
     "url": "https://www.rudaw.net/english/middleeast/iraq/130520262",
     "title": "KDP, PUK, and NGM to back Zaidi's cabinet as Kurdish opposition blocs remain hesitant",
@@ -1775,24 +1847,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T09:13:37.067430+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "63ab57b280469217",
-    "url": "https://www.rudaw.net/sorani/sports/250520233",
-    "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "title_en": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
-    "summary": "رووداو دیجیتاڵ لە پاڵەوانێتیی تێنسی لیۆن، یاریزانێکی سوێدی بەهۆی هەڵچوون و تووڕەبوونەوە لە پاڵەوانێتییەکە دوورخرایەوە. یارییەکانی پاڵەوانێتیی تێنسی لیۆن گەیشتووەتە قۆناخی 16، لەو قۆناخەشدا هەریەکە لە میکایل یەمیری سوێدی و ئارسەر فیلی فەرەنسی بەیەکگەیشتن، یارییەکە هێشتا یەک کۆمەڵەی بەڕێوچووبوو، بەڵام یاریزانە سوێدییەکە کۆنتڕۆڵی خۆی لەدەستدا، بە راکێتەکە بەربووە کورسیی ناوبژیوانی ناوەڕاست و شكاندی. ئەم رووداوە وایکرد کە سەرپەرشتیاری پاڵەوانێتییەکە بڕیاری دوورخستنەوەی میکایل یەمیر دەربکات و لە پاڵەوانێتییەکە دووریخستەوە. ناوبژیوانە پۆرتوگالی بوو، ناوی رۆجێریۆ سانتۆس بوو، دوای ئەوەی خاڵێکی لە دژی یەمیر هەژمارکرد و بەو هۆیەوە کۆمەڵەیەکی دۆڕاند، ئیدی یاریزانەکە تووڕە بوو، کارێکی دوور لە گیانی وەرزشی ئەنجامدا. لە یاریی تێنسدا ئەم رەفتارانە بە دەرچوون لە یاسا و گیانی وەرزشی هەژمار دەکرێت و راستەوخۆ یاریزانەکە سزا دەدرێت، هەندێک جار سزاکان گەورەترن و لە رووی داراییشەوە بەپێبژاردن سزا دەدرێن.  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T08:43:58.837110+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -7257,24 +7311,6 @@
     "title": "مەسرور بارزانی پیرۆزبایی لە سەرۆکوەزیرانی نوێی عێراق دەکات",
     "title_en": "مەسرور بارزانی پیرۆزبایی لە سەرۆکوەزیرانی نوێی عێراق دەکات",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کۆبوونەوەی مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان لەگەڵ عەلی فالح زەیدی، سەرۆکوەزیرانی نوێی عێراق رۆژی 2-5-2026 لە هەولێر زۆرتر لە عێراق تۆم باراک بۆ عەلی زەیدی: سەرۆک ترەمپ ئامادەیە لە نزیکەوە کارت لەگەڵ دا بکات ئەندامێکی دەوڵەتی یاسا بۆ رووداو: سەرۆکایەتیی پەرلەمان ئێمە و پارتی بەئامانج گرت عێراقچی پ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "50f5cc21831df825",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202615",
-    "title": "تۆم باراک بۆ عەلی زەیدی: سەرۆک ترەمپ ئامادەیە لە نزیکەوە کارت لەگەڵ دا بکات",
-    "title_en": "تۆم باراک بۆ عەلی زەیدی: سەرۆک ترەمپ ئامادەیە لە نزیکەوە کارت لەگەڵ دا بکات",
-    "summary": "نیاز مستەفا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق تۆم باراک [لای چەپ] و عەلی زەیدی. زۆرتر لە عێراق مەسرور بارزانی پیرۆزبایی لە سەرۆکوەزیرانی نوێی عێراق دەکات ئەندامێکی دەوڵەتی یاسا بۆ رووداو: سەرۆکایەتیی پەرلەمان ئێمە و پارتی بەئامانج گرت عێراقچی پیرۆزبایی لە زەیدی و مانەوەی فوئاد حوسێن دەکات سێ فراکسیۆنی کوردستانی: کارنامەی حکومەتەکەی زەیدی کێشەک",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
