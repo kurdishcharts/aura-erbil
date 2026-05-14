@@ -1,23 +1,5 @@
 [
   {
-    "id": "1fc24be79ff707f4",
-    "url": "https://www.rudaw.net/english/kurdistan/13052026",
-    "title": "Erbil adopts precautionary measures to limit the Hantavirus spread",
-    "title_en": "Erbil adopts precautionary measures to limit the Hantavirus spread",
-    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s agriculture ministry on Wednesday announced precautionary measures to prevent any potential spread of the Hantavirus, including the launch of a large-scale rodent control campaign, a senior ministry official told Rudaw. “The virus spread globally between 1950 and 1953 and was identified in South Korea in 1978, but there is still no vaccine for it,” said Rabir Mohammed, Director General of Livestock and Veterinary Affairs at the agriculture ministry, adding that Hantavirus is transmitted through rodents such as rats and mice. Accordingly, the Kurdistan Region’s agriculture ministry has decided to launch a campaign to eliminate rats and mice in all government and non-government institutions, as well as in areas where rodents are widely present. The ministry also mandated the use of rodenticides in animal feed factories, livestock projects, slaughterhouses, dairy plants, meat-processing facilities, and butcher shops. Moreover, Kurdish authorities have decided to ban the entry of pet hamsters through border crossings and urged owners of dog and cat food warehouses to take the necessary measures to eliminate rats and mice from their storage facilities as well. Earlier this month, Salah Tawfiq Balaki, a professor and medical microbiology specialist at Hawler Medical University, told Rudaw that chances of human-to-human transmission of the Hantavirus are “very weak,” noting that the likelihood of the virus developing into a widespread pandemic similar to coronavirus are also “very low.” The main symptoms of the virus include fever, severe fatigue, headaches, muscle and abdominal pain, diarrhea, coughing, and shortness of breath in severe cases. International health organizations in early May began monitoring a serious outbreak of Hantavirus Pulmonary Syndrome (HPS) linked to the Dutch cruise ship MV Hondius, which departed Argentina on April 1 and has since drawn global attention after several passengers developed severe res",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:18:39.382149+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "82733df9a2781105",
     "url": "https://www.rudaw.net/english/kurdistan/250820245",
     "title": "UNITAD hands KRG authorities processed evidence on ISIS",
@@ -28,7 +10,205 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-14T06:18:27.918044+00:00",
+    "timestamp": "2026-05-14T06:48:35.969641+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:48:18.777356+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:48:07.391045+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "52fc515fa4b5997a",
+    "url": "https://www.rudaw.net/english/middleeast/130520261",
+    "title": "67 vessels redirected, 4 disabled under Iran maritime blockade: CENTCOM",
+    "title_en": "67 vessels redirected, 4 disabled under Iran maritime blockade: CENTCOM",
+    "summary": "ERBIL, Kurdistan Region - US forces have redirected 67 vessels leaving or entering Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) reported on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” US forces have redirected 67 vessels entering or leaving Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) said on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the Command said in a post on X, adding that “as of today, American forces have redirected 67 commercial vessels, allowed 15 carrying humanitarian aid to pass, and disabled four to ensure compliance.” CENTCOM added that its forces “ensured that two commercial vessels turned around to comply with the blockade” earlier this week, stressing that “U.S. enforcement remains in full effect.” The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country over six weeks of hostilities before the sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Amid the maritime escalation, US President Donald Trump told reporters on Monday that “the ceasefire is on massive life support, where the doctor walks in and says, 'Sir, your loved one has approximately a one percent c",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:47:48.279200+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1fc24be79ff707f4",
+    "url": "https://www.rudaw.net/english/kurdistan/13052026",
+    "title": "Erbil adopts precautionary measures to limit the Hantavirus spread",
+    "title_en": "Erbil adopts precautionary measures to limit the Hantavirus spread",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s agriculture ministry on Wednesday announced precautionary measures to prevent any potential spread of the Hantavirus, including the launch of a large-scale rodent control campaign, a senior ministry official told Rudaw. “The virus spread globally between 1950 and 1953 and was identified in South Korea in 1978, but there is still no vaccine for it,” said Rabir Mohammed, Director General of Livestock and Veterinary Affairs at the agriculture ministry, adding that Hantavirus is transmitted through rodents such as rats and mice. Accordingly, the Kurdistan Region’s agriculture ministry has decided to launch a campaign to eliminate rats and mice in all government and non-government institutions, as well as in areas where rodents are widely present. The ministry also mandated the use of rodenticides in animal feed factories, livestock projects, slaughterhouses, dairy plants, meat-processing facilities, and butcher shops. Moreover, Kurdish authorities have decided to ban the entry of pet hamsters through border crossings and urged owners of dog and cat food warehouses to take the necessary measures to eliminate rats and mice from their storage facilities as well. Earlier this month, Salah Tawfiq Balaki, a professor and medical microbiology specialist at Hawler Medical University, told Rudaw that chances of human-to-human transmission of the Hantavirus are “very weak,” noting that the likelihood of the virus developing into a widespread pandemic similar to coronavirus are also “very low.” The main symptoms of the virus include fever, severe fatigue, headaches, muscle and abdominal pain, diarrhea, coughing, and shortness of breath in severe cases. International health organizations in early May began monitoring a serious outbreak of Hantavirus Pulmonary Syndrome (HPS) linked to the Dutch cruise ship MV Hondius, which departed Argentina on April 1 and has since drawn global attention after several passengers developed severe res",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:47:37.128720+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60a129c808d53f77",
+    "url": "https://www.rudaw.net/english/kurdistan/160920242",
+    "title": "Foreign missions praise free, objective press at Rudaw election event",
+    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:47:27.320342+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42c14d0af256b488",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:45:32.241999+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8bf6e527580e68d1",
+    "url": "https://www.rudaw.net/sorani/kurdistan/14052026",
+    "title": "ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان",
+    "title_en": "ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە جیهانێکی پڕ لە دەنگدا، هەندێک دەنگ هەن کە تەنیا دایکێک دەیانبیستێت؛ دەنگی تیژ و ترسناکی شکانی ئێسکەکانی جگەرگۆشەکەی. ئەمە چیرۆکی بارینە، کچێکی تەمەن 9 ساڵان کە لە جەستەیەکی شووشەییدا زیندانی کراوە و بە هەڵگرتنی پەرداخێک ئاو، ئێسکەکانی وردوخاش دەبن.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:45:13.109436+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گرێبەستەکەی لە کۆتایی نزیکدەبێتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:44:56.855293+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "de8ea19df5409f57",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1305202626",
+    "title": "بە درۆن هێرشکرایە سەر کەمپی جێژنیکان لە هەولێر",
+    "title_en": "بە درۆن هێرشکرایە سەر کەمپی جێژنیکان لە هەولێر",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە جیهانێکی پڕ لە دەنگدا، هەندێک دەنگ هەن کە تەنیا دایکێک دەیانبیستێت؛ دەنگی تیژ و ترسناکی شکانی ئێسکەکانی جگەرگۆشەکەی. ئەمە چیرۆکی بارینە، کچێکی تەمەن 9 ساڵان کە لە جەستەیەکی شووشەییدا زیندانی کراوە و بە هەڵگرتنی پەرداخێک ئاو، ئێسکەکانی وردوخاش دەبن.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:44:45.897670+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be20dd495e97122f",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1305202627",
+    "title": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
+    "title_en": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە جیهانێکی پڕ لە دەنگدا، هەندێک دەنگ هەن کە تەنیا دایکێک دەیانبیستێت؛ دەنگی تیژ و ترسناکی شکانی ئێسکەکانی جگەرگۆشەکەی. ئەمە چیرۆکی بارینە، کچێکی تەمەن 9 ساڵان کە لە جەستەیەکی شووشەییدا زیندانی کراوە و بە هەڵگرتنی پەرداخێک ئاو، ئێسکەکانی وردوخاش دەبن.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:44:35.724620+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "997f04220d936bc4",
+    "url": "https://www.rudaw.net/sorani/world/0104202612",
+    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-14T06:44:14.953974+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -42,7 +222,7 @@
     "title_en": "US defense official denies claim that Kurds diverted weapons meant for Iranian protesters",
     "summary": "WASHINGTON - A US defense official told Rudaw that reports alleging Kurdish groups diverted weapons intended for anti-government protesters in Iran are \"false,\" directly contradicting repeated claims made by US President Donald Trump. \"These reports are false, and we are not tracking any of that,\" the defense official said on Monday in response to Rudaw's inquiry about allegations that weapons shipments intended for Iranian protesters had been taken by Kurdish intermediaries. The official spoke on condition of anonymity to speak freely on the issue. The comments came after Trump again accused the Kurds on Monday of taking weapons that he claimed were meant for protesters in Iran. \"The Iranian people want to go out on the streets. They have no weapons. They have no guns,\" Trump told reporters. \"We thought the Kurds were going to give [them] weapons, but the Kurds disappointed us. The Kurds take, take, take... I'm very disappointed in the Kurds.\" Another source familiar with the matter told Rudaw that the United States had considered sending weapons to Iranian protesters, but said the weapons were never delivered either to Kurdish groups or to civilians inside Iran. According to the same source, the weapons remain stored at US military bases in the Middle East and were never transferred beyond American custody. The allegations stem from nationwide protests that erupted in Iran in late December and quickly spread across the country, posing one of the most serious challenges to the Iranian regime in recent years. Human rights organizations monitoring the unrest say security forces responded with live ammunition and mass arrests, with tens of thousands reportedly killed or detained during the crackdown. Since January, Trump has repeatedly expressed support for Iranian protesters through posts on Truth Social, encouraging demonstrations and promising that \"HELP IS ON ITS WAY.\" Questions intensified after videos circulated online allegedly showing rows of body bags in a mo",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -108,24 +288,6 @@
     }
   },
   {
-    "id": "997f04220d936bc4",
-    "url": "https://www.rudaw.net/sorani/world/0104202612",
-    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:15:39.171752+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "ca7d8c2e2ed5925b",
     "url": "https://www.rudaw.net/sorani/middleeast/130520261",
     "title": "نووسینگەی نەتەنیاهوو: سەرۆکوەزیران لە کاتی جەنگی ئێراندا بە نهێنی سەردانی ئیماراتی کردووە",
@@ -155,60 +317,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T06:15:11.175717+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42c14d0af256b488",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:15:00.366915+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "de8ea19df5409f57",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1305202626",
-    "title": "بە درۆن هێرشکرایە سەر کەمپی جێژنیکان لە هەولێر",
-    "title_en": "بە درۆن هێرشکرایە سەر کەمپی جێژنیکان لە هەولێر",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:14:47.814428+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8bf6e527580e68d1",
-    "url": "https://www.rudaw.net/sorani/kurdistan/14052026",
-    "title": "ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان",
-    "title_en": "ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێکهێنانی حکومەتی نوێی عێراق و ئاڵنگارییەکانی بەردەمی لە پانێڵێکی ئەنجوومەنی ئەتڵەنتیکدا تاوتوێ کران.شێوازی مامەڵەکردنی ئەو حکومەتە لەگەڵ گرووپە چەکدارەکان، یەکێک بوو لە پرسە سەرەکییەکان.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T06:14:21.148265+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -450,24 +558,6 @@
     }
   },
   {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ستافی تەکنیکیی هەڵبژاردەی بەرازیل گومانیان لە ئامادەیی نەیمار داسێلڤا هەیە بۆ مۆندیال و چەند هۆکارێکیان دەستنیشان کردووە، دەڵێن ئەو هۆکارانە رێگرن لە بانگهێشتکردنی ئەو یاریزانە بۆ مۆندیال.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T05:43:43.255643+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "c6875f93b31a9e2a",
     "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
     "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
@@ -664,33 +754,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-14T04:44:06.407481+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "be20dd495e97122f",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1305202627",
-    "title": "دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون",
-    "title_en": "Judge Asso Mohammed on the incident: Kurdish judges are not present in the higher courts of Baghdad",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ محەمەد حەمید، هەر جارێک دەچێتە ماڵی مریەم لە گەرمیان، چاوەکانی دەبنە ئاوێنەی مێژوویەکی پڕ لە ئازار. ئەو لەنێو کەلوپەلە بەجێماوەکانی کەسوکاری ئەنفالکراواندا، بۆنی باوکی دەکات؛ ئەو باوکەی لە زیندانی نوگرەسەلمان شەهید کرا.",
-    "source": "rudaw-sorani",
-    "category": "politics",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Asso Mohammed",
-        "type": "PERSON"
-      },
-      {
-        "name": "Baghdad",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-14T04:43:54.812768+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -896,24 +959,6 @@
     }
   },
   {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T03:15:55.969474+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
-    }
-  },
-  {
     "id": "1795769734562cef",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
@@ -1069,24 +1114,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T02:41:34.028486+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "52fc515fa4b5997a",
-    "url": "https://www.rudaw.net/english/middleeast/130520261",
-    "title": "67 vessels redirected, 4 disabled under Iran maritime blockade: CENTCOM",
-    "title_en": "67 vessels redirected, 4 disabled under Iran maritime blockade: CENTCOM",
-    "summary": "ERBIL, Kurdistan Region - US forces have redirected 67 vessels leaving or entering Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) reported on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” US forces have redirected 67 vessels entering or leaving Iranian ports through the Strait of Hormuz, the US Central Command (CENTCOM) said on Wednesday, noting that four others were “disabled” and that the maritime blockade on Iran remains “in full effect.” “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the Command said in a post on X, adding that “as of today, American forces have redirected 67 commercial vessels, allowed 15 carrying humanitarian aid to pass, and disabled four to ensure compliance.” CENTCOM added that its forces “ensured that two commercial vessels turned around to comply with the blockade” earlier this week, stressing that “U.S. enforcement remains in full effect.” The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking more than 17,000 sites across the country over six weeks of hostilities before the sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Amid the maritime escalation, US President Donald Trump told reporters on Monday that “the ceasefire is on massive life support, where the doctor walks in and says, 'Sir, your loved one has approximately a one percent c",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T02:15:24.294718+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1328,24 +1355,6 @@
     }
   },
   {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T23:14:47.879927+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "67d5458b91dbd6c7",
     "url": "https://www.rudaw.net/sorani/middleeast/turkey/121220231",
     "title": "کاردانەوەکانی گوتارە کوردییەکەی تونجەر باکرهان لە پەرلەمانی تورکیا",
@@ -1375,24 +1384,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-13T20:42:11.900829+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "60a129c808d53f77",
-    "url": "https://www.rudaw.net/english/kurdistan/160920242",
-    "title": "Foreign missions praise free, objective press at Rudaw election event",
-    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-13T20:17:00.087632+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -6177,6 +6168,42 @@
     "title": "پووختەی قازانجی داناگاز لەچارەکی یەکەمی 2026 دا 74 ملیۆن دۆلار بووە",
     "title_en": "پووختەی قازانجی داناگاز لەچارەکی یەکەمی 2026 دا 74 ملیۆن دۆلار بووە",
     "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری رووداو زۆرتر لە ئابووری یەک ئۆنسە زێڕ لە نزیک 4680 دۆلار مامەڵەی پێوەدەکرێت نرخی نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت بازاڕی هەرێمی کوردستان؛ لە ساڵێکدا نرخی برنج 25% و گۆشت 12% بەرزبووەتەوە گرووپێکی لێکۆڵینەوەی ئابووری: ئەم ساڵ نەوت لە سەرووی 80 دۆلار دەمێنێتەوە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f8cec06fe8732e7",
+    "url": "https://www.rudaw.net/english/business/14052026",
+    "title": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
+    "title_en": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
+    "summary": "Mahmood Baban @MahmoodBaban2 SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. ECONOMY Dana Gas logo. Graphic: Rudaw Also in ECONOMY Iraq revenues fall to half of monthly spending: PM advisor Giant project to connect Turkey's electricity to Iraq complete: Ministry Baghdad wheat policy discriminatory toward Kurdistan Region farmers: Ministry Kurdistan Region",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f59f75c29c15c47b",
+    "url": "https://www.rudaw.net/sorani/kurdistan/140520261",
+    "title": "بڕیارێکی وەزارەتی ناوخۆ لە بەرژەوەندیی کۆمپانیاکانی هاوردەکردنی ئۆتۆمبێل و ماتۆڕسکیل",
+    "title_en": "بڕیارێکی وەزارەتی ناوخۆ لە بەرژەوەندیی کۆمپانیاکانی هاوردەکردنی ئۆتۆمبێل و ماتۆڕسکیل",
+    "summary": "رووداو دیجیتاڵ @Rudawkurdish به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان ئەڵڵاکەرەم؛ ئەو کاکەییەی لێدانێکی عەجاج کردیە یەکەم شەهیدی هەڵەبجەییە ئەنفالکراوەکان دادوەر ئاسۆ محەممەد بۆ رووداو: دادوەرانی کورد لە دادگە باڵاکانی بەغدا نەماون بە درۆن هێرشکرایە سەر کەمپی جێژنیکان لە هەولێر هێمن هەورامی: تەنیا 5%ـی رێککەوتنەکەمان لەگەڵ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
