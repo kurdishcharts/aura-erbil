@@ -1,5 +1,59 @@
 [
   {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:46:59.616826+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "93557aeaba48d8a9",
+    "url": "https://www.rudaw.net/english/middleeast/150520262",
+    "title": "CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise",
+    "title_en": "CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise",
+    "summary": "ERBIL, Kurdistan Region - US forces have redirected 72 vessels to and from Iranian ports through the Strait of Hormuz, US Central Command (CENTCOM) reported on Friday, adding that four others have been “disabled” since the onset of maritime restrictions on Iran in mid-April. “Since the start of the blockade, CENTCOM forces have redirected 72 commercial ships and disabled four,” the Command said in a post on X. The statement comes amid heightened regional tensions following a wide-scale US-Israeli aerial campaign against Iran launched on February 28, which reportedly struck more than 17,000 sites over six weeks of hostilities. A Pakistan-mediated ceasefire was reached on April 8. CENTCOM Commander Brad Cooper, testifying before the US Senate Armed Services Committee on Thursday, said that “in just the last 30 months prior to the commencement of [Operation] Epic Fury [against Iran], Iranian-supported terror groups have attacked U.S. troops and diplomats more than 350 times - the equivalent of an attack more than every third day, killing four U.S. service members and wounding nearly 200 more.” “U.S. Central Command was created in direct response to the threats posed by the Islamic Republic of Iran, and I am the 16th CENTCOM commander to deal with the Iranian problem set,” Cooper added, saying that “for 47 years, the Iranian regime has terrorized the region and made hostility to the United States a core tenet of its rule.” The Islamabad-brokered truce temporarily halted fighting and opened the door to negotiations, though the first round of talks ended without a final agreement on April 11. A second round has yet to take place, and a comprehensive resolution remains elusive. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Amid the maritime escalation, US President Donald Tr",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:46:40.998730+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:46:30.846157+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "5c701dc4a0a65fb9",
     "url": "https://www.rudaw.net/english/kurdistan/300420241",
     "title": "Shaqlawa sets the stage for a grandiose touristic season",
@@ -10,11 +64,209 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-15T14:17:19.510513+00:00",
+    "timestamp": "2026-05-15T14:46:12.094698+00:00",
     "location": {
       "name": "Shaqlawa",
       "lat": 36.5485,
       "lng": 44.3397
+    }
+  },
+  {
+    "id": "39f4ea42ca82fa4c",
+    "url": "https://www.rudaw.net/english/middleeast/15052026",
+    "title": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
+    "title_en": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
+    "summary": "ERBIL, Kurdistan Region - China on Friday said the Iran war “should never have happened” and has inflicted serious losses on people across the region as well as on the global economy, urging dialogue instead of “a military solution” and stressing the need to achieve a “comprehensive and lasting ceasefire,” according to a statement from Beijing’s foreign ministry. “This conflict, which should never have happened, has no reason to continue,” the ministry said, adding that the war “has caused serious losses to the people of countries in the region, including Iran.” Beijing warned that the spillover effects of the conflict “continue to expand, severely impacting global economic development, the smooth operation of supply chains, international trade order, and the stability of global energy supply,” thereby harming “the common interests of the international community.” “Finding a solution as soon as possible is beneficial to both the US and Iran, as well as to countries in the region and the world as a whole,” the statement added. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking thousands of targets across the country over six weeks of hostilities before the warring sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. China on Friday reaffirmed its support for the US-Iran ceasefire, stressing that “dialogue and negotiation are the right path, and that a military solution is not the way out.” “Now that the door to dialogue has been opened, it should not be closed again,” the Chinese foreign ministry said, calling for efforts to “stabilize the momentum of easing tensions” and maintain “the general direction of a political solution.” It added that a resolution addressing “",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:45:55.031963+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42dd73728b641fa3",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
+    "title": "Iraqi police cracks down on crime in Baghdad",
+    "title_en": "Iraqi police cracks down on crime in Baghdad",
+    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:45:45.139014+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a976555c68da2d5",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
+    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:43:46.371153+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ce099dc5cca11c6",
+    "url": "https://www.rudaw.net/sorani/business/150520261",
+    "title": "مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن",
+    "title_en": "مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوت بەرزبووەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:43:35.038364+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "34dbcbe2ffb3e06b",
+    "url": "https://www.rudaw.net/sorani/opinion/150520261",
+    "title": "کۆتایی عەجاج",
+    "title_en": "کۆتایی عەجاج",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئاسایش بە دیلیڤەری فەراهەم نایەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:43:24.990445+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6cd12a4dbffbf2b3",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1505202610",
+    "title": "لە سنووری قەزای دووکان کوڕ و باوکێک بە هەورەبرووسکە گیانیان لەدەستدا",
+    "title_en": "لە سنووری قەزای دووکان کوڕ و باوکێک بە هەورەبرووسکە گیانیان لەدەستدا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:43:07.058113+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ پێنجشەممە، نرخی زێڕ لە بازنەیەکی سنوورداردا مامەڵەی پێوەدەکرێت و نزیکەی 10 دۆلاری دیکە لە هەر ئۆنسەیەکدا دابەزی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:42:56.595509+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb6cb38d87964efd",
+    "url": "https://www.rudaw.net/sorani/sports/010420267",
+    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دەبێت لامین لە خۆی بپرسێت ئایا ئەمە کارێکی مرۆییە؟ ئایا ئەمە ئەخلاقییە؟",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:42:45.890002+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c60bcf9214db330a",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
+    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:42:33.331294+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cdb7b809b8d4cc7",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520265",
+    "title": "چۆن سزای سێدارە بەسەر عەجاج تکریتی دا جێبەجێ دەکرێت؛ قۆناخەکانی دوای بڕیارەکە چین؟",
+    "title_en": "چۆن سزای سێدارە بەسەر عەجاج تکریتی دا جێبەجێ دەکرێت؛ قۆناخەکانی دوای بڕیارەکە چین؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فراکسیۆنی حقووق لە پەرلەمانى عێراق کە باڵی سیاسیی کەتیبەکانی حیزبوڵایە، بڕیاریدا لە ببێتە ئۆپۆزسیۆن و رەخنە لە شێوازی پێکهێنانی حکومەتی ئێستا دەگرێت بەوەی \"چەند عورفێکی داناوە کە مەترسییە بۆ سەر پڕۆسەی سیاسی\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:42:22.638139+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7684c6328d76932d",
+    "url": "https://www.rudaw.net/sorani/culture/14052026",
+    "title": "جەلادەت بەدرخان، ژێنەرەوەی ئەلفابێی کوردی؛ \"کوردبوون بەبێ زمان شانازی نییە\"",
+    "title_en": "جەلادەت بەدرخان، ژێنەرەوەی ئەلفابێی کوردی؛ \"کوردبوون بەبێ زمان شانازی نییە\"",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە کاتی بەڕێوەچوونی رێوڕەسمی ناساندنی بەربژێرەکانی شاجوانی تایلاند، کامۆلوان چاناگۆ کە نوێنەرایەتی ویلایەتی پیچیتی دەکرد، تووشی رووداوێکی دەگمەن بوو.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T14:42:11.828357+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -24,7 +276,7 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -42,7 +294,7 @@
     "title_en": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Friday congratulated Iraqi Prime Minister Ali al-Zaidi on assuming office, reaffirming the Kurdistan Region’s readiness to cooperate with the new federal cabinet within the framework of the constitution to resolve “all outstanding issues” between Erbil and Baghdad. “I extend my warmest congratulations to my dear brother Mr. Ali Falih al-Zaidi, Prime Minister of the Federal Republic of Iraq, on gaining the confidence of the Iraqi Council of Representatives and on the commencement of his cabinet’s duties,” President Barzani said in a statement from the Kurdistan Region Presidency. The Kurdish leader wished Zaidi and his cabinet “every success in carrying out their significant responsibilities,” expressing hope that the new government would “mark the beginning of a new phase of stability and progress for all of Iraq.” Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. Lawmakers on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. President Barzani also reaffirmed the Kurdistan Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” He added that “Iraq is a wealthy country with great potential, and Iraqis of all components deserve a dignified life, better services, and lasting security and stability,” expressing confidence that through the efforts of all parties, “We can move toward a better future and confront all challenges and",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -60,7 +312,7 @@
     "title_en": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
     "summary": "ERBIL, Kurdistan Region - A senior official from the Kurdish-led administration of northeast Syria (Rojava) has reaffirmed the community’s call for recognition of the Kurdish mother tongue to be enshrined in the Syrian constitution, despite a recent presidential move elevating it to a “national language” that left Kurdish officials wary that the decision could be reversible. Elham Ahmed, co-chair of the foreign relations office at the Democratic Autonomous Administration of North and East Syria (DAANES), said: “We want to continue our efforts until our [language] rights are guaranteed in the [Syrian] constitution. We must pursue such a struggle for constitutional recognition of the Kurdish language.” She further noted that “in Rojava, education is provided in Kurdish,” adding that maintaining “education in the Kurdish language is a fundamental priority for us and an essential part of our struggle.” Authorities in Rojava have since 2012 implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29 that established a permanent and comprehensive ceasefire and called for the integration of Rojava’s civil and military institutions under Syrian state control. The two sides have since been holding talks to implement the deal, with education emerging as a central issue in the negotiations. The Syrian government has so far agreed to recognize the legal status of all diplomas and certificates issued by schools and institutes run by the DAANES as these are being brought into the national accreditation framework. Regarding Kurdish curriculum and language rights, Syrian interim President Ahmed al-Sharaa in January issued Presidential Decree 13, elevating Kurdish to a “national language,” while maintaining Arabic as the sole official language of Syria. While the latter mov",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -204,7 +456,7 @@
     "title_en": "شوێنەوارەکانی کفری دەڕوخێندرێن؟ قایمقام روونکردەوە دەدات",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -231,24 +483,6 @@
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T13:47:16.640239+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
     }
   },
   {
@@ -486,24 +720,6 @@
     }
   },
   {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T12:46:25.050757+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "1a7b813fcab18afc",
     "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
     "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
@@ -515,24 +731,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T12:46:09.750457+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "93557aeaba48d8a9",
-    "url": "https://www.rudaw.net/english/middleeast/150520262",
-    "title": "CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise",
-    "title_en": "CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise",
-    "summary": "ERBIL, Kurdistan Region - US forces have redirected 72 vessels to and from Iranian ports through the Strait of Hormuz, US Central Command (CENTCOM) reported on Friday, adding that four others have been “disabled” since the onset of maritime restrictions on Iran in mid-April. “Since the start of the blockade, CENTCOM forces have redirected 72 commercial ships and disabled four,” the Command said in a post on X. The statement comes amid heightened regional tensions following a wide-scale US-Israeli aerial campaign against Iran launched on February 28, which reportedly struck more than 17,000 sites over six weeks of hostilities. A Pakistan-mediated ceasefire was reached on April 8. CENTCOM Commander Brad Cooper, testifying before the US Senate Armed Services Committee on Thursday, said that “in just the last 30 months prior to the commencement of [Operation] Epic Fury [against Iran], Iranian-supported terror groups have attacked U.S. troops and diplomats more than 350 times - the equivalent of an attack more than every third day, killing four U.S. service members and wounding nearly 200 more.” “U.S. Central Command was created in direct response to the threats posed by the Islamic Republic of Iran, and I am the 16th CENTCOM commander to deal with the Iranian problem set,” Cooper added, saying that “for 47 years, the Iranian regime has terrorized the region and made hostility to the United States a core tenet of its rule.” The Islamabad-brokered truce temporarily halted fighting and opened the door to negotiations, though the first round of talks ended without a final agreement on April 11. A second round has yet to take place, and a comprehensive resolution remains elusive. In parallel with the diplomatic efforts, Iran and the US have engaged in tit-for-tat maritime measures. Tehran has tightened its grip on shipping in the Strait of Hormuz, while Washington initiated a maritime blockade on Iranian ports on April 13. Amid the maritime escalation, US President Donald Tr",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T12:45:58.990591+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -605,60 +803,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T12:43:07.691398+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2a976555c68da2d5",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
-    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T12:42:25.912086+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ پێنجشەممە، نرخی زێڕ لە بازنەیەکی سنوورداردا مامەڵەی پێوەدەکرێت و نزیکەی 10 دۆلاری دیکە لە هەر ئۆنسەیەکدا دابەزی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T12:42:14.940131+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42dd73728b641fa3",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
-    "title": "Iraqi police cracks down on crime in Baghdad",
-    "title_en": "Iraqi police cracks down on crime in Baghdad",
-    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T12:16:11.700645+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -857,42 +1001,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T11:44:31.798203+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cb6cb38d87964efd",
-    "url": "https://www.rudaw.net/sorani/sports/010420267",
-    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T11:44:04.605713+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c60bcf9214db330a",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
-    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T11:43:53.600406+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1325,24 +1433,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T07:44:40.960267+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "39f4ea42ca82fa4c",
-    "url": "https://www.rudaw.net/english/middleeast/15052026",
-    "title": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
-    "title_en": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
-    "summary": "ERBIL, Kurdistan Region - China on Friday said the Iran war “should never have happened” and has inflicted serious losses on people across the region as well as on the global economy, urging dialogue instead of “a military solution” and stressing the need to achieve a “comprehensive and lasting ceasefire,” according to a statement from Beijing’s foreign ministry. “This conflict, which should never have happened, has no reason to continue,” the ministry said, adding that the war “has caused serious losses to the people of countries in the region, including Iran.” Beijing warned that the spillover effects of the conflict “continue to expand, severely impacting global economic development, the smooth operation of supply chains, international trade order, and the stability of global energy supply,” thereby harming “the common interests of the international community.” “Finding a solution as soon as possible is beneficial to both the US and Iran, as well as to countries in the region and the world as a whole,” the statement added. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking thousands of targets across the country over six weeks of hostilities before the warring sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. China on Friday reaffirmed its support for the US-Iran ceasefire, stressing that “dialogue and negotiation are the right path, and that a military solution is not the way out.” “Now that the door to dialogue has been opened, it should not be closed again,” the Chinese foreign ministry said, calling for efforts to “stabilize the momentum of easing tensions” and maintain “the general direction of a political solution.” It added that a resolution addressing “",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T07:17:53.909583+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -8255,24 +8345,6 @@
     }
   },
   {
-    "id": "1ce099dc5cca11c6",
-    "url": "https://www.rudaw.net/sorani/business/150520261",
-    "title": "مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن",
-    "title_en": "مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن",
-    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری وێنەی وەزیری نوێی دارایی عێراق زۆرتر لە ئابووری چین و ئەمریکا 'بۆردێکی بازرگانی' دروست دەکەن؛ شەڕی ئابووری زیانی ملیارەها دۆلاری داوە دوای تەیف سامی دوو فەرمانگەی دیکەی عێراق سکاڵایان لە دژی هەرێمی کوردستان تۆمار کرد پووختەی قازانجی دانا گاز لەچارەکی یەکەمی 2026 دا 74 ملیۆن دۆلار بووە یەک ئۆنسە ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "3179432fdedf0939",
     "url": "https://www.rudaw.net/sorani/middleeast/turkey/150520261",
     "title": "بودجەی تورکیا لە مانگی نیسان دا زیاتر لە 7 ملیار دۆلار کورتیهێناوە",
@@ -8296,42 +8368,6 @@
     "title": "دوو فراکسیۆن لە هاوپەیمانێتییەکەی سوودانی کشانەوە",
     "title_en": "دوو فراکسیۆن لە هاوپەیمانێتییەکەی سوودانی کشانەوە",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق دوو فراکسیۆنەکە بەهۆی 'پەراوێزخستن' لە هاوپەیمانێتییەکە کشاونەتەوە زۆرتر لە عێراق وەزیرە 38 ساڵانەکەی عێراق رووبەڕووی قەیرانێکى 23 ساڵی دەبێتەوە کاردانەوەی دەوڵەتی یاسا دواى رەتکردنەوەی بەربژێرەکانیان: سەرکەوتنی راستەقینەمان بە ژمارەی پۆستەکان نییە یەکەم لێدوانی وەزیری دارایی عێراق دوای متمانە پێد",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "6cd12a4dbffbf2b3",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1505202610",
-    "title": "لە سنووری قەزای دووکان کوڕ و باوکێک بە هەورەبرووسکە گیانیان لەدەستدا",
-    "title_en": "لە سنووری قەزای دووکان کوڕ و باوکێک بە هەورەبرووسکە گیانیان لەدەستدا",
-    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان لە شەش پارێزگای باکووری کوردستان بارانی بەخوڕ دەبارێت شوێنەوارەکانی کفری دەڕوخێندرێن؟ قایمقام روونکردەوە دەدات نێچیرڤان بارزانی بۆ عەلی زەیدی: ئامادەی کارکردنی هاوبەشین لەسەر بنەمای دەستوور لە وان سمپۆزیۆمێکی نێودەوڵەتی بۆ مەلای باتەیی و میراتە ئەدەبییەکەی سازکرا A+ A- رووداو دیجیتا",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0cdb7b809b8d4cc7",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520265",
-    "title": "چۆن سزای سێدارە بەسەر عەجاج تکریتی دا جێبەجێ دەکرێت؛ قۆناخەکانی دوای بڕیارەکە چین؟",
-    "title_en": "چۆن سزای سێدارە بەسەر عەجاج تکریتی دا جێبەجێ دەکرێت؛ قۆناخەکانی دوای بڕیارەکە چین؟",
-    "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق وێنەیەکی عەجاج لەدوای دەستگیرکردنی زۆرتر لە عێراق دوو فراکسیۆن لە هاوپەیمانێتییەکەی سوودانی کشانەوە وەزیرە 38 ساڵانەکەی عێراق رووبەڕووی قەیرانێکى 23 ساڵی دەبێتەوە کاردانەوەی دەوڵەتی یاسا دواى رەتکردنەوەی بەربژێرەکانیان: سەرکەوتنی راستەقینەمان بە ژمارەی پۆستەکان نییە یەکەم لێدوانی وەزیری دارایی ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
