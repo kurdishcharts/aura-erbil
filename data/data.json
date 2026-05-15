@@ -1,5 +1,59 @@
 [
   {
+    "id": "1a7b813fcab18afc",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
+    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:16:17.744135+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:16:06.472226+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b15e7e7df3b6e780",
+    "url": "https://www.rudaw.net/english/middleeast/14052026",
+    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:15:30.965995+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "0a0e1718c53830fe",
     "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
     "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
@@ -10,7 +64,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-15T04:48:09.810177+00:00",
+    "timestamp": "2026-05-15T05:15:21.940813+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +82,97 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-15T04:47:51.066349+00:00",
+    "timestamp": "2026-05-15T05:15:10.321320+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b60cfbce9fe29991",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520264",
+    "title": "Nechirvan Barzani attends parliamentary vote for incoming Iraqi government",
+    "title_en": "Nechirvan Barzani attends parliamentary vote for incoming Iraqi government",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:14:59.437242+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c841f2229ca3835",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1405202620",
+    "title": "خۆپێشاندانی رۆژئاوای کوردستان بۆ زمانی کوردی بەردەوامە؛ \"زمانی دایکمان لە کەس نەدزیوە\"",
+    "title_en": "خۆپێشاندانی رۆژئاوای کوردستان بۆ زمانی کوردی بەردەوامە؛ \"زمانی دایکمان لە کەس نەدزیوە\"",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای نزیکەی دوو هەفتە لە گەڕان، تەرمی سێیەمی رووداوەکەی گەلی عەلی بەگ دۆزرایەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:13:07.656874+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:12:57.197628+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:12:39.816452+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "866e5ee886a3ed4d",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T05:12:16.472231+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -154,18 +298,9 @@
     "title_en": "A member of the legal state for the event: The presidency of our parliament and the party has a goal",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێردەی تایبەتی ئەمریکا بۆ سووریا، پیرۆزبایی لە عەلی زەیدی، سەرۆکوەزیرانی نوێی عێراق کرد بەبۆنەی بەدەستهێنانی متمانەی ئەنجوومەنی نوێنەران و پەسندکردنی کابینەی حکومەتەکەی؛ ئاماژە بەوەش دەکات کە واشنتن گەشبینە بەم سەرکردایەتییە نوێیە.",
     "source": "rudaw-sorani",
-    "category": "politics",
+    "category": "general",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Ali Zaydi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T04:44:51.568742+00:00",
     "location": {
@@ -376,59 +511,6 @@
     }
   },
   {
-    "id": "b15e7e7df3b6e780",
-    "url": "https://www.rudaw.net/english/middleeast/14052026",
-    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:15:03.265301+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b60cfbce9fe29991",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520264",
-    "title": "Nechirvan Barzani attends parliamentary vote for incoming Iraqi government",
-    "title_en": "Nechirvan Barzani attends parliamentary vote for incoming Iraqi government",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Nechirvan Barzani",
-        "type": "PERSON"
-      },
-      {
-        "name": "Ali al-Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:14:52.967595+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "1d58229b064bc086",
     "url": "https://www.rudaw.net/english/middleeast/140520261",
     "title": "Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’",
@@ -512,24 +594,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T04:12:07.450507+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:11:57.999175+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -753,42 +817,6 @@
     }
   },
   {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:16:16.113530+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1a7b813fcab18afc",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
-    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:15:44.923444+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "fd08671f5d885795",
     "url": "https://www.rudaw.net/english/kurdistan/14052026",
     "title": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
@@ -884,22 +912,9 @@
     "title_en": "Newly appointed Iraqi PM vows to ‘monopolize weapons’ in state hands",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-sorani",
-    "category": "politics",
+    "category": "security",
     "sentiment": "neutral",
-    "entities": [
-      {
-        "name": "Ali al-Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Iraq",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Nechirvan Barzani",
-        "type": "PERSON"
-      }
-    ],
+    "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T02:45:15.184933+00:00",
     "location": {
@@ -920,24 +935,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T02:42:59.705762+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "866e5ee886a3ed4d",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:42:49.005911+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1010,24 +1007,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T02:14:50.201660+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1c841f2229ca3835",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1405202620",
-    "title": "خۆپێشاندانی رۆژئاوای کوردستان بۆ زمانی کوردی بەردەوامە؛ \"زمانی دایکمان لە کەس نەدزیوە\"",
-    "title_en": "خۆپێشاندانی رۆژئاوای کوردستان بۆ زمانی کوردی بەردەوامە؛ \"زمانی دایکمان لە کەس نەدزیوە\"",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای نزیکەی دوو هەفتە لە گەڕان، تەرمی سێیەمی رووداوەکەی گەلی عەلی بەگ دۆزرایەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:12:39.236730+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1118,24 +1097,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T01:41:58.982493+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T01:41:48.626410+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
