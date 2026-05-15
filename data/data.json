@@ -1,5 +1,314 @@
 [
   {
+    "id": "0a0e1718c53830fe",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
+    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:48:09.810177+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:47:51.066349+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Zakho",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:47:22.762075+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "60a129c808d53f77",
+    "url": "https://www.rudaw.net/english/kurdistan/160920242",
+    "title": "Foreign missions praise free, objective press at Rudaw election event",
+    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Rudaw",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:47:05.533390+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "99803a750c50ad7a",
+    "url": "https://www.rudaw.net/english/world/01052024",
+    "title": "Germany deports Kurdish family with health issues to Iraq",
+    "title_en": "Germany deports Kurdish family with health issues to Iraq",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "health",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdish family",
+        "type": "PERSON"
+      },
+      {
+        "name": "Germany",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:46:54.659414+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e83a2f2b36c1e7a",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
+    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "title_en": "Security and Main Political Discussions of the President of the Kurdistan Region in Baghdad",
+    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Ali Falih Zaydi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:45:02.251965+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bbac2d3be813c59f",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202612",
+    "title": "ئەندامێکی دەوڵەتی یاسا بۆ رووداو: سەرۆکایەتیی پەرلەمان ئێمە و پارتی بەئامانج گرت",
+    "title_en": "A member of the legal state for the event: The presidency of our parliament and the party has a goal",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێردەی تایبەتی ئەمریکا بۆ سووریا، پیرۆزبایی لە عەلی زەیدی، سەرۆکوەزیرانی نوێی عێراق کرد بەبۆنەی بەدەستهێنانی متمانەی ئەنجوومەنی نوێنەران و پەسندکردنی کابینەی حکومەتەکەی؛ ئاماژە بەوەش دەکات کە واشنتن گەشبینە بەم سەرکردایەتییە نوێیە.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Ali Zaydi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:44:51.568742+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d21d14eff5cc9a93",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202619",
+    "title": "باڵی سیاسیی کەتیبەکانى حیزبوڵا لە پەرلەمانى عێراق بووە ئۆپۆزسیۆن",
+    "title_en": "Political Balancing of Hezbollah's Representatives in the Iraqi Parliament",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان پیرۆزبایی لە عەلی فالح زەیدی دەکات بەبۆنەی وەرگرتنی متمانە وەکو سەرۆکوەزیرانی نوێی عێراق و هیوادارە قۆناخێکی نوێی سەقامگیری و چارەسەرکردنی کێشەکان دەستپێبکات.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Hezbollah",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Masrour Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ali Falih Zaydi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:44:40.942943+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "Green Gem",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:44:13.697143+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b883a199b5c4f69",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202616",
+    "title": "کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕەبۆکسی نێو هۆڵی پەرلەماندا",
+    "title_en": "Zaydi's cabinet amid dissatisfaction of some factions and parliamentary boxing",
+    "summary": "      وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان پیرۆزبایی لە عەلی فالح زەیدی دەکات بەبۆنەی وەرگرتنی متمانە وەکو سەرۆکوەزیرانی نوێی عێراق و هیوادارە قۆناخێکی نوێی سەقامگیری و چارەسەرکردنی کێشەکان دەستپێبکات.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Masrour Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ali Falih Zaydi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:43:56.277681+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec9c1b9336e27a24",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
+    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "title_en": "The Ministry of Higher Education calls for a special internet offer for online learning",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
+    "source": "rudaw-sorani",
+    "category": "education",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ministry of Higher Education",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:43:45.849392+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "715711870088d9cb",
+    "url": "https://www.rudaw.net/sorani/world/190620241",
+    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "title_en": "United Nations: People and our borders are affected by the consequences of the war",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ رۆژی پێنجشەممە، سەرۆکی فیدراسیۆنی تۆپی پێی ئێران رایگەیاند، تاوەکو ئێستا هیچ ڤیزەیەک بە هەڵبژاردەی نیشتمانیی وڵاتەکەیان نەدراوە بۆ ئەوەی گەشت بکەن بۆ ئەمریکا و بەشداری لە جامی جیهانیی 2026ـدا بکەن.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "United Nations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-15T04:43:34.453419+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "5b099a6845e9a270",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
     "title": "BP resumes operations in Kirkuk after war-related suspension",
@@ -18,33 +327,28 @@
     }
   },
   {
-    "id": "0a0e1718c53830fe",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
-    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:15:36.119274+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2bbb273d07ec3e97",
     "url": "https://www.rudaw.net/english/middleeast/iraq/140520265",
     "title": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
     "title_en": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
     "summary": "ERBIL, Kurdistan Region - The Iraqi parliament on Thursday voted Ali al-Zaidi in as the next prime minister, approving his government program and 14 members of his cabinet. Votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. \"I extend my sincere thanks and gratitude to the Council of Representatives and the national political forces for granting their confidence to the government,” Zaidi said in a statement after taking the oath of office, adding that the move was a “stance that embodies the primacy of the national interest and the spirit of partnership and responsibility.” He further noted that this confidence represents a “great trust and a pledge before our beloved people that we shall move forward with steadfastness toward consolidating stability, enhancing the prestige of the state, and achieving the aspirations of Iraqis for development, justice, and a dignified life.\" In the 329-seat Iraqi legislature, 266 lawmakers were present to deliver the vote of confidence. Except for three Kurdish opposition parties totaling 10 seats and a Shiite party with eight seats, all other Shiite, Sunni, and Kurdish blocs attended the session. Approved and rejected ministries Zaidi did not submit the names of the ministers of defense, immigration, labor, culture, and agriculture, according to a document obtained by Rudaw before the session. Their vote was deferred to the beginning of June. He arrived at the parliament premises with 19 ministerial candidates, including 10 from Shiite factions, four from Sunni groups, and four from Kurdish parties. Out of the candidates affiliated with the Shiite parties, seven were approved, and three were rejected. Both appointees put forward by the State of Law Coalition- led by former premier Nouri al-Maliki - for the ministries of interior and higher education failed to secure enough votes from lawmakers. Ali al-Zarjawi, a State of Law Coalition lawmaker, told Rudaw that they we",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T04:15:26.150925+00:00",
     "location": {
@@ -78,7 +382,7 @@
     "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
     "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "traffic",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -96,9 +400,26 @@
     "title_en": "Nechirvan Barzani attends parliamentary vote for incoming Iraqi government",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T04:14:52.967595+00:00",
     "location": {
@@ -324,42 +645,6 @@
     }
   },
   {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:45:31.765360+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "99803a750c50ad7a",
-    "url": "https://www.rudaw.net/english/world/01052024",
-    "title": "Germany deports Kurdish family with health issues to Iraq",
-    "title_en": "Germany deports Kurdish family with health issues to Iraq",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:45:21.331252+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
@@ -389,24 +674,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T03:43:05.202507+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "d21d14eff5cc9a93",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202619",
-    "title": "باڵی سیاسیی کەتیبەکانى حیزبوڵا لە پەرلەمانى عێراق بووە ئۆپۆزسیۆن",
-    "title_en": "باڵی سیاسیی کەتیبەکانى حیزبوڵا لە پەرلەمانى عێراق بووە ئۆپۆزسیۆن",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان پیرۆزبایی لە عەلی فالح زەیدی دەکات بەبۆنەی وەرگرتنی متمانە وەکو سەرۆکوەزیرانی نوێی عێراق و هیوادارە قۆناخێکی نوێی سەقامگیری و چارەسەرکردنی کێشەکان دەستپێبکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:42:54.595459+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -582,9 +849,26 @@
     "title_en": "Kurdish leaders congratulate Zaidi on his PM appointment",
     "summary": "ERBIL, Kurdistan Region - Leaders and officials from the Kurdistan Region congratulated Ali al-Zaidi for his appointment as the new Iraqi prime minister. Kurdistan Region President Nechirvan Barzani congratulated Ali al-Zaidi for his appointment as the new Iraqi prime minister, wishing him and his cabinet \"every success in performing their duties and responsibilities in a manner that serves all Iraqis of all backgrounds\" while fulfilling their aspirations of \"further security, stability, progress, and prosperity.\" Kurdistan Region Prime Minister Masrour Barzani congratulated Ali al-Zaidi on his appointment as Iraq’s premier, expressing hope that it would mark “the beginning of a new phase of stability and peace in Iraq, the resolution of all issues, the implementation of the Constitution, and improved relations between the Kurdistan Region and the federal government.” Meanwhile, Bafel Talabani, leader of the Patriotic Union of Kurdistan (PUK), said his party is “eager to support in ensuring the government’s national and service projects, as well as in unifying all efforts to overcome challenges and resolve outstanding issues.” In the 329-seat Iraqi legislature, 266 lawmakers were present to deliver the vote of confidence. Except for three Kurdish opposition parties totaling 10 seats and a Shiite party with eight seats, all other Shiite, Sunni, and Kurdish blocs attended the session. Kurdish opposition parties - the National Stance Movement (Halwest), the Islamic Union of Kurdistan (KIU), and the Kurdistan Justice Group (Komal) - didn’t attend, saying talks are ongoing over a joint ministerial post and a memorandum submitted to Zaidi concerning demands related to the Kurdistan Region. During a press conference before the confidence vote session, Muthana Amin from the KIU said that “Zaidi’s government agenda has not addressed the root problems with the Kurdistan Region.” Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to t",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Masrour Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T02:45:51.121839+00:00",
     "location": {
@@ -600,9 +884,22 @@
     "title_en": "Newly appointed Iraqi PM vows to ‘monopolize weapons’ in state hands",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "politics",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T02:45:15.184933+00:00",
     "location": {
@@ -648,42 +945,6 @@
     }
   },
   {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:42:31.144618+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8b883a199b5c4f69",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202616",
-    "title": "کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕەبۆکسی نێو هۆڵی پەرلەماندا",
-    "title_en": "کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕەبۆکسی نێو هۆڵی پەرلەماندا",
-    "summary": "      وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان پیرۆزبایی لە عەلی فالح زەیدی دەکات بەبۆنەی وەرگرتنی متمانە وەکو سەرۆکوەزیرانی نوێی عێراق و هیوادارە قۆناخێکی نوێی سەقامگیری و چارەسەرکردنی کێشەکان دەستپێبکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:42:20.348068+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "e68cbad24483b768",
     "url": "https://www.rudaw.net/sorani/world/140520266",
     "title": "ترەمپ: چین رەزامەندی نیشانداوە 200 فڕۆکەی \"بۆینگ\" بکڕێت",
@@ -717,24 +978,6 @@
       "name": "Shaqlawa",
       "lat": 36.5485,
       "lng": 44.3397
-    }
-  },
-  {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:15:26.857269+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
     }
   },
   {
@@ -810,24 +1053,6 @@
     }
   },
   {
-    "id": "4e83a2f2b36c1e7a",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
-    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T02:11:56.254035+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "50f979cf686e4d23",
     "url": "https://www.rudaw.net/sorani/world/140520267",
     "title": "بەهۆی درۆنە ئۆکراینییەکانەوە، سەرۆکوەزیرانی لاتڤیا دەستی لەکار کێشایەوە",
@@ -857,24 +1082,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T01:46:14.529496+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "60a129c808d53f77",
-    "url": "https://www.rudaw.net/english/kurdistan/160920242",
-    "title": "Foreign missions praise free, objective press at Rudaw election event",
-    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T01:46:04.568287+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -942,29 +1149,32 @@
     "title_en": "Dana Gas reports $74m profit in Q1 2026 driven by Kurdistan gain",
     "summary": "ERBIL, Kurdistan Region - The UAE-based Dana Gas on Thursday reported a sharp rise in profits for the first four months of 2026 of around $74 million, mainly due to a one-time financial adjustment linked to gas operations in the Kurdistan Region. Dana Gas and its partner Crescent Petroleum are major stakeholders in Pearl Petroleum, the consortium operating the Khor Mor gas field and the Chamchamal field in the Region’s eastern Sulaimani province. The firm said its net profit for the first quarter reached $74 million, up 72 percent compared to the same period last year. The increase was largely driven by a one-time $48 million gain related to gas metering adjustments in the Kurdistan Region, though this was partly offset by a $6 million one-time drilling expense in Egypt. The company added its “underlying” profit, which excludes one-off gains and losses, stood at $26 million. This was affected by higher operating costs following the completion of the Khor Mor KM250 expansion project and a temporary production disruption in March. Dana Gas noted however, that the latter impacts are expected to be temporary as production capacity increases, with total revenue in the first three months of 2026 reaching $145 million and marking a 59 percent increase year-on-year. The company also said its operations in the Kurdistan Region achieved important milestones after completing the KM250 expansion project and that the system has now shown it can handle higher gas production. Gas production briefly rose above 700 million cubic feet per day in January, increasing output by about 15,000 barrels of oil equivalent per day. This lifted total production across all operations to around 70,000 barrels per day - the highest level since 2018. On average, production in the Kurdistan Region stood at about 40,100 barrels per day, though it dipped slightly in March due to temporary limits at the Khor Mor field. The report also noted that operations at the Khor Mor field were temporarily suspend",
     "source": "rudaw-english",
-    "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Dana Gas",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Crescent Petroleum",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Khor Mor gas field",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Chamchamal",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T01:15:01.095151+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "715711870088d9cb",
-    "url": "https://www.rudaw.net/sorani/world/190620241",
-    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ رۆژی پێنجشەممە، سەرۆکی فیدراسیۆنی تۆپی پێی ئێران رایگەیاند، تاوەکو ئێستا هیچ ڤیزەیەک بە هەڵبژاردەی نیشتمانیی وڵاتەکەیان نەدراوە بۆ ئەوەی گەشت بکەن بۆ ئەمریکا و بەشداری لە جامی جیهانیی 2026ـدا بکەن.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T01:12:00.034189+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -978,9 +1188,22 @@
     "title_en": "Iraqi court issues death sentence for ‘executioner’ over atrocities against Kurds",
     "summary": "ERBIL, Kurdistan Region - In a historic step toward justice, a Baghdad court on Thursday handed down the maximum penalty to notorious Ba’ath-era prison chief Ajaj Ahmed Hardan, widely known as the \"Nugra Salman executioner,\" over atrocities he committed against Kurds during the late 1980s, Rudaw correspondent in Baghdad reported. “Ajaj, the Nugra Salman executioner, has been sentenced to death by hanging,” said Halkawt Aziz, reporting for Rudaw from outside the Rusafa Court of Appeal, noting that survivors and relatives of the victims celebrated with traditional Kurdish ululations and expressed their gratitude to the court. One of the witnesses present at the court hearing told Rudaw,“Today is a historic day for the families of the Anfal victims and for all Kurds, as the death sentence has been issued for the Nugra Salman killer.” “Congratulations to all the honorable families of the Anfal victims and all the martyrs, congratulations to all the people of Kurdistan and the survivors of the Nugra Salman prison,” said another witness, adding that the sentence Ajaj received is “what we, the families of the Anfal victims, were all waiting for.” “Today is a historic day!” Dilam Latif, a Kurdish lawyer present at the court, told Rudaw, “Today was a very long and exhausting court session,” noting that Ajaj did not admit to his crimes. “He kept saying, ‘I did not commit those crimes,’ but his atrocities were so egregious and well substantiated that it was clear his crimes against the people of Kurdistan required a just punishment,” Latif said. The lawyer further affirmed that the sentence ruled against Ajaj \"does not allow for exemptions based on age or other such factors. Once the appeal period for the verdict ends, the sentence will be carried out.\" Another lawyer who attended today’s session, Salam Bakhtiyar, told Rudaw that today’s decision is a victory not only for the relatives of Anfal victims but for all Kurdish people “who have long been seeking justice.” Iraqi offi",
     "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ajaj Ahmed Hardan",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nugra Salman",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurds",
+        "type": "PERSON"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T00:45:54.716289+00:00",
     "location": {
@@ -1050,9 +1273,26 @@
     "title_en": "Peshmerga unification not proceeding as required: President Barzani",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Thursday said that efforts to unify the Peshmerga forces are falling short of expectations, despite recent progress toward bringing all units under a single command structure. Speaking at the 30th graduation ceremony of the Zakho Military College in the Region’s northern Duhok province, President Barzani congratulated the graduates and stressed that unifying the Peshmerga remains a strategic priority. “The unification of the Peshmerga forces is not proceeding as required,” the Kurdish President said, adding that “the reunification of the Peshmerga forces is a crucial necessity and must succeed.” Kurdistan Region President Nechirvan Barzani on Thursday attended a graduation ceremony at the Zakho Military College, where cadets recited the Kurdish national anthem, “Ey Raqib,” in his presence. pic.twitter.com/2q0ZHXbQDP  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Peshmerga",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Zakho",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Duhok",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-15T00:28:37.762616+00:00",
     "location": {
@@ -1109,24 +1349,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T00:25:08.622162+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "bbac2d3be813c59f",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/1405202612",
-    "title": "ئەندامێکی دەوڵەتی یاسا بۆ رووداو: سەرۆکایەتیی پەرلەمان ئێمە و پارتی بەئامانج گرت",
-    "title_en": "ئەندامێکی دەوڵەتی یاسا بۆ رووداو: سەرۆکایەتیی پەرلەمان ئێمە و پارتی بەئامانج گرت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێردەی تایبەتی ئەمریکا بۆ سووریا، پیرۆزبایی لە عەلی زەیدی، سەرۆکوەزیرانی نوێی عێراق کرد بەبۆنەی بەدەستهێنانی متمانەی ئەنجوومەنی نوێنەران و پەسندکردنی کابینەی حکومەتەکەی؛ ئاماژە بەوەش دەکات کە واشنتن گەشبینە بەم سەرکردایەتییە نوێیە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T23:43:09.639068+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1451,24 +1673,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T18:13:06.330997+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ec9c1b9336e27a24",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
-    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەهۆی کەمبوونەوەی بەرهەمهێنان و ئاڵۆزییەکانی ناوچەکە، نرخی گازی شلی (LPG) لە هەولێر 100% بەرزبووەتەوە؛ ئەندامێکی ئەنجوومەنی بەنزینخانەکانیش دەڵێت، شۆفێران واز لە گاز دەهێنن و روو لە بەنزین دەکەن، ئەوەش گوشاری لەسەر بازاڕی بەنزین دروستکردووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T18:12:49.212004+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
