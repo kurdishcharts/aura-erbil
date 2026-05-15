@@ -1,16 +1,52 @@
 [
   {
-    "id": "b15e7e7df3b6e780",
-    "url": "https://www.rudaw.net/english/middleeast/14052026",
-    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
+    "id": "0a0e1718c53830fe",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
+    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
+    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
     "source": "rudaw-english",
     "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-15T08:46:53.171588+00:00",
+    "timestamp": "2026-05-15T09:16:09.567830+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fd08671f5d885795",
+    "url": "https://www.rudaw.net/english/kurdistan/14052026",
+    "title": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
+    "title_en": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
+    "summary": "ERBIL, Kurdistan Region - A senior official from the Kurdish-led administration of northeast Syria (Rojava) has reaffirmed the community’s call for recognition of the Kurdish mother tongue to be enshrined in the Syrian constitution, despite a recent presidential move elevating it to a “national language” that left Kurdish officials wary that the decision could be reversible. Elham Ahmed, co-chair of the foreign relations office at the Democratic Autonomous Administration of North and East Syria (DAANES), said: “We want to continue our efforts until our [language] rights are guaranteed in the [Syrian] constitution. We must pursue such a struggle for constitutional recognition of the Kurdish language.” She further noted that “in Rojava, education is provided in Kurdish,” adding that maintaining “education in the Kurdish language is a fundamental priority for us and an essential part of our struggle.” Authorities in Rojava have since 2012 implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29 that established a permanent and comprehensive ceasefire and called for the integration of Rojava’s civil and military institutions under Syrian state control. The two sides have since been holding talks to implement the deal, with education emerging as a central issue in the negotiations. The Syrian government has so far agreed to recognize the legal status of all diplomas and certificates issued by schools and institutes run by the DAANES as these are being brought into the national accreditation framework. Regarding Kurdish curriculum and language rights, Syrian interim President Ahmed al-Sharaa in January issued Presidential Decree 13, elevating Kurdish to a “national language,” while maintaining Arabic as the sole official language of Syria. While the latter mov",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:15:57.689910+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60a129c808d53f77",
+    "url": "https://www.rudaw.net/english/kurdistan/160920242",
+    "title": "Foreign missions praise free, objective press at Rudaw election event",
+    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:15:48.421330+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +64,169 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-15T08:46:42.610899+00:00",
+    "timestamp": "2026-05-15T09:15:37.695631+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "99803a750c50ad7a",
+    "url": "https://www.rudaw.net/english/world/01052024",
+    "title": "Germany deports Kurdish family with health issues to Iraq",
+    "title_en": "Germany deports Kurdish family with health issues to Iraq",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:15:27.022458+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2bbb273d07ec3e97",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520265",
+    "title": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
+    "title_en": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
+    "summary": "ERBIL, Kurdistan Region - The Iraqi parliament on Thursday voted Ali al-Zaidi in as the next prime minister, approving his government program and 14 members of his cabinet. Votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. \"I extend my sincere thanks and gratitude to the Council of Representatives and the national political forces for granting their confidence to the government,” Zaidi said in a statement after taking the oath of office, adding that the move was a “stance that embodies the primacy of the national interest and the spirit of partnership and responsibility.” He further noted that this confidence represents a “great trust and a pledge before our beloved people that we shall move forward with steadfastness toward consolidating stability, enhancing the prestige of the state, and achieving the aspirations of Iraqis for development, justice, and a dignified life.\" In the 329-seat Iraqi legislature, 266 lawmakers were present to deliver the vote of confidence. Except for three Kurdish opposition parties totaling 10 seats and a Shiite party with eight seats, all other Shiite, Sunni, and Kurdish blocs attended the session. Approved and rejected ministries Zaidi did not submit the names of the ministers of defense, immigration, labor, culture, and agriculture, according to a document obtained by Rudaw before the session. Their vote was deferred to the beginning of June. He arrived at the parliament premises with 19 ministerial candidates, including 10 from Shiite factions, four from Sunni groups, and four from Kurdish parties. Out of the candidates affiliated with the Shiite parties, seven were approved, and three were rejected. Both appointees put forward by the State of Law Coalition- led by former premier Nouri al-Maliki - for the ministries of interior and higher education failed to secure enough votes from lawmakers. Ali al-Zarjawi, a State of Law Coalition lawmaker, told Rudaw that they we",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:15:08.481001+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:14:46.254888+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "e6913eab15e7b80e",
+    "url": "https://www.rudaw.net/sorani/middleeast/150520261",
+    "title": "عێراقچی: ئێران سەرکەوتووی جەنگەکەیە و ئیرادەی خۆی بەسەر ئەمریکادا سەپاند",
+    "title_en": "عێراقچی: ئێران سەرکەوتووی جەنگەکەیە و ئیرادەی خۆی بەسەر ئەمریکادا سەپاند",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:12:53.504616+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "153dc8669166f8f6",
+    "url": "https://www.rudaw.net/sorani/interview/15052026",
+    "title": "ڤیکتۆریا تایلەر بۆ رووداو: لە واشنتن جۆرێک لە ماندوبوون لە عێراق دروست بووە",
+    "title_en": "ڤیکتۆریا تایلەر بۆ رووداو: لە واشنتن جۆرێک لە ماندوبوون لە عێراق دروست بووە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ساڵح ئۆزدەمیر، سەرۆکی ژووری بازرگانی و پیشەسازیی گەڤەر و موحەرەم تەکین، سەرۆکی یەکێتیی ژوورەکانی پیشەوەران و بازرگانانی جۆلەمێرگ لە دوو هەڤپەیڤینی جیادا وەڵامی پرسیارەکانی تۆڕی میدیایی رووداویان لەبارەی کاریگەریی جەنگی ئێران و دۆخی جۆلەمێرگی باکووری کوردستان کە هاوسنوورە لەگەڵ رۆژهەڵات و باشووری کوردستان، دایەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:12:42.220321+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:12:32.162433+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5872dd28c722c1b7",
+    "url": "https://www.rudaw.net/sorani/business/150620234",
+    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوت بەرزبووەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:12:02.791710+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a976555c68da2d5",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
+    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T09:11:46.368627+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b15e7e7df3b6e780",
+    "url": "https://www.rudaw.net/english/middleeast/14052026",
+    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T08:46:53.171588+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -96,29 +294,11 @@
     "title_en": "Kurdish parties finalize ministerial picks as Iraq set for cabinet confidence vote",
     "summary": "ERBIL, Kurdistan Region - The Kurdistan Region’s main political parties have selected their nominees for ministerial posts in the incoming Iraqi government, well-informed sources have told Rudaw, with the ruling Kurdistan Democratic Party (KDP), Patriotic Union of Kurdistan (PUK), and the main opposition New Generation Movement (NGM) set to back the cabinet of Prime Minister-designate Ali al-Zaidi in parliament on Thursday. A source familiar with the matter in Erbil told Rudaw that “the KDP has nominated incumbent Foreign Minister Fuad Hussein for a second term.” Meanwhile, Rebaz Hamlan, a Kurdish politician and financial advisor to Kurdistan Region Prime Minister Masrour Barzani, has been selected as the KDP’s pick for minister of housing and reconstruction, the same source added. Another source from the KDP bloc in Baghdad told Rudaw that the party expects to be allocated a deputy prime minister post, though “the position will not be voted on in Thursday’s parliamentary session.” The Iraqi legislature on Wednesday announced that it will hold a key session the next day, with one item on the agenda: “Voting on the ministerial program and the government of Prime Minister-designate Ali Falih al-Zaidi.” Lawmakers from the KDP, PUK, and NGM previously confirmed to Rudaw their participation in the session to vote on confidence for the country’s incoming cabinet. Harem Kamal Agha, head of the PUK bloc in the Iraqi parliament, said on Wednesday that an agreement had been reached for the PUK to be allocated the justice ministry, with incumbent minister Khaled Shwani being discussed for another term. Meanwhile, Kurdawan Jama, head of the NGM bloc in the federal parliament, also said that the party - considered the largest opposition group in the Kurdistan Region - would be allocated the environment ministry. “We will participate in the session and vote for the cabinet, as we have an agreement with the PUK to receive the environment ministry, and our candidate for that positi",
     "source": "rudaw-english",
-    "category": "infrastructure",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T08:45:49.023301+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T08:43:52.043940+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -227,24 +407,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T07:48:46.199458+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "60a129c808d53f77",
-    "url": "https://www.rudaw.net/english/kurdistan/160920242",
-    "title": "Foreign missions praise free, objective press at Rudaw election event",
-    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T07:48:23.772785+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -371,24 +533,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T07:44:20.280653+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "99803a750c50ad7a",
-    "url": "https://www.rudaw.net/english/world/01052024",
-    "title": "Germany deports Kurdish family with health issues to Iraq",
-    "title_en": "Germany deports Kurdish family with health issues to Iraq",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T07:18:16.658475+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -882,24 +1026,6 @@
     }
   },
   {
-    "id": "5872dd28c722c1b7",
-    "url": "https://www.rudaw.net/sorani/business/150620234",
-    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوت لە دوای 3 رۆژ لە بەرزبوونەوەی بەردەوام، ئەمڕۆ چوارشەممە دابەزی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T05:43:31.812304+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2dfb50373c0e4ed8",
     "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
     "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
@@ -911,24 +1037,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T05:16:06.472226+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0a0e1718c53830fe",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520262",
-    "title": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "title_en": "Iranian, Qatari, Turkish carriers resume flights to Baghdad as airport traffic rebounds",
-    "summary": "ERBIL, Kurdistan Region - Carriers from Iran, Qatar, and Turkey have resumed operations at Baghdad International Airport, the facility’s director noted, adding that operational capacity has risen to 90 percent after the closure of Iraqi airspace during the Iran war, especially amid daily trips carrying pilgrims for Hajj to Saudi Arabia. Harith al-Obaidi said in a Wednesday statement that “after the resumption of Qatari flights and the return of some Iranian carriers… flight operations are witnessing a continuous increase,” while noting the resumption of Turkish flights on Thursday, May 14” as well. On Monday, he had reported that Turkey’s main carrier, Turkish Airlines, is set to resume flights to Baghdad International Airport on Thursday, “after a suspension that lasted more than two months following the closure of Iraqi airspace in February.” Obaidi further explained that “Baghdad International Airport has restored 90 percent of its operational capacity,” as “the number of airlines currently operating at the facility stands at around 30,” following “the return of Turkish aviation and some Iranian airlines.” Earlier this month, Turkish Airlines announced it would “operate round-trip flights from Istanbul to Erbil International Airport starting May 8.” Days earlier, Turkish low-cost carrier Pegasus Airlines also confirmed the resumption of its flights to Erbil. Turkish carriers, including Turkish Airlines, Pegasus, AnadoluJet, and SunExpress, suspended flights to Iraq and the Kurdistan Region in early March. The suspension came just over a week after the United States and Israel launched a large-scale aerial campaign against Iran, triggering six weeks of hostilities before the two sides agreed to a Pakistan-mediated ceasefire on April 8. Caught in the middle of the conflict, Iraq and the Kurdistan Region shut down their airspace in late February before reopening it around 40 days later in early April. Moreover, as of Thursday, Iranian carriers including Iran Air, Ma",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T05:15:21.940813+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -987,29 +1095,6 @@
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "economy",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Zakho",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:47:22.762075+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
     }
   },
   {
@@ -1100,37 +1185,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-15T04:43:45.849392+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2bbb273d07ec3e97",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520265",
-    "title": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
-    "title_en": "Iraqi parliament approves Zaidi as PM, votes 14 ministers in",
-    "summary": "ERBIL, Kurdistan Region - The Iraqi parliament on Thursday voted Ali al-Zaidi in as the next prime minister, approving his government program and 14 members of his cabinet. Votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. \"I extend my sincere thanks and gratitude to the Council of Representatives and the national political forces for granting their confidence to the government,” Zaidi said in a statement after taking the oath of office, adding that the move was a “stance that embodies the primacy of the national interest and the spirit of partnership and responsibility.” He further noted that this confidence represents a “great trust and a pledge before our beloved people that we shall move forward with steadfastness toward consolidating stability, enhancing the prestige of the state, and achieving the aspirations of Iraqis for development, justice, and a dignified life.\" In the 329-seat Iraqi legislature, 266 lawmakers were present to deliver the vote of confidence. Except for three Kurdish opposition parties totaling 10 seats and a Shiite party with eight seats, all other Shiite, Sunni, and Kurdish blocs attended the session. Approved and rejected ministries Zaidi did not submit the names of the ministers of defense, immigration, labor, culture, and agriculture, according to a document obtained by Rudaw before the session. Their vote was deferred to the beginning of June. He arrived at the parliament premises with 19 ministerial candidates, including 10 from Shiite factions, four from Sunni groups, and four from Kurdish parties. Out of the candidates affiliated with the Shiite parties, seven were approved, and three were rejected. Both appointees put forward by the State of Law Coalition- led by former premier Nouri al-Maliki - for the ministries of interior and higher education failed to secure enough votes from lawmakers. Ali al-Zarjawi, a State of Law Coalition lawmaker, told Rudaw that they we",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Ali al-Zaidi",
-        "type": "PERSON"
-      },
-      {
-        "name": "Kurdistan Region",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Nechirvan Barzani",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-15T04:15:26.150925+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1239,24 +1293,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T03:42:27.425071+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "fd08671f5d885795",
-    "url": "https://www.rudaw.net/english/kurdistan/14052026",
-    "title": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
-    "title_en": "Rojava official reiterates call for Kurdish language to be enshrined in Syrian constitution",
-    "summary": "ERBIL, Kurdistan Region - A senior official from the Kurdish-led administration of northeast Syria (Rojava) has reaffirmed the community’s call for recognition of the Kurdish mother tongue to be enshrined in the Syrian constitution, despite a recent presidential move elevating it to a “national language” that left Kurdish officials wary that the decision could be reversible. Elham Ahmed, co-chair of the foreign relations office at the Democratic Autonomous Administration of North and East Syria (DAANES), said: “We want to continue our efforts until our [language] rights are guaranteed in the [Syrian] constitution. We must pursue such a struggle for constitutional recognition of the Kurdish language.” She further noted that “in Rojava, education is provided in Kurdish,” adding that maintaining “education in the Kurdish language is a fundamental priority for us and an essential part of our struggle.” Authorities in Rojava have since 2012 implemented a distinct curriculum featuring instruction in the Kurdish language, separate from the Syrian state system. Damascus and the Kurdish-led Syrian Democratic Forces (SDF) - which operates as the de facto army in Rojava - reached a landmark agreement on January 29 that established a permanent and comprehensive ceasefire and called for the integration of Rojava’s civil and military institutions under Syrian state control. The two sides have since been holding talks to implement the deal, with education emerging as a central issue in the negotiations. The Syrian government has so far agreed to recognize the legal status of all diplomas and certificates issued by schools and institutes run by the DAANES as these are being brought into the national accreditation framework. Regarding Kurdish curriculum and language rights, Syrian interim President Ahmed al-Sharaa in January issued Presidential Decree 13, elevating Kurdish to a “national language,” while maintaining Arabic as the sole official language of Syria. While the latter mov",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T03:15:34.796275+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1490,24 +1526,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T22:42:01.696555+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2a976555c68da2d5",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
-    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T21:42:43.167735+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -7903,12 +7921,12 @@
     }
   },
   {
-    "id": "e6913eab15e7b80e",
-    "url": "https://www.rudaw.net/sorani/middleeast/150520261",
-    "title": "عێراقچی: ئێران سەرکەوتووی جەنگەکەیە و ئیرادەی خۆی بەسەر ئەمریکادا سەپاند",
-    "title_en": "عێراقچی: ئێران سەرکەوتووی جەنگەکەیە و ئیرادەی خۆی بەسەر ئەمریکادا سەپاند",
-    "summary": "سینا سۆما به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست عەباس عێراقچی، وەزیری دەرەوەی ئێران زۆرتر لە رۆژهەڵاتی نێوەڕاست ترەمپ بۆ ئێران: یان ئەتۆمەکەتان دەبەین یان بۆردوومانتان دەکەینەوە نووسینگەی نەتەنیاهوو: سەرۆکوەزیران لە کاتی جەنگی ئێراندا بە نهێنی سەردانی ئیماراتی کردووە دوو ئەفسەری سوپای ئیسرائیل بە تۆمەتی قاچاخچێتی بۆ غەززە و وەرگرتنی ب",
-    "source": "rudaw-sorani",
+    "id": "a9c382deea360e9d",
+    "url": "https://www.rudaw.net/english/middleeast/150520261",
+    "title": "UAE to double oil export capacity by 2027 with billion-dollar pipeline project",
+    "title_en": "UAE to double oil export capacity by 2027 with billion-dollar pipeline project",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Middle East Sheikh Khaled bin Mohamed, Crown Prince of Abu Dhabi and Chairman of its Executive Council, chairs a meeting of the Executive Committee of ADNOC’s Board of Directors on May 15, 2026. Photo: ADMediaOffice/X Also in Middle East Iranian FM accuses UAE of complicity in US-Israeli ‘aggression’ V",
+    "source": "rudaw-english",
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
