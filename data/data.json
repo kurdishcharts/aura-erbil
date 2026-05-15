@@ -1,5 +1,131 @@
 [
   {
+    "id": "b15e7e7df3b6e780",
+    "url": "https://www.rudaw.net/english/middleeast/14052026",
+    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
+    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:47:43.243457+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b97439aaab60e2a5",
+    "url": "https://www.rudaw.net/english/world/14052026",
+    "title": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
+    "title_en": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
+    "summary": "BEIJING - Chinese President Xi Jinping and US President Donald Trump held extensive talks in Beijing on Thursday during Trump’s first official visit to China since his return to office, with both leaders presenting the summit as a crucial moment for global stability and China-US relations. The meeting, which lasted around two hours at the Great Hall of the People, focused on a wide range of sensitive issues, including trade disputes, artificial intelligence, semiconductor restrictions, rare earth exports, and ongoing tensions between the US and Iran, as well as disagreements over the status of Taiwan. Xi described the current international situation as a period of “accelerated changes unseen in a century,” warning that growing geopolitical instability has made cooperation between Beijing and Washington increasingly important. He added that stable China-US relations are not only vital for both countries but also for global peace and economic stability. Moreover, the Chinese leader raised what he called the “questions of history, the world, and the people,” asking whether China and the United States could avoid the so-called “Thucydides Trap,” establish a new model of relations between major powers, and jointly respond to global challenges. Xi also described 2026 as a possible “historic landmark year” for bilateral relations and called for opening “a new chapter” in ties between the world’s two largest economies. He stressed the importance of mutual respect, peaceful coexistence, and “win-win cooperation,” while managing disagreements carefully. He further argued that economic and trade ties between China and the US are fundamentally mutually beneficial, saying the success of one side creates opportunities rather than threats for the other. Xi further urged Washington to provide a fair and predictable environment for Chinese companies operating in the US, while reaffirming his country’s willingness to further open its market to American businesses. Importantly, Taiwan",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:47:03.456756+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb18c9a94e00f759",
+    "url": "https://www.rudaw.net/sorani/world/150520262",
+    "title": "راپۆرتێک: ترەمپ لە سێ مانگی یەکەمی ئەم ساڵدا بە سەتان ملیۆن دۆلار مامەڵەی دارایی کردووە",
+    "title_en": "راپۆرتێک: ترەمپ لە سێ مانگی یەکەمی ئەم ساڵدا بە سەتان ملیۆن دۆلار مامەڵەی دارایی کردووە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای ئەوەی چەند درۆنێکی ئۆکراینی لە خاکی وڵاتی لاتڤیای ئەورووپا کەوتنە خوارەوە، پارتێکی سیاسیی ئەو وڵاتە لە پشتیوانیی ئۆکراینا کشایەوە، ئەمەش بووە هۆی ئەوەی ئێڤیکا سیلینا، سەرۆکوەزیرانی لاتڤیا دەستلەکارکێشانەوەی خۆی رابگەیێنێت.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:45:06.304580+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d5c5eea142b31ced",
+    "url": "https://www.rudaw.net/sorani/business/15052026",
+    "title": "دوای تەیف سامی دوو فەرمانگەی دیکەی عێراق سکاڵایان لە دژی هەرێمی کوردستان تۆمار کرد",
+    "title_en": "دوای تەیف سامی دوو فەرمانگەی دیکەی عێراق سکاڵایان لە دژی هەرێمی کوردستان تۆمار کرد",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی نەوت لە دوای 3 رۆژ لە بەرزبوونەوەی بەردەوام، ئەمڕۆ چوارشەممە دابەزی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:44:55.725202+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04df562255b39aa4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
+    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:44:24.503707+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c84c9fd7e119b21",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520261",
+    "title": "کاردانەوەی دەوڵەتی یاسا دواى رەتکردنەوەی بەربژێرەکانیان: سەرکەوتنی راستەقینەمان بە ژمارەی پۆستەکان نییە",
+    "title_en": "کاردانەوەی دەوڵەتی یاسا دواى رەتکردنەوەی بەربژێرەکانیان: سەرکەوتنی راستەقینەمان بە ژمارەی پۆستەکان نییە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای مشتومڕ و دانوستاندنێکی زۆر، سەرەنجام پەرلەمانی عێراق دەنگی بە کابینەکەی عەلی فالح زەیدی، سەرۆکوەزیرانی نوێی عێراق دا و پەسندی کرد. هەرچەندە دەنگدانەکە بە ئاشکرا دەست بەرزکردنەوە بوو، بەڵام هەندێ لایەن ناڕازین و دەڵێن: پرۆسەکە بە باشی بەڕێوەنەچوو.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:44:14.155750+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d5026225cd1384",
+    "url": "https://www.rudaw.net/sorani/middleeast/15052026",
+    "title": "ترەمپ بۆ ئێران: یان ئەتۆمەکەتان دەبەین یان بۆردوومانتان دەکەینەوە",
+    "title_en": "ترەمپ بۆ ئێران: یان ئەتۆمەکەتان دەبەین یان بۆردوومانتان دەکەینەوە",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆ یەکەمجار لە مێژوودا، ئیمارات بە شێوەیەکی راستەوخۆ هێرشی سەربازیی کردە سەر ئێران. ئەم هەنگاوە ئیماراتی لە وڵاتێکەوە، کە گەورەترین ئامانجی هێرشەکانی ئێران بوو، گۆڕی بۆ لایەنێکی چالاکی نێو جەنگەکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-15T06:43:50.120846+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "5c701dc4a0a65fb9",
     "url": "https://www.rudaw.net/english/kurdistan/300420241",
     "title": "Shaqlawa sets the stage for a grandiose touristic season",
@@ -245,42 +371,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T05:48:07.214997+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b97439aaab60e2a5",
-    "url": "https://www.rudaw.net/english/world/14052026",
-    "title": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
-    "title_en": "Trump, Xi hold high-stakes talks as trade, Taiwan and Iran top agenda",
-    "summary": "BEIJING - Chinese President Xi Jinping and US President Donald Trump held extensive talks in Beijing on Thursday during Trump’s first official visit to China since his return to office, with both leaders presenting the summit as a crucial moment for global stability and China-US relations. The meeting, which lasted around two hours at the Great Hall of the People, focused on a wide range of sensitive issues, including trade disputes, artificial intelligence, semiconductor restrictions, rare earth exports, and ongoing tensions between the US and Iran, as well as disagreements over the status of Taiwan. Xi described the current international situation as a period of “accelerated changes unseen in a century,” warning that growing geopolitical instability has made cooperation between Beijing and Washington increasingly important. He added that stable China-US relations are not only vital for both countries but also for global peace and economic stability. Moreover, the Chinese leader raised what he called the “questions of history, the world, and the people,” asking whether China and the United States could avoid the so-called “Thucydides Trap,” establish a new model of relations between major powers, and jointly respond to global challenges. Xi also described 2026 as a possible “historic landmark year” for bilateral relations and called for opening “a new chapter” in ties between the world’s two largest economies. He stressed the importance of mutual respect, peaceful coexistence, and “win-win cooperation,” while managing disagreements carefully. He further argued that economic and trade ties between China and the US are fundamentally mutually beneficial, saying the success of one side creates opportunities rather than threats for the other. Xi further urged Washington to provide a fair and predictable environment for Chinese companies operating in the US, while reaffirming his country’s willingness to further open its market to American businesses. Importantly, Taiwan",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T05:47:44.762464+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b15e7e7df3b6e780",
-    "url": "https://www.rudaw.net/english/middleeast/14052026",
-    "title": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "title_en": "Vessel seized near UAE, en route to Iranian waters: British navy monitor",
-    "summary": "ERBIL, Kurdistan Region - A vessel anchored off the coast of the United Arab Emirates near the Strait of Hormuz was seized by unknown individuals on Thursday and is now being taken toward Iranian territorial waters, according to the British maritime monitor. The United Kingdom Maritime Trade Operations (UKMTO) center said it “received a report of an incident occurring 38 nautical miles (NM) northeast of [the Emirate of Fujairah],” located on the eastern coast of the UAE along the Gulf of Oman. “A vessel was boarded and taken by unauthorized personnel while it was at anchor,” UKMTO reported, adding that it “is currently bound for Iranian Territorial Waters.” The incident comes as the Gulf shipping lane remains under severe strain following weeks of escalation between the US and Iran, in the aftermath of the six week war. Tehran has since largely restricted traffic through the Strait of Hormuz since the war erupted on February 28, while Washington has enforced its own blockade on Iranian ports since mid-April. Last week, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that “any aggression against Iranian oil tankers and commercial vessels will result in a heavy assault on American positions in the region and enemy ships,” according to the state-run Islamic Republic News Agency (IRNA). The outlet also reported that the IRGC Navy on Friday “opened fire on US military destroyers” in response to what Tehran described as “a ceasefire violation and an aggressive act by the US military against an Iranian oil tanker near the country’s southern port of Jask.” Thursday’s seizure also follows an announcement by US Central Command on Wednesday that American forces had redirected 67 vessels traveling to or from Iranian ports through the Strait of Hormuz, while four others were “disabled” as part of the ongoing blockade. “Four weeks ago, CENTCOM began implementing the blockade against ships entering and exiting Iran’s ports,” the command said on Wednesday, adding that “as of",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T05:47:14.484166+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1345,24 +1435,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-14T22:42:01.696555+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "04df562255b39aa4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
-    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی هەرێمی کوردستان، خۆشحاڵیی خۆی بە بەشداریکردن لە دانیشتنی ئەنجوومەنی نوێنەرانی عێراق بۆ متمانەدان بە عەلی فالح زەیدی، سەرۆکوەزیرانی نوێ و حکومەتەکەی دەربڕی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-14T22:12:27.592995+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -7704,11 +7776,11 @@
     }
   },
   {
-    "id": "c3d5026225cd1384",
-    "url": "https://www.rudaw.net/sorani/middleeast/15052026",
-    "title": "ترەمپ بۆ ئێران: یان ئەتۆمەکەتان دەبەین یان بۆردوومانتان دەکەینەوە",
-    "title_en": "ترەمپ بۆ ئێران: یان ئەتۆمەکەتان دەبەین یان بۆردوومانتان دەکەینەوە",
-    "summary": "نیاز مستەفا به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست دۆناڵد ترەمپ، سەرۆکی ئەمریکا زۆرتر لە رۆژهەڵاتی نێوەڕاست نووسینگەی نەتەنیاهوو: سەرۆکوەزیران لە کاتی جەنگی ئێراندا بە نهێنی سەردانی ئیماراتی کردووە دوو ئەفسەری سوپای ئیسرائیل بە تۆمەتی قاچاخچێتی بۆ غەززە و وەرگرتنی بەرتیل دادگایی دەکرێن تاران: چین دەتوانێت ببێتە نێوەندگیر لەگەڵ واشنتن ب",
+    "id": "ed75862785c77b99",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/15052026",
+    "title": "یەکەم لێدوانی وەزیری دارایی عێراق دوای متمانە پێدانی: چارەسەرى  قەیرانی دارایی دەکەین",
+    "title_en": "یەکەم لێدوانی وەزیری دارایی عێراق دوای متمانە پێدانی: چارەسەرى  قەیرانی دارایی دەکەین",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق فالح ساری زۆرتر لە عێراق باڵی سیاسیی کەتیبەکانى حیزبوڵڵا لە پەرلەمانى عێراق بووە ئۆپۆزیسیۆن سەرۆک بارزانی بۆ عەلی زەیدی: پیرۆزە و هیوای سەرکەوتنت بۆ دەخوازم هاوپەیمانیی عەزم: دەنگنەدان بە هەندێک لە بەربژێرەکان پێویستی بە پێداچوونەوەی سیاسییە کابینەکەی زەیدی لەنێوان ناڕەزایەتیی هەندێ فراکسیۆن و شەڕ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
