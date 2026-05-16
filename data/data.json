@@ -1,23 +1,5 @@
 [
   {
-    "id": "035132c770ec5cd3",
-    "url": "https://www.rudaw.net/english/middleeast/150520263",
-    "title": "Lebanon, Israel extend ceasefire by 45 days in US-mediated talks",
-    "title_en": "Lebanon, Israel extend ceasefire by 45 days in US-mediated talks",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:15:59.702470+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "57da5f2138711ab2",
     "url": "https://www.rudaw.net/english/middleeast/iran/15052026",
     "title": "Iran rejects US claims about Kurds as ‘desperation’",
@@ -28,7 +10,205 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-16T03:15:44.018194+00:00",
+    "timestamp": "2026-05-16T03:46:26.283323+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f28822746b4af19c",
+    "url": "https://www.rudaw.net/english/middleeast/syria/15052026",
+    "title": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
+    "title_en": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
+    "summary": "NEW YORK - Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. “There is no place for dual structures in a unified Syria, and then this deal between SDF and Syrian government should be implemented fully, and all structures should be integrated in a unified system,” Turkey’s permanent representative to the UN, Ahmet Yildiz, told Rudaw. The comments come against the backdrop of a landmark January 29 agreement between the SDF and Damascus, reached after weeks of clashes and brokered with mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal followed a sharp escalation in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. READ MORE: https://t.co/nfd7zSmoli pic.twitter.com/i4fmrM2kcK Yildiz said Turkey is “closely coordinating with Syrian leadership and authorities in a good way,” adding that there is “a lot to do” in Syria regarding regional connectivity and economic recovery.  China’s UN Ambassador Fu Cong tells Rudaw's @namo_abdulla that the Syrian government should treat the issue of Kurdish language “with care,\" calling for “inclusive dialogue.” pic.twitter.com/0zc5D0V6rw  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your commen",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:46:09.970298+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42dd73728b641fa3",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
+    "title": "Iraqi police cracks down on crime in Baghdad",
+    "title_en": "Iraqi police cracks down on crime in Baghdad",
+    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:45:58.203019+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:45:41.748454+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:45:24.344495+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:43:10.349979+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "647dcc76a6cac951",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520269",
+    "title": "بەڕێوەبەری نووسینگەی راگەیاندنی نووری مالیکی: لە دەنگدان بە کابینەکەی زەیدی پێشێلکاریی یاسایی کراوە",
+    "title_en": "بەڕێوەبەری نووسینگەی راگەیاندنی نووری مالیکی: لە دەنگدان بە کابینەکەی زەیدی پێشێلکاریی یاسایی کراوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:43:00.040217+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:42:49.100401+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:42:37.804736+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e372e61125b32202",
+    "url": "https://www.rudaw.net/sorani/kurdistan/310320263",
+    "title": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
+    "title_en": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:42:21.026583+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3b3872464581cb78",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520268",
+    "title": "گوتارخوێنی نەجەف: هێزی ئیسرائیلی لە بیابانی نەجەف بینراوە و شوانێک ئاشکرای کردووە",
+    "title_en": "گوتارخوێنی نەجەف: هێزی ئیسرائیلی لە بیابانی نەجەف بینراوە و شوانێک ئاشکرای کردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:42:02.679755+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "035132c770ec5cd3",
+    "url": "https://www.rudaw.net/english/middleeast/150520263",
+    "title": "Lebanon, Israel extend ceasefire by 45 days in US-mediated talks",
+    "title_en": "Lebanon, Israel extend ceasefire by 45 days in US-mediated talks",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T03:15:59.702470+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -42,7 +222,7 @@
     "title_en": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Friday congratulated Iraqi Prime Minister Ali al-Zaidi on assuming office, reaffirming the Kurdistan Region’s readiness to cooperate with the new federal cabinet within the framework of the constitution to resolve “all outstanding issues” between Erbil and Baghdad. “I extend my warmest congratulations to my dear brother Mr. Ali Falih al-Zaidi, Prime Minister of the Federal Republic of Iraq, on gaining the confidence of the Iraqi Council of Representatives and on the commencement of his cabinet’s duties,” President Barzani said in a statement from the Kurdistan Region Presidency. The Kurdish leader wished Zaidi and his cabinet “every success in carrying out their significant responsibilities,” expressing hope that the new government would “mark the beginning of a new phase of stability and progress for all of Iraq.” Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. Lawmakers on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. President Barzani also reaffirmed the Kurdistan Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” He added that “Iraq is a wealthy country with great potential, and Iraqis of all components deserve a dignified life, better services, and lasting security and stability,” expressing confidence that through the efforts of all parties, “We can move toward a better future and confront all challenges and",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -96,7 +276,7 @@
     "title_en": "لە سلێمانی کەسێک بە هەورەبرووسکە گیانی لەدەستدا",
     "summary": "   .     وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
     "source": "rudaw-sorani",
-    "category": "weather",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -114,7 +294,7 @@
     "title_en": "زمانناسێکی ئامەد: قسەکردن بە زمانی کوردی لەنێو گەنجانی باکووری کوردستان رووی لە کەمبوونەوەیە",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -144,31 +324,13 @@
     }
   },
   {
-    "id": "3b3872464581cb78",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520268",
-    "title": "گوتارخوێنی نەجەف: هێزی ئیسرائیلی لە بیابانی نەجەف بینراوە و شوانێک ئاشکرای کردووە",
-    "title_en": "گوتارخوێنی نەجەف: هێزی ئیسرائیلی لە بیابانی نەجەف بینراوە و شوانێک ئاشکرای کردووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:12:05.834514+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "d5d742ea24802882",
     "url": "https://www.rudaw.net/sorani/kurdistan/1505202621",
     "title": "رزگار حاجی حەمە: یەکێتی بۆ دووبارەکردنەوەی هەڵبژاردن ئامادەیە",
     "title_en": "رزگار حاجی حەمە: یەکێتی بۆ دووبارەکردنەوەی هەڵبژاردن ئامادەیە",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -252,24 +414,6 @@
     }
   },
   {
-    "id": "f28822746b4af19c",
-    "url": "https://www.rudaw.net/english/middleeast/syria/15052026",
-    "title": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
-    "title_en": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
-    "summary": "NEW YORK - Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. “There is no place for dual structures in a unified Syria, and then this deal between SDF and Syrian government should be implemented fully, and all structures should be integrated in a unified system,” Turkey’s permanent representative to the UN, Ahmet Yildiz, told Rudaw. The comments come against the backdrop of a landmark January 29 agreement between the SDF and Damascus, reached after weeks of clashes and brokered with mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal followed a sharp escalation in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. READ MORE: https://t.co/nfd7zSmoli pic.twitter.com/i4fmrM2kcK Yildiz said Turkey is “closely coordinating with Syrian leadership and authorities in a good way,” adding that there is “a lot to do” in Syria regarding regional connectivity and economic recovery.  China’s UN Ambassador Fu Cong tells Rudaw's @namo_abdulla that the Syrian government should treat the issue of Kurdish language “with care,\" calling for “inclusive dialogue.” pic.twitter.com/0zc5D0V6rw  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your commen",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:45:11.016748+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "93557aeaba48d8a9",
     "url": "https://www.rudaw.net/english/middleeast/150520262",
     "title": "CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise",
@@ -317,24 +461,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T02:42:49.392893+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:42:39.835743+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -432,24 +558,6 @@
     }
   },
   {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:16:15.776599+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
-    }
-  },
-  {
     "id": "1a7b813fcab18afc",
     "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
     "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
@@ -461,24 +569,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T02:15:39.981412+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:15:27.811189+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -594,24 +684,6 @@
     }
   },
   {
-    "id": "647dcc76a6cac951",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/150520269",
-    "title": "بەڕێوەبەری نووسینگەی راگەیاندنی نووری مالیکی: لە دەنگدان بە کابینەکەی زەیدی پێشێلکاریی یاسایی کراوە",
-    "title_en": "بەڕێوەبەری نووسینگەی راگەیاندنی نووری مالیکی: لە دەنگدان بە کابینەکەی زەیدی پێشێلکاریی یاسایی کراوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T01:12:39.345622+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "04df562255b39aa4",
     "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
     "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
@@ -720,24 +792,6 @@
     }
   },
   {
-    "id": "e372e61125b32202",
-    "url": "https://www.rudaw.net/sorani/kurdistan/310320263",
-    "title": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
-    "title_en": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T00:42:44.626831+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2f61fba6015390d1",
     "url": "https://www.rudaw.net/sorani/world/1505202620",
     "title": "لە سوێد دادگاییکردنی پوویا شافیعی، کەسایەتیی نزیک لە 'رێوییە کوردەکە' دەستیپێکرد",
@@ -767,24 +821,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T00:41:50.097523+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42dd73728b641fa3",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
-    "title": "Iraqi police cracks down on crime in Baghdad",
-    "title_en": "Iraqi police cracks down on crime in Baghdad",
-    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T00:26:14.991754+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -936,24 +972,6 @@
     }
   },
   {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T22:42:42.691492+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "39f4ea42ca82fa4c",
     "url": "https://www.rudaw.net/english/middleeast/15052026",
     "title": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
@@ -965,24 +983,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T22:15:31.628875+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T22:13:32.187733+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
