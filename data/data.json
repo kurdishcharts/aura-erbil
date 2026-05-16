@@ -1,12 +1,138 @@
 [
   {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:14:19.744144+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42c14d0af256b488",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:14:07.716982+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:13:45.392512+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15ec42f1ff05f06e",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:13:31.174395+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9584ab527c8acea0",
+    "url": "https://www.rudaw.net/sorani/sports/160520265",
+    "title": "دی پاوڵ مەشقە نهێنییەکانی مێسی بۆ مۆندیال ئاشکرا دەکات",
+    "title_en": "دی پاوڵ مەشقە نهێنییەکانی مێسی بۆ مۆندیال ئاشکرا دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پێرێز بەئاشکرا قسەی لەسەر تواناکانی مۆرینیۆ کردووە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:13:19.714646+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یانەی هەولێر 18 یاریی نەدۆڕاوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:13:00.522186+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ زانا فارقینی، زمانناس و لێکۆڵەر لە ئینستیتیوتی کوردیی ئامەد بە تۆڕی میدیایی رووداوی راگەیاند، رەوشی زمانی کوردی لە باکووری کوردستان باش نییە و ئامارەکان نیشانی دەدەن کە قسەکردن بە زمانی کوردی لەنێو منداڵان و گەنجاندا رووی لە کەمبوونەوەیە، هۆکارەکەشی بۆ سیاسەتی تواندنەوە و قسەنەکردنی دایکان و باوکان بە کوردی لەنێو ماڵدا گەڕاندەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T09:12:48.448373+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "a9c382deea360e9d",
     "url": "https://www.rudaw.net/english/middleeast/150520261",
     "title": "UAE to double oil export capacity by 2027 with billion-dollar pipeline project",
     "title_en": "UAE to double oil export capacity by 2027 with billion-dollar pipeline project",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -24,7 +150,7 @@
     "title_en": "China congratulates PM Zaidi on his appointment, backs expanded ties with Iraq",
     "summary": "ERBIL, Kurdistan Region - The Chinese foreign ministry on Friday, in a statement to Rudaw, expressed its congratulations to newly appointed Iraqi Prime Minister Ali al-Zaidi, emphasizing the “great importance” Beijing attaches to its relations with Baghdad and its desire to expand bilateral ties. “China congratulates Mr. al-Zaidi on his appointment as the new Prime Minister of Iraq,” the ministry said. “China has always attached great importance to developing relations with Iraq and looks forward to deepening traditional friendship, consolidating political trust, expanding cooperation in energy, trade, infrastructure, etc., and strengthening cultural exchanges, and promoting the continuous progress of Sino-Iraqi relations,” the statement added. Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. President Nizar Amedi on the same day tasked Zaidi with forming a new government and presenting his ministerial program to parliament within 30 days of his designation, as stipulated in the Iraqi constitution. In the following days, the prime minister-designate held consultations with different political forces to discuss the distribution of ministerial portfolios. Zaidi on Thursday submitted his government program to Parliament Speaker Haibat al-Halbousi, the state-run Iraqi News Agency (INA) reported. The Iraqi legislature on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. RELATED: Iraqi parliament approves Zaidi as PM, votes 14 ministers in  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that ",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -132,7 +258,7 @@
     "title_en": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Friday congratulated Iraqi Prime Minister Ali al-Zaidi on assuming office, reaffirming the Kurdistan Region’s readiness to cooperate with the new federal cabinet within the framework of the constitution to resolve “all outstanding issues” between Erbil and Baghdad. “I extend my warmest congratulations to my dear brother Mr. Ali Falih al-Zaidi, Prime Minister of the Federal Republic of Iraq, on gaining the confidence of the Iraqi Council of Representatives and on the commencement of his cabinet’s duties,” President Barzani said in a statement from the Kurdistan Region Presidency. The Kurdish leader wished Zaidi and his cabinet “every success in carrying out their significant responsibilities,” expressing hope that the new government would “mark the beginning of a new phase of stability and progress for all of Iraq.” Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. Lawmakers on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. President Barzani also reaffirmed the Kurdistan Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” He added that “Iraq is a wealthy country with great potential, and Iraqis of all components deserve a dignified life, better services, and lasting security and stability,” expressing confidence that through the efforts of all parties, “We can move toward a better future and confront all challenges and",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -168,7 +294,7 @@
     "title_en": "راپرسییەک لە باکووری کوردستان: پرسی ئابووری کێشەی سەرەکییە نەک پرسی کورد",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوانیوەڕۆی رۆژی هەینی، بەهۆی شەپۆلێکی هەورەبرووسکەوە لە سنووری قەزای دووکان و پارێزگای سلێمانی، سێ کەس گیانیان لەدەستدا کە دوانیان باوک و کوڕێکن و دوو کەسی دیکەش بریندار بوون.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -222,7 +348,7 @@
     "title_en": "قیرکردنی دووسایدی رانیە – دووکان دەستیپێکرد و مانگی 7 بەشێکی دەکرێتەوە",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوانیوەڕۆی رۆژی هەینی، بەهۆی شەپۆلێکی هەورەبرووسکەوە لە سنووری قەزای دووکان و پارێزگای سلێمانی، سێ کەس گیانیان لەدەستدا کە دوانیان باوک و کوڕێکن و دوو کەسی دیکەش بریندار بوون.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -371,24 +497,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T08:14:21.669075+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T08:14:10.012559+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -630,24 +738,6 @@
     }
   },
   {
-    "id": "42c14d0af256b488",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T07:15:49.225299+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "abaa8477168264c3",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/160520262",
     "title": "دوای 18 مانگ بکوژی منداڵە سووتێندراوەکەی دیالە دەستگیرکرا",
@@ -828,24 +918,6 @@
     }
   },
   {
-    "id": "15ec42f1ff05f06e",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T06:44:15.808038+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5872dd28c722c1b7",
     "url": "https://www.rudaw.net/sorani/business/150620234",
     "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
@@ -983,24 +1055,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T05:44:22.677641+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لەگەڵ فیفا کۆدەبنەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T05:44:11.958672+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1180,24 +1234,6 @@
     }
   },
   {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T04:12:58.473893+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "3a961a9579c711a3",
     "url": "https://www.rudaw.net/sorani/world/020720251",
     "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
@@ -1263,24 +1299,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T03:46:26.283323+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:43:10.349979+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -9439,6 +9457,78 @@
     "title": "قایمقامی موسڵ: قۆناخی وێرانکاری گشتیمان تێپەڕاندووە",
     "title_en": "قایمقامی موسڵ: قۆناخی وێرانکاری گشتیمان تێپەڕاندووە",
     "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق دیمەنێکی موسڵ، وێنە: بڵند تاهیر - رووداو زۆرتر لە عێراق دوای 18 مانگ بکوژی منداڵە سووتێندراوەکەی دیالە دەستگیرکرا عێراق باجی لەسەر ئۆتۆمبێل و زێڕ زیاد کرد لە نەینەواوە تاوەکو بەسرە؛ حەشدی شەعبی ئۆپەراسیۆنێکی ئەمنیی دەستپێکرد بەڕێوەبەری نووسینگەی راگەیاندنی نووری مالیکی: لە دەنگدان بە کابینەکەی زەید",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2d6c2dd7db5db7ae",
+    "url": "https://www.rudaw.net/english/world/160520262",
+    "title": "Putin to visit China for talks with Xi on bilateral ties and global issues",
+    "title_en": "Putin to visit China for talks with Xi on bilateral ties and global issues",
+    "summary": "Mahdi Faraj SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. World Presidents Vladimir Putin of Russia and Xi Jinping of China. Photo: AFP Also in World Trial begins in Sweden for alleged Foxtrot associate Poya Shafie US arrests Iraqi Kata'ib Hezbollah commander on terror charges China congratulates PM Zaidi on his appointment, backs expanded ties with Ira",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fe3f1fc64481ab8c",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/160520261",
+    "title": "وەزارەتی ناوخۆی ئێران: دۆخەکە ناسەقامگیرە، بەڵام هێزەکانمان لە ئامادەیی تەواودان",
+    "title_en": "وەزارەتی ناوخۆی ئێران: دۆخەکە ناسەقامگیرە، بەڵام هێزەکانمان لە ئامادەیی تەواودان",
+    "summary": "هانا سەعیدی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران عەلی زەینیوەند، گوتەبێژی وەزارەتی ناوخۆی ئێران زۆرتر لە ئێران حکومەتی ئێران: 'ئینتەرنێتی پرۆ' رێکارێکی کاتی بووە و دژی هەر جیاکارییەکین رێکخراوە پیشەییەکانی ئێران: زیانێکی زۆر بە ژێرخانی ئینتەرنێت کەوتووە عێراقچی: ئەمریکا لە ئامانجەکانی جەنگدا سەرلێشێواوە و دەیەوێ گفتوگۆکان بەردەوام بن عێراقچی: ئیم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e5bfb2d2d6900166",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/160520265",
+    "title": "زەیدی بە فەرمی وەک سەرۆکوەزیرانی نوێی عێراق دەستبەکاربوو",
+    "title_en": "زەیدی بە فەرمی وەک سەرۆکوەزیرانی نوێی عێراق دەستبەکاربوو",
+    "summary": "نەهرۆ محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق رێوڕەسمی دەستبەکاربوونی عەلی فالح زەیدی، سەرۆکوەزیرانی نوێی عێراق زۆرتر لە عێراق قایمقامی موسڵ: قۆناخی وێرانکاری گشتیمان تێپەڕاندووە دوای 18 مانگ بکوژی منداڵە سووتێندراوەکەی دیالە دەستگیرکرا عێراق باجی لەسەر ئۆتۆمبێل و زێڕ زیاد کرد لە نەینەواوە تاوەکو بەسرە؛ حەشدی شەعبی ئۆپەراسیۆنێکی ئەمنیی دەستپ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44085ea934d4dfd5",
+    "url": "https://www.rudaw.net/sorani/business/160520263",
+    "title": "وەزیری نەوتی عێراق بۆ رووداو: مانگی 4 نزیکەی 10 ملیۆن بەرمیل نەوتمان لە تەنگەی هورمزەوە هەناردە کردووە",
+    "title_en": "وەزیری نەوتی عێراق بۆ رووداو: مانگی 4 نزیکەی 10 ملیۆن بەرمیل نەوتمان لە تەنگەی هورمزەوە هەناردە کردووە",
+    "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری تەنگەی هورمز زۆرتر لە ئابووری نرخی نەوتی برێنت بە زیاتر لە 109 دۆلار مامەڵەی پێوەدەکرێت نرخی زێڕ دابەزی بۆ 4545 دۆلار یەک دۆلار بە زیاتر لە 180 هەزار تمەن مامەڵەی پێوەدەکرێت مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن A+ A- رووداو دیجیتاڵ وەزیری نەوتی عێراق ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
