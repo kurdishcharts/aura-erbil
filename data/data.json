@@ -1,12 +1,339 @@
 [
   {
+    "id": "f28822746b4af19c",
+    "url": "https://www.rudaw.net/english/middleeast/syria/15052026",
+    "title": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
+    "title_en": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
+    "summary": "NEW YORK - Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. “There is no place for dual structures in a unified Syria, and then this deal between SDF and Syrian government should be implemented fully, and all structures should be integrated in a unified system,” Turkey’s permanent representative to the UN, Ahmet Yildiz, told Rudaw. The comments come against the backdrop of a landmark January 29 agreement between the SDF and Damascus, reached after weeks of clashes and brokered with mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal followed a sharp escalation in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. READ MORE: https://t.co/nfd7zSmoli pic.twitter.com/i4fmrM2kcK Yildiz said Turkey is “closely coordinating with Syrian leadership and authorities in a good way,” adding that there is “a lot to do” in Syria regarding regional connectivity and economic recovery.  China’s UN Ambassador Fu Cong tells Rudaw's @namo_abdulla that the Syrian government should treat the issue of Kurdish language “with care,\" calling for “inclusive dialogue.” pic.twitter.com/0zc5D0V6rw  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your commen",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:48:08.301191+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6b0ce152c1166677",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/15052026",
+    "title": "Kurdistan salaries crisis addressed in Iraq’s new government program: Lawmaker",
+    "title_en": "Kurdistan salaries crisis addressed in Iraq’s new government program: Lawmaker",
+    "summary": "ERBIL, Kurdistan Region - The decade-long dispute between the Kurdistan Region and Baghdad over civil servant salaries has been addressed in the ministerial program of Iraq’s newly appointed prime minister Ali al-Zaidi, following an agreement between Kurdistan Region President Nechirvan Barzani and the ruling Shiite Coordination Framework, a prominent Kurdish lawmaker told Rudaw. “An agreement has been reached to address the stalled salaries of civil servants in the Kurdistan Region,” Ashwaq Jaf, a senior member of the Kurdistan Democratic Party (KDP) bloc in the Iraqi parliament, said on Thursday. She added that “one of the key points Kurdistan Region President Nechirvan Barzani agreed on with the Coordination Framework parties in Baghdad was resolving the salaries issue, and based on this agreement, the matter has been included in the [incoming] Iraqi government’s ministerial program.” The Kurdistan Region's salary issue is a persistent financial crisis rooted in a revenue-for-funding dispute between Erbil and Baghdad, where the federal government often withholds monthly payroll transfers - totaling roughly $650 million to $800 million - due to disagreements over Erbil’s oil exports and non-oil revenues. This has resulted in a decade of \"missing\" or deducted months, leaving a $21 billion debt in unpaid arrears to over a million civil servants in the Region and causing widespread economic stagnation and strikes. As of May 2026, while the Kurdistan Regional Government (KRG) has improved compliance by remitting non-oil revenues and implementing the MyAccount digital payroll system for transparency, payments remain irregular and tied to the shifting political whims. The Iraqi legislature on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. While the KDP’s nominee for a secon",
+    "source": "rudaw-sorani",
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ashwaq Jaf",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Democratic Party",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:47:51.206740+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "003873a8eebe8653",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
+    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:47:35.175415+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "KDP",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Halbousi",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:47:20.465295+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39f4ea42ca82fa4c",
+    "url": "https://www.rudaw.net/english/middleeast/15052026",
+    "title": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
+    "title_en": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
+    "summary": "ERBIL, Kurdistan Region - China on Friday said the Iran war “should never have happened” and has inflicted serious losses on people across the region as well as on the global economy, urging dialogue instead of “a military solution” and stressing the need to achieve a “comprehensive and lasting ceasefire,” according to a statement from Beijing’s foreign ministry. “This conflict, which should never have happened, has no reason to continue,” the ministry said, adding that the war “has caused serious losses to the people of countries in the region, including Iran.” Beijing warned that the spillover effects of the conflict “continue to expand, severely impacting global economic development, the smooth operation of supply chains, international trade order, and the stability of global energy supply,” thereby harming “the common interests of the international community.” “Finding a solution as soon as possible is beneficial to both the US and Iran, as well as to countries in the region and the world as a whole,” the statement added. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking thousands of targets across the country over six weeks of hostilities before the warring sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. China on Friday reaffirmed its support for the US-Iran ceasefire, stressing that “dialogue and negotiation are the right path, and that a military solution is not the way out.” “Now that the door to dialogue has been opened, it should not be closed again,” the Chinese foreign ministry said, calling for efforts to “stabilize the momentum of easing tensions” and maintain “the general direction of a political solution.” It added that a resolution addressing “",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:47:08.760341+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b69eb8c23ad59135",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/150520261",
+    "title": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
+    "title_en": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
+    "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Friday congratulated Iraqi Prime Minister Ali al-Zaidi on assuming office, reaffirming the Kurdistan Region’s readiness to cooperate with the new federal cabinet within the framework of the constitution to resolve “all outstanding issues” between Erbil and Baghdad. “I extend my warmest congratulations to my dear brother Mr. Ali Falih al-Zaidi, Prime Minister of the Federal Republic of Iraq, on gaining the confidence of the Iraqi Council of Representatives and on the commencement of his cabinet’s duties,” President Barzani said in a statement from the Kurdistan Region Presidency. The Kurdish leader wished Zaidi and his cabinet “every success in carrying out their significant responsibilities,” expressing hope that the new government would “mark the beginning of a new phase of stability and progress for all of Iraq.” Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. Lawmakers on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. President Barzani also reaffirmed the Kurdistan Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” He added that “Iraq is a wealthy country with great potential, and Iraqis of all components deserve a dignified life, better services, and lasting security and stability,” expressing confidence that through the efforts of all parties, “We can move toward a better future and confront all challenges and",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:46:49.423198+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109d14781aa1c125",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1505202617",
+    "title": "لە دووکان و سلێمانی هەورەبرووسکە سێ کەس دەکوژێت؛ پێشمەرگە و شوانێک لەنێو قوربانییەکاندان",
+    "title_en": "Three killed in Slemani due to airstrikes; peshmerga and a shepherd among the victims",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Slemani",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:44:43.547453+00:00",
+    "location": {
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
+    }
+  },
+  {
+    "id": "17fa0988bfe506fa",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1505202620",
+    "title": "زمانناسێکی ئامەد: قسەکردن بە زمانی کوردی لەنێو گەنجانی باکووری کوردستان رووی لە کەمبوونەوەیە",
+    "title_en": "A meeting in Amadi: Speaking in Kurdish among the youth of Southern Kurdistan is a sign of decline",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
+    "source": "rudaw-sorani",
+    "category": "culture",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "سلێمانی",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:44:32.445501+00:00",
+    "location": {
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "Evian Towers Housing Project",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:44:23.443794+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c60bcf9214db330a",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
+    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:44:13.967029+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "Bakuor in Gulan",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Gulan",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:44:03.295173+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "52543ee8b4451266",
+    "url": "https://www.rudaw.net/sorani/business/16052026",
+    "title": "یەک دۆلار بە زیاتر لە 180 هەزار تمەن مامەڵەی پێوەدەکرێت",
+    "title_en": "One dollar will be traded for more than 180 thousand dinars",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بانکی رافیدەین و کۆمپانیایی دڵنیایی عێراق چوونە پاڵ وەزارەتی دارایی فیدراڵ بۆ سکاڵاکردن لە دژی بڕیارێکی 34 ساڵ لەمەوبەری حکومەتی هەرێمی کوردستان کە تایبەتە بە بە ناوکردنى موڵکەکانی حکومەت، بە گوتەی پسپۆڕێکی یاسایی، دادگە سکاڵاکان رەتدەکاتەوە بە پاساوی ئەوەی بەشێک نییە لە تایبەتمەندییەکانی.",
+    "source": "rudaw-sorani",
+    "category": "economy",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Federal Ministry of Finance",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:43:47.584928+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "See the line that connects Iraq to Europe",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-16T04:43:37.751063+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "72bd6c5f454eaa7c",
     "url": "https://www.rudaw.net/english/world/15052026",
     "title": "China congratulates PM Zaidi on his appointment, backs expanded ties with Iraq",
     "title_en": "China congratulates PM Zaidi on his appointment, backs expanded ties with Iraq",
     "summary": "ERBIL, Kurdistan Region - The Chinese foreign ministry on Friday, in a statement to Rudaw, expressed its congratulations to newly appointed Iraqi Prime Minister Ali al-Zaidi, emphasizing the “great importance” Beijing attaches to its relations with Baghdad and its desire to expand bilateral ties. “China congratulates Mr. al-Zaidi on his appointment as the new Prime Minister of Iraq,” the ministry said. “China has always attached great importance to developing relations with Iraq and looks forward to deepening traditional friendship, consolidating political trust, expanding cooperation in energy, trade, infrastructure, etc., and strengthening cultural exchanges, and promoting the continuous progress of Sino-Iraqi relations,” the statement added. Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. President Nizar Amedi on the same day tasked Zaidi with forming a new government and presenting his ministerial program to parliament within 30 days of his designation, as stipulated in the Iraqi constitution. In the following days, the prime minister-designate held consultations with different political forces to discuss the distribution of ministerial portfolios. Zaidi on Thursday submitted his government program to Parliament Speaker Haibat al-Halbousi, the state-run Iraqi News Agency (INA) reported. The Iraqi legislature on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. RELATED: Iraqi parliament approves Zaidi as PM, votes 14 ministers in  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that ",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -78,9 +405,30 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ajaj Ahmed Hardan",
+        "type": "PERSON"
+      },
+      {
+        "name": "Duhok",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Erbil",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Baghdad",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-16T04:15:32.613931+00:00",
     "location": {
@@ -96,7 +444,7 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -216,31 +564,13 @@
     }
   },
   {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T04:12:08.089284+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "53f6e51b7b963f9e",
     "url": "https://www.rudaw.net/sorani/kurdistan/1505202619",
     "title": "بە بەشداری 118 گوند سەیرانی ساڵانەی هۆزی سلێڤانەیی لە زاخۆ بەڕێوەچوو",
     "title_en": "بە بەشداری 118 گوند سەیرانی ساڵانەی هۆزی سلێڤانەیی لە زاخۆ بەڕێوەچوو",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -265,24 +595,6 @@
     "timestamp": "2026-05-16T03:46:26.283323+00:00",
     "location": {
       "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f28822746b4af19c",
-    "url": "https://www.rudaw.net/english/middleeast/syria/15052026",
-    "title": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
-    "title_en": "Turkish diplomat calls for full implementation of SDF-Damascus deal",
-    "summary": "NEW YORK - Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. “There is no place for dual structures in a unified Syria, and then this deal between SDF and Syrian government should be implemented fully, and all structures should be integrated in a unified system,” Turkey’s permanent representative to the UN, Ahmet Yildiz, told Rudaw. The comments come against the backdrop of a landmark January 29 agreement between the SDF and Damascus, reached after weeks of clashes and brokered with mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal followed a sharp escalation in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Turkey’s ambassador to the United Nations said Friday the agreement between the Kurdish-led Syrian Democratic Forces (SDF) and the Syrian government should be fully implemented, stressing the need for a “unified system” in Syria. READ MORE: https://t.co/nfd7zSmoli pic.twitter.com/i4fmrM2kcK Yildiz said Turkey is “closely coordinating with Syrian leadership and authorities in a good way,” adding that there is “a lot to do” in Syria regarding regional connectivity and economic recovery.  China’s UN Ambassador Fu Cong tells Rudaw's @namo_abdulla that the Syrian government should treat the issue of Kurdish language “with care,\" calling for “inclusive dialogue.” pic.twitter.com/0zc5D0V6rw  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your commen",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:46:09.970298+00:00",
-    "location": {
-      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -432,24 +744,6 @@
     }
   },
   {
-    "id": "b69eb8c23ad59135",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/150520261",
-    "title": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
-    "title_en": "President Barzani hails Zaidi’s appointment, urges resolution of Erbil-Baghdad issues",
-    "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani on Friday congratulated Iraqi Prime Minister Ali al-Zaidi on assuming office, reaffirming the Kurdistan Region’s readiness to cooperate with the new federal cabinet within the framework of the constitution to resolve “all outstanding issues” between Erbil and Baghdad. “I extend my warmest congratulations to my dear brother Mr. Ali Falih al-Zaidi, Prime Minister of the Federal Republic of Iraq, on gaining the confidence of the Iraqi Council of Representatives and on the commencement of his cabinet’s duties,” President Barzani said in a statement from the Kurdistan Region Presidency. The Kurdish leader wished Zaidi and his cabinet “every success in carrying out their significant responsibilities,” expressing hope that the new government would “mark the beginning of a new phase of stability and progress for all of Iraq.” Iraqi ruling Shiite Coordination Framework - the largest bloc in parliament, holding 174 seats in the 329-member legislature - in late April named Zaidi as its candidate for prime minister, a post traditionally held by a Shiite. Lawmakers on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. President Barzani also reaffirmed the Kurdistan Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” He added that “Iraq is a wealthy country with great potential, and Iraqis of all components deserve a dignified life, better services, and lasting security and stability,” expressing confidence that through the efforts of all parties, “We can move toward a better future and confront all challenges and",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:15:20.819294+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "99803a750c50ad7a",
     "url": "https://www.rudaw.net/english/world/01052024",
     "title": "Germany deports Kurdish family with health issues to Iraq",
@@ -497,24 +791,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T03:12:55.694188+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "17fa0988bfe506fa",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1505202620",
-    "title": "زمانناسێکی ئامەد: قسەکردن بە زمانی کوردی لەنێو گەنجانی باکووری کوردستان رووی لە کەمبوونەوەیە",
-    "title_en": "زمانناسێکی ئامەد: قسەکردن بە زمانی کوردی لەنێو گەنجانی باکووری کوردستان رووی لە کەمبوونەوەیە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T03:12:44.909509+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -600,9 +876,26 @@
     "title_en": "Kurdish leaders congratulate Zaidi on his PM appointment",
     "summary": "ERBIL, Kurdistan Region - Leaders and officials from the Kurdistan Region congratulated Ali al-Zaidi for his appointment as the new Iraqi prime minister. Kurdistan Region President Nechirvan Barzani congratulated Ali al-Zaidi for his appointment as the new Iraqi prime minister, wishing him and his cabinet \"every success in performing their duties and responsibilities in a manner that serves all Iraqis of all backgrounds\" while fulfilling their aspirations of \"further security, stability, progress, and prosperity.\" Kurdistan Region Prime Minister Masrour Barzani congratulated Ali al-Zaidi on his appointment as Iraq’s premier, expressing hope that it would mark “the beginning of a new phase of stability and peace in Iraq, the resolution of all issues, the implementation of the Constitution, and improved relations between the Kurdistan Region and the federal government.” Meanwhile, Bafel Talabani, leader of the Patriotic Union of Kurdistan (PUK), said his party is “eager to support in ensuring the government’s national and service projects, as well as in unifying all efforts to overcome challenges and resolve outstanding issues.” In the 329-seat Iraqi legislature, 266 lawmakers were present to deliver the vote of confidence. Except for three Kurdish opposition parties totaling 10 seats and a Shiite party with eight seats, all other Shiite, Sunni, and Kurdish blocs attended the session. Kurdish opposition parties - the National Stance Movement (Halwest), the Islamic Union of Kurdistan (KIU), and the Kurdistan Justice Group (Komal) - didn’t attend, saying talks are ongoing over a joint ministerial post and a memorandum submitted to Zaidi concerning demands related to the Kurdistan Region. During a press conference before the confidence vote session, Muthana Amin from the KIU said that “Zaidi’s government agenda has not addressed the root problems with the Kurdistan Region.” Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to t",
     "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
+    "category": "politics",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Ali al-Zaidi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Nechirvan Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Masrour Barzani",
+        "type": "PERSON"
+      },
+      {
+        "name": "Kurdistan Region",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
     "timestamp": "2026-05-16T02:45:37.034496+00:00",
     "location": {
@@ -666,24 +959,6 @@
     }
   },
   {
-    "id": "109d14781aa1c125",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1505202617",
-    "title": "لە دووکان و سلێمانی هەورەبرووسکە سێ کەس دەکوژێت؛ پێشمەرگە و شوانێک لەنێو قوربانییەکاندان",
-    "title_en": "لە دووکان و سلێمانی هەورەبرووسکە سێ کەس دەکوژێت؛ پێشمەرگە و شوانێک لەنێو قوربانییەکاندان",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پەیامنێری رووداو دەڵێت، گەنجێک لە سنووری سلێمانی بە هەورەبرووسکە گیانی لەدەستدا.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:42:04.147544+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "bebf6f2b1a37f0ca",
     "url": "https://www.rudaw.net/sorani/world/1505202619",
     "title": "لەنێو سندووقی پارچەی ئۆتۆمبێلدا؛ پێنج کۆچبەری عێراقی و ئێرانی لە مردن رزگارکران",
@@ -738,24 +1013,6 @@
     }
   },
   {
-    "id": "003873a8eebe8653",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
-    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T02:15:09.487443+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "315875343b6bb727",
     "url": "https://www.rudaw.net/sorani/middleeast/150520262",
     "title": "ئیسرائیل فەرماندەی باڵی سەربازیی حەماس لە غەززە دەکاتە ئامانج",
@@ -767,24 +1024,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T01:46:37.959725+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "6b0ce152c1166677",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/15052026",
-    "title": "Kurdistan salaries crisis addressed in Iraq’s new government program: Lawmaker",
-    "title_en": "Kurdistan salaries crisis addressed in Iraq’s new government program: Lawmaker",
-    "summary": "ERBIL, Kurdistan Region - The decade-long dispute between the Kurdistan Region and Baghdad over civil servant salaries has been addressed in the ministerial program of Iraq’s newly appointed prime minister Ali al-Zaidi, following an agreement between Kurdistan Region President Nechirvan Barzani and the ruling Shiite Coordination Framework, a prominent Kurdish lawmaker told Rudaw. “An agreement has been reached to address the stalled salaries of civil servants in the Kurdistan Region,” Ashwaq Jaf, a senior member of the Kurdistan Democratic Party (KDP) bloc in the Iraqi parliament, said on Thursday. She added that “one of the key points Kurdistan Region President Nechirvan Barzani agreed on with the Coordination Framework parties in Baghdad was resolving the salaries issue, and based on this agreement, the matter has been included in the [incoming] Iraqi government’s ministerial program.” The Kurdistan Region's salary issue is a persistent financial crisis rooted in a revenue-for-funding dispute between Erbil and Baghdad, where the federal government often withholds monthly payroll transfers - totaling roughly $650 million to $800 million - due to disagreements over Erbil’s oil exports and non-oil revenues. This has resulted in a decade of \"missing\" or deducted months, leaving a $21 billion debt in unpaid arrears to over a million civil servants in the Region and causing widespread economic stagnation and strikes. As of May 2026, while the Kurdistan Regional Government (KRG) has improved compliance by remitting non-oil revenues and implementing the MyAccount digital payroll system for transparency, payments remain irregular and tied to the shifting political whims. The Iraqi legislature on Thursday gave its vote of confidence in Zaidi, approving his government program and 14 members of his cabinet line-up, this while votes on nine remaining ministerial positions, including the crucial defense and interior portfolios, were deferred. While the KDP’s nominee for a secon",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T01:16:34.125087+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -839,24 +1078,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-16T01:12:18.285580+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T00:45:33.782227+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -936,24 +1157,6 @@
     }
   },
   {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کەشناسیی هەرێمی کوردستان و شارەزایەکی بواری کەشناسی پێشبینی دەکەن سبەی شەممە باران لە بەشێکی باشووری کوردستان ببارێ؛ باران لە ناوچە شاخاوییەکان زیاتر دەبێت.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-16T00:22:58.931288+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2a976555c68da2d5",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
@@ -1008,24 +1211,6 @@
     }
   },
   {
-    "id": "39f4ea42ca82fa4c",
-    "url": "https://www.rudaw.net/english/middleeast/15052026",
-    "title": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
-    "title_en": "China urges ‘lasting’ US-Iran ceasefire, warns of global economic impact",
-    "summary": "ERBIL, Kurdistan Region - China on Friday said the Iran war “should never have happened” and has inflicted serious losses on people across the region as well as on the global economy, urging dialogue instead of “a military solution” and stressing the need to achieve a “comprehensive and lasting ceasefire,” according to a statement from Beijing’s foreign ministry. “This conflict, which should never have happened, has no reason to continue,” the ministry said, adding that the war “has caused serious losses to the people of countries in the region, including Iran.” Beijing warned that the spillover effects of the conflict “continue to expand, severely impacting global economic development, the smooth operation of supply chains, international trade order, and the stability of global energy supply,” thereby harming “the common interests of the international community.” “Finding a solution as soon as possible is beneficial to both the US and Iran, as well as to countries in the region and the world as a whole,” the statement added. The US and Israel launched a wide scale aerial campaign against Iran on February 28, striking thousands of targets across the country over six weeks of hostilities before the warring sides agreed to a Pakistan-mediated ceasefire on April 8. The truce halted fighting for two weeks and paved the way for negotiations. While the first round of talks concluded without a final agreement on April 11, a second round has yet to take place, with a comprehensive resolution to the conflict still pending. China on Friday reaffirmed its support for the US-Iran ceasefire, stressing that “dialogue and negotiation are the right path, and that a military solution is not the way out.” “Now that the door to dialogue has been opened, it should not be closed again,” the Chinese foreign ministry said, calling for efforts to “stabilize the momentum of easing tensions” and maintain “the general direction of a political solution.” It added that a resolution addressing “",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T22:15:31.628875+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "43559af35c3d4cf8",
     "url": "https://www.rudaw.net/sorani/world/1505202615",
     "title": "نوێنەری تورکیا لە UN بۆ رووداو: لە سووریایەکی یەکگرتوودا شوێن بۆ پێکهاتەی هاوتەریب نابێتەوە",
@@ -1073,24 +1258,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T21:43:58.251970+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c60bcf9214db330a",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
-    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T21:43:40.477175+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1685,24 +1852,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-15T14:43:24.990445+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمڕۆ پێنجشەممە، نرخی زێڕ لە بازنەیەکی سنوورداردا مامەڵەی پێوەدەکرێت و نزیکەی 10 دۆلاری دیکە لە هەر ئۆنسەیەکدا دابەزی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-15T14:42:56.595509+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -9016,6 +9165,42 @@
     "title": "74ـەمین ساڵیادی دامەزراندنی پارتی دیموکراتی کوردستان",
     "title_en": "74ـەمین ساڵیادی دامەزراندنی پارتی دیموکراتی کوردستان",
     "summary": "شاهۆ ئەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە پارتی تاوەکو ئێستا 13 کۆنگرەی بەستووە نیشانەکردن پارتی بابەتە پەیوەندیدارەکان پارتی: پێویستمان بە هەماهەنگیی زیاترە بۆ رووبەڕووبوونەوەی هەوڵی لاوازکردنی قەوارەی هەرێمی کوردستان شاندی پارتی و یەکێتی لە ماڵی مام جەلال لە بەغدا کۆبوونەوە شاندێکی مەکتەبی سیاسی پارتی لە بەغدا لەگەڵ چوارچێوەی هاوئاهەنگی کۆدەبێت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "22c6e23017353972",
+    "url": "https://www.rudaw.net/sorani/business/160520262",
+    "title": "نرخی نەوتی برێنت بە زیاتر لە 109 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "نرخی نەوتی برێنت بە زیاتر لە 109 دۆلار مامەڵەی پێوەدەکرێت",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری بەرمیلی نەوت زۆرتر لە ئابووری نرخی زێڕ دابەزی بۆ 4545 دۆلار یەک دۆلار بە زیاتر لە 180 هەزار تمەن مامەڵەی پێوەدەکرێت مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن چین و ئەمریکا 'بۆردێکی بازرگانی' دروست دەکەن؛ شەڕی ئابووری زیانی ملیارەها دۆلاری داوە A+ A- رووداو دیجیتاڵ نرخ",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42196aa0a02e75d4",
+    "url": "https://www.rudaw.net/sorani/business/160520261",
+    "title": "نرخی زێڕ دابەزی بۆ 4545 دۆلار",
+    "title_en": "نرخی زێڕ دابەزی بۆ 4545 دۆلار",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری زێڕ زۆرتر لە ئابووری نرخی نەوتی برێنت بە زیاتر لە 109 دۆلار مامەڵەی پێوەدەکرێت یەک دۆلار بە زیاتر لە 180 هەزار تمەن مامەڵەی پێوەدەکرێت مووچە کەوتە دەست پیاوێکی 'دەستنووقاو و منجڕ'؛ رەوتەکەی دڵنیایی دەداتە کورد: مەترسن چین و ئەمریکا 'بۆردێکی بازرگانی' دروست دەکەن؛ شەڕی ئابووری زیانی ملیارەها دۆلاری داوە A+ A-",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
