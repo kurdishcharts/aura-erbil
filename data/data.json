@@ -1,16 +1,34 @@
 [
   {
-    "id": "5b099a6845e9a270",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
-    "title": "BP resumes operations in Kirkuk after war-related suspension",
-    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
-    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
+    "id": "f7802d4d1bf10cec",
+    "url": "https://www.rudaw.net/english/middleeast/17052026",
+    "title": "Drone strike sparks fire near UAE nuclear plant",
+    "title_en": "Drone strike sparks fire near UAE nuclear plant",
+    "summary": "ERBIL, Kurdistan Region - A drone attack in the United Arab Emirates (UAE) on Sunday sparked a fire near the Barakah nuclear power plant, authorities said, adding that no injuries were reported and there was “no impact on radiological safety levels.” “Authorities in Abu Dhabi responded to a fire incident that broke out in an electrical generator outside the inner perimeter of the Barakah Nuclear Power Plant in the Al Dhafra Region, caused by a drone strike,” Abu Dhabi’s media office said, adding that “No injuries were reported, and there was no impact on radiological safety levels.” No party has claimed responsibility for the attack at the time of writing. Iran has accused the UAE of being complicit in the US-Israel military campaign launched against it since February 28, saying Abu Dhabi provides support to its adversaries. Last week, despite a truce between Washington and Tehran, the UAE was targeted with around two dozen projectiles launched by Iran. Abu Dhabi has said it reserves the right to respond. It said the country’s nuclear regulatory agency confirmed that the fire “did not affect the safety of the power plant or the readiness of its essential systems, and that all units are operating as normal.” The International Atomic Energy Agency (IAEA) said in a post that the UAE informed it that emergency diesel generators are supplying power to Unit 3 of the plant. IAEA chief Rafael Grossi expressed concern over the attack, saying “military activity that threatens nuclear safety is unacceptable,” according to the United Nations’ nuclear watchdog. Iranian Foreign Minister Abbas Araqchi said on Thursday that Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran. The UAE has been a primary target for attacks from Iran and its allied armed",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-17T15:47:41.460827+00:00",
+    "timestamp": "2026-05-17T16:17:27.384110+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8c199fc967512137",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/16052026",
+    "title": "Iraq exported 10 million barrels of oil through Hormuz in April: Minister",
+    "title_en": "Iraq exported 10 million barrels of oil through Hormuz in April: Minister",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s newly appointed oil minister Basim Mohammed Khudair said on Saturday that Baghdad exported nearly 10 million barrels of crude through the Strait of Hormuz in April, despite war-related restrictions in the waterway. In response to a question from Rudaw’s Ziyad Ismael at his first press conference as oil minister, Khudair said that before wartime restrictions Iraq “exported 93 million barrels of oil per month” through the strait, but in April exports fell to 10 million barrels. “Oil exports through the Strait of Hormuz have suffered a major decline due to the ongoing war,” Khudair said, adding that oil exports depend on the arrival of tankers. \"Previously, tankers would come and were insured, but now, because the geographical area of the Strait of Hormuz is a hot zone, shipping companies are refusing to send their vessels through, except for a very small number,\" Khudair added. Strait of Hormuz, a strategic waterway through which at least one-fifth of global oil supplies pass, has been under tit-for-tat restrictions from the United States and Iran since the outbreak of their war on February 28 - which has been tenuously ended on April 8 through a Pakistani-brokered ceasefire. Less than a week after the ceasefire, the US government imposed a blockade on vessels arriving and leaving Iranian ports, effectively preventing Iran from selling oil and forcing it to significantly reduce production. Iran has responded with impeding naval traffic in the Persian Gulf and the Gulf of Oman, tampering with the passing vessels’ signals, imposing unofficial taxes, and attacking the vessels that do not comply with its “instructions” or don’t take “permission” to pass. Consequently, Iraqi oil exports dropped to 18.6 million barrels in March, generating about $1.96 billion in revenue, compared with more than 99 million barrels and $6.81 billion in February. Furthermore, the Iraqi oil minister said they will “complete” the work of the former government cab",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:17:03.283605+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +46,205 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-17T15:47:29.137396+00:00",
+    "timestamp": "2026-05-17T16:16:52.993727+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7d83f2ed61166d6d",
+    "url": "https://www.rudaw.net/english/kurdistan/16052026",
+    "title": "Remains believed to be of three Iraqi soldiers found in Erbil",
+    "title_en": "Remains believed to be of three Iraqi soldiers found in Erbil",
+    "summary": "ERBIL, Kurdistan Region - The remains of three Iraqi soldiers believed to have been killed during the Iran-Iraq war in the 1980s have been discovered in the Haji Omran border area of Erbil province, local officials said on Friday. The remains were uncovered on Wednesday while a farmer was plowing agricultural land in the mountainous border district, according to local authorities. Military identification tags found alongside the bones indicate the men were members of the Iraqi army and were killed during the eight-year war between Iraq and Iran, which lasted from 1980 to 1988. “We informed the Kurdistan Region’s Ministry of Martyrs and Anfal Affairs about the discovery of the remains, and they in turn will notify the relevant authorities in Baghdad,” Abdulwahab Mahmood, director of the Haji Omran subdistrict, told Rudaw. The tags include details such as the soldiers’ names, religion, and blood type. One tag carried the name Mousa Younis Wahabi with blood type O+, while another belonged to Sadiq Mohammed Mustafa, who also had blood type O+. The third tag bore the name Mohammed Shukri, also with blood type O+. Rudaw has learned that the three sets of remains were found lying side by side. Mahmood said the remains are currently being preserved by local authorities until they are handed over to relevant bodies in Baghdad. A delegation from Baghdad is believed to arrive in Erbil to take the remains to the Iraqi capital for confirmation of their identities. The Iran-Iraq war was one of the deadliest conflicts in modern Middle Eastern history, leaving hundreds of thousands dead on both sides. Large stretches of the Kurdistan Region, particularly border areas such as Haji Omran, witnessed intense battles, bombardments, and troop movements during the conflict. Decades after the war ended, human remains, unexploded ordnance, and military equipment are still occasionally discovered in the mountainous border regions between Iraq and Iran. Andam Jabar contributed to this article",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:16:42.619805+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "003873a8eebe8653",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
+    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:16:26.043792+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e0f76ec662c0ecf",
+    "url": "https://www.rudaw.net/sorani/opinion/17052026",
+    "title": "ڤیجای تالاپاتی؛ سیاسەت بە تامی سینەما",
+    "title_en": "ڤیجای تالاپاتی؛ سیاسەت بە تامی سینەما",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە کەلەجان و جۆش و خرۆشەوە هەموو هێزی خۆی داوە بەسەر گۆچانە داربەڕووەکەی دەستی دا بۆ ئەوەی گوشار لەسەر قاچەکەی کەم بکاتەوە. دەیویست بەو چاوانەی خۆی کەسێک ببینێ، ئەو کەسەی لە هەر چیرۆکێک دا ناوی هەبێ بە دوای دا ئەشکەنجەی دڕندانە و نامووسشکێنی و سەگی تەرمخۆر  دێن. چاوەڕوانی ئەو دیدارە حەوسەلەی نەهێشتووە \"پێم حەیف بوو بمرم و بەدەستی بەتاڵ بگەڕێمەوە بۆلای کەسوکارەکەم لە نێو گۆڕەبەکۆمەڵەکان و هەواڵەکەیان پێنەگەیێنم\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:14:31.637513+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e83a2f2b36c1e7a",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
+    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان پیرۆزبایی لە نامۆ فازڵ، یاریزانی هونەرە جەنگییە تێکەڵاوەکان دەکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:14:21.588305+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bc55cf83ca7cec93",
+    "url": "https://www.rudaw.net/sorani/world/15012024",
+    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆسیەی کوشتنی جەمال خاشوقچی، رۆژنامەڤانی سعودی، کە لە ساڵی 2018 لەنێو کۆنسووڵخانەی ئیستەنبووڵ کوژرا، لە فەرەنسا دەخرێتە ژێر لێکۆڵینەوەی دادوەری. ئەمەش دوای ئەوە دێت کە دادگەی پێداچوونەوەی پاریس سکاڵایەکی رێکخراوەکانی مافی مرۆڤی قبووڵ کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:14:04.272240+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "19bcb1891e051804",
+    "url": "https://www.rudaw.net/sorani/world/170520265",
+    "title": "سێنتکۆم دەڵێت لە تەنگەی هورمز رێگرییان لە 85 کەشتی کردووە",
+    "title_en": "سێنتکۆم دەڵێت لە تەنگەی هورمز رێگرییان لە 85 کەشتی کردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ رۆژی شەممە، کەشتیی فڕۆکەهەڵگری (USS Gerald R. Ford) کە گەورەترین کەشتیی فڕۆکەهەڵگری جیهانە، دوای 11 مانگ مانەوە لە دەریا گەڕایەوە ویلایەتی ڤێرجینیا لە ئەمریکا. ئەمە درێژترین ئەرکی سەربازییە لە دوای جەنگی ڤیێتنامەوە، کە تێیدا کەشتییەکە پاڵپشتیی جەنگی ئەمریکای دژی ئێران کرد و بەشداریی لە ئۆپەراسیۆنی دەستگیرکردنی نیکۆلاس مادۆرۆ، سەرۆکی پێشووی ڤەنزوێلادا کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:13:53.422398+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09510ae01b6da16b",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1705202615",
+    "title": "پێشمەرگەیەک لە چەمچەماڵ: بەبێ ئەوەی پارە رابکێشم مووچەکەم لە نێو هەژمارەکەمدا نەماوە",
+    "title_en": "پێشمەرگەیەک لە چەمچەماڵ: بەبێ ئەوەی پارە رابکێشم مووچەکەم لە نێو هەژمارەکەمدا نەماوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سبەی جووتیارانی سنووری پارێزگای کەرکووک دژی وەرنەگرتنی گەنمی بەشێکیان بە نرخی پاڵپشتیکراو گردبوونەوەی ناڕەزایی دەکەن. نونەرێکیان دەڵێ، \"ئەو گەنمەی بە نرخی کەم وەردەگیرێ بەرهەمی کورد و تورکمانە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:13:42.432244+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "df6a85ed0e09379c",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1705202617",
+    "title": "کاتی دانیشتنی نوێی دادگاییکردنی لاهوور شێخ جەنگی و هاوڕێکانی دیاریکرا",
+    "title_en": "کاتی دانیشتنی نوێی دادگاییکردنی لاهوور شێخ جەنگی و هاوڕێکانی دیاریکرا",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سبەی جووتیارانی سنووری پارێزگای کەرکووک دژی وەرنەگرتنی گەنمی بەشێکیان بە نرخی پاڵپشتیکراو گردبوونەوەی ناڕەزایی دەکەن. نونەرێکیان دەڵێ، \"ئەو گەنمەی بە نرخی کەم وەردەگیرێ بەرهەمی کورد و تورکمانە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:13:31.041408+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a961a9579c711a3",
+    "url": "https://www.rudaw.net/sorani/world/020720251",
+    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆسیەی کوشتنی جەمال خاشوقچی، رۆژنامەڤانی سعودی، کە لە ساڵی 2018 لەنێو کۆنسووڵخانەی ئیستەنبووڵ کوژرا، لە فەرەنسا دەخرێتە ژێر لێکۆڵینەوەی دادوەری. ئەمەش دوای ئەوە دێت کە دادگەی پێداچوونەوەی پاریس سکاڵایەکی رێکخراوەکانی مافی مرۆڤی قبووڵ کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:13:13.014285+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T16:13:01.935471+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b099a6845e9a270",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
+    "title": "BP resumes operations in Kirkuk after war-related suspension",
+    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
+    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-17T15:47:41.460827+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -162,24 +378,6 @@
     }
   },
   {
-    "id": "09510ae01b6da16b",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1705202615",
-    "title": "پێشمەرگەیەک لە چەمچەماڵ: بەبێ ئەوەی پارە رابکێشم مووچەکەم لە نێو هەژمارەکەمدا نەماوە",
-    "title_en": "پێشمەرگەیەک لە چەمچەماڵ: بەبێ ئەوەی پارە رابکێشم مووچەکەم لە نێو هەژمارەکەمدا نەماوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای زیاتر لە دوو مانگ، گەشتی ئاسمانیی کەرکووک - ئیستەنبووڵ دەستیپێکردەوە و یەکەم فڕۆکە لە شارەکەی باشووری کوردستانەوە بەرەو ئیستەنبووڵ فڕی",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T15:43:03.746978+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "63ab57b280469217",
     "url": "https://www.rudaw.net/sorani/sports/250520233",
     "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
@@ -209,24 +407,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T15:13:43.307055+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "19bcb1891e051804",
-    "url": "https://www.rudaw.net/sorani/world/170520265",
-    "title": "سێنتکۆم دەڵێت لە تەنگەی هورمز رێگرییان لە 85 کەشتی کردووە",
-    "title_en": "سێنتکۆم دەڵێت لە تەنگەی هورمز رێگرییان لە 85 کەشتی کردووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ رۆژی شەممە، کەشتیی فڕۆکەهەڵگری (USS Gerald R. Ford) کە گەورەترین کەشتیی فڕۆکەهەڵگری جیهانە، دوای 11 مانگ مانەوە لە دەریا گەڕایەوە ویلایەتی ڤێرجینیا لە ئەمریکا. ئەمە درێژترین ئەرکی سەربازییە لە دوای جەنگی ڤیێتنامەوە، کە تێیدا کەشتییەکە پاڵپشتیی جەنگی ئەمریکای دژی ئێران کرد و بەشداریی لە ئۆپەراسیۆنی دەستگیرکردنی نیکۆلاس مادۆرۆ، سەرۆکی پێشووی ڤەنزوێلادا کرد",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T15:13:32.607277+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -281,24 +461,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T15:12:51.481386+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "003873a8eebe8653",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
-    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T14:47:15.010059+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -594,42 +756,6 @@
     }
   },
   {
-    "id": "f7802d4d1bf10cec",
-    "url": "https://www.rudaw.net/english/middleeast/17052026",
-    "title": "Drone strike sparks fire near UAE nuclear plant",
-    "title_en": "Drone strike sparks fire near UAE nuclear plant",
-    "summary": "ERBIL, Kurdistan Region - A drone attack in the United Arab Emirates (UAE) on Sunday sparked a fire near the Barakah nuclear power plant, authorities said, adding that no injuries were reported and there was “no impact on radiological safety levels.” “Authorities in Abu Dhabi responded to a fire incident that broke out in an electrical generator outside the inner perimeter of the Barakah Nuclear Power Plant in the Al Dhafra Region, caused by a drone strike,” Abu Dhabi’s media office said, adding that “No injuries were reported, and there was no impact on radiological safety levels.” No party has claimed responsibility for the attack at the time of writing. Iran has accused the UAE of being complicit in the US-Israel military campaign launched against it since February 28, saying Abu Dhabi provides support to its adversaries. Last week, despite a truce between Washington and Tehran, the UAE was targeted with around two dozen projectiles launched by Iran. Abu Dhabi has said it reserves the right to respond. It said the country’s nuclear regulatory agency confirmed that the fire “did not affect the safety of the power plant or the readiness of its essential systems, and that all units are operating as normal.” The International Atomic Energy Agency (IAEA) said in a post that the UAE informed it that emergency diesel generators are supplying power to Unit 3 of the plant. IAEA chief Rafael Grossi expressed concern over the attack, saying “military activity that threatens nuclear safety is unacceptable,” according to the United Nations’ nuclear watchdog. Iranian Foreign Minister Abbas Araqchi said on Thursday that Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran. The UAE has been a primary target for attacks from Iran and its allied armed",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T14:17:53.993881+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "4e83a2f2b36c1e7a",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
-    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە سنووری قەزای دووکان لە پارێزگای سلێمانی، لە شەڕی نێوان چەند کەسێکدا، کوڕێک کوژرا و باوکیشی بریندارە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T14:14:43.716844+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "37f552d6e84073d1",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
     "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
@@ -713,24 +839,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T13:47:00.651013+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "8c199fc967512137",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/16052026",
-    "title": "Iraq exported 10 million barrels of oil through Hormuz in April: Minister",
-    "title_en": "Iraq exported 10 million barrels of oil through Hormuz in April: Minister",
-    "summary": "ERBIL, Kurdistan Region - Iraq’s newly appointed oil minister Basim Mohammed Khudair said on Saturday that Baghdad exported nearly 10 million barrels of crude through the Strait of Hormuz in April, despite war-related restrictions in the waterway. In response to a question from Rudaw’s Ziyad Ismael at his first press conference as oil minister, Khudair said that before wartime restrictions Iraq “exported 93 million barrels of oil per month” through the strait, but in April exports fell to 10 million barrels. “Oil exports through the Strait of Hormuz have suffered a major decline due to the ongoing war,” Khudair said, adding that oil exports depend on the arrival of tankers. \"Previously, tankers would come and were insured, but now, because the geographical area of the Strait of Hormuz is a hot zone, shipping companies are refusing to send their vessels through, except for a very small number,\" Khudair added. Strait of Hormuz, a strategic waterway through which at least one-fifth of global oil supplies pass, has been under tit-for-tat restrictions from the United States and Iran since the outbreak of their war on February 28 - which has been tenuously ended on April 8 through a Pakistani-brokered ceasefire. Less than a week after the ceasefire, the US government imposed a blockade on vessels arriving and leaving Iranian ports, effectively preventing Iran from selling oil and forcing it to significantly reduce production. Iran has responded with impeding naval traffic in the Persian Gulf and the Gulf of Oman, tampering with the passing vessels’ signals, imposing unofficial taxes, and attacking the vessels that do not comply with its “instructions” or don’t take “permission” to pass. Consequently, Iraqi oil exports dropped to 18.6 million barrels in March, generating about $1.96 billion in revenue, compared with more than 99 million barrels and $6.81 billion in February. Furthermore, the Iraqi oil minister said they will “complete” the work of the former government cab",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T13:46:02.093139+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -875,42 +983,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T13:15:29.350166+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T13:13:27.068823+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "3a961a9579c711a3",
-    "url": "https://www.rudaw.net/sorani/world/020720251",
-    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئانا کێلی، گوتەبێژی کۆشکی سپی رایگەیاند، دۆناڵد ترەمپ، سەرۆکی ئەمریکا هێشتا چارسەری دیپلۆماسی پێ باشترە لە دەستپێکردنەوەی جەنگ دژی ئێران.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T13:13:01.546321+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1638,24 +1710,6 @@
     }
   },
   {
-    "id": "bc55cf83ca7cec93",
-    "url": "https://www.rudaw.net/sorani/world/15012024",
-    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لێدوانی ڤلادیمێر پوتین، سەرۆکی رووسیا، سەبارەت بە ئامادەیی مۆسکۆ بۆ گواستنەوەی یۆرانیۆمی پیتێنراوی ئێران بۆ رووسیا، لەلایەن سیاسەتمەداران و پسپۆڕانەوە وەک کلیلی چارەسەری قەیرانی ئێران هەژمار دەکرێت.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T08:18:12.329213+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "40b82a6962e61057",
     "url": "https://www.rudaw.net/sorani/interview/17052026",
     "title": "دەزگای پڕۆگرامەکان بۆ رووداو: لیژنەیەکی هاوبەش لە شام کتێبی کوردی ئامادە دەکات",
@@ -2054,24 +2108,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T04:12:37.377410+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "7d83f2ed61166d6d",
-    "url": "https://www.rudaw.net/english/kurdistan/16052026",
-    "title": "Remains believed to be of three Iraqi soldiers found in Erbil",
-    "title_en": "Remains believed to be of three Iraqi soldiers found in Erbil",
-    "summary": "ERBIL, Kurdistan Region - The remains of three Iraqi soldiers believed to have been killed during the Iran-Iraq war in the 1980s have been discovered in the Haji Omran border area of Erbil province, local officials said on Friday. The remains were uncovered on Wednesday while a farmer was plowing agricultural land in the mountainous border district, according to local authorities. Military identification tags found alongside the bones indicate the men were members of the Iraqi army and were killed during the eight-year war between Iraq and Iran, which lasted from 1980 to 1988. “We informed the Kurdistan Region’s Ministry of Martyrs and Anfal Affairs about the discovery of the remains, and they in turn will notify the relevant authorities in Baghdad,” Abdulwahab Mahmood, director of the Haji Omran subdistrict, told Rudaw. The tags include details such as the soldiers’ names, religion, and blood type. One tag carried the name Mousa Younis Wahabi with blood type O+, while another belonged to Sadiq Mohammed Mustafa, who also had blood type O+. The third tag bore the name Mohammed Shukri, also with blood type O+. Rudaw has learned that the three sets of remains were found lying side by side. Mahmood said the remains are currently being preserved by local authorities until they are handed over to relevant bodies in Baghdad. A delegation from Baghdad is believed to arrive in Erbil to take the remains to the Iraqi capital for confirmation of their identities. The Iran-Iraq war was one of the deadliest conflicts in modern Middle Eastern history, leaving hundreds of thousands dead on both sides. Large stretches of the Kurdistan Region, particularly border areas such as Haji Omran, witnessed intense battles, bombardments, and troop movements during the conflict. Decades after the war ended, human remains, unexploded ordnance, and military equipment are still occasionally discovered in the mountainous border regions between Iraq and Iran. Andam Jabar contributed to this article",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T03:47:19.428148+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -11749,6 +11785,60 @@
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا ئاڵای تورکیا لەگەڵ ژمارەیەک ئایکۆنی تۆڕەکۆمەڵایەتییەکان. زۆرتر لە تورکیا تورکیا ئامادەکاری بۆ لووتکەی ناتۆ دەکات و شوێنێک بۆ وەرزشەکەی ماکرۆن دیاری دەکرێت گەشتوگوزاری تورکیا: هەر دراما و فیلمێک بایەخ بە ناوچە گەشتیارییەکانمان بدات، پاڵپشتیی دارایی دەکەین لە بەشە ناوخۆییەکی تورکیا نووسینی لیستی خواردن بە کوردی",
     "source": "rudaw-sorani",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "960a8af2bf8c23b2",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/170520268",
+    "title": "لە ئیستەنبووڵ تکتی پاسەکانی جەژن تەواو بوون",
+    "title_en": "لە ئیستەنبووڵ تکتی پاسەکانی جەژن تەواو بوون",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا ئاڵای تورکیا و دیمەنی ئیستەنبووڵ زۆرتر لە تورکیا لە تورکیا دوو پۆلیس لە ئەرکدا کوژران تورکیا؛ بنەماکانی یاسای قەدەخەکردنی تۆڕە کۆمەڵایەتییەکان بۆ تەمەنی ژێر 15 ساڵ دیاری دەکرێن تورکیا ئامادەکاری بۆ لووتکەی ناتۆ دەکات و شوێنێک بۆ وەرزشەکەی ماکرۆن دیاری دەکرێت گەشتوگوزاری تورکیا: هەر دراما و فیلمێک ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4ce7c5fe256c7f7c",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/170520267",
+    "title": "لە تورکیا دوو پۆلیس لە ئەرکدا کوژران",
+    "title_en": "لە تورکیا دوو پۆلیس لە ئەرکدا کوژران",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا شوێنی رووداوەکە زۆرتر لە تورکیا لە ئیستەنبووڵ تکتی پاسەکانی جەژن تەواو بوون تورکیا؛ بنەماکانی یاسای قەدەخەکردنی تۆڕە کۆمەڵایەتییەکان بۆ تەمەنی ژێر 15 ساڵ دیاری دەکرێن تورکیا ئامادەکاری بۆ لووتکەی ناتۆ دەکات و شوێنێک بۆ وەرزشەکەی ماکرۆن دیاری دەکرێت گەشتوگوزاری تورکیا: هەر دراما و فیلمێک بایەخ بە ناوچە گەشتیار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c86b769d53941946",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/170520267",
+    "title": "حەوت گۆڕی بەکۆمەڵ لە ئەنبار دۆزرانەوە و 16 رووفاتیان دەرهێنرا",
+    "title_en": "حەوت گۆڕی بەکۆمەڵ لە ئەنبار دۆزرانەوە و 16 رووفاتیان دەرهێنرا",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق نێو یەکێک لەگۆڕە بە کۆمەڵەکان. وێنە: مەکتەبی راگەیاندنی پارێزگای ئەنبار زۆرتر لە عێراق سەدر بۆ زەیدى: پارێزگارى لە سەروەریى وڵات بکە و دژى گەندەڵى بجەنگە وەزیری دارایی داوای زیادکردنی داهات دەکات راپۆرتێک: ئیسرائیل بۆ زیاتر لە ساڵێک دوو بنکەی سەربازی لە رۆژئاوای عێراق هەبووە فوئاد حوسێن بۆ رووداو:",
+    "source": "rudaw-sorani",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
