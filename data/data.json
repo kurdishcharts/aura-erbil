@@ -1,23 +1,5 @@
 [
   {
-    "id": "003873a8eebe8653",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
-    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T08:16:10.291964+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
@@ -28,7 +10,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-18T08:15:48.950075+00:00",
+    "timestamp": "2026-05-18T08:46:42.277604+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -36,17 +18,71 @@
     }
   },
   {
-    "id": "b011406f1a44ac2d",
-    "url": "https://www.rudaw.net/english/middleeast/iran/17052026",
-    "title": "Iran outlines demands, details US conditions in reported negotiation framework",
-    "title_en": "Iran outlines demands, details US conditions in reported negotiation framework",
-    "summary": "ERBIL, Kurdistan Region - Iran said any future negotiations with the US would depend on five preconditions, while Washington has demanded major concessions from Tehran in return for talks, according to details published by Iran’s state media on Sunday, saying that even if the conditions are met, it would not guarantee an end to what they describe as US and Israeli aggression. According to Fars News Agency, an affiliate of Iran’s Islamic Revolutionary Guard Corps (IRGC), the US demands include transferring Iran’s near-weapon-grade uranium stockpile of more than 400 kilograms to the US, keeping “only one set of Iran’s nuclear facilities” active, and conditioning the cessation of hostilities on all fronts during negotiations, in addition to keeping the US unaccountable to compensate for Iran’s war damages and releasing an unknown fraction of Tehran’s frozen assets. “Even if these conditions are met by Iran, the threat of aggression from the United States and the Zionist regime [Israel] will remain in place,” reported the agency. This was the third US proposal since the outbreak of the war on February 28, when the US and Israel launched a large-scale aerial campaign against Iran, targeting more than 17,000 sites across the country, before Washington and Tehran halted the hostilities through a Pakistani-brokered ceasefire on April 8. Iran responded by launching thousands of projectiles against Israel as well as US bases and interests in the region. Citing “experts,” the agency said that the US proposal is aimed at “achieving objectives that this country was unable to accomplish during the war.” In response, Tehran has asked for bringing an end to the war “on all fronts, especially in Lebanon,” lifting all “anti-Iranian” sanctions, release of all frozen assets, compensation for war damages, and “recognition of Iran’s sovereignty” over the Strait of Hormuz. Alongside diplomatic efforts, Iran and the US have engaged in reciprocal maritime measures. Tehran has tightened cont",
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-18T08:15:31.736599+00:00",
+    "timestamp": "2026-05-18T08:46:32.935236+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "5b099a6845e9a270",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
+    "title": "BP resumes operations in Kirkuk after war-related suspension",
+    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
+    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:46:22.155015+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cfe9a70ed5a4f09e",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/17052026",
+    "title": "Sudani-led bloc says sidelined in new Iraqi cabinet",
+    "title_en": "Sudani-led bloc says sidelined in new Iraqi cabinet",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:45:57.460430+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "475ff3ef4f2581e0",
+    "url": "https://www.rudaw.net/english/middleeast/turkey/16052026",
+    "title": "Turkish intelligence working to accelerate PKK disarmament: Erdogan",
+    "title_en": "Turkish intelligence working to accelerate PKK disarmament: Erdogan",
+    "summary": "ERBIL, Kurdistan Region - Turkish President Recep Tayyip Erdogan said on Saturday that his country’s intelligence agency is working to accelerate the disarmament of the Kurdistan Workers' Party (PKK) after the Kurdish group decided to lay down arms and dissolve itself. “Our intelligence organization [MIT] is working to accelerate the laying down of arms,” Erdogan told journalists aboard his return flight from Kazakhstan. “It is true that, just as there are those who pray and work for the success of the process, there are also those disturbed by it.” He stressed that his administration would not allow opponents of the peace process to succeed. “We are determined. We will not make those who do not want a terror-free Turkey happy. We are determined. We will not give them an opportunity,” he said. His remarks come amid growing criticism from the PKK and mediators over Ankara’s alleged lack of commitment to the process, which Turkish officials have codenamed “Terror-Free Turkey.” The pro-Kurdish Peoples’ Equality and Democracy Party (DEM Party), which has mediated the peace talks between Ankara and the PKK, held simultaneous rallies in major cities including Ankara, Istanbul and Diyarbakir (Amed in Kurdish) to call on the government to “take a step for peace.” “While negotiations continue on one side, this mentality that does not even allow us to take two steps does not serve peace,” DEM Party co-chair Tuncer Bakirhan told supporters in Ankara. He added that decades of conflict had left deep scars across Turkey. “Every inch of these lands has been touched by pain. Every inch of these lands has been stained with blood. Nearly 86 million people have accumulated pain and suffering... We are on the roads so that there will be no more bloodshed, no more pain, and so that these lands will accumulate peace and democracy instead of blood and suffering.” The renewed peace push emerged in late 2024, driven by shifting regional dynamics and renewed political will after years of con",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:45:47.339350+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -64,7 +100,187 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-18T08:15:20.948170+00:00",
+    "timestamp": "2026-05-18T08:45:36.837241+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "003873a8eebe8653",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
+    "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:45:20.179289+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9800d64c60110f0a",
+    "url": "https://www.rudaw.net/sorani/sports/18052026",
+    "title": "ئەنچێلۆتی لیستی بەرازیل بۆ مۆندیال رادەگەیەنێت و هێشتا چارەنووسی نەیمار یەکلانەبووەتەوە",
+    "title_en": "ئەنچێلۆتی لیستی بەرازیل بۆ مۆندیال رادەگەیەنێت و هێشتا چارەنووسی نەیمار یەکلانەبووەتەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بایرن میونشن بەفەرمی جۆری پێکانەکەی مانوێل نۆیەری گۆڵپارێزی یانەکەی دەستنیشان کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:43:30.553583+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:43:21.095434+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "715711870088d9cb",
+    "url": "https://www.rudaw.net/sorani/world/190620241",
+    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ داواکاری گشتیی پاریس رایگەیاند، نزیکەی 10 قوربانیی نوێ لە لێکۆڵینەوەکانی فەرەنسادا سەبارەت بە تۆڕی جێفری ئێپستین، تاوانباری سێکسیی کۆچکردووی ئەمریکی، خۆیان ئاشکرا کردووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:43:09.082334+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2baf94de6b860131",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1605202616",
+    "title": "فراکسیۆنی هەڵوێست: پەیوەندییمان پێوەکراوە بۆ دروستکردنی بەرەیەکی ئۆپۆزیسیۆن لە عێراق",
+    "title_en": "فراکسیۆنی هەڵوێست: پەیوەندییمان پێوەکراوە بۆ دروستکردنی بەرەیەکی ئۆپۆزیسیۆن لە عێراق",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکشەممە، 17ـی ئایاری 2026، سەرۆک مەسعود بارزانی لە پەیامێکی پیرۆزباییدا لە تۆڕی کۆمەڵایەتی ئێکس رایگەیاند: \"پیرۆزبایی لە پاڵەوانی نێودەوڵەتی، گەنجی قارەمان و بەتوانای کورد (نامۆ فازڵ) دەکەم، بۆ ئەو سەرکەوتنە کەم وێنەیەی کە لە قارەمانەتیەکانی (MMA) لە ئەمەریکا بەدەستی هێنا. جێگای شانازی هەموو کورد و کوردستانە و دەستخۆشی لێدەکەم و هیوای سەرکەوتن و پێشەنگبوونی بۆ دەخوازم\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:42:59.313629+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f34692a80a521f46",
+    "url": "https://www.rudaw.net/sorani/world/180520261",
+    "title": "نێچیرڤان بارزانی گەیشتە ڤاتیکان و لەگەڵ پاپا لیۆی چواردەیەم کۆدەبێتەوە",
+    "title_en": "نێچیرڤان بارزانی گەیشتە ڤاتیکان و لەگەڵ پاپا لیۆی چواردەیەم کۆدەبێتەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ میدیای ئێران رایگەیاند، وەڵامەکەی ئەمریکا بۆ پێشنیازەکانی ئێران بۆ کۆتاییهێنان بە جەنگ، هیچ \"سازشێکی بەرجەستە\"ـی تێدا نییە و واشنتن داوای کردووە تاران تەنیا یەک وێستگەی ئەتۆمی بهێڵێتەوە و یۆرانیۆمی پیتێندراو رادەستی ئەمریکا بکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:42:44.384074+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکشەممە، 17ـی ئایاری 2026، سەرۆک مەسعود بارزانی لە پەیامێکی پیرۆزباییدا لە تۆڕی کۆمەڵایەتی ئێکس رایگەیاند: \"پیرۆزبایی لە پاڵەوانی نێودەوڵەتی، گەنجی قارەمان و بەتوانای کورد (نامۆ فازڵ) دەکەم، بۆ ئەو سەرکەوتنە کەم وێنەیەی کە لە قارەمانەتیەکانی (MMA) لە ئەمەریکا بەدەستی هێنا. جێگای شانازی هەموو کورد و کوردستانە و دەستخۆشی لێدەکەم و هیوای سەرکەوتن و پێشەنگبوونی بۆ دەخوازم\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:42:33.962661+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0d7e4ac530ab139e",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/18052026",
+    "title": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
+    "title_en": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ محەممەد نووری ئەرسۆی، وەزیری کولتوور و گەشتوگوزاری تورکیا، لە فێستیڤاڵی (رێڕەوی کولتووری ئەسکی شەهیر)دا لەگەڵ رۆژنامەنووسان کۆبووەوه‌ و هەڵسەنگاندنی بۆ ستراتیژیی نوێی گەشتوگوزار، پاراستنی شوێنەوارە مێژووییەکان، پڕۆژەی فۆرمولا -1 و چالاکییە نێودەوڵەتییەکان کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:42:23.340397+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e372e61125b32202",
+    "url": "https://www.rudaw.net/sorani/kurdistan/310320263",
+    "title": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
+    "title_en": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ یەکشەممە، 17ـی ئایاری 2026، سەرۆک مەسعود بارزانی لە پەیامێکی پیرۆزباییدا لە تۆڕی کۆمەڵایەتی ئێکس رایگەیاند: \"پیرۆزبایی لە پاڵەوانی نێودەوڵەتی، گەنجی قارەمان و بەتوانای کورد (نامۆ فازڵ) دەکەم، بۆ ئەو سەرکەوتنە کەم وێنەیەی کە لە قارەمانەتیەکانی (MMA) لە ئەمەریکا بەدەستی هێنا. جێگای شانازی هەموو کورد و کوردستانە و دەستخۆشی لێدەکەم و هیوای سەرکەوتن و پێشەنگبوونی بۆ دەخوازم\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:42:13.337329+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b011406f1a44ac2d",
+    "url": "https://www.rudaw.net/english/middleeast/iran/17052026",
+    "title": "Iran outlines demands, details US conditions in reported negotiation framework",
+    "title_en": "Iran outlines demands, details US conditions in reported negotiation framework",
+    "summary": "ERBIL, Kurdistan Region - Iran said any future negotiations with the US would depend on five preconditions, while Washington has demanded major concessions from Tehran in return for talks, according to details published by Iran’s state media on Sunday, saying that even if the conditions are met, it would not guarantee an end to what they describe as US and Israeli aggression. According to Fars News Agency, an affiliate of Iran’s Islamic Revolutionary Guard Corps (IRGC), the US demands include transferring Iran’s near-weapon-grade uranium stockpile of more than 400 kilograms to the US, keeping “only one set of Iran’s nuclear facilities” active, and conditioning the cessation of hostilities on all fronts during negotiations, in addition to keeping the US unaccountable to compensate for Iran’s war damages and releasing an unknown fraction of Tehran’s frozen assets. “Even if these conditions are met by Iran, the threat of aggression from the United States and the Zionist regime [Israel] will remain in place,” reported the agency. This was the third US proposal since the outbreak of the war on February 28, when the US and Israel launched a large-scale aerial campaign against Iran, targeting more than 17,000 sites across the country, before Washington and Tehran halted the hostilities through a Pakistani-brokered ceasefire on April 8. Iran responded by launching thousands of projectiles against Israel as well as US bases and interests in the region. Citing “experts,” the agency said that the US proposal is aimed at “achieving objectives that this country was unable to accomplish during the war.” In response, Tehran has asked for bringing an end to the war “on all fronts, especially in Lebanon,” lifting all “anti-Iranian” sanctions, release of all frozen assets, compensation for war damages, and “recognition of Iran’s sovereignty” over the Strait of Hormuz. Alongside diplomatic efforts, Iran and the US have engaged in reciprocal maritime measures. Tehran has tightened cont",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T08:15:31.736599+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -96,7 +312,7 @@
     "title_en": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -191,24 +407,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T07:49:22.399570+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5b099a6845e9a270",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
-    "title": "BP resumes operations in Kirkuk after war-related suspension",
-    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
-    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T07:49:04.451508+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -360,24 +558,6 @@
     }
   },
   {
-    "id": "e372e61125b32202",
-    "url": "https://www.rudaw.net/sorani/kurdistan/310320263",
-    "title": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
-    "title_en": "پەیامی نوێی ئۆجەلان: سەردەمی خەباتی چەکداری کۆتاییهاتووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T07:44:59.673211+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "94395f5a8393ee4a",
     "url": "https://www.rudaw.net/sorani/kurdistan/1705202629",
     "title": "سەرۆک بارزانی بۆ نامۆ فازڵ: جێگەی شانازی هەموو کورد و کوردستانی",
@@ -486,24 +666,6 @@
     }
   },
   {
-    "id": "cfe9a70ed5a4f09e",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/17052026",
-    "title": "Sudani-led bloc says sidelined in new Iraqi cabinet",
-    "title_en": "Sudani-led bloc says sidelined in new Iraqi cabinet",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T07:18:29.769727+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "63ab57b280469217",
     "url": "https://www.rudaw.net/sorani/sports/250520233",
     "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
@@ -569,24 +731,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T07:15:54.169989+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0d7e4ac530ab139e",
-    "url": "https://www.rudaw.net/sorani/middleeast/turkey/18052026",
-    "title": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
-    "title_en": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ محەممەد نووری ئەرسۆی، وەزیری کولتوور و گەشتوگوزاری تورکیا، لە فێستیڤاڵی (رێڕەوی کولتووری ئەسکی شەهیر)دا لەگەڵ رۆژنامەنووسان کۆبووەوه‌ و هەڵسەنگاندنی بۆ ستراتیژیی نوێی گەشتوگوزار، پاراستنی شوێنەوارە مێژووییەکان، پڕۆژەی فۆرمولا -1 و چالاکییە نێودەوڵەتییەکان کرد",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T07:15:43.509598+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -666,24 +810,6 @@
     }
   },
   {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T06:48:54.046228+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
-    }
-  },
-  {
     "id": "04df562255b39aa4",
     "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
     "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
@@ -708,7 +834,7 @@
     "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -767,24 +893,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T06:15:27.868296+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2baf94de6b860131",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1605202616",
-    "title": "فراکسیۆنی هەڵوێست: پەیوەندییمان پێوەکراوە بۆ دروستکردنی بەرەیەکی ئۆپۆزیسیۆن لە عێراق",
-    "title_en": "فراکسیۆنی هەڵوێست: پەیوەندییمان پێوەکراوە بۆ دروستکردنی بەرەیەکی ئۆپۆزیسیۆن لە عێراق",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T06:15:05.951632+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1183,24 +1291,6 @@
     }
   },
   {
-    "id": "475ff3ef4f2581e0",
-    "url": "https://www.rudaw.net/english/middleeast/turkey/16052026",
-    "title": "Turkish intelligence working to accelerate PKK disarmament: Erdogan",
-    "title_en": "Turkish intelligence working to accelerate PKK disarmament: Erdogan",
-    "summary": "ERBIL, Kurdistan Region - Turkish President Recep Tayyip Erdogan said on Saturday that his country’s intelligence agency is working to accelerate the disarmament of the Kurdistan Workers' Party (PKK) after the Kurdish group decided to lay down arms and dissolve itself. “Our intelligence organization [MIT] is working to accelerate the laying down of arms,” Erdogan told journalists aboard his return flight from Kazakhstan. “It is true that, just as there are those who pray and work for the success of the process, there are also those disturbed by it.” He stressed that his administration would not allow opponents of the peace process to succeed. “We are determined. We will not make those who do not want a terror-free Turkey happy. We are determined. We will not give them an opportunity,” he said. His remarks come amid growing criticism from the PKK and mediators over Ankara’s alleged lack of commitment to the process, which Turkish officials have codenamed “Terror-Free Turkey.” The pro-Kurdish Peoples’ Equality and Democracy Party (DEM Party), which has mediated the peace talks between Ankara and the PKK, held simultaneous rallies in major cities including Ankara, Istanbul and Diyarbakir (Amed in Kurdish) to call on the government to “take a step for peace.” “While negotiations continue on one side, this mentality that does not even allow us to take two steps does not serve peace,” DEM Party co-chair Tuncer Bakirhan told supporters in Ankara. He added that decades of conflict had left deep scars across Turkey. “Every inch of these lands has been touched by pain. Every inch of these lands has been stained with blood. Nearly 86 million people have accumulated pain and suffering... We are on the roads so that there will be no more bloodshed, no more pain, and so that these lands will accumulate peace and democracy instead of blood and suffering.” The renewed peace push emerged in late 2024, driven by shifting regional dynamics and renewed political will after years of con",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T03:45:48.056957+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "95bf9ce45e2a487a",
     "url": "https://www.rudaw.net/english/opinion/17052026",
     "title": "Inventing the Kurdish enemy: how states, nationalism, and conspiracy theories turned a people into an enemy",
@@ -1230,24 +1320,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T03:42:31.547553+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "715711870088d9cb",
-    "url": "https://www.rudaw.net/sorani/world/190620241",
-    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا (سێنتکۆم) وێنەیەکی نوێی بڵاوکردەوە کە تێیدا دەردەکەوێت، دەریاڤانێکی ئەمریکایی لەسەر کەشتیی هێرشبەری USS Tripoli بە دووربین چاودێریی دەریای عەرەب دەکات. ئەمەش وەک ئاماژەیەک بۆ بەردەوامیی گەمارۆ دەریاییە تووندەکەی ئەمریکا بۆ سەر بەندەرەکانی ئێران کە ئێستا پێ دەنێتە هەفتەی شەشەمیەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T03:41:45.397516+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1338,24 +1410,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T02:12:44.900075+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T02:12:16.519051+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1482,24 +1536,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T23:12:12.966059+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ شاهێدی و سوێندخواردنی بە درۆ بۆ پارە، بووەتە بەشێک لە دیمەنی نێو دادگاکان لە هەرێمی کوردستان. بڕی پارەکەش بەپێی جۆری کەیسەکان لە 50 هەزار دینارەوە دەستپێدەکات تاوەکو دەگاتە هەزاران دۆلار.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T21:12:37.081413+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -12588,6 +12624,42 @@
     "title": "دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات",
     "title_en": "دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات",
     "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق وێنەیەکی ئەرشیڤی چەکدارانی حەشدی شەعبی. getty images زۆرتر لە عێراق سەباح نوعمان: کارنامەى حکومەتى نوێ پابەندبوونێکی تەواوی تێدایە بۆ کۆنترۆڵکردنی چەک لەلایەن دەوڵەتەوە فراکسیۆنەکەی سوودانی لەبارەی کشانەوەی دوو پێکهێنەری روونکردنەوە دەدات سەدر بۆ زەیدى: پارێزگارى لە سەروەریى وڵات بکە و دژى گەندەڵى",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b6153afaddd1bd4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/180520261",
+    "title": "نێوەڕۆکی پێشنیازەکانی یەکگرتوو بۆ پارتی و یەکێتی",
+    "title_en": "نێوەڕۆکی پێشنیازەکانی یەکگرتوو بۆ پارتی و یەکێتی",
+    "summary": "هیوا جەمال به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە سەڵاحەدین بەهائەدین و بافڵ تاڵەبانی زۆرتر لە کوردستان سێ کەس هێرش دەکەنە سەر کارمەندێکی نەخۆشخانەی فێرکاریی کەرکووک لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟ سەرۆک بارزانی بۆ نامۆ فازڵ: جێگەی شانازی هەموو کورد و کوردستانی بەرپرسی راگەیاندنی حەج: ئەمشەو دواین کاروانی حاجییانی هەرێمی کوردستان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a4479770cfa370f4",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520261",
+    "title": "وەزارەتی پلاندانانی عێراق بۆ رووداو: براندی جیهانی لەنێوخۆدا ساختە دەکرێ",
+    "title_en": "وەزارەتی پلاندانانی عێراق بۆ رووداو: براندی جیهانی لەنێوخۆدا ساختە دەکرێ",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی وەزارەتی پلاندانانی عێراق زۆرتر لە عێراق دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات سەباح نوعمان: کارنامەى حکومەتى نوێ پابەندبوونێکی تەواوی تێدایە بۆ کۆنترۆڵکردنی چەک لەلایەن دەوڵەتەوە فراکسیۆنەکەی سوودانی لەبارەی کشانەوەی دوو پێکهێنەری روونکردنەوە دەدات سەدر بۆ ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
