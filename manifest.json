@@ -1,0 +1,15 @@
+{
+  "name": "Kurdish Charts – KRG Intelligence",
+  "short_name": "Kurdish Charts",
+  "start_url": "/aura-erbil/",
+  "display": "standalone",
+  "background_color": "#f2f4f8",
+  "theme_color": "#1a56db",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231a56db'/%3E%3Ccircle cx='16' cy='16' r='5' fill='none' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23fff'/%3E%3Cline x1='16' y1='2' x2='16' y2='7' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='16' y1='25' x2='16' y2='30' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='2' y1='16' x2='7' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='25' y1='16' x2='30' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3C/svg%3E",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+}
