@@ -1,5 +1,95 @@
 [
   {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی گازی شل (LPG)ـی بازرگانی لە بەشێکی هەرێمی کوردستان ئاسایی نەبووەتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T10:44:06.289824+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a961a9579c711a3",
+    "url": "https://www.rudaw.net/sorani/world/020720251",
+    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسعود پزیشکیان، سەرۆککۆماری ئێران دەڵێت، ئەمریکا و ئیسرائیل پیلانیان هەبوو هەل بۆ دزەکردنی گرووپە چەکدارەکان لە ناوچەکانی باکووری رۆژئاوا و سنوورەکانی باشووری رۆژهەڵاتەوە بۆ ناو ئێران بڕەخسێنن، بەڵام پیلانەکەیان بە هاوکاریی وڵاتانی دراوسێ شکستی هێنا. پزشکیان هەروەها بەهۆی هەڵوێستیان لە کاتی جەنگدا، سوپاسی پاکستان، ئەفغانستان و عێراق دەکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T10:43:41.035617+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "997f04220d936bc4",
+    "url": "https://www.rudaw.net/sorani/world/0104202612",
+    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسعود پزیشکیان، سەرۆککۆماری ئێران دەڵێت، ئەمریکا و ئیسرائیل پیلانیان هەبوو هەل بۆ دزەکردنی گرووپە چەکدارەکان لە ناوچەکانی باکووری رۆژئاوا و سنوورەکانی باشووری رۆژهەڵاتەوە بۆ ناو ئێران بڕەخسێنن، بەڵام پیلانەکەیان بە هاوکاریی وڵاتانی دراوسێ شکستی هێنا. پزشکیان هەروەها بەهۆی هەڵوێستیان لە کاتی جەنگدا، سوپاسی پاکستان، ئەفغانستان و عێراق دەکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T10:43:28.737747+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2cb6bc75537c2cfa",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520262",
+    "title": "وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵای تۆمار کرد",
+    "title_en": "وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵای تۆمار کرد",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T10:43:16.967747+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c208cc509ac93259",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/180520261",
+    "title": "راوێژکاری باڵای ئەردۆغان: نابێت سیاسەتی ئەتنیکی بخرێتە پێش یەکپارچەیی خاکی تورکیاوە",
+    "title_en": "راوێژکاری باڵای ئەردۆغان: نابێت سیاسەتی ئەتنیکی بخرێتە پێش یەکپارچەیی خاکی تورکیاوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تورکیا خۆی بۆ میوانداریکردنی یەکێک لە گرنگترین کۆبوونەوەکانی هاوپەیمانیی ناتۆ لە ئەنقەرە ئامادە دەکات. لە تەنیشت ئامادەکارییە دیپلۆماسییەکان بۆ لووتکەکە، پرۆگرامی تایبەتی سەرکردەکان، لەوانەش دابینکردنی شوێن بۆ وەرزشی راکردنی ماکرۆن، بووەتە جێی بایەخی میدیاکان.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T10:42:50.553913+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
@@ -60,7 +150,7 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -78,7 +168,7 @@
     "title_en": "President Nechirvan Barzani meets Pope, invites him to Kurdistan Region",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani met Pope Leo XIV on Monday in the Vatican, where he extended an invitation for the Pope to visit the Kurdistan Region and Iraq. “I was honored to meet His Holiness Pope Leo XIV @Pontifex today in the Vatican,” President Barzani said in a post on X. “I reaffirmed that Christians and all religious communities are not only an integral part of the Kurdistan Region’s history and identity, but continue to shape its future.” His meeting came as part of a two-day trip to the Vatican. Earlier, he met Cardinal Secretary of State of Vatican City Pietro Parolin. “I reiterated to His Holiness that protecting their rights, dignity, and peaceful presence in their ancestral homeland will always remain our duty,” he said, adding that “I expressed Iraq’s and the Kurdistan Region’s deep appreciation for the Vatican’s moral leadership and its important role in promoting dialogue and coexistence across the world.” President Barzani also said that he “recalled with gratitude the late Pope Francis’ historic visit to Iraq and the Kurdistan Region, and extended an invitation for His Holiness to visit Iraq and the Kurdistan Region.” The late Pope Francis made a historic visit to Iraq and the Kurdistan Region in March 2021, where he visited several cities across the country and held a mass for 10,000 people in Erbil. On Friday, President Barzani received Miroslaw Wachowski, the Vatican’s new Apostolic Nuncio to Iraq. Barzani reiterated the Kurdistan Region’s support for his mission and stressed the Region’s commitment to coexistence and religious diversity. Iraq’s Christian population has sharply declined over the past two decades. Following the US-led invasion in 2003, sectarian violence forced many Christians to flee, while attacks by the Islamic State in 2014 devastated minority communities, particularly in northern Iraq. According to data obtained by Rudaw English from Bashar Matti Warda, the Chaldean Archbishop of Erb",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -96,7 +186,7 @@
     "title_en": "Iran outlines demands, details US conditions in reported negotiation framework",
     "summary": "ERBIL, Kurdistan Region - Iran said any future negotiations with the US would depend on five preconditions, while Washington has demanded major concessions from Tehran in return for talks, according to details published by Iran’s state media on Sunday, saying that even if the conditions are met, it would not guarantee an end to what they describe as US and Israeli aggression. According to Fars News Agency, an affiliate of Iran’s Islamic Revolutionary Guard Corps (IRGC), the US demands include transferring Iran’s near-weapon-grade uranium stockpile of more than 400 kilograms to the US, keeping “only one set of Iran’s nuclear facilities” active, and conditioning the cessation of hostilities on all fronts during negotiations, in addition to keeping the US unaccountable to compensate for Iran’s war damages and releasing an unknown fraction of Tehran’s frozen assets. “Even if these conditions are met by Iran, the threat of aggression from the United States and the Zionist regime [Israel] will remain in place,” reported the agency. This was the third US proposal since the outbreak of the war on February 28, when the US and Israel launched a large-scale aerial campaign against Iran, targeting more than 17,000 sites across the country, before Washington and Tehran halted the hostilities through a Pakistani-brokered ceasefire on April 8. Iran responded by launching thousands of projectiles against Israel as well as US bases and interests in the region. Citing “experts,” the agency said that the US proposal is aimed at “achieving objectives that this country was unable to accomplish during the war.” In response, Tehran has asked for bringing an end to the war “on all fronts, especially in Lebanon,” lifting all “anti-Iranian” sanctions, release of all frozen assets, compensation for war damages, and “recognition of Iran’s sovereignty” over the Strait of Hormuz. Alongside diplomatic efforts, Iran and the US have engaged in reciprocal maritime measures. Tehran has tightened cont",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -173,24 +263,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T10:13:12.604284+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "3a961a9579c711a3",
-    "url": "https://www.rudaw.net/sorani/world/020720251",
-    "title": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "title_en": "چیرۆکی ئەو ئافرەتەی بۆمبی قەڵاشکێنی داهێنا",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مەسعود پزیشکیان، سەرۆککۆماری ئێران دەڵێت، ئەمریکا و ئیسرائیل پیلانیان هەبوو هەل بۆ دزەکردنی گرووپە چەکدارەکان لە ناوچەکانی باکووری رۆژئاوا و سنوورەکانی باشووری رۆژهەڵاتەوە بۆ ناو ئێران بڕەخسێنن، بەڵام پیلانەکەیان بە هاوکاریی وڵاتانی دراوسێ شکستی هێنا. پزشکیان هەروەها بەهۆی هەڵوێستیان لە کاتی جەنگدا، سوپاسی پاکستان، ئەفغانستان و عێراق دەکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T10:12:54.688937+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -353,24 +425,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T09:44:56.111725+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرنامەی ئەمجارەی \"لەگەڵ رەنج\"ی تۆڕی میدیایی رووداو، لەنێو یارگەیەکی وەرزشیدا و بە شێوازێکی مەیدانی بەڕێوەچوو. بەرنامەکە کە کۆمەڵێک لە هاندەرانی یانەی هەولێر و زاخۆ تێیدا ئامادەبوون، بە گۆرانییەکی شڤان پەروەر \"کینە ئەم؟ کوردین ئەم\" بەرنامەکە دەستیپێکرد و تەوەری سەرەکیی باسەکەش بریتی بوو لەوەی: چۆن وەرزش بکرێتە سەرچاوەی داهات و بۆچی لە کوردستان تەنیا وەک خولیایەک ماوەتەوە؟",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T09:44:22.401213+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -780,7 +834,7 @@
     "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
     "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "traffic",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -1509,24 +1563,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T02:41:29.539889+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "997f04220d936bc4",
-    "url": "https://www.rudaw.net/sorani/world/0104202612",
-    "title": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "title_en": "ترەمپ هێرشەکەی سەر ماڵی نێچیرڤان بارزانی لە دهۆک سەرکۆنە دەکات",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا (سێنتکۆم) وێنەیەکی نوێی بڵاوکردەوە کە تێیدا دەردەکەوێت، دەریاڤانێکی ئەمریکایی لەسەر کەشتیی هێرشبەری USS Tripoli بە دووربین چاودێریی دەریای عەرەب دەکات. ئەمەش وەک ئاماژەیەک بۆ بەردەوامیی گەمارۆ دەریاییە تووندەکەی ئەمریکا بۆ سەر بەندەرەکانی ئێران کە ئێستا پێ دەنێتە هەفتەی شەشەمیەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T02:12:44.900075+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -12759,6 +12795,24 @@
     "title": "راوێژکارێکی موجتەبا خامنەیی: دان بە خۆماندا ناگرین و گەمارۆ دەریاییەکەی ئەمریکا کۆتایی پێدەهێنین",
     "title_en": "راوێژکارێکی موجتەبا خامنەیی: دان بە خۆماندا ناگرین و گەمارۆ دەریاییەکەی ئەمریکا کۆتایی پێدەهێنین",
     "summary": "سینا سۆما به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران کەشتیەک بە تەنگەی هورمزدا تێدەپەڕێت و هێزێکی سوپای پاسداران لەنزیکیەتی. وێنەکە ساڵی 2024ە و بۆ روونکردنەوەی زیاتری هەواڵەکە دانراوە: NurPhoto/Getty Images زۆرتر لە ئێران فەرماندەی پۆلیسی ئێران: لە سەرەتای شەڕەوە زیاتر لە 6,500 سیخوڕ دەستگیرکراون وەزیری ناوخۆی پاکستان لەگەڵ پزیشکیان و قالیباف کۆبووەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "735f3e62c9646b32",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520263",
+    "title": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
+    "title_en": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی دەستەی دەستپاکی و دیناری عێراقی زۆرتر لە عێراق وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵای تۆمار کرد وەزارەتی پلاندانانی عێراق بۆ رووداو: براندی جیهانی لەنێوخۆدا ساختە دەکرێ دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات سەباح نوعمان: کارنام",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
