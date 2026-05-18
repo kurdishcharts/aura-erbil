@@ -1,5 +1,185 @@
 [
   {
+    "id": "2ce6ee7a6ed1c631",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/170520261",
+    "title": "Erbil-Baghdad relations expected to improve under new Iraqi government: Minister",
+    "title_en": "Erbil-Baghdad relations expected to improve under new Iraqi government: Minister",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s Foreign Minister Fuad Hussein said on Sunday that relations between the federal government in Baghdad and the Kurdistan Region are expected to improve under the newly-formed cabinet, stressing that the current political phase is different and focused on stability and service delivery. Speaking to Rudaw's Ziad Ismael during a ceremony marking his reappointment as foreign minister, Hussein expressed optimism that \"the relationship between the Kurdistan Region and Baghdad will improve,” adding that they are \"all working for the success of this government so that it can serve the people of Iraq.\" Hussein is a Kurd and affiliated with the Kurdistan Democratic Party (KDP). His remarks come as Iraq’s new government under Prime Minister Ali al-Zaidi continues to take shape following a confidence vote in parliament on Thursday. Lawmakers approved the cabinet program and 14 ministers, while votes on nine key portfolios, including defense and interior, were postponed. The political backdrop in Iraq also includes efforts to stabilize relations between Baghdad and Erbil after years of disputes over budget transfers and civil servant salaries. Following the formation of the new cabinet, Kurdistan Region President Nechirvan Barzani on Friday reaffirmed the Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” Separately, KDP lawmaker Ashwaq Jaff said that the long-standing salary dispute between Erbil and Baghdad had been included in the new government’s program following political understandings. “An agreement has been reached to address the stalled salaries of civil servants in the Kurdistan Region,” Jaff told Rudaw on Friday, adding that the issue was incorporated into the ministerial program after discussions involving party leadership. The s",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:17:19.526114+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f934ccf6abb2b6ca",
+    "url": "https://www.rudaw.net/english/middleeast/170520261",
+    "title": "Saudi Arabia says it intercepted drones entering from Iraq",
+    "title_en": "Saudi Arabia says it intercepted drones entering from Iraq",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:16:59.033141+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2d5712743a82a6aa",
+    "url": "https://www.rudaw.net/english/kurdistan/170520261",
+    "title": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
+    "title_en": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:16:42.371206+00:00",
+    "location": {
+      "name": "Kurdistan",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5c701dc4a0a65fb9",
+    "url": "https://www.rudaw.net/english/kurdistan/300420241",
+    "title": "Shaqlawa sets the stage for a grandiose touristic season",
+    "title_en": "Shaqlawa sets the stage for a grandiose touristic season",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:16:23.036356+00:00",
+    "location": {
+      "name": "Shaqlawa",
+      "lat": 36.5485,
+      "lng": 44.3397
+    }
+  },
+  {
+    "id": "2602b256d46231f7",
+    "url": "https://www.rudaw.net/sorani/kurdistan/180520266",
+    "title": "دابەشکردنی زەوی لە هەولێر دەستیپێدەکاتەوە",
+    "title_en": "دابەشکردنی زەوی لە هەولێر دەستیپێدەکاتەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی گازی شل (LPG)ـی بازرگانی لە بەشێکی هەرێمی کوردستان ئاسایی نەبووەتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:14:02.491654+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57327df16e27b8fa",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:13:49.683119+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "badd2d49bd794f91",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1705202630",
+    "title": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
+    "title_en": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دەسپێشخەرییەکە سێ تەوەرییە و لە کۆبوونەوەی مەکتەبی سیاسی حیزبەکە پەسند کراوە و دەدرێتە پارتی و یەکێتی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:13:33.501142+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:13:22.263691+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "79733b04239fdeef",
+    "url": "https://www.rudaw.net/sorani/kurdistan/180520265",
+    "title": "ئامادەکاری دەکرێ قەڵای زەرزەوان لە ئامەد بخرێتە لیستی میراتی جیهانییەوە",
+    "title_en": "ئامادەکاری دەکرێ قەڵای زەرزەوان لە ئامەد بخرێتە لیستی میراتی جیهانییەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی گازی شل (LPG)ـی بازرگانی لە بەشێکی هەرێمی کوردستان ئاسایی نەبووەتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:13:12.392980+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "735f3e62c9646b32",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520263",
+    "title": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
+    "title_en": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دەستەی حەشدی شەعبی عێراق روونکردنەوەیەک لەبارەی پەیوەندییەکی تەلەفۆنیی نێوان ئەبو مەهدی موهەندیس، جێگری پێشووی سەرۆکی دەستەکە و کەسێک بڵاودەکاتەوە کە لە کاتی شەڕی داعش کراوە و دەبێتە دەمەقاڵێیان و دەڵێت: \"ئەو کەسەی ناوی دەهێنرێت قاسم عەتا، بەربژێری وەزارەتی ناوخۆ نییە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T11:12:52.856069+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "b75495058a9d89d0",
     "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
     "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
@@ -101,24 +281,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T10:17:07.808549+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2ce6ee7a6ed1c631",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/170520261",
-    "title": "Erbil-Baghdad relations expected to improve under new Iraqi government: Minister",
-    "title_en": "Erbil-Baghdad relations expected to improve under new Iraqi government: Minister",
-    "summary": "ERBIL, Kurdistan Region - Iraq’s Foreign Minister Fuad Hussein said on Sunday that relations between the federal government in Baghdad and the Kurdistan Region are expected to improve under the newly-formed cabinet, stressing that the current political phase is different and focused on stability and service delivery. Speaking to Rudaw's Ziad Ismael during a ceremony marking his reappointment as foreign minister, Hussein expressed optimism that \"the relationship between the Kurdistan Region and Baghdad will improve,” adding that they are \"all working for the success of this government so that it can serve the people of Iraq.\" Hussein is a Kurd and affiliated with the Kurdistan Democratic Party (KDP). His remarks come as Iraq’s new government under Prime Minister Ali al-Zaidi continues to take shape following a confidence vote in parliament on Thursday. Lawmakers approved the cabinet program and 14 ministers, while votes on nine key portfolios, including defense and interior, were postponed. The political backdrop in Iraq also includes efforts to stabilize relations between Baghdad and Erbil after years of disputes over budget transfers and civil servant salaries. Following the formation of the new cabinet, Kurdistan Region President Nechirvan Barzani on Friday reaffirmed the Region’s “full readiness to work jointly with the federal government on the basis of the constitution, genuine partnership, and balance, with the aim of resolving all outstanding issues and ensuring and protecting the constitutional rights of all components.” Separately, KDP lawmaker Ashwaq Jaff said that the long-standing salary dispute between Erbil and Baghdad had been included in the new government’s program following political understandings. “An agreement has been reached to address the stalled salaries of civil servants in the Kurdistan Region,” Jaff told Rudaw on Friday, adding that the issue was incorporated into the ministerial program after discussions involving party leadership. The s",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T10:16:57.318704+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -504,24 +666,6 @@
     }
   },
   {
-    "id": "2d5712743a82a6aa",
-    "url": "https://www.rudaw.net/english/kurdistan/170520261",
-    "title": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
-    "title_en": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T09:16:34.692985+00:00",
-    "location": {
-      "name": "Kurdistan",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "603eaba6da36a43d",
     "url": "https://www.rudaw.net/english/middleeast/iran/18052026",
     "title": "Iran arrests over 6,500 since start of war as crackdown deepens amid fragile ceasefire",
@@ -756,24 +900,6 @@
     }
   },
   {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T08:12:26.983267+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "866e5ee886a3ed4d",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
@@ -875,24 +1001,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T07:46:09.136313+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "badd2d49bd794f91",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1705202630",
-    "title": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
-    "title_en": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئامینە کەریم، تەمەنێکە ژینگەی نەخۆشخانەکان دەپارێزێت، بەڵام ئێستا بێ مووچەیە. ئەو مانگانە 150 هەزار دیناری بۆ دەرمانی خۆی و هاوژینە جەڵتەلێدراوەکەی پێویستە، بەڵام لە سەرەتای ئەمساڵەوە تاقە دینارێکی وەرنەگرتووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T07:45:37.407408+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1314,29 +1422,6 @@
     }
   },
   {
-    "id": "5c701dc4a0a65fb9",
-    "url": "https://www.rudaw.net/english/kurdistan/300420241",
-    "title": "Shaqlawa sets the stage for a grandiose touristic season",
-    "title_en": "Shaqlawa sets the stage for a grandiose touristic season",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "culture",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Shaqlawa",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-18T04:50:34.573351+00:00",
-    "location": {
-      "name": "Shaqlawa",
-      "lat": 36.5485,
-      "lng": 44.3397
-    }
-  },
-  {
     "id": "82733df9a2781105",
     "url": "https://www.rudaw.net/english/kurdistan/250820245",
     "title": "UNITAD hands KRG authorities processed evidence on ISIS",
@@ -1743,24 +1828,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T19:43:08.907197+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "57327df16e27b8fa",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T19:42:52.651676+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -12700,24 +12767,6 @@
     }
   },
   {
-    "id": "f934ccf6abb2b6ca",
-    "url": "https://www.rudaw.net/english/middleeast/170520261",
-    "title": "Saudi Arabia says it intercepted drones entering from Iraq",
-    "title_en": "Saudi Arabia says it intercepted drones entering from Iraq",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Middle East Saudi Arabia flag. Graphic: Rudaw Also in Middle East Drone strike sparks fire near UAE nuclear plant Lebanon, Israel extend ceasefire by 45 days in US-mediated talks CENTCOM says 72 ships redirected, 4 disabled as Iran maritime tensions rise UAE to double oil export capacity by 2027 with b",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2ab446ae87b48e24",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/18052026",
     "title": "دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات",
@@ -12808,11 +12857,83 @@
     }
   },
   {
-    "id": "735f3e62c9646b32",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520263",
-    "title": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
-    "title_en": "وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە",
-    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق لۆگۆی دەستەی دەستپاکی و دیناری عێراقی زۆرتر لە عێراق وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵای تۆمار کرد وەزارەتی پلاندانانی عێراق بۆ رووداو: براندی جیهانی لەنێوخۆدا ساختە دەکرێ دەستەی حەشدی شەعبی روونکردنەوەیەک لەبارەی بەربژێری وەزارەتی ناوخۆ دەدات سەباح نوعمان: کارنام",
+    "id": "9b49da53cb8ea222",
+    "url": "https://www.rudaw.net/english/middleeast/syria/18052026",
+    "title": "Olive, pistachio planting expands in Rojava’s Kobane",
+    "title_en": "Olive, pistachio planting expands in Rojava’s Kobane",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Syria - Also in Syria Syrian president, US envoy discuss economic cooperation Ten detainees die ‘under torture’ in Syrian prisons in five months: War monitor Syria UN envoy rules out reversal on Kurdish rights, praises Kurdish leaders Turkish diplomat calls for full implementation of SDF-Damascus deal ",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3b03afd8fd45e67f",
+    "url": "https://www.rudaw.net/sorani/kurdistan/180520264",
+    "title": "‎سێ لیژنەی لێکۆڵینەوە بۆ هۆکاری گیانلەدەستدانی داریووش پێکهێندران",
+    "title_en": "‎سێ لیژنەی لێکۆڵینەوە بۆ هۆکاری گیانلەدەستدانی داریووش پێکهێندران",
+    "summary": "ئەرکان عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە وێنەی داریووش ئەو گەنجەی پۆلیس دەڵێت 'خۆی خنکاندووە' و کەسوکاری دەڵێن 'خنکێندراوە' زۆرتر لە کوردستان دابەشکردنی زەوی لە هەولێر دەستیپێدەکاتەوە ئامادەکاری دەکرێ قەڵای زەرزەوان لە ئامەد بخرێتە لیستی میراتی جیهانییەوە گوتەبێژی هاتووچۆی گەرمیان: لە دوو رێگەی سەرەکیدا 42 کامێرەی خاڵ بۆ خاڵ دادەنرێن نێوەڕۆکی پ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e1174bef91d11253",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520265",
+    "title": "پڕۆژەی گەورەی ئاوی بەسرە 84%ی تەواو بووە؛ \"کۆتایی بە قەیرانی سوێری دەهێنێت\"",
+    "title_en": "پڕۆژەی گەورەی ئاوی بەسرە 84%ی تەواو بووە؛ \"کۆتایی بە قەیرانی سوێری دەهێنێت\"",
+    "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کارکردن لە پڕۆژەکە زۆرتر لە عێراق ئەنجوومەنی هاوکاریی کەنداو: سەرکۆنەی ئەو هێرشە دەکەین کە لە ئاسمانی عێراقەوە کرایە سەر سعودیە وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6ccbce8f5d105939",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/180520264",
+    "title": "ئەنجوومەنی هاوکاریی کەنداو: سەرکۆنەی ئەو هێرشە دەکەین کە لە ئاسمانی عێراقەوە کرایە سەر سعودیە",
+    "title_en": "ئەنجوومەنی هاوکاریی کەنداو: سەرکۆنەی ئەو هێرشە دەکەین کە لە ئاسمانی عێراقەوە کرایە سەر سعودیە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق درۆن. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە عێراق پڕۆژەی گەورەی ئاوی بەسرە 84%ی تەواو بووە؛ \"کۆتایی بە قەیرانی سوێری دەهێنێت\" وەزیرێکی پێشووی عێراق دۆسیەیەک لەسەر هاوپیشەیەکى دەداتە دەستپاکی؛ زەوی لە کوڕەکەى بۆ وەزارەتەکەی کڕیووە وەزارەتە بەتاڵەکان چاوەڕێی جەژنن؛ عەزم لە دادگەی فیدراڵی عێراق سکاڵای تۆمار ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be7f2cbbdd4cf562",
+    "url": "https://www.rudaw.net/sorani/business/180520264",
+    "title": "ئەمریکا کەشتییەکی لە دەریای عومان ئازاد کرد کە نەوتی عێراقی بارکردبوو",
+    "title_en": "ئەمریکا کەشتییەکی لە دەریای عومان ئازاد کرد کە نەوتی عێراقی بارکردبوو",
+    "summary": "هەکار عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کەشتیی نەوتهەڵگری Agios Fanourios 1. وێنە: REUTERS/Mohammed Aty زۆرتر لە ئابووری خەرجی و داهاتی عێراق لە چارەکی یەکەمی ساڵ: 27 تریلیۆن دینار خەرج کراوە و نزیکەی 7% کورتهێنان هەبووە یەک دۆلار بە 180 هەزار و 400 تمەن مامەڵەی پێودەکرێت نرخی نەوتی برێنت 111 دۆلاری تێپەڕاند یەک ئۆنسە زێڕ بە 4540 دۆلار ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
