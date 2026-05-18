@@ -1,18 +1,36 @@
 [
   {
-    "id": "300a518b06a7861a",
-    "url": "https://www.rudaw.net/english/kurdistan/17052026",
-    "title": "Refugee camp fire kills child, critically injures three in Sulaimani",
-    "title_en": "Refugee camp fire kills child, critically injures three in Sulaimani",
-    "summary": "SULAIMANI, Kurdistan Region - A child died on Sunday, and three other family members remained in critical condition as a result of a fire that broke out last week in Barika refugee camp in Sulaimani province due to an electrical failure. The fire erupted on Monday and spread through the family’s shelter. Doctors at Sulaimani’s emergency burn hospital told Rudaw that the 38-year-old mother, two boys, and a girl aged between five and 15 suffered burns covering more than 50 percent of their bodies and have remained under intensive care. Camp director Payam Salam told Rudaw that 14-year-old Omar Bozan succumbed to his injuries on Sunday. She added that the fire was caused by an electrical fault that triggered power appliances to catch fire. \"I had the phone on charge while the air conditioning was on. The air conditioner exploded with the phone after an electrical short [circuit] occurred, and they both caught on fire,\" Yasmin Bozan, who suffered minor injuries, told Rudaw on Saturday. \"My sister is a little better; however, my mother and two brothers are in a very bad condition.\" Mahmoud Hussein, a relative of the family, said, “This is the fifth day they’re under intensive care, and they haven’t improved not one bit. Not one of them has moved a finger or taken a breath; they’re breathing with the assistance of machines and medicine.” The victims are members of an eight-person refugee family from Kobane in northeast Syria (Rojava) who have lived in the camp for the past 12 years. More than 250,000 Syrian refugees remain registered in the Kurdistan Region, according to Kurdistan Regional Government (KRG) data, more than a decade after the Syrian civil war and the Islamic State’s 2014 siege of Kobane triggered a major influx of displaced people. Despite the prolonged displacement, humanitarian organizations have faced major international funding cuts in recent years, increasing pressure on camp infrastructure and leaving many refugee families in overcrowded shelters with",
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "fire",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-18T06:18:25.992096+00:00",
+    "timestamp": "2026-05-18T06:48:54.046228+00:00",
     "location": {
-      "name": "Kurdistan",
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:48:42.010417+00:00",
+    "location": {
+      "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -28,9 +46,189 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-18T06:18:15.336071+00:00",
+    "timestamp": "2026-05-18T06:48:30.898818+00:00",
     "location": {
       "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68c45463808bc4f7",
+    "url": "https://www.rudaw.net/english/kurdistan/06052026",
+    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:48:14.137614+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b682c5207485da7",
+    "url": "https://www.rudaw.net/english/kurdistan/18052026",
+    "title": "President Barzani congratulates Namo Fazil after historic MMA victory",
+    "title_en": "President Barzani congratulates Namo Fazil after historic MMA victory",
+    "summary": "ERBIL, Kurdistan Region - President Masoud Barzani on Sunday congratulated Kurdish MMA fighter Namo Fazil after his decisive victory in the United States, where he secured a second-round submission win in Los Angeles, praising him as \"a source of pride for all Kurds and Kurdistan.\" Namo Fazil achieved the victory in the early hours of Sunday during a Mixed Martial Arts bout in Los Angeles, California, where he fought American opponent Jake Babian at the Intuit Dome while carrying the flag of Kurdistan and singing a Kurdish national anthem inside the arena. “I congratulate the international champion, the young and talented Kurdish fighter, Namo Fazil, on his remarkable and outstanding victory achieved in MMA competitions in the United States,\" President Masoud Barzani, leader of the Kurdistan Democratic Party (KDP), said in a post on X, saying that Fazil is \"a source of pride for all Kurds and Kurdistan.\" His victory sparked widespread social media attention and was widely celebrated by Kurds across the globe. Kurdistan Region President Nechirvan Barzani also issued a congratulatory message. “I extend my warmest congratulations and commendations to the international champion and talented Kurdish youth, Namo Fazil, for the great victory he achieved in Mixed Martial Arts (MMA) in the United States. I wish him continued success and many more victories.” In the first round of the fight, the American fighter began the contest aggressively, applying strong pressure with powerful strikes. However, Fazil absorbed the attacks with tactical discipline and endurance, gradually gaining control of the bout. The turning point came in the second round at 58 seconds, when Fazil executed a technical “Anaconda Choke,” trapping his opponent’s neck in a submission hold. Babian was forced to tap out, signaling surrender before sustaining injury. With this victory, Namo Fazil improved his professional record to 10 wins and 1 loss. The fight was broadcast live on Netflix and is expected to",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:48:03.408309+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f7802d4d1bf10cec",
+    "url": "https://www.rudaw.net/english/middleeast/17052026",
+    "title": "Drone strike sparks fire near UAE nuclear plant",
+    "title_en": "Drone strike sparks fire near UAE nuclear plant",
+    "summary": "ERBIL, Kurdistan Region - A drone attack in the United Arab Emirates (UAE) on Sunday sparked a fire near the Barakah nuclear power plant, authorities said, adding that no injuries were reported and there was “no impact on radiological safety levels.” “Authorities in Abu Dhabi responded to a fire incident that broke out in an electrical generator outside the inner perimeter of the Barakah Nuclear Power Plant in the Al Dhafra Region, caused by a drone strike,” Abu Dhabi’s media office said, adding that “No injuries were reported, and there was no impact on radiological safety levels.” No party has claimed responsibility for the attack at the time of writing. Iran has accused the UAE of being complicit in the US-Israel military campaign launched against it since February 28, saying Abu Dhabi provides support to its adversaries. Last week, despite a truce between Washington and Tehran, the UAE was targeted with around two dozen projectiles launched by Iran. Abu Dhabi has said it reserves the right to respond. It said the country’s nuclear regulatory agency confirmed that the fire “did not affect the safety of the power plant or the readiness of its essential systems, and that all units are operating as normal.” The International Atomic Energy Agency (IAEA) said in a post that the UAE informed it that emergency diesel generators are supplying power to Unit 3 of the plant. IAEA chief Rafael Grossi expressed concern over the attack, saying “military activity that threatens nuclear safety is unacceptable,” according to the United Nations’ nuclear watchdog. Iranian Foreign Minister Abbas Araqchi said on Thursday that Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran. The UAE has been a primary target for attacks from Iran and its allied armed",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:47:41.174298+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04df562255b39aa4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
+    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:45:33.894807+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "badd2d49bd794f91",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1705202630",
+    "title": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
+    "title_en": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئامینە کەریم، تەمەنێکە ژینگەی نەخۆشخانەکان دەپارێزێت، بەڵام ئێستا بێ مووچەیە. ئەو مانگانە 150 هەزار دیناری بۆ دەرمانی خۆی و هاوژینە جەڵتەلێدراوەکەی پێویستە، بەڵام لە سەرەتای ئەمساڵەوە تاقە دینارێکی وەرنەگرتووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:45:16.231041+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bc55cf83ca7cec93",
+    "url": "https://www.rudaw.net/sorani/world/15012024",
+    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
+    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ میدیای ئێران رایگەیاند، وەڵامەکەی ئەمریکا بۆ پێشنیازەکانی ئێران بۆ کۆتاییهێنان بە جەنگ، هیچ \"سازشێکی بەرجەستە\"ـی تێدا نییە و واشنتن داوای کردووە تاران تەنیا یەک وێستگەی ئەتۆمی بهێڵێتەوە و یۆرانیۆمی پیتێندراو رادەستی ئەمریکا بکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:45:06.458007+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5872dd28c722c1b7",
+    "url": "https://www.rudaw.net/sorani/business/150620234",
+    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دادگەی باڵای سعودیە رۆژی عەرەفە و یەکەم رۆژی جەژنی قوربانی بۆ ساڵی 1447ی کۆچی (2026ی زایینی) دیاریکرد.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:44:48.252420+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دادگەی باڵای سعودیە رۆژی عەرەفە و یەکەم رۆژی جەژنی قوربانی بۆ ساڵی 1447ی کۆچی (2026ی زایینی) دیاریکرد.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:44:37.802521+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:44:15.458103+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "300a518b06a7861a",
+    "url": "https://www.rudaw.net/english/kurdistan/17052026",
+    "title": "Refugee camp fire kills child, critically injures three in Sulaimani",
+    "title_en": "Refugee camp fire kills child, critically injures three in Sulaimani",
+    "summary": "SULAIMANI, Kurdistan Region - A child died on Sunday, and three other family members remained in critical condition as a result of a fire that broke out last week in Barika refugee camp in Sulaimani province due to an electrical failure. The fire erupted on Monday and spread through the family’s shelter. Doctors at Sulaimani’s emergency burn hospital told Rudaw that the 38-year-old mother, two boys, and a girl aged between five and 15 suffered burns covering more than 50 percent of their bodies and have remained under intensive care. Camp director Payam Salam told Rudaw that 14-year-old Omar Bozan succumbed to his injuries on Sunday. She added that the fire was caused by an electrical fault that triggered power appliances to catch fire. \"I had the phone on charge while the air conditioning was on. The air conditioner exploded with the phone after an electrical short [circuit] occurred, and they both caught on fire,\" Yasmin Bozan, who suffered minor injuries, told Rudaw on Saturday. \"My sister is a little better; however, my mother and two brothers are in a very bad condition.\" Mahmoud Hussein, a relative of the family, said, “This is the fifth day they’re under intensive care, and they haven’t improved not one bit. Not one of them has moved a finger or taken a breath; they’re breathing with the assistance of machines and medicine.” The victims are members of an eight-person refugee family from Kobane in northeast Syria (Rojava) who have lived in the camp for the past 12 years. More than 250,000 Syrian refugees remain registered in the Kurdistan Region, according to Kurdistan Regional Government (KRG) data, more than a decade after the Syrian civil war and the Islamic State’s 2014 siege of Kobane triggered a major influx of displaced people. Despite the prolonged displacement, humanitarian organizations have faced major international funding cuts in recent years, increasing pressure on camp infrastructure and leaving many refugee families in overcrowded shelters with",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-18T06:18:25.992096+00:00",
+    "location": {
+      "name": "Kurdistan",
       "lat": 36.1912,
       "lng": 44.0092
     }
@@ -60,7 +258,7 @@
     "title_en": "KIU presents initiative to PUK to break political deadlock in Kurdistan Region",
     "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -126,24 +324,6 @@
     }
   },
   {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T06:15:16.787281+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2baf94de6b860131",
     "url": "https://www.rudaw.net/sorani/kurdistan/1605202616",
     "title": "فراکسیۆنی هەڵوێست: پەیوەندییمان پێوەکراوە بۆ دروستکردنی بەرەیەکی ئۆپۆزیسیۆن لە عێراق",
@@ -168,7 +348,7 @@
     "title_en": "نرخی نەوتی برێنت 111 دۆلاری تێپەڕاند",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە پەرلەمانی عێراق واژۆی 100 پەرلەمانتار لە فراکسیۆنە جیاوازەکان کۆکرایەوە بۆ ئەوەی حکومەتی عێراق پابەند بکرێ تەواوی گەنمی جووتیارانی هەرێمی کوردستان، هاوشێوەی جووتیارانی پارێزگاکانی دیکەی عێراق وەربگرێت",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -324,24 +504,6 @@
     }
   },
   {
-    "id": "04df562255b39aa4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
-    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای کۆبوونەوەیان لەگەڵ سەرۆکی یەکێتیی نیشتمانیی کوردستان، بڕیارە سبەی ئەمینداری گشتیی یەکگرتووی ئیسلامی کوردستان و شاندە یاوەرەکەی، لەگەڵ سەرکردایەتیی پارتی دیموکراتی کوردستانیش کۆدەبێتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T05:43:53.203275+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "93eb1a7c45f8f455",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/170520262",
     "title": "فەرماندەی پۆلیسی ئێران: لە سەرەتای شەڕەوە زیاتر لە 6,500 سیخوڕ دەستگیرکراون",
@@ -371,24 +533,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T05:43:30.754014+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "68c45463808bc4f7",
-    "url": "https://www.rudaw.net/english/kurdistan/06052026",
-    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T05:17:38.686639+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -558,24 +702,6 @@
     }
   },
   {
-    "id": "5872dd28c722c1b7",
-    "url": "https://www.rudaw.net/sorani/business/150620234",
-    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزیری وزەی ئەمریکا دەڵێ، پێشبینی دەکەن تەنگەی هورمز تاوەکو هاوین بکرێتەوە. هۆشدارییش دەدات، ئەگەر ئێران بەردەوام بێت لە \"بەبارمتەگرتن\"ی ئابووریی جیهان، سوپای ئەمریکا بە هێز رێڕۆ ئاوییەکە دەکاتەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T05:13:26.524282+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "7d014b05e95efecd",
     "url": "https://www.rudaw.net/sorani/world/170520268",
     "title": "پزیشکیان سوپاسی هەڵوێستی پاکستان، ئەفغانستان و عێراق دەکات لەکاتی جەنگدا",
@@ -676,29 +802,6 @@
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "economy",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Zakho",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-18T04:49:52.703502+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
     }
   },
   {
@@ -803,29 +906,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T04:46:23.413941+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "badd2d49bd794f91",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1705202630",
-    "title": "لەگەڵ رەنج؛ چۆن وەرزش لە خولیاوە بکەینە سەرچاوەی داهات؟",
-    "title_en": "With Pain; How to Exercise in the Gym?",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئامینە کەریم، تەمەنێکە ژینگەی نەخۆشخانەکان دەپارێزێت، بەڵام ئێستا بێ مووچەیە. ئەو مانگانە 150 هەزار دیناری بۆ دەرمانی خۆی و هاوژینە جەڵتەلێدراوەکەی پێویستە، بەڵام لە سەرەتای ئەمساڵەوە تاقە دینارێکی وەرنەگرتووە.",
-    "source": "rudaw-sorani",
-    "category": "health",
-    "sentiment": "negative",
-    "entities": [
-      {
-        "name": "Amina Karim",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-18T04:46:11.850325+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -986,24 +1066,6 @@
     }
   },
   {
-    "id": "bc55cf83ca7cec93",
-    "url": "https://www.rudaw.net/sorani/world/15012024",
-    "title": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "title_en": "سەرۆکی ئەمریکا چۆن هەڵدەبژێردرێت؟",
-    "summary": "   وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەیی ناوەندیی سوپای ئەمریکا (سێنتکۆم) وێنەیەکی نوێی بڵاوکردەوە کە تێیدا دەردەکەوێت، دەریاڤانێکی ئەمریکایی لەسەر کەشتیی هێرشبەری USS Tripoli بە دووربین چاودێریی دەریای عەرەب دەکات. ئەمەش وەک ئاماژەیەک بۆ بەردەوامیی گەمارۆ دەریاییە تووندەکەی ئەمریکا بۆ سەر بەندەرەکانی ئێران کە ئێستا پێ دەنێتە هەفتەی شەشەمیەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T03:41:34.195246+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "21f9b884c5b1c25c",
     "url": "https://www.rudaw.net/english/middleeast/iraq/170520262",
     "title": "Remains of 16 individuals found in Anbar mass graves",
@@ -1015,24 +1077,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T03:15:26.828259+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T03:14:54.851976+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1123,24 +1167,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T02:41:29.539889+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f7802d4d1bf10cec",
-    "url": "https://www.rudaw.net/english/middleeast/17052026",
-    "title": "Drone strike sparks fire near UAE nuclear plant",
-    "title_en": "Drone strike sparks fire near UAE nuclear plant",
-    "summary": "ERBIL, Kurdistan Region - A drone attack in the United Arab Emirates (UAE) on Sunday sparked a fire near the Barakah nuclear power plant, authorities said, adding that no injuries were reported and there was “no impact on radiological safety levels.” “Authorities in Abu Dhabi responded to a fire incident that broke out in an electrical generator outside the inner perimeter of the Barakah Nuclear Power Plant in the Al Dhafra Region, caused by a drone strike,” Abu Dhabi’s media office said, adding that “No injuries were reported, and there was no impact on radiological safety levels.” No party has claimed responsibility for the attack at the time of writing. Iran has accused the UAE of being complicit in the US-Israel military campaign launched against it since February 28, saying Abu Dhabi provides support to its adversaries. Last week, despite a truce between Washington and Tehran, the UAE was targeted with around two dozen projectiles launched by Iran. Abu Dhabi has said it reserves the right to respond. It said the country’s nuclear regulatory agency confirmed that the fire “did not affect the safety of the power plant or the readiness of its essential systems, and that all units are operating as normal.” The International Atomic Energy Agency (IAEA) said in a post that the UAE informed it that emergency diesel generators are supplying power to Unit 3 of the plant. IAEA chief Rafael Grossi expressed concern over the attack, saying “military activity that threatens nuclear safety is unacceptable,” according to the United Nations’ nuclear watchdog. Iranian Foreign Minister Abbas Araqchi said on Thursday that Abu Dhabi placed its “military bases, airspace, territory, and facilities at the disposal of the US and Israeli regime, providing all kinds of intelligence and other support” to strike the “Iranian people” as well as allowing “its territory to fire artillery and equipment” against Iran. The UAE has been a primary target for attacks from Iran and its allied armed",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T02:15:51.546025+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1555,24 +1581,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-17T18:46:55.636318+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-17T18:44:08.684708+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -12512,12 +12520,12 @@
     }
   },
   {
-    "id": "1b682c5207485da7",
-    "url": "https://www.rudaw.net/english/kurdistan/18052026",
-    "title": "President Barzani congratulates Namo Fazil after historic MMA victory",
-    "title_en": "President Barzani congratulates Namo Fazil after historic MMA victory",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Kurdistan President Masoud Barzani (left) and Kurdish MMA fighter Namo Fazil. Graphic: Rudaw Also in Kurdistan New hearing set for Lahur Talabany trial amid transfer dispute KIU presents initiative to PUK to break political deadlock in Kurdistan Region Refugee camp fire kills child, critically injures ",
-    "source": "rudaw-english",
+    "id": "0d7e4ac530ab139e",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/18052026",
+    "title": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
+    "title_en": "حکومەتی تورکیا کۆدەبێتەوە؛ پرۆسەی چارەسەری و دۆخی ناوچەکە تاوتوێ دەکرێن",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا کۆبوونەوەی حکومەتی تورکیا بە سەرۆکایەتیی رەجەب تەیب ئەردۆغان زۆرتر لە تورکیا لە ئیستەنبووڵ تکتی پاسەکانی جەژن تەواو بوون لە تورکیا دوو پۆلیس لە ئەرکدا کوژران تورکیا؛ بنەماکانی یاسای قەدەخەکردنی تۆڕە کۆمەڵایەتییەکان بۆ تەمەنی ژێر 15 ساڵ دیاری دەکرێن تورکیا ئامادەکاری بۆ لووتکەی ناتۆ دەکات و شوێنێک ب",
+    "source": "rudaw-sorani",
     "category": "fire",
     "sentiment": "neutral",
     "entities": [],
