@@ -1,16 +1,124 @@
 [
   {
-    "id": "71cd02f5b8a23019",
-    "url": "https://www.rudaw.net/english/kurdistan/180520261",
-    "title": "Kurdish opposition group comes under 'Iranian' missile attack near Sulaimani",
-    "title_en": "Kurdish opposition group comes under 'Iranian' missile attack near Sulaimani",
-    "summary": "ERBIL, Kurdistan Region - At least two people were injured late Monday when four “Iranian missiles” struck a base belonging to the Komala Toilers of Kurdistan in southwest of the Kurdistan Region's eastern Sulaimani province, a party official confirmed to Rudaw English. “As part of the ongoing attacks by the Islamic Republic against Komala [Toilers of Kurdistan], at around 10 pm Monday evening, four missiles were fired at Komala’s headquarters in Surdash,\" southwest of Sulaimani, the official said, adding that “two of our members have been injured,” but due to darkness, they were unable to confirm further casualties. He further noted that since the outbreak of the conflict with Iran in late February, “the Islamic Republic of Iran has targeted Komala’s bases and headquarters with more than 77 missiles and drones.” The missile attack on Monday comes days after three Iranian drones targeted “residential” sites belonging to another prominent Kurdish opposition group, the Democratic Party of Iranian Kurdistan (KDPI), north of Erbil on Friday. “Iran’s terrorist [Islamic Revolutionary Guard Corps] IRGC launched a new wave of suicide drones against the Jejnikan residential camp of the KDPI this morning, marking the second such attack on Jejnikan within three days,” the group said in a statement, adding that the site \"serves as a civilian residential camp for KDPI members’ families.” The KDPI further noted that since the outbreak of the Iran war in late February, “the Islamic Republic of Iran has targeted KDPI family camps, as well as the party’s medical and educational facilities, nearly 130 times using ballistic missiles and drones.” The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launch",
+    "id": "c6875f93b31a9e2a",
+    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
+    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-19T06:49:41.768558+00:00",
+    "timestamp": "2026-05-19T07:22:49.710541+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42dd73728b641fa3",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
+    "title": "Iraqi police cracks down on crime in Baghdad",
+    "title_en": "Iraqi police cracks down on crime in Baghdad",
+    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:22:39.017413+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1a7b813fcab18afc",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
+    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
+    "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:22:27.173539+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68c45463808bc4f7",
+    "url": "https://www.rudaw.net/english/kurdistan/06052026",
+    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:22:16.529980+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1854e32cc0b4d38b",
+    "url": "https://www.rudaw.net/english/kurdistan/19052026",
+    "title": "KIU says Kurdistan's ruling parties welcomed initiative to end political deadlock",
+    "title_en": "KIU says Kurdistan's ruling parties welcomed initiative to end political deadlock",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Islamic Union (KIU) said on Monday the Kurdistan Region's ruling parties have welcomed its recent initiative to reactivate parliament and form a new government. KIU leader Salahaddin Bahaaddin visited Kurdistan Region Prime Minister Masrour Barzani - who is also the second deputy president of the Kurdistan Democratic Party (KDP) - on Monday to present him with an initiative aimed at ending the political deadlock. Bahaaddin met with Patriotic Union of Kurdistan (PUK) leader Bafel Talabani on Sunday for the same purpose. Salahaddin Babakir, KIU spokesperson, told Rudaw's Zana Kayani that both Barzani and Talabani had welcomed the initiative. The KDP deputy president expressed his support for \"any step that serves to resolve the problems and end the political deadlock,\" the KIU spokesperson said. Barzani said in a statement that during his meeting with Bahaaddin that they \"stressed the importance of reactivating the Kurdistan Parliament and the Region’s legal and constitutional institutions.” A statement from Talabani's office on Sunday said they have always welcomed \"any initiative that stems from sincerity and serves the interests and benefits of the people of Kurdistan.” PUK media had launched a campaign against the KDP as tensions between the two parties escalated recently. Babakir said Talabani has ordered his party's media to suspend the campaign, adding that the KDP has said it is \"fundamentally not in favor of such rhetoric.” Hoshyar Siwaily, head of the KDP’s foreign relations office, said he is optimistic that KIU's initiative \"will produce good results and outcomes, and that the Kurdistan Region will be rescued from the current deadlock it is facing, namely the deadlock over the formation of the Kurdistan Regional Government.” The meetings come amid a prolonged political deadlock in the Kurdistan Region, where rival parties have failed to form the tenth regional cabinet more than 18 months after parliamentary elections",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:22:06.406767+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "82733df9a2781105",
+    "url": "https://www.rudaw.net/english/kurdistan/250820245",
+    "title": "UNITAD hands KRG authorities processed evidence on ISIS",
+    "title_en": "UNITAD hands KRG authorities processed evidence on ISIS",
+    "summary": "ERBIL, Kurdistan Region - The United Nations team investigating the Islamic State (ISIS) gave processed information to the Kurdistan Regional Government (KRG) on Sunday relating to legal measures and procedures for the trial of ISIS suspects, as the team’s mandate in Iraq and the Region nears its end. The documents consist of “11.9 gigabytes of information and research on legal procedures for the trial of perpetrators of international crimes” committed against the Yazidis and other communities by ISIS, according to a statement from the office of Dindar Zebari, the KRG’s coordinator for international advocacy. Ana Peyro Llopis, the head of the UN Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD), handed over the files during a meeting with Zebari. “[T]he structured version of this information represents a major step forward in our efforts to support the Kurdistan Region's investigative processes. This information is crucial for advancing accountability for the crimes committed by ISIL (Da’esh), both within Iraq and globally,”  Llopis said in a statement from UNITAD. Another version of the information “in its original, unaltered state” was delivered by UNITAD to the KRG in July. The documents consisted of nearly 46 gigabytes of evidence and encrypted information. UNITAD was established in 2017 to investigate crimes by ISIS. The team’s mandate in Iraq is set to expire on September 17. During the meeting, Zebari and Llopis discussed the conclusion of UNITAD’s mission, according to the KRG statement. “The KRG will continue with UNITAD until the end of its mission. In this context, UNITAD has committed to coordination with third countries and requesting assistance after the end of the UNITAD team’s mandate in Iraq and the Kurdistan Region,” it noted. The team's work included collecting witness testimonies, leading the exhumation of mass graves, and training Iraq's judiciary. The investigative team has had a difficult relationship wi",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:21:54.366021+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:21:33.522540+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,11 +136,137 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-19T06:49:26.144096+00:00",
+    "timestamp": "2026-05-19T07:21:21.923664+00:00",
     "location": {
       "name": "Shaqlawa",
       "lat": 36.5485,
       "lng": 44.3397
+    }
+  },
+  {
+    "id": "c835d3a75e5f021d",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/180520262",
+    "title": "Baghdad denies detection of drone incursion as Saudi Arabia signals potential response",
+    "title_en": "Baghdad denies detection of drone incursion as Saudi Arabia signals potential response",
+    "summary": "ERBIL, Kurdistan Region - Baghdad on Monday expressed its “deep concern” over reports that facilities in Saudi Arabia were targeted by three drones entering from Iraq, noting that “no information had been recorded” by Iraqi surveillance systems regarding the incident, while affirming its readiness to cooperate with Riyadh to clarify the circumstances surrounding the reported assault. In a statement, the Iraqi foreign ministry “expressed its deep concern over what has been circulated regarding facilities in the brotherly Kingdom of Saudi Arabia being targeted by three drones,” adding that it is “closely following up on this information,” as “the relevant authorities have immediately begun the necessary verification and investigation procedures to determine the circumstances and details.” The ministry also confirmed that “no information regarding the incident has been recorded through Iraqi air defense systems or optical equipment,” calling on the Saudi authorities “to cooperate and exchange relevant information in order to reach accurate facts that enhance security and stability in both brotherly countries.” The statement further asserted Iraq’s “firm position in respecting the security, safety, and sovereignty of brotherly states, rejecting any actions that could undermine their stability or threaten their national security or harm fraternal relations with sister countries,” and affirmed its “commitment to continued coordination and consultation with the Kingdom of Saudi Arabia to enhance security and stability in the region.” A day earlier, Saudi Arabia said it had intercepted and destroyed three drones after they entered its airspace from Iraq. Saudi defense ministry Spokesperson Major General Turki al-Malkion Sunday stated  that “on the morning of Sunday, May 17, 2026, three drones were intercepted and destroyed after entering Saudi Arabia’s airspace from Iraq.” “The Ministry of Defense reserves the right to respond at the appropriate time and place and will impl",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:21:09.695145+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57327df16e27b8fa",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:19:21.532702+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f79ef9980a2c51f0",
+    "url": "https://www.rudaw.net/sorani/business/19052026",
+    "title": "نرخی نەوت نزیکەی 2٪ دابەزی",
+    "title_en": "نرخی نەوت نزیکەی 2٪ دابەزی",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەپێی داتاکانی دامەزراوەی (LSEG) بۆ چاودێری کەشتیوانی، نەوتهەڵگری زەبەلاحی (Agios Fanourios 1) کە باری نەوتی خاوی عێراقی هەڵگرتووە، دوای 5 رۆژ لە راگرتنی لەلایەن هێزی دەریایی ئەمریکاوە، ئازاد کرا و بەرەو ڤێتنام بەڕێکەوت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:19:10.819734+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "508437d052e7ea1d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
+    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:19:00.005742+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37f552d6e84073d1",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:18:49.155560+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04df562255b39aa4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
+    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T07:18:35.911898+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "71cd02f5b8a23019",
+    "url": "https://www.rudaw.net/english/kurdistan/180520261",
+    "title": "Kurdish opposition group comes under 'Iranian' missile attack near Sulaimani",
+    "title_en": "Kurdish opposition group comes under 'Iranian' missile attack near Sulaimani",
+    "summary": "ERBIL, Kurdistan Region - At least two people were injured late Monday when four “Iranian missiles” struck a base belonging to the Komala Toilers of Kurdistan in southwest of the Kurdistan Region's eastern Sulaimani province, a party official confirmed to Rudaw English. “As part of the ongoing attacks by the Islamic Republic against Komala [Toilers of Kurdistan], at around 10 pm Monday evening, four missiles were fired at Komala’s headquarters in Surdash,\" southwest of Sulaimani, the official said, adding that “two of our members have been injured,” but due to darkness, they were unable to confirm further casualties. He further noted that since the outbreak of the conflict with Iran in late February, “the Islamic Republic of Iran has targeted Komala’s bases and headquarters with more than 77 missiles and drones.” The missile attack on Monday comes days after three Iranian drones targeted “residential” sites belonging to another prominent Kurdish opposition group, the Democratic Party of Iranian Kurdistan (KDPI), north of Erbil on Friday. “Iran’s terrorist [Islamic Revolutionary Guard Corps] IRGC launched a new wave of suicide drones against the Jejnikan residential camp of the KDPI this morning, marking the second such attack on Jejnikan within three days,” the group said in a statement, adding that the site \"serves as a civilian residential camp for KDPI members’ families.” The KDPI further noted that since the outbreak of the Iran war in late February, “the Islamic Republic of Iran has targeted KDPI family camps, as well as the party’s medical and educational facilities, nearly 130 times using ballistic missiles and drones.” The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launch",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T06:49:41.768558+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
     }
   },
   {
@@ -60,47 +294,11 @@
     "title_en": "President Nechirvan Barzani meets Pope, invites him to Kurdistan Region",
     "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani met Pope Leo XIV on Monday in the Vatican, where he extended an invitation for the Pope to visit the Kurdistan Region and Iraq. “I was honored to meet His Holiness Pope Leo XIV @Pontifex today in the Vatican,” President Barzani said in a post on X. “I reaffirmed that Christians and all religious communities are not only an integral part of the Kurdistan Region’s history and identity, but continue to shape its future.” His meeting came as part of a two-day trip to the Vatican. Earlier, he met Cardinal Secretary of State of Vatican City Pietro Parolin. “I reiterated to His Holiness that protecting their rights, dignity, and peaceful presence in their ancestral homeland will always remain our duty,” he said, adding that “I expressed Iraq’s and the Kurdistan Region’s deep appreciation for the Vatican’s moral leadership and its important role in promoting dialogue and coexistence across the world.” For his part, the pope “expressed his happiness with this meeting and gave deep praise for the culture of forgiveness, coexistence and mutual acceptance in the Kurdistan Region and Iraq,” according to a statement from the Kurdistan Region Presidency. “He also highly valued the role of the Kurdistan Region in sheltering, protecting, and providing a peaceful life for refugees and Christians during difficult times.” President Barzani also said that he “recalled with gratitude the late Pope Francis’ historic visit to Iraq and the Kurdistan Region, and extended an invitation for His Holiness to visit Iraq and the Kurdistan Region.” The late Pope Francis made a historic visit to Iraq and the Kurdistan Region in March 2021, where he visited several cities across the country and held a mass for 10,000 people in Erbil. On Friday, President Barzani received Miroslaw Wachowski, the Vatican’s new Apostolic Nuncio to Iraq. Barzani reiterated the Kurdistan Region’s support for his mission and stressed the Region’s commit",
     "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T06:48:56.655691+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1854e32cc0b4d38b",
-    "url": "https://www.rudaw.net/english/kurdistan/19052026",
-    "title": "KIU says Kurdistan's ruling parties welcomed initiative to end political deadlock",
-    "title_en": "KIU says Kurdistan's ruling parties welcomed initiative to end political deadlock",
-    "summary": "ERBIL, Kurdistan Region - The Kurdistan Islamic Union (KIU) said on Monday the Kurdistan Region's ruling parties have welcomed its recent initiative to reactivate parliament and form a new government. KIU leader Salahaddin Bahaaddin visited Kurdistan Region Prime Minister Masrour Barzani - who is also the second deputy president of the Kurdistan Democratic Party (KDP) - on Monday to present him with an initiative aimed at ending the political deadlock. Bahaaddin met with Patriotic Union of Kurdistan (PUK) leader Bafel Talabani on Sunday for the same purpose. Salahaddin Babakir, KIU spokesperson, told Rudaw's Zana Kayani that both Barzani and Talabani had welcomed the initiative. The KDP deputy president expressed his support for \"any step that serves to resolve the problems and end the political deadlock,\" the KIU spokesperson said. Barzani said in a statement that during his meeting with Bahaaddin that they \"stressed the importance of reactivating the Kurdistan Parliament and the Region’s legal and constitutional institutions.” A statement from Talabani's office on Sunday said they have always welcomed \"any initiative that stems from sincerity and serves the interests and benefits of the people of Kurdistan.” PUK media had launched a campaign against the KDP as tensions between the two parties escalated recently. Babakir said Talabani has ordered his party's media to suspend the campaign, adding that the KDP has said it is \"fundamentally not in favor of such rhetoric.” Hoshyar Siwaily, head of the KDP’s foreign relations office, said he is optimistic that KIU's initiative \"will produce good results and outcomes, and that the Kurdistan Region will be rescued from the current deadlock it is facing, namely the deadlock over the formation of the Kurdistan Regional Government.” The meetings come amid a prolonged political deadlock in the Kurdistan Region, where rival parties have failed to form the tenth regional cabinet more than 18 months after parliamentary elections",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T06:48:47.194595+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1a7b813fcab18afc",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
-    "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
-    "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-19T06:48:35.810848+00:00",
+    "timestamp": "2026-05-19T06:48:56.655691+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -114,7 +312,7 @@
     "title_en": "Iraq-Turkey transit convoy enters via Syria, raises concern over Kurdistan trade route",
     "summary": "ERBIL, Kurdistan Region - In a notable development, the first Iraq-Turkey transit convoy arrived in Iraq’s northern Nineveh province via Syria on Monday, a move that some analysts say could potentially weaken the Kurdistan Region’s trade with Turkey as it marks a notable shift in trade routes between Ankara and Baghdad. The first convoy of Turkish cargo trucks arrived at the Rabia border crossing in Nineveh province on Monday after passing through Syria’s Gire Spi (Tal Abyad) crossing with Turkey. Omar al-Waili, head of Iraq’s Border Crossings Authority, said in a statement that the “Rabia crossing witnessed the launch of goods transportation in transit form,” adding that the move “comes in implementation of Iraq’s foreign policy to strengthen relations with neighboring countries and diversify the economy.” He further noted that the route would eventually become an important part of the Development Road Project, turning Iraq into a global logistics hub. Spanning 1,200 kilometers, the $17 billion Project will extend from Faw Port in Iraq’s southern Basra province on the Gulf to the country’s northern border with Turkey. The project includes railways and highways designed to transport goods and passengers, with the aim of positioning Iraq as a regional trade hub. It is expected to generate annual revenues of $4 billion. Iraqi officials say the project will strengthen Iraq’s geopolitical standing, boost the national economy, and create thousands of jobs by linking the country to European markets via Turkey. Sirwa Mohammed, a member of the Iraqi parliament’s economy and trade committee, told Rudaw on Monday that “Omar al-Waili informed me that Turkey itself requested the reopening of the Rabia crossing so that the largest share of trade movement would pass through this route.” The Kurdish lawmaker added that she believes the move is aimed at “weakening and paralyzing the Ibrahim Khalil border crossing” with Turkey, which is located in the Kurdistan Region’s northern Duh",
     "source": "rudaw-english",
-    "category": "traffic",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -216,24 +414,6 @@
     }
   },
   {
-    "id": "04df562255b39aa4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
-    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T06:45:21.241026+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "fd1a7bb306ace797",
     "url": "https://www.rudaw.net/sorani/world/1805202619",
     "title": "سەرۆکی کوبا: هێرشی ئەمریکا دەبێتە هۆی خوێنڕشتنێکی گەورە",
@@ -281,24 +461,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-19T06:19:04.059603+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c835d3a75e5f021d",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/180520262",
-    "title": "Baghdad denies detection of drone incursion as Saudi Arabia signals potential response",
-    "title_en": "Baghdad denies detection of drone incursion as Saudi Arabia signals potential response",
-    "summary": "ERBIL, Kurdistan Region - Baghdad on Monday expressed its “deep concern” over reports that facilities in Saudi Arabia were targeted by three drones entering from Iraq, noting that “no information had been recorded” by Iraqi surveillance systems regarding the incident, while affirming its readiness to cooperate with Riyadh to clarify the circumstances surrounding the reported assault. In a statement, the Iraqi foreign ministry “expressed its deep concern over what has been circulated regarding facilities in the brotherly Kingdom of Saudi Arabia being targeted by three drones,” adding that it is “closely following up on this information,” as “the relevant authorities have immediately begun the necessary verification and investigation procedures to determine the circumstances and details.” The ministry also confirmed that “no information regarding the incident has been recorded through Iraqi air defense systems or optical equipment,” calling on the Saudi authorities “to cooperate and exchange relevant information in order to reach accurate facts that enhance security and stability in both brotherly countries.” The statement further asserted Iraq’s “firm position in respecting the security, safety, and sovereignty of brotherly states, rejecting any actions that could undermine their stability or threaten their national security or harm fraternal relations with sister countries,” and affirmed its “commitment to continued coordination and consultation with the Kingdom of Saudi Arabia to enhance security and stability in the region.” A day earlier, Saudi Arabia said it had intercepted and destroyed three drones after they entered its airspace from Iraq. Saudi defense ministry Spokesperson Major General Turki al-Malkion Sunday stated  that “on the morning of Sunday, May 17, 2026, three drones were intercepted and destroyed after entering Saudi Arabia’s airspace from Iraq.” “The Ministry of Defense reserves the right to respond at the appropriate time and place and will impl",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T06:18:44.165618+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -407,42 +569,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-19T06:14:50.265048+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42dd73728b641fa3",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/29042024",
-    "title": "Iraqi police cracks down on crime in Baghdad",
-    "title_en": "Iraqi police cracks down on crime in Baghdad",
-    "summary": "ERBIL, Kurdistan Region - Police in Baghdad raided the neighborhoods of Bataween and Saadon over the weekend, arresting over 200 on charges including human trafficking and possession of drugs. In less than 24 hours, 207 people were arrested on various charges, including human trafficking, smuggling of narcotics, possession of unlicensed arms, and lack of residence permits. Most of the arrests were made inside hotels, according to Baghdad’s Rusafa police commander Shaalan Ali. Ali added that the crackdown campaign will continue. The rate of drug addicts and dealers has been on an alarming rise in Iraq in recent years, despite strict measures taken by the Iraqi government to curb the phenomenon. \"We began arresting most of those who had violated residence regulations, numbering 80,\" Zafir Mohammadawi, commander of Rusafa’s operations command, told Rudaw's Ziyad Ismael. \"A number of drug smugglers were also apprehended. We also arrested those who had acted against health regulations including a lack of work permits at medicine stores and pharmacies,” he added. According to data from Iraq’s interior ministry, a total of 3,575 suspects have been arrested since the beginning of 2024 on charges of drug usage and smuggling narcotics. “The operations will continue. Thankfully, the outcome was good and they will yield better results,” Mohammadawi added. In late February, the interior ministers of Jordan, Iraq, Syria, and Lebanon announced they would establish a “joint communications cell” aimed at combating drug trafficking in the region, particularly that of captagon, an amphetamine-type stimulant. Captagon is frequently seized in Anbar province due to its proximity to the border with Syria - the main regional supplier of the narcotic. Over 600 suspects were arrested in Anbar over drug-related charges in 2023, according to a director of the province’s drug directorate. Iraqi Prime Minister Mohammed Shia al-Sudani has ordered the establishment of rehabilitation centers in all",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T05:48:21.452061+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c6875f93b31a9e2a",
-    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
-    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T05:47:58.844876+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -632,33 +758,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-19T04:48:43.449502+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "KDP",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Halbousi",
-        "type": "PERSON"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-19T04:48:32.791419+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1067,24 +1166,6 @@
     }
   },
   {
-    "id": "57327df16e27b8fa",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T11:13:49.683119+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "55837ae948f9967a",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
     "title": "باکوور لە گوڵان دا",
@@ -1150,24 +1231,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T10:42:50.553913+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "68c45463808bc4f7",
-    "url": "https://www.rudaw.net/english/kurdistan/06052026",
-    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T10:17:07.808549+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1330,24 +1393,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T09:45:30.260672+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "508437d052e7ea1d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
-    "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "title_en": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرنامەی ئەمجارەی \"لەگەڵ رەنج\"ی تۆڕی میدیایی رووداو، لەنێو یارگەیەکی وەرزشیدا و بە شێوازێکی مەیدانی بەڕێوەچوو. بەرنامەکە کە کۆمەڵێک لە هاندەرانی یانەی هەولێر و زاخۆ تێیدا ئامادەبوون، بە گۆرانییەکی شڤان پەروەر \"کینە ئەم؟ کوردین ئەم\" بەرنامەکە دەستیپێکرد و تەوەری سەرەکیی باسەکەش بریتی بوو لەوەی: چۆن وەرزش بکرێتە سەرچاوەی داهات و بۆچی لە کوردستان تەنیا وەک خولیایەک ماوەتەوە؟",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T09:45:06.920759+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1850,41 +1895,6 @@
     }
   },
   {
-    "id": "82733df9a2781105",
-    "url": "https://www.rudaw.net/english/kurdistan/250820245",
-    "title": "UNITAD hands KRG authorities processed evidence on ISIS",
-    "title_en": "UNITAD hands KRG authorities processed evidence on ISIS",
-    "summary": "ERBIL, Kurdistan Region - The United Nations team investigating the Islamic State (ISIS) gave processed information to the Kurdistan Regional Government (KRG) on Sunday relating to legal measures and procedures for the trial of ISIS suspects, as the team’s mandate in Iraq and the Region nears its end. The documents consist of “11.9 gigabytes of information and research on legal procedures for the trial of perpetrators of international crimes” committed against the Yazidis and other communities by ISIS, according to a statement from the office of Dindar Zebari, the KRG’s coordinator for international advocacy. Ana Peyro Llopis, the head of the UN Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD), handed over the files during a meeting with Zebari. “[T]he structured version of this information represents a major step forward in our efforts to support the Kurdistan Region's investigative processes. This information is crucial for advancing accountability for the crimes committed by ISIL (Da’esh), both within Iraq and globally,”  Llopis said in a statement from UNITAD. Another version of the information “in its original, unaltered state” was delivered by UNITAD to the KRG in July. The documents consisted of nearly 46 gigabytes of evidence and encrypted information. UNITAD was established in 2017 to investigate crimes by ISIS. The team’s mandate in Iraq is set to expire on September 17. During the meeting, Zebari and Llopis discussed the conclusion of UNITAD’s mission, according to the KRG statement. “The KRG will continue with UNITAD until the end of its mission. In this context, UNITAD has committed to coordination with third countries and requesting assistance after the end of the UNITAD team’s mandate in Iraq and the Kurdistan Region,” it noted. The team's work included collecting witness testimonies, leading the exhumation of mass graves, and training Iraq's judiciary. The investigative team has had a difficult relationship wi",
-    "source": "rudaw-english",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "UNITAD",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "KRG",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Dindar Zebari",
-        "type": "PERSON"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-18T04:50:04.471327+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "06a5741660a1bf61",
     "url": "https://www.rudaw.net/sorani/kurdistan/1705202628",
     "title": "بەرپرسی راگەیاندنی حەج: ئەمشەو دواین کاروانی حاجییانی هەرێمی کوردستان دەگاتە سعودیە",
@@ -2022,24 +2032,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-18T03:11:45.825203+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "37f552d6e84073d1",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-18T02:41:29.539889+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -13807,24 +13799,6 @@
     }
   },
   {
-    "id": "f79ef9980a2c51f0",
-    "url": "https://www.rudaw.net/sorani/business/19052026",
-    "title": "نرخی نەوت نزیکەی 2٪ دابەزی",
-    "title_en": "نرخی نەوت نزیکەی 2٪ دابەزی",
-    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵکەیەکی نەوت لە بەسرە. زۆرتر لە ئابووری یەک ئۆنسە زێڕ بە نزیکەی 4550 دۆلار مامەڵەی پێوەدەکرێت هیوا ئەفەندی: لیستی مووچەی مانگی پێنج بە سیستمی پەیڕۆڵ ئامادە کرا وەزارەتی نەوتی عێراق: مانگی رابردوو 339 هەزار بەرمیل نەوتی هەرێمی کوردستان هەناردە کراوە بانکی ئەهلیی عێراقی: 300 هەزار فەرمانبەر لە رێگەی ئێمەوە م",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "28ae7cc50a0a28a1",
     "url": "https://www.rudaw.net/sorani/business/180520266",
     "title": "وەزارەتی نەوتی عێراق: مانگی رابردوو 339 هەزار بەرمیل نەوتی هەرێمی کوردستان هەناردە کراوە",
@@ -13938,6 +13912,60 @@
     "title": "قەرارگەی خاتەمولئەنبیای ئێران بۆ ئەمریکا: دەستمان لەسەر پەلەپیتکەیە",
     "title_en": "قەرارگەی خاتەمولئەنبیای ئێران بۆ ئەمریکا: دەستمان لەسەر پەلەپیتکەیە",
     "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران چەند مووشەکێکی ئێرانی لە ئاسمان لە کاتی جەنگی 40 رۆژدا زۆرتر لە ئێران ئێران لە شوێنە گشتییەکان و ستۆدیۆکاندا مەشقی چەک بە هاووڵاتییان و منداڵان دەکات پزیشکیان: دانوستاندن بە مانای خۆبەدەستەوەدان نییە وەزارەتی تەندروستیی ئێران: رووخساری موجتەبا خامنەیی نەشێواوە تەسنیم: هێشتا جیاوازیی بنەڕەتی لەنێوان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0f5efb14cc9b7ca5",
+    "url": "https://www.rudaw.net/sorani/kurdistan/190520261",
+    "title": "پەیامێک لە پارتییەوە لەبارەی کاراکردنەوەی پەرلەمانی کوردستان",
+    "title_en": "پەیامێک لە پارتییەوە لەبارەی کاراکردنەوەی پەرلەمانی کوردستان",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان بەربەست بۆ گەنمی هەندێک ناوچەی کوردستانی دروست بووە دڵشاد شەهاب لەبارەی ئامانجی سەردانەکەی نێچیرڤان بارزانی بۆ رۆما: پارێزگاریکردنە لە قەوارەی هەرێمی کوردستان هاکان فیدان: کردنەوەی تەنگەی هورمز و دۆسیەی یۆرانیۆم لە چەقی دانوستاندنەکانی ئێران و ئەمریکادان قایمقامی سەقز: هێرش نەکراوەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0d0a19e0e82e0c52",
+    "url": "https://www.rudaw.net/sorani/kurdistan/19052026",
+    "title": "بەربەست بۆ گەنمی هەندێک ناوچەی کوردستانی دروست بووە",
+    "title_en": "بەربەست بۆ گەنمی هەندێک ناوچەی کوردستانی دروست بووە",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان دوورینەوەی گەنم زۆرتر لە کوردستان پەیامێک لە پارتییەوە لەبارەی کاراکردنەوەی پەرلەمانی کوردستان دڵشاد شەهاب لەبارەی ئامانجی سەردانەکەی نێچیرڤان بارزانی بۆ رۆما: پارێزگاریکردنە لە قەوارەی هەرێمی کوردستان هاکان فیدان: کردنەوەی تەنگەی هورمز و دۆسیەی یۆرانیۆم لە چەقی دانوستاندنەکانی ئێران و ئەمریکاد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b9ec540401c5cd4e",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/190520261",
+    "title": "ئیبراهیم رەزایی: ئەمریکا دەبێت لەنێوان دیپلۆماسی یان مووشەکەکانی ئێمە یەکێکیان هەڵبژێرێت",
+    "title_en": "ئیبراهیم رەزایی: ئەمریکا دەبێت لەنێوان دیپلۆماسی یان مووشەکەکانی ئێمە یەکێکیان هەڵبژێرێت",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران ئاڵای ئەمریکا و ئێران؛ مووشەکی زولفەقار زۆرتر لە ئێران ئێران لە شوێنە گشتییەکان و ستۆدیۆکاندا مەشقی چەک بە هاووڵاتییان و منداڵان دەکات قەرارگەی خاتەمولئەنبیای ئێران بۆ ئەمریکا: دەستمان لەسەر پەلەپیتکەیە پزیشکیان: دانوستاندن بە مانای خۆبەدەستەوەدان نییە وەزارەتی تەندروستیی ئێران: رووخساری موجتەبا خا",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
