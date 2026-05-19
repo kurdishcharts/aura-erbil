@@ -1,5 +1,41 @@
 [
   {
+    "id": "09a240cd6905c820",
+    "url": "https://www.rudaw.net/sorani/kurdistan/190520263",
+    "title": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
+    "title_en": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆنی پاشماوەی ئاژەڵ و سووتاندنی خوریی مەڕ، ژیانی لە بەشێکی دانیشتووانی گەڕەکی 11ی ئاداری سەر بە ناحیەی کەسنەزان لە هەولێر تاڵکردووە. بەشێک لە دانیشتووانی گەڕەکەکە دەڵێن، \"هەراسان بووین\" و بەهۆی بۆنەکەوە ناچارن خانووەکانیان بفرۆشن و لە گەڕەکەکە بار بکەن. ئاژەڵدارێکیش دەڵێت: \"ئەگەر حکومەت شوێنمان بۆ دابین بکات، رازین تەویلەکانمان بگوازینەوە.\"",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T19:17:46.146266+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec9c1b9336e27a24",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
+    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆنی پاشماوەی ئاژەڵ و سووتاندنی خوریی مەڕ، ژیانی لە بەشێکی دانیشتووانی گەڕەکی 11ی ئاداری سەر بە ناحیەی کەسنەزان لە هەولێر تاڵکردووە. بەشێک لە دانیشتووانی گەڕەکەکە دەڵێن، \"هەراسان بووین\" و بەهۆی بۆنەکەوە ناچارن خانووەکانیان بفرۆشن و لە گەڕەکەکە بار بکەن. ئاژەڵدارێکیش دەڵێت: \"ئەگەر حکومەت شوێنمان بۆ دابین بکات، رازین تەویلەکانمان بگوازینەوە.\"",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-19T19:17:34.581273+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "77e08fa26f935dc9",
     "url": "https://www.rudaw.net/english/world/180520265",
     "title": "Iraqi armed group denies links to commander held by US over ‘terrorism’ charges",
@@ -42,7 +78,7 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -78,7 +114,7 @@
     "title_en": "Iraq records over 800 suffocation cases amid dust storm",
     "summary": "ERBIL, Kurdistan Region - Iraq’s health ministry said on Tuesday that more than 800 people suffered breathing difficulties as a result of a widespread dust storm that swept across several provinces, while authorities remained on high alert to respond to emergency cases. In a statement on Facebook, the ministry said health institutions in Baghdad and other provinces continued emergency health and service measures for a second consecutive day. The ministry recorded 837 suffocation cases linked to the dust storm and sandstorms affecting the country, but stressed that no deaths had been reported. “All patients received the necessary medical care and left health institutions after their condition improved,” the ministry said. Hospitals and medical centers across Iraq remain in a state of full alert, with authorities ensuring around-the-clock medical and treatment services for residents. Dust storms are common in Iraq - particularly during the spring and summer months - and frequently lead to respiratory problems, temporary airport closures, and disruptions to daily life. Scientists and environmental experts have warned that climate change, desertification, and declining water resources are increasing the frequency and intensity of such storms across the country. Iraq has repeatedly ranked among the countries most vulnerable to climate change due to rising temperatures, drought, and water shortages.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edit",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "infrastructure",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -96,47 +132,11 @@
     "title_en": "Kurdistan Region dams, reservoirs reach full capacity after heavy rains: Official",
     "summary": "ERBIL, Kurdistan Region - Water levels in almost all of the Kurdistan Region’s 25 dams, along with nearly 180 artificial ponds, have reached full capacity, the head of Erbil’s dam authority told Rudaw on Tuesday, noting that water storage in the Region has exceeded nine billion cubic meters. Abdulrahman Khani, the director-general of dams and water reservoirs for the Kurdistan Regional Government (KRG) under the agriculture and water resources ministry, said that “with the exception of two dams - the Dukan Dam in [the Region’s eastern] Sulaimani province and the Gomaspan Dam in Erbil, all dams and ponds in the Kurdistan Region have filled up and their water has exceeded their storage capacity.” The Kurdistan Region has 25 dams and 178 artificial ponds used to store water annually. According to Khani, “the amount of water stored in dams and artificial ponds this year has exceeded 9 billion cubic meters,” noting that the Darbandikhan Dam in Sulaimani currently holds around three billion cubic meters of water, while the dam of the Region’s northern Duhok province is storing more than 50 million cubic meters. As for the Dukan Dam, he added that “it is only 1.15 meters away from being full and overflowing.” Heavy rainfall has significantly boosted groundwater resources in the Kurdistan Region. As of early May, 719 millimetres were recorded in Erbil city centre, 1,054 millimetres in Sulaimani, 921 millimetres in Duhok, and 1,109 kilometers in the eastern Halabja province, according to the Region’s meteorological authority. Meanwhile, rainfall in mountainous areas has been notably higher, with Erbil’s northernmost Mergasor district recording 2,140 millimetres in late April. Iraq and the Kurdistan Region also heavily rely on water releases from upstream countries, particularly Turkey. Aoun Diab, Iraq’s former water minister, said in late April that water flows from Turkey into the Tigris at the Peshkhabur area [northwest of Iraq] “have exceeded 2,500 cubic meters per second",
     "source": "rudaw-english",
-    "category": "weather",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-19T18:47:02.576214+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "09a240cd6905c820",
-    "url": "https://www.rudaw.net/sorani/kurdistan/190520263",
-    "title": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
-    "title_en": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆنی پاشماوەی ئاژەڵ و سووتاندنی خوریی مەڕ، ژیانی لە بەشێکی دانیشتووانی گەڕەکی 11ی ئاداری سەر بە ناحیەی کەسنەزان لە هەولێر تاڵکردووە. بەشێک لە دانیشتووانی گەڕەکەکە دەڵێن، \"هەراسان بووین\" و بەهۆی بۆنەکەوە ناچارن خانووەکانیان بفرۆشن و لە گەڕەکەکە بار بکەن. ئاژەڵدارێکیش دەڵێت: \"ئەگەر حکومەت شوێنمان بۆ دابین بکات، رازین تەویلەکانمان بگوازینەوە.\"",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T18:45:09.980019+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ec9c1b9336e27a24",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
-    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆنی پاشماوەی ئاژەڵ و سووتاندنی خوریی مەڕ، ژیانی لە بەشێکی دانیشتووانی گەڕەکی 11ی ئاداری سەر بە ناحیەی کەسنەزان لە هەولێر تاڵکردووە. بەشێک لە دانیشتووانی گەڕەکەکە دەڵێن، \"هەراسان بووین\" و بەهۆی بۆنەکەوە ناچارن خانووەکانیان بفرۆشن و لە گەڕەکەکە بار بکەن. ئاژەڵدارێکیش دەڵێت: \"ئەگەر حکومەت شوێنمان بۆ دابین بکات، رازین تەویلەکانمان بگوازینەوە.\"",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T18:44:52.903006+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -204,7 +204,7 @@
     "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆنی پاشماوەی ئاژەڵ و سووتاندنی خوریی مەڕ، ژیانی لە بەشێکی دانیشتووانی گەڕەکی 11ی ئاداری سەر بە ناحیەی کەسنەزان لە هەولێر تاڵکردووە. بەشێک لە دانیشتووانی گەڕەکەکە دەڵێن، \"هەراسان بووین\" و بەهۆی بۆنەکەوە ناچارن خانووەکانیان بفرۆشن و لە گەڕەکەکە بار بکەن. ئاژەڵدارێکیش دەڵێت: \"ئەگەر حکومەت شوێنمان بۆ دابین بکات، رازین تەویلەکانمان بگوازینەوە.\"",
     "source": "rudaw-sorani",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
