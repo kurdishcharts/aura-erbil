@@ -1,5 +1,59 @@
 [
   {
+    "id": "2ed4cf57b4d844ab",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/20052026",
+    "title": "Iraq bans plastic bags in bakeries under new environmental measures",
+    "title_en": "Iraq bans plastic bags in bakeries under new environmental measures",
+    "summary": "ERBIL, Kurdistan Region - The Iraqi government on Tuesday approved a new set of environmental restrictions, including a ban on plastic bags in bakeries, as part of broader efforts to reduce pollution and improve public health. During the second meeting of Iraq's newly-formed government, chaired by Prime Minister Ali al-Zaidi, the cabinet “approved the proposals submitted by the national committee for reducing plastic pollution concerning the reduction of plastic bag usage,” introducing wide-ranging measures aimed at limiting plastic consumption, according to a statement from Zaidi’s office. The statement said the government will start, “within six months of the issuance of this decision, prohibiting the free distribution of plastic shopping bags, banning their use in bakeries, and banning their importation, while replacing them with environmentally friendly biodegradable alternatives.” The decision comes as plastic pollution is an escalating environmental crisis in Iraq and the Kurdistan Region. The Iraqi government's decision also includes “imposing a business and professions fee on factories producing nylon bags,” according to the statement. It also noted the decision includes “environmental service fees, including environmental monitoring and assessment fees for plastic bag producers, with part of the revenues allocated to supporting environmental projects, monitoring programs, and environmental awareness campaigns.” The Prime Minister’s office said the cabinet approved the “formation of a specialized committee tasked with establishing mechanisms to support and encourage sorting and recycling projects, transition toward paper bags, and investment in paper industries.” “The Ministry of Environment will also conduct awareness and educational campaigns on the dangers of plastic bag usage,” the statement added. The measures form part of Iraq’s wider push to address environmental challenges and reduce reliance on single-use plastics across commercial sectors, particul",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:17:23.464611+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e623191d36a3755e",
+    "url": "https://www.rudaw.net/english/kurdistan/190620241",
+    "title": "Zakho expects 50 thousand tourists during Eid holidays",
+    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:17:06.048450+00:00",
+    "location": {
+      "name": "Zakho",
+      "lat": 37.1441,
+      "lng": 42.6875
+    }
+  },
+  {
+    "id": "31bdc7ef9f3df2b5",
+    "url": "https://www.rudaw.net/english/middleeast/iran/200520261",
+    "title": "IRGC warns any renewed war on Iran would spill beyond Middle East",
+    "title_en": "IRGC warns any renewed war on Iran would spill beyond Middle East",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) warned on Wednesday if the war on Iran resumes, it will not remain limited to the Middle East, as talks between Tehran and Washington aimed at reaching a permanent truce to the war have stalled. In a statement carried by its affiliated Tasnim News Agency, the IRGC warned that “should aggression be repeated, the promised regional war will expand beyond the borders of the region,\" adding: \"We are men of war, and you will see our power on the battlefield, not in empty statements and virtual pages.” Earlier on Wednesday, Iranian Foreign Minister Abbas Araghchi responded to US President Donald Trump’s renewed threats of bombing by issuing his own warning, saying Iran’s armed forces had many “surprises” in store for US forces if Washington dared to attack his country again. “Months after initiation of war on Iran, US Congress acknowledges loss of dozens of aircraft worth billions,” Araghchi said in a post on X early Wednesday. “With lessons learned and knowledge we gained, return to war will feature many more surprises,” he added. The fresh remarks by Iran come amid heightened confrontation between Tehran and Washington following weeks of fragile ceasefire arrangements that have failed to produce a lasting political settlement. Both sides continue to exchange warnings while maintaining formal channels of negotiation. On Tuesday, US Vice President JD Vance emphasized that diplomatic efforts are still underway but warned that military options remain on the table. Trump has also recently intensified pressure on Tehran, telling reporters he had considered immediate military action but was temporarily holding back amid ongoing negotiations. The US and Israel launched a massive aerial campaign on February 28, targeting more than 15,000 locations across Iran. Tehran responded by firing thousands of drones and missiles at nearly every Middle Eastern country before the two sides agreed to a ceasefire on April 8",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:16:54.703241+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "2e9509ff870dd7df",
     "url": "https://www.rudaw.net/english/middleeast/iran/20052026",
     "title": "Iran says more ‘surprises’ in store for US forces if Washington resumes bombing",
@@ -10,7 +64,169 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-20T12:47:21.126880+00:00",
+    "timestamp": "2026-05-20T13:16:43.642695+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "968eb9f349a10d32",
+    "url": "https://www.rudaw.net/english/world/050520261",
+    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
+    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:16:32.748175+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ERBIL, Kurdistan Region - Baghdad on Monday expressed its “deep concern” over reports that facilities in Saudi Arabia were targeted by three drones entering from Iraq, noting that “no information had been recorded” by Iraqi surveillance systems regarding the incident, while affirming its readiness to cooperate with Riyadh to clarify the circumstances surrounding the reported assault.",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:16:06.704818+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "debcf76788d0c657",
+    "url": "https://www.rudaw.net/english/middleeast/syria/20052026",
+    "title": "Syrian president apologizes over father’s controversial remarks",
+    "title_en": "Syrian president apologizes over father’s controversial remarks",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. Farmers in the Kurdish city of Kobane in northeast Syria (Rojava) are increasingly turning to olive and pistachio cultivation, with residents planting trees across large stretches of farmland despite rising agricultural costs.",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:15:49.798139+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c60bcf9214db330a",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
+    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
+    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:13:55.066116+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "74e161c18be25975",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/200520264",
+    "title": "ئەنجوومەنی باڵای دادوەریی عێراق بڕیاری زیادکردنی باجی سەر کارتی مۆبایلی هەڵوەشاندەوە",
+    "title_en": "ئەنجوومەنی باڵای دادوەریی عێراق بڕیاری زیادکردنی باجی سەر کارتی مۆبایلی هەڵوەشاندەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی ئاوەدانکردنەوە و نیشتەجێکردنی عێراق دەڵێ، چەندین پڕۆژەی گرنگی ئاوی خواردنەوەیان لە پارێزگاکانی دیالە، کەرکووک و نەینەوا لەبەردەستە کە بەشێکیان وەستابوون و ئێستا کارکردن تێیاندا دەستیپێکردووەتەوە. بەرپرسێکی ئاوی کەرکووکیش لەبارەی پڕۆژەی شارەکەی دەڵێت، \"10 ساڵە خەریکین.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:13:44.099808+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "06a284adf8834bb6",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520267",
+    "title": "وردەکاریی دەستپێشخەرییەکەی یەکگرتوو؛ دوای جەژن پارتی و یەکێتی کۆدەبنەوە",
+    "title_en": "وردەکاریی دەستپێشخەرییەکەی یەکگرتوو؛ دوای جەژن پارتی و یەکێتی کۆدەبنەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:13:33.540219+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0f18a092f7e3577d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520265",
+    "title": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
+    "title_en": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:13:09.397816+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15ec42f1ff05f06e",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:12:59.782099+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5872dd28c722c1b7",
+    "url": "https://www.rudaw.net/sorani/business/150620234",
+    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی زێڕ ئەمڕۆ چوارشەممە بەهۆی بەرزبوونەوەی سوودی سەر قەواڵەکانی گەنجینەی ئەمریکا و بەرزبوونەوەی بەهای دۆلار لە بەرامبەر دراوەکانی دیکەی جیهان، دابەزی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T13:12:34.862089+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -162,31 +378,13 @@
     }
   },
   {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ERBIL, Kurdistan Region - Baghdad on Monday expressed its “deep concern” over reports that facilities in Saudi Arabia were targeted by three drones entering from Iraq, noting that “no information had been recorded” by Iraqi surveillance systems regarding the incident, while affirming its readiness to cooperate with Riyadh to clarify the circumstances surrounding the reported assault.",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T12:19:08.518816+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2acce73606ddd885",
     "url": "https://www.rudaw.net/english/kurdistan/190520262",
     "title": "Expat students learning the Kurdish language in Sulaimani",
     "title_en": "Expat students learning the Kurdish language in Sulaimani",
     "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
     "source": "rudaw-english",
-    "category": "weather",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -317,42 +515,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T12:14:53.301838+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "31bdc7ef9f3df2b5",
-    "url": "https://www.rudaw.net/english/middleeast/iran/200520261",
-    "title": "IRGC warns any renewed war on Iran would spill beyond Middle East",
-    "title_en": "IRGC warns any renewed war on Iran would spill beyond Middle East",
-    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) warned on Wednesday if the war on Iran resumes, it will not remain limited to the Middle East, as talks between Tehran and Washington aimed at reaching a permanent truce to the war have stalled. In a statement carried by its affiliated Tasnim News Agency, the IRGC warned that “should aggression be repeated, the promised regional war will expand beyond the borders of the region,\" adding: \"We are men of war, and you will see our power on the battlefield, not in empty statements and virtual pages.” Earlier on Wednesday, Iranian Foreign Minister Abbas Araghchi responded to US President Donald Trump’s renewed threats of bombing by issuing his own warning, saying Iran’s armed forces had many “surprises” in store for US forces if Washington dared to attack his country again. “Months after initiation of war on Iran, US Congress acknowledges loss of dozens of aircraft worth billions,” Araghchi said in a post on X early Wednesday. “With lessons learned and knowledge we gained, return to war will feature many more surprises,” he added. The fresh remarks by Iran come amid heightened confrontation between Tehran and Washington following weeks of fragile ceasefire arrangements that have failed to produce a lasting political settlement. Both sides continue to exchange warnings while maintaining formal channels of negotiation. On Tuesday, US Vice President JD Vance emphasized that diplomatic efforts are still underway but warned that military options remain on the table. Trump has also recently intensified pressure on Tehran, telling reporters he had considered immediate military action but was temporarily holding back amid ongoing negotiations. The US and Israel launched a massive aerial campaign on February 28, targeting more than 15,000 locations across Iran. Tehran responded by firing thousands of drones and missiles at nearly every Middle Eastern country before the two sides agreed to a ceasefire on April 8",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T11:48:15.966280+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2ed4cf57b4d844ab",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/20052026",
-    "title": "Iraq bans plastic bags in bakeries under new environmental measures",
-    "title_en": "Iraq bans plastic bags in bakeries under new environmental measures",
-    "summary": "ERBIL, Kurdistan Region - The Iraqi government on Tuesday approved a new set of environmental restrictions, including a ban on plastic bags in bakeries, as part of broader efforts to reduce pollution and improve public health. During the second meeting of Iraq's newly-formed government, chaired by Prime Minister Ali al-Zaidi, the cabinet “approved the proposals submitted by the national committee for reducing plastic pollution concerning the reduction of plastic bag usage,” introducing wide-ranging measures aimed at limiting plastic consumption, according to a statement from Zaidi’s office. The statement said the government will start, “within six months of the issuance of this decision, prohibiting the free distribution of plastic shopping bags, banning their use in bakeries, and banning their importation, while replacing them with environmentally friendly biodegradable alternatives.” The decision comes as plastic pollution is an escalating environmental crisis in Iraq and the Kurdistan Region. The Iraqi government's decision also includes “imposing a business and professions fee on factories producing nylon bags,” according to the statement. It also noted the decision includes “environmental service fees, including environmental monitoring and assessment fees for plastic bag producers, with part of the revenues allocated to supporting environmental projects, monitoring programs, and environmental awareness campaigns.” The Prime Minister’s office said the cabinet approved the “formation of a specialized committee tasked with establishing mechanisms to support and encourage sorting and recycling projects, transition toward paper bags, and investment in paper industries.” “The Ministry of Environment will also conduct awareness and educational campaigns on the dangers of plastic bag usage,” the statement added. The measures form part of Iraq’s wider push to address environmental challenges and reduce reliance on single-use plastics across commercial sectors, particul",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T11:48:06.062875+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -720,42 +882,6 @@
     }
   },
   {
-    "id": "debcf76788d0c657",
-    "url": "https://www.rudaw.net/english/middleeast/syria/20052026",
-    "title": "Syrian president apologizes over father’s controversial remarks",
-    "title_en": "Syrian president apologizes over father’s controversial remarks",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. Syrian interim President Ahmed al-Sharaa on Saturday received US Special Envoy Tom Barrack in Damascus, where they discussed efforts to strengthen economic cooperation between Syria and the US.",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:55:44.208742+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c60bcf9214db330a",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
-    "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "title_en": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
-    "summary": "ئایا هاتنی شەپۆلی ژیری دەستكرد (‏AI‏) بۆ نێو دنیای هونەری كوردی، ‏دەبێتە هۆی ئەوەی هونەرمەندان بێكار بن؟ ئایا دەتوانێت شوێنی دەنگە ‏نەمرەكانی وەك محەممەدی ماملێ و حەسەن زیرەك بگرێتەوە؟ ئەمانە ‏پرسیاری سەرەكی بەرنامەكە بوون. وەڵامی بەشێك لە میوانەكان تێكەڵەیەك ‏بوو لە ترس و گەشبینی. بەشێكیان پێیان وابوو ژیری دەستكرد \"ڤایرۆسە\" ‏و مەترسییە بۆ سەر رەسەنایەتی، لەكاتێكدا پسپۆڕانی بواری تەكنەلۆژیا بە ‏‏\"شۆڕشێكی نوێ\" ناویان برد.‏ لە بەرنامەكەدا زەنگی مەترسیی ژیری دەستكرد بۆ بێكاربوونی بەشێك لە ‏هونەرمەندان لێدرا، بەڵام پسپۆڕێكی میوزیك پێی وایە مرۆڤ هەمیشە ‏داهێنەرترە و دەڵێت: \"ژیریی دەستكرد لاساییكەرەوەیە و داتای باشی ‏لەسەر هونەری كوردی لەبەردەست نییە\".‏ لەپێشەكی بەرنامەكەدا راپۆرتێكی مەیدانی پیشاندرا كە بۆچوونی بەشێك ‏لە هونەرمەندانی لەسەر مژارەكە خستەڕوو.‏ ئایا ژیری دەستكرد ڤایرۆسە یان هاوكارە؟ ترس لە تەكنەلۆژیاكە بەشێكی دیاری گفتوگۆی هونەرمەندان بوو. میدیا ‏حوسێن، هونەرمەندی دیار بە راشكاوی ترس و نیگەرانی خۆی دەربڕی و بە ‏‏\"كارەسات\" وەسفی كرد. ئەو دەڵێت: \"لە ژیری دەستكرد زۆر دەترسم و ‏وەكو ڤایرۆس هاتووەتە نێو مرۆڤایەتی\". بە بڕوای میدیا حوسێن، ئەم ‏تەكنەلۆژیایە ئازایەتی لای هونەرمەند ناهێڵێت و ناتوانێت جێگەی كەڵە ‏هونەرمەندەكان بگرێتەوە.‏ هاوكات مەحموود محەممەد، هونەرمەندی دیاری میللی، نیگەرانییەكی ‏قوڵتری هەبوو سەبارەت بە \"مردنی دەنگ\" و دەڵێت: \"لە ژیری دەستكرد ‏دەترسم و لێی نیگەرانم، چونكە دەنگی من لەنێو خەڵك دەمرێنێت\". ئەو ‏پێی وایە ژیری دەستكرد هەرگیز فریای گۆرانییە هەڵپەڕكێیەكانی ئەو ‏ناكەوێت و پێیشی ناخۆشە دەنگی بەو تەكنەلۆژیایە بەكاربهێنرێت.‏ نەبوونی هەست و سۆز؛ خاڵی لاوازی تەكنەلۆژیا خاڵی هاوبەشی زۆربەی هونەرمەندە بەشداربووەكان ئەوەبوو كە \"رۆح و ‏هەست\" لەم ئامێرەدا بوونی نییە. نوری گەرمیانی، هونەرمەندی ناسراو ‏ئاماژەی بەوە كرد كە ئەگەرچی كاری جوان بە ژیری دەستكرد كراوە، بەڵام ‏هەرگیز نابێتە رەسەن. ئەو دەڵێت: \"لە ژیری دەستكرد هەرگیز نابێتە نوری ‏گەرمیانی، لە هەستەكاندا ژیری دەستكرد ناتوانێت كاری جوان بكات\".‏ هەمان بۆچوون لەلایەن ئەیوب عەلی و ئاگرین دڵشادەوە دووپاتكرایەوە. ‏ئاگرین دڵشاد دەڵێت: \"ئێمە كۆمەڵگەیەكین سۆزداریمان زۆر بەهێزە، ئەگەر ‏دەنگمان بكرێتە ژیریی دەس",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:52:47.777010+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "db31b19e3498ca3b",
     "url": "https://www.rudaw.net/sorani/kurdistan/200520261",
     "title": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
@@ -810,24 +936,6 @@
     }
   },
   {
-    "id": "5872dd28c722c1b7",
-    "url": "https://www.rudaw.net/sorani/business/150620234",
-    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرچاوەیەک لە وەزارەتی دارایی هەرێمی کوردستان دەڵێ، سبەی ئێوارە بە ئەگەری زۆر لیستی مووچەی مانگی ئایار بۆ بەغدا دەنێردرێت",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:51:48.669165+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "1a7b813fcab18afc",
     "url": "https://www.rudaw.net/english/middleeast/iraq/07052026",
     "title": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
@@ -857,24 +965,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T10:16:07.822190+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "968eb9f349a10d32",
-    "url": "https://www.rudaw.net/english/world/050520261",
-    "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "title_en": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
-    "summary": "ERBIL, Kurdistan Region - US Secretary of State Marco Rubio on Tuesday stated that President Donald Trump’s recent remarks about arming Kurdish opposition groups were a broader expression of support for the Iranian people rather than confirmation of specific weapons transfers. Responding to a question from Rudaw about conflicting claims over whether weapons had been provided to Kurdish dissident parties, Rubio stressed that the US president’s remarks reflect “the desire that he wishes the Iranian people had the ability to fight back against some of these things that are happening to them,” and are “distinct and separate from the specifics of this operation.” The top US official further noted that President Trump was “heartbroken by these images” emerging from Iran, in reference to the January crackdown on pro-reform protests across the country. Rubio’s remarks come a month after Fox News correspondent Trey Yingst said that, following the country’s deadly January protests, “President Trump told me the United States sent guns to the Iranian protestors. He told me we sent them a lot of guns. We sent them to the Kurds. And the president says he thinks the Kurds kept them. He went on to say we sent guns to the protestors, a lot of them.” Several Iranian Kurdish opposition groups later denied reports that the United States had armed them during the country’s nationwide anti-government protests. Rubio added that Trump’s remarks were rooted in concern for Iranians facing violence and restrictions, noting, “you’re unhappy that your economy doesn’t work for you… you’ve got friends that have been shot in the head because they’re out protesting.” He also pointed to Iran’s history of crackdowns on dissent, referencing past protests and ongoing executions. “This is a vicious regime… These are people that hang people from cranes in the town square so everyone can see,” he said. Clarifying the distinction between rhetoric and policy, Rubio said, “I think what the president is expre",
-    "source": "rudaw-english",
-    "category": "traffic",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:15:49.696326+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1185,24 +1275,6 @@
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
-    }
-  },
-  {
-    "id": "e623191d36a3755e",
-    "url": "https://www.rudaw.net/english/kurdistan/190620241",
-    "title": "Zakho expects 50 thousand tourists during Eid holidays",
-    "title_en": "Zakho expects 50 thousand tourists during Eid holidays",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T07:48:43.991682+00:00",
-    "location": {
-      "name": "Zakho",
-      "lat": 37.1441,
-      "lng": 42.6875
     }
   },
   {
@@ -1990,24 +2062,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-19T19:47:13.511439+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "15ec42f1ff05f06e",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T19:43:56.915116+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -16280,42 +16334,6 @@
     }
   },
   {
-    "id": "0f18a092f7e3577d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/200520265",
-    "title": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
-    "title_en": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
-    "summary": "پێشەوا بەختیار به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە مامۆستایەک لە قوتابخانەی نێودەوڵەتیی شوەیفات لە سلێمانی لەنێو پۆل وانە دەڵێتەوە. وێنە: رووداو زۆرتر لە کوردستان پارتی و کۆمەڵی دادگەری کۆبوونەوە؛ ''جیاوازیمان هەیە، بەڵام کۆدەبینەوە'' لە دهۆک چوار کرێکار گیانیان لەدەستدا سەرۆک بارزانی لە 64 ساڵەی بوونی بە پێشمەرگە: پێشمەرگە باڵاترین شانازییە جێگری پار",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "74e161c18be25975",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/200520264",
-    "title": "ئەنجوومەنی باڵای دادوەریی عێراق بڕیاری زیادکردنی باجی سەر کارتی مۆبایلی هەڵوەشاندەوە",
-    "title_en": "ئەنجوومەنی باڵای دادوەریی عێراق بڕیاری زیادکردنی باجی سەر کارتی مۆبایلی هەڵوەشاندەوە",
-    "summary": "مالیک محەممەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق کارتی مۆبایل. وێنەکە بۆ روونکردنەوەی هەواڵەکەیە: ئەرشیڤ زۆرتر لە عێراق پارێزگاری پێشووتری بابل بۆ رووداو: گرووپێکی چەکدار دەیانەوێ رێڕۆی پڕۆژەیەک بگۆڕن لە چارەکی یەکەمی ئەم ساڵدا نزیکەی 6000 تووندوتیژیی خێزانی لە عێراق تۆمارکراون تاقیکردنەوەی وزاریی لە ناوچە دابڕێنراوەکان و پارێزگاکانی عێراق دەست",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "ffa96558fef69a2f",
     "url": "https://www.rudaw.net/sorani/business/200520263",
     "title": "ژووری بازرگانی و پیشەسازیی هەولێر: دەروازەی رەبیعە کاریگەرییەکی ئەوتۆی لەسەر هەرێمی کوردستان نابێت",
@@ -16334,11 +16352,47 @@
     }
   },
   {
-    "id": "06a284adf8834bb6",
-    "url": "https://www.rudaw.net/sorani/kurdistan/200520267",
-    "title": "وردەکاریی دەستپێشخەرییەکەی یەکگرتوو؛ دوای جەژن پارتی و یەکێتی کۆدەبنەوە",
-    "title_en": "وردەکاریی دەستپێشخەرییەکەی یەکگرتوو؛ دوای جەژن پارتی و یەکێتی کۆدەبنەوە",
-    "summary": "سیروان عەباس به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان لۆگۆی هەریەکە لە پارتی، یەکگرتوو و یەکێتی زۆرتر لە کوردستان لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن پارتی و کۆمەڵی دادگەری کۆبوونەوە؛ ''جیاوازیمان هەیە، بەڵام کۆدەبینەوە'' لە دهۆک چوار کرێکار گیانیان لەدەستدا سەرۆک بارزانی لە 64 ساڵەی بوونی بە پێشمەرگە: پێ",
+    "id": "5f3c2f07bd44ecb2",
+    "url": "https://www.rudaw.net/english/kurdistan/200520262",
+    "title": "Four workers killed in fall at residential project in Duhok",
+    "title_en": "Four workers killed in fall at residential project in Duhok",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Kurdistan A lift platform after the incident which killed four workers in Duhok on May 20, 2026. Also in Kurdistan Kurdish farmers report record ‘Freekeh’ harvest following abundant rainfall US-backed deal sets September deadline for Peshmerga unification: Official Expat students learning the Kurdish l",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "98bcbe6b8798f91d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520268",
+    "title": "سەرۆکی فراکسیۆنی گۆڕان: نابینە بەشێک لە پەرتەوازەیی و تێکچوونی دۆخی هەرێمی کوردستان",
+    "title_en": "سەرۆکی فراکسیۆنی گۆڕان: نابینە بەشێک لە پەرتەوازەیی و تێکچوونی دۆخی هەرێمی کوردستان",
+    "summary": "ئەحمەد حەمید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە جوانڕۆ محەممەد، سەرۆکی فراکسیۆنی گۆڕان لە پەرلەمانی کوردستان زۆرتر لە کوردستان وردەکاریی دەستپێشخەرییەکەی یەکگرتوو؛ دوای جەژن پارتی و یەکێتی کۆدەبنەوە لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن پارتی و کۆمەڵی دادگەری کۆبوونەوە؛ ''جیاوازیمان هەیە، بەڵام کۆدەبینەوە'' لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "816d6f7468cebf82",
+    "url": "https://www.rudaw.net/sorani/business/200520264",
+    "title": "بەریتانیا سزاکانی سەر نەوتی رووسیا سووک دەکات؛ هۆکارەکە جەنگی ئێرانە",
+    "title_en": "بەریتانیا سزاکانی سەر نەوتی رووسیا سووک دەکات؛ هۆکارەکە جەنگی ئێرانە",
+    "summary": "هەکار عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری بەنزینخانەیەک لە بەریتانیا. وێنە: Getty Images زۆرتر لە ئابووری ژووری بازرگانی و پیشەسازیی هەولێر: دەروازەی رەبیعە کاریگەرییەکی ئەوتۆی لەسەر هەرێمی کوردستان نابێت وەزارەتی دارایی عێراق خەرجکردنی مووچەی مانگی ئایاری دەستپێکرد گەشبینی بە کۆتاییهێنان بە جەنگ، نرخی نەوتی دابەزاند زێڕ بۆ نزیکەی 4460 دۆ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
