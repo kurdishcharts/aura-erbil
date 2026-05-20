@@ -1,5 +1,131 @@
 [
   {
+    "id": "866e5ee886a3ed4d",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:53:04.942130+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "862f92cb963b161f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:52:53.360331+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a97f013b66f40585",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202626",
+    "title": "بە دوو درۆن هێرشکرایە سەر کەمپێکی کۆمەڵە لە سلێمانی",
+    "title_en": "بە دوو درۆن هێرشکرایە سەر کەمپێکی کۆمەڵە لە سلێمانی",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جێگری بەڕێوەبەری گشتیی گومرگی هەرێمی کوردستان راگەیاند، ئەو شۆفێرانەی هەڵگری مۆڵەتی نوێی شۆفێریی ناوخۆیین، دەتوانن بە ئۆتۆمبێلی خۆیان گەشت بۆ دەرەوەی وڵات بکەن بەبێ ئەوەی پێویستیان بە مۆڵەتی نێودەوڵەتی هەبێت.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:52:42.309949+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بیرۆکەکە ئەوەیە مۆرینیۆ بەدەسەڵاتی تەواوەوە دەست بە پڕۆژە نوێیەکەی بکات",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:52:25.441730+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "db31b19e3498ca3b",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520261",
+    "title": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
+    "title_en": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئاشکراکردنی ناسنامەی گەنجێکی خەڵکی رانیە لەلایەن تۆڕی میدیایی (BBC) وەک \"گەورە قاچاخچییەکی مرۆڤ\"، کاردانەوەی جیهانیی لێدەکەوێتەوە. خێزانی ئەو گەنجە لە رێگەی \"رووداو\"ـەوە تەواوی تۆمەتەکان رەتدەکەنەوە و دەڵێن: \"کاردۆ کرێکارێکی سادەیە و بە پەلەپەل خۆی رادەستی ئاسایش کردووە بۆ ئەوەی بێتاوانیی خۆی بسەلمێنێت.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:52:13.982567+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ebf26707940897cd",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520264",
+    "title": "لە دهۆک چوار کرێکار گیانیان لەدەستدا",
+    "title_en": "لە دهۆک چوار کرێکار گیانیان لەدەستدا",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئاشکراکردنی ناسنامەی گەنجێکی خەڵکی رانیە لەلایەن تۆڕی میدیایی (BBC) وەک \"گەورە قاچاخچییەکی مرۆڤ\"، کاردانەوەی جیهانیی لێدەکەوێتەوە. خێزانی ئەو گەنجە لە رێگەی \"رووداو\"ـەوە تەواوی تۆمەتەکان رەتدەکەنەوە و دەڵێن: \"کاردۆ کرێکارێکی سادەیە و بە پەلەپەل خۆی رادەستی ئاسایش کردووە بۆ ئەوەی بێتاوانیی خۆی بسەلمێنێت.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:51:59.118227+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "715711870088d9cb",
+    "url": "https://www.rudaw.net/sorani/world/190620241",
+    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ فەرماندەی باڵای سەربازیی هاوپەیمانیی ناتۆ رایدەگەیێنێت، کشانەوەی بەشێک لە هێزەکانی ئەمریکا لە ئەورووپا نابێتە هۆی پەکخستنی پلانە ئەمنییەکانی هاوپەیمانێتییەکە و دەڵێت، پێشبینی ناکەن لە ماوەیەکی نزیکدا واشنتن بڕیاری کشانەوەی زیاتر بدات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T19:51:49.091484+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "2acce73606ddd885",
     "url": "https://www.rudaw.net/english/kurdistan/190520262",
     "title": "Expat students learning the Kurdish language in Sulaimani",
@@ -24,7 +150,7 @@
     "title_en": "Iraq records over 5,700 domestic abuse, 17,200 divorce cases in early 2026: Judiciary",
     "summary": "ERBIL, Kurdistan Region - More than 5,700 cases of domestic violence were recorded in Iraq during the first three months of 2026 alone, the country’s Supreme Judicial Council (SJC) reported on Wednesday, also registering more than 17,200 divorce cases and noting that the figures do not include the Kurdistan Region. In figures shared with Rudaw, the Council - which serves as the administrative backbone of Iraq’s legal system - said Iraqi courts recorded “5,740 incidents of domestic violence between January and April” this year, adding that “17,225 divorce cases were registered.” Out of the nationwide total of divorces, Baghdad recorded the highest number with 7,138 cases. Courts in the Iraqi capital also documented 6,757 out-of-court marriage contracts that required retroactive legal registration. As for domestic abuse cases, 4,606 involved violence against women, while 799 concerned violence against the elderly and 335 were cases of child abuse. Notably, the figures do not include the Kurdistan Region, where the Kurdistan Regional Government’s (KRG) General Directorate of Combating Violence Against Women and Families (GDCVAW) said it received just under 12,500 domestic abuse complaints in 2025. Fenik Shafiq, head of the GDCVAW, told Rudaw in mid-March that “the Directorate recorded 12,456 complaints in 2025 alone,” including 3,500 cases of physical violence and 3,000 related to family disputes, warning that the trend has risen sharply. Moreover, the federal SJC’s data showed that in the first three months of 2026, the Iraqi judiciary granted 1,694 legal exemptions for early marriage nationwide. Baghdad’s eastern Rusafa district - known for its higher population density and greater economic disadvantage compared to the western Karkh district - ranked first with 266 approved underage marriage permits. The northern Nineveh province came second with 218 permits. The Iraqi parliament in January 2025 passed amendments to the Personal Status Law allowing Iraqis to choose b",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -60,7 +186,7 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -114,7 +240,7 @@
     "title_en": "ئێران رێگە بە کۆڵبەران دەدات ماددەی خاوی پێترۆکیمیایی هاوردە بکەن",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سوپای پاسدارانی ئێران هۆشداری دەداتە ئەمریکا و ئیسرائیل، کە ئەگەر هێرشەکانیان بۆ سەر کۆماری ئیسلامی دەستپێبکەنەوە، ئەمجارە ئاگری شەڕەکە لە سنوورەکانی رۆژهەڵاتی ناوەڕاست دەردەچێت و دەگاتە ناوچەکانی دیکەی جیهانیش.",
     "source": "rudaw-sorani",
-    "category": "fire",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -1062,24 +1188,6 @@
     }
   },
   {
-    "id": "715711870088d9cb",
-    "url": "https://www.rudaw.net/sorani/world/190620241",
-    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دۆناڵد تره‌مپ، سەرۆکی ئەمریکا، پەردەی لەسەر نهێنییەکانی ئەو هۆڵە گەورەیە لادا کە بۆ سازکردنی بۆنەکان لە کۆشکی سپی دروست دەکرێ. تره‌مپ دەیەوێ ئەم شوێنە ببێتە جێگەیەکی پارێزراو بۆ رێوڕەسم و بۆنە گەورەکان، بەڵام داواکردنی یەک ملیار دۆلار لە پارەی گشتی بۆ پاراستنی ئەو پڕۆژەیە، ناڕەزایەتی لێکەوتووەتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T15:13:57.777871+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5f7d151867f3748b",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/200520268",
     "title": "دەنگۆی کشانەوەی قالیباف لە سەرۆکایەتیی تیمی دانوستاندنکاری ئێران رەت دەکرێتەوە",
@@ -1109,24 +1217,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T15:13:21.566430+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "862f92cb963b161f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T15:12:59.126050+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1242,24 +1332,6 @@
     }
   },
   {
-    "id": "866e5ee886a3ed4d",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T14:14:12.142430+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "b04b481e5024ad4a",
     "url": "https://www.rudaw.net/sorani/kurdistan/2005202610",
     "title": "سەرۆکی دامەزراوەی پەی: حیزبەکان زیاتر لە هەزار بەڵێنیان داوە و جێبەجێ نەکراون",
@@ -1307,24 +1379,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T13:44:04.139918+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ڤیزای بۆ وەردەگرن و خەرجییەکانی لە ئەستۆ دەگرن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T13:43:52.285533+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1656,24 +1710,6 @@
     }
   },
   {
-    "id": "db31b19e3498ca3b",
-    "url": "https://www.rudaw.net/sorani/kurdistan/200520261",
-    "title": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
-    "title_en": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکایەتیی بەڕێوەبردنی کارەسات و فریاکەوتنی تورکیا رایگەیاند، کاژێر 09:00ی بەیانیی ئەمڕۆ، بوومەلەرزەیەک بە گوڕی 5.6 پلە بە پێوەری رێختەر، لە پارێزگای مەڵەتیی باکووری کوردستان روویداوە و لە ناوچەکانی دیکەی باکووری کوردستانیش هەستی پێکراوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:52:29.903515+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "e8d487ecbfd2f190",
     "url": "https://www.rudaw.net/sorani/middleeast/turkey/200520262",
     "title": "دەم پارتی داوای دامەزراندنی میکانیزمێکی یاسایی بۆ بەدواداچوونی پرۆسەی چارەسەری دەکات",
@@ -1685,24 +1721,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T10:52:19.521870+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ebf26707940897cd",
-    "url": "https://www.rudaw.net/sorani/kurdistan/200520264",
-    "title": "لە دهۆک چوار کرێکار گیانیان لەدەستدا",
-    "title_en": "لە دهۆک چوار کرێکار گیانیان لەدەستدا",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکایەتیی بەڕێوەبردنی کارەسات و فریاکەوتنی تورکیا رایگەیاند، کاژێر 09:00ی بەیانیی ئەمڕۆ، بوومەلەرزەیەک بە گوڕی 5.6 پلە بە پێوەری رێختەر، لە پارێزگای مەڵەتیی باکووری کوردستان روویداوە و لە ناوچەکانی دیکەی باکووری کوردستانیش هەستی پێکراوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T10:51:58.719913+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -17072,11 +17090,11 @@
     }
   },
   {
-    "id": "a97f013b66f40585",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202626",
-    "title": "بە درۆن کەمپی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانت ئێران کرایە ئامانج",
-    "title_en": "بە درۆن کەمپی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانت ئێران کرایە ئامانج",
-    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان رووداو زۆرتر لە کوردستان تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن وەزارەتی دارایی: لیستی مووچەی مانگی ئایار و تەرازووی پێداچوونەوە رەوانەی بەغدا دەکرێت خێزانی کاردۆ جاف تۆمەتەکانی بی بی سی رەتدەکەنەوە: کوڕەکەمان نانەوایە نەک قاچاخچی گومرگی کوردستان: ئەوانەی مۆڵەتی نوێی شوفێریان ",
+    "id": "fe0ccc5f059a2d09",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202625",
+    "title": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
+    "title_en": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
+    "summary": "عەدنان رەشید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە وێنەی ئاسانسوارەکە زۆرتر لە کوردستان بە درۆن کەمپی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانت ئێران کرایە ئامانج وەزارەتی دارایی: لیستی مووچەی مانگی ئایار و تەرازووی پێداچوونەوە رەوانەی بەغدا دەکرێت خێزانی کاردۆ جاف تۆمەتەکانی بی بی سی رەتدەکەنەوە: کوڕەکەمان نانەوایە نەک قاچاخچی گومرگی کوردستان: ئەوانەی مۆ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
@@ -17090,11 +17108,65 @@
     }
   },
   {
-    "id": "fe0ccc5f059a2d09",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202625",
-    "title": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
-    "title_en": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
-    "summary": "عەدنان رەشید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە وێنەی ئاسانسوارەکە زۆرتر لە کوردستان بە درۆن کەمپی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانت ئێران کرایە ئامانج وەزارەتی دارایی: لیستی مووچەی مانگی ئایار و تەرازووی پێداچوونەوە رەوانەی بەغدا دەکرێت خێزانی کاردۆ جاف تۆمەتەکانی بی بی سی رەتدەکەنەوە: کوڕەکەمان نانەوایە نەک قاچاخچی گومرگی کوردستان: ئەوانەی مۆ",
+    "id": "5e0bf7029ad034b3",
+    "url": "https://www.rudaw.net/english/kurdistan/200520264",
+    "title": "Family denies accusations against Kurdish man named in BBC trafficking report",
+    "title_en": "Family denies accusations against Kurdish man named in BBC trafficking report",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Kurdistan Kardo Jaff. Photo: Social media Also in Kurdistan KDP, opposition group move toward thaw amid Kurdistan government impasse Four workers killed in fall at residential project in Duhok Kurdish farmers report record ‘Freekeh’ harvest following abundant rainfall US-backed deal sets September dead",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ba007b45e4d4c289",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/200520265",
+    "title": "تورکیا بۆ ئیسرائیل: گوتاری وەزیرەکەتان هاندانی رق و تووندوتیژییە",
+    "title_en": "تورکیا بۆ ئیسرائیل: گوتاری وەزیرەکەتان هاندانی رق و تووندوتیژییە",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا باڵەخانەی وەزارەتی دەرەوەی تورکیا زۆرتر لە تورکیا پەرلەمانی تورکیا پێشنیازێکی دەم پارتی بەهۆی دەستەواژەی 'شارە کوردییەکان' رەتکردەوە ئاماری بوومەلەرزەکەی مەڵەتی؛ 15 کەس بریندار بوون و خوێندن راگیرا دەم پارتی داوای دامەزراندنی میکانیزمێکی یاسایی بۆ بەدواداچوونی پرۆسەی چارەسەری دەکات تورکیا پێشنیازی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c7b83d5302b3f1b",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/200520264",
+    "title": "پەرلەمانی تورکیا پێشنیازێکی دەم پارتی بەهۆی دەستەواژەی 'شارە کوردییەکان' رەتکردەوە",
+    "title_en": "پەرلەمانی تورکیا پێشنیازێکی دەم پارتی بەهۆی دەستەواژەی 'شارە کوردییەکان' رەتکردەوە",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا پەرلەمانی تورکیا. وێنەکە: AA زۆرتر لە تورکیا تورکیا بۆ ئیسرائیل: گوتاری وەزیرەکەتان هاندانی رق و تووندوتیژییە ئاماری بوومەلەرزەکەی مەڵەتی؛ 15 کەس بریندار بوون و خوێندن راگیرا دەم پارتی داوای دامەزراندنی میکانیزمێکی یاسایی بۆ بەدواداچوونی پرۆسەی چارەسەری دەکات تورکیا پێشنیازی پڕۆژەی بۆریی سووتەمەنیی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7e66abd7273354fb",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/2005202612",
+    "title": "وەزارەتی دەرەوەی ئێران: بۆچی یۆرانیۆمی خۆمان رەوانەی وڵاتێکی دیکە بکەین؟",
+    "title_en": "وەزارەتی دەرەوەی ئێران: بۆچی یۆرانیۆمی خۆمان رەوانەی وڵاتێکی دیکە بکەین؟",
+    "summary": "ژیلا ئەسعەد به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران ئیسماعیل بەقایی، گوتەبێژی وەزارەتی دەرەوەی ئێران زۆرتر لە ئێران ئێران رێگە بە کۆڵبەران دەدات ماددەی خاوی پێترۆکیمیایی هاوردە بکەن قالیباف: دووژمن بەدوای دەستپێکردنی خولێکی نوێی جەنگدا دەگەڕێت دەنگۆی کشانەوەی قالیباف لە سەرۆکایەتیی تیمی دانوستاندنکاری ئێران رەت دەکرێتەوە سوپای پاسداران: لە 24 کاژێرد",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
