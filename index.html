@@ -2,121 +2,139 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#1a56db">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="theme-color" content="#0f172a">
 <link rel="manifest" href="/aura-erbil/manifest.json">
 <title>Kurdish Charts — KRG Intelligence</title>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231a56db'/%3E%3Ccircle cx='16' cy='16' r='5' fill='none' stroke='%23fff' stroke-width='1.5'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23fff'/%3E%3Cline x1='16' y1='2' x2='16' y2='7' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='16' y1='25' x2='16' y2='30' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='2' y1='16' x2='7' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3Cline x1='25' y1='16' x2='30' y2='16' stroke='%23fff' stroke-width='1.5'/%3E%3C/svg%3E">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='18' fill='%231e293b'/%3E%3Ccircle cx='20' cy='20' r='14' fill='none' stroke='%233b82f6' stroke-width='1.5'/%3E%3Ccircle cx='20' cy='20' r='6' fill='%233b82f6'/%3E%3Ccircle cx='20' cy='20' r='2.5' fill='%23f8fafc'/%3E%3Cline x1='20' y1='2' x2='20' y2='8' stroke='%233b82f6' stroke-width='1.5'/%3E%3Cline x1='20' y1='32' x2='20' y2='38' stroke='%233b82f6' stroke-width='1.5'/%3E%3Cline x1='2' y1='20' x2='8' y2='20' stroke='%233b82f6' stroke-width='1.5'/%3E%3Cline x1='32' y1='20' x2='38' y2='20' stroke='%233b82f6' stroke-width='1.5'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 :root{
-  --bg:#f2f4f8;
-  --bg2:#e8ecf3;
-  --card:#ffffff;
-  --border:#dde2ec;
-  --border2:#c5ccd9;
-  --text:#0d1526;
-  --text2:#4b5875;
-  --text3:#8892a4;
-  --accent:#1a56db;
-  --accent-lt:#eff4ff;
-  --bull:#16a34a;
-  --bull-bg:#f0fdf4;
-  --bull-bd:#86efac;
-  --bear:#dc2626;
-  --bear-bg:#fef2f2;
-  --bear-bd:#fca5a5;
-  --neut:#d97706;
-  --neut-bg:#fffbeb;
-  --neut-bd:#fcd34d;
-  --r:10px;
-  --sh:0 1px 3px rgba(13,21,38,.07),0 1px 2px rgba(13,21,38,.04);
+  --bg:#f1f5f9; --card:#ffffff; --border:#e2e8f0; --border2:#cbd5e1;
+  --text:#0f172a; --text2:#475569; --text3:#94a3b8;
+  --accent:#3b82f6; --accent-lt:#eff6ff;
+  --bull:#16a34a; --bull-bg:#f0fdf4; --bull-bd:#86efac;
+  --bear:#dc2626; --bear-bg:#fef2f2; --bear-bd:#fca5a5;
+  --neut:#d97706; --neut-bg:#fffbeb; --neut-bd:#fcd34d;
+  --r:12px; --sh:0 1px 3px rgba(0,0,0,.06),0 1px 2px rgba(0,0,0,.04);
 }
-html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-size:13px;line-height:1.5}
-::-webkit-scrollbar{width:5px;height:5px}
+html,body{height:100%;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-size:13px;line-height:1.5}
+::-webkit-scrollbar{width:6px;height:6px}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:var(--border2);border-radius:3px}
-.topnav{position:sticky;top:0;z-index:300;height:54px;background:var(--card);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 20px;gap:4px;box-shadow:var(--sh)}
-.brand{display:flex;align-items:center;gap:9px;margin-right:20px;text-decoration:none;flex-shrink:0}
-.brand-icon{width:30px;height:30px;background:var(--accent);border-radius:8px;display:flex;align-items:center;justify-content:center}
-.brand-icon svg{width:16px;height:16px}
-.brand-text{display:flex;flex-direction:column;line-height:1}
-.brand-name{font-family:'Syne',sans-serif;font-size:16px;font-weight:800;color:var(--text);letter-spacing:-.01em}
-.brand-region{font-family:'DM Mono',monospace;font-size:9px;color:var(--text3);letter-spacing:.12em;text-transform:uppercase;margin-top:1px}
-.nav-tabs{display:flex;gap:2px}
-.tab-btn{padding:6px 16px;border:none;background:transparent;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:500;color:var(--text2);cursor:pointer;border-radius:7px;transition:all .15s;white-space:nowrap}
-.tab-btn:hover{background:var(--bg);color:var(--text)}
+
+/* ── Top Nav ── */
+.topnav{position:sticky;top:0;z-index:300;height:56px;background:var(--card);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 24px;gap:8px;box-shadow:var(--sh)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;flex-shrink:0}
+.brand-icon{width:36px;height:36px;border-radius:10px;display:flex;align-items:center;justify-content:center}
+.brand-text{display:flex;flex-direction:column;line-height:1.1}
+.brand-name{font-size:17px;font-weight:700;color:var(--text);letter-spacing:-.02em}
+.brand-region{font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--text3);letter-spacing:.1em;text-transform:uppercase;margin-top:1px}
+.nav-tabs{display:flex;gap:4px}
+.tab-btn{padding:7px 18px;border:none;background:transparent;font-family:'Inter',sans-serif;font-size:13px;font-weight:500;color:var(--text2);cursor:pointer;border-radius:8px;transition:all .15s;white-space:nowrap}
+.tab-btn:hover{background:#f1f5f9;color:var(--text)}
 .tab-btn.active{background:var(--accent);color:#fff}
-.nav-right{margin-left:auto;display:flex;align-items:center;gap:14px}
-.sync-txt{font-family:'DM Mono',monospace;font-size:10px;color:var(--text3)}
-.page{display:none;min-height:calc(100vh - 54px);padding:20px;max-width:1400px;margin:0 auto}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:16px}
+.sync-txt{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text3)}
+
+/* ── Page Shells ── */
+.page{display:none;min-height:calc(100vh - 56px);padding:24px;max-width:1440px;margin:0 auto}
 .page.active{display:block}
-#map-page{max-width:none;padding:0;height:calc(100vh - 54px)}
+#map-page{max-width:none;padding:0;height:calc(100vh - 56px)}
 #map-page.active{display:flex}
-.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:16px}
-.stat-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:16px 18px;box-shadow:var(--sh)}
-.stat-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+
+/* ── Stat Cards ── */
+.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:20px}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:18px 20px;box-shadow:var(--sh)}
+.stat-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
 .stat-lbl{font-size:11px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:.08em}
-.stat-badge{padding:2px 8px;border-radius:20px;font-family:'DM Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.04em}
-.stat-val{font-family:'DM Mono',monospace;font-size:30px;font-weight:500;line-height:1;letter-spacing:-.03em;margin-bottom:3px}
+.stat-badge{padding:2px 10px;border-radius:20px;font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.04em}
+.stat-val{font-family:'JetBrains Mono',monospace;font-size:32px;font-weight:500;line-height:1;letter-spacing:-.03em;margin-bottom:4px}
 .stat-sub{font-size:11px;color:var(--text3)}
-.stat-bar{height:3px;background:var(--bg2);border-radius:2px;margin-top:10px;overflow:hidden}
-.stat-fill{height:100%;border-radius:2px;transition:width 1.2s cubic-bezier(.4,0,.2,1)}
-.card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:18px;box-shadow:var(--sh)}
-.card-hd{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+.stat-bar{height:3px;background:#f1f5f9;border-radius:2px;margin-top:12px;overflow:hidden}
+.stat-fill{height:100%;border-radius:2px;transition:width .8s cubic-bezier(.4,0,.2,1)}
+
+/* ── Cards ── */
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:20px;box-shadow:var(--sh)}
+.card-hd{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px}
 .card-title{font-size:11px;font-weight:600;color:var(--text2);text-transform:uppercase;letter-spacing:.08em}
-.card-sub{font-family:'DM Mono',monospace;font-size:10px;color:var(--text3)}
-.g2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px}
-.score-center{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px 0 20px}
-.score-num{font-family:'DM Mono',monospace;font-size:60px;font-weight:500;line-height:1;letter-spacing:-.04em}
-.score-lbl{font-family:'Syne',sans-serif;font-size:12px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;margin-top:6px}
-.score-hint{font-size:11px;color:var(--text3);margin-top:6px;text-align:center;max-width:180px}
-.badge{display:inline-flex;align-items:center;padding:2px 8px;border-radius:20px;font-size:10px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;white-space:nowrap}
+.card-sub{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text3)}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:20px}
+.score-center{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:28px 0 22px}
+.score-num{font-family:'JetBrains Mono',monospace;font-size:64px;font-weight:500;line-height:1;letter-spacing:-.04em}
+.score-lbl{font-family:'Inter',sans-serif;font-size:12px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;margin-top:8px}
+.score-hint{font-size:11px;color:var(--text3);margin-top:8px;text-align:center;max-width:200px}
+
+/* ── Badges ── */
+.badge{display:inline-flex;align-items:center;padding:2px 10px;border-radius:20px;font-size:10px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;white-space:nowrap}
 .b-bull{background:var(--bull-bg);color:var(--bull);border:1px solid var(--bull-bd)}
 .b-bear{background:var(--bear-bg);color:var(--bear);border:1px solid var(--bear-bd)}
 .b-neut{background:var(--neut-bg);color:var(--neut);border:1px solid var(--neut-bd)}
+
+/* ── Article List ── */
 .art-list{display:flex;flex-direction:column}
-.art-item{display:flex;align-items:flex-start;gap:10px;padding:10px 4px;border-bottom:1px solid var(--border);cursor:pointer;border-radius:6px;transition:background .1s}
+.art-item{display:flex;align-items:flex-start;gap:12px;padding:12px 4px;border-bottom:1px solid var(--border);cursor:pointer;border-radius:8px;transition:background .1s}
 .art-item:last-child{border-bottom:none;padding-bottom:0}
-.art-item:hover{background:var(--bg)}
-.art-bar{width:3px;flex-shrink:0;align-self:stretch;border-radius:2px}
+.art-item:hover{background:#f8fafc}
+.art-bar{width:4px;flex-shrink:0;align-self:stretch;border-radius:2px}
 .art-body{flex:1;min-width:0}
-.art-title{font-size:12px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.art-meta{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
-.tag{font-family:'DM Mono',monospace;font-size:9px;color:var(--text3);background:var(--bg2);padding:2px 6px;border-radius:4px}
-.filter-bar{display:flex;align-items:center;gap:8px;margin-bottom:14px;flex-wrap:wrap}
-.search-box{flex:1;min-width:160px;max-width:260px;padding:7px 12px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text);outline:none;transition:border-color .15s}
+.art-title{font-size:13px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.art-meta{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.tag{font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--text3);background:#f1f5f9;padding:2px 8px;border-radius:6px}
+
+/* ── Feed ── */
+.filter-bar{display:flex;align-items:center;gap:10px;margin-bottom:16px;flex-wrap:wrap}
+.search-box{flex:1;min-width:180px;max-width:280px;padding:8px 14px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'Inter',sans-serif;font-size:12px;color:var(--text);outline:none;transition:border-color .15s}
 .search-box:focus{border-color:var(--accent)}
 .search-box::placeholder{color:var(--text3)}
-.f-btn{padding:6px 14px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'DM Sans',sans-serif;font-size:12px;font-weight:500;color:var(--text2);cursor:pointer;transition:all .15s;white-space:nowrap}
+.f-btn{padding:7px 16px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'Inter',sans-serif;font-size:12px;font-weight:500;color:var(--text2);cursor:pointer;transition:all .15s;white-space:nowrap}
 .f-btn:hover,.f-btn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.f-sel{padding:6px 10px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text2);outline:none;cursor:pointer}
-.feed-count{font-family:'DM Mono',monospace;font-size:10px;color:var(--text3);margin-bottom:10px}
+.f-sel{padding:7px 12px;border:1px solid var(--border);border-radius:20px;background:var(--card);font-family:'Inter',sans-serif;font-size:12px;color:var(--text2);outline:none;cursor:pointer}
+.feed-count{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text3);margin-bottom:12px}
 .feed-list{display:flex;flex-direction:column;gap:8px}
-.feed-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:14px 16px;display:flex;gap:12px;align-items:flex-start;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s;box-shadow:var(--sh)}
+.feed-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:16px 18px;display:flex;gap:14px;align-items:flex-start;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s;box-shadow:var(--sh)}
 .feed-card:hover{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-lt)}
-.feed-bar{width:3px;align-self:stretch;border-radius:2px;flex-shrink:0}
+.feed-bar{width:4px;align-self:stretch;border-radius:2px;flex-shrink:0}
 .feed-body{flex:1;min-width:0}
-.feed-title{font-size:13px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:7px}
-.feed-meta{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.more-btn{width:100%;margin-top:12px;padding:10px;border:1px solid var(--border);border-radius:var(--r);background:var(--card);font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text2);cursor:pointer;transition:all .15s}
+.feed-title{font-size:14px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:8px}
+.feed-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.more-btn{width:100%;margin-top:14px;padding:12px;border:1px solid var(--border);border-radius:var(--r);background:var(--card);font-family:'Inter',sans-serif;font-size:12px;color:var(--text2);cursor:pointer;transition:all .15s}
 .more-btn:hover{border-color:var(--accent);color:var(--accent)}
+
+/* ── Map ── */
 #map-el{flex:1;height:100%}
-.map-side{width:300px;height:100%;overflow-y:auto;background:var(--card);border-left:1px solid var(--border);padding:14px;flex-shrink:0}
-.map-side-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--text3);margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid var(--border)}
+.map-side{width:320px;height:100%;overflow-y:auto;background:var(--card);border-left:1px solid var(--border);padding:16px;flex-shrink:0}
+.map-side-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--text3);margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid var(--border)}
+
+/* ── Chart Modal (maximize) ── */
+.modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(15,23,42,.85);z-index:999;align-items:center;justify-content:center}
+.modal-overlay.active{display:flex}
+.modal-content{background:var(--card);border-radius:16px;width:90vw;height:85vh;padding:24px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+.modal-close{position:absolute;top:16px;right:20px;background:none;border:none;font-size:24px;cursor:pointer;color:var(--text2);line-height:1}
+
+/* ── Responsive ── */
 @media(max-width:900px){.stats-row,.g2{grid-template-columns:1fr 1fr}}
-@media(max-width:600px){.stats-row,.g2{grid-template-columns:1fr}.topnav{padding:0 12px}.page{padding:12px}#map-page.active{flex-direction:column}.map-side{width:100%;height:240px;border-left:none;border-top:1px solid var(--border)}}
+@media(max-width:600px){.stats-row,.g2{grid-template-columns:1fr}.topnav{padding:0 14px}.page{padding:14px}#map-page.active{flex-direction:column}.map-side{width:100%;height:240px;border-left:none;border-top:1px solid var(--border)}}
 </style>
 </head>
 <body>
 
+<!-- TOP NAV -->
 <nav class="topnav">
   <a class="brand" href="#">
-    <div class="brand-icon" style="background:#1a1a1a">
-      <svg viewBox="0 0 16 16" fill="none"><polygon points="2,13 8,3 14,13" fill="none" stroke="white" stroke-width="1.3" stroke-linejoin="round"/><polygon points="5,13 9,7 13,13" fill="white" opacity="0.4"/></svg>
+    <div class="brand-icon" style="background:#1e293b">
+      <svg width="36" height="36" viewBox="0 0 40 40" fill="none">
+        <circle cx="20" cy="20" r="14" stroke="#3b82f6" stroke-width="1.5"/>
+        <circle cx="20" cy="20" r="6" fill="#3b82f6"/>
+        <circle cx="20" cy="20" r="2.5" fill="#f8fafc"/>
+        <line x1="20" y1="2" x2="20" y2="8" stroke="#3b82f6" stroke-width="1.5"/>
+        <line x1="20" y1="32" x2="20" y2="38" stroke="#3b82f6" stroke-width="1.5"/>
+        <line x1="2" y1="20" x2="8" y2="20" stroke="#3b82f6" stroke-width="1.5"/>
+        <line x1="32" y1="20" x2="38" y2="20" stroke="#3b82f6" stroke-width="1.5"/>
+      </svg>
     </div>
     <div class="brand-text">
       <span class="brand-name">Kurdish Charts</span>
@@ -144,10 +162,10 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
   </div>
   <div class="g2">
     <div class="card"><div class="card-hd"><span class="card-title">Sentiment Index</span><span class="card-sub">0 = bearish · 100 = bullish</span></div><div class="score-center"><div class="score-num" id="score-n">—</div><div class="score-lbl" id="score-l">—</div><div class="score-hint" id="score-h">Loading…</div></div></div>
-    <div class="card"><div class="card-hd"><span class="card-title">Sentiment Mix</span><span class="card-sub" id="donut-sub">all articles</span></div><div style="height:200px;position:relative"><canvas id="ch-donut"></canvas></div></div>
+    <div class="card"><div class="card-hd"><span class="card-title">Sentiment Mix</span><span class="card-sub" id="donut-sub">all articles</span></div><div style="height:220px;position:relative"><canvas id="ch-donut"></canvas></div></div>
   </div>
   <div class="g2">
-    <div class="card"><div class="card-hd"><span class="card-title">Article Volume</span><span class="card-sub">by hour of day</span></div><div style="height:180px;position:relative"><canvas id="ch-vol"></canvas></div></div>
+    <div class="card"><div class="card-hd"><span class="card-title">Article Volume</span><span class="card-sub">by hour of day</span></div><div style="height:200px;position:relative"><canvas id="ch-vol"></canvas></div></div>
     <div class="card"><div class="card-hd"><span class="card-title">Latest</span><span class="card-sub" id="latest-sub">—</span></div><div id="latest-list"></div></div>
   </div>
 </div>
@@ -174,23 +192,26 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:'DM San
   <button class="more-btn" id="more-btn" onclick="loadMore()" style="display:none">Load more articles</button>
 </div>
 
-<!-- ANALYTICS (only quant-panel) -->
+<!-- ANALYTICS (quant-panel only) -->
 <div id="analytics-page" class="page">
-  <div id="quant-panel" style="max-width:1400px;margin:20px auto;padding:0 20px 20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px"></div>
+  <div id="quant-panel" style="max-width:1440px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px"></div>
 </div>
+
+<!-- CHART MAXIMIZE MODAL -->
+<div class="modal-overlay" id="chart-modal"><div class="modal-content"><button class="modal-close" onclick="closeModal()">✕</button><div id="modal-canvas" style="width:100%;height:100%"></div></div></div>
 
 <!-- SCRIPTS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="charts_quant.js"></script>
 <script>
+/* ═══ GLOBAL STATE ═══ */
 let D = [];
+let lastDataHash = '';            // to detect real data changes
 let MAP_OBJ = null;
-let mapMarkers = [];
-let heatLayer = null;
-let charts = {};
-let sentFilter = 'all';
-let feedPage = 0;
+let mapMarkers = [], heatLayer = null;
+let charts = {}, sentFilter = 'all', feedPage = 0;
 const PER_PAGE = 20;
 const SOURCE_NAMES = {'rudaw-scrape':'Rudaw','rudaw-english':'Rudaw EN','rudaw-sorani':'Rudaw KU'};
 const srcName = s => SOURCE_NAMES[s] || s || 'Rudaw';
@@ -206,15 +227,18 @@ function relTime(ts) {
 function mkBadge(s) { return `<span class="badge b-${sClass(s)}">${sLabel(s)}</span>`; }
 function escHtml(s) { if(!s) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
+/* ═══ DATA LOAD ═══ */
 async function loadData() {
   try {
     const res = await fetch('data/data.json?t='+Date.now());
-    const lastMod = res.headers.get('last-modified');
-    D = await res.json();
-    document.getElementById('sync-txt').textContent = lastMod ? 'Updated '+relTime(new Date(lastMod).toISOString()) : '';
+    const text = await res.text();
+    lastDataHash = text;               // store raw string for comparison
+    D = JSON.parse(text);
+    document.getElementById('sync-txt').textContent = 'Updated just now';
     renderAll();
   } catch(e) { document.getElementById('sync-txt').textContent = 'Load failed'; }
 }
+
 function renderAll() {
   renderStats();
   renderChartDonut();
@@ -223,11 +247,10 @@ function renderAll() {
   populateFilters();
   renderFeed();
 }
+
+/* ═══ STATS ═══ */
 function renderStats() {
-  const total = D.length;
-  const pos = D.filter(a=>a.sentiment==='positive').length;
-  const neg = D.filter(a=>a.sentiment==='negative').length;
-  const neut = D.filter(a=>a.sentiment==='neutral').length;
+  const total = D.length, pos = D.filter(a=>a.sentiment==='positive').length, neg = D.filter(a=>a.sentiment==='negative').length, neut = D.filter(a=>a.sentiment==='neutral').length;
   document.getElementById('s-total').textContent = total;
   document.getElementById('s-pos').textContent = pos;
   document.getElementById('s-neg').textContent = neg;
@@ -239,41 +262,76 @@ function renderStats() {
   document.getElementById('b-neg').style.width = pct(neg,total);
   document.getElementById('b-neut').style.width = pct(neut,total);
   const score = total ? Math.round(Math.max(0,Math.min(100,50+(pos-neg)/total*50))) : 50;
-  document.getElementById('score-n').textContent = score;
   const sn = document.getElementById('score-n'), sl = document.getElementById('score-l');
+  sn.textContent = score;
   if(score>=60){ sn.style.color='#16a34a'; sl.style.color='#16a34a'; sl.textContent='BULLISH'; }
   else if(score<=40){ sn.style.color='#dc2626'; sl.style.color='#dc2626'; sl.textContent='BEARISH'; }
   else { sn.style.color='#d97706'; sl.style.color='#d97706'; sl.textContent='NEUTRAL'; }
   document.getElementById('score-h').textContent = pos+' positive · '+neg+' negative · '+neut+' neutral';
 }
+
+/* ═══ CHARTS (Overview) ═══ */
 const BASE_OPT = { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}} };
-const TICK_STYLE = { font:{family:'DM Mono',size:9}, color:'#8892a4' };
-const GRID_COLOR = '#eaecf2';
-function mkChart(id, cfg) {
-  if(charts[id]){ charts[id].destroy(); delete charts[id]; }
-  const el = document.getElementById(id); if(!el) return;
-  charts[id] = new Chart(el.getContext('2d'), cfg);
+const TICK_STYLE = { font:{family:'JetBrains Mono',size:9}, color:'#94a3b8' };
+const GRID_COLOR = '#e2e8f0';
+
+function updateOrCreateChart(id, type, data, options) {
+  if (charts[id]) {
+    // Update existing chart silently (no animation)
+    charts[id].data = data;
+    charts[id].options = options;
+    charts[id].update('none');
+  } else {
+    const el = document.getElementById(id);
+    if (!el) return;
+    charts[id] = new Chart(el.getContext('2d'), { type, data, options });
+  }
 }
+
 function renderChartDonut() {
-  const pos = D.filter(a=>a.sentiment==='positive').length;
-  const neg = D.filter(a=>a.sentiment==='negative').length;
-  const neut = D.filter(a=>a.sentiment==='neutral').length;
+  const pos = D.filter(a=>a.sentiment==='positive').length,
+        neg = D.filter(a=>a.sentiment==='negative').length,
+        neut = D.filter(a=>a.sentiment==='neutral').length;
   document.getElementById('donut-sub').textContent = D.length+' articles total';
-  mkChart('ch-donut', { type:'doughnut', data:{ labels:['Positive','Negative','Neutral'], datasets:[{ data:[pos,neg,neut], backgroundColor:['#16a34a','#dc2626','#d97706'], borderWidth:0, hoverOffset:6 }] }, options:{ ...BASE_OPT, cutout:'68%', plugins:{ legend:{ display:true, position:'bottom', labels:{ font:{family:'DM Sans',size:11}, color:'#4b5875', padding:14, usePointStyle:true, pointStyleWidth:8 } } } } });
+
+  updateOrCreateChart('ch-donut', 'doughnut', {
+    labels: ['Positive','Negative','Neutral'],
+    datasets: [{ data: [pos, neg, neut], backgroundColor: ['#16a34a','#dc2626','#d97706'], borderWidth:0, hoverOffset:6 }]
+  }, {
+    ...BASE_OPT,
+    cutout:'68%',
+    plugins: {
+      legend: { display:true, position:'bottom', labels:{ font:{family:'Inter',size:11}, color:'#475569', padding:14, usePointStyle:true, pointStyleWidth:8 } }
+    }
+  });
 }
+
 function renderChartVolume() {
   const hourCounts = new Array(24).fill(0);
   D.forEach(a => { if(a.timestamp) hourCounts[new Date(a.timestamp).getHours()]++; });
-  mkChart('ch-vol', { type:'bar', data:{ labels:Array.from({length:24},(_,i)=>i.toString().padStart(2,'0')+':00'), datasets:[{ data:hourCounts, backgroundColor:'#bfdbfe', borderColor:'#1a56db', borderWidth:1, borderRadius:4, borderSkipped:false }] }, options:{ ...BASE_OPT, scales:{ x:{ ticks:{...TICK_STYLE,maxRotation:45}, grid:{display:false} }, y:{ ticks:TICK_STYLE, grid:{color:GRID_COLOR}, beginAtZero:true } } } });
+
+  updateOrCreateChart('ch-vol', 'bar', {
+    labels: Array.from({length:24},(_,i)=>i.toString().padStart(2,'0')+':00'),
+    datasets: [{ data:hourCounts, backgroundColor:'#bfdbfe', borderColor:'#3b82f6', borderWidth:1, borderRadius:4, borderSkipped:false }]
+  }, {
+    ...BASE_OPT,
+    scales: {
+      x: { ticks:{...TICK_STYLE,maxRotation:45}, grid:{display:false} },
+      y: { ticks:TICK_STYLE, grid:{color:GRID_COLOR}, beginAtZero:true }
+    }
+  });
 }
+
 function renderLatest() {
   const items = D.slice(0,8);
   document.getElementById('latest-sub').textContent = items.length+' most recent';
   document.getElementById('latest-list').innerHTML = '<div class="art-list">'+items.map(a => `<div class="art-item" onclick="window.open('${escHtml(a.url)}','_blank')"><div class="art-bar" style="background:${sColor(a.sentiment)}"></div><div class="art-body"><div class="art-title">${escHtml(a.title_en||a.title)}</div><div class="art-meta">${mkBadge(a.sentiment)}<span class="tag">${srcName(a.source)}</span><span class="tag">${relTime(a.timestamp)}</span></div></div></div>`).join('')+'</div>';
 }
+
+/* ═══ FEED ═══ */
 function populateFilters() {
-  const cats = [...new Set(D.map(a=>a.category).filter(Boolean))].sort();
-  const srcs = [...new Set(D.map(a=>a.source).filter(Boolean))].sort();
+  const cats = [...new Set(D.map(a=>a.category).filter(Boolean))].sort(),
+        srcs = [...new Set(D.map(a=>a.source).filter(Boolean))].sort();
   const cs = document.getElementById('cat-sel'), ss = document.getElementById('src-sel');
   if(cs.options.length<=1) cats.forEach(c => { const o=document.createElement('option'); o.value=c; o.textContent=c; cs.appendChild(o); });
   if(ss.options.length<=1) srcs.forEach(s => { const o=document.createElement('option'); o.value=s; o.textContent=s; ss.appendChild(o); });
@@ -281,9 +339,9 @@ function populateFilters() {
 function setSentFilter(f, btn) { sentFilter=f; feedPage=0; document.querySelectorAll('.filter-bar .f-btn').forEach(b=>b.classList.remove('on')); btn.classList.add('on'); renderFeed(); }
 function filterFeed() { feedPage=0; renderFeed(); }
 function getFiltered() {
-  const q = (document.getElementById('search-in')?.value||'').toLowerCase().trim();
-  const cat = document.getElementById('cat-sel')?.value||'';
-  const src = document.getElementById('src-sel')?.value||'';
+  const q = (document.getElementById('search-in')?.value||'').toLowerCase().trim(),
+        cat = document.getElementById('cat-sel')?.value||'',
+        src = document.getElementById('src-sel')?.value||'';
   return D.filter(a => {
     if(sentFilter!=='all' && a.sentiment!==sentFilter) return false;
     if(cat && a.category!==cat) return false;
@@ -293,60 +351,22 @@ function getFiltered() {
   });
 }
 function renderFeed() {
-  const filtered = getFiltered();
-  const shown = filtered.slice(0,(feedPage+1)*PER_PAGE);
+  const filtered = getFiltered(), shown = filtered.slice(0,(feedPage+1)*PER_PAGE);
   document.getElementById('feed-cnt').textContent = filtered.length+' articles';
   document.getElementById('feed-list').innerHTML = shown.length ? shown.map(a => `<a class="feed-card" href="${escHtml(a.url)}" target="_blank" rel="noopener"><div class="feed-bar" style="background:${sColor(a.sentiment)}"></div><div class="feed-body"><div class="feed-title">${escHtml(a.title_en||a.title)}</div><div class="feed-meta">${mkBadge(a.sentiment)}<span class="tag">${srcName(a.source)}</span>${a.category?`<span class="tag">${escHtml(a.category)}</span>`:''}<span class="tag">${relTime(a.timestamp)}</span></div></div></a>`).join('') : '<div style="text-align:center;padding:40px;color:var(--text3);font-size:12px">No articles match your filters</div>';
   document.getElementById('more-btn').style.display = shown.length < filtered.length ? 'block' : 'none';
 }
 function loadMore() { feedPage++; renderFeed(); }
 
-/* MAP */
+/* ═══ MAP ═══ */
 const KRG_BOUNDS = { latMin:35.0, latMax:37.5, lngMin:42.0, lngMax:46.5 };
 const KRG_CITIES = { erbil:[36.1912,44.0092], hewler:[36.1912,44.0092], sulaymaniyah:[35.5571,45.4357], slemani:[35.5571,45.4357], duhok:[36.8669,43.0032], halabja:[35.1787,45.9861], zakho:[37.1441,42.6875], ranya:[36.2558,44.8783], koya:[36.0862,44.6283], amadiya:[37.0924,43.4889], chamchamal:[35.5279,44.8318], penjwin:[35.6234,45.9435], kirkuk:[35.4681,44.3922], sinjar:[36.3197,41.8694], makhmur:[35.7738,43.5908] };
 function inKRG(lat,lng) { return lat>=KRG_BOUNDS.latMin&&lat<=KRG_BOUNDS.latMax&&lng>=KRG_BOUNDS.lngMin&&lng<=KRG_BOUNDS.lngMax; }
-function jitterCoords(map,lat,lng) {
-  const key = lat.toFixed(4)+'_'+lng.toFixed(4);
-  map[key] = (map[key]||0)+1;
-  const n = map[key];
-  if(n===1) return [lat,lng];
-  const angle = (n*137.5)*Math.PI/180, r = 0.004*Math.sqrt(n);
-  return [lat+r*Math.cos(angle), lng+r*Math.sin(angle)];
-}
-function initMap() {
-  if(MAP_OBJ) return;
-  MAP_OBJ = L.map('map-el').setView([36.5,44.3],8);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> &copy; <a href="https://carto.com">CARTO</a>',subdomains:'abcd',maxZoom:19}).addTo(MAP_OBJ);
-}
-function renderMap() {
-  initMap();
-  mapMarkers.forEach(m=>MAP_OBJ.removeLayer(m)); mapMarkers=[];
-  if(heatLayer){ MAP_OBJ.removeLayer(heatLayer); heatLayer=null; }
-  const heatPts=[], sideItems=[], coordMap={}; let pinned=0, skipped=0;
-  D.forEach(a=>{
-    let lat=a.location?.lat, lng=a.location?.lng;
-    const locName=a.location?.name||'';
-    if(a.location_key&&KRG_CITIES[a.location_key.toLowerCase()]) [lat,lng]=KRG_CITIES[a.location_key.toLowerCase()];
-    if(!lat||!lng){ skipped++; return; }
-    if(!inKRG(lat,lng)){ skipped++; return; }
-    const [jLat,jLng]=jitterCoords(coordMap,lat,lng);
-    heatPts.push([jLat,jLng,0.6]); sideItems.push(a); pinned++;
-    const m = L.circleMarker([jLat,jLng],{radius:a.sentiment==='negative'?8:6,fillColor:sColor(a.sentiment),color:'#fff',weight:1.5,opacity:1,fillOpacity:0.88});
-    m.bindPopup(`<div style="font-family:DM Sans,sans-serif;max-width:240px;line-height:1.5"><div style="font-size:11px;font-family:DM Mono,monospace;color:#8892a4;margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em">📍 ${escHtml(locName||'Kurdistan Region')}</div><div style="font-size:12px;font-weight:600;color:#0d1526;margin-bottom:8px">${escHtml(a.title_en||a.title)}</div><div style="display:flex;align-items:center;gap:8px;margin-bottom:8px"><span style="font-family:DM Mono,monospace;font-size:10px;color:${sColor(a.sentiment)};font-weight:600;text-transform:uppercase">${sLabel(a.sentiment)}</span><span style="font-family:DM Mono,monospace;font-size:10px;color:#8892a4">${srcName(a.source)}</span><span style="font-family:DM Mono,monospace;font-size:10px;color:#8892a4">${relTime(a.timestamp)}</span></div><a href="${escHtml(a.url)}" target="_blank" style="font-size:11px;color:#1a56db;font-weight:500;text-decoration:none">Read article →</a></div>`);
-    m.addTo(MAP_OBJ); mapMarkers.push(m);
-  });
-  heatLayer = L.heatLayer(heatPts,{radius:32,blur:20,maxZoom:13,gradient:{0.3:'#bfdbfe',0.6:'#60a5fa',1:'#1a56db'}});
-  const mapEl=document.getElementById('map-el');
-  if(mapEl&&!document.getElementById('heat-toggle')){
-    const btn=document.createElement('button'); btn.id='heat-toggle'; btn.textContent='Heatmap: OFF'; btn.style.cssText='position:absolute;top:10px;right:10px;z-index:999;padding:6px 12px;background:white;border:1px solid #dde2ec;border-radius:6px;font-family:DM Sans,sans-serif;font-size:11px;font-weight:600;cursor:pointer;color:#4b5875;';
-    let heatOn=false;
-    btn.onclick=()=>{ heatOn=!heatOn; heatOn?heatLayer.addTo(MAP_OBJ):MAP_OBJ.removeLayer(heatLayer); btn.textContent='Heatmap: '+(heatOn?'ON':'OFF'); btn.style.color=heatOn?'#1a56db':'#4b5875'; btn.style.borderColor=heatOn?'#1a56db':'#dde2ec'; };
-    mapEl.style.position='relative'; mapEl.appendChild(btn);
-  }
-  document.getElementById('map-list').innerHTML = `<div style="font-family:DM Mono,monospace;font-size:9px;color:var(--text3);margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid var(--border)">${pinned} pins shown · ${skipped} outside KRG</div><div class="art-list">${sideItems.slice(0,60).map(a=>`<div class="art-item" onclick="window.open('${escHtml(a.url)}','_blank')"><div class="art-bar" style="background:${sColor(a.sentiment)}"></div><div class="art-body"><div class="art-title">${escHtml(a.title_en||a.title)}</div><div class="art-meta">${mkBadge(a.sentiment)}<span class="tag">${escHtml(a.location?.name||'KRG')}</span><span class="tag">${relTime(a.timestamp)}</span></div></div></div>`).join('')}</div>`;
-}
+function jitterCoords(map,lat,lng) { const key=lat.toFixed(4)+'_'+lng.toFixed(4); map[key]=(map[key]||0)+1; const n=map[key]; if(n===1) return [lat,lng]; const angle=(n*137.5)*Math.PI/180, r=0.004*Math.sqrt(n); return [lat+r*Math.cos(angle),lng+r*Math.sin(angle)]; }
+function initMap(){ if(MAP_OBJ) return; MAP_OBJ=L.map('map-el').setView([36.5,44.3],8); L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> &copy; <a href="https://carto.com">CARTO</a>',subdomains:'abcd',maxZoom:19}).addTo(MAP_OBJ); }
+function renderMap(){initMap();mapMarkers.forEach(m=>MAP_OBJ.removeLayer(m));mapMarkers=[];if(heatLayer){MAP_OBJ.removeLayer(heatLayer);heatLayer=null;}const heatPts=[],sideItems=[],coordMap={};let pinned=0,skipped=0;D.forEach(a=>{let lat=a.location?.lat,lng=a.location?.lng;const locName=a.location?.name||'';if(a.location_key&&KRG_CITIES[a.location_key.toLowerCase()])[lat,lng]=KRG_CITIES[a.location_key.toLowerCase()];if(!lat||!lng){skipped++;return;}if(!inKRG(lat,lng)){skipped++;return;}const[jLat,jLng]=jitterCoords(coordMap,lat,lng);heatPts.push([jLat,jLng,0.6]);sideItems.push(a);pinned++;const m=L.circleMarker([jLat,jLng],{radius:a.sentiment==='negative'?8:6,fillColor:sColor(a.sentiment),color:'#fff',weight:1.5,opacity:1,fillOpacity:0.88});m.bindPopup(`<div style="font-family:Inter,sans-serif;max-width:260px;line-height:1.5"><div style="font-size:11px;font-family:JetBrains Mono,monospace;color:#94a3b8;margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em">📍 ${escHtml(locName||'Kurdistan Region')}</div><div style="font-size:13px;font-weight:600;color:#0f172a;margin-bottom:8px">${escHtml(a.title_en||a.title)}</div><div style="display:flex;align-items:center;gap:8px;margin-bottom:8px"><span style="font-family:JetBrains Mono,monospace;font-size:10px;color:${sColor(a.sentiment)};font-weight:600;text-transform:uppercase">${sLabel(a.sentiment)}</span><span style="font-family:JetBrains Mono,monospace;font-size:10px;color:#94a3b8">${srcName(a.source)}</span><span style="font-family:JetBrains Mono,monospace;font-size:10px;color:#94a3b8">${relTime(a.timestamp)}</span></div><a href="${escHtml(a.url)}" target="_blank" style="font-size:11px;color:#3b82f6;font-weight:500;text-decoration:none">Read article →</a></div>`);m.addTo(MAP_OBJ);mapMarkers.push(m);});heatLayer=L.heatLayer(heatPts,{radius:32,blur:20,maxZoom:13,gradient:{0.3:'#bfdbfe',0.6:'#60a5fa',1:'#3b82f6'}});const mapEl=document.getElementById('map-el');if(mapEl&&!document.getElementById('heat-toggle')){const btn=document.createElement('button');btn.id='heat-toggle';btn.textContent='Heatmap: OFF';btn.style.cssText='position:absolute;top:12px;right:12px;z-index:999;padding:7px 14px;background:white;border:1px solid #e2e8f0;border-radius:8px;font-family:Inter,sans-serif;font-size:11px;font-weight:600;cursor:pointer;color:#475569;';let heatOn=false;btn.onclick=()=>{heatOn=!heatOn;heatOn?heatLayer.addTo(MAP_OBJ):MAP_OBJ.removeLayer(heatLayer);btn.textContent='Heatmap: '+(heatOn?'ON':'OFF');btn.style.color=heatOn?'#3b82f6':'#475569';btn.style.borderColor=heatOn?'#3b82f6':'#e2e8f0';};mapEl.style.position='relative';mapEl.appendChild(btn);}document.getElementById('map-list').innerHTML=`<div style="font-family:JetBrains Mono,monospace;font-size:9px;color:var(--text3);margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid var(--border)">${pinned} pins shown · ${skipped} outside KRG</div><div class="art-list">${sideItems.slice(0,60).map(a=>`<div class="art-item" onclick="window.open('${escHtml(a.url)}','_blank')"><div class="art-bar" style="background:${sColor(a.sentiment)}"></div><div class="art-body"><div class="art-title">${escHtml(a.title_en||a.title)}</div><div class="art-meta">${mkBadge(a.sentiment)}<span class="tag">${escHtml(a.location?.name||'KRG')}</span><span class="tag">${relTime(a.timestamp)}</span></div></div></div>`).join('')}</div>`;}
 
-/* TAB SWITCHER */
+/* ═══ TAB SWITCHER ═══ */
 let analyticsRendered = false, mapRendered = false;
 function showTab(name,btn) {
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
@@ -357,19 +377,75 @@ function showTab(name,btn) {
   if(name==='analytics'&&!analyticsRendered&&D.length){ analyticsRendered=true; /* charts_quant.js builds everything */ }
 }
 
+/* ═══ CHART MAXIMIZE ═══ */
+function maximizeChart(canvasId) {
+  const src = document.getElementById(canvasId); if(!src) return;
+  const modal = document.getElementById('chart-modal');
+  const container = document.getElementById('modal-canvas');
+  container.innerHTML = '';
+  const newCanvas = document.createElement('canvas');
+  newCanvas.id = 'modal-chart';
+  newCanvas.style.width = '100%';
+  newCanvas.style.height = '100%';
+  container.appendChild(newCanvas);
+  modal.classList.add('active');
+  const chartInstance = Chart.getChart(canvasId);
+  if (chartInstance) {
+    const cfg = JSON.parse(JSON.stringify(chartInstance.config));
+    cfg.options.responsive = true;
+    cfg.options.maintainAspectRatio = false;
+    new Chart(newCanvas.getContext('2d'), cfg);
+  }
+}
+function closeModal() {
+  document.getElementById('chart-modal').classList.remove('active');
+  const chart = Chart.getChart('modal-chart');
+  if (chart) chart.destroy();
+}
+
+/* ═══ SMOOTH AUTO‑REFRESH – NO VISUAL TICK ═══ */
+setInterval(async () => {
+  try {
+    const res = await fetch('data/data.json?t='+Date.now());
+    const newText = await res.text();
+
+    // Skip all updates if the data is exactly the same as before
+    if (newText === lastDataHash) return;
+
+    // Data has changed — update globally
+    lastDataHash = newText;
+    const prevLen = D.length;
+    D = JSON.parse(newText);
+    document.getElementById('sync-txt').textContent = 'Updated ' + new Date().toLocaleTimeString();
+
+    // Update overview components (in-place, no flicker)
+    renderStats();
+    renderChartDonut();
+    renderChartVolume();
+    renderLatest();
+    populateFilters();
+    renderFeed();
+
+    // Map update only if tab active & article locations may have changed
+    if (document.getElementById('map-page').classList.contains('active')) renderMap();
+
+    // Quant panel rebuild only if article count changed
+    const lenChanged = D.length !== prevLen;
+    if (lenChanged && document.getElementById('analytics-page').classList.contains('active')) {
+      analyticsRendered = false;
+      // charts_quant.js will rebuild when the tab is shown (via showTab logic)
+      // Force rebuild if already on analytics tab:
+      if (document.getElementById('analytics-page').classList.contains('active')) {
+        // Manually trigger analytics rebuild (call the quant builder function)
+        if (typeof buildAnalytics === 'function') buildAnalytics();
+        else analyticsRendered = false; // fallback
+      }
+    }
+  } catch(e) { /* silent */ }
+}, 1000);
+
 /* BOOT */
 loadData();
-setInterval(()=>{
-  analyticsRendered = false; mapRendered = false;
-  fetch('data/data.json?t='+Date.now()).then(r=>r.json()).then(d=>{
-    D = d;
-    document.getElementById('sync-txt').textContent = 'Updated '+relTime(new Date().toISOString());
-    renderAll();
-    if(document.getElementById('map-page').classList.contains('active')){ renderMap(); mapRendered=true; }
-    if(document.getElementById('analytics-page').classList.contains('active')){ analyticsRendered=true; }
-  }).catch(()=>{});
-}, 1000);
 </script>
-<script src="charts_quant.js"></script>
 </body>
 </html>
