@@ -1,12 +1,192 @@
 [
   {
+    "id": "0f54e77920d1ef54",
+    "url": "https://www.rudaw.net/english/middleeast/19052026",
+    "title": "UAE says drone attack on Abu Dhabi nuclear plant launched from Iraq",
+    "title_en": "UAE says drone attack on Abu Dhabi nuclear plant launched from Iraq",
+    "summary": "ERBIL, Kurdistan Region - The United Arab Emirates on Tuesday stated that the attack targeting a key nuclear power plant in its capital Abu Dhabi on Sunday was carried out by three drones launched from Iraq. This comes as Baghdad on the same day deplored the drone assaults on the UAE, pledging cooperation to prevent regional escalation and emphasizing the importance of its ties with Abu Dhabi. The Emirati defense ministry said in a statement that investigations into the “blatant attack” on the Barakah Nuclear Power Plant on Sunday confirmed that “the three drones involved in the incident… had originated from Iraqi territory.” It added that two drones were intercepted, while “the third struck an electrical generator outside the plant’s inner perimeter.” The ministry also stated that over the past 48 hours, the UAE’s air defense systems “successfully detected and intercepted six hostile drones that attempted to target civilian and vital areas in the country.” Abu Dhabi reaffirmed that it “reserves the full right to take all necessary measures to protect its sovereignty and national security in accordance with international law,” while stressing the Emirati armed forces’ readiness to confront threats against the country and its key infrastructure. Earlier in the day, Iraqi government spokesperson Basim al-Awadi relayed Baghdad’s “strong condemnation” of the drone attacks that targeted the UAE, affirming “its full support for efforts to establish security and stability in the region.” Awadi added that Baghdad also asserts “its commitment to maintaining the distinguished fraternal relations and productive partnership” with Abu Dhabi, and to “continuing a constructive approach that serves Arab joint action and the supreme interests” of both countries. He further emphasized “the importance of effective regional and international cooperation to prevent any escalation or harm to the region’s stability, or any targeting of the security and sovereignty of sisterly and friendly",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:45:54.149677+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6875f93b31a9e2a",
+    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
+    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:45:43.636126+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42c14d0af256b488",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:43:26.353541+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3ddebb971cfc4fda",
+    "url": "https://www.rudaw.net/sorani/culture/literature/20052026",
+    "title": "ماجید نووری ئەوڕەحمانی نفووس دەگەڕێنێتەوە بۆ کەرکووک",
+    "title_en": "ماجید نووری ئەوڕەحمانی نفووس دەگەڕێنێتەوە بۆ کەرکووک",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نووسەر و رۆشنبیرێكی کورد هەڤپەیڤینێکی لەگەڵ یەکەمین خۆشنووسی شاری هەولێر کردووە و دەڵێت: \"یەکەم ژمارەی رۆژنامەی هاوکاری بە قەڵەم قامیش نووسیوە.\" خۆشنووسەکەش دەڵێت: \"بە رێکەوت کەوتمە نێو بوارەکە.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:43:15.542119+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44a29e970b40d62b",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520262",
+    "title": "جێگری پارێزگاری حەسەکە بۆ رووداو: پێنجشەممە زیاتر لە 1500 خێزانی ئاوارەی عەفرین دەگەڕێنەوە",
+    "title_en": "جێگری پارێزگاری حەسەکە بۆ رووداو: پێنجشەممە زیاتر لە 1500 خێزانی ئاوارەی عەفرین دەگەڕێنەوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بۆ یەکەمین جار لە قەزای سێمێلی پارێزگای دهۆک، فێستیڤاڵێکی تایبەت بە بەرهەمەکانی شیرەمەنی سازدەکرێ. قایمقامی قەزاکە دەڵێ، فێستیڤاڵەکە سێ رۆژ بەردەوام دەبێت و بەرهەمی نێوخۆیی و باکووری کوردستانیشی تێدا نمایش دەکرێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:43:03.544468+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "866e5ee886a3ed4d",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:42:52.619283+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e83a2f2b36c1e7a",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
+    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
+    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تولای هاتیمئۆغوڵڵاری، هاوسەرۆکی پارتی یەکسانی و دیموکراسیی گەلان (دەم پارتی) رۆژی سێشەممە 19-05-2026 لە پارێزگای سەمسووری باکووری کوردستان لەگەڵ موختارەکان کۆبووەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:42:36.787966+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec9c1b9336e27a24",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
+    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ تولای هاتیمئۆغوڵڵاری، هاوسەرۆکی پارتی یەکسانی و دیموکراسیی گەلان (دەم پارتی) رۆژی سێشەممە 19-05-2026 لە پارێزگای سەمسووری باکووری کوردستان لەگەڵ موختارەکان کۆبووەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:42:08.294383+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bfac4decedb80e41",
+    "url": "https://www.rudaw.net/sorani/world/190520264",
+    "title": "پووتین بۆ نیشاندانی 'پەیوەندیی پتەو' گەیشتە چین",
+    "title_en": "پووتین بۆ نیشاندانی 'پەیوەندیی پتەو' گەیشتە چین",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەردانە فەرمییەکەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان بۆ رۆما و کۆبوونەوەی لەگەڵ سێرجیۆ ماتارێلا، سەرۆککۆماری ئیتاڵیا، بووەتە جێی بایەخی میدیا و ئاژانسە فەرمییەکانی ئەو وڵاتە و بە گرنگییەوە تیشک دەخەنە سەر پێگەی هەرێمی کوردستان لە ناوچەکەدا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:41:51.686451+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "81ca6ab3b683aab4",
+    "url": "https://www.rudaw.net/sorani/health/19052026",
+    "title": "سەتان تووشبووی گوماناوی بە ''ڤایرۆسی مەترسیداری ئیبۆلا'' لە کۆنگۆ تۆمار کران",
+    "title_en": "سەتان تووشبووی گوماناوی بە ''ڤایرۆسی مەترسیداری ئیبۆلا'' لە کۆنگۆ تۆمار کران",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی تەندروستیی عێراق رایگەیاند، بەهۆی شەپۆلی خۆڵبارینەوە 226 حاڵەتی خنکان و تەنگەنەفەسییان لە چەندین پارێزگا تۆمارکردووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-20T08:41:39.863818+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "013cad761c0f8261",
     "url": "https://www.rudaw.net/english/middleeast/iran/19052026",
     "title": "Iran denies medical care to sole Kurdish female prisoner serving life: Watchog",
     "title_en": "Iran denies medical care to sole Kurdish female prisoner serving life: Watchog",
     "summary": "ERBIL, Kurdistan Region - Iranian authorities are continuing to withhold the transfer of Zeynab Jalalian, the only female political prisoner in Iran serving a life sentence, to receive medical care outside prison, citing wartime restrictions on hospital transfers, according to a prominent human rights monitor reported on Tuesday. “Jalalian’s bleeding and abdominal pain have continued at an alarming rate” in recent months, and “she has also developed severe anemia,” the France-based Kurdistan Human Rights Network (KHRN) said, citing a well-informed source. The Kurdish prisoner had undergone surgery in September 2005 after being diagnosed with a growing noncancerous uterine mass, KHRN detailed, adding that she was forced to return to prison just 24 hours after the procedure, before completing her treatment. “Doctors at the prison infirmary have stated that some of her uterine fibroids have likely regrown, and they have called for her immediate transfer to medical centers outside the prison so her condition can be assessed through ultrasound and MRI scans,” the monitor warned. Since the outbreak of the Iran war in late February, authorities in Tehran have suspended the transfer of detainees to outside medical facilities. As a result, repeated requests from Jalalian and other ill prisoners have been rejected, KHRN said. Jalalian has been in Iranian prisons since 2008 on charges of moharebeh, enmity against God - a crime under Iran’s penal code that can carry penalties including the death sentence, stemming from her alleged links to the Kurdish dissident group the Party of Free Life of Kurdistan (PJAK), which Tehran blacklists. After denying the charges brought against her, Jalalian’s death sentence was commuted to life imprisonment. The United States Commission on International Religious Freedom (USCIRF) in 2022 said that Jalalian is imprisoned on “religiously oriented charges” and has linked the reasons for her “persecution” to women’s rights. The Commission added that",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -198,24 +378,6 @@
     }
   },
   {
-    "id": "3ddebb971cfc4fda",
-    "url": "https://www.rudaw.net/sorani/culture/literature/20052026",
-    "title": "ماجید نووری ئەوڕەحمانی نفووس دەگەڕێنێتەوە بۆ کەرکووک",
-    "title_en": "ماجید نووری ئەوڕەحمانی نفووس دەگەڕێنێتەوە بۆ کەرکووک",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نووسەر و رۆشنبیرێكی کورد هەڤپەیڤینێکی لەگەڵ یەکەمین خۆشنووسی شاری هەولێر کردووە و دەڵێت: \"یەکەم ژمارەی رۆژنامەی هاوکاری بە قەڵەم قامیش نووسیوە.\" خۆشنووسەکەش دەڵێت: \"بە رێکەوت کەوتمە نێو بوارەکە.\"",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T08:13:13.963241+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
@@ -396,24 +558,6 @@
     }
   },
   {
-    "id": "81ca6ab3b683aab4",
-    "url": "https://www.rudaw.net/sorani/health/19052026",
-    "title": "سەتان تووشبووی گوماناوی بە ''ڤایرۆسی مەترسیداری ئیبۆلا'' لە کۆنگۆ تۆمار کران",
-    "title_en": "سەتان تووشبووی گوماناوی بە ''ڤایرۆسی مەترسیداری ئیبۆلا'' لە کۆنگۆ تۆمار کران",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی تەندروستیی عێراق رایگەیاند، بەهۆی شەپۆلی خۆڵبارینەوە 226 حاڵەتی خنکان و تەنگەنەفەسییان لە چەندین پارێزگا تۆمارکردووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T07:45:10.308731+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "055684ec520a0382",
     "url": "https://www.rudaw.net/sorani/business/200520261",
     "title": "گەشبینی بە کۆتاییهێنان بە جەنگ، نرخی نەوتی دابەزاند",
@@ -438,7 +582,7 @@
     "title_en": "Ba’ath-era atrocities against Kurds in focus as ex-warden faces trial in Baghdad",
     "summary": "ERBIL, Kurdistan Region - Ajaj Ahmed Hardan, the brutal executioner at the notorious Nugra Salman prison in southern Iraq, is set to stand trial at a criminal court in Baghdad on Thursday after spending decades in hiding. The ex-warden had subjected Kurdish prisoners to systematic extermination during the genocidal Anfal campaign carried out by the ousted Ba’ath regime in the late 1980s. Ayad Kakayi, a prominent legal expert and prosecuting attorney representing victims and survivors in the case, told Rudaw the high-profile trial “is scheduled for Thursday morning at 8:30 am [local time] at the Rusafa Criminal Court in Baghdad.” Rudaw has learned that the Iraqi judiciary has issued 221 invitations to victims’ families from the Kurdistan Region’s Duhok, Erbil and Sulaimani provinces, as well as Iraq’s eastern Diyala province - home to a significant Kurdish population - to attend the trial and testify against the former warden. The moment Hajaj Ahmed Hardan al-Tikriti — accused of torturing and executing Kurds at the remote Nugra Salman prison in southern Iraq during the genocidal Anfal campaign under Saddam Hussein’s regime — was brought before the Rusafa Court in Baghdad. 📹: Halkawt Aziz/ Rudaw pic.twitter.com/pdiygcXbqV   Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-english",
-    "category": "weather",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -497,24 +641,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T07:16:13.292032+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "ec9c1b9336e27a24",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202634",
-    "title": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "title_en": "وەزارەتی خوێندنی باڵا داوای ئۆفەری تایبەتی ئینتەرنێت بۆ خوێندنی ئۆنلاین دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمینداری گشتیی وەزارەتی پێشمەرگە دەڵێ، بەپێی یاداشتێکی لێکتێگەیشتن لەگەڵ ئەمریکا، دەبێت تاوەکو مانگی ئەیلوولی ئەم ساڵ تەواوی هێزەکان یەکبخرێن. ئاماژە بەوەش دەکات، تاوەکو ئێستا رێکارەکانی یەکەی 70 تەواو نەبوون",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T07:15:45.359145+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -582,7 +708,7 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
-    "category": "weather",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -677,24 +803,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T06:45:38.516116+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "4e83a2f2b36c1e7a",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1301202417",
-    "title": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
-    "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەمینداری گشتیی وەزارەتی پێشمەرگە دەڵێ، بەپێی یاداشتێکی لێکتێگەیشتن لەگەڵ ئەمریکا، دەبێت تاوەکو مانگی ئەیلوولی ئەم ساڵ تەواوی هێزەکان یەکبخرێن. ئاماژە بەوەش دەکات، تاوەکو ئێستا رێکارەکانی یەکەی 70 تەواو نەبوون",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T06:45:21.850628+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -810,24 +918,6 @@
     }
   },
   {
-    "id": "bfac4decedb80e41",
-    "url": "https://www.rudaw.net/sorani/world/190520264",
-    "title": "پووتین بۆ نیشاندانی 'پەیوەندیی پتەو' گەیشتە چین",
-    "title_en": "پووتین بۆ نیشاندانی 'پەیوەندیی پتەو' گەیشتە چین",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ جەی دی ڤانس، جێگری سەرۆکی ئەمریکا دەڵێ، ئێران دەبێتە \"یەکەم دۆمینە\" لە پێشبڕکێی وڵاتان بۆ بەدەستهێنانی چەکی ئەتۆمی. ڤانس تیۆریی (دۆمینە)ی سەردەمی جەنگی ساردی بەکارهێنا بۆ پاساودان بە جەنگی دژی ئێران و رایگەیاند، شکستهێنان لە راگرتنی خواستە ئەتۆمییەکانی ئەو وڵاتە، دەبێتە هۆی ئەوەی وڵاتانی دیکەش بەدوای چەکی ئەتۆمییەوە بن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T06:14:14.746346+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2acce73606ddd885",
     "url": "https://www.rudaw.net/english/kurdistan/190520262",
     "title": "Expat students learning the Kurdish language in Sulaimani",
@@ -875,24 +965,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T05:45:34.785091+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "866e5ee886a3ed4d",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T05:45:13.273413+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1385,24 +1457,6 @@
     }
   },
   {
-    "id": "0f54e77920d1ef54",
-    "url": "https://www.rudaw.net/english/middleeast/19052026",
-    "title": "UAE says drone attack on Abu Dhabi nuclear plant launched from Iraq",
-    "title_en": "UAE says drone attack on Abu Dhabi nuclear plant launched from Iraq",
-    "summary": "ERBIL, Kurdistan Region - The United Arab Emirates on Tuesday stated that the attack targeting a key nuclear power plant in its capital Abu Dhabi on Sunday was carried out by three drones launched from Iraq. This comes as Baghdad on the same day deplored the drone assaults on the UAE, pledging cooperation to prevent regional escalation and emphasizing the importance of its ties with Abu Dhabi. The Emirati defense ministry said in a statement that investigations into the “blatant attack” on the Barakah Nuclear Power Plant on Sunday confirmed that “the three drones involved in the incident… had originated from Iraqi territory.” It added that two drones were intercepted, while “the third struck an electrical generator outside the plant’s inner perimeter.” The ministry also stated that over the past 48 hours, the UAE’s air defense systems “successfully detected and intercepted six hostile drones that attempted to target civilian and vital areas in the country.” Abu Dhabi reaffirmed that it “reserves the full right to take all necessary measures to protect its sovereignty and national security in accordance with international law,” while stressing the Emirati armed forces’ readiness to confront threats against the country and its key infrastructure. Earlier in the day, Iraqi government spokesperson Basim al-Awadi relayed Baghdad’s “strong condemnation” of the drone attacks that targeted the UAE, affirming “its full support for efforts to establish security and stability in the region.” Awadi added that Baghdad also asserts “its commitment to maintaining the distinguished fraternal relations and productive partnership” with Abu Dhabi, and to “continuing a constructive approach that serves Arab joint action and the supreme interests” of both countries. He further emphasized “the importance of effective regional and international cooperation to prevent any escalation or harm to the region’s stability, or any targeting of the security and sovereignty of sisterly and friendly",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T02:15:29.308428+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "f9fcd016c9195868",
     "url": "https://www.rudaw.net/sorani/kurdistan/1905202614",
     "title": "ئەنتۆنیۆ تایانی بۆ نێچیرڤان بارزانی: بە بایەخەوە لە رۆڵی هەرێمی کوردستان دەڕوانین وەکو فاکتەری ئارامی",
@@ -1493,24 +1547,6 @@
     }
   },
   {
-    "id": "42c14d0af256b488",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T23:42:35.104261+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "1425eaf22744a852",
     "url": "https://www.rudaw.net/sorani/business/190520267",
     "title": "پارێزگاری بانکی ناوەندیی عێراق: دەستکاری نرخی دۆلار و دینار ناکرێ و مووچە دابین کراوە",
@@ -1576,24 +1612,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-19T20:43:19.162012+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "c6875f93b31a9e2a",
-    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
-    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-19T20:17:43.242133+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -15925,6 +15943,42 @@
     "title": "جێگری سەرۆککۆماری ئێران: ئامادەین بۆ دانوستاندن، بەڵام سەر دانانەوێنین",
     "title_en": "جێگری سەرۆککۆماری ئێران: ئامادەین بۆ دانوستاندن، بەڵام سەر دانانەوێنین",
     "summary": "سینا سۆما به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران محەممەدجەعفەر قائیمپەنا، جێگری سەرۆککۆماری ئێران بۆ کاروباری جێبەجێکردن زۆرتر لە ئێران عێراقچی: دڵنیابن گەڕانەوە بۆ جەنگ سوپرایزی زۆری دەبێت بۆرسەی تاران دوای 80 رۆژ جەنگ کرایەوە رێبەری کۆماری ئیسلامیی ئێران بۆ هاووڵاتییان: بایەخ بە وەچەخستنەوە بدەن هێڵی شەمەندەفەری سنە - تاران - مەشهەد بە شێوەی ئەزم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c6b61c6cbfb035d",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/200520261",
+    "title": "Babil governor submits resignation after confrontation with armed group",
+    "title_en": "Babil governor submits resignation after confrontation with armed group",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Babil Governor Ali Turki al-Jamali (left) and armed men he confronted while implementing a project. Also in Iraq Iraq bans plastic bags in bakeries under new environmental measures Baghdad denies plan to replace Kurdistan border crossing with Syria route Iraq records over 800 suffocation cases ami",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ca3f2fbe1e0d972",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520263",
+    "title": "سەرۆک بارزانی لە 64 ساڵەی بوونی بە پێشمەرگە: پێشمەرگە باڵاترین شانازییە",
+    "title_en": "سەرۆک بارزانی لە 64 ساڵەی بوونی بە پێشمەرگە: پێشمەرگە باڵاترین شانازییە",
+    "summary": "سیروان عەباس به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان سەرۆک بارزانی لە دوو کاتی جیاوازدا زۆرتر لە کوردستان جێگری پارێزگاری حەسەکە بۆ رووداو: پێنجشەممە زیاتر لە 1500 خێزانی ئاوارەی عەفرین دەگەڕێنەوە گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو بوومەلەرزەیەک بە گوڕی 5.6 پلە پارێزگای مەڵەتیی باکووری کوردستانی هەژاند دەم پا",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
