@@ -1,5 +1,59 @@
 [
   {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:47:55.672088+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b099a6845e9a270",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
+    "title": "BP resumes operations in Kirkuk after war-related suspension",
+    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
+    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:47:44.286489+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "43b1ff3bd9ed8e2c",
+    "url": "https://www.rudaw.net/english/middleeast/21052026",
+    "title": "UAE official slams Iranian bid to assert control over Emirati waters",
+    "title_en": "UAE official slams Iranian bid to assert control over Emirati waters",
+    "summary": "ERBIL, Kurdistan Region - A senior advisor to the Emirati president on Thursday criticized what he described as Iranian attempts to “encroach upon the maritime sovereignty” of the United Arab Emirates as “pipe dreams.” The remarks came a day after a newly established Iranian regulatory body, set up to assert control over the Strait of Hormuz, outlined its jurisdiction for managing the waterway, claiming an area that includes Emirati waters. Anwar Gargash, Diplomatic Advisor to the Emirati President, said that “attempts to control the Strait of Hormuz or to encroach upon the maritime sovereignty of the United Arab Emirates are nothing but pipe dreams,” describing them as an effort to “entrench a new reality born out of a clear military defeat.” In a post on X, he added, “We have become accustomed to Iranian intimidation over many decades as it has become part of the political landscape in the Arabian Gulf,” noting that after “the brutal Iranian aggression,” credibility “has been lost between aggressive rhetoric and hollow statements of friendship.” Gargash further stressed that “anyone who seeks to coexist with their Arab environment must understand that trust has been lost, and restoring it cannot be achieved through slogans, but through responsible language, safeguarding sovereignty, and genuine commitment to the principles of good neighborliness.” The sharp Emirati remarks come a day after Iran’s Persian Gulf Strait Authority (PGSA) on Wednesday published a map on X outlining what it described as its “regulatory jurisdiction for the management” of the Strait of Hormuz, including waters extending south toward the UAE’s eastern Emirate of Fujairah. According to the Iranian body, the claimed jurisdiction stretches from the strategic town of Kuh-e Mubarak in Iran’s southern Hormozgan province on the coast of the Gulf of Oman to the waters south of Fujairah in the UAE, and to a line connecting the tip of Qeshm Island in Hormozgan with the UAE’s northern Emirate of Umm ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:47:31.217172+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "68c45463808bc4f7",
     "url": "https://www.rudaw.net/english/kurdistan/06052026",
     "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
@@ -10,25 +64,7 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T20:18:10.212935+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "4387ea1a153c6827",
-    "url": "https://www.rudaw.net/english/middleeast/syria/21052026",
-    "title": "Syria moves to advance electoral process in Rojava",
-    "title_en": "Syria moves to advance electoral process in Rojava",
-    "summary": "ERBIL, Kurdistan Region - Syria’s electoral authority on Wednesday named ten individuals from the Kurdish city of Qamishli in northeast Syria (Rojava) to the country’s electoral college and moved to form legal committees in the enclave’s electoral districts. The move aims to address the delayed legislative elections in the Kurdish-administered areas, which have been pending since October. The Higher Committee for Syria’s People’s Council Elections said in a statement that it added “ten individuals to the final lists of electoral college members for Qamishli” and announced a push to “form legal oversight committees in the [Kurdish-majority] electoral districts of Hasaka city, Malkiyah, and Qamishli in Hasaka province, and the Ain al-Arab [Kobane] electoral district.” The interim Syrian government held legislative elections in October, excluding Rojava due to rising tensions at the time with the Democratic Autonomous Administration of North and East Syria (DAANES), which governs the enclave, and the Kurdish-led Syrian Democratic Forces (SDF), which serves as Rojava’s de facto military force. After weeks of fierce clashes that erupted in late December, Damascus and the SDF signed a landmark agreement on January 29 to integrate all of Rojava’s civilian and military institutions under Syrian state control. The agreement has also helped move efforts forward on Kurdish representation in the country’s 210-member legislature, 70 of whose lawmakers are appointed by the interim president. Damascus had introduced an indirect electoral system in which committees appoint subcommittees that then select an electoral college made up of experts and community leaders. Local sub-district committees selected a 6,000-member electoral college, which in October elections chose 121 of the 140 members of the assembly from around 1,500 candidates. These candidates were nominated through the committees and approved by the electoral authority. The remaining 19 seats were allocated to Hasaka and",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T20:17:58.722695+00:00",
+    "timestamp": "2026-05-21T20:47:15.489464+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -46,7 +82,169 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T20:17:48.819744+00:00",
+    "timestamp": "2026-05-21T20:47:03.929099+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4387ea1a153c6827",
+    "url": "https://www.rudaw.net/english/middleeast/syria/21052026",
+    "title": "Syria moves to advance electoral process in Rojava",
+    "title_en": "Syria moves to advance electoral process in Rojava",
+    "summary": "ERBIL, Kurdistan Region - Syria’s electoral authority on Wednesday named ten individuals from the Kurdish city of Qamishli in northeast Syria (Rojava) to the country’s electoral college and moved to form legal committees in the enclave’s electoral districts. The move aims to address the delayed legislative elections in the Kurdish-administered areas, which have been pending since October. The Higher Committee for Syria’s People’s Council Elections said in a statement that it added “ten individuals to the final lists of electoral college members for Qamishli” and announced a push to “form legal oversight committees in the [Kurdish-majority] electoral districts of Hasaka city, Malkiyah, and Qamishli in Hasaka province, and the Ain al-Arab [Kobane] electoral district.” The interim Syrian government held legislative elections in October, excluding Rojava due to rising tensions at the time with the Democratic Autonomous Administration of North and East Syria (DAANES), which governs the enclave, and the Kurdish-led Syrian Democratic Forces (SDF), which serves as Rojava’s de facto military force. After weeks of fierce clashes that erupted in late December, Damascus and the SDF signed a landmark agreement on January 29 to integrate all of Rojava’s civilian and military institutions under Syrian state control. The agreement has also helped move efforts forward on Kurdish representation in the country’s 210-member legislature, 70 of whose lawmakers are appointed by the interim president. Damascus had introduced an indirect electoral system in which committees appoint subcommittees that then select an electoral college made up of experts and community leaders. Local sub-district committees selected a 6,000-member electoral college, which in October elections chose 121 of the 140 members of the assembly from around 1,500 candidates. These candidates were nominated through the committees and approved by the electoral authority. The remaining 19 seats were allocated to Hasaka and",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:46:39.831910+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb4acb26537616f",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:44:42.938277+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5752ec0050cf173b",
+    "url": "https://www.rudaw.net/sorani/world/2005202610",
+    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ حکومەتی ئیسپانیا داوا لە ئیسرائیل دەکات، بە فەرمی و ئاشکرا داوای لێبووردن بکات، ئەوەش بەهۆی بڵاوبوونەوەی ڤیدیۆیەک کە تێیدا وەزیری ئاسایشی نیشتمانیی ئیسرائیل گاڵتە و سووکایەتی بە چالاکڤانە دەستبەسەرکراوەکانی (کەشتیگەلی ئازادی) دەکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:44:26.696647+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84298ad461060f56",
+    "url": "https://www.rudaw.net/sorani/business/210520263",
+    "title": "وەزارەتی دارایی: هەینی و شەممە دەوام بکرێت رەنگە هەفتەی داهاتوو پارەی مووچە خەرج بکرێت",
+    "title_en": "وەزارەتی دارایی: هەینی و شەممە دەوام بکرێت رەنگە هەفتەی داهاتوو پارەی مووچە خەرج بکرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسێکی ژووری بازرگانیی بەغدا دەڵێ، کردنەوەی دەروازەی رەبیعە کاریگەری لەسەر هەرێمی کوردستان دەبێت. سەرۆکی ژووری بازرگانی و پیشەسازیی هەولێر ئاماژە بەوە دەکات، زۆربەی بازرگانان ئامادە نین رێگەی سووریا بەکاربێنن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:44:15.061969+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:44:04.892532+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8dc3bbc5995ff708",
+    "url": "https://www.rudaw.net/sorani/world/2105202611",
+    "title": "دادی ئەڵمانیا بۆ رووداو: دادگەکان دەتوانن کەلەپچەی ئەلیکترۆنی بەسەر ئەنجامدەرانی تووندوتیژیدا بسەپێنن",
+    "title_en": "دادی ئەڵمانیا بۆ رووداو: دادگەکان دەتوانن کەلەپچەی ئەلیکترۆنی بەسەر ئەنجامدەرانی تووندوتیژیدا بسەپێنن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کرێملین رایگەیاند، سەرەڕای هێرشەکانی ئۆکراینا بۆ سەر پاڵاوگەیەکی نەوتی وڵاتەکەیان، هیچ مەترسییەک نییە رووسیا تووشی قەیرانی سووتەمەنی ببێت.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:43:54.429401+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6f1d4057643a25f8",
+    "url": "https://www.rudaw.net/sorani/world/2105202610",
+    "title": "ترەمپ: یۆرانیۆمە پیتێندراوەکەی ئێران دەبەین و لەوانەیە لەنێوی ببەین",
+    "title_en": "ترەمپ: یۆرانیۆمە پیتێندراوەکەی ئێران دەبەین و لەوانەیە لەنێوی ببەین",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کرێملین رایگەیاند، سەرەڕای هێرشەکانی ئۆکراینا بۆ سەر پاڵاوگەیەکی نەوتی وڵاتەکەیان، هیچ مەترسییەک نییە رووسیا تووشی قەیرانی سووتەمەنی ببێت.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:43:43.286379+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42c14d0af256b488",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
+    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:43:33.725648+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cc10c828a7a7f9d",
+    "url": "https://www.rudaw.net/sorani/sports/010420266",
+    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T20:43:15.742767+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -198,42 +396,6 @@
     }
   },
   {
-    "id": "5752ec0050cf173b",
-    "url": "https://www.rudaw.net/sorani/world/2005202610",
-    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ حکومەتی ئیسپانیا داوا لە ئیسرائیل دەکات، بە فەرمی و ئاشکرا داوای لێبووردن بکات، ئەوەش بەهۆی بڵاوبوونەوەی ڤیدیۆیەک کە تێیدا وەزیری ئاسایشی نیشتمانیی ئیسرائیل گاڵتە و سووکایەتی بە چالاکڤانە دەستبەسەرکراوەکانی (کەشتیگەلی ئازادی) دەکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T20:14:07.915032+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cbb4acb26537616f",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T20:13:57.549544+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
@@ -306,24 +468,6 @@
     }
   },
   {
-    "id": "43b1ff3bd9ed8e2c",
-    "url": "https://www.rudaw.net/english/middleeast/21052026",
-    "title": "UAE official slams Iranian bid to assert control over Emirati waters",
-    "title_en": "UAE official slams Iranian bid to assert control over Emirati waters",
-    "summary": "ERBIL, Kurdistan Region - A senior advisor to the Emirati president on Thursday criticized what he described as Iranian attempts to “encroach upon the maritime sovereignty” of the United Arab Emirates as “pipe dreams.” The remarks came a day after a newly established Iranian regulatory body, set up to assert control over the Strait of Hormuz, outlined its jurisdiction for managing the waterway, claiming an area that includes Emirati waters. Anwar Gargash, Diplomatic Advisor to the Emirati President, said that “attempts to control the Strait of Hormuz or to encroach upon the maritime sovereignty of the United Arab Emirates are nothing but pipe dreams,” describing them as an effort to “entrench a new reality born out of a clear military defeat.” In a post on X, he added, “We have become accustomed to Iranian intimidation over many decades as it has become part of the political landscape in the Arabian Gulf,” noting that after “the brutal Iranian aggression,” credibility “has been lost between aggressive rhetoric and hollow statements of friendship.” Gargash further stressed that “anyone who seeks to coexist with their Arab environment must understand that trust has been lost, and restoring it cannot be achieved through slogans, but through responsible language, safeguarding sovereignty, and genuine commitment to the principles of good neighborliness.” The sharp Emirati remarks come a day after Iran’s Persian Gulf Strait Authority (PGSA) on Wednesday published a map on X outlining what it described as its “regulatory jurisdiction for the management” of the Strait of Hormuz, including waters extending south toward the UAE’s eastern Emirate of Fujairah. According to the Iranian body, the claimed jurisdiction stretches from the strategic town of Kuh-e Mubarak in Iran’s southern Hormozgan province on the coast of the Gulf of Oman to the waters south of Fujairah in the UAE, and to a line connecting the tip of Qeshm Island in Hormozgan with the UAE’s northern Emirate of Umm ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T19:48:42.631617+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "968eb9f349a10d32",
     "url": "https://www.rudaw.net/english/world/050520261",
     "title": "Trump remarks on arming Kurds reflect support for Iranians, not weapons transfer confirmation: Rubio",
@@ -353,24 +497,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T19:47:56.911305+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5b099a6845e9a270",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
-    "title": "BP resumes operations in Kirkuk after war-related suspension",
-    "title_en": "BP resumes operations in Kirkuk after war-related suspension",
-    "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T19:47:46.095814+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -497,24 +623,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T19:16:24.576603+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "42c14d0af256b488",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
-    "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "title_en": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T19:14:02.402859+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -666,24 +774,6 @@
     }
   },
   {
-    "id": "6f1d4057643a25f8",
-    "url": "https://www.rudaw.net/sorani/world/2105202610",
-    "title": "ترەمپ: یۆرانیۆمە پیتێندراوەکەی ئێران دەبەین و لەوانەیە لەنێوی ببەین",
-    "title_en": "ترەمپ: یۆرانیۆمە پیتێندراوەکەی ئێران دەبەین و لەوانەیە لەنێوی ببەین",
-    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هەڵبژاردەی نیشتمانیی تۆپی پێی ئێران، کە بەشداری لە یارییەکانی کۆتایی مۆندیالی 2026 دەکات، بۆ وەرگرتنی ڤیزای چوونە ناو خاکی ئەمریکا، سەردانی باڵیۆزخانەی ئەو وڵاتەی لە ئەنقەرە کرد. ئەم هەنگاوەی ئێرانییەکان دوای لێدوانەکەی دۆناڵد ترەمپ دێت کە رایگەیاندبوو چوونە ناوەوەی شاندی ئێران بۆ ئەمریکا گونجاو نییە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T18:47:56.106573+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5835fbacf74255eb",
     "url": "https://www.rudaw.net/english/middleeast/iran/210520262",
     "title": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
@@ -713,24 +803,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T18:16:08.297867+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T18:15:34.159744+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1188,24 +1260,6 @@
     }
   },
   {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T15:45:28.819301+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "4dc16613d1962810",
     "url": "https://www.rudaw.net/sorani/world/210520264",
     "title": "ئەمریکا لە رێگەی پاکستانەوە پێشنیازی نوێی بۆ ئێران ناردووە",
@@ -1368,24 +1422,6 @@
     }
   },
   {
-    "id": "0cc10c828a7a7f9d",
-    "url": "https://www.rudaw.net/sorani/sports/010420266",
-    "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "title_en": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T14:12:48.640733+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "30d747362f691041",
     "url": "https://www.rudaw.net/sorani/sports/210520269",
     "title": "کێشەیەکی نوێ لەبەردەم مۆندیالدا.. بەشداریی کۆنگۆ رووبەڕووی هەڕەشە بووەتەوە",
@@ -1469,24 +1505,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T13:14:00.020590+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "84298ad461060f56",
-    "url": "https://www.rudaw.net/sorani/business/210520263",
-    "title": "وەزارەتی دارایی: هەینی و شەممە دەوام بکرێت رەنگە هەفتەی داهاتوو پارەی مووچە خەرج بکرێت",
-    "title_en": "وەزارەتی دارایی: هەینی و شەممە دەوام بکرێت رەنگە هەفتەی داهاتوو پارەی مووچە خەرج بکرێت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسێکی ژووری بازرگانیی بەغدا دەڵێ، کردنەوەی دەروازەی رەبیعە کاریگەری لەسەر هەرێمی کوردستان دەبێت. سەرۆکی ژووری بازرگانی و پیشەسازیی هەولێر ئاماژە بەوە دەکات، زۆربەی بازرگانان ئامادە نین رێگەی سووریا بەکاربێنن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T13:13:12.604521+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -18661,7 +18679,7 @@
     "title_en": "زۆرترین رێژەی منداڵبوون لە رووها، شرنەخ و مێردینە",
     "summary": "هەوار ئیسماعیل به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە کوردستان 21 ئەفسەری یۆنانی بە هۆکاری خنکانی 700 کۆچبەر تۆمەتبار دەکرێن وەزارەتی شەهیدان: ناوی سەرجەم زیندانیانی سیاسیی رادەستی عێراق کراوە هاتووچۆ لە دەروازەی نێودەوڵەتیی زێت رادەگیرێت هەرێمی کوردستان پێشوازی لە گەشتیارانی جەژن دەکات؛ 70٪ی هوتێلەکانی",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -18822,6 +18840,24 @@
     "title": "باڵکۆنێک لە هەولێر دوو دراوسێی کردووەتە دووژمن",
     "title_en": "باڵکۆنێک لە هەولێر دوو دراوسێی کردووەتە دووژمن",
     "summary": "عەدنان رەشید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە سکاڵاکارەکە لە بەرنامەی بەرپرسیاری رووداو زۆرتر لە کوردستان ​لە خانەقین دەست بەسەر 85 کیلۆگرام کەپتاگۆندا گیرا وەزیری خوێندنی باڵا: لە سێ ساڵدا 4100 هەلی کار بۆ دەرچووان رەخسێنراوە وەزارەتی کشتوکاڵ: بەرهەمی گەنمی ئەمساڵ 2 ملیۆن تۆن تێدەپەڕێنێت و بەغدا نادادپەروەرە ئەندامێکی سەرکردایەتیی یەکێتی: بەم نزیک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b17296c7f3ebe3d",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/210520264",
+    "title": "کاردانەوەکانی بڕیاری دادگەی ئەنقەرە بۆ گەڕاندنەوەی کەمال کڵچدارئۆغڵو و لەکارلادانی ئۆزگور ئۆزەل",
+    "title_en": "کاردانەوەکانی بڕیاری دادگەی ئەنقەرە بۆ گەڕاندنەوەی کەمال کڵچدارئۆغڵو و لەکارلادانی ئۆزگور ئۆزەل",
+    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا دادگە بڕیاریدا کەمال کلچدارئۆغڵو لە شوێنی ئۆزگور ئۆزەل دەستبەکاربێت زۆرتر لە تورکیا دادگە بڕیاریدا؛ کۆنگرەی جەهەپە هەڵوەشێندرایەوە و ئۆزەل لە پۆستەکەی دوورخرایەوە لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران ئاکپارتی داوا دەکات ئەنجوومەنی راوێژکاری بۆ پرۆسەی چارەسەری پێکبهێنرێت لە هاتای",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
