@@ -1,5 +1,41 @@
 [
   {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T14:43:31.079637+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "22773c90de2ce0b9",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520264",
+    "title": "زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبای دەکات",
+    "title_en": "زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبای دەکات",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی پەروەردەی عێراق، ئەو دەنگۆیانەی رەتکردەوە باس لە رەزامەندیی وەزارەت بۆ بەشداریی گشتیی قوتابیانی قۆناخە کۆتاییەکان لە تاقیکردنەوە نیشتمانییەکاندا دەکەن.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T14:43:11.998428+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "0223b417b0e25aae",
     "url": "https://www.rudaw.net/english/middleeast/syria/200520262",
     "title": "Syria foils 25 million Captagon pill bust in largest anti-drug op to date",
@@ -108,24 +144,6 @@
     }
   },
   {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T14:13:53.513418+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "8891da08c3f508cf",
     "url": "https://www.rudaw.net/sorani/kurdistan/210520266",
     "title": "بەرپرسێکی ئاسایشی حەسەکە بۆ رووداو: دوای لابردنی مین، خەڵکی سەرێ کانیش دەگەڕێنەوە",
@@ -137,24 +155,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T14:13:36.492608+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "22773c90de2ce0b9",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520264",
-    "title": "زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبای دەکات",
-    "title_en": "زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبای دەکات",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی پەروەردەی عێراق، ئەو دەنگۆیانەی رەتکردەوە باس لە رەزامەندیی وەزارەت بۆ بەشداریی گشتیی قوتابیانی قۆناخە کۆتاییەکان لە تاقیکردنەوە نیشتمانییەکاندا دەکەن.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T14:13:26.343242+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -240,7 +240,7 @@
     "title_en": "وەزارەتی کشتوکاڵ: بەرهەمی گەنمی ئەمساڵ 2 ملیۆن تۆن تێدەپەڕێنێت و بەغدا نادادپەروەرە",
     "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دوای تێپەڕبوونی سێ ساڵ بەسەر یەکێک لە گەورەترین کارەساتەکانی نوقمبوونی کۆچبەران لە دەریای ناوەڕاستدا، لێکۆڵینەوەکان رێڕەوێکی نوێ وەردەگرن. دادگای ،تەمیزی یۆنان فەرمانی دەستگیرکردنی بۆ ژمارەیەک ئەفسەر و کارمەندی هێزی دەریاوانیی وڵاتەکەی دەرکرد، بە تۆمەتی تێوەگلان لە نوقمکردنی بەئەنقەستی ئەو کەشتییەی سەدان کۆچبەری هەڵگرتبوو.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "weather",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -18336,6 +18336,60 @@
     "title": "وەزیری خوێندنی باڵا: لە سێ ساڵدا 4100 هەلی کار بۆ دەرچووان رەخسێنراوە",
     "title_en": "وەزیری خوێندنی باڵا: لە سێ ساڵدا 4100 هەلی کار بۆ دەرچووان رەخسێنراوە",
     "summary": "سۆلین حەمەدەمین به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە کوردستان د. ئارام محەممەد قادر، وەزیری خوێندنی باڵا و توێژینەوەی زانستی و د. ئاری عادل، سەرۆکی زانکۆی پۆلیتەکنیکی دهۆک زۆرتر لە کوردستان وەزارەتی کشتوکاڵ: بەرهەمی گەنمی ئەمساڵ 2 ملیۆن تۆن تێدەپەڕێنێت و بەغدا نادادپەروەرە ئەندامێکی سەرکردایەتیی یەکێتی: بەم نزیکانە پارتی و یەکێتی کۆدەبنەوە گوتەبێژی کۆم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "79f715408b993e93",
+    "url": "https://www.rudaw.net/english/middleeast/iran/210520263",
+    "title": "EU parliament calls on members states to shut Iran’s diplomatic missions",
+    "title_en": "EU parliament calls on members states to shut Iran’s diplomatic missions",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iran Flags of European Union (left) and Iran (right). Graphic: Rudaw Also in Iran Pakistan steps up mediation efforts as US-Iran talks face narrowing window Kurdistan Region hit by 855 drone, missile attacks since outbreak of Iran war: Rudaw Iran executes four, including two Iraqis, according to pro-st",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39c1d270c273300f",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/210520261",
+    "title": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
+    "title_en": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە ئێران جەنەراڵێک لەنێو دڵی بڕیار و دانوستاندنی ئێراندا؛ ئەحمەد وەحیدی کێیە و چ رۆڵێکی هەیە ؟ وەزارەتی دەرەوەی ئێران: بۆچی یۆرانیۆمی خۆمان رەوانەی وڵاتێکی دیکە بکەین؟ ئێران رێگە بە کۆڵبەران دەدات ماددەی خاوی پێترۆکیمیایی هاوردە بکەن قالیباف: دووژمن بەدوای دەستپێکردنی خو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7a5ae646bc24456",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520265",
+    "title": "عەلی فالح زەیدی سامانەکەی ئاشکرا کرد و وەزیرەکانیشی ئاگادار کردەوە",
+    "title_en": "عەلی فالح زەیدی سامانەکەی ئاشکرا کرد و وەزیرەکانیشی ئاگادار کردەوە",
+    "summary": "گەشاو خالید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق زۆرتر لە عێراق زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبای دەکات موقتەدا سەدر لەو کەسانە خۆش دەبێت کە سوکایەتییان پێکردووە هەناردەی چای سریلانکا بۆ عێراق 38% کەمی کردووە بازرگانیی عێراق بۆ رووداو: یەک ملیۆن و 380 هەزار تۆن گەنم وەرگیراون A+ A- رووداو دیجیتاڵ",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
