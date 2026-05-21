@@ -1,5 +1,95 @@
 [
   {
+    "id": "5752ec0050cf173b",
+    "url": "https://www.rudaw.net/sorani/world/2005202610",
+    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ گوتەبێژی وەزارەتی دەرەوەی رووسیا بە رووداوی راگەیاند، ناکرێت مافی پیتاندنی یۆرانیۆمی ئێران لەلایەن وڵاتێکی دیکەوە رێگری لێبکرێت و ئەو پرسە پێویستە لەلایەن گەلی ئێرانەوە یەکلاییبکرێتەوە. سەبارەت بە عێراقیش دەڵێت، پیرۆزبایی لە حکومەتی نوێ دەکەن و ئەمساڵیش کۆبوونەوەیەک بۆ هاوئاهەنگی لە چەند بوارێکدا دەکەن، لەوانە ئابووری. ئاماژەی بەوەش کرد، پێویستە مافەکانی کەمینەکان لە سووریا، لەوانە کورد پارێزراوبێت و دۆخی وڵاتەکە ئاسایی ببێتەوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T16:14:34.260293+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7a23c138cd3772fd",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/210520262",
+    "title": "لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران",
+    "title_en": "لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پارێزگاری مەڵەتی ئاماری زیانەکانی بوومەلەرزەکەی ئەمڕۆی پارێزگاکەی بڵاوکردەوە و رایگەیاند، هیچ زیانێکی گیانی نەبووە، بەڵام 15 کەس بە سووکی بریندار بوون و خوێندنیش بۆ ماوەی رۆژێک راگیرا.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T16:14:23.680306+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39c1d270c273300f",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/210520261",
+    "title": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
+    "title_en": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی پەرلەمانی ئێران رایدەگەیێنێت، ئەمریکا هێشتا هیوای بەوە ماوە لە رێگەی گوشاری ئابووری و سەربازییەوە تاران ناچار بە خۆبەدەستەوەدان بکات، بەڵام دەڵێت، هێزە چەکدارەکانیان لەوپەڕی ئامادەییدان بۆ وەڵامدانەوەی هەر هێرشێک.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T16:13:57.249311+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5872dd28c722c1b7",
+    "url": "https://www.rudaw.net/sorani/business/150620234",
+    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T16:13:47.927619+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1795769734562cef",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T16:13:29.850803+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "bbf8b9753cdb8518",
     "url": "https://www.rudaw.net/english/middleeast/iraq/21052026",
     "title": "Iraq’s ruling alliances moves to finalize cabinet after Eid, rejects attack on Gulf states",
@@ -60,7 +150,7 @@
     "title_en": "Kurdistan Region braces for Eid al-Adha tourism surge",
     "summary": "ERBIL, Kurdistan Region - The Kurdistan Region is preparing for a surge of holidaymakers during the Islamic Eid al-Adha, with tourism officials reporting rising hotel reservations and expectations of higher visitor numbers compared to Eid al-Fitr, following the end of regional conflict and the start of school holidays. Authorities across the Kurdistan Region say tourists from central and southern Iraq have already begun reserving hotels and tourist accommodations ahead of the holiday, with Duhok reporting that around 70 percent of its hotels are already booked. “There is still one week left until Eid al-Adha, but tourist groups have already begun booking hotels,” Mahmoud Tawfiq, head of the Sulaimani branch of the Kurdistan Association of Hotels and Restaurants, told Rudaw on Thursday. The anticipated tourism boom comes as Iraq seeks to raise its international tourism profile. Last week, Baghdad’s Tourism Authority announced that seven rural tourist villages from across Iraq - including three in the Kurdistan Region - will compete for the United Nations’ Best Tourism Villages title. The nominated Kurdish villages include Biyara in Halabja province, Hiror in Duhok province, and Rawanduz in Erbil province. Sulaimani currently hosts around 380 tourist hotels, 50 budget hotels, eight five-star hotels, as well as hundreds of tourist cabins and huts. Tawfiq said officials expect a much larger influx of visitors than during Eid al-Fitr, when tourism numbers declined due to the US-Israel war with Iran that began in February, days after the start of Ramadan. “Compared to Eid al-Fitr, we expect many more tourists because the war has ended, schools are on break, and it is the spring season, making it the most ideal time for visitors to arrive,” he added. In Erbil province, tourism officials also forecast a strong holiday season. Shukr Aziz, deputy head of the Erbil branch of the association, told Rudaw that authorities are preparing to accommodate larger crowds. “We anticipate",
     "source": "rudaw-english",
-    "category": "general",
+    "category": "infrastructure",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -78,7 +168,7 @@
     "title_en": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
     "summary": "ERBIL, Kurdistan Region - Pakistan’s chief of army staff and shuttle diplomat is set to visit the Iranian capital on Thursday, a day after Tehran confirmed it is reviewing a new response received from Washington via Islamabad. The visit comes amid sharp public exchanges between American and Iranian officials, as the window for reaching a deal appears to be narrowing. “Field Marshal Asim Munir, Commander of the Pakistani Army, is travelling to Tehran today to continue talks and consultations with Iranian officials, acting as a mediator between Tehran and Washington,” the state-affiliated Iranian Students' News Agency (ISNA) reported, without providing further details. The visit comes a day after Iranian foreign ministry Spokesperson Esmaeil Baqaei confirmed on Wednesday that “the exchange of messages continues between Iran and the US through the Pakistani mediator, and based on the same initial 14-point Iranian text, the exchange of messages has taken place over several rounds.” “We received the views of the American side, and they are under review,” the senior diplomat said in an interview with Iranian state broadcaster. He further emphasized that the current focus is on ending the war on all fronts, including Lebanon, while also calling for the unfreezing of Iranian assets and an end to US actions against Iranian shipping. The trip by the Pakistani army chief comes days after Islamabad’s Interior Minister Mohsin Naqvi made back-to-back diplomatic visits to Tehran within the past week, beginning a two-day trip on Saturday during which he met Iranian President Masoud Pezeshkian and other senior officials. Naqvi returned to Tehran on Wednesday for another round of rapid meetings amid a fast-moving back-channel effort to keep the US-Iran talks from collapsing. The intensified efforts by the Pakistani mediator comes amid high-toned public messaging by American and Iranian officials. US Vice President JD Vance reiterated on Tuesday that “Iran cannot have a nuclear weapon",
     "source": "rudaw-english",
-    "category": "traffic",
+    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -209,24 +299,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T15:44:37.120450+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5752ec0050cf173b",
-    "url": "https://www.rudaw.net/sorani/world/2005202610",
-    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ پرسی ئێران هێشتا یەکێکە لە پرسە هەرە گەرمەکانی کۆنگرێسی ئەمریکا. تەنانەت لە کاتی کۆبوونەوەکان دا لەبارەی بودجەی پێنتاگۆن یان هەر پرسێکی دیکەی سەربازی، بەشێکی زۆری پرسیاری ئەندامانی کۆنگرێس لە بەرپرسانی ئیدارەکەی دۆناڵد ترەمپ، پەیوەستن بە ئێرانەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T15:44:25.550618+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -587,24 +659,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T14:13:36.492608+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1795769734562cef",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T14:13:07.833826+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1307,24 +1361,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T10:12:04.972111+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5872dd28c722c1b7",
-    "url": "https://www.rudaw.net/sorani/business/150620234",
-    "title": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "title_en": "ئەو پڕۆژە نیشتەجێبوونەی لە هەولێر بێ پێشەکی دەفرۆشرێت",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T09:43:55.830157+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -18403,24 +18439,6 @@
     }
   },
   {
-    "id": "39c1d270c273300f",
-    "url": "https://www.rudaw.net/sorani/middleeast/iran/210520261",
-    "title": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
-    "title_en": "پەرلەمانتارێکی ئێران: هیچ بڕیارێک بۆ لابردنی سنووردارییەکانی ئینتەرنێت نییە",
-    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئێران وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە ئێران جەنەراڵێک لەنێو دڵی بڕیار و دانوستاندنی ئێراندا؛ ئەحمەد وەحیدی کێیە و چ رۆڵێکی هەیە ؟ وەزارەتی دەرەوەی ئێران: بۆچی یۆرانیۆمی خۆمان رەوانەی وڵاتێکی دیکە بکەین؟ ئێران رێگە بە کۆڵبەران دەدات ماددەی خاوی پێترۆکیمیایی هاوردە بکەن قالیباف: دووژمن بەدوای دەستپێکردنی خو",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "d7a5ae646bc24456",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520265",
     "title": "عەلی فالح زەیدی سامانەکەی ئاشکرا کرد و وەزیرەکانیشی ئاگادار کردەوە",
@@ -18457,24 +18475,6 @@
     }
   },
   {
-    "id": "7a23c138cd3772fd",
-    "url": "https://www.rudaw.net/sorani/middleeast/turkey/210520262",
-    "title": "لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران",
-    "title_en": "لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران",
-    "summary": "هێمن عەساف به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا تیمەکانی ئافاد ناوچەکە دەپشکنن. وێنە: AA زۆرتر لە تورکیا ئاکپارتی داوا دەکات ئەنجوومەنی راوێژکاری بۆ پرۆسەی چارەسەری پێکبهێنرێت لە هاتای بەهۆی لافاوەوە کەسێک گیانی لەدەستدا تورکیا بۆ ئیسرائیل: گوتاری وەزیرەکەتان هاندانی رق و تووندوتیژییە پەرلەمانی تورکیا پێشنیازێکی دەم پارتی بەهۆی دەستەواژەی 'شارە ",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "4337718b4da95ad6",
     "url": "https://www.rudaw.net/sorani/middleeast/iran/210520262",
     "title": "سوپای پاسداران: 31 کەشتی بە تەنگەی هورمزدا تێپەڕین",
@@ -18498,6 +18498,60 @@
     "title": "یەک ملیۆن ماسی دەخرێنە نێو بەنداوەکانی ئەنبار و کەرکووک",
     "title_en": "یەک ملیۆن ماسی دەخرێنە نێو بەنداوەکانی ئەنبار و کەرکووک",
     "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق وێنەکە بۆ روونکردنەوەی هەواڵەکەیە زۆرتر لە عێراق عەلی فالح زەیدی سامانەکەی ئاشکرا کرد و وەزیرەکانیشی ئاگادار کردەوە زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبا دەکات موقتەدا سەدر لەو کەسانە خۆش دەبێت کە سوکایەتییان پێکردووە هەناردەی چای سریلانکا بۆ عێراق 38% کەمی کردووە A+ A- رووداو دیجیتاڵ بەڕێوەبەرایەتیی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "97e6884049052e55",
+    "url": "https://www.rudaw.net/english/middleeast/turkey/21052026",
+    "title": "Turkish court suspends main opposition leadership",
+    "title_en": "Turkish court suspends main opposition leadership",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Turkey CHP leader Ozgur Ozel. Photo: file/AA Also in Turkey Turkish intelligence working to accelerate PKK disarmament: Erdogan Thousands celebrate Amedspor’s historic promotion to Turkish Super League Van’s endemic mullet fish draws scientific interest Erdogan receives KRG PM Barzani in Istanbul A+ A-",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7079d5cb555b13f5",
+    "url": "https://www.rudaw.net/sorani/middleeast/210520263",
+    "title": "لوبنان: هێرشێکی ئیسرائیل زیانی بە نەخۆشخانەیەک لە باشووری وڵاتەکە گەیاندووە",
+    "title_en": "لوبنان: هێرشێکی ئیسرائیل زیانی بە نەخۆشخانەیەک لە باشووری وڵاتەکە گەیاندووە",
+    "summary": "بەشدار موزەفەر @bashdarmu به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست وێرانەی باشووری لوبنان بەهۆی هێرشی ئیسرائیلەوە زۆرتر لە رۆژهەڵاتی نێوەڕاست دامەزراوەی تەنگەی هورمز: هاتووچۆ تەنیا بە هاوئاهەنگی و مۆڵەتی ئێمە دەبێت سوپاسالاری پاکستان بۆ نێوەندگیریی تاران و واشنتن دەگاتە ئێران 3 کەشتیی گەورە رۆژی چوارشەممە بە تەنگەی هورمزدا تێپەڕین ئیمارا",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "97d7071b28a9d725",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520267",
+    "title": "لە دیالە بە هەڵە فەرمانی دەستگیرکردن بۆ منداڵێکی چوار ساڵان دەردەچێت",
+    "title_en": "لە دیالە بە هەڵە فەرمانی دەستگیرکردن بۆ منداڵێکی چوار ساڵان دەردەچێت",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق وێنەی منداڵەکە لەگەڵ باوکی زۆرتر لە عێراق یەک ملیۆن ماسی دەخرێنە نێو بەنداوەکانی ئەنبار و کەرکووک عەلی فالح زەیدی سامانەکەی ئاشکرا کرد و وەزیرەکانیشی ئاگادار کردەوە زەیدی داوای زیادکردنی کاژێرەکانی پێدانی کارەبا دەکات موقتەدا سەدر لەو کەسانە خۆش دەبێت کە سوکایەتییان پێکردووە A+ A- رووداو دیجیتاڵ ل",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
