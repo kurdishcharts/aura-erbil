@@ -1,16 +1,16 @@
 [
   {
-    "id": "c6875f93b31a9e2a",
-    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
-    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
-    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
+    "id": "2acce73606ddd885",
+    "url": "https://www.rudaw.net/english/kurdistan/190520262",
+    "title": "Expat students learning the Kurdish language in Sulaimani",
+    "title_en": "Expat students learning the Kurdish language in Sulaimani",
+    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
     "source": "rudaw-english",
     "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T08:16:18.814101+00:00",
+    "timestamp": "2026-05-21T08:43:46.813890+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,7 +28,43 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T08:16:08.049061+00:00",
+    "timestamp": "2026-05-21T08:43:23.386619+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "af15d15ba50cb7a9",
+    "url": "https://www.rudaw.net/english/kurdistan/200520263",
+    "title": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
+    "title_en": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
+    "summary": "ERBIL, Kurdistan Region - Senior delegations from the Kurdistan Region’s ruling Kurdistan Democratic Party (KDP) and the opposition Kurdistan Justice Group (KJG) met in Erbil on Wednesday in an effort to mend ties, amid signs of progress in talks among the Region’s political parties aimed at overcoming a year-long political deadlock over the formation of the regional government. “We have our differences, but we still meet because our national and patriotic responsibility is to prevent our adversaries from exploiting our weaknesses, as their strength lies in our fragmentation,” said Fazel Mirani, head of the KDP politburo’s executive committee, who led the party’s delegation, after the meeting. Mirani further elaborated to reporters that the meeting aimed to “discuss the past, our shortcomings, and the future of this Region.” For his part, Abdulsattar Majid, a senior member of the KJG’s supreme council, stated, “We must admit that there was a certain coldness between us, which is why we came here today - to restore and improve relations.” He further noted that “the current situation the Kurdistan Region, Iraq, and the wider region are passing through requires stable relations between political parties.” The Kurdistan Region held legislative elections in October 2024, with the KDP winning 39 seats and its rival, the Patriotic Union of Kurdistan (PUK), securing 23 seats in the 100-seat parliament. As neither party secured an absolute majority to form a government - and with opposition parties also failing to reach agreement - the parliament has remained inactive, stalling negotiations to form the Kurdistan Regional Government’s (KRG) tenth cabinet. For its part, the KJG suffered an electoral setback in the October 2024 vote that reduced its seats in the Kurdish parliament from seven to three. It has since boycotted the regional legislature, alleging that the elections were rigged. Nonetheless, Majid stated on Wednesday that, despite maintaining their stance of non-part",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T08:43:13.469217+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6875f93b31a9e2a",
+    "url": "https://www.rudaw.net/english/middleeast/syria/09052026",
+    "title": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "title_en": "Syrian government releases 232 SDF fighters in latest prisoner exchange",
+    "summary": "ERBIL, Kurdistan Region - The Syrian government on Friday released 232 fighters affiliated with the Kurdish-led Syrian Democratic Forces (SDF) as part of an ongoing prisoner exchange agreement between Damascus and the autonomous administration, reuniting hundreds of families across northeast Syria (Rojava). The freed detainees, who had spent months in Syrian government prisons, arrived in the northeastern city of Hasaka in convoys of vehicles, where emotional crowds gathered to welcome them home. The exchange stems from a landmark January 29 agreement between the SDF and Damascus, brokered with significant mediation by the United States through Special Envoy for Syria Tom Barrack, alongside Kurdish political figures from the Kurdistan Region. The deal came after tensions escalated sharply in mid-January, when Syrian government forces and allied armed groups captured areas previously controlled by the SDF in eastern Aleppo, Raqqa, Deir ez-Zor, and Hasaka provinces. Families rushed to embrace their loved ones after months of uncertainty and separation. Among those released was Kurdish fighter Eymen Mohammed Emin, who reunited with his two children after three months and 20 days in detention. “I missed my little daughter so much,” Emin said. Under the January agreement, both sides committed to a permanent ceasefire and to integrating civil and military institutions in Rojava into the Syrian state. The accord also outlined a phased prisoner exchange and broader integration measures, including the formation of three SDF brigades within the Syrian army. Of the roughly 1,070 SDF-linked detainees previously held by Damascus, around 800 have now been released, according to officials. “The remaining detainees will also be released soon,” Hasaka governor Nour al-Din Ahmed said. “However, the process has not yet been completed and no date has been set.” Despite the celebrations, many families continued searching for missing relatives and answers about loved ones still believed ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T08:16:18.814101+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -83,24 +119,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T08:15:31.337337+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "af15d15ba50cb7a9",
-    "url": "https://www.rudaw.net/english/kurdistan/200520263",
-    "title": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
-    "title_en": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
-    "summary": "ERBIL, Kurdistan Region - Senior delegations from the Kurdistan Region’s ruling Kurdistan Democratic Party (KDP) and the opposition Kurdistan Justice Group (KJG) met in Erbil on Wednesday in an effort to mend ties, amid signs of progress in talks among the Region’s political parties aimed at overcoming a year-long political deadlock over the formation of the regional government. “We have our differences, but we still meet because our national and patriotic responsibility is to prevent our adversaries from exploiting our weaknesses, as their strength lies in our fragmentation,” said Fazel Mirani, head of the KDP politburo’s executive committee, who led the party’s delegation, after the meeting. Mirani further elaborated to reporters that the meeting aimed to “discuss the past, our shortcomings, and the future of this Region.” For his part, Abdulsattar Majid, a senior member of the KJG’s supreme council, stated, “We must admit that there was a certain coldness between us, which is why we came here today - to restore and improve relations.” He further noted that “the current situation the Kurdistan Region, Iraq, and the wider region are passing through requires stable relations between political parties.” The Kurdistan Region held legislative elections in October 2024, with the KDP winning 39 seats and its rival, the Patriotic Union of Kurdistan (PUK), securing 23 seats in the 100-seat parliament. As neither party secured an absolute majority to form a government - and with opposition parties also failing to reach agreement - the parliament has remained inactive, stalling negotiations to form the Kurdistan Regional Government’s (KRG) tenth cabinet. For its part, the KJG suffered an electoral setback in the October 2024 vote that reduced its seats in the Kurdish parliament from seven to three. It has since boycotted the regional legislature, alleging that the elections were rigged. Nonetheless, Majid stated on Wednesday that, despite maintaining their stance of non-part",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T08:15:12.461154+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -186,7 +204,7 @@
     "title_en": "گەنجانی سەیدسادق شاخەکەیان سەوز دەکەن؛ پارەیەکی چاوەڕواننەکراویان بۆ چوو",
     "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ دەسەڵاتی دادی ئێران، دوو بەندکراوی سیاسیی کوردی بە تۆمەتی ئەندامبوون لە حیزبەکانی رۆژهەڵاتی کوردستان لە سێدارە دا.",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -918,24 +936,6 @@
     }
   },
   {
-    "id": "2acce73606ddd885",
-    "url": "https://www.rudaw.net/english/kurdistan/190520262",
-    "title": "Expat students learning the Kurdish language in Sulaimani",
-    "title_en": "Expat students learning the Kurdish language in Sulaimani",
-    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T05:19:12.192481+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5752ec0050cf173b",
     "url": "https://www.rudaw.net/sorani/world/2005202610",
     "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
@@ -1342,7 +1342,7 @@
     "title_en": "ئاسایش و مووچە تەوەری سەرەکیی گفتوگۆکانی سەرۆکی هەرێمی کوردستان بوون لە بەغدا",
     "summary": "     بە وێنە؛ کۆبوونەوەی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان و ئالینا رۆمانۆوسکی، باڵیۆزی ئەمریکا لە عێراق. بەگوێرەی راگەیێندراوی سەرۆکایەتیی هەرێمی کوردستان، \"لەبارەی ره‌وشى سياسى و ئه‌منيى عێراق و په‌يوه‌ندييه‌كانى هه‌ولێر ـ به‌غدا و گفتوگۆى حكومه‌تى هه‌رێمى كوردستان و حكومه‌تى… pic.twitter.com/EgC0XZkK9v  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
     "source": "rudaw-sorani",
-    "category": "general",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -17780,6 +17780,60 @@
     "summary": "فەرهاد دۆڵەمەری @farhaddolamari به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئامادەکردنی ئۆتۆمبێل بۆ هەناردەکردن زۆرتر لە ئابووری ئۆنسەیەک زێڕ بە 4534 دۆلار مامەڵەی پێوەدەکرێت نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت بەریتانیا سزاکانی سەر نەوتی رووسیا سووک دەکات؛ هۆکارەکە جەنگی ئێرانە ژووری بازرگانی و پیشەسازیی هەولێر: دەروازەی رەبیعە کاریگەرییەکی ",
     "source": "rudaw-sorani",
     "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "82bf3694c35d97f1",
+    "url": "https://www.rudaw.net/english/middleeast/iran/210520261",
+    "title": "Kurdistan Region hit by 855 drone, missile attacks since outbreak of Iran war: Rudaw",
+    "title_en": "Kurdistan Region hit by 855 drone, missile attacks since outbreak of Iran war: Rudaw",
+    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iran Graphic: Rudaw Also in Iran Iran executes four, including two Iraqis, according to pro-state media, rights group Iran reviewing US response in Pakistan-mediated talks: Spox Iranian military, officials step up rhetoric as prospects for US deal remain unclear IRGC warns any renewed war on Iran would",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8891da08c3f508cf",
+    "url": "https://www.rudaw.net/sorani/kurdistan/210520266",
+    "title": "بەرپرسێکی ئاسایشی حەسەکە بۆ رووداو: دوای لابردنی مین، خەڵکی سەرێ کانیش دەگەڕێنەوە",
+    "title_en": "بەرپرسێکی ئاسایشی حەسەکە بۆ رووداو: دوای لابردنی مین، خەڵکی سەرێ کانیش دەگەڕێنەوە",
+    "summary": "دەوران مەحموود به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە گەڕانەوەی ئاوارەکانی عەفرین زۆرتر لە کوردستان ئەو پەرستارە کوردەی لە تورکیا بەهۆی 'هۆنینەوەی کەزی' لە کارەکەی دوورخرایەوە، بێتاوان دەرچوو چاکسازییەکانی هەرێمی کوردستان بۆ سزادراوان: ئەم جەژنە لێبووردنی تایبەت نییە 855 جار هێرشکراوەتە سەر هەرێمی کوردستان؛ 75یان دوای ئاگربەست بوون لە سێمێل فێستیڤاڵی سپی",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ccf26897d4f54988",
+    "url": "https://www.rudaw.net/sorani/middleeast/210520261",
+    "title": "سوپاسالاری پاکستان بۆ نێوەندگیریی تاران و واشنتن دەگاتە ئێران",
+    "title_en": "سوپاسالاری پاکستان بۆ نێوەندگیریی تاران و واشنتن دەگاتە ئێران",
+    "summary": "هەکار عەلی به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە رۆژهەڵاتی نێوەڕاست سەردانێکی پێشتری عاسم مونیر بۆ تاران زۆرتر لە رۆژهەڵاتی نێوەڕاست 3 کەشتیی گەورە رۆژی چوارشەممە بە تەنگەی هورمزدا تێپەڕین ئیمارات: هێرشە درۆنییەکان لە خاکی عێراقەوە بوون و وێستگەیەکی ئەتۆمیان کردووەتە ئامانج پەرلەمانی ئیسرائیل هەنگاوی یەکەمی بۆ هەڵوەشاندنەوە نا؛ هەڵبژاردنی پێشوەختە لە رێ",
+    "source": "rudaw-sorani",
+    "category": "fire",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
