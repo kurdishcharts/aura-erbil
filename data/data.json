@@ -1,16 +1,43 @@
 [
   {
+    "id": "2acce73606ddd885",
+    "url": "https://www.rudaw.net/english/kurdistan/190520262",
+    "title": "Expat students learning the Kurdish language in Sulaimani",
+    "title_en": "Expat students learning the Kurdish language in Sulaimani",
+    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:50:13.967673+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "003873a8eebe8653",
     "url": "https://www.rudaw.net/english/middleeast/iraq/140520266",
     "title": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
     "title_en": "US engagement with Iraq continues despite ‘Iraq fatigue’: former official",
     "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
     "source": "rudaw-sorani",
-    "category": "security",
+    "category": "politics",
     "sentiment": "neutral",
-    "entities": [],
+    "entities": [
+      {
+        "name": "US",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      }
+    ],
     "breaking": 1,
-    "timestamp": "2026-05-21T04:16:32.193322+00:00",
+    "timestamp": "2026-05-21T04:49:55.795504+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -28,11 +55,42 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T04:16:21.824877+00:00",
+    "timestamp": "2026-05-21T04:49:44.270460+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
       "lng": 44.0092
+    }
+  },
+  {
+    "id": "b13130714d1d9827",
+    "url": "https://www.rudaw.net/english/kurdistan/200520265",
+    "title": "Kurdish opposition group says base hit by drones ‘from Iran’",
+    "title_en": "Kurdish opposition group says base hit by drones ‘from Iran’",
+    "summary": "ERBIL, Kurdistan Region - Two drones launched from Iran hit a base for the Komala Toilers of Kurdistan (Komala) dissident group near the Kurdistan Region’s eastern Sulaimani province on Wednesday, the party said in a statement, with no injuries recorded. “The former headquarters of the Komala Toilers of Kurdistan in Banagawra [southeast of Sulaimani] was targeted tonight at 21:30 by two drones,” the group said, adding that “the drones came from Iran.” Since the outbreak of the Iran war in late February, “ the Islamic Republic of Iran has targeted Komala positions and bases with more than 78 missiles and drones,” the statement added. A Komala official confirmed to Rudaw that no injuries were recorded. The incident comes just days after four “Iranian missiles” struck another base belonging to the same Kurdish dissident group southwest of Sulaimani province on Monday, injuring at least two people, a party official then confirmed to Rudaw. The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response also involved Iraqi armed groups aligned with the Tehran-led ‘Axis of Resistance,’ with several factions claiming responsibility for attacks on purported US targets in the region, including in Iraq and the Kurdistan Region. Tehran also ramped up its attacks on Kurdish dissident groups in the Region. The US and Iran later agreed to a Pakistan-mediated ceasefire on April 8, halting fighting to allow space for talks. While the first round of discussions concluded without a final agreement on April 11, a second round has yet to take place, as the war has yet to fully conclude. Despite the truce, the Kurdistan Regional Government’s (KRG) Dep",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [
+      {
+        "name": "Komala Toilers of Kurdistan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sulaimani",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Iran",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:49:26.056455+00:00",
+    "location": {
+      "name": "Sulaymaniyah",
+      "lat": 35.5571,
+      "lng": 45.4357
     }
   },
   {
@@ -42,11 +100,168 @@
     "title_en": "BP resumes operations in Kirkuk after war-related suspension",
     "summary": "ERBIL, Kurdistan Region - British energy giant BP has resumed operations in Iraq’s oil-rich Kirkuk province after suspending activities in March due to the United States and Israel's war with Iran. The company restarted work last week at the fields and facilities operated by Iraq’s state-run North Oil Company (NOC) in Kirkuk. BP had withdrawn its technical teams in March over security concerns stemming from the war. Rudaw has also learned that efforts are underway to bring in a Turkish company to work alongside BP on the project. Kirkuk Governor Mohammed Samaan Agha told Rudaw on Sunday the local administration strongly supports the company’s return, saying that they will provide \"all the necessary support to BP, because the operations of foreign companies in oil-producing provinces help us achieve economic recovery.” “During my visit to the British Embassy in Baghdad, I reaffirmed this step. We will work with them, and I will have a meeting with them soon, God willing,” he added. BP’s long-term contract in Kirkuk spans 20 years. Although the company has been involved in the project for more than a year, its activities have so far focused on consultancy, monitoring, and data collection rather than direct field operations. In early March, Iraq’s state-run North Oil Company assumed responsibility for operating the Avana, Bay Hasan, Jambour, and Khabbaz oil and gas fields after BP withdrew its staff. Iraqi officials at the time said the move was aimed at preventing disruptions to production and maintaining operations during the company’s absence. The Kirkuk redevelopment project was officially activated in October under an agreement signed between BP, the North Oil Company, and the North Gas Company. Baghdad has described the initiative as a key component of its strategy to increase oil production, expand gas investment, and attract foreign energy companies. According to Reuters, BP is expected to invest up to $25 billion over the lifetime of the project. Oil expert Si",
     "source": "rudaw-english",
+    "category": "economy",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "BP",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Kirkuk",
+        "type": "LOCATION"
+      },
+      {
+        "name": "North Oil Company",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Mohammed Samaan Agha",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:49:14.880771+00:00",
+    "location": {
+      "name": "Kirkuk",
+      "lat": 35.4681,
+      "lng": 44.3922
+    }
+  },
+  {
+    "id": "0f18a092f7e3577d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/200520265",
+    "title": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
+    "title_en": "From Africa and Asia to Slemani; Children learn Kurdish culture and language",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
+    "source": "rudaw-sorani",
+    "category": "culture",
+    "sentiment": "positive",
+    "entities": [
+      {
+        "name": "Slemani",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Kurdish",
+        "type": "CULTURE"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:47:18.716772+00:00",
+    "location": {
+      "name": "Slemani",
+      "lat": 35.5571,
+      "lng": 45.4357
+    }
+  },
+  {
+    "id": "a38e0501e5dd61cf",
+    "url": "https://www.rudaw.net/sorani/world/200520268",
+    "title": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
+    "title_en": "Erdogan and Trump discuss Syria and NATO over the phone",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Erdogan",
+        "type": "PERSON"
+      },
+      {
+        "name": "Trump",
+        "type": "PERSON"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:47:09.337920+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb6cb38d87964efd",
+    "url": "https://www.rudaw.net/sorani/sports/010420267",
+    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
+    "title_en": "The 10 most prominent stars cannot participate in the 2026 World Cup",
+    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بیرۆکەکە ئەوەیە مۆرینیۆ بەدەسەڵاتی تەواوەوە دەست بە پڕۆژە نوێیەکەی بکات",
+    "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T04:16:11.972917+00:00",
+    "timestamp": "2026-05-21T04:46:58.792504+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55837ae948f9967a",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "Bakuor in Gulan",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Gulan",
+        "type": "LOCATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:46:42.424237+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6e90943961e77bc7",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2005202610",
+    "title": "چوارچێوەی هاوئاهەنگی: دوای جەژن پێکهێنانی حکومەت تەواو دەکەین",
+    "title_en": "Framework of Cooperation: After the Celebration, We Complete the Formation of the Government",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەنجوومەنی باڵای دادوەریی عێراق بڕیارێکی دەستەی راگەیاندن و پەیوەندییەکانی عێراقی هەڵوەشاندەوە کە بڕی 20%ی وەک \"کرێی خزمەتگوزاری\" دەخستە سەر کارتەکانی مۆبایل. ئەنجوومەنەکە دەڵێ، \"حکومەتی کاربەڕێکەر مافی نییە بارگرانیی دارایی بۆ هاووڵاتییان دروست بکات.\"",
+    "source": "rudaw-sorani",
+    "category": "politics",
+    "sentiment": "neutral",
+    "entities": [
+      {
+        "name": "Iraq",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:46:31.653627+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "Green Gem",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T04:46:01.725770+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -270,24 +485,6 @@
     }
   },
   {
-    "id": "2acce73606ddd885",
-    "url": "https://www.rudaw.net/english/kurdistan/190520262",
-    "title": "Expat students learning the Kurdish language in Sulaimani",
-    "title_en": "Expat students learning the Kurdish language in Sulaimani",
-    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T03:45:11.897102+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "15ec42f1ff05f06e",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
     "title": "لەگەڵ رەنج - ژینگە پارێزان",
@@ -342,42 +539,6 @@
     }
   },
   {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T03:42:15.328198+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "55837ae948f9967a",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T03:42:05.338525+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "508437d052e7ea1d",
     "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
     "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
@@ -389,24 +550,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T03:41:54.029423+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "6e90943961e77bc7",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2005202610",
-    "title": "چوارچێوەی هاوئاهەنگی: دوای جەژن پێکهێنانی حکومەت تەواو دەکەین",
-    "title_en": "چوارچێوەی هاوئاهەنگی: دوای جەژن پێکهێنانی حکومەت تەواو دەکەین",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەنجوومەنی باڵای دادوەریی عێراق بڕیارێکی دەستەی راگەیاندن و پەیوەندییەکانی عێراقی هەڵوەشاندەوە کە بڕی 20%ی وەک \"کرێی خزمەتگوزاری\" دەخستە سەر کارتەکانی مۆبایل. ئەنجوومەنەکە دەڵێ، \"حکومەتی کاربەڕێکەر مافی نییە بارگرانیی دارایی بۆ هاووڵاتییان دروست بکات.\"",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T03:41:33.057063+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -479,24 +622,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T03:13:04.410901+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "a38e0501e5dd61cf",
-    "url": "https://www.rudaw.net/sorani/world/200520268",
-    "title": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
-    "title_en": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T03:12:54.216983+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -587,24 +712,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T02:45:21.268649+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b13130714d1d9827",
-    "url": "https://www.rudaw.net/english/kurdistan/200520265",
-    "title": "Kurdish opposition group says base hit by drones ‘from Iran’",
-    "title_en": "Kurdish opposition group says base hit by drones ‘from Iran’",
-    "summary": "ERBIL, Kurdistan Region - Two drones launched from Iran hit a base for the Komala Toilers of Kurdistan (Komala) dissident group near the Kurdistan Region’s eastern Sulaimani province on Wednesday, the party said in a statement, with no injuries recorded. “The former headquarters of the Komala Toilers of Kurdistan in Banagawra [southeast of Sulaimani] was targeted tonight at 21:30 by two drones,” the group said, adding that “the drones came from Iran.” Since the outbreak of the Iran war in late February, “ the Islamic Republic of Iran has targeted Komala positions and bases with more than 78 missiles and drones,” the statement added. A Komala official confirmed to Rudaw that no injuries were recorded. The incident comes just days after four “Iranian missiles” struck another base belonging to the same Kurdish dissident group southwest of Sulaimani province on Monday, injuring at least two people, a party official then confirmed to Rudaw. The US and Israel launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response also involved Iraqi armed groups aligned with the Tehran-led ‘Axis of Resistance,’ with several factions claiming responsibility for attacks on purported US targets in the region, including in Iraq and the Kurdistan Region. Tehran also ramped up its attacks on Kurdish dissident groups in the Region. The US and Iran later agreed to a Pakistan-mediated ceasefire on April 8, halting fighting to allow space for talks. While the first round of discussions concluded without a final agreement on April 11, a second round has yet to take place, as the war has yet to fully conclude. Despite the truce, the Kurdistan Regional Government’s (KRG) Dep",
-    "source": "rudaw-sorani",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T02:45:11.604061+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -875,24 +982,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T02:11:41.652106+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "0f18a092f7e3577d",
-    "url": "https://www.rudaw.net/sorani/kurdistan/200520265",
-    "title": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
-    "title_en": "لە ئەفریقیا و ئاسیاوە بۆ سلێمانی؛ منداڵانی بیانی کولتوور و زمانی کوردی دەخوێنن",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:42:22.500043+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1667,24 +1756,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T16:13:15.292796+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "cb6cb38d87964efd",
-    "url": "https://www.rudaw.net/sorani/sports/010420267",
-    "title": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "title_en": "دیارترین ئەو 10 ئەستێرە بەنێوبانگەی ناتوانن بەشداری لە مۆندیالی 2026ـدا بکەن",
-    "summary": "    وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ڤیزای بۆ وەردەگرن و خەرجییەکانی لە ئەستۆ دەگرن",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T15:44:03.444466+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -17450,6 +17521,24 @@
     "title": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
     "title_en": "تازە زاوایەک و هەرزەکارێک لەنێو قوربانییانی شکانی ئاسانسوارەکەی دهۆکن",
     "summary": "عەدنان رەشید به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە وێنەی ئاسانسوارەکە زۆرتر لە کوردستان بە درۆن کەمپی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانت ئێران کرایە ئامانج وەزارەتی دارایی: لیستی مووچەی مانگی ئایار و تەرازووی پێداچوونەوە رەوانەی بەغدا دەکرێت خێزانی کاردۆ جاف تۆمەتەکانی بی بی سی رەتدەکەنەوە: کوڕەکەمان نانەوایە نەک قاچاخچی گومرگی کوردستان: ئەوانەی مۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a60618fcf48f28ea",
+    "url": "https://www.rudaw.net/sorani/business/21052026",
+    "title": "نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت",
+    "title_en": "نەوتی برێنت بە زیاتر لە 105 دۆلار مامەڵەی پێوەدەکرێت",
+    "summary": "به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە ئابووری کێڵگەیەکی نەوت زۆرتر لە ئابووری ئۆنسەیەک زێڕ بە 4534 دۆلار مامەڵەی پێوەدەکرێت بەریتانیا سزاکانی سەر نەوتی رووسیا سووک دەکات؛ هۆکارەکە جەنگی ئێرانە ژووری بازرگانی و پیشەسازیی هەولێر: دەروازەی رەبیعە کاریگەرییەکی ئەوتۆی لەسەر هەرێمی کوردستان نابێت وەزارەتی دارایی عێراق خەرجکردنی مووچەی مانگی ئایاری دەستپێکرد A",
     "source": "rudaw-sorani",
     "category": "general",
     "sentiment": "neutral",
