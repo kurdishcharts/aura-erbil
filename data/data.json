@@ -1,5 +1,41 @@
 [
   {
+    "id": "833f7e6ac7625720",
+    "url": "https://www.rudaw.net/english/world/20052026",
+    "title": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
+    "title_en": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
+    "summary": "WASHINGTON DC - US lawmakers are divided over whether Washington should pursue a new agreement with Iran or prepare for further military confrontation, as President Donald Trump ramps up pressure on Tehran while leaving the door open for diplomacy. Speaking to Rudaw on Wednesday, Republican Congressman Joe Wilson said he supports Trump’s push for a deal but warned that Iran’s leadership cannot be trusted. “I’m very grateful that President Trump really wants to reach an agreement to save lives,” Wilson said. “But indeed the [Islamic Revolutionary Guard Corps] IRGC, whoever is running Iran today, it’s clear they’re not trustworthy.” Wilson added that Washington is coordinating with regional and European allies to pressure Tehran into accepting a verifiable agreement. “Iran should reach an agreement, but it’s got to be enforceable,” he said, adding that he believes Trump “will eliminate Iran’s capability to obtain nuclear weapons.” Meanwhile, Democrat Congressman John Garamendi warned against further military escalation, saying negotiations remain the only viable path forward. “The administration has found itself in a quagmire,” Garamendi told Rudaw. “They initiated this war without thinking through all of the ramifications.” “We have to go back to war? It’s not a solution,” he added. “It has to be negotiated. It’s going to take time.” The lawmakers’ comments come after Trump said Tuesday that Iran has only “a limited period of time” to reach a nuclear agreement with Washington. “There’s no question in my mind that they would use it,” he told reporters referring to Iran obtaining a nuclear weapon. “They’re extremely radicalized.” The remarks followed a Truth Social post on Monday in which Trump said he had postponed a planned US military strike on Iran after requests from the Qatari Emir Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and Emirati President Mohamed bin Zayed Al Nahyan. Trump said “serious negotiations” are now underway and expressed co",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:16:12.880624+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09827049db9ea441",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/200520263",
+    "title": "Iraq forms committee to probe cross-border attacks on Saudi Arabia, UAE",
+    "title_en": "Iraq forms committee to probe cross-border attacks on Saudi Arabia, UAE",
+    "summary": "ERBIL, Kurdistan Region - Iraq on Wednesday established a “special committee” to liaise with Saudi Arabia and the United Arab Emirates regarding investigations into attacks targeting their territories, state media reported. The move comes after both Abu Dhabi and Riyadh reported drone attacks on key facilities, with both claiming the assaults originated from Iraq. Iraqi government Spokesperson Sabah al-Numan relayed that in its first meeting chaired by incoming Iraqi Prime Minister Ali al-Zaidi, the Ministerial Council for National Security “reaffirmed its condemnation of recent attacks targeting Saudi Arabia and the United Arab Emirates, stressing the government’s rejection of the use of Iraqi territory or airspace to attack brotherly Arab countries and friendly regional states.\" The meeting further \"addressed ongoing investigations into the attacks\" targeting Saudi Arabia and the UAE, noting \"the formation of a special committee to contact the relevant authorities in both countries,\" Numan said. He added that the Iraqi premier “instructed that all necessary measures be taken against those involved if it is proven that Iraqi territory was used as a launch point for the attacks, and affirmed Iraq’s commitment to cooperation with the brotherly countries on this matter.” The Council further emphasized Iraq’s commitment to fostering “the best relations with regional countries and the international community, as well as the new government’s desire to be a partner in regional stability,” while affirming its commitment to “restricting arms to the hands of the state.\" The development comes shortly after Abu Dhabi on Wednesday “condemned in the strongest terms the unprovoked terrorist drone attacks launched from Iraqi territory, including an attack targeting the Barakah Nuclear Power Plant on Sunday.\" A day earlier, the Emirati defense ministry said its investigation confirmed that three drones targeted the critical facility, noting that the attack “originated from Iraqi te",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:15:55.900240+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "1f563e43c096166d",
     "url": "https://www.rudaw.net/english/world/190520264",
     "title": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
@@ -10,7 +46,205 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T01:45:55.696527+00:00",
+    "timestamp": "2026-05-21T02:15:31.828880+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0223b417b0e25aae",
+    "url": "https://www.rudaw.net/english/middleeast/syria/200520262",
+    "title": "Syria foils 25 million Captagon pill bust in largest anti-drug op to date",
+    "title_en": "Syria foils 25 million Captagon pill bust in largest anti-drug op to date",
+    "summary": "ERBIL, Kurdistan Region - Syrian authorities have foiled an attempt to smuggle 25 million captagon pills out of the country, Damascus’ interior ministry said on Wednesday, hailing the operation as “an exceptional security achievement” and the largest recorded “domestically and internationally.” In a statement on X, the ministry said “an exceptional security achievement - the largest domestically and internationally - was recorded by [its affiliated] Anti-Narcotics Department after weeks of monitoring,” resulting in the “foiling of a major smuggling attempt involving 25 million captagon pills, meticulously concealed inside ceramic containers intended for export shipping.” All members of the network involved in the attempted smuggling were arrested, the ministry said, adding that “all logistical means and equipment used in production and concealment” were also seized and added as evidence in the case file in preparation for referral of the perpetrators to the judicial authorities. “This qualitative operation reflects the high efficiency and readiness of the Anti-Narcotics Department personnel in monitoring and foiling cross-border criminal schemes and cutting off the sources of this dangerous scourge, in order to safeguard internal stability and protect communities,” the ministry affirmed. Syria was long considered a major hub for the production and trafficking of Captagon under the rule of toppled Syrian dictator Bashar al-Assad, whose brother Maher is widely believed to have overseen the operations, using them for financial gain and political leverage. According to a June 2023 study by the Canada-based non-profit Observatory of Political and Economic Networks (OPEN), the illicit captagon trade generated an estimated average net profit of $2.4 billion annually for the Assad regime between 2020 and 2022. Since Assad’s December 2024 ouster, the new Syrian leadership has stepped up efforts to counter drug manufacturers and smugglers and has increased cooperation with re",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:15:22.252217+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68c45463808bc4f7",
+    "url": "https://www.rudaw.net/english/kurdistan/06052026",
+    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:15:12.777527+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "343196011806a231",
+    "url": "https://www.rudaw.net/english/middleeast/iran/200520262",
+    "title": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear",
+    "title_en": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear",
+    "summary": "ERBIL, Kurdistan Region - If the US-Israeli “aggression” against Iran is resumed, the Iranian military could expand the conflict “beyond the region,” the Islamic Revolutionary Guard Corps (IRGC) warned on Wednesday. The remarks came amid a wave of sharp statements from Iranian officials, who have signalled heightened expectations of a possible resumption of hostilities. “Although they [United States and Israel] attacked us with the full capabilities of two armies, the most expensive in the world, we did not deploy all the capacities of the Islamic revolution against them,” the IRGC said in a statement, warning that “if aggression against Iran is repeated, the regional war… will this time be extended beyond the region.” “We are men of war, and you will see our power on the battlefield, not in hollow statements or social media pages,” the IRGC added. Earlier in the day, Iranian Foreign Minister Abbas Araghchi had also remarked that “with lessons learned and knowledge we gained, return to war will feature many more surprises.” Similarly, Iranian Parliament Speaker Mohammad Baqer Ghalibaf warned, in an audio message addressed to the Iranian people on Wednesday, that the US-Israeli “enemy has not given up its military objectives and is seeking a new round of war and fresh adventurism.” “In the face of such a plan, we must shatter the enemy’s miscalculations by enhancing our preparedness for a powerful and effective response to any possible attacks, and by increasing our economic resilience, thereby disappointing the enemy’s hope for Iran’s surrender,” Ghalibaf added. The sharp rhetoric by Iranian officials comes a day after US Vice President JD Vance reiterated on Tuesday that “Iran cannot have a nuclear weapon,” adding that President Donald Trump had instructed the American negotiating team to “aggressively negotiate with the Iranians.” While noting that significant progress had been made and that “the Iranians want to make a deal,” Vance warned that “option B” is still",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:15:02.384959+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "da52a820f880d269",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202629",
+    "title": "کۆنسووڵی تورکیا لە هەولێر: ئیبراهیم خەلیل دووەم قەرەباڵخترین دەروازەی وشکانیی جیهانە",
+    "title_en": "کۆنسووڵی تورکیا لە هەولێر: ئیبراهیم خەلیل دووەم قەرەباڵخترین دەروازەی وشکانیی جیهانە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:13:08.401250+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی زێڕ ئەمڕۆ چوارشەممە بەهۆی بەرزبوونەوەی سوودی سەر قەواڵەکانی گەنجینەی ئەمریکا و بەرزبوونەوەی بەهای دۆلار لە بەرامبەر دراوەکانی دیکەی جیهان، دابەزی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:12:58.963004+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d19cecaffa24567",
+    "url": "https://www.rudaw.net/sorani/business/021020232",
+    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی زێڕ ئەمڕۆ چوارشەممە بەهۆی بەرزبوونەوەی سوودی سەر قەواڵەکانی گەنجینەی ئەمریکا و بەرزبوونەوەی بەهای دۆلار لە بەرامبەر دراوەکانی دیکەی جیهان، دابەزی.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:12:47.278023+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5752ec0050cf173b",
+    "url": "https://www.rudaw.net/sorani/world/2005202610",
+    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:12:36.901192+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04df562255b39aa4",
+    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
+    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:12:26.039130+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09a240cd6905c820",
+    "url": "https://www.rudaw.net/sorani/kurdistan/190520263",
+    "title": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
+    "title_en": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:12:08.510454+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57327df16e27b8fa",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:11:58.832989+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f9fcd016c9195868",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1905202614",
+    "title": "ئەنتۆنیۆ تایانی بۆ نێچیرڤان بارزانی: بە بایەخەوە لە رۆڵی هەرێمی کوردستان دەڕوانین وەکو فاکتەری ئارامی",
+    "title_en": "ئەنتۆنیۆ تایانی بۆ نێچیرڤان بارزانی: بە بایەخەوە لە رۆڵی هەرێمی کوردستان دەڕوانین وەکو فاکتەری ئارامی",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:11:41.652106+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -29,24 +263,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T01:45:38.572773+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "343196011806a231",
-    "url": "https://www.rudaw.net/english/middleeast/iran/200520262",
-    "title": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear",
-    "title_en": "Iranian military, officials step up rhetoric as prospects for US deal remain unclear",
-    "summary": "ERBIL, Kurdistan Region - If the US-Israeli “aggression” against Iran is resumed, the Iranian military could expand the conflict “beyond the region,” the Islamic Revolutionary Guard Corps (IRGC) warned on Wednesday. The remarks came amid a wave of sharp statements from Iranian officials, who have signalled heightened expectations of a possible resumption of hostilities. “Although they [United States and Israel] attacked us with the full capabilities of two armies, the most expensive in the world, we did not deploy all the capacities of the Islamic revolution against them,” the IRGC said in a statement, warning that “if aggression against Iran is repeated, the regional war… will this time be extended beyond the region.” “We are men of war, and you will see our power on the battlefield, not in hollow statements or social media pages,” the IRGC added. Earlier in the day, Iranian Foreign Minister Abbas Araghchi had also remarked that “with lessons learned and knowledge we gained, return to war will feature many more surprises.” Similarly, Iranian Parliament Speaker Mohammad Baqer Ghalibaf warned, in an audio message addressed to the Iranian people on Wednesday, that the US-Israeli “enemy has not given up its military objectives and is seeking a new round of war and fresh adventurism.” “In the face of such a plan, we must shatter the enemy’s miscalculations by enhancing our preparedness for a powerful and effective response to any possible attacks, and by increasing our economic resilience, thereby disappointing the enemy’s hope for Iran’s surrender,” Ghalibaf added. The sharp rhetoric by Iranian officials comes a day after US Vice President JD Vance reiterated on Tuesday that “Iran cannot have a nuclear weapon,” adding that President Donald Trump had instructed the American negotiating team to “aggressively negotiate with the Iranians.” While noting that significant progress had been made and that “the Iranians want to make a deal,” Vance warned that “option B” is still",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:45:07.849297+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -83,24 +299,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T01:42:58.661045+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "04df562255b39aa4",
-    "url": "https://www.rudaw.net/sorani/kurdistan/3003202635",
-    "title": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "title_en": "بەڕێوەبەرایەتیی پۆلیسی هەولێر: لە شەڕەکەی کەورگۆسک 6 کەس گیانیان لەدەستداوە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:42:47.300031+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -155,24 +353,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T01:42:10.787738+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "da52a820f880d269",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202629",
-    "title": "کۆنسووڵی تورکیا لە هەولێر: ئیبراهیم خەلیل دووەم قەرەباڵخترین دەروازەی وشکانیی جیهانە",
-    "title_en": "کۆنسووڵی تورکیا لە هەولێر: ئیبراهیم خەلیل دووەم قەرەباڵخترین دەروازەی وشکانیی جیهانە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:41:52.527569+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -378,24 +558,6 @@
     }
   },
   {
-    "id": "0223b417b0e25aae",
-    "url": "https://www.rudaw.net/english/middleeast/syria/200520262",
-    "title": "Syria foils 25 million Captagon pill bust in largest anti-drug op to date",
-    "title_en": "Syria foils 25 million Captagon pill bust in largest anti-drug op to date",
-    "summary": "ERBIL, Kurdistan Region - Syrian authorities have foiled an attempt to smuggle 25 million captagon pills out of the country, Damascus’ interior ministry said on Wednesday, hailing the operation as “an exceptional security achievement” and the largest recorded “domestically and internationally.” In a statement on X, the ministry said “an exceptional security achievement - the largest domestically and internationally - was recorded by [its affiliated] Anti-Narcotics Department after weeks of monitoring,” resulting in the “foiling of a major smuggling attempt involving 25 million captagon pills, meticulously concealed inside ceramic containers intended for export shipping.” All members of the network involved in the attempted smuggling were arrested, the ministry said, adding that “all logistical means and equipment used in production and concealment” were also seized and added as evidence in the case file in preparation for referral of the perpetrators to the judicial authorities. “This qualitative operation reflects the high efficiency and readiness of the Anti-Narcotics Department personnel in monitoring and foiling cross-border criminal schemes and cutting off the sources of this dangerous scourge, in order to safeguard internal stability and protect communities,” the ministry affirmed. Syria was long considered a major hub for the production and trafficking of Captagon under the rule of toppled Syrian dictator Bashar al-Assad, whose brother Maher is widely believed to have overseen the operations, using them for financial gain and political leverage. According to a June 2023 study by the Canada-based non-profit Observatory of Political and Economic Networks (OPEN), the illicit captagon trade generated an estimated average net profit of $2.4 billion annually for the Assad regime between 2020 and 2022. Since Assad’s December 2024 ouster, the new Syrian leadership has stepped up efforts to counter drug manufacturers and smugglers and has increased cooperation with re",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:45:44.916878+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "b75495058a9d89d0",
     "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
     "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
@@ -425,24 +587,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T00:43:17.434513+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "f9fcd016c9195868",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1905202614",
-    "title": "ئەنتۆنیۆ تایانی بۆ نێچیرڤان بارزانی: بە بایەخەوە لە رۆڵی هەرێمی کوردستان دەڕوانین وەکو فاکتەری ئارامی",
-    "title_en": "ئەنتۆنیۆ تایانی بۆ نێچیرڤان بارزانی: بە بایەخەوە لە رۆڵی هەرێمی کوردستان دەڕوانین وەکو فاکتەری ئارامی",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:43:06.657858+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -522,24 +666,6 @@
     }
   },
   {
-    "id": "09827049db9ea441",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/200520263",
-    "title": "Iraq forms committee to probe cross-border attacks on Saudi Arabia, UAE",
-    "title_en": "Iraq forms committee to probe cross-border attacks on Saudi Arabia, UAE",
-    "summary": "ERBIL, Kurdistan Region - Iraq on Wednesday established a “special committee” to liaise with Saudi Arabia and the United Arab Emirates regarding investigations into attacks targeting their territories, state media reported. The move comes after both Abu Dhabi and Riyadh reported drone attacks on key facilities, with both claiming the assaults originated from Iraq. Iraqi government Spokesperson Sabah al-Numan relayed that in its first meeting chaired by incoming Iraqi Prime Minister Ali al-Zaidi, the Ministerial Council for National Security “reaffirmed its condemnation of recent attacks targeting Saudi Arabia and the United Arab Emirates, stressing the government’s rejection of the use of Iraqi territory or airspace to attack brotherly Arab countries and friendly regional states.\" The meeting further \"addressed ongoing investigations into the attacks\" targeting Saudi Arabia and the UAE, noting \"the formation of a special committee to contact the relevant authorities in both countries,\" Numan said. He added that the Iraqi premier “instructed that all necessary measures be taken against those involved if it is proven that Iraqi territory was used as a launch point for the attacks, and affirmed Iraq’s commitment to cooperation with the brotherly countries on this matter.” The Council further emphasized Iraq’s commitment to fostering “the best relations with regional countries and the international community, as well as the new government’s desire to be a partner in regional stability,” while affirming its commitment to “restricting arms to the hands of the state.\" The development comes shortly after Abu Dhabi on Wednesday “condemned in the strongest terms the unprovoked terrorist drone attacks launched from Iraqi territory, including an attack targeting the Barakah Nuclear Power Plant on Sunday.\" A day earlier, the Emirati defense ministry said its investigation confirmed that three drones targeted the critical facility, noting that the attack “originated from Iraqi te",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:21:38.639731+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "518a0fb8481a7042",
     "url": "https://www.rudaw.net/english/middleeast/syria/200520261",
     "title": "New batch of Afrin families set to return home Thursday: Official",
@@ -551,24 +677,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T00:20:54.798306+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "57327df16e27b8fa",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:19:04.461148+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -666,24 +774,6 @@
     }
   },
   {
-    "id": "833f7e6ac7625720",
-    "url": "https://www.rudaw.net/english/world/20052026",
-    "title": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
-    "title_en": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
-    "summary": "WASHINGTON DC - US lawmakers are divided over whether Washington should pursue a new agreement with Iran or prepare for further military confrontation, as President Donald Trump ramps up pressure on Tehran while leaving the door open for diplomacy. Speaking to Rudaw on Wednesday, Republican Congressman Joe Wilson said he supports Trump’s push for a deal but warned that Iran’s leadership cannot be trusted. “I’m very grateful that President Trump really wants to reach an agreement to save lives,” Wilson said. “But indeed the [Islamic Revolutionary Guard Corps] IRGC, whoever is running Iran today, it’s clear they’re not trustworthy.” Wilson added that Washington is coordinating with regional and European allies to pressure Tehran into accepting a verifiable agreement. “Iran should reach an agreement, but it’s got to be enforceable,” he said, adding that he believes Trump “will eliminate Iran’s capability to obtain nuclear weapons.” Meanwhile, Democrat Congressman John Garamendi warned against further military escalation, saying negotiations remain the only viable path forward. “The administration has found itself in a quagmire,” Garamendi told Rudaw. “They initiated this war without thinking through all of the ramifications.” “We have to go back to war? It’s not a solution,” he added. “It has to be negotiated. It’s going to take time.” The lawmakers’ comments come after Trump said Tuesday that Iran has only “a limited period of time” to reach a nuclear agreement with Washington. “There’s no question in my mind that they would use it,” he told reporters referring to Iran obtaining a nuclear weapon. “They’re extremely radicalized.” The remarks followed a Truth Social post on Monday in which Trump said he had postponed a planned US military strike on Iran after requests from the Qatari Emir Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and Emirati President Mohamed bin Zayed Al Nahyan. Trump said “serious negotiations” are now underway and expressed co",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T23:45:28.532409+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5b099a6845e9a270",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
     "title": "BP resumes operations in Kirkuk after war-related suspension",
@@ -749,24 +839,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T23:42:08.496036+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "9d19cecaffa24567",
-    "url": "https://www.rudaw.net/sorani/business/021020232",
-    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی زێڕ ئەمڕۆ چوارشەممە بەهۆی بەرزبوونەوەی سوودی سەر قەواڵەکانی گەنجینەی ئەمریکا و بەرزبوونەوەی بەهای دۆلار لە بەرامبەر دراوەکانی دیکەی جیهان، دابەزی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T23:41:45.175859+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1098,24 +1170,6 @@
     }
   },
   {
-    "id": "68c45463808bc4f7",
-    "url": "https://www.rudaw.net/english/kurdistan/06052026",
-    "title": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "title_en": "Iran strikes Kurdish opposition group in Kurdistan Region of Iraq",
-    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) fired two drones at a Kurdish opposition group on Tuesday night around the same time that the United Arab Emirates (UAE) came under attack from the Iranian side for the second consecutive day since Iran and the US announced a ceasefire on April 8. Two drones struck Surdash camp in the border areas of Sulaimani province in the Kurdistan Region late Tuesday, causing material damage but no casualties were reported. The IRGC and its Iraqi affiliated militia groups have struck Kurdish opposition camps multiple times despite the US-Iran ceasefire.  Kurdistan Region and the UAE are the only two locations struck by Iran since the ceasefire. Amjad Hossein Panahi, head of relations for the Komala of the Toilers of Kurdistan in Erbil, confirmed the incident, telling Rudaw: \"Surdash camp was attacked by two drones, and there was only material damage.\" The strike follows a similar attack last Thursday night, when Azadi camp in Erbil's Koya district and its surrounding areas were targeted by five drones. Earlier, on April 27, Azadi camp - home to the families of Peshmerga fighters affiliated with the Kurdistan Democratic Party of Iran (KDPI) - was hit by two drones. On the same day, Surdash camp, which hosts families linked to Komala factions, was also targeted in a separate drone attack. The Surdash camp, located in Sulaimani’s Dukan district, has repeatedly come under missile and drone attacks claimed by Iran. The Kurdistan Region has faced a sustained wave of aerial attacks in recent months, following the US and Iran war. Since February 28, when the US and Israeli military campaign began on Iran, hundreds of drones and missiles have struck the Region, with over 30 attacks reported even after a ceasefire was declared on April 7. The US operation struck more than 17,000 sites in Iran over six weeks. In response, Tehran carried out waves of drone and missile attacks across the Middle East, targeting alleged US",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T20:47:09.760787+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "99803a750c50ad7a",
     "url": "https://www.rudaw.net/english/world/01052024",
     "title": "Germany deports Kurdish family with health issues to Iraq",
@@ -1134,24 +1188,6 @@
     }
   },
   {
-    "id": "09a240cd6905c820",
-    "url": "https://www.rudaw.net/sorani/kurdistan/190520263",
-    "title": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
-    "title_en": "ئەنجوومەنی وەزیرانی عێراق تاوتوێی نوێکردنەوەی گرێبەستی کڕینی کارەبا لە هەرێمی کوردستان دەکات",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T20:44:30.162510+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "63ab57b280469217",
     "url": "https://www.rudaw.net/sorani/sports/250520233",
     "title": "ڤیدیۆ؛ تێنسزانێک بەهۆی هێرشکردنە سەر ناوبژیوانەوە دوورخرایەوە",
@@ -1163,24 +1199,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T20:44:14.315014+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "5752ec0050cf173b",
-    "url": "https://www.rudaw.net/sorani/world/2005202610",
-    "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "title_en": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ کاسرین ڤۆترین، وەزیری بەرگریی فەرەنسا دەڵێ، بە تەواوی دڵنیا نین کە ئایا لە تەنگەی هورمزدا مین دانراوە یان نا. ئەم گومانەی فەرەنسا لە کاتێکدایە، میدیاکانی ئەمریکا بڵاویان کردووەتەوە کە لانیکەم 20 مین لە تەنگەی هورمزدا دۆزراونەتەوە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T20:43:25.408226+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1253,24 +1271,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T19:52:25.441730+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ نرخی زێڕ ئەمڕۆ چوارشەممە بەهۆی بەرزبوونەوەی سوودی سەر قەواڵەکانی گەنجینەی ئەمریکا و بەرزبوونەوەی بەهای دۆلار لە بەرامبەر دراوەکانی دیکەی جیهان، دابەزی.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T19:14:58.803617+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
