@@ -1,23 +1,5 @@
 [
   {
-    "id": "af15d15ba50cb7a9",
-    "url": "https://www.rudaw.net/english/kurdistan/200520263",
-    "title": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
-    "title_en": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
-    "summary": "ERBIL, Kurdistan Region - Senior delegations from the Kurdistan Region’s ruling Kurdistan Democratic Party (KDP) and the opposition Kurdistan Justice Group (KJG) met in Erbil on Wednesday in an effort to mend ties, amid signs of progress in talks among the Region’s political parties aimed at overcoming a year-long political deadlock over the formation of the regional government. “We have our differences, but we still meet because our national and patriotic responsibility is to prevent our adversaries from exploiting our weaknesses, as their strength lies in our fragmentation,” said Fazel Mirani, head of the KDP politburo’s executive committee, who led the party’s delegation, after the meeting. Mirani further elaborated to reporters that the meeting aimed to “discuss the past, our shortcomings, and the future of this Region.” For his part, Abdulsattar Majid, a senior member of the KJG’s supreme council, stated, “We must admit that there was a certain coldness between us, which is why we came here today - to restore and improve relations.” He further noted that “the current situation the Kurdistan Region, Iraq, and the wider region are passing through requires stable relations between political parties.” The Kurdistan Region held legislative elections in October 2024, with the KDP winning 39 seats and its rival, the Patriotic Union of Kurdistan (PUK), securing 23 seats in the 100-seat parliament. As neither party secured an absolute majority to form a government - and with opposition parties also failing to reach agreement - the parliament has remained inactive, stalling negotiations to form the Kurdistan Regional Government’s (KRG) tenth cabinet. For its part, the KJG suffered an electoral setback in the October 2024 vote that reduced its seats in the Kurdish parliament from seven to three. It has since boycotted the regional legislature, alleging that the elections were rigged. Nonetheless, Majid stated on Wednesday that, despite maintaining their stance of non-part",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T02:45:42.338081+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "2acce73606ddd885",
     "url": "https://www.rudaw.net/english/kurdistan/190520262",
     "title": "Expat students learning the Kurdish language in Sulaimani",
@@ -28,7 +10,223 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-21T02:45:31.077722+00:00",
+    "timestamp": "2026-05-21T03:16:04.093069+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1f563e43c096166d",
+    "url": "https://www.rudaw.net/english/world/190520264",
+    "title": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
+    "title_en": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
+    "summary": "ERBIL, Kurdistan Region - US officials on Tuesday discussed sustaining military support for the Kurdish Peshmerga amid proposed cuts to counter-Islamic State (ISIS) funding and regional security shifts following Washington’s latest military campaign against Iran. Assistant Secretary of War for International Security Affairs Dan Zimmerman supported congressional funding to maintain the security partnership, telling a congressional committee that the US would be “hard-pressed to find a more willing and capable group” than the Kurds in Iraq. The remarks come as the fiscal year 2027 budget proposal seeks to centralize the Counter-ISIS Train and Equip Fund in Baghdad. The request allocates $118.9 million to federal Iraqi defense and counter-terrorism forces while outlining zero direct funding for the Kurdistan Region. Direct US financial assistance to the Peshmerga was previously eliminated in the fiscal year 2026 budget. The 2027 proposal would further remove military training support for Kurdish forces, a program that received approximately $61 million in the prior funding cycle. The US and Israel then launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response has also included strikes by factions aligned with the Iran-led ‘Axis of Resistance’, including by shadowy armed groups in Iraq that have claimed numerous attacks against alleged US targets in Iraq and the Kurdistan Region. Zimmerman addressed the current security environment in the Middle East and in Iraq where he said Iran-backed armed groups are operating with independent capability and freedom following the six-week war. Rudaw moderates all comments submitted on our website. We welcome ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:15:54.169253+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7ce984df0177df6",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/200520264",
+    "title": "Iraq pushes for alternative oil export routes amid Hormuz disruptions",
+    "title_en": "Iraq pushes for alternative oil export routes amid Hormuz disruptions",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:15:27.243715+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60a129c808d53f77",
+    "url": "https://www.rudaw.net/english/kurdistan/160920242",
+    "title": "Foreign missions praise free, objective press at Rudaw election event",
+    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:15:07.798521+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3ae662d2188babee",
+    "url": "https://www.rudaw.net/english/middleeast/iran/200520263",
+    "title": "Iran reviewing US response in Pakistan-mediated talks: Spox",
+    "title_en": "Iran reviewing US response in Pakistan-mediated talks: Spox",
+    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. Erbil, Kurdistan Region - Kurdish opposition groups based in the Kurdistan Region on Monday denied to Rudaw any involvement in claims by Iran’s Islamic Revolutionary Guard Corps (IRGC) that it had foiled an attempt to smuggle “a shipment of weapons” from the Region into Iran’s western Kurdish-majority areas, known as Rojhelat.",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:14:51.201891+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b7debe5648bc396e",
+    "url": "https://www.rudaw.net/sorani/world/200520269",
+    "title": "شی و پووتین پەیوەندییەکانیان بە 'پتەو' وەسفکرد و رەخنەیان لە سیاسەتی 'تاکلایەنە' گرت",
+    "title_en": "شی و پووتین پەیوەندییەکانیان بە 'پتەو' وەسفکرد و رەخنەیان لە سیاسەتی 'تاکلایەنە' گرت",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:13:04.410901+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a38e0501e5dd61cf",
+    "url": "https://www.rudaw.net/sorani/world/200520268",
+    "title": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
+    "title_en": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:12:54.216983+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b75495058a9d89d0",
+    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
+    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:12:43.617366+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "738f7cf5d3606491",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202632",
+    "title": "لە هەولێر 3500 پارچە زەوی دیکە بەسەر فەرمانبەراندا دابەشدەکرێن",
+    "title_en": "لە هەولێر 3500 پارچە زەوی دیکە بەسەر فەرمانبەراندا دابەشدەکرێن",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:12:33.488461+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d9ec803692a6d4",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
+    "title": "گەوهەری شین",
+    "title_en": "گەوهەری شین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:12:23.408922+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "31e1bdc2e5a67fc9",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202630",
+    "title": "بە 6 درۆن هێرشکرایە سەر کەمپی حیزبەکانی رۆژهەڵات لە هەولێر و سلێمانی",
+    "title_en": "بە 6 درۆن هێرشکرایە سەر کەمپی حیزبەکانی رۆژهەڵات لە هەولێر و سلێمانی",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:12:07.601439+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "447abc6283c9ad44",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2005202628",
+    "title": "وەزارەتی کشتوکاڵ: هاوردەکردنی هەنگوین لە چوار وەرزی ساڵدا قەدەخەیە",
+    "title_en": "وەزارەتی کشتوکاڵ: هاوردەکردنی هەنگوین لە چوار وەرزی ساڵدا قەدەخەیە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T03:11:57.467371+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "af15d15ba50cb7a9",
+    "url": "https://www.rudaw.net/english/kurdistan/200520263",
+    "title": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
+    "title_en": "KDP, opposition group move toward thaw amid Kurdistan government impasse",
+    "summary": "ERBIL, Kurdistan Region - Senior delegations from the Kurdistan Region’s ruling Kurdistan Democratic Party (KDP) and the opposition Kurdistan Justice Group (KJG) met in Erbil on Wednesday in an effort to mend ties, amid signs of progress in talks among the Region’s political parties aimed at overcoming a year-long political deadlock over the formation of the regional government. “We have our differences, but we still meet because our national and patriotic responsibility is to prevent our adversaries from exploiting our weaknesses, as their strength lies in our fragmentation,” said Fazel Mirani, head of the KDP politburo’s executive committee, who led the party’s delegation, after the meeting. Mirani further elaborated to reporters that the meeting aimed to “discuss the past, our shortcomings, and the future of this Region.” For his part, Abdulsattar Majid, a senior member of the KJG’s supreme council, stated, “We must admit that there was a certain coldness between us, which is why we came here today - to restore and improve relations.” He further noted that “the current situation the Kurdistan Region, Iraq, and the wider region are passing through requires stable relations between political parties.” The Kurdistan Region held legislative elections in October 2024, with the KDP winning 39 seats and its rival, the Patriotic Union of Kurdistan (PUK), securing 23 seats in the 100-seat parliament. As neither party secured an absolute majority to form a government - and with opposition parties also failing to reach agreement - the parliament has remained inactive, stalling negotiations to form the Kurdistan Regional Government’s (KRG) tenth cabinet. For its part, the KJG suffered an electoral setback in the October 2024 vote that reduced its seats in the Kurdish parliament from seven to three. It has since boycotted the regional legislature, alleging that the elections were rigged. Nonetheless, Majid stated on Wednesday that, despite maintaining their stance of non-part",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-21T02:45:42.338081+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -101,24 +299,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T02:44:43.459064+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "31e1bdc2e5a67fc9",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202630",
-    "title": "بە 6 درۆن هێرشکرایە سەر کەمپی حیزبەکانی رۆژهەڵات لە هەولێر و سلێمانی",
-    "title_en": "بە 6 درۆن هێرشکرایە سەر کەمپی حیزبەکانی رۆژهەڵات لە هەولێر و سلێمانی",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T02:42:48.833385+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -245,24 +425,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T02:15:55.900240+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1f563e43c096166d",
-    "url": "https://www.rudaw.net/english/world/190520264",
-    "title": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
-    "title_en": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
-    "summary": "ERBIL, Kurdistan Region - US officials on Tuesday discussed sustaining military support for the Kurdish Peshmerga amid proposed cuts to counter-Islamic State (ISIS) funding and regional security shifts following Washington’s latest military campaign against Iran. Assistant Secretary of War for International Security Affairs Dan Zimmerman supported congressional funding to maintain the security partnership, telling a congressional committee that the US would be “hard-pressed to find a more willing and capable group” than the Kurds in Iraq. The remarks come as the fiscal year 2027 budget proposal seeks to centralize the Counter-ISIS Train and Equip Fund in Baghdad. The request allocates $118.9 million to federal Iraqi defense and counter-terrorism forces while outlining zero direct funding for the Kurdistan Region. Direct US financial assistance to the Peshmerga was previously eliminated in the fiscal year 2026 budget. The 2027 proposal would further remove military training support for Kurdish forces, a program that received approximately $61 million in the prior funding cycle. The US and Israel then launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response has also included strikes by factions aligned with the Iran-led ‘Axis of Resistance’, including by shadowy armed groups in Iraq that have claimed numerous attacks against alleged US targets in Iraq and the Kurdistan Region. Zimmerman addressed the current security environment in the Middle East and in Iraq where he said Iran-backed armed groups are operating with independent capability and freedom following the six-week war. Rudaw moderates all comments submitted on our website. We welcome ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T02:15:31.828880+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -432,24 +594,6 @@
     }
   },
   {
-    "id": "60a129c808d53f77",
-    "url": "https://www.rudaw.net/english/kurdistan/160920242",
-    "title": "Foreign missions praise free, objective press at Rudaw election event",
-    "title_en": "Foreign missions praise free, objective press at Rudaw election event",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:45:38.572773+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "debcf76788d0c657",
     "url": "https://www.rudaw.net/english/middleeast/syria/20052026",
     "title": "Syrian president apologizes over father’s controversial remarks",
@@ -461,24 +605,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T01:44:46.479077+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b7debe5648bc396e",
-    "url": "https://www.rudaw.net/sorani/world/200520269",
-    "title": "شی و پووتین پەیوەندییەکانیان بە 'پتەو' وەسفکرد و رەخنەیان لە سیاسەتی 'تاکلایەنە' گرت",
-    "title_en": "شی و پووتین پەیوەندییەکانیان بە 'پتەو' وەسفکرد و رەخنەیان لە سیاسەتی 'تاکلایەنە' گرت",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:42:58.661045+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -666,24 +792,6 @@
     }
   },
   {
-    "id": "c3d9ec803692a6d4",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/documentari---gawhari-shin/03092025095306",
-    "title": "گەوهەری شین",
-    "title_en": "گەوهەری شین",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T01:13:01.952331+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "c60bcf9214db330a",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj--zhiri-dastkrd/06122025081056",
     "title": "كاریگەری ژیری دەستكرد لەسەر گۆرانی و میوزیكی كوردی",
@@ -695,24 +803,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T01:12:38.274938+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "b75495058a9d89d0",
-    "url": "https://www.rudaw.net/sorani/kurdistan/1011202314",
-    "title": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "title_en": "ئەو هێڵی شەمەندەفەرە ببینە کە عێراق بە ئەوروپا دەگەیێنێت",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بە بۆنەی رۆژی جیهانی هەنگ، کە 20ی ئایارە وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان پیرۆزبایی لە هەنگەوانان دەکات و دەڵێت، بایەخدان بەم سێکتەرە و بەبازاڕکردنی بەرهەمەکانی لە پێشەنگی بەرنامەکانیاندایە. گوتەبێژی وەزارەتەکەش دەڵێت:\"زیاتر لە 10 هەزار هەنگەوانمان هەیە\".",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:43:37.637542+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -767,24 +857,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T00:42:33.220646+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "3ae662d2188babee",
-    "url": "https://www.rudaw.net/english/middleeast/iran/200520263",
-    "title": "Iran reviewing US response in Pakistan-mediated talks: Spox",
-    "title_en": "Iran reviewing US response in Pakistan-mediated talks: Spox",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. Erbil, Kurdistan Region - Kurdish opposition groups based in the Kurdistan Region on Monday denied to Rudaw any involvement in claims by Iran’s Islamic Revolutionary Guard Corps (IRGC) that it had foiled an attempt to smuggle “a shipment of weapons” from the Region into Iran’s western Kurdish-majority areas, known as Rojhelat.",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:22:05.984215+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -857,24 +929,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-21T00:17:59.742600+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "a38e0501e5dd61cf",
-    "url": "https://www.rudaw.net/sorani/world/200520268",
-    "title": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
-    "title_en": "ئەردۆغان و ترەمپ بە تەلەفۆن باسی سووریا و ناتۆیان کرد",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا لە پەیامێکی ڤیدیۆیی تایبەتدا \"رێگایەکی نوێ\"ـی پێشکێشی کوبییەکان کرد. لەلایەکی دیکە، چاوەڕوان دەکرێ واشنتن بەفەرمی تۆمەتی تاوانکاری ئاراستەی رائول کاسترۆ، سەرکردەی پێشووی دوورگەکە بکات.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T00:17:44.358896+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -990,24 +1044,6 @@
     }
   },
   {
-    "id": "738f7cf5d3606491",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202632",
-    "title": "لە هەولێر 3500 پارچە زەوی دیکە بەسەر فەرمانبەراندا دابەشدەکرێن",
-    "title_en": "لە هەولێر 3500 پارچە زەوی دیکە بەسەر فەرمانبەراندا دابەشدەکرێن",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T23:13:15.598733+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "42c14d0af256b488",
     "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/diaspora---215/16082025111204",
     "title": "لە رووداوێکی تەقەکردندا لە شاری ئورەبرۆی سوێد دوو کەس برینداربوون",
@@ -1098,24 +1134,6 @@
     }
   },
   {
-    "id": "d7ce984df0177df6",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/200520264",
-    "title": "Iraq pushes for alternative oil export routes amid Hormuz disruptions",
-    "title_en": "Iraq pushes for alternative oil export routes amid Hormuz disruptions",
-    "summary": "Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T21:46:33.846535+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "bfac4decedb80e41",
     "url": "https://www.rudaw.net/sorani/world/190520264",
     "title": "پووتین بۆ نیشاندانی 'پەیوەندیی پتەو' گەیشتە چین",
@@ -1163,24 +1181,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-20T21:17:20.063851+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "447abc6283c9ad44",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2005202628",
-    "title": "وەزارەتی کشتوکاڵ: هاوردەکردنی هەنگوین لە چوار وەرزی ساڵدا قەدەخەیە",
-    "title_en": "وەزارەتی کشتوکاڵ: هاوردەکردنی هەنگوین لە چوار وەرزی ساڵدا قەدەخەیە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەرپرسی پەیوەندییەکانی کۆمەڵەی شۆڕشگێری زەحمەتکێشانی کوردستانی ئێران رایگەیاند: کەمپی بنەماڵەی پێشمەرگەکانمان لە زڕگوێزەڵە لە سنووری سلێمانی بە درۆن کرایە ئامانج",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-20T21:14:42.777023+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
