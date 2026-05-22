@@ -1,5 +1,23 @@
 [
   {
+    "id": "27b691bb8556d3ff",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/220520262",
+    "title": "Iraq’s new administration moves to repair regional ties after Gulf attacks",
+    "title_en": "Iraq’s new administration moves to repair regional ties after Gulf attacks",
+    "summary": "ERBIL, Kurdistan Region - The newly appointed executive and legislative leaders in Baghdad have reaffirmed their rejection of recent attacks targeting Saudi Arabia and the United Arab Emirates (UAE), which reportedly originated from Iraq. The statements come as the new Iraqi administration seems keen on repairing ties with regional partners after months of strain, largely driven by the involvement of Iran-aligned Iraqi armed groups in attacks on their territory. “We reiterate our condemnation and denunciation of the criminal act that targeted the sisterly Kingdom of Saudi Arabia and the United Arab Emirates,” Iraqi Prime Minister Ali al-Zaidi said in a Thursday post on X, stressing Baghdad’s “rejection of the use of Iraq’s land and airspace as a launchpad for attacks against sisterly and friendly countries, and affirming that Iraq is a space for shared interests and cooperation.” He added that “a high-level investigative committee” has been formed to work jointly with the relevant authorities in Abu Dhabi and Riyadh to uncover the circumstances surrounding “these criminal attacks,” stressing “the importance of conducting a joint investigation.” Iraqi government Spokesperson Sabah al-Numan on Wednesday announced the formation of a “special committee” to liaise with the relevant authorities in both countries, quoting Zaidi as instructing that “all necessary measures be taken against those involved if it is proven that Iraqi territory was used as a launch point for the attacks.” For his part, Iraqi Parliament Speaker Haibet al-Halbousi echoed al-Zaidi’s condemnation on Thursday, affirming “Iraq’s firm position rejecting the use of Iraqi territory or its airspace to attack sisterly Arab countries and friendly regional states.” “Any individual or group seeking to threaten Iraq’s security and that of the region or undermine its stability will not be tolerated,” Halbousi asserted. The statements come after Abu Dhabi on Wednesday “condemned in the strongest terms the unprov",
+    "source": "rudaw-sorani",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:17:07.419938+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "43b1ff3bd9ed8e2c",
     "url": "https://www.rudaw.net/english/middleeast/21052026",
     "title": "UAE official slams Iranian bid to assert control over Emirati waters",
@@ -10,7 +28,169 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-22T07:48:37.783104+00:00",
+    "timestamp": "2026-05-22T08:16:55.860236+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1f563e43c096166d",
+    "url": "https://www.rudaw.net/english/world/190520264",
+    "title": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
+    "title_en": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
+    "summary": "ERBIL, Kurdistan Region - US officials on Tuesday discussed sustaining military support for the Kurdish Peshmerga amid proposed cuts to counter-Islamic State (ISIS) funding and regional security shifts following Washington’s latest military campaign against Iran. Assistant Secretary of War for International Security Affairs Dan Zimmerman supported congressional funding to maintain the security partnership, telling a congressional committee that the US would be “hard-pressed to find a more willing and capable group” than the Kurds in Iraq. The remarks come as the fiscal year 2027 budget proposal seeks to centralize the Counter-ISIS Train and Equip Fund in Baghdad. The request allocates $118.9 million to federal Iraqi defense and counter-terrorism forces while outlining zero direct funding for the Kurdistan Region. Direct US financial assistance to the Peshmerga was previously eliminated in the fiscal year 2026 budget. The 2027 proposal would further remove military training support for Kurdish forces, a program that received approximately $61 million in the prior funding cycle. The US and Israel then launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response has also included strikes by factions aligned with the Iran-led ‘Axis of Resistance’, including by shadowy armed groups in Iraq that have claimed numerous attacks against alleged US targets in Iraq and the Kurdistan Region. Zimmerman addressed the current security environment in the Middle East and in Iraq where he said Iran-backed armed groups are operating with independent capability and freedom following the six-week war. Rudaw moderates all comments submitted on our website. We welcome ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:16:30.971528+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5835fbacf74255eb",
+    "url": "https://www.rudaw.net/english/middleeast/iran/210520262",
+    "title": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
+    "title_en": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
+    "summary": "ERBIL, Kurdistan Region - Pakistan’s chief of army staff and shuttle diplomat is set to visit the Iranian capital on Thursday, a day after Tehran confirmed it is reviewing a new response received from Washington via Islamabad. The visit comes amid sharp public exchanges between American and Iranian officials, as the window for reaching a deal appears to be narrowing. “Field Marshal Asim Munir, Commander of the Pakistani Army, is travelling to Tehran today to continue talks and consultations with Iranian officials, acting as a mediator between Tehran and Washington,” the state-affiliated Iranian Students' News Agency (ISNA) reported, without providing further details. The visit comes a day after Iranian foreign ministry Spokesperson Esmaeil Baqaei confirmed on Wednesday that “the exchange of messages continues between Iran and the US through the Pakistani mediator, and based on the same initial 14-point Iranian text, the exchange of messages has taken place over several rounds.” “We received the views of the American side, and they are under review,” the senior diplomat said in an interview with Iranian state broadcaster. He further emphasized that the current focus is on ending the war on all fronts, including Lebanon, while also calling for the unfreezing of Iranian assets and an end to US actions against Iranian shipping. The trip by the Pakistani army chief comes days after Islamabad’s Interior Minister Mohsin Naqvi made back-to-back diplomatic visits to Tehran within the past week, beginning a two-day trip on Saturday during which he met Iranian President Masoud Pezeshkian and other senior officials. Naqvi returned to Tehran on Wednesday for another round of rapid meetings amid a fast-moving back-channel effort to keep the US-Iran talks from collapsing. The intensified efforts by the Pakistani mediator comes amid high-toned public messaging by American and Iranian officials. US Vice President JD Vance reiterated on Tuesday that “Iran cannot have a nuclear weapon",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:16:19.244777+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2acce73606ddd885",
+    "url": "https://www.rudaw.net/english/kurdistan/190520262",
+    "title": "Expat students learning the Kurdish language in Sulaimani",
+    "title_en": "Expat students learning the Kurdish language in Sulaimani",
+    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:16:01.948070+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:15:48.382974+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15ec42f1ff05f06e",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
+    "title": "لەگەڵ رەنج - ژینگە پارێزان",
+    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:13:46.808315+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "109395490cc81733",
+    "url": "https://www.rudaw.net/sorani/business/160620212",
+    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:13:20.426404+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47c3dab35b4f7717",
+    "url": "https://www.rudaw.net/sorani/world/220520263",
+    "title": "تره‌مپ: 5000 سه‌رباز بۆ پۆڵه‌ندا ده‌نێرین",
+    "title_en": "تره‌مپ: 5000 سه‌رباز بۆ پۆڵه‌ندا ده‌نێرین",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی دادی ئەڵمانیا بە رووداوی راگەیاند، کۆمەڵێک رێکاری نوێ دژ بە تووندوتیژیی خێزانی و تایبەت بۆ \"پاراستنی ژنان و منداڵان\" دەچنە بواری جێبەجێکردنەوە. ئاماژەی بەوە کرد، بەپێی یەکێک لە رێکارەکان، دادوەران دەتوانن \"کەلەپچەی ئەلیکترۆنی\" بەسەر تۆمەتباراندا بسەپێنن تاوەکو لە رێگەی چاودێریی 24 کاژێرییەوە، قوربانییەکان لە تووندوتیژی و مەترسیی زیاتر بپارێزرێن.",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:13:09.589998+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8508aaba0090c936",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2105202617",
+    "title": "لە دهۆک و هەولێر نزیکەی 10 هەزار پارچە زەوی دابەشکران",
+    "title_en": "لە دهۆک و هەولێر نزیکەی 10 هەزار پارچە زەوی دابەشکران",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەرایەتیی گشتیی بەرەنگاربوونەوەی مادە هۆشبەرەکان و کارتێکەرە عەقڵییەکانی عێراق دەڵێت، لە خانەقین دەستیان بەسەر 85 کیلۆگرام حەبی (کەپتاگۆن)دا گرتووە. ئۆپەراسیۆنەکە بە هاوئاهەنگی لەگەڵ بەڕێوەبەرایەتیی مادە هۆشبەرەکانی سلێمانی ئەنجامدراوە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:12:45.858309+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d19cecaffa24567",
+    "url": "https://www.rudaw.net/sorani/business/021020232",
+    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T08:12:33.359182+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -24,7 +204,7 @@
     "title_en": "The freedom of art is the freedom to think",
     "summary": "The history of the Kurds is not only a history of displacement, repression, and denied identity. It is also a history of survival through language, music, poetry, and memory. When states tried to erase names, ban languages, and silence cultures, music often remained the last space of freedom. The voice of the dengbêj, the song of exile, the poetry of loss, and the stories told by mothers became forms of resistance. For the Kurds, art was never merely entertainment. It was dignity, memory, and psychological survival. And among all forms of art, music held a special place. Kurdish musicians carried a people’s emotions across borders, prisons, exile, and generations. Long before political institutions existed, songs preserved collective memory. A melody often survived where books, schools, and even villages disappeared. That is why artistic freedom is not a secondary issue for Kurdish society. It is an existential one. A people that was forced into silence for generations should not silence its own artists and musicians in the name of a “higher truth.” Yet this is increasingly happening within parts of the Kurdish cultural scene. In recent years, a growing divide has emerged between independent artists and those who believe art and music must serve a political organization, an ideology, or a nationalist line. Of course, every artist has the right to be political. Kurdish music itself was often born from suffering, resistance, and the longing for freedom. Many singers became symbols of collective struggle. There is nothing wrong with musicians supporting political movements or organizations. The problem begins when commitment turns into pressure. Today, Kurdish musicians increasingly attack one another publicly. Some accuse others of betrayal because they perform at certain events, speak to certain media outlets, or refuse to align themselves politically. Others are insulted because of their wealth, their personal lifestyle, their families, or their artistic choices. So",
     "source": "rudaw-english",
-    "category": "security",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
@@ -65,24 +245,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T07:47:32.422633+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2acce73606ddd885",
-    "url": "https://www.rudaw.net/english/kurdistan/190520262",
-    "title": "Expat students learning the Kurdish language in Sulaimani",
-    "title_en": "Expat students learning the Kurdish language in Sulaimani",
-    "summary": "ERBIL, Kurdistan Region - Expatriate students at the International School of Choueifat in the Kurdistan Region’s eastern city of Sulaimani are learning the Kurdish language as part of the school curriculum, creating a diverse learning environment in Kurdistan. “I am in the first grade of primary school. I am trying to learn the Kurdish language, and I know the days of the week in Kurdish,” student Ahmed Mohammed told Rudaw. Hamza Zain, another student, said he is “from Pakistan and in the first grade, and I like learning the Kurdish language.” The Kurdish language is being taught as a core subject in Sulaimani, integrating students into the local culture from the first grade. Some of the students learning Kurdish have been living in the Kurdistan Region for several years. Fourth-grade student Ian Kog, whose family relocated from Cameroon five years ago, told Rudaw, “I am from Cameroon. I live in Sulaimani, and I like the Kurdish language.” Meanwhile, Mohammed Yahya, a student from Egypt, said he has been living in Sulaimani for six years. He added that he loves football and proudly owns Kurdish clothes, which his father bought for him. Foreign staff members residing in the region also reported engaging with local traditions and culture. “I am from Lebanon and I am a computer teacher. I have been living in Kurdistan for several years,” teacher Samara Jihad told Rudaw. The initiative has brought together students and teachers from around the world, fostering a diverse and inclusive learning environment in Kurdistan.  Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenopho",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T07:47:20.105367+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -155,24 +317,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T07:44:40.365702+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "47c3dab35b4f7717",
-    "url": "https://www.rudaw.net/sorani/world/220520263",
-    "title": "تره‌مپ: 5000 سه‌رباز بۆ پۆڵه‌ندا ده‌نێرین",
-    "title_en": "تره‌مپ: 5000 سه‌رباز بۆ پۆڵه‌ندا ده‌نێرین",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی دادی ئەڵمانیا بە رووداوی راگەیاند، کۆمەڵێک رێکاری نوێ دژ بە تووندوتیژیی خێزانی و تایبەت بۆ \"پاراستنی ژنان و منداڵان\" دەچنە بواری جێبەجێکردنەوە. ئاماژەی بەوە کرد، بەپێی یەکێک لە رێکارەکان، دادوەران دەتوانن \"کەلەپچەی ئەلیکترۆنی\" بەسەر تۆمەتباراندا بسەپێنن تاوەکو لە رێگەی چاودێریی 24 کاژێرییەوە، قوربانییەکان لە تووندوتیژی و مەترسیی زیاتر بپارێزرێن.",
-    "source": "rudaw-sorani",
-    "category": "weather",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T07:44:29.666150+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -324,42 +468,6 @@
     }
   },
   {
-    "id": "5835fbacf74255eb",
-    "url": "https://www.rudaw.net/english/middleeast/iran/210520262",
-    "title": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
-    "title_en": "Pakistan steps up mediation efforts as US-Iran talks face narrowing window",
-    "summary": "ERBIL, Kurdistan Region - Pakistan’s chief of army staff and shuttle diplomat is set to visit the Iranian capital on Thursday, a day after Tehran confirmed it is reviewing a new response received from Washington via Islamabad. The visit comes amid sharp public exchanges between American and Iranian officials, as the window for reaching a deal appears to be narrowing. “Field Marshal Asim Munir, Commander of the Pakistani Army, is travelling to Tehran today to continue talks and consultations with Iranian officials, acting as a mediator between Tehran and Washington,” the state-affiliated Iranian Students' News Agency (ISNA) reported, without providing further details. The visit comes a day after Iranian foreign ministry Spokesperson Esmaeil Baqaei confirmed on Wednesday that “the exchange of messages continues between Iran and the US through the Pakistani mediator, and based on the same initial 14-point Iranian text, the exchange of messages has taken place over several rounds.” “We received the views of the American side, and they are under review,” the senior diplomat said in an interview with Iranian state broadcaster. He further emphasized that the current focus is on ending the war on all fronts, including Lebanon, while also calling for the unfreezing of Iranian assets and an end to US actions against Iranian shipping. The trip by the Pakistani army chief comes days after Islamabad’s Interior Minister Mohsin Naqvi made back-to-back diplomatic visits to Tehran within the past week, beginning a two-day trip on Saturday during which he met Iranian President Masoud Pezeshkian and other senior officials. Naqvi returned to Tehran on Wednesday for another round of rapid meetings amid a fast-moving back-channel effort to keep the US-Iran talks from collapsing. The intensified efforts by the Pakistani mediator comes amid high-toned public messaging by American and Iranian officials. US Vice President JD Vance reiterated on Tuesday that “Iran cannot have a nuclear weapon",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T07:17:08.656159+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "9d19cecaffa24567",
-    "url": "https://www.rudaw.net/sorani/business/021020232",
-    "title": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "title_en": "بەرهەمهێنانی نەوتی هەرێمی کوردستان زیادیکردووە",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T07:14:31.776313+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "862f92cb963b161f",
     "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---gawhari-shin/03092025095306",
     "title": "گەوهەری شین",
@@ -461,24 +569,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T06:44:28.646472+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "109395490cc81733",
-    "url": "https://www.rudaw.net/sorani/business/160620212",
-    "title": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "title_en": "پرۆژەی نیشتەجێبوونی وەیڤی ئەڤێنیو تاوەرز",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکوەزیرانی بەریتانیا، سزاکانی سەر نەوتی رووسیای سووک کرد. ئەم بڕیارە نوێیەی حکومەتی بەریتانیا رێگە دەدات ئەو سووتەمەنییەی کە لە نەوتی رووسیاوە بەرهەم دەهێنرێ، هاوردەی بەریتانیا بکرێ. ئەم هەنگاوە دوای ئەوە دێت کە جەنگی ئێران بووە هۆی بەرزبوونەوەی چاوەڕواننەکراوی نرخی سووتەمەنی و وای کرد ستامەر بە بڕیارەکانی پێشوویدا بچێتەوە",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T06:44:19.757322+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -641,24 +731,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T06:17:29.510298+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T06:17:14.870005+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1008,41 +1080,6 @@
     }
   },
   {
-    "id": "8508aaba0090c936",
-    "url": "https://www.rudaw.net/sorani/kurdistan/2105202617",
-    "title": "لە دهۆک و هەولێر نزیکەی 10 هەزار پارچە زەوی دابەشکران",
-    "title_en": "Nearly 10,000 plots of land distributed in Duhok and Erbil",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ ئەندامێکی سەرکردایەتیی یەکێتیی نیشتمانیی کوردستان، رایدەگەیێنێت، وەڵامی حیزبەکەی بۆ دەستپێشخەرییەکەی یەکگرتووی ئیسلامیی کوردستان بۆ چارەسەرکردنی کێشەکانی نێوان یەکێتی و پارتی \"ئەرێنی\" بووە و چاوەڕوان دەکرێت لە ئایندەیەکی نزیکدا پارتی و یەکێتی کۆببنەوە.",
-    "source": "rudaw-sorani",
-    "category": "politics",
-    "sentiment": "positive",
-    "entities": [
-      {
-        "name": "Duhok",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Erbil",
-        "type": "LOCATION"
-      },
-      {
-        "name": "Kurdistan National Union",
-        "type": "ORGANIZATION"
-      },
-      {
-        "name": "Islamic Union of Kurdistan",
-        "type": "ORGANIZATION"
-      }
-    ],
-    "breaking": 1,
-    "timestamp": "2026-05-22T04:47:26.037545+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "db6f4373173235b4",
     "url": "https://www.rudaw.net/sorani/middleeast/iraq/210520269",
     "title": "قسەی وەزیری دارایی عێراق بۆ رووداو لەبارەی خەرجکردنی مووچە پێش جەژن",
@@ -1214,24 +1251,6 @@
     }
   },
   {
-    "id": "1f563e43c096166d",
-    "url": "https://www.rudaw.net/english/world/190520264",
-    "title": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
-    "title_en": "US official urges continued Peshmerga funding amid 2027 budget cuts proposal",
-    "summary": "ERBIL, Kurdistan Region - US officials on Tuesday discussed sustaining military support for the Kurdish Peshmerga amid proposed cuts to counter-Islamic State (ISIS) funding and regional security shifts following Washington’s latest military campaign against Iran. Assistant Secretary of War for International Security Affairs Dan Zimmerman supported congressional funding to maintain the security partnership, telling a congressional committee that the US would be “hard-pressed to find a more willing and capable group” than the Kurds in Iraq. The remarks come as the fiscal year 2027 budget proposal seeks to centralize the Counter-ISIS Train and Equip Fund in Baghdad. The request allocates $118.9 million to federal Iraqi defense and counter-terrorism forces while outlining zero direct funding for the Kurdistan Region. Direct US financial assistance to the Peshmerga was previously eliminated in the fiscal year 2026 budget. The 2027 proposal would further remove military training support for Kurdish forces, a program that received approximately $61 million in the prior funding cycle. The US and Israel then launched a large-scale aerial campaign against Iran in late February, striking thousands of targets across the country during six weeks of hostilities. In response, Iran carried out thousands of drone and missile strikes across the Middle East, targeting alleged US assets - particularly in Gulf Arab states - as well as launching retaliatory attacks against Israel. The Iranian response has also included strikes by factions aligned with the Iran-led ‘Axis of Resistance’, including by shadowy armed groups in Iraq that have claimed numerous attacks against alleged US targets in Iraq and the Kurdistan Region. Zimmerman addressed the current security environment in the Middle East and in Iraq where he said Iran-backed armed groups are operating with independent capability and freedom following the six-week war. Rudaw moderates all comments submitted on our website. We welcome ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T02:45:41.760297+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "508437d052e7ea1d",
     "url": "https://www.rudaw.net/sorani/kurdistan/0207202326",
     "title": "ئاوی ژێر زەوی چۆن دروستدەبێت؟",
@@ -1296,24 +1315,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T02:13:01.391927+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "15ec42f1ff05f06e",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---jingaparezan/24112025120446",
-    "title": "لەگەڵ رەنج - ژینگە پارێزان",
-    "title_en": "لەگەڵ رەنج - ژینگە پارێزان",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T02:12:44.555315+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -19132,24 +19133,6 @@
     "summary": "هەوار ئیسماعیل به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە تورکیا زانکۆی بیلگی زۆرتر لە تورکیا کاردانەوەکانی بڕیاری دادگەی ئەنقەرە بۆ گەڕاندنەوەی کەمال کڵچدارئۆغڵو و لەکارلادانی ئۆزگور ئۆزەل دادگە بڕیاریدا؛ کۆنگرەی جەهەپە هەڵوەشێندرایەوە و ئۆزەل لە پۆستەکەی دوورخرایەوە لە شارێکی تورکیا بەهۆی مەترسیی لافاو 4 هەزار ماڵ چۆڵکران ئاکپارتی داوا دەکات ئەنجوومەنی راو",
     "source": "rudaw-sorani",
     "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": null,
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "27b691bb8556d3ff",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/220520262",
-    "title": "Iraq’s new administration moves to repair regional ties after Gulf attacks",
-    "title_en": "Iraq’s new administration moves to repair regional ties after Gulf attacks",
-    "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Iraqi parliament Speaker Haibet al-Halbousi (left) meets with Iraqi Prime Minister Ali al-Zaidi (right) in Baghdad on May 21, 2026. Photo: Haibet al-Halbousi/Facebook Also in Iraq Iraq says missing Bolivian-flagged ships did not enter its waters Iraqi court mistakenly issues arrest warrant for 4-y",
-    "source": "rudaw-sorani",
-    "category": "security",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
