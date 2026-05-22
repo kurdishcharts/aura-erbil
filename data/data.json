@@ -1,23 +1,5 @@
 [
   {
-    "id": "18e1a2dac6a61490",
-    "url": "https://www.rudaw.net/english/opinion/21052026",
-    "title": "The freedom of art is the freedom to think",
-    "title_en": "The freedom of art is the freedom to think",
-    "summary": "The history of the Kurds is not only a history of displacement, repression, and denied identity. It is also a history of survival through language, music, poetry, and memory. When states tried to erase names, ban languages, and silence cultures, music often remained the last space of freedom. The voice of the dengbêj, the song of exile, the poetry of loss, and the stories told by mothers became forms of resistance. For the Kurds, art was never merely entertainment. It was dignity, memory, and psychological survival. And among all forms of art, music held a special place. Kurdish musicians carried a people’s emotions across borders, prisons, exile, and generations. Long before political institutions existed, songs preserved collective memory. A melody often survived where books, schools, and even villages disappeared. That is why artistic freedom is not a secondary issue for Kurdish society. It is an existential one. A people that was forced into silence for generations should not silence its own artists and musicians in the name of a “higher truth.” Yet this is increasingly happening within parts of the Kurdish cultural scene. In recent years, a growing divide has emerged between independent artists and those who believe art and music must serve a political organization, an ideology, or a nationalist line. Of course, every artist has the right to be political. Kurdish music itself was often born from suffering, resistance, and the longing for freedom. Many singers became symbols of collective struggle. There is nothing wrong with musicians supporting political movements or organizations. The problem begins when commitment turns into pressure. Today, Kurdish musicians increasingly attack one another publicly. Some accuse others of betrayal because they perform at certain events, speak to certain media outlets, or refuse to align themselves politically. Others are insulted because of their wealth, their personal lifestyle, their families, or their artistic choices. So",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T05:48:21.397030+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5b099a6845e9a270",
     "url": "https://www.rudaw.net/english/middleeast/iraq/100520266",
     "title": "BP resumes operations in Kirkuk after war-related suspension",
@@ -28,7 +10,223 @@
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
-    "timestamp": "2026-05-22T05:48:11.308246+00:00",
+    "timestamp": "2026-05-22T06:18:13.195085+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "833f7e6ac7625720",
+    "url": "https://www.rudaw.net/english/world/20052026",
+    "title": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
+    "title_en": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
+    "summary": "WASHINGTON DC - US lawmakers are divided over whether Washington should pursue a new agreement with Iran or prepare for further military confrontation, as President Donald Trump ramps up pressure on Tehran while leaving the door open for diplomacy. Speaking to Rudaw on Wednesday, Republican Congressman Joe Wilson said he supports Trump’s push for a deal but warned that Iran’s leadership cannot be trusted. “I’m very grateful that President Trump really wants to reach an agreement to save lives,” Wilson said. “But indeed the [Islamic Revolutionary Guard Corps] IRGC, whoever is running Iran today, it’s clear they’re not trustworthy.” Wilson added that Washington is coordinating with regional and European allies to pressure Tehran into accepting a verifiable agreement. “Iran should reach an agreement, but it’s got to be enforceable,” he said, adding that he believes Trump “will eliminate Iran’s capability to obtain nuclear weapons.” Meanwhile, Democrat Congressman John Garamendi warned against further military escalation, saying negotiations remain the only viable path forward. “The administration has found itself in a quagmire,” Garamendi told Rudaw. “They initiated this war without thinking through all of the ramifications.” “We have to go back to war? It’s not a solution,” he added. “It has to be negotiated. It’s going to take time.” The lawmakers’ comments come after Trump said Tuesday that Iran has only “a limited period of time” to reach a nuclear agreement with Washington. “There’s no question in my mind that they would use it,” he told reporters referring to Iran obtaining a nuclear weapon. “They’re extremely radicalized.” The remarks followed a Truth Social post on Monday in which Trump said he had postponed a planned US military strike on Iran after requests from the Qatari Emir Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and Emirati President Mohamed bin Zayed Al Nahyan. Trump said “serious negotiations” are now underway and expressed co",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:17:49.885900+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "79f715408b993e93",
+    "url": "https://www.rudaw.net/english/middleeast/iran/210520263",
+    "title": "EU parliament calls on members states to shut Iran’s diplomatic missions",
+    "title_en": "EU parliament calls on members states to shut Iran’s diplomatic missions",
+    "summary": "ERBIL, Kurdistan Region - European Parliament on Thursday adopted a resolution censuring the “largest mass murder of protesters” in Iran’s history through executions during and after the latest war with the United States and Israel. It urged member states to close Iranian diplomatic offices on their territories while tightening the sanctions on the country to their maximum level. The European parliament “strongly condemn the death penalty as a measure to deter political mobilization” and “deplore the secret execution of dissidents in March and April, including minors and demand Iranian authorities to immediately release all political prisoners,” the legislature said in a statement. Iran has come under fire for conducting and expediting summary trials during and after its war against the US and Israel - which started on February 28 and tenuously ended with a ceasefire agreement on April 8. Watchdog organizations have verified between 25 and 35 political executions since the beginning of the conflict, overwhelmingly on charges of espionage and “spying for Israel.” As a measure against the executions, the EU parliament called on the member states “close Iranian diplomatic missions associated with the transnational repression and put all sanctions into force.” It has suggested “further” expanding sanctions on the Islamic Revolutionary Guard Corps (IRGC) and “entities associated with the Supreme Leader [Mojtaba Khamenei].” “Members of the IRGC and loyal family members should be banned from entering the EU,” the statement noted. Furthermore, the EU legislative body cited a warning by the UN independent fact-finding mission on Iran that Tehran’s “oppression is leading to crimes against humanity.\" The statement also urged the EU and “like-minded partners” to provide “safe and secure” internet access for Iranians. NetBlocks, a global internet access monitor, reported on Wednesday that Iran’s blackout had reached 82 days, marking the longest nationwide internet shutdown recor",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:17:39.630162+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bfc820d3c48eb997",
+    "url": "https://www.rudaw.net/english/business/21052026",
+    "title": "Kurdistan Region braces for Eid al-Adha tourism surge",
+    "title_en": "Kurdistan Region braces for Eid al-Adha tourism surge",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region is preparing for a surge of holidaymakers during the Islamic Eid al-Adha, with tourism officials reporting rising hotel reservations and expectations of higher visitor numbers compared to Eid al-Fitr, following the end of regional conflict and the start of school holidays. Authorities across the Kurdistan Region say tourists from central and southern Iraq have already begun reserving hotels and tourist accommodations ahead of the holiday, with Duhok reporting that around 70 percent of its hotels are already booked. “There is still one week left until Eid al-Adha, but tourist groups have already begun booking hotels,” Mahmoud Tawfiq, head of the Sulaimani branch of the Kurdistan Association of Hotels and Restaurants, told Rudaw on Thursday. The anticipated tourism boom comes as Iraq seeks to raise its international tourism profile. Last week, Baghdad’s Tourism Authority announced that seven rural tourist villages from across Iraq - including three in the Kurdistan Region - will compete for the United Nations’ Best Tourism Villages title. The nominated Kurdish villages include Biyara in Halabja province, Hiror in Duhok province, and Rawanduz in Erbil province. Sulaimani currently hosts around 380 tourist hotels, 50 budget hotels, eight five-star hotels, as well as hundreds of tourist cabins and huts. Tawfiq said officials expect a much larger influx of visitors than during Eid al-Fitr, when tourism numbers declined due to the US-Israel war with Iran that began in February, days after the start of Ramadan. “Compared to Eid al-Fitr, we expect many more tourists because the war has ended, schools are on break, and it is the spring season, making it the most ideal time for visitors to arrive,” he added. In Erbil province, tourism officials also forecast a strong holiday season. Shukr Aziz, deputy head of the Erbil branch of the association, told Rudaw that authorities are preparing to accommodate larger crowds. “We anticipate",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:17:29.510298+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dfb50373c0e4ed8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
+    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
+    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:17:14.870005+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5c212bfc43f5fb4a",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/220520261",
+    "title": "Iraq says missing Bolivian-flagged ships did not enter its waters",
+    "title_en": "Iraq says missing Bolivian-flagged ships did not enter its waters",
+    "summary": "ERBIL, Kurdistan Region - The two missing Bolivian-flagged ships did not enter Iraqi waters, Iraq’s national ports authority confirmed on Friday, adding that the relevant maritime departments had not received any distress calls either. The statement comes after the vessels disappeared overnight in the Gulf basin amid a sudden communications blackout. The General Company for Ports of Iraq (GCPI) said in a statement that its “maritime departments have not received any distress calls from the two ships, Bridge 1 and Bridge 2, which are flying the Bolivian flag,” affirming that “the two vessels did not enter Iraqi waters.” Moreover, the Company stated that “the specialized maritime departments, including the Marine Control Department and the Search and Rescue Center, have not received any communication or distress calls from the crews of the two ships, and no information is currently available regarding their present location.” The GCPI noted, however, that it had “received communications from security authorities at several ports across the Arabian Gulf region, as well as from the owners of the two vessels, requesting any information related to the aforementioned ships.” Accordingly, it moved to mobilize all personnel in the Marine Control Department and the Search and Rescue Center within Iraqi territorial waters. “Follow-up operations are ongoing through satellite-based electronic tracking systems and in coordination with search and rescue authorities in countries across the region,” the Company added, affirming that “any information or developments will be announced immediately upon receipt.” The two commercial merchant vessels vanished within the Gulf basin overnight leading into Friday, following a sudden and complete communications blackout. Both ships operate under a Bolivian “flag of convenience,” a system in which a shipowner registers a vessel in a foreign country rather than its country of origin. Bridge 1 and Bridge 2 completely disappeared from satellite m",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:17:03.302096+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "715711870088d9cb",
+    "url": "https://www.rudaw.net/sorani/world/190620241",
+    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
+    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی دادی ئەڵمانیا بە رووداوی راگەیاند، کۆمەڵێک رێکاری نوێ دژ بە تووندوتیژیی خێزانی و تایبەت بۆ \"پاراستنی ژنان و منداڵان\" دەچنە بواری جێبەجێکردنەوە. ئاماژەی بەوە کرد، بەپێی یەکێک لە رێکارەکان، دادوەران دەتوانن \"کەلەپچەی ئەلیکترۆنی\" بەسەر تۆمەتباراندا بسەپێنن تاوەکو لە رێگەی چاودێریی 24 کاژێرییەوە، قوربانییەکان لە تووندوتیژی و مەترسیی زیاتر بپارێزرێن.",
+    "source": "rudaw-sorani",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:15:11.378068+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "866e5ee886a3ed4d",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
+    "title": "باکوور لە گوڵان دا",
+    "title_en": "باکوور لە گوڵان دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:15:01.989288+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b89ef4a5fabcc13",
+    "url": "https://www.rudaw.net/sorani/world/2105202613",
+    "title": "ئەڵمانیا دوو کەسی دەستگیرکردووە و تۆمەتباری کردوون بە کاری تیرۆریستی بۆ ئێران",
+    "title_en": "ئەڵمانیا دوو کەسی دەستگیرکردووە و تۆمەتباری کردوون بە کاری تیرۆریستی بۆ ئێران",
+    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی ئەمریکا رایگەیاند، بە رێککەوتن بێت یان بێ رێککەوتن، وڵاتەکەی یۆرانیۆمە پیتێنراوەکەی ئێران دەبات. ئەمەش لە کاتێکدایە مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا باسی لە بەدەستهێنانی بەرەوپێشچوون لە دانوستاندنە ناڕاستەوخۆکان لەگەڵ تاران کردووە.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:14:47.976706+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37f552d6e84073d1",
+    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:14:32.752181+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57327df16e27b8fa",
+    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
+    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:14:23.219626+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e864ce172a6d7aaa",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2105202611",
+    "title": "عێراق داوا دەکات لەگەڵ سعودیە و ئیمارات لێکۆڵینەوەی هاوبەش لەبارەى هێرشە درۆنییەکان بکەن",
+    "title_en": "عێراق داوا دەکات لەگەڵ سعودیە و ئیمارات لێکۆڵینەوەی هاوبەش لەبارەى هێرشە درۆنییەکان بکەن",
+    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ لە پارێزگای دیالە فەرمانی دەستگیرکردن بۆ منداڵێکی چوار ساڵان دەردەچێت بە مادەیەک کە پەیوەندیدارە بە هەڕەشەکردن. بە گوتەی پۆلیس، فەرمانەکە لەلایەن دادوەرەوە دەرچووە و هەڵە لە ناوەکەیدا کراوە، \"لەبری باوکی، ناوی منداڵەکە نووسراوە\".",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T06:14:02.451457+00:00",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "18e1a2dac6a61490",
+    "url": "https://www.rudaw.net/english/opinion/21052026",
+    "title": "The freedom of art is the freedom to think",
+    "title_en": "The freedom of art is the freedom to think",
+    "summary": "The history of the Kurds is not only a history of displacement, repression, and denied identity. It is also a history of survival through language, music, poetry, and memory. When states tried to erase names, ban languages, and silence cultures, music often remained the last space of freedom. The voice of the dengbêj, the song of exile, the poetry of loss, and the stories told by mothers became forms of resistance. For the Kurds, art was never merely entertainment. It was dignity, memory, and psychological survival. And among all forms of art, music held a special place. Kurdish musicians carried a people’s emotions across borders, prisons, exile, and generations. Long before political institutions existed, songs preserved collective memory. A melody often survived where books, schools, and even villages disappeared. That is why artistic freedom is not a secondary issue for Kurdish society. It is an existential one. A people that was forced into silence for generations should not silence its own artists and musicians in the name of a “higher truth.” Yet this is increasingly happening within parts of the Kurdish cultural scene. In recent years, a growing divide has emerged between independent artists and those who believe art and music must serve a political organization, an ideology, or a nationalist line. Of course, every artist has the right to be political. Kurdish music itself was often born from suffering, resistance, and the longing for freedom. Many singers became symbols of collective struggle. There is nothing wrong with musicians supporting political movements or organizations. The problem begins when commitment turns into pressure. Today, Kurdish musicians increasingly attack one another publicly. Some accuse others of betrayal because they perform at certain events, speak to certain media outlets, or refuse to align themselves politically. Others are insulted because of their wealth, their personal lifestyle, their families, or their artistic choices. So",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "2026-05-22T05:48:21.397030+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -65,24 +263,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T05:47:50.432313+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "2dfb50373c0e4ed8",
-    "url": "https://www.rudaw.net/english/middleeast/iraq/050520262",
-    "title": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "title_en": "KDP, Halbousi agree to ‘turn a new page’ after years of tensions",
-    "summary": " Rudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw. To be approved for publication, however, your comments must meet our community guidelines. We will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion. Comments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected. ",
-    "source": "rudaw-english",
-    "category": "security",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T05:47:31.312837+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -137,24 +317,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T05:47:00.896316+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "79f715408b993e93",
-    "url": "https://www.rudaw.net/english/middleeast/iran/210520263",
-    "title": "EU parliament calls on members states to shut Iran’s diplomatic missions",
-    "title_en": "EU parliament calls on members states to shut Iran’s diplomatic missions",
-    "summary": "ERBIL, Kurdistan Region - European Parliament on Thursday adopted a resolution censuring the “largest mass murder of protesters” in Iran’s history through executions during and after the latest war with the United States and Israel. It urged member states to close Iranian diplomatic offices on their territories while tightening the sanctions on the country to their maximum level. The European parliament “strongly condemn the death penalty as a measure to deter political mobilization” and “deplore the secret execution of dissidents in March and April, including minors and demand Iranian authorities to immediately release all political prisoners,” the legislature said in a statement. Iran has come under fire for conducting and expediting summary trials during and after its war against the US and Israel - which started on February 28 and tenuously ended with a ceasefire agreement on April 8. Watchdog organizations have verified between 25 and 35 political executions since the beginning of the conflict, overwhelmingly on charges of espionage and “spying for Israel.” As a measure against the executions, the EU parliament called on the member states “close Iranian diplomatic missions associated with the transnational repression and put all sanctions into force.” It has suggested “further” expanding sanctions on the Islamic Revolutionary Guard Corps (IRGC) and “entities associated with the Supreme Leader [Mojtaba Khamenei].” “Members of the IRGC and loyal family members should be banned from entering the EU,” the statement noted. Furthermore, the EU legislative body cited a warning by the UN independent fact-finding mission on Iran that Tehran’s “oppression is leading to crimes against humanity.\" The statement also urged the EU and “like-minded partners” to provide “safe and secure” internet access for Iranians. NetBlocks, a global internet access monitor, reported on Wednesday that Iran’s blackout had reached 82 days, marking the longest nationwide internet shutdown recor",
-    "source": "rudaw-sorani",
-    "category": "fire",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T05:46:51.455359+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -240,47 +402,11 @@
     "title_en": "بەرپرسێکی ئاسایشی حەسەکە بۆ رووداو: دوای لابردنی مین، خەڵکی سەرێ کانیش دەگەڕێنەوە",
     "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاوی هەرێمی کوردستان رایدەگەیێنێت، بەهۆی بارانبارینی زۆرەوە بەرهەمی گەنمی ئەمساڵ دەگاتە سەرووی دوو ملیۆن تۆن، بەڵام حکومەتی عێراق تەنیا ئامادەیە 400 هەزار تۆن وەربگرێت، گوتەبێژی وەزارەتەکەش دەڵێت: \"بەغدا بە لۆجیک و دادپەروەری مامەڵە ناکات.\"",
     "source": "rudaw-sorani",
-    "category": "weather",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T05:44:08.455908+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "1b89ef4a5fabcc13",
-    "url": "https://www.rudaw.net/sorani/world/2105202613",
-    "title": "ئەڵمانیا دوو کەسی دەستگیرکردووە و تۆمەتباری کردوون بە کاری تیرۆریستی بۆ ئێران",
-    "title_en": "ئەڵمانیا دوو کەسی دەستگیرکردووە و تۆمەتباری کردوون بە کاری تیرۆریستی بۆ ئێران",
-    "summary": " وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ سەرۆکی ئەمریکا رایگەیاند، بە رێککەوتن بێت یان بێ رێککەوتن، وڵاتەکەی یۆرانیۆمە پیتێنراوەکەی ئێران دەبات. ئەمەش لە کاتێکدایە مارکۆ روبیۆ، وەزیری دەرەوەی ئەمریکا باسی لە بەدەستهێنانی بەرەوپێشچوون لە دانوستاندنە ناڕاستەوخۆکان لەگەڵ تاران کردووە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T05:43:43.241034+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "57327df16e27b8fa",
-    "url": "https://www.rudaw.net/sorani/onair/tv/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T05:43:32.521011+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -488,24 +614,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-22T04:50:38.695892+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "833f7e6ac7625720",
-    "url": "https://www.rudaw.net/english/world/20052026",
-    "title": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
-    "title_en": "US lawmakers split over Iran policy as Trump pushes diplomacy, threats",
-    "summary": "WASHINGTON DC - US lawmakers are divided over whether Washington should pursue a new agreement with Iran or prepare for further military confrontation, as President Donald Trump ramps up pressure on Tehran while leaving the door open for diplomacy. Speaking to Rudaw on Wednesday, Republican Congressman Joe Wilson said he supports Trump’s push for a deal but warned that Iran’s leadership cannot be trusted. “I’m very grateful that President Trump really wants to reach an agreement to save lives,” Wilson said. “But indeed the [Islamic Revolutionary Guard Corps] IRGC, whoever is running Iran today, it’s clear they’re not trustworthy.” Wilson added that Washington is coordinating with regional and European allies to pressure Tehran into accepting a verifiable agreement. “Iran should reach an agreement, but it’s got to be enforceable,” he said, adding that he believes Trump “will eliminate Iran’s capability to obtain nuclear weapons.” Meanwhile, Democrat Congressman John Garamendi warned against further military escalation, saying negotiations remain the only viable path forward. “The administration has found itself in a quagmire,” Garamendi told Rudaw. “They initiated this war without thinking through all of the ramifications.” “We have to go back to war? It’s not a solution,” he added. “It has to be negotiated. It’s going to take time.” The lawmakers’ comments come after Trump said Tuesday that Iran has only “a limited period of time” to reach a nuclear agreement with Washington. “There’s no question in my mind that they would use it,” he told reporters referring to Iran obtaining a nuclear weapon. “They’re extremely radicalized.” The remarks followed a Truth Social post on Monday in which Trump said he had postponed a planned US military strike on Iran after requests from the Qatari Emir Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and Emirati President Mohamed bin Zayed Al Nahyan. Trump said “serious negotiations” are now underway and expressed co",
-    "source": "rudaw-english",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T04:50:28.398357+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -833,24 +941,6 @@
     }
   },
   {
-    "id": "37f552d6e84073d1",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/lagal-ranj---zmani-kurdi-la-kurdistan/15092025010729",
-    "title": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "title_en": "\"لە زمانی کوردیدا 8.3 هێندەی فارسی چاوگ هەیە\"",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T04:12:13.513618+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "5752ec0050cf173b",
     "url": "https://www.rudaw.net/sorani/world/2005202610",
     "title": "جۆ ویڵسن بۆ رووداو: هەرێمی کوردستان خاڵێکی گەش و نموونەی سەقامگیرییە",
@@ -862,24 +952,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T03:43:34.585644+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "e864ce172a6d7aaa",
-    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2105202611",
-    "title": "عێراق داوا دەکات لەگەڵ سعودیە و ئیمارات لێکۆڵینەوەی هاوبەش لەبارەى هێرشە درۆنییەکان بکەن",
-    "title_en": "عێراق داوا دەکات لەگەڵ سعودیە و ئیمارات لێکۆڵینەوەی هاوبەش لەبارەى هێرشە درۆنییەکان بکەن",
-    "summary": "وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ بەڕێوەبەرایەتیی کشتوکاڵی ئەنبار رایگەیاند، زیاتر لە نیو ملیۆن ماسییان خستووەتە دەریاچەی بەنداوی حەدیسە؛ هاوکات بەرپرسێکی کشتوکاڵی کەرکووکیش دەڵێت، لە چوارچێوەی هەمان پلاندا 500 هەزار ماسی دیکە دەخرێنە نێو دەریاچەکانی پارێزگای کەرکووک.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T03:42:56.339847+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1156,24 +1228,6 @@
     }
   },
   {
-    "id": "866e5ee886a3ed4d",
-    "url": "https://www.rudaw.net/sorani/onair/radio/episodes/episode/documentari---bakur-la-gulanda-bo-paxsh/16082025115357",
-    "title": "باکوور لە گوڵان دا",
-    "title_en": "باکوور لە گوڵان دا",
-    "summary": "",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T02:12:05.463141+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
     "id": "0cc10c828a7a7f9d",
     "url": "https://www.rudaw.net/sorani/sports/010420266",
     "title": "وردەکاریی نوێ دەربارەی دروشمەکانی هاندەرانی ئیسپانیا دژی موسڵمانان",
@@ -1293,24 +1347,6 @@
     "entities": [],
     "breaking": 1,
     "timestamp": "2026-05-22T00:16:55.162411+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "bfc820d3c48eb997",
-    "url": "https://www.rudaw.net/english/business/21052026",
-    "title": "Kurdistan Region braces for Eid al-Adha tourism surge",
-    "title_en": "Kurdistan Region braces for Eid al-Adha tourism surge",
-    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region is preparing for a surge of holidaymakers during the Islamic Eid al-Adha, with tourism officials reporting rising hotel reservations and expectations of higher visitor numbers compared to Eid al-Fitr, following the end of regional conflict and the start of school holidays. Authorities across the Kurdistan Region say tourists from central and southern Iraq have already begun reserving hotels and tourist accommodations ahead of the holiday, with Duhok reporting that around 70 percent of its hotels are already booked. “There is still one week left until Eid al-Adha, but tourist groups have already begun booking hotels,” Mahmoud Tawfiq, head of the Sulaimani branch of the Kurdistan Association of Hotels and Restaurants, told Rudaw on Thursday. The anticipated tourism boom comes as Iraq seeks to raise its international tourism profile. Last week, Baghdad’s Tourism Authority announced that seven rural tourist villages from across Iraq - including three in the Kurdistan Region - will compete for the United Nations’ Best Tourism Villages title. The nominated Kurdish villages include Biyara in Halabja province, Hiror in Duhok province, and Rawanduz in Erbil province. Sulaimani currently hosts around 380 tourist hotels, 50 budget hotels, eight five-star hotels, as well as hundreds of tourist cabins and huts. Tawfiq said officials expect a much larger influx of visitors than during Eid al-Fitr, when tourism numbers declined due to the US-Israel war with Iran that began in February, days after the start of Ramadan. “Compared to Eid al-Fitr, we expect many more tourists because the war has ended, schools are on break, and it is the spring season, making it the most ideal time for visitors to arrive,” he added. In Erbil province, tourism officials also forecast a strong holiday season. Shukr Aziz, deputy head of the Erbil branch of the association, told Rudaw that authorities are preparing to accommodate larger crowds. “We anticipate",
-    "source": "rudaw-english",
-    "category": "infrastructure",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-22T00:16:16.830035+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -1536,24 +1572,6 @@
     ],
     "breaking": 1,
     "timestamp": "2026-05-21T17:42:49.065600+00:00",
-    "location": {
-      "name": "Erbil",
-      "lat": 36.1912,
-      "lng": 44.0092
-    }
-  },
-  {
-    "id": "715711870088d9cb",
-    "url": "https://www.rudaw.net/sorani/world/190620241",
-    "title": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "title_en": "نەتەوە یەکگرتووەکان: خەڵک و هەسارەکەشمان بەهۆی کاریگەرییەکانی شەڕەوە دەناڵێنن",
-    "summary": "  وەک میوان کۆمێنتێك بنووسە یان وەرە ژوورەوە و هه‌موو خزمەتگوزارییەکان به‌كاربێنه‌ هەڵبژاردەی نیشتمانیی تۆپی پێی ئێران، کە بەشداری لە یارییەکانی کۆتایی مۆندیالی 2026 دەکات، بۆ وەرگرتنی ڤیزای چوونە ناو خاکی ئەمریکا، سەردانی باڵیۆزخانەی ئەو وڵاتەی لە ئەنقەرە کرد. ئەم هەنگاوەی ئێرانییەکان دوای لێدوانەکەی دۆناڵد ترەمپ دێت کە رایگەیاندبوو چوونە ناوەوەی شاندی ئێران بۆ ئەمریکا گونجاو نییە.",
-    "source": "rudaw-sorani",
-    "category": "general",
-    "sentiment": "neutral",
-    "entities": [],
-    "breaking": 1,
-    "timestamp": "2026-05-21T17:42:37.632526+00:00",
     "location": {
       "name": "Erbil",
       "lat": 36.1912,
@@ -19084,6 +19102,24 @@
     "summary": "Rudaw SHARE ON Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger Add To Favorites Error occured during this request! Please try again later. Iraq Members of the police force deployed in Diyala province on May 21, 2026. Photo: Diyala Police Command/Facebook Also in Iraq Top security official rejects use of Iraqi territory for attacks on other countries Iraq’s ruling alliances moves to finalize cabinet after Eid, rejects attack on Gulf states",
     "source": "rudaw-english",
     "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": null,
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5794553f6a2bf812",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/22052026",
+    "title": "تێپەڕبوونی ئاژەڵی سووری بە خاکی عێراقدا قەدەخە کرا",
+    "title_en": "تێپەڕبوونی ئاژەڵی سووری بە خاکی عێراقدا قەدەخە کرا",
+    "summary": "هەستیار قادر به‌شی بكه‌ لە Share on  Facebook Share on Twitter Share on Whatsapp Share on Telegram Share on Viber Share on Messenger زیادی بکە بۆ لیستی دڵخوازەکانم هەڵەیەک روویدا! دووبارە هەوڵبدە عێراق چەند ئاژەڵێک لە مەیدان ئاژەڵان لە هەولێر. وێنە: بڵند تاهیر - رووداو زۆرتر لە عێراق عێراق داوا دەکات لەگەڵ سعودیە و ئیمارات لێکۆڵینەوەی هاوبەش لەبارەى هێرشە درۆنییەکان بکەن راسپاردەی حەوت رێکخراو: کورسییەکانی پەرلەمانی عێراق زیاد بکەن و عێراق بکەنەوە یەک بازنە قسەی وەزیری دارایی عێراق بۆ رووداو لەب",
+    "source": "rudaw-sorani",
+    "category": "general",
     "sentiment": "neutral",
     "entities": [],
     "breaking": 1,
