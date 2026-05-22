@@ -1,3 +1,4 @@
+cat > ~/aura-erbil/scraper/scraper_groq.py << 'EOF'
 """
 Aura-Erbil — AI Enrichment Scraper (Groq Cloud API)
 Uses the SAME database and JSON export as the main scraper.
@@ -533,4 +534,4 @@ def _run():
 
 if __name__ == "__main__":
     _run()
-
+EOF

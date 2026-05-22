@@ -38,7 +38,6 @@ jobs:
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
         continue-on-error: true
 
-
       - name: Run Telegram scraper
         if: false
         run: python scraper/scraper_telegram.py
