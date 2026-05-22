@@ -1,6 +1,7 @@
-venv/
-.env
-.env.local
-*.pyc
-__pycache__/
-.DS_Store
+*.log
+*.err
+all_code.txt
+chunk_*
+cron_push.sh
+safe_cron_push.sh
+.github/workflows/update-data.yml
