@@ -1,0 +1,199 @@
+#!/bin/bash
+cd ~/aura-erbil
+source venv/bin/activate
+exec >> ~/aura-erbil/enrich.log 2>&1
+echo "=== $(date) ==="
+
+# Start Ollama if not running
+if ! pgrep -x "ollama" > /dev/null; then
+    /opt/homebrew/bin/ollama serve &
+    sleep 5
+fi
+
+export OLLAMA_NUM_THREADS=4
+export OLLAMA_KEEP_ALIVE=0
+
+python3 << 'PYEOF'
+import sqlite3, json, time, requests, os, subprocess
+import ollama
+
+ANALYSIS_MODEL = "llama3.2:3b"
+TRANSLATE_MODEL = "translategemma:4b"
+DB_PATH = "data/aura.db"
+
+def unload_model(model_name):
+    for attempt in range(3):
+        try:
+            r = requests.post("http://localhost:11434/api/generate",
+                json={"model": model_name, "prompt": "", "keep_alive": 0}, timeout=10)
+            if r.status_code == 200:
+                return True
+        except:
+            pass
+        time.sleep(1)
+    return False
+
+def translate_title(title):
+    if not any('\u0600' <= c <= '\u06ff' for c in title):
+        return title
+    prompt = (
+        "You are a Sorani Kurdish to English translator. "
+        "Translate the following title accurately into English. "
+        "Return ONLY the translated title, no extra text.\n\n"
+        f"Title: {title}"
+    )
+    try:
+        resp = ollama.chat(model=TRANSLATE_MODEL, messages=[{"role":"user","content":prompt}], options={"temperature":0})
+        translated = resp["message"]["content"].strip()
+        translated = translated.split('\n')[0].strip('"').strip()
+        print(f"  [translate] Sorani → English: {translated[:60]}")
+        return translated
+    except Exception as e:
+        print(f"  [translate] failed ({e})")
+        return title
+
+def enrich(title, summary):
+    SORANI_CITIES = """
+SORANI SCRIPT TO CITY NAME (use these to detect location in Kurdish text):
+هەولێر = erbil        |  سلێمانی = sulaymaniyah  |  دهۆک = duhok
+هەڵەبجە = halabja     |  زاخۆ = zakho             |  ڕانیە = ranya
+کۆیە = koya           |  ئامێدی = amadiya          |  چەمچەماڵ = chamchamal
+شەقڵاوە = shaqlawa   |  کەرکووک = kirkuk          |  مەخمووڕ = makhmur
+سۆران = soran         |  دەربەندیخان = darbandikhan|  پەنجوێن = penjwin
+بارزان = barzan       |  ڕاوەندوز = rawanduz       |  عەقرە = akre
+"""
+    KURDISTAN_CITIES = ["erbil","hewler","sulaymaniyah","slemani","duhok","halabja","zakho","ranya","koya","amadiya","chamchamal","penjwin","kirkuk","sinjar","makhmur","raparin","darbandikhan","shaqlawa","rawanduz","barzan","akre","soran"]
+    prompt = f"""You are an expert geopolitical analyst for the Kurdistan Region of Iraq (KRI).
+
+TASK: Analyse the article below and return a JSON object with EXACTLY these 5 keys.
+
+1. sentiment — impact on the Kurdistan Region ONLY:
+   "positive": good for KRI economy, security, autonomy, diplomacy, infrastructure, rights
+   "negative": bad for KRI stability, security, economy, sovereignty
+   "neutral": about another country with no direct KRI impact
+
+2. category — ONE of: security | politics | economy | infrastructure | weather | fire | traffic | health | culture | general
+
+3. entities — up to 5 named entities directly relevant to KRI. Each: {{"name": "...", "type": "PERSON|ORGANIZATION|LOCATION"}}
+
+4. location_key — the PRIMARY city or district this article is about, lowercase, ONE of:
+   {KURDISTAN_CITIES}
+   Return "erbil" if the article is about KRI generally.
+   Return null ONLY if the article is entirely about a place outside Iraqi Kurdistan.
+
+5. title_en — provide an English translation of the original title if it is in Sorani Kurdish (Arabic script). If already English, return the title unchanged.
+
+RULES:
+- If the article mentions Erbil, Sulaymaniyah, Duhok or other KRI cities — use that city as location_key.
+- If it mentions both KRI and outside places, use the KRI city.
+- Kurdish diaspora news → location_key "erbil", sentiment based on KRI impact.
+- International events (oil prices, Turkey relations, Iran sanctions) → assess real KRI impact, do not auto-neutral.
+
+EXAMPLES:
+Title: "پەیوەندییەکانی هەولێر و ئەنقەرە باستر دەبێت"
+→ {{"sentiment":"positive","category":"politics","entities":[{{"name":"Erbil","type":"LOCATION"}},{{"name":"Ankara","type":"LOCATION"}}],"location_key":"erbil","title_en":"Relations between Erbil and Ankara strengthen"}}
+
+Title: "Terrorist attack kills 3 in Kirkuk marketplace"
+→ {{"sentiment":"negative","category":"security","entities":[{{"name":"Kirkuk","type":"LOCATION"}}],"location_key":"kirkuk","title_en":"Terrorist attack kills 3 in Kirkuk marketplace"}}
+
+Title: "US Federal Reserve raises interest rates"
+→ {{"sentiment":"neutral","category":"economy","entities":[{{"name":"US Federal Reserve","type":"ORGANIZATION"}}],"location_key":null,"title_en":"US Federal Reserve raises interest rates"}}
+
+{SORANI_CITIES}
+
+NOW ANALYSE:
+Title: {title}
+Body: {summary[:2000]}"""
+    try:
+        resp = ollama.chat(model=ANALYSIS_MODEL, messages=[{"role":"user","content":prompt}], format="json", options={"temperature":0})
+        return json.loads(resp["message"]["content"])
+    except:
+        return None
+
+conn = sqlite3.connect(DB_PATH)
+conn.row_factory = sqlite3.Row
+rows = conn.execute("SELECT id, title, summary FROM articles WHERE sentiment='neutral' OR sentiment IS NULL OR sentiment=''").fetchall()
+
+if not rows:
+    print("No articles to enrich.")
+    conn.close()
+    exit(0)
+
+print(f"Enriching {len(rows)} articles…")
+count = 0
+for i, row in enumerate(rows):
+    original_title = row["title"] or ""
+    print(f"\n[{i+1}/{len(rows)}] {original_title[:60]}")
+
+    translated_title = translate_title(original_title)
+    unload_model(TRANSLATE_MODEL)
+
+    combined_title = translated_title if translated_title != original_title else original_title
+    data = enrich(combined_title, row["summary"] or "")
+
+    if data:
+        loc_key = (data.get("location_key") or "").lower().strip()
+        COORDS = {"erbil":(36.1912,44.0092),"hewler":(36.1912,44.0092),"sulaymaniyah":(35.5571,45.4357),"slemani":(35.5571,45.4357),"duhok":(36.8669,43.0032),"halabja":(35.1787,45.9861),"zakho":(37.1441,42.6875),"ranya":(36.2558,44.8783),"koya":(36.0862,44.6283),"amadiya":(37.0924,43.4889),"chamchamal":(35.5279,44.8318),"penjwin":(35.6234,45.9435),"kirkuk":(35.4681,44.3922),"sinjar":(36.3197,41.8694),"makhmur":(35.7738,43.5908)}
+        lat, lng = COORDS.get(loc_key, (None, None))
+        loc_name = loc_key.title() if loc_key and loc_key != "null" else None
+        update_fields = ["title_en=?","category=?","sentiment=?","entities=?"]
+        update_vals = [translated_title, data.get("category","general"), data.get("sentiment","neutral"), json.dumps(data.get("entities",[]))]
+        if lat and lng:
+            update_fields += ["lat=?","lng=?","loc_name=?"]
+            update_vals += [lat, lng, loc_name]
+        update_vals.append(row["id"])
+        conn.execute("UPDATE articles SET " + ",".join(update_fields) + " WHERE id=?", update_vals)
+        conn.commit()
+        count += 1
+        print(f"  → {data['sentiment']:10} | {translated_title[:50]}")
+    else:
+        print("  → SKIPPED (AI returned unusable response)")
+
+    unload_model(ANALYSIS_MODEL)
+    time.sleep(4)
+
+conn.close()
+
+# Export JSON
+conn2 = sqlite3.connect(DB_PATH)
+conn2.row_factory = sqlite3.Row
+rows2 = conn2.execute("SELECT * FROM articles ORDER BY published_at DESC").fetchall()
+records = []
+for r in rows2:
+    records.append({
+        "id": r["id"], "url": r["url"], "title": r["title"],
+        "title_en": r["title_en"] or r["title"], "summary": r["summary"],
+        "source": r["source"], "category": r["category"],
+        "sentiment": r["sentiment"] or "neutral",
+        "entities": json.loads(r["entities"]) if r["entities"] else [],
+        "breaking": 1, "timestamp": r["published_at"],
+        "location": {"name": r["loc_name"], "lat": r["lat"], "lng": r["lng"]}
+    })
+with open("data/data.json","w") as f:
+    json.dump(records, f, ensure_ascii=False, indent=2)
+conn2.close()
+print(f"\nExported {len(records)} records.")
+
+# Git push via SSH (authentication works in cron)
+import subprocess, os, time
+proj_dir = os.path.expanduser("~/aura-erbil")
+subprocess.run(["git","add","data/"], cwd=proj_dir)
+subprocess.run(["git","commit","-m","Kurdistan enrichment w/ TranslateGemma"], cwd=proj_dir)
+for attempt in range(3):
+    subprocess.run(["git","pull","--rebase","origin","main"], cwd=proj_dir)
+    result = subprocess.run(
+        ["git","push","origin","main"],
+        cwd=proj_dir,
+        env={**os.environ, "GIT_SSH_COMMAND": "ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"}
+    )
+    if result.returncode == 0:
+        print("Push succeeded.")
+        break
+    else:
+        print(f"Push attempt {attempt+1} failed, retrying in 10s...")
+        time.sleep(10)
+else:
+    print("Push failed after 3 attempts – data will be pushed next time.")
+PYEOF
+
+echo "Ollama stopped. RAM freed."

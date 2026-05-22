@@ -1,3 +1,4 @@
+cat > ~/aura-erbil/scraper/scraper_groq.py << 'EOF'
 """
 Aura-Erbil — AI Enrichment Scraper (Groq Cloud API)
 Uses the SAME database and JSON export as the main scraper.
@@ -199,6 +200,22 @@ def _detect_location(text: str) -> dict:
             return {"name": place.title(), "lat": lat, "lng": lng}
     return {"name": "Erbil", "lat": 36.1912, "lng": 44.0092}
 
+
+def _geocode_nominatim(query: str):
+    """Return (lat, lng) or (None, None) on failure."""
+    try:
+        url = "https://nominatim.openstreetmap.org/search"
+        params = {"q": query, "format": "json", "limit": 1}
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, params=params, headers=headers, timeout=5)
+        data = resp.json()
+        if data:
+            return float(data[0]["lat"]), float(data[0]["lon"])
+    except Exception:
+        pass
+    return None, None
+
+
 def _same_origin(url: str) -> bool:
     return urlparse(url).netloc == urlparse(BASE_URL).netloc
 
@@ -206,6 +223,7 @@ def _same_origin(url: str) -> bool:
 def _enrich_with_groq(title_original: str, summary: str) -> dict:
     loc_keys = list(LOCATIONS.keys())
     loc_list_str = ", ".join(loc_keys[:40])
+
 
     prompt = f"""You are a news enrichment assistant for the Kurdistan region.
 Given the title and body of a news article, perform these tasks:
@@ -215,11 +233,16 @@ Given the title and body of a news article, perform these tasks:
    security, fire, traffic, infrastructure, weather, general.
 3. From the list below, pick the single location most specific to the article.
    If none match, use "erbil".
+4. Determine the overall sentiment of the article: positive, negative, or neutral.
+5. Extract up to 5 named entities (persons, organizations, places) mentioned in the article.
+   For each entity, specify a type: PERSON, ORGANIZATION, or LOCATION.
 
 Available locations: {loc_list_str}
 
 Return ONLY a valid JSON object with exactly these keys:
-title_en, category, location_key
+title_en, category, location_key, sentiment, entities
+
+Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, ...]
 
 Title: {title_original}
 Body: {summary[:500]}"""
@@ -259,12 +282,31 @@ Body: {summary[:500]}"""
         lat, lng = LOCATIONS[loc_key]
         loc_name = loc_key.title()
     else:
-        lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092))
-        loc_name = "Erbil"
+        # Try Nominatim as fallback
+        lat, lng = _geocode_nominatim(loc_key)
+        loc_name = loc_key.title() if lat else "Erbil"
+        if not lat:
+            lat, lng = LOCATIONS.get("erbil", (36.1912, 44.0092))
+
+
 
     title_en = data.get("title_en", title_original).strip()
     if not title_en:
         title_en = title_original
+
+    # Sentiment
+    sentiment = data.get("sentiment", "").strip().lower()
+    if sentiment not in ("positive", "negative", "neutral"):
+        sentiment = "neutral"
+
+    # Entities – ensure list of dicts
+    entities = data.get("entities", [])
+    if not isinstance(entities, list):
+        entities = []
+    cleaned_entities = []
+    for ent in entities:
+        if isinstance(ent, dict) and "name" in ent and "type" in ent:
+            cleaned_entities.append({"name": ent["name"], "type": ent["type"]})
 
     return {
         "title_en": title_en,
@@ -272,7 +314,10 @@ Body: {summary[:500]}"""
         "loc_name": loc_name,
         "lat": lat,
         "lng": lng,
+        "sentiment": sentiment,
+        "entities": cleaned_entities,
     }
+
 
 # ── DATABASE (adds title_en column automatically) ────────────────────────────
 def _ensure_db():
@@ -301,6 +346,13 @@ def _ensure_db():
         conn.execute("ALTER TABLE articles ADD COLUMN title_en TEXT")
     except sqlite3.OperationalError:
         pass
+
+    for col, col_type in [("sentiment", "TEXT"), ("entities", "TEXT")]:
+        try:
+            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
+        except sqlite3.OperationalError:
+            pass
+
     conn.commit()
     conn.close()
 
@@ -313,17 +365,20 @@ def _db_upsert(conn, item: dict, etag=None, lm=None):
     conn.execute("""
         INSERT INTO articles
             (id,url,title,title_en,summary,source,category,
-             loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking)
+             loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking,
+             sentiment,entities)
         VALUES
             (:id,:url,:title,:title_en,:summary,:source,:category,
-             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking)
+             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking,
+             :sentiment,:entities)
         ON CONFLICT(url) DO UPDATE SET
             title=excluded.title, title_en=excluded.title_en,
             summary=excluded.summary,
             category=excluded.category, loc_name=excluded.loc_name,
             lat=excluded.lat, lng=excluded.lng,
             published_at=excluded.published_at, fetched_at=excluded.fetched_at,
-            etag=excluded.etag, last_modified=excluded.last_modified
+            etag=excluded.etag, last_modified=excluded.last_modified,
+            sentiment=excluded.sentiment, entities=excluded.entities
     """, {**item, "etag": etag, "lm": lm})
     conn.commit()
 
@@ -347,6 +402,8 @@ def _export_json(conn):
             "category":  r["category"],
             "breaking":  _score_breaking(r["title"] or "", all_titles),
             "timestamp": r["published_at"],
+            "sentiment": (r["sentiment"] or "neutral"),
+            "entities": json.loads(r["entities"] or "[]"),
             "location": {
                 "name": r["loc_name"],
                 "lat":  r["lat"],
@@ -392,6 +449,8 @@ def _run():
                 "loc_name": enrichment["loc_name"],
                 "lat": enrichment["lat"], "lng": enrichment["lng"],
                 "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
+                "sentiment": enrichment.get("sentiment", "neutral"),
+                "entities": json.dumps(enrichment.get("entities", [])),
             })
             added += 1
             if added % 5 == 0:
@@ -448,6 +507,8 @@ def _run():
             enrichment = _enrich_with_groq(title, summary) if title else {
                 "title_en": title, "category": "general",
                 "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
+                "sentiment": "neutral",
+                "entities": [],
             }
             _db_upsert(conn, {
                 "id": _make_id(url), "url": url, "title": title,
@@ -457,6 +518,8 @@ def _run():
                 "loc_name": enrichment["loc_name"],
                 "lat": enrichment["lat"], "lng": enrichment["lng"],
                 "published_at": pub, "fetched_at": _now_iso(), "breaking": 1,
+                "sentiment": enrichment.get("sentiment", "neutral"),
+                "entities": json.dumps(enrichment.get("entities", [])),
             })
             added += 1
             print(f"  [saved] {title[:70]}")
@@ -471,4 +534,4 @@ def _run():
 
 if __name__ == "__main__":
     _run()
-
+EOF

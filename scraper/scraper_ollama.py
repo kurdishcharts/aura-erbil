@@ -216,11 +216,16 @@ Given the title and body of a news article, perform these tasks:
    security, fire, traffic, infrastructure, weather, general.
 3. From the list below, pick the single location most specific to the article.
    If none match, use "erbil".
+4. Determine the overall sentiment of the article: positive, negative, or neutral.
+5. Extract up to 5 named entities (persons, organizations, places) mentioned in the article.
+   For each entity, specify a type: PERSON, ORGANIZATION, or LOCATION.
 
 Available locations: {loc_list_str}
 
 Return ONLY a valid JSON object with exactly these keys:
-title_en, category, location_key
+title_en, category, location_key, sentiment, entities
+
+Entities must be a list of objects like: [{{"name": "...", "type": "PERSON"}}, ...]
 
 Title: {title_original}
 Body: {summary[:500]}"""
@@ -247,6 +252,8 @@ Body: {summary[:500]}"""
             "loc_name": loc["name"],
             "lat": loc["lat"],
             "lng": loc["lng"],
+            "sentiment": "neutral",
+            "entities": [],
         }
 
     valid_cats = set(KEYWORDS.keys()) | {"general"}
@@ -266,17 +273,33 @@ Body: {summary[:500]}"""
     if not title_en:
         title_en = title_original
 
+    sentiment = data.get("sentiment", "neutral").strip().lower()
+    if sentiment not in ("positive", "negative", "neutral"):
+        sentiment = "neutral"
+
+    entities = data.get("entities", [])
+    if not isinstance(entities, list):
+        entities = []
+
+    cleaned_entities = []
+    for ent in entities:
+        if isinstance(ent, dict) and "name" in ent and "type" in ent:
+            cleaned_entities.append({"name": ent["name"], "type": ent["type"]})
+
     return {
         "title_en": title_en,
         "category": cat,
         "loc_name": loc_name,
         "lat": lat,
         "lng": lng,
+        "sentiment": sentiment,
+        "entities": cleaned_entities,
     }
+
 
 # ── DATABASE (adds title_en column automatically) ────────────────────────────
 def _ensure_db():
-    """Make sure the DB table has the title_en column (safe no matter who runs first)."""
+    """Ensure DB schema is compatible with sentiment/entities enrichment."""
     os.makedirs("data", exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.execute("""
@@ -298,10 +321,17 @@ def _ensure_db():
             breaking      INTEGER DEFAULT 1
         )
     """)
-    try:
-        conn.execute("ALTER TABLE articles ADD COLUMN title_en TEXT")
-    except sqlite3.OperationalError:
-        pass
+    # Columns added over time
+    for col, col_type in [
+        ("title_en", "TEXT"),
+        ("sentiment", "TEXT"),
+        ("entities", "TEXT"),
+    ]:
+        try:
+            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {col_type}")
+        except sqlite3.OperationalError:
+            pass
+
     conn.commit()
     conn.close()
 
@@ -311,21 +341,28 @@ def _connect():
     return conn
 
 def _db_upsert(conn, item: dict, etag=None, lm=None):
+    # Upsert includes sentiment/entities if provided by the AI enrichment.
     conn.execute("""
         INSERT INTO articles
             (id,url,title,title_en,summary,source,category,
-             loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking)
+             loc_name,lat,lng,published_at,fetched_at,etag,last_modified,breaking,
+             sentiment,entities)
         VALUES
             (:id,:url,:title,:title_en,:summary,:source,:category,
-             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking)
+             :loc_name,:lat,:lng,:published_at,:fetched_at,:etag,:lm,:breaking,
+             :sentiment,:entities)
         ON CONFLICT(url) DO UPDATE SET
             title=excluded.title, title_en=excluded.title_en,
             summary=excluded.summary,
             category=excluded.category, loc_name=excluded.loc_name,
             lat=excluded.lat, lng=excluded.lng,
             published_at=excluded.published_at, fetched_at=excluded.fetched_at,
-            etag=excluded.etag, last_modified=excluded.last_modified
-    """, {**item, "etag": etag, "lm": lm})
+            etag=excluded.etag, last_modified=excluded.last_modified,
+            sentiment=excluded.sentiment,
+            entities=excluded.entities
+    """, {**item, "etag": etag, "lm": lm,
+           "sentiment": item.get("sentiment", "neutral"),
+           "entities": json.dumps(item.get("entities", []))})
     conn.commit()
 
 def _db_prune(conn):
@@ -338,6 +375,14 @@ def _export_json(conn):
     all_titles = [r["title"] or "" for r in rows]
     records = []
     for r in rows:
+        sentiment = (r["sentiment"] or "neutral") if "sentiment" in r.keys() else "neutral"
+
+        entities_raw = r["entities"] if "entities" in r.keys() else None
+        try:
+            entities = json.loads(entities_raw or "[]")
+        except Exception:
+            entities = []
+
         records.append({
             "id":        r["id"],
             "url":       r["url"],
@@ -346,6 +391,8 @@ def _export_json(conn):
             "summary":   r["summary"],
             "source":    r["source"],
             "category":  r["category"],
+            "sentiment": sentiment,
+            "entities": entities,
             "breaking":  _score_breaking(r["title"] or "", all_titles),
             "timestamp": r["published_at"],
             "location": {
