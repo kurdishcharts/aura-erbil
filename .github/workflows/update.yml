@@ -1,6 +1,7 @@
 name: Update News Data
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *'
 
@@ -12,22 +13,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
-      - name: Run Main Scraper (Cohere + Multisource)
+      
+      - name: Run Main Scraper
         run: python scraper/scraper_cohere.py
         env:
           COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
-      - name: Run Multisource scraper
-        timeout-minutes: 5
-        run: python scraper/scraper_multisource.py
-        env:
-          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+      
+      - name: Run TikTok Scraper
+        run: python scraper/scraper_tiktok.py
         continue-on-error: true
-      - name: Export safety-net data.json
+      
+      - name: Safety-net export data.json
         run: |
           python3 -c "
           import sqlite3, json
@@ -47,10 +51,11 @@ jobs:
               })
           with open('data/data.json', 'w') as f:
               json.dump(records, f, ensure_ascii=False, indent=2)
-          print(f'Safety-net exported {len(records)} records')
+          print(f'Exported {len(records)} records')
           conn.close()
           "
         continue-on-error: true
+      
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
