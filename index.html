@@ -112,6 +112,7 @@
       min-height: 160px;
       position: relative;
     }
+    .quant-card.full-width { grid-column: 1 / -1; resize: vertical; }
     .quant-card::-webkit-resizer {
       background-color: var(--tv-border);
       border-radius: 0 0 4px 0;
@@ -162,6 +163,18 @@
     <button class="tf-btn" data-tf="24h">24h</button>
     <span class="tf-count" id="tf-count"></span>
   </div>
+  <div class="timeframe-bar" id="candle-bar">
+    <span class="tf-label">Candlestick</span>
+    <button class="tf-btn active" data-ci="5m">5m</button>
+    <button class="tf-btn" data-ci="15m">15m</button>
+    <button class="tf-btn" data-ci="1h">1h</button>
+    <button class="tf-btn" data-ci="4h">4h</button>
+    <button class="tf-btn" data-ci="12h">12h</button>
+    <button class="tf-btn" data-ci="1d">1d</button>
+    <button class="tf-btn" data-ci="7d">7d</button>
+    <button class="tf-btn" data-ci="14d">14d</button>
+    <button class="tf-btn" data-ci="1mo">1mo</button>
+  </div>
   <div class="stats-row">
     <div class="stat-card s-total"><div class="stat-label">Total Articles</div><div class="stat-value" id="s-total">—</div><div class="stat-sub" id="s-total-sub">loading…</div></div>
     <div class="stat-card s-pos"><div class="stat-label">Positive</div><div class="stat-value c-pos" id="s-pos">—</div><div class="stat-sub" id="s-pos-sub">—</div></div>
@@ -177,7 +190,7 @@
 <script src="charts_quant.js"></script>
 <script>
 // ── State ──
-let D = [], lastHash = '', activeTf = 'all';
+let D = [], lastHash = '', activeTf = 'all', activeCi = '5m';
 
 function setText(id, val) { const el = document.getElementById(id); if (el) el.textContent = val; }
 
@@ -210,7 +223,7 @@ function update() {
   const filtered = filterData(activeTf);
   renderStats(filtered);
   if (filtered.length > 0) {
-    if (typeof buildAnalytics === 'function') buildAnalytics(filtered);
+    if (typeof buildAnalytics === 'function') buildAnalytics(filtered, activeCi);
     if (typeof buildSocialAnalytics === 'function') buildSocialAnalytics(filtered);
   }
 }
@@ -239,6 +252,12 @@ async function fetchData() {
 document.querySelectorAll('.tf-btn').forEach(btn => btn.addEventListener('click', () => {
   document.querySelectorAll('.tf-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active'); activeTf = btn.dataset.tf; update();
+}));
+
+document.querySelectorAll('#candle-bar .tf-btn').forEach(btn => btn.addEventListener('click', () => {
+  document.querySelectorAll('#candle-bar .tf-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active'); activeCi = btn.dataset.ci;
+  update();
 }));
 
 fetchData(); setInterval(fetchData, 5000);
