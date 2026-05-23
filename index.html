@@ -1,77 +1,137 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>KC</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,sans-serif;background:#f0f0f0;color:#111;padding:12px}
-.stats{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
-.stat-item{background:#fff;padding:6px 12px;border-radius:4px;box-shadow:0 1px 2px rgba(0,0,0,.05);font-size:13px}
-.stat-item strong{font-size:18px;font-weight:600}
-#quant-panel{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
-.quant-card{background:#fff;padding:8px;border-radius:4px;box-shadow:0 1px 2px rgba(0,0,0,.05)}
-canvas{width:100%!important;height:auto!important}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>charts</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='10' fill='%2310b981'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0a0e17; --bg2: #0d1220; --card: #111827; --border: #1e293b; --border2: #253347;
+      --text: #e2e8f0; --text2: #94a3b8; --text3: #64748b;
+      --pos: #10b981; --neg: #ef4444; --neu: #f59e0b; --accent: #3b82f6;
+      --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace;
+    }
+    html, body { min-height: 100%; background: var(--bg); color: var(--text); font-family: var(--font-sans); font-size: 14px; line-height: 1.5; }
+    .shell { max-width: 1440px; margin: 0 auto; padding: 0 24px 60px; }
+    .topbar { display: flex; align-items: center; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--border); margin-bottom: 14px; }
+    .live-wrap { display: flex; align-items: center; gap: 7px; }
+    .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--pos); animation: blink 2.4s ease-in-out infinite; }
+    .live-dot.stale { background: var(--text3); animation: none; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.25} }
+    .sync-time { font-family: var(--font-mono); font-size: 11px; color: var(--text3); }
+    .timeframe-bar { display: flex; align-items: center; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
+    .tf-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: var(--text3); margin-right: 2px; }
+    .tf-btn { font-family: var(--font-mono); font-size: 11px; font-weight: 500; padding: 5px 13px; border-radius: 4px; border: 1px solid var(--border2); background: transparent; color: var(--text2); cursor: pointer; letter-spacing: .04em; transition: border-color .12s, color .12s, background .12s; }
+    .tf-btn:hover { border-color: var(--accent); color: var(--text); }
+    .tf-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .tf-count { font-family: var(--font-mono); font-size: 11px; color: var(--text3); margin-left: 4px; }
+    .stats-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 20px; }
+    .stat-card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px 12px; position: relative; overflow: hidden; }
+    .stat-card::after { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; }
+    .stat-card.s-total::after { background: var(--accent); }
+    .stat-card.s-pos::after   { background: var(--pos); }
+    .stat-card.s-neg::after   { background: var(--neg); }
+    .stat-card.s-neu::after   { background: var(--neu); }
+    .stat-card.s-idx::after   { background: linear-gradient(90deg, var(--neg) 0%, var(--neu) 50%, var(--pos) 100%); }
+    .stat-label { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: .12em; color: var(--text3); margin-bottom: 8px; }
+    .stat-value { font-family: var(--font-mono); font-size: 30px; font-weight: 500; line-height: 1; color: var(--text); margin-bottom: 5px; }
+    .stat-value.c-pos { color: var(--pos); } .stat-value.c-neg { color: var(--neg); } .stat-value.c-neu { color: var(--neu); }
+    .stat-sub { font-family: var(--font-mono); font-size: 11px; color: var(--text3); }
+    #no-data { display: none; text-align: center; padding: 80px 20px; color: var(--text3); font-family: var(--font-mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+    #quant-panel, #social-panel { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+    #social-panel { margin-top: 32px; }
+    .quant-card { background: var(--card) !important; border: 1px solid var(--border) !important; border-radius: 8px !important; padding: 14px !important; resize: both; overflow: auto; min-width: 260px; min-height: 150px; }
+    .quant-card::-webkit-resizer { background-color: var(--border2); border-radius: 0 0 6px 0; }
+    ::-webkit-scrollbar { width: 5px; height: 5px; } ::-webkit-scrollbar-track { background: transparent; } ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+    @media (max-width: 1000px) { .stats-row { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 640px) { .stats-row { grid-template-columns: repeat(2, 1fr); } #quant-panel, #social-panel { grid-template-columns: 1fr; } .shell { padding: 0 14px 40px; } }
+  </style>
 </head>
 <body>
-<div class="stats" id="stats-row"></div>
-<div id="quant-panel"></div>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<div class="shell">
+  <div class="topbar">
+    <div class="live-wrap">
+      <div class="live-dot" id="live-dot"></div>
+      <span class="sync-time" id="sync-time">—</span>
+    </div>
+  </div>
+  <div class="timeframe-bar">
+    <span class="tf-label">Period</span>
+    <button class="tf-btn active" data-tf="all">All time</button>
+    <button class="tf-btn" data-tf="30d">30d</button>
+    <button class="tf-btn" data-tf="7d">7d</button>
+    <button class="tf-btn" data-tf="24h">24h</button>
+    <span class="tf-count" id="tf-count"></span>
+  </div>
+  <div class="stats-row">
+    <div class="stat-card s-total"><div class="stat-label">Total Articles</div><div class="stat-value" id="s-total">—</div><div class="stat-sub" id="s-total-sub">loading…</div></div>
+    <div class="stat-card s-pos"><div class="stat-label">Positive</div><div class="stat-value c-pos" id="s-pos">—</div><div class="stat-sub" id="s-pos-sub">—</div></div>
+    <div class="stat-card s-neg"><div class="stat-label">Negative</div><div class="stat-value c-neg" id="s-neg">—</div><div class="stat-sub" id="s-neg-sub">—</div></div>
+    <div class="stat-card s-neu"><div class="stat-label">Neutral</div><div class="stat-value c-neu" id="s-neu">—</div><div class="stat-sub" id="s-neu-sub">—</div></div>
+    <div class="stat-card s-idx"><div class="stat-label">Sentiment Index</div><div class="stat-value" id="s-idx">—</div><div class="stat-sub" id="s-idx-sub">net positive ratio</div></div>
+  </div>
+  <div id="no-data">No articles available for this period.</div>
+  <div id="quant-panel"></div>
+  <div id="social-panel"></div>
+</div>
 <script src="charts_quant.js"></script>
 <script>
-let D = [], lastHash = '';
-
-async function fetchData() {
-  try {
-    const res = await fetch('data/data.json?t='+Date.now());
-    const text = await res.text();
-    if (text === lastHash) return false;
-    lastHash = text;
-    D = JSON.parse(text);
-    return true;
-  } catch(e) { return false; }
+let D = [], lastHash = '', activeTf = 'all';
+function setText(id, val) { const el = document.getElementById(id); if (el) el.textContent = val; }
+function filterData(tf) {
+  if (tf === 'all' || !Array.isArray(D) || D.length === 0) return D;
+  const offsets = { '30d': 30*86400000, '7d': 7*86400000, '24h': 86400000 };
+  const cutoff = Date.now() - (offsets[tf] || 0);
+  return D.filter(a => a.timestamp && new Date(a.timestamp).getTime() >= cutoff);
 }
-
-function renderStats() {
-  const total = D.length,
-        pos = D.filter(a=>a.sentiment==='positive').length,
-        neg = D.filter(a=>a.sentiment==='negative').length,
-        neu = D.filter(a=>a.sentiment==='neutral').length,
-        score = total ? Math.round(50 + (pos - neg)/total*50) : 50;
-  document.getElementById('stats-row').innerHTML =
-    `<div class="stat-item">Total <strong>${total}</strong></div>` +
-    `<div class="stat-item">Positive <strong style="color:#16a34a">${pos}</strong></div>` +
-    `<div class="stat-item">Negative <strong style="color:#dc2626">${neg}</strong></div>` +
-    `<div class="stat-item">Neutral <strong style="color:#d97706">${neu}</strong></div>` +
-    `<div class="stat-item">Sentiment <strong style="color:${score>=60?'#16a34a':score<=40?'#dc2626':'#d97706'}">${score}</strong></div>`;
+function renderStats(articles) {
+  const n = articles.length, pos = articles.filter(a=>a.sentiment==='positive').length, neg = articles.filter(a=>a.sentiment==='negative').length, neu = articles.filter(a=>a.sentiment==='neutral').length;
+  const idx = n ? Math.round((pos - neg)/n*100) : 0, pct = v => n ? Math.round(v/n*100)+'%' : '—';
+  setText('s-total', n); setText('s-total-sub', n+' article'+(n!==1?'s':''));
+  setText('s-pos', pos); setText('s-pos-sub', pct(pos));
+  setText('s-neg', neg); setText('s-neg-sub', pct(neg));
+  setText('s-neu', neu); setText('s-neu-sub', pct(neu));
+  setText('s-idx', (idx>=0?'+':'')+idx); setText('tf-count', n+' article'+(n!==1?'s':''));
+  const idxEl = document.getElementById('s-idx'); if (idxEl) idxEl.style.color = idx>10?'var(--pos)':idx<-10?'var(--neg)':'var(--neu)';
+  document.getElementById('no-data').style.display = n===0?'block':'none';
+  document.getElementById('quant-panel').style.display = n===0?'none':'';
+  document.getElementById('social-panel').style.display = n===0?'none':'';
 }
-
-function rebuildQuant() {
-  const panel = document.getElementById('quant-panel');
-  panel.innerHTML = '';
-  if (typeof buildAnalytics === 'function') {
-    buildAnalytics();
-  } else {
-    panel.innerHTML = '<p>Analytics module not loaded.</p>';
+function update() {
+  const filtered = filterData(activeTf);
+  renderStats(filtered);
+  if (filtered.length > 0) {
+    if (typeof buildAnalytics === 'function') buildAnalytics(filtered);
+    if (typeof buildSocialAnalytics === 'function') buildSocialAnalytics(filtered);
   }
 }
-
-async function init() {
-  await fetchData();
-  renderStats();
-  rebuildQuant();
+async function digestText(text) {
+  try { const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text)); return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join(''); }
+  catch(_) { return text.length+':'+text.slice(0,64); }
 }
-
-setInterval(async () => {
-  const changed = await fetchData();
-  if (!changed) return;
-  renderStats();
-  rebuildQuant();
-}, 5000);
-
-init();
+async function fetchData() {
+  try {
+    const res = await fetch('data/data.json?v='+Date.now()); if (!res.ok) throw new Error('HTTP '+res.status);
+    const text = await res.text(), hash = await digestText(text);
+    if (hash === lastHash) return;
+    lastHash = hash; D = JSON.parse(text); update();
+    document.getElementById('live-dot').className = 'live-dot';
+    setText('sync-time', new Date().toLocaleTimeString());
+  } catch(e) {
+    document.getElementById('live-dot').className = 'live-dot stale';
+    console.warn('[charts] fetch error:', e.message);
+  }
+}
+document.querySelectorAll('.tf-btn').forEach(btn => btn.addEventListener('click', () => {
+  document.querySelectorAll('.tf-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active'); activeTf = btn.dataset.tf; update();
+}));
+fetchData(); setInterval(fetchData, 5000);
 </script>
 </body>
 </html>
