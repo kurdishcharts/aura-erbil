@@ -6,3 +6,4 @@ cron_push.sh
 safe_cron_push.sh
 .github/workflows/update-data.yml
 .env
+venv/
