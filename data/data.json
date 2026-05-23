@@ -17716,6 +17716,132 @@
     }
   },
   {
+    "id": "06f67f3954f2350e",
+    "url": "https://www.rudaw.net/english/kurdistan/230520263",
+    "title": "Iranian Kurdish parties targeted with drones in Erbil",
+    "title_en": "Iranian Kurdish parties targeted with drones in Erbil",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "20229f4bd1524d89",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2305202620",
+    "title": "مەسرور بارزانی لە بەغدا؛ کردنەوەی کڵاوڕۆژنەی چارەسەر",
+    "title_en": "مەسرور بارزانی لە بەغدا؛ کردنەوەی کڵاوڕۆژنەی چارەسەر",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a9bf014388148003",
+    "url": "https://www.rudaw.net/sorani/middleeast/230520261",
+    "title": "ترەمپ دەڵێت بەم زووانە رێککەوتن لەگەڵ ئێران رادەگەیێندرێت",
+    "title_en": "ترەمپ دەڵێت بەم زووانە رێککەوتن لەگەڵ ئێران رادەگەیێندرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "31db6d81af82d4d7",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2305202619",
+    "title": "مەسرور بارزانی و فالح فەییاز دۆخی ئەمنیی عێراق و هەرێمی کوردستان تاوتوێ دەکەن",
+    "title_en": "مەسرور بارزانی و فالح فەییاز دۆخی ئەمنیی عێراق و هەرێمی کوردستان تاوتوێ دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3d0ff5488458932d",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2305202618",
+    "title": "هادی عامری: لەگەڵ کاک نێچیرڤان رێککەوتین پەلە بکرێت لە داڕشتنی یاسای نەوت و گاز",
+    "title_en": "هادی عامری: لەگەڵ کاک نێچیرڤان رێککەوتین پەلە بکرێت لە داڕشتنی یاسای نەوت و گاز",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cde64b9939a7abd2",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/230520266",
+    "title": "Hevseroka PYDyê: Em tevlî hilbijartinên Sûriyeyê nabin",
+    "title_en": "Hevseroka PYDyê: Em tevlî hilbijartinên Sûriyeyê nabin",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "319b36c5739d5e37",
+    "url": "https://www.rudaw.net/kurmanci/world/230520266",
+    "title": "Şert û mercên peymana Îran û Amerîkayê eşkere bûn",
+    "title_en": "Şert û mercên peymana Îran û Amerîkayê eşkere bûn",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
