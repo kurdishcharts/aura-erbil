@@ -1,7 +1,7 @@
 """
-Aura-Erbil — Simple Rudaw Scraper
-Scrapes Rudaw RSS + listing pages, keyword-based category/sentiment.
-No API key required. Exports data.json.
+Aura-Erbil — High‑Volume Rudaw Scraper
+Scrapes RSS + listing pages (up to 20 pages per section) for max coverage.
+Keyword‑based category/sentiment. Deduplicates via URL hash.
 """
 
 import feedparser, hashlib, json, os, re, sqlite3, time
@@ -14,9 +14,14 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.rudaw.net"
 RUDAW_RSS = "https://www.rudaw.net/rss"
 LIST_PATHS = ["/english", "/sorani", "/kurmanci"]
+MAX_LISTING_PAGES = 20          # pages per section
 DB_PATH = "data/aura.db"
 JSON_EXPORT = "data/data.json"
 MAX_AGE_DAYS = 30
+USER_AGENT = "AuraErbilBot/4.0 (monitoring dashboard; non-commercial)"
+
+session = requests.Session()
+session.headers.update({"User-Agent": USER_AGENT})
 
 KEYWORDS = {
     "security": ["explosion","attack","armed","killed","shooting","bomb","ISIS","PKK","militant","arrest","detained"],
@@ -25,10 +30,6 @@ KEYWORDS = {
     "infrastructure": ["closure","bridge","construction","power cut","electricity","water supply","outage"],
     "weather": ["flood","earthquake","storm","rain","snow","temperature","heat","dust storm"],
 }
-
-USER_AGENT = "AuraErbilBot/4.0 (monitoring dashboard; non-commercial)"
-session = requests.Session()
-session.headers.update({"User-Agent": USER_AGENT})
 
 def _now_iso():
     return datetime.now(timezone.utc).isoformat()
@@ -72,7 +73,7 @@ def _ensure_db():
 
 def _upsert(conn, item):
     existing = conn.execute("SELECT id FROM articles WHERE url=?", (item["url"],)).fetchone()
-    if existing: return
+    if existing: return False
     conn.execute("""
         INSERT INTO articles
             (id, url, title, title_en, summary, source, category, sentiment,
@@ -86,6 +87,7 @@ def _upsert(conn, item):
         item.get("published_at"), _now_iso(), item.get("breaking",1)
     ))
     conn.commit()
+    return True
 
 def _export(conn):
     rows = conn.execute("SELECT * FROM articles ORDER BY published_at DESC").fetchall()
@@ -104,17 +106,31 @@ def _export(conn):
         json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"Exported {len(records)} records → {JSON_EXPORT}")
 
+def _fetch(url, retries=3):
+    for attempt in range(retries):
+        try:
+            r = session.get(url, timeout=15)
+            if r.status_code == 200:
+                return r.text
+        except Exception as e:
+            print(f"  [fetch] attempt {attempt+1} error: {e}")
+            time.sleep(2)
+    return None
+
 def main():
-    print("=== Simple Rudaw Scraper ===")
+    print("=== High‑Volume Rudaw Scraper ===")
     _ensure_db()
     conn = sqlite3.connect(DB_PATH); conn.row_factory = sqlite3.Row
+    total_saved = 0
+
+    # 1. RSS feed
+    print("\n→ RSS feed")
     feed = feedparser.parse(RUDAW_RSS)
-    saved = 0
     for entry in feed.entries:
         url = entry.get("link","")
         title = _clean_title(entry.get("title",""))
         if not url or not title: continue
-        summary = BeautifulSoup(entry.get("summary",""), "html.parser").get_text(" ", strip=True)[:300]
+        summary = BeautifulSoup(entry.get("summary",""), "html.parser").get_text(" ", strip=True)[:500]
         pub = entry.get("published","")
         text = title + " " + summary
         item = {
@@ -124,13 +140,62 @@ def main():
             "entities": [], "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
             "published_at": pub, "breaking": 1
         }
-        _upsert(conn, item)
-        saved += 1
-        print(f"  [saved] {title[:60]}")
+        if _upsert(conn, item):
+            total_saved += 1
+    print(f"  RSS saved: {total_saved} articles")
+
+    # 2. Deep listing scrape
+    for path in LIST_PATHS:
+        print(f"\n→ Listing: {path}")
+        for page in range(MAX_LISTING_PAGES):
+            page_url = urljoin(BASE_URL, f"{path}?page={page}")
+            html = _fetch(page_url)
+            if not html:
+                break
+            soup = BeautifulSoup(html, "html.parser")
+            links = soup.select("a[href]")
+            count = 0
+            for a in links:
+                href = a.get("href","")
+                full_url = urljoin(BASE_URL, href)
+                if not full_url.startswith(BASE_URL):
+                    continue
+                # Skip section homepages
+                if any(full_url.rstrip("/").endswith(p.rstrip("/")) for p in LIST_PATHS):
+                    continue
+                title_text = _clean_title(a.get_text(strip=True))
+                if len(title_text) < 20:
+                    continue
+                # Fetch article page
+                art_html = _fetch(full_url)
+                if not art_html:
+                    continue
+                art_soup = BeautifulSoup(art_html, "html.parser")
+                h1 = art_soup.find("h1")
+                title = _clean_title(h1.get_text(strip=True)) if h1 else title_text
+                paragraphs = art_soup.select("article p, .article-body p")
+                summary = " ".join(p.get_text(" ", strip=True) for p in paragraphs)[:500]
+                time_tag = art_soup.find("time")
+                pub = time_tag.get("datetime", "") if time_tag else ""
+                text = title + " " + summary
+                item = {
+                    "id": _make_id(full_url), "url": full_url, "title": title,
+                    "title_en": title, "summary": summary, "source": f"rudaw-{path.strip('/')}",
+                    "category": _detect_category(text), "sentiment": _sentiment(text),
+                    "entities": [], "loc_name": "Erbil", "lat": 36.1912, "lng": 44.0092,
+                    "published_at": pub, "breaking": 1
+                }
+                if _upsert(conn, item):
+                    total_saved += 1
+                    count += 1
+                time.sleep(1)  # be polite
+            print(f"  Page {page}: {count} articles")
+            if count == 0:
+                break  # no more articles on this section
     conn.commit()
     _export(conn)
     conn.close()
-    print(f"=== Done: {saved} articles ===")
+    print(f"\n=== Done: {total_saved} new articles ===")
 
 if __name__ == "__main__":
     main()
