@@ -18382,6 +18382,618 @@
     }
   },
   {
+    "id": "071e0d4e167d84ca",
+    "url": "https://www.rudaw.net/english/world/240520261",
+    "title": "Kurdish fighter in Russia warns against joining Ukraine war",
+    "title_en": "Kurdish fighter in Russia warns against joining Ukraine war",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44d1dc63b019e98f",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/240520261",
+    "title": "Joint Baghdad-Erbil delegation to visit Tehran over attacks on Kurdistan Region: Official",
+    "title_en": "Joint Baghdad-Erbil delegation to visit Tehran over attacks on Kurdistan Region: Official",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "40ff9524d883c4c8",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/24052026",
+    "title": "Iraq closes over 11,000 buildings over fire safety violations: civil defense",
+    "title_en": "Iraq closes over 11,000 buildings over fire safety violations: civil defense",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d484f4dca9a8ec1f",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2405202610",
+    "title": "بەرپرسێکی چوارچێوەی هاوئاهەنگی: پڕۆژەی 'هاوپەیمانیی بەهێزەکان' کۆتاییهات و دروست ناکرێت",
+    "title_en": "بەرپرسێکی چوارچێوەی هاوئاهەنگی: پڕۆژەی 'هاوپەیمانیی بەهێزەکان' کۆتاییهات و دروست ناکرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a31b6408ec00f9fe",
+    "url": "https://www.rudaw.net/sorani/health/240520267",
+    "title": "WHO: ڤایرۆسی هانتا کۆنتڕۆڵە و 20 رۆژە هیچ کەسێک بەهۆیەوە گیانی لەدەستنەداوە",
+    "title_en": "WHO: ڤایرۆسی هانتا کۆنتڕۆڵە و 20 رۆژە هیچ کەسێک بەهۆیەوە گیانی لەدەستنەداوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "83a4e9fa2e66c8c3",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202612",
+    "title": "یەکەمین هەڵبژاردنی پەرلەمانی دوای ئەسەد لە کۆبانی و حەسەکە بەڕێوەچوو",
+    "title_en": "یەکەمین هەڵبژاردنی پەرلەمانی دوای ئەسەد لە کۆبانی و حەسەکە بەڕێوەچوو",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f6ce267796bc208d",
+    "url": "https://www.rudaw.net/sorani/sports/240520268",
+    "title": "تەنیا سێ ئەفسەری بەریتانی لەگەڵ هەڵبژاردەی ئینگلتەرا دەبن لە مۆندیال",
+    "title_en": "تەنیا سێ ئەفسەری بەریتانی لەگەڵ هەڵبژاردەی ئینگلتەرا دەبن لە مۆندیال",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c2cb61d1798562d3",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/240520269",
+    "title": "عێراق وەزارەتی ئەوقافی نییە؛ گفتوگۆ بۆ دامەزراندنی دەکرێت",
+    "title_en": "عێراق وەزارەتی ئەوقافی نییە؛ گفتوگۆ بۆ دامەزراندنی دەکرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3ed7618b8d54e87e",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202611",
+    "title": "مازن سیروان بارزانی: دەست بەسەر موڵکی کۆڕەکدا نەگیراوە و داوای قەرەبوو دەکەین",
+    "title_en": "مازن سیروان بارزانی: دەست بەسەر موڵکی کۆڕەکدا نەگیراوە و داوای قەرەبوو دەکەین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0fda054a195d68d0",
+    "url": "https://www.rudaw.net/sorani/health/240520266",
+    "title": "لە ئوسترالیا پرۆگرامێکی راهێنان گەنجانی ئۆتیزم بۆ ژیانی پیشەیی ئامادە دەکات",
+    "title_en": "لە ئوسترالیا پرۆگرامێکی راهێنان گەنجانی ئۆتیزم بۆ ژیانی پیشەیی ئامادە دەکات",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2f72e35b49fa3cd4",
+    "url": "https://www.rudaw.net/sorani/health/240520265",
+    "title": "پسپۆڕێکی پێست چەند رێنوێنییەک لەسەر بەکارهێنانی دژەخۆر دەدات",
+    "title_en": "پسپۆڕێکی پێست چەند رێنوێنییەک لەسەر بەکارهێنانی دژەخۆر دەدات",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e1e3ef8a4e908f57",
+    "url": "https://www.rudaw.net/sorani/sports/240520267",
+    "title": "لیستی رەشی جۆزێ مۆرینیۆ ئاشکرابوو",
+    "title_en": "لیستی رەشی جۆزێ مۆرینیۆ ئاشکرابوو",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fc8122458916092a",
+    "url": "https://www.rudaw.net/sorani/health/240520264",
+    "title": "هاونیشتمانییەک: لە بانکی خوێن کارمەند نەبوو خوێنمان لێوەربگرێت؛ هەموویان لە نوێژ بوون",
+    "title_en": "هاونیشتمانییەک: لە بانکی خوێن کارمەند نەبوو خوێنمان لێوەربگرێت؛ هەموویان لە نوێژ بوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a90e56e556f74e69",
+    "url": "https://www.rudaw.net/sorani/kurdistan/240520266",
+    "title": "پەیامنێری رووداو: فالح ساری واژۆی لەسەر خەرجکردنی مووچەی مانگی 5 کرد",
+    "title_en": "پەیامنێری رووداو: فالح ساری واژۆی لەسەر خەرجکردنی مووچەی مانگی 5 کرد",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "62ca7bc50494d53c",
+    "url": "https://www.rudaw.net/sorani/kurdistan/240520265",
+    "title": "سەرۆک بارزانی و سەڵاحەدین بەهائەدین 'ئاستەنگەکانی بەردەم پرۆسەی سیاسی' تاوتوێ دەکەن",
+    "title_en": "سەرۆک بارزانی و سەڵاحەدین بەهائەدین 'ئاستەنگەکانی بەردەم پرۆسەی سیاسی' تاوتوێ دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f5e9c3bf6abf415",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202610",
+    "title": "بەڵێندەری ئەو پڕۆژەیەی دهۆک دەستگیرکرا کە چوار کرێکار تێیدا گیانیان لەدەستدا",
+    "title_en": "بەڵێندەری ئەو پڕۆژەیەی دهۆک دەستگیرکرا کە چوار کرێکار تێیدا گیانیان لەدەستدا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "31077bcb3b635567",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/240520268",
+    "title": "مەسرور بارزانی و نووری مالیکی جەخت لە کارکردنی هاوبەش بۆ رووبەڕووبوونەوەی ئاڵنگارییەکان دەکەنەوە",
+    "title_en": "مەسرور بارزانی و نووری مالیکی جەخت لە کارکردنی هاوبەش بۆ رووبەڕووبوونەوەی ئاڵنگارییەکان دەکەنەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "73c7c0e5bd957260",
+    "url": "https://www.rudaw.net/sorani/kurdistan/240520269",
+    "title": "کاسبکارانی کەرکووک دژی دروستکردنی عەلوەیەکی نوێ خۆپێشاندانیان کرد",
+    "title_en": "کاسبکارانی کەرکووک دژی دروستکردنی عەلوەیەکی نوێ خۆپێشاندانیان کرد",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5436444e5ef09543",
+    "url": "https://www.rudaw.net/sorani/health/240520263",
+    "title": "رێکخراوی تەندروستیی جیهانی: لە کۆنگۆ لانیکەم 177 کەس بە ئیبۆلا گیانیان لەدەستداوە",
+    "title_en": "رێکخراوی تەندروستیی جیهانی: لە کۆنگۆ لانیکەم 177 کەس بە ئیبۆلا گیانیان لەدەستداوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9eb258c8261b1697",
+    "url": "https://www.rudaw.net/sorani/sports/240520266",
+    "title": "هەواڵێکی ناخۆش سەبارەت بە عوسمان و حەکیمی",
+    "title_en": "هەواڵێکی ناخۆش سەبارەت بە عوسمان و حەکیمی",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "517a7ac52ca54aea",
+    "url": "https://www.rudaw.net/sorani/culture/24052026",
+    "title": "بەڵگەفیلمی کچێکی هەولێری لە کان بۆ نێو 11 باشترین بەرهەمی جیهانی هەڵبژێردرا",
+    "title_en": "بەڵگەفیلمی کچێکی هەولێری لە کان بۆ نێو 11 باشترین بەرهەمی جیهانی هەڵبژێردرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "985680d2383053d6",
+    "url": "https://www.rudaw.net/sorani/world/2405202610",
+    "title": "بە وێنە؛ ئامادەکاری بۆ جەژنی قوربان لە وڵاتانی ئیسلامی",
+    "title_en": "بە وێنە؛ ئامادەکاری بۆ جەژنی قوربان لە وڵاتانی ئیسلامی",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9ce42a9eed2eb4f4",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/240520266",
+    "title": "Herêma Kurdistanê di hilberîna şînahiyan de gihiştiye asta xwebesiyê",
+    "title_en": "Herêma Kurdistanê di hilberîna şînahiyan de gihiştiye asta xwebesiyê",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ffb8b96bb9fdf095",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/240520265",
+    "title": "Nexweşeke penceşêrê ya ji Qamişloyê dixwaze derbasî Herêma Kurdistanê bibe",
+    "title_en": "Nexweşeke penceşêrê ya ji Qamişloyê dixwaze derbasî Herêma Kurdistanê bibe",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e93316b042e379e",
+    "url": "https://www.rudaw.net/kurmanci/sports/240520261",
+    "title": "Amedspor serokê xwe yê nû hildibijêre",
+    "title_en": "Amedspor serokê xwe yê nû hildibijêre",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2db3565f6991ac98",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/240520263",
+    "title": "DEM Partî: Midaxeleya polîsan a li ser avahiya CHPyê nayê qebûlkirin",
+    "title_en": "DEM Partî: Midaxeleya polîsan a li ser avahiya CHPyê nayê qebûlkirin",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "29563e8532aa85d7",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/240520262",
+    "title": "Polîsan bi ser navenda CHPyê de girt",
+    "title_en": "Polîsan bi ser navenda CHPyê de girt",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9dd96eab18a519be",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/240520261",
+    "title": "Heyeta Îmraliyê ya DEM Partiyê ber bi Îmraliyê ve bi rê ket",
+    "title_en": "Heyeta Îmraliyê ya DEM Partiyê ber bi Îmraliyê ve bi rê ket",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "18617578c489af42",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/240520264",
+    "title": "Serokê MÎTê li ser pêvajoyê daxuyanî da",
+    "title_en": "Serokê MÎTê li ser pêvajoyê daxuyanî da",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d05eca5a68edf8a6",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/240520263",
+    "title": "Li Kobaniyê namzedekî Kurd û yekî Ereb bûn parlamenter",
+    "title_en": "Li Kobaniyê namzedekî Kurd û yekî Ereb bûn parlamenter",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "af2574a4ce973229",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/iraq/240520261",
+    "title": "Qasim Erecî: Em bi Herêma Kurdistanê serbilind in",
+    "title_en": "Qasim Erecî: Em bi Herêma Kurdistanê serbilind in",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dfaf079511ee661a",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/240520262",
+    "title": "Serok Barzanî û Selahedîn Behaedîn rewşa siyasî ya herêmê gotûbêj kir",
+    "title_en": "Serok Barzanî û Selahedîn Behaedîn rewşa siyasî ya herêmê gotûbêj kir",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc17d42903d60e6a",
+    "url": "https://www.rudaw.net/kurmanci/world/240520264",
+    "title": "Komariyan hişyarî da Trump: Lihevkirina bi Îranê re dê bibe felaket",
+    "title_en": "Komariyan hişyarî da Trump: Lihevkirina bi Îranê re dê bibe felaket",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a50c3115aa94134f",
+    "url": "https://www.rudaw.net/kurmanci/culture/24052026",
+    "title": "Derhênera Kurd bi belgefîlma Jinwarê li Cannesê bala cîhanê kişand",
+    "title_en": "Derhênera Kurd bi belgefîlma Jinwarê li Cannesê bala cîhanê kişand",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
