@@ -19390,6 +19390,366 @@
     }
   },
   {
+    "id": "b50416dc1b787204",
+    "url": "https://www.rudaw.net/english/middleeast/syria/240520261",
+    "title": "Syria holds delayed legislative elections in Kurdish areas",
+    "title_en": "Syria holds delayed legislative elections in Kurdish areas",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "38db05dd196b6407",
+    "url": "https://www.rudaw.net/english/middleeast/iraq/240520262",
+    "title": "PM Barzani holds high-level talks with Iraqi leaders in Baghdad",
+    "title_en": "PM Barzani holds high-level talks with Iraqi leaders in Baghdad",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "74f53a3d5135dc07",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202630",
+    "title": "ژەهرێک بەناوی جوانییەوە؛ \"ماکیاژی خراپ دەبێتە هۆی شێرپەنجە و نابینایی\"",
+    "title_en": "ژەهرێک بەناوی جوانییەوە؛ \"ماکیاژی خراپ دەبێتە هۆی شێرپەنجە و نابینایی\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e61ac9cbc2e39449",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202629",
+    "title": "بە ئامادەبوونی نوێنەری سەرۆک بارزانی پەردە لەسەر ناوی دوو شەقامی هەولێر لادرا",
+    "title_en": "بە ئامادەبوونی نوێنەری سەرۆک بارزانی پەردە لەسەر ناوی دوو شەقامی هەولێر لادرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2f9301c543174e5f",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202628",
+    "title": "خورشید هەرکی بۆ رووداو: مافیا نیم و دەستێکی دەرەکی لە پشت پیلانی کوشتنمدایە",
+    "title_en": "خورشید هەرکی بۆ رووداو: مافیا نیم و دەستێکی دەرەکی لە پشت پیلانی کوشتنمدایە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c092a2098371e33d",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202627",
+    "title": "سەرۆک، سکرتێر و بەرپرسی دارایی یانەی هەولێر سڕکراون",
+    "title_en": "سەرۆک، سکرتێر و بەرپرسی دارایی یانەی هەولێر سڕکراون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cfe8b9cf44d8c203",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/240520266",
+    "title": "پزیشکیان: ئامادەین دڵنیایی بدەینە جیهان کە بەدوای چەکی ئەتۆمییەوە نین",
+    "title_en": "پزیشکیان: ئامادەین دڵنیایی بدەینە جیهان کە بەدوای چەکی ئەتۆمییەوە نین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3ddb3e9af5f660db",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2405202614",
+    "title": "دەروازە سنوورییەکانی عێراق دەست بەسەر فڕۆکەیەکی فێرکاریی زانکۆیەکدا دەگرێت",
+    "title_en": "دەروازە سنوورییەکانی عێراق دەست بەسەر فڕۆکەیەکی فێرکاریی زانکۆیەکدا دەگرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "86b9929bacb0f4dc",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202625",
+    "title": "رێنمایی یەکێتیی زانایان لەبارەی قوربانیکردن؛ \"دەبێ ئاژەڵەکە بێ عەیب بێت\"",
+    "title_en": "رێنمایی یەکێتیی زانایان لەبارەی قوربانیکردن؛ \"دەبێ ئاژەڵەکە بێ عەیب بێت\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dda4324ac727b509",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2405202624",
+    "title": "سەرچاوەیەک بۆ رووداو: ئەگەر پارە بگات، لە جەژنیشدا مووچە لە ATMـەکانەوە دەدرێت",
+    "title_en": "سەرچاوەیەک بۆ رووداو: ئەگەر پارە بگات، لە جەژنیشدا مووچە لە ATMـەکانەوە دەدرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "33acce8816019db3",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/240520262",
+    "title": "کردنەوەی هێڵی ئاسنی نێوان ئەرمینیا و تورکیا و قۆناخێکی نوێی پەیوەندییەکانیان",
+    "title_en": "کردنەوەی هێڵی ئاسنی نێوان ئەرمینیا و تورکیا و قۆناخێکی نوێی پەیوەندییەکانیان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d2067117145928b2",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2405202613",
+    "title": "دۆسیەی عەجاج رەوانەی دادگەی پێداچوونەوە کرا",
+    "title_en": "دۆسیەی عەجاج رەوانەی دادگەی پێداچوونەوە کرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "23c0297429ab2b62",
+    "url": "https://www.rudaw.net/sorani/world/2405202611",
+    "title": "ترەمپ: پەلەمان نییە بۆ رێککەوتن لەگەڵ ئێران و کات لە بەرژەوەندیی ئێمەدایە",
+    "title_en": "ترەمپ: پەلەمان نییە بۆ رێککەوتن لەگەڵ ئێران و کات لە بەرژەوەندیی ئێمەدایە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "88578d0fc2777690",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/2405202612",
+    "title": "لە تەقینەوەیەکدا سێ کارمەندی دژە تیرۆری عێراق کوژران",
+    "title_en": "لە تەقینەوەیەکدا سێ کارمەندی دژە تیرۆری عێراق کوژران",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "12678fe3810cf21c",
+    "url": "https://www.rudaw.net/sorani/world/2405202613",
+    "title": "ترەمپ: رێککەوتنێکی باش لەگەڵ ئێران دەکەم و گوێ لە دۆڕاوەکان مەگرن",
+    "title_en": "ترەمپ: رێککەوتنێکی باش لەگەڵ ئێران دەکەم و گوێ لە دۆڕاوەکان مەگرن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fdeb0189e4cdf52a",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/240520265",
+    "title": "بەرپرسێکی ئەمریکی: لەگەڵ ئێران رێککەوتنمان لەسەر کردنەوەی هورمز و یۆرانیۆم کردووە",
+    "title_en": "بەرپرسێکی ئەمریکی: لەگەڵ ئێران رێککەوتنمان لەسەر کردنەوەی هورمز و یۆرانیۆم کردووە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b47ffd21fcc19e89",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/iraq/240520262",
+    "title": "Dosyeya Celadê Kurdan çû Dadgeha Pêdeçûnê",
+    "title_en": "Dosyeya Celadê Kurdan çû Dadgeha Pêdeçûnê",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "331c55a6815d9379",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/2405202613",
+    "title": "Li Meletiyê erd hejiya",
+    "title_en": "Li Meletiyê erd hejiya",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "afb01001ae7ec1e8",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/2405202612",
+    "title": "Mesrûr Barzanî: Haya Hikûmeta Herêma Kurdistanê ji çekên Amerîkayê nîne",
+    "title_en": "Mesrûr Barzanî: Haya Hikûmeta Herêma Kurdistanê ji çekên Amerîkayê nîne",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e06347109b30d08d",
+    "url": "https://www.rudaw.net/kurmanci/opinion/24052026",
+    "title": "Piyaseya hestan di destên kê de ye?",
+    "title_en": "Piyaseya hestan di destên kê de ye?",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
