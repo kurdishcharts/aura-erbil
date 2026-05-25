@@ -20830,6 +20830,78 @@
     }
   },
   {
+    "id": "dc47a6357d47a770",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/958502",
+    "title": "Iranian attack injures 9 Kurdish fighters near Erbil, dissident group says",
+    "title_en": "Iranian attack injures 9 Kurdish fighters near Erbil, dissident group says",
+    "summary": "ERBIL, Kurdistan Region - At least nine Kurdish fighters were injured, including four in critical condition, in an Iranian attack that targeted a camp belonging to the Kurdistan Freedom Party (PAK) near Erbil, the Kurdish dissident group reported on Monday. “At 21:45 [pm local time] this evening, the occupier Iranian state targeted the Chamshar base of [the Kurdistan Freedom Party’s armed wing] the Kurdistan National Army, located northwest of Erbil near the Darashakran camp, using two drones an",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a5cc0091c458df58",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/958498",
+    "title": "Diplomats in Erbil hail Rudaw as ‘reliable source,’ welcome website revamp",
+    "title_en": "Diplomats in Erbil hail Rudaw as ‘reliable source,’ welcome website revamp",
+    "summary": "ERBIL, Kurdistan Region - Rudaw on Monday unveiled a new version of its website featuring advanced technical tools and a redesigned layout during an event attended by foreign diplomats and officials, who praised the platform’s digital transformation, reaffirming their reliance on the outlet as a credible source for local and regional news. “At the consulate, we follow Rudaw’s English, Kurdish, and Arabic pages,” said Yann Braem, the French Consul General in Erbil, adding, “Even in Paris, we watc",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b5c0f2aa5a619e4",
+    "url": "https://www.rudaw.net/sorani/categories/interview/960254",
+    "title": "هۆشیار زێباری: ئەمریکا دەیەوێ هەرێمی کوردستان لە چوارچێوەی عێراقدا بەهێز بێت",
+    "title_en": "هۆشیار زێباری: ئەمریکا دەیەوێ هەرێمی کوردستان لە چوارچێوەی عێراقدا بەهێز بێت",
+    "summary": "رووداو دیجیتاڵ لە هەڤپەیڤینێکی تایبەتدا لەگەڵ تۆڕی میدیایی رووداو لە واشنتن، هۆشیار زێباری، ئەندامی دەستەی کارگێڕیی مەکتەبی سیاسیی پارتی دیموکراتی کوردستان و وەزیری پێشووتری دەرەوەی عێراق، تیشکی خستە سەر ئەنجامی دیدار و کۆبوونەوەکانی لەگەڵ بەرپرسانی باڵای ئیدارەی دۆناڵد ترەمپ لە کۆشکی سپی، ئەنجوومەنی ئاسایشی نیشتمانی، وەزارەتەکانی دەرەوە و گەنجینە، کۆنگرێس و ناوەندەکانی توێژینەوەی ئەمریکا. زێباری لەم هەڤپەیڤینەدا باسی ئاست و قۆناخی پەیوەندییەکانی نێوان ئەمریکا و هەرێمی کوردستان دەکات لەم بارودۆخ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "054093aa0cf6ec09",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/959250",
+    "title": "Muşîr Remah: Li deriyê Rebîeyê dest bi liv û tevgereke mezin a bazirganiyê hatiye kirin",
+    "title_en": "Muşîr Remah: Li deriyê Rebîeyê dest bi liv û tevgereke mezin a bazirganiyê hatiye kirin",
+    "summary": "Serokê Ragihandinê yê Deriyên Sînorî yên Sûriyeyê Muşîr Remah ji Rûdawê re ragihand ku vekirina deriyê sînorî yê Rebîeyê (Til Koçer) ya piştî 13 salan, nîşaneya vegera çalakiya aborî ye. Muşîr Remah diyar kir ku di navbera Sûriye û Îraqê de dest bi liv û tevgereke mezin a bazirganî û transîtê hatiye kirin. Serokê Ragihandinê yê Deriyên Sînorî yên Sûriyeyê Muşîr bû mêvanê Rûdawê û pirsên Cefer Mubeşirniya bersivandin. Remah li ser girîngiya deriyê sînorî yê Rebîeyê û pêşhatên nû yên bazirganiyê d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
