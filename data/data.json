@@ -19750,6 +19750,672 @@
     }
   },
   {
+    "id": "ffa526ec61c07fe7",
+    "url": "https://www.rudaw.net/english/business/25052026",
+    "title": "Baghdad approves full ASYCUDA import system at Kurdistan crossing",
+    "title_en": "Baghdad approves full ASYCUDA import system at Kurdistan crossing",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ecb76a3313ecf21",
+    "url": "https://www.rudaw.net/english/middleeast/iran/250520262",
+    "title": "Iran says over 33 vessels crossed Strait of Hormuz under IRGC protection",
+    "title_en": "Iran says over 33 vessels crossed Strait of Hormuz under IRGC protection",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c8627759a88b386",
+    "url": "https://www.rudaw.net/english/middleeast/iran/250520261",
+    "title": "Iran executes another protester detained during January unrest",
+    "title_en": "Iran executes another protester detained during January unrest",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44c54ed347c5e3cc",
+    "url": "https://www.rudaw.net/english/middleeast/iran/25052026",
+    "title": "Iran ready to reassure world not pursuing nuclear weapons: Pezeshkian",
+    "title_en": "Iran ready to reassure world not pursuing nuclear weapons: Pezeshkian",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d6eaec2fcac01bde",
+    "url": "https://www.rudaw.net/sorani/middleeast/syria/25052026",
+    "title": "کوردانی ئێزدی داوای کورسیی کۆتای پەرلەمانی سووریا دەکەن",
+    "title_en": "کوردانی ئێزدی داوای کورسیی کۆتای پەرلەمانی سووریا دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b165d4587975128",
+    "url": "https://www.rudaw.net/sorani/sports/250520263",
+    "title": "ریکێلمی ئینریکێ: بارسێلۆنایەکی بەهێزمان ناوێت، دەبێ هەمووان رێز لە ریال مەدرید بگرن",
+    "title_en": "ریکێلمی ئینریکێ: بارسێلۆنایەکی بەهێزمان ناوێت، دەبێ هەمووان رێز لە ریال مەدرید بگرن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b3b306f89a074c3",
+    "url": "https://www.rudaw.net/sorani/kurdistan/2505202610",
+    "title": "نێچیرڤان بارزانی و مستەفا کازمی جەخت لە گرنگی پشتگیریکردنی پرۆسەی سیاسی دەکەنەوە",
+    "title_en": "نێچیرڤان بارزانی و مستەفا کازمی جەخت لە گرنگی پشتگیریکردنی پرۆسەی سیاسی دەکەنەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b7fde876627bf19",
+    "url": "https://www.rudaw.net/sorani/sports/250520262",
+    "title": "چیرۆکی ئەو راهێنەرەی مێژووی پرێمەرلیگی گۆڕی؛ پێپ چۆن 10 ساڵ لە لووتکەدا مایەوە؟",
+    "title_en": "چیرۆکی ئەو راهێنەرەی مێژووی پرێمەرلیگی گۆڕی؛ پێپ چۆن 10 ساڵ لە لووتکەدا مایەوە؟",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0973382f0dad7b17",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/250520263",
+    "title": "بەڕێوەبەرایەتیی مادە هۆشبەرەکانی عێراق روونکردنەوە لەبارەی گوڵێکی ژەهراوی دەدات",
+    "title_en": "بەڕێوەبەرایەتیی مادە هۆشبەرەکانی عێراق روونکردنەوە لەبارەی گوڵێکی ژەهراوی دەدات",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2dd7cf070edf55e8",
+    "url": "https://www.rudaw.net/sorani/health/250520264",
+    "title": "پسپۆڕێک: ئەنفلەوەنزای باڵندە لە ئەمریکا لەناو مانگا و پەلەوەردا بڵاودەبێتەوە",
+    "title_en": "پسپۆڕێک: ئەنفلەوەنزای باڵندە لە ئەمریکا لەناو مانگا و پەلەوەردا بڵاودەبێتەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1fb7ccb49c7af340",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/250520262",
+    "title": "وەرزی دروێنە لە ورمێ؛ پێشبینی دەکرێت 600 هەزار تۆن گەنم لە جووتیاران بکڕدرێت",
+    "title_en": "وەرزی دروێنە لە ورمێ؛ پێشبینی دەکرێت 600 هەزار تۆن گەنم لە جووتیاران بکڕدرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c6e0f49cd385bba",
+    "url": "https://www.rudaw.net/sorani/health/250520263",
+    "title": "زانکۆی کۆیە هەڵمەتێکی ژینگەیی بۆ جیاکردنەوەی پاشماوەکان راگەیاند",
+    "title_en": "زانکۆی کۆیە هەڵمەتێکی ژینگەیی بۆ جیاکردنەوەی پاشماوەکان راگەیاند",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "408529febb74efa4",
+    "url": "https://www.rudaw.net/sorani/middleeast/iraq/250520262",
+    "title": "خاوەن بڕوانامە باڵاکان لە بە‌غدا داوای دامەزراندن دەکەن",
+    "title_en": "خاوەن بڕوانامە باڵاکان لە بە‌غدا داوای دامەزراندن دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "95bb306d9bfbdeea",
+    "url": "https://www.rudaw.net/sorani/kurdistan/250520269",
+    "title": "ئەو کەسانەی زەوییان بەر پشتێنەی سەوزایی هەولێر کەوتووە بە زەوی نیشتەجێبوون قەرەبوو دەکرێنەوە",
+    "title_en": "ئەو کەسانەی زەوییان بەر پشتێنەی سەوزایی هەولێر کەوتووە بە زەوی نیشتەجێبوون قەرەبوو دەکرێنەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04059257ca1be09b",
+    "url": "https://www.rudaw.net/sorani/business/250520264",
+    "title": "بۆچی پارەکانی ئێران سڕکراون؟",
+    "title_en": "بۆچی پارەکانی ئێران سڕکراون؟",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8564b05564fbc80a",
+    "url": "https://www.rudaw.net/sorani/middleeast/turkey/25052026",
+    "title": "عەبدوڵڵا ئۆجەلان: یاسایەک دەبێتە بنەمای پرۆسەی دیموکراسی",
+    "title_en": "عەبدوڵڵا ئۆجەلان: یاسایەک دەبێتە بنەمای پرۆسەی دیموکراسی",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "599e6f0282459de8",
+    "url": "https://www.rudaw.net/sorani/kurdistan/250520264",
+    "title": "هەڵبژاردنی پەرلەمانی سووریا؛ کورد لە رۆژئاوای کوردستان بەرەو کەمینە",
+    "title_en": "هەڵبژاردنی پەرلەمانی سووریا؛ کورد لە رۆژئاوای کوردستان بەرەو کەمینە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5d4951b9baeec53a",
+    "url": "https://www.rudaw.net/sorani/health/250520262",
+    "title": "لە کۆنگۆ ئیبۆلا سەتان کەس دەکوژێت، بەڵام خەڵک دژی رێکارەکانی خۆپارێزی دەوەستنەوە",
+    "title_en": "لە کۆنگۆ ئیبۆلا سەتان کەس دەکوژێت، بەڵام خەڵک دژی رێکارەکانی خۆپارێزی دەوەستنەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9de438003b47aab3",
+    "url": "https://www.rudaw.net/sorani/middleeast/iran/250520261",
+    "title": "ئێران کەسێکی بە تۆمەتی سەرپەرشتیکردنی خۆپێشاندان لەسێدارە دا",
+    "title_en": "ئێران کەسێکی بە تۆمەتی سەرپەرشتیکردنی خۆپێشاندان لەسێدارە دا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "28f4560d1a573ceb",
+    "url": "https://www.rudaw.net/sorani/kurdistan/250520268",
+    "title": "نرخی کیلۆیەک مریشک هەزار دینار بەرز بووەوە",
+    "title_en": "نرخی کیلۆیەک مریشک هەزار دینار بەرز بووەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "91f0aff1290eb5e9",
+    "url": "https://www.rudaw.net/sorani/opinion/25052026",
+    "title": "یەکێتی چى دەچنێتەوە لە سڕکردنى پەرلەمان؟",
+    "title_en": "یەکێتی چى دەچنێتەوە لە سڕکردنى پەرلەمان؟",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e9b1cb8147a37feb",
+    "url": "https://www.rudaw.net/sorani/health/25052026",
+    "title": "کوشتارگەری هاوچەرخی سلێمانی: رێکارە تەندروستییەکان بە تووندی جێبەجێدەکرێن",
+    "title_en": "کوشتارگەری هاوچەرخی سلێمانی: رێکارە تەندروستییەکان بە تووندی جێبەجێدەکرێن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "235795a964210e97",
+    "url": "https://www.rudaw.net/kurmanci/world/250520261",
+    "title": "Alman ji artêşa xwe bawer nakin",
+    "title_en": "Alman ji artêşa xwe bawer nakin",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "92429283d2bb6b24",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/250520262",
+    "title": "Tuncer Bakirhan û Ozgur Ozel li Parlamentoya Tirkiyeyê civiyan",
+    "title_en": "Tuncer Bakirhan û Ozgur Ozel li Parlamentoya Tirkiyeyê civiyan",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dccdb8a724c7b08e",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/250520262",
+    "title": "ROJAVA - Hilbijartin, boykot û nîqaş: Gelo Kurd dibin kêmîne?",
+    "title_en": "ROJAVA - Hilbijartin, boykot û nîqaş: Gelo Kurd dibin kêmîne?",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b5c3877081d51781",
+    "url": "https://www.rudaw.net/kurmanci/world/25052026",
+    "title": "POLONYA - Zanîngehên Kurdistanê û cîhanê li ser paşeroja aborî û polîtîkayê dişêwirin",
+    "title_en": "POLONYA - Zanîngehên Kurdistanê û cîhanê li ser paşeroja aborî û polîtîkayê dişêwirin",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2f6dd6bffad9fb8",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/iran/25052026",
+    "title": "Îranê kesek bi tohmeta 'serkêşiya xwenîşandanan' îdam kir",
+    "title_en": "Îranê kesek bi tohmeta 'serkêşiya xwenîşandanan' îdam kir",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84d40438fe3576c5",
+    "url": "https://www.rudaw.net/kurmanci/opinion/25052026",
+    "title": "Çima pereyên Îranê hatine blokkirin?",
+    "title_en": "Çima pereyên Îranê hatine blokkirin?",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "85715d5e64404bcb",
+    "url": "https://www.rudaw.net/kurmanci/interview/25052026",
+    "title": "Encumena Êzidiyên Sûriyeyê: Di Parlamentoya Sûriyeyê de nûnerê me nîne",
+    "title_en": "Encumena Êzidiyên Sûriyeyê: Di Parlamentoya Sûriyeyê de nûnerê me nîne",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a7249e5f540de40",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/250520261",
+    "title": "Zanîngeha Bîlgiyê dîsa hat vekirin",
+    "title_en": "Zanîngeha Bîlgiyê dîsa hat vekirin",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "982d8b98c0961ec3",
+    "url": "https://www.rudaw.net/kurmanci/middleeast/turkey/25052026",
+    "title": "Abdullah Ocalan: Dema me ya ku em winda bikin tune",
+    "title_en": "Abdullah Ocalan: Dema me ya ku em winda bikin tune",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b272e9174e91e500",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/250520261",
+    "title": "Rêveberiya Tevgerê bangî MHP û AK Partiyê kir",
+    "title_en": "Rêveberiya Tevgerê bangî MHP û AK Partiyê kir",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "400e6c2c0c39d82c",
+    "url": "https://www.rudaw.net/kurmanci/kurdistan/25052026",
+    "title": "Guherîna rûyê bajarên Başûrê Kurdistanê di warê zimên de",
+    "title_en": "Guherîna rûyê bajarên Başûrê Kurdistanê di warê zimên de",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e267fd6c3bc887ac",
+    "url": "https://www.rudaw.net/kurmanci/business/250520263",
+    "title": "Bexdayê ji bo Îbrahîm Xelîlê biryareke nû da",
+    "title_en": "Bexdayê ji bo Îbrahîm Xelîlê biryareke nû da",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b87e69012d78a29a",
+    "url": "https://www.rudaw.net/kurmanci/business/250520262",
+    "title": "Tumen dîsa bê qîmet dibe",
+    "title_en": "Tumen dîsa bê qîmet dibe",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b5ceffcc50df0eee",
+    "url": "https://www.rudaw.net/kurmanci/business/250520261",
+    "title": "Petrol daket asta herî kêm a du hefteyên dawî",
+    "title_en": "Petrol daket asta herî kêm a du hefteyên dawî",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "877e93374c50c7e8",
+    "url": "https://www.rudaw.net/kurmanci/business/25052026",
+    "title": "Hêviya lihevhatinê geş bû, zêr biha bû",
+    "title_en": "Hêviya lihevhatinê geş bû, zêr biha bû",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
