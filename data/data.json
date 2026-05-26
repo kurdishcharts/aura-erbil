@@ -21316,6 +21316,78 @@
     }
   },
   {
+    "id": "b5281e1e0844d376",
+    "url": "https://www.rudaw.net/english/categories/iraq/958562",
+    "title": "Iraqi government pushes to bring armed groups’ weapons under state control, officials say",
+    "title_en": "Iraqi government pushes to bring armed groups’ weapons under state control, officials say",
+    "summary": "ERBIL, Kurdistan Region - The government of newly appointed Iraqi Prime Minister Ali al-Zaidi is moving toward bringing the arms of Iran-aligned armed groups in Iraq under state control, several officials from the ruling Shiite Coordination Framework, which backed Zaidi to office, told Rudaw on Tuesday. Meanwhile, a senior commander from one of the armed factions said the push aims to address arms proliferation but not to “disarm” these groups. Amer al-Fayez, head of the Tasmim alliance, one of ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "28ecf2948a0269de",
+    "url": "https://www.rudaw.net/english/categories/iraq/958558",
+    "title": "Iraq’s Anbar province on high alert as Euphrates flood risk rises from Syria",
+    "title_en": "Iraq’s Anbar province on high alert as Euphrates flood risk rises from Syria",
+    "summary": "ERBIL, Kurdistan Region - Local authorities in Iraq’s western Anbar province on Tuesday declared a three-day state of alert over an imminent flood threat from Syria, the province’s council said, as Damascus has for days been warning of rising water levels in the Euphrates River due to extensive upstream water releases and the heavy rainy season. “Anbar Governor Omar Mishan Dabbous has declared a state of full alert for 72 hours, warning of an upcoming wave of torrents and devastating floods comi",
+    "source": "rudaw-english",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be9ce7f394b3c971",
+    "url": "https://www.rudaw.net/sorani/categories/world/960718",
+    "title": "ترەمپ کۆبوونەوەیەکی نائاسایی کابینەکەی لە کامپ دەیڤد رێکدەخات",
+    "title_en": "ترەمپ کۆبوونەوەیەکی نائاسایی کابینەکەی لە کامپ دەیڤد رێکدەخات",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رۆژی چوارشەممە 27-05-2026 کۆبوونەوەیەکی نائاسایی لە کامپ دەیڤد بۆ کابینەکەی بەڕێوە دەبات؛ ئەمەش هاوکاتە لەگەڵ زیادبوونی گوشارە نێوخۆیی و نێودەوڵەتییەکان بۆ گەیشتن بە رێککەوتنی ئاشتی لەگەڵ ئێران. چاوەڕوان دەکرێت هەموو ئەندامانی کابینەکەی بەشداری لە کۆبوونەوەکەدا بکەن. ئەم زانیارییە یەکەم جار لەلایەن رۆژنامەی نیویۆرک پۆستەوە بڵاوکرایەوە و فۆکس نیوز پشتڕاستی کردەوە. کۆبوونەوەکە لە کاتێکدا ئەنجام دەدرێت کە ئەمریکا هەنگاوە داهاتووەکانی خۆی لە دانوستاندنــە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cc85d6e8312e9436",
+    "url": "https://www.rudaw.net/sorani/categories/world/960710",
+    "title": "ناسا پلانی دامەزراندنی بنکەیەکی گەورەی لەسەر مانگ ئاشکرا کرد و چاوی لە مەریخە",
+    "title_en": "ناسا پلانی دامەزراندنی بنکەیەکی گەورەی لەسەر مانگ ئاشکرا کرد و چاوی لە مەریخە",
+    "summary": "رووداو دیجیتاڵ ئاژانسی بۆشایی ئاسمانیی ئەمریکا (ناسا) پلانی گەورەی خۆی بۆ نیشتەجێبوون لەسەر مانگ ئاشکرا کرد، کە رەنگە قەبارەکەی هێندەی شارێکی گەورە بێت و هەنگاوی یەکەم دەبێت بەرەو ناردنی مرۆڤ بۆ مەریخ. ئاژانسەکە رایگەیاند، بنکەی مانگ (Moon base) دەبێتە \"یەکەم پێگەی مرۆڤ لەسەر تەنێکی ئاسمانیی دیکە.\" رۆژی سێشەممە 26-05-2026، لە بۆنەیەکدا لە بارەگای سەرەکیی ناسا لە واشنتن، بەرپرسانی ئاژانسەکە گرێبەستی نوێیان بۆ گالیسکەکانی سەر مانگ و کەشتییەکانی نیشتنەوەی بار راگەیاند و وردەکاریی پلانی سێ قۆناخیی د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
