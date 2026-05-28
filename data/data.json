@@ -22180,6 +22180,294 @@
     }
   },
   {
+    "id": "52947ee3d3f9a3d0",
+    "url": "https://www.rudaw.net/english/categories/world/958630",
+    "title": "German woman goes on trial for allegedly supporting ISIS through aid collections",
+    "title_en": "German woman goes on trial for allegedly supporting ISIS through aid collections",
+    "summary": "ERBIL, Kurdistan Region - A 42-year-old German woman appeared before the Dusseldorf Higher Regional Court on Thursday, accused of collecting financial aid for families linked to the Islamic State (ISIS) through online campaigns. The woman, identified as Nadin, is accused by federal prosecutors of supporting ISIS by gathering donations via a Telegram channel called “Free Our Sisters” and transferring the funds to wives and children of ISIS militants. German federal prosecutors allege that the aid",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b651a42eabf7ef7",
+    "url": "https://www.rudaw.net/english/categories/world/958626",
+    "title": "Washington, Tehran agree on 60-day ceasefire framework: US sources",
+    "title_en": "Washington, Tehran agree on 60-day ceasefire framework: US sources",
+    "summary": "ERBIL, Kurdistan Region - US sources confirmed to Rudaw on Thursday that the United States and Iran have agreed to extend a ceasefire and move toward talks on Tehran’s nuclear program under a 60-day memorandum of understanding, though final approval from President Donald Trump is still pending. The sources confirmed to Rudaw’s Diyar Kurda reports that US and Iranian negotiators have agreed to a to extend the ceasefire and begin talks on Tehran’s nuclear program, without commenting on President D",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f2819101510196d",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958614",
+    "title": "US, Iran reach 60-day ceasefire framework, Trump approval pending: Report",
+    "title_en": "US, Iran reach 60-day ceasefire framework, Trump approval pending: Report",
+    "summary": "ERBIL, Kurdistan Region - Washington and Tehran negotiators have reportedly agreed on a 60-day memorandum of understanding aimed at extending the ceasefire and opening talks on Iran’s nuclear program, according to a report by American website Axios on Thursday, though President Donald Trump has yet to give final approval. Citing two US officials and \"a regional source involved in the mediation efforts,\" Axios reported that \"the MOU will include an Iranian commitment not to pursue a nuclear weapo",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb9eb71de4cc51e9",
+    "url": "https://www.rudaw.net/english/categories/economic/958610",
+    "title": "Tourists flood Kurdistan Region as hotels near full capacity during Eid",
+    "title_en": "Tourists flood Kurdistan Region as hotels near full capacity during Eid",
+    "summary": "ERBIL, Kurdistan Region - Tens of thousands of tourists have flocked to the Kurdistan Region during the Eid al-Adha holiday, with tourism officials across the Region reporting hotels operating near full capacity as visitors continue arriving from central and southern Iraq. Tourism authorities in Sulaimani, Erbil, Duhok, and Halabja said the number of visitors this Eid has surpassed arrivals during Eid al-Fitr, when the US and Israel war against Iran affected travel. Goran Qadir, spokesperson for",
+    "source": "rudaw-english",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3570ac6dae30280d",
+    "url": "https://www.rudaw.net/english/categories/iraq/958618",
+    "title": "Iran-backed militia leader killed in car bombing in Iraq",
+    "title_en": "Iran-backed militia leader killed in car bombing in Iraq",
+    "summary": "ERBIL, Kurdistan Region - An Iran-backed militia leader was killed on Thursday when a bomb planted in his vehicle exploded in Iraq’s southern Maysan province, according to local officials and security sources. The incident also left another militant wounded. Hussein Ali Miryani, head of the defense and PMF committee in the Maysan provincial council, told Rudaw on Thursday that the leader of Harakat Ansar Allah al-Awfiya (HAAA), a brigade of the government-linked Popular Mobilization Forces (PMF)",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ca72e5f040c69fe5",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/961226",
+    "title": "جێگری وەزیری دەرەوەی ئێران: وەڵامی سوپای پاسداران بەڵگەی ئامادەیی تەواوی هێزە چەکدارەکانە",
+    "title_en": "جێگری وەزیری دەرەوەی ئێران: وەڵامی سوپای پاسداران بەڵگەی ئامادەیی تەواوی هێزە چەکدارەکانە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f41851615814f70d",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/961186",
+    "title": "هەڵوێستی بەشێک لە لایەنە سیاسییەکان بەرامبەر دەستپێشخەرییەکەی سەرۆک بارزانی",
+    "title_en": "هەڵوێستی بەشێک لە لایەنە سیاسییەکان بەرامبەر دەستپێشخەرییەکەی سەرۆک بارزانی",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42f7d59fc7dbe906",
+    "url": "https://www.rudaw.net/sorani/categories/world/961150",
+    "title": "چەند بەرپرسێکی ئەمریکی بۆ رووداو: ئەمریکا و ئێران رێککەوتن، بەڵام چاوەڕێی بڕیاری کۆتایی ترەمپن",
+    "title_en": "چەند بەرپرسێکی ئەمریکی بۆ رووداو: ئەمریکا و ئێران رێککەوتن، بەڵام چاوەڕێی بڕیاری کۆتایی ترەمپن",
+    "summary": "رووداو دیجیتاڵ چەند بەرپرسێکی ئەمریکی بە رووداویان گوت، دانوستاندنکارانی ئەمریکا و ئێران گەیشتوونەتە رێککەوتنێک لەسەر یاداشتێکی لێکتێگەیشتنی 60 رۆژە بۆ درێژکردنەوەی ئاگربەست و دەستپێکردنی دانوستاندن لەسەر پرۆگرامی ئەتۆمیی ئێران، بەڵام سەرۆک ترەمپ هێشتا رەزامەندیی کۆتایی خۆی نەداوە و داوای \"چەند رۆژێک\"ـی کردووە بۆ بیرکردنەوە. چەند بەرپرسێکی ئەمریکی بە دیار کوردە، بەرپرسی نووسینگەی رووداو لە واشنتنیان گوت، هەرچەندە دانوستاندنکاران گەیشتوونەتە رێککەوتنێکی بنەڕەتی، بەڵام چارەنووسی کۆتایی پەیوەستە بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f74e282385981ee",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/961138",
+    "title": "سەرۆکوەزیرانی عێراق فەرمانی لێکۆڵینەوە لە چەندین گرێبەستی حکومی دەردەکات",
+    "title_en": "سەرۆکوەزیرانی عێراق فەرمانی لێکۆڵینەوە لە چەندین گرێبەستی حکومی دەردەکات",
+    "summary": "رووداو دیجیتاڵ سەرۆکوەزیرانی عێراق فەرمانی لێکۆڵینەوە لە چەندین گرێبەستی \"ملیار دیناری\" دەردەکات و رایدەگەیێنێت، هەرکەسێک دەستی لە بەفیڕۆدانی سامانی گشتیدا هەبێت، رووبەڕووی دادگە دەکرێتەوە. نووسینگەی راگەیاندنی سەرۆکوەزیرانی عێراق لە راگەیێندراوێکدا ئاماژەی بەوە کردووە، عەلی زەیدی، سەرۆکوەزیرانی عێراق \"لە چوارچێوەی جێبەجێکردنی کارنامەی وەزاری و بە ئامانجی بەرەنگاربوونەوەی گەندەڵی و پاراستنی سامانی گشتی\"، لایەنە چاودێرەکان و دەسەڵاتە پەیوەندیدارەکانی راسپاردووە بۆ دەستپێکردنی لێکۆڵینەوە لە \"ژمارە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c57912c0f7741a0b",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959590",
+    "title": "Li Almanyayê jinek bi tohmeta alîkariya DAIŞê tê darizandin",
+    "title_en": "Li Almanyayê jinek bi tohmeta alîkariya DAIŞê tê darizandin",
+    "summary": "Dusseldorf (Rûdaw) – Li bajarê Dusseldorfê yê Almanyayê jineke Alman bi tohmeta komkirina alîkariyan a ji bo DAIŞê tê darizandin. Nadine, jineke Alman a 42 salî û dayîka 4 zarokan e, îro rûniştina yekem a darizandina wê ya bi tohmeta komkirina alîkariya darayî ya ji bo DAIŞê li Dadgeha Bilind a Herêmî ya li bajarê Dusseldorfê hat kirin. Serdozgeriyê tohmeta piştgiriya DAIŞê li Nadineyê kiriye. Hat ragihandin ku wê bi rêya kanaleke Telegramê ya bi navê \"Free Our Sisters\" (Ji xwişkên me re azadî),",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e250e6c755723778",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/959586",
+    "title": "Mark Evans: Rûdaw çavê ENEXê yê li herêmê ye",
+    "title_en": "Mark Evans: Rûdaw çavê ENEXê yê li herêmê ye",
+    "summary": "Birêvebirê Jûra Nûçeyan a Ajansa ENEXê Mark Evans di çarçoveya konferansa salane ya ajansê ya li Luksemburgê de pesnê rola Tora Medyayî ya Rûdawê da. Mark Evans ragihand ku Rûdaw \"çavê ENEXê yê li herêmê ye\" û bi saya rojnamegerên xwe yên xwedî tecrube û rasteqîn, bûye çavkaniyeke giring a nûçeyan ji bo cîhanê. Hevahengîkarê Ajansan ê Rûdawê Rêkar Ezîz wekî nûnerê Tora Medyayî ya Rûdawê di konferansê de amade ye. Konferansa ENEXê, civîneke salane ya giring e ji bo nûnerên desteya nûçeyan a cîhan",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d35e2ffb6ca3fba2",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/959582",
+    "title": "Aliyên siyasî li ser banga Serok Barzanî çi dibêjin?",
+    "title_en": "Aliyên siyasî li ser banga Serok Barzanî çi dibêjin?",
+    "summary": "Hewlêr (Rûdaw) - Piştî banga Serok Mesûd Barzanî ya ji bo bidawîanîna aloziyên siyasî, hinek alî ji bo çalakkirina parlamentoyê û avakirina kabîneya nû ya hikûmetê bi geşbînî li qonaxa bê dinêrin. Endamekî serkirdayetiya Yekîtiya Niştimanî ya Kurdistanê (YNK) tekezî li amadehiya partiya xwe ya ji bo dan û standinan kir. Her wiha Yekgirtûya Îslamî ya Kurdistanê jî di wê baweriyê de ye ku divê Kurd ji bo parastina destkeftiyan navmala xwe birêkûpêk bikin. Serok Mesûd Barzanî di peyama Cejna Qurban",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d69e2b4208d7f23c",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/959574",
+    "title": "Abdullah Ocalan peyameke cejnê şand",
+    "title_en": "Abdullah Ocalan peyameke cejnê şand",
+    "summary": "Hewlêr (Rûdaw) - Parlamenterê DEM Partiyê yê Rihayê Omer Ocalan ragihand ku wan ji bo Cejna Qurbanê li Girtîgeha Îmraliyê bi apê xwe Abdullah Ocalan re hevdîtinek kiriye. Omer Ocalan li ser hesabê xwe yê Xê peyamek parve kir û diyar kir ku Abdullah Ocalan ji bo Cejna Qurbanê silavên xwe şandine. Omer Ocalan di peyama xwe de cih da gotinên Abdullah Ocalan û anî ziman: \"Birêz Abdullah Ocalan ji bo Cejna Qurbanê silavên xwe ji gelê me re şandin û got, ez diyar dikim ku em ji her demê bêhtir nêzîkî ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d2e63797c5f852de",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959570",
+    "title": "Medyaya Amerîkayê: Îran û Amerîkayê li hev kir lê li hêviya biryara Trump in",
+    "title_en": "Medyaya Amerîkayê: Îran û Amerîkayê li hev kir lê li hêviya biryara Trump in",
+    "summary": "Hewlêr (Rûdaw) - Medyaya Amerîkayê îdia kir ku mizakerekarên Amerîka û Îranê li ser dirêjkirina agirbestê û destpêkirina dan û standinên li ser bernameya nukleerê ya Îranê li hev kiriye. Hat ragihandin ku Serokê Amerîkayê Donald Trump hîn ev peyman bi awayekî dawî pesend nekiriye. Li gorî nûçeya platforma nûçeyan a Axiosê ya Amerîkayê ku dispêre du berpirsên Amerîkayî, Washington û Tehran li ser metneke peymanê ya 60 rojî li hev kiriye. Di nûçeyê de hat diyarkirin ku mizakerekarên Amerîkayî û Îr",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "481189005a1855f3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/959558",
+    "title": "Li Herêma Kurdistanê coşa cejnê: Ji sedî 90ê otêlan tijî ne",
+    "title_en": "Li Herêma Kurdistanê coşa cejnê: Ji sedî 90ê otêlan tijî ne",
+    "summary": "Hewlêr (Rûdaw) - Berpirsên geştyariyê dibêjin, li gorî Cejna Remezanê ji naverast û başûrê Îraqê geştyarên zêdetir hatine Herêma Kurdistanê. Serokê şaxa Yekîtiya Mêvanxaneyan a Dihokê da zanîn, \"Ji sedî 90ê otêlan bi geştyaran tijî ne.\" Berdevkê Birêvebiriya Geştyariyê yê Silêmaniyê Goran Qadir ji Tora Medyayî ya Rûdawê re ragihand ku bi dehan hezar geştyaran çûne parêzgeha Silêmaniyê. Goran Qadir diyar kir ku ji bo hatina geştyaran hemû hêsankarî hatine kirin û anî ziman: \"Me belavokên bi ziman",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "394319585ae96462",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/959554",
+    "title": "Xamineyî bangî parlamentoyê kir: ‘Nakokiyên siyasî deynin aliyekî’",
+    "title_en": "Xamineyî bangî parlamentoyê kir: ‘Nakokiyên siyasî deynin aliyekî’",
+    "summary": "Hewlêr (Rûdaw) - Mucteba Xamineyî ji bo salvegera destpêkirina kar û xebatan a Parlamentoya Îranê peyamek belav kir. Rêberê Dînî yê Komara Îslamî ya Îranê Mucteba Xamineyî ji aliyên siyasî û parlamenteran xwest ku nakokiyên xwe yên siyasî deynin aliyekî. Mucteba Xamineyî tekezî li “parastina yekrêziya niştimanî kir ku ji bo rûbirûbûna zextên derve faktoreke sereke ye.” Medyaya Îranê peyama Mucteba Xamineyî bi nivîskî belav kir. Xamineyî di peyamê de gotiye: \"Nexşeya paşerojê ya neyarên Îranê ya ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
