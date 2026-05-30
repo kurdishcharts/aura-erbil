@@ -23674,6 +23674,60 @@
     }
   },
   {
+    "id": "4fd8a59455b3a0f3",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/958722",
+    "title": "Peshmerga not informed of any plan to integrate into federal forces: Official",
+    "title_en": "Peshmerga not informed of any plan to integrate into federal forces: Official",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region's Peshmerga forces have not been officially informed of any plan to integrate them into Iraq’s federal security apparatus, a senior Peshmerga official said on Saturday, as Baghdad steps up efforts to consolidate weapons under state control. Abdulrahman al-Jazaeri, head of the National Tribal Movement and a senior official in the Popular Mobilization Forces (PMF), told Rudaw that federal and Kurdish security officials are expected to meet in the comi",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a4686a05bf19593c",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958718",
+    "title": "US says intercepted another ship bound for Iran",
+    "title_en": "US says intercepted another ship bound for Iran",
+    "summary": "ERBIL, Kurdistan Region - The US military said on Saturday it intercepted another vessel attempting to reach an Iranian port despite US President Donald Trump announcing the end of Washington's naval blockade on Iran. US Central Command (CENTCOM), which oversees American military operations in the Middle East, announced late Saturday that its \"forces operating in the Gulf of Oman enforced blockade measures by disabling a Gambia-flagged maritime vessel attempting to sail toward an Iranian port.\" ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4a8b4ff0616fcd4d",
+    "url": "https://www.rudaw.net/sorani/categories/world/1345922",
+    "title": "لە چین تاوەکو قەتەر: پارە بلۆککراوەکانی ئێران لە کوێ هەڵگیراون؟",
+    "title_en": "لە چین تاوەکو قەتەر: پارە بلۆککراوەکانی ئێران لە کوێ هەڵگیراون؟",
+    "summary": "رووداو دیجیتاڵ خاڵی ناکۆک لە گفتوگۆکانی نێوان ئێران و ئەمریکا بۆ رێککەوتنی ئاشتی و کۆتاییهێنان بە جەنگ، پرسی پارە بلۆککراوەکانی ئێرانە، کە بە 24 ملیار دۆلار دەخەمڵێندرێت و تاران داوای ئازادکردنیان دەکات. بەپێی راپۆرتێکی ئاژانسی هەواڵی تەسنیم کە پشتی بەستووە بە سەرچاوەیەک لە نێو شاندی دانوستاندکاری ئێران، تاران سوورە لەسەر ئەوەی نیوەی ئەو بڕە پارەیەی پێبدرێت لەکاتی واژۆکردنی یاداشتێکی 14 خاڵەی لێکتێگەیشتن لەگەڵ ئەمریکا. بەگوێرەی راپۆرتەکە کۆماری ئیسلامیی ئێران داوا دەکات نیوەی دیکەی پارەکەی لە ما",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
