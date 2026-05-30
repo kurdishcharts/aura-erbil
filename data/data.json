@@ -23242,6 +23242,258 @@
     }
   },
   {
+    "id": "7c68c4e2b90ca09b",
+    "url": "https://www.rudaw.net/english/categories/syria/958698",
+    "title": "Syrian IDP camp on verge of closure as residents return home",
+    "title_en": "Syrian IDP camp on verge of closure as residents return home",
+    "summary": "",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "441b6dabf7dc0294",
+    "url": "https://www.rudaw.net/english/categories/iraq/958694",
+    "title": "Kata’ib Hezbollah backs weapons handover to Iraqi state, offers to handle advanced arms",
+    "title_en": "Kata’ib Hezbollah backs weapons handover to Iraqi state, offers to handle advanced arms",
+    "summary": "ERBIL, Kurdistan Region - The Iran-aligned Iraqi armed group Kata’ib Hezbollah on Saturday welcomed efforts by armed factions to surrender their weapons to the state, offering to assume responsibility of specialized military equipment and even pay for them, as Baghdad continues negotiations aimed at bringing weapons under state control. In a statement, Abu Mujahid al-Assaf, the spokesperson and senior security official of the powerful armed group, praised what he described as a decision by “[arm",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3e65e942b1ab84b",
+    "url": "https://www.rudaw.net/english/categories/iran/958686",
+    "title": "US naval blockade on Iran persists despite Trump remarks: IRGC media",
+    "title_en": "US naval blockade on Iran persists despite Trump remarks: IRGC media",
+    "summary": "ERBIL, Kurdistan Region - The United States’ maritime blockade on Iranian ports remains in place despite remarks from the American president suggesting otherwise, media affiliated with Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Saturday. The report comes hours after Donald Trump told ships stuck in the strategic Strait of Hormuz to begin the process of heading home, stating that his country’s naval embargo “will now be lifted.” “Despite some incorrect interpretations of Trump’s twee",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "429183ac1ec1b6d6",
+    "url": "https://www.rudaw.net/english/categories/opinion/958690",
+    "title": "Rudaw and the fight for media freedom: Thirteen years of public trust, democratic discourse",
+    "title_en": "Rudaw and the fight for media freedom: Thirteen years of public trust, democratic discourse",
+    "summary": "“Were it left to me to decide whether we should have a government without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter,” said Thomas Jefferson, political philosopher and third President of the United States. More than two centuries ago, Jefferson expressed an idea that remains as relevant today as it was then: a free society cannot exist without free and independent media. Democracy does not depend only on elections, parliaments, or state in",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a0d21d85266153e9",
+    "url": "https://www.rudaw.net/sorani/categories/world/1345834",
+    "title": "بەرپرسێکی ناتۆ بۆ رووداو: هاوکاریی پێشمەرگە دەکەین بۆ بەرەنگاربوونەوەی تیرۆر",
+    "title_en": "بەرپرسێکی ناتۆ بۆ رووداو: هاوکاریی پێشمەرگە دەکەین بۆ بەرەنگاربوونەوەی تیرۆر",
+    "summary": "رووداو دیجیتاڵ بەرپرسێکی هاوپەیمانی ناتۆ بە رووداوی راگەیاند، لە رووی راویژکاری و بنیاتنانەوە هاوکاریی سوپای عێراق و پێشمەرگە دەکەن بۆ ئەوەی بتوانن رووبەڕووی تیرۆر ببنەوە و رێگریش لە گەڕانەوەی داعش بکەن. گوتەبێژێکی هاوپەیمانییەکەش دەڵێت، دەیانەوێت بۆ بەرەنگاربوونەوەی هەڕەشەکان، پشت بەستن بە یەک وڵات کەمبکرێتەوە. ئەمڕۆ شەممە، بەرپرسێکی ناتۆ سەبارەت بە گەڕانەوەی هێزەکانیان بۆ عێراق، هاوکارییەکانیان بۆ سوپای وڵاتەکە و راهێنان بە پێشمەرگە لە وەڵامی پرسیارەکانی نیاز مستەفا، ئیدیتۆر لە بەشی نێودەوڵەتی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e2e4c2810a9960c0",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1345826",
+    "title": "120 مێگاوات لە هەرێمی کوردستانەوە دەدرێتە پارێزگای دیالە",
+    "title_en": "120 مێگاوات لە هەرێمی کوردستانەوە دەدرێتە پارێزگای دیالە",
+    "summary": "رووداو دیجیتاڵ دوای چەند مانگێک لە راوەستانی، ناردنی 120 مێگاوات کارەبا لە هەرێمی کوردستانەوە بۆ پارێزگای دیالە دەستیپێکردەوە؛ ئەوەش پشکی کارەبای پارێزگاکەی بۆ 850 مێگاوات زیادکردووە و بڕیارە کاژێرەکانی پێدانی کارەبای نیشتمانی زیاد بکات. فارس موزاحیم جبووری، سەرۆکی لیژنەی وزە لە ئەنجوومەنی پارێزگای دیالە، ئەمڕۆ شەممە 30ی ئایاری 2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"لە دوێنێوە ناردنی 120 مێگاوات کارەبا لە هەرێمی کوردستان بۆ پارێزگای دیالە دەستیپێکردووەتەوە.\" سەبارەت بە هۆکاری راوەستانی پێشتر، ف",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7155ae1a404940e2",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/961630",
+    "title": "راپۆرتێک: بەهۆی کەوتنەخوارەوەی پارچەی مووشەکێکی ئێران لە کوێت چەند ئەمریکییەک بریندار بوون",
+    "title_en": "راپۆرتێک: بەهۆی کەوتنەخوارەوەی پارچەی مووشەکێکی ئێران لە کوێت چەند ئەمریکییەک بریندار بوون",
+    "summary": "رووداو دیجیتاڵ لە راپۆرتێکدا کە ئەمڕۆ شەممە بڵاوی کردووەتەوە، پێگەی بلوومبێرگی ئەمریکی دەڵێ، لە 24 کاژێری رابردوودا بەهۆی کەوتنەخوارەوەی پارچەی مووشەکێکی بالیستیی ئێران لە بنکەیەکی ئاسمانی لە کوێت، چەند ئەمریکییەک بریندار بوون و دوو درۆنی هێرشبەری جۆری MQ-9 Reaper زیانی گەورەیان بەرکەوت. ئەمەش لە کاتێکدایە کە دۆناڵد ترەمپ، سەرۆکی ئەمریکا تاوتوێی رێککەوتنێک دەکات بۆ درێژکردنەوەی ئاگربەستە ناسکەکەی نێوانیان. بە گوتەی سەرچاوەیەکی ئاگادار کە نەیویستووە ناوی ئاشکرا بکرێ، سیستمی بەرگریی ئاسمانیی کوێت ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3f38b7d866789311",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/959778",
+    "title": "Kiliçdaroglu piştî 2,5 salan derket ser dikê: Di pirtûka me de paqijbûn heye",
+    "title_en": "Kiliçdaroglu piştî 2,5 salan derket ser dikê: Di pirtûka me de paqijbûn heye",
+    "summary": "Hewlêr (Rûdaw) - Kemal Kiliçdaroglu yê ku bi biryara dadgehê careke din vegeriya Serokatiya Giştî ya CHPyê, piştî du sal û nîvan yekem car derket ser dika Navenda Giştî ya CHPyê û got, “Di pirtûka me de paqijbûn heye lê ev paqijbûn ne tesfiye ye, ev ji nû ve jidayikbûnek e.\" Kemal Kiliçdaroglu ku bi biryara Dadgeha Îstinafê careke din bû Serokê Giştî yê CHPyê, îro yekem car çû Navenda Giştî û bi welatiyan re cejin pîroz kir. Di heman demê de, Ozgur Ozelê ku bi heman biryarê bi awayekî tedbîrî ji",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a557159c652ccd8c",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/959774",
+    "title": "Bloomberg: Li Kuweytê ji ber ketina parçeyên mûşaka Îranê çend Amerîkayî birîndar bûn",
+    "title_en": "Bloomberg: Li Kuweytê ji ber ketina parçeyên mûşaka Îranê çend Amerîkayî birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) - Li gorî rapora Bloombergê ya Amerîkayî ya Îro, di 24 demjimêrên borî de li Kuweytê parçeyên mûşekeke balîstîk a Îranê li baregeheke asmanî ketine. Ji ber vê yekê çend Amerîkî birîndar bûn û xisareke mezin gihîşt 2 dronên êrişê yên ji cureyê MQ-9 Reaperê. Ev yek di demekê de ye ku Serokê Amerîkayê Donald Trump li ser peymanekê dixebite da ku agirbesta nazik a di navbera wan de dirêj bike. Li gorî çavkaniyeke agahdar ku nexwestiye navê wî eşkere bibe, pergala parastina asmanî ya K",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "928b28901c76b501",
+    "url": "https://www.rudaw.net/kurmanci/categories/xelk--dever/959762",
+    "title": "DÊRSIM - Gundiyên Havaçorê ji bo parastina xwezayê di nobedê de ne",
+    "title_en": "DÊRSIM - Gundiyên Havaçorê ji bo parastina xwezayê di nobedê de ne",
+    "summary": "Dêrsim (Rûdaw) - Gundiyên gundê Havaçorê yê navçeya Pilûrê ya Dêrsimê \"Nobeda Xweza û Jiyanê\" didomînin. Wan ev nobed ji bo parastina riwekên endemîk ên li herêmê daye destpêkirin. Tevî şert û mercên neyînî yên hewayê jî gundî di konan de nobeda xwe didomînin. Gundiyan diyar kir ku berhevkirina riwekan a bêkontrol zerereke mezin dide xwezayê û xwest ku tedbîr werin wergirtin. Ev nobed bi pêşengiya Komeleya Gundê Havaçorê tê girtin û ketiye sala xwe ya sêyemîn. Gundî diyar dikin ku bi taybetî meh",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b4cd2d9ab9d94748",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959758",
+    "title": "Çîroka Eta Semedî: Kar û xebat û hesreta Sineyê",
+    "title_en": "Çîroka Eta Semedî: Kar û xebat û hesreta Sineyê",
+    "summary": "Dusseldorf (Rûdaw) - Eta Semediyê ji bajarê Sineyê yê Rojhilatê Kurdistanê 26 sal in ji welatê xwe dûr e û niha li bajarê Stuttgartê yê Almanyayê dijî. Wî çîroka jiyana xwe ji bernameya Diyasporayê ya Rûdawê re vegot. Çîroka wî ji koçberiyê dest pê dike, bi çêkirina kel û pelên kevn ên Kurdî berdewam dike û niha jî li Almanyayê şofêrekî serkeftî yê otobusê ye. Eta Semedî anî ziman ku ew gelekî bêriya warê xwe, bajarê Sineyê û bi taybetî Çiyayê Awyerê dike. Wî diyar kir ku 26 sal in ji bajarê xwe",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2b1fed0d6431236e",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959750",
+    "title": "Hişyariyeke hevpar a li ser Tengava Hurmizê: Krîza petrolê li ber derî ye",
+    "title_en": "Hişyariyeke hevpar a li ser Tengava Hurmizê: Krîza petrolê li ber derî ye",
+    "summary": "Hewlêr (Rûdaw) - Ajansa Enerjiyê ya Navneteweyî (IEA), Fona Pereyan a Navneteweyî (IMF), Banka Cîhanî û Rêxistina Bazirganiya Cîhanî (WTO) lûtkeyeke krîtîk pêk anî. Armanca lûtkeyê nirxandina bandorên aborî yên şerê Rojhilata Navîn bû ku her diçe gurtir dibe. Saziyan piştî lûtkeyê daxuyaniyek belav kir. Di daxuyaniya hevpar de hat destnîşankirin ku Amerîkayê Tengava Hurmizê dorpêç kiriye. Ji ber vê dorpêçê stokên petrolê yên cîhanî ber bi tunebûnê ve diçin. Her wiha hat hişyarkirin ku beriya dem",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39765425000f1d8a",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959746",
+    "title": "Tewar Salarî namzeda Parlamentoya Fînlandayê ye: Piştgiriya Kurdan dixwaze",
+    "title_en": "Tewar Salarî namzeda Parlamentoya Fînlandayê ye: Piştgiriya Kurdan dixwaze",
+    "summary": "Dusseldorf (Rûdaw) - Jineke Kurd di nav Partiya Sosyal Demokrat a Fînlandayê de serkeftineke mezin bi dest xistiye û gihîştiye erkê endamtiya encumena serkirdatiya wê partiyê. Her wiha ew ji bo hilbijartinên sala bê yên Parlamentoya Fînlandayê namzed e û daxwaza piştgiriyê ji diyasporaya Kurdan dike. Tewar Salarî Jineke Kurd a ji Rojhilatê Kurdistanê ye û li bajarê Turkuyê yê Fînlandayê mezin bûye û li wir dijî. Tewar Salariyê di nav refên Partiya Sosyal Demokrat a Fînlandayê de kariye bi pêş bi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b8145b74f4aed72",
+    "url": "https://www.rudaw.net/kurmanci/categories/health/959742",
+    "title": "Tûtin her sal 7 milyon kesan dikuje: Şirketên mezin çav berdaye nifşê nû",
+    "title_en": "Tûtin her sal 7 milyon kesan dikuje: Şirketên mezin çav berdaye nifşê nû",
+    "summary": "Hewlêr (Rûdaw) - Rêxistina Tenduristiyê ya Cîhanê (WHO) bi helkefta \"31ê Gulanê Roja Cîhanî ya li Dijî Tûtinê\" raporeke gerdûnî parve kir. Di raporê de hat eşkerekirin ku bikaranîna tûtinê her sal dibe sedema mirina zêdetirî 7 milyon mirovan. WHOyê bal kişand ser wê yekê ku li seranserê cîhanê herî kêm 40 milyon zarokên 13 heta 15 salî berhemên tûtinê bi kar tînin. Lewma WHOyê bangî hikûmetan kir ku nifşê nû ji xefika cixareya elektronîk û kîsikên nîkotînê biparêzin. Pîşesaziya tûtinê gefeke mez",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
