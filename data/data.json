@@ -24394,6 +24394,60 @@
     }
   },
   {
+    "id": "bac306f7f5ff192c",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/958778",
+    "title": "Iran targets Kurdish opposition base in Erbil with two missiles",
+    "title_en": "Iran targets Kurdish opposition base in Erbil with two missiles",
+    "summary": "ERBIL, Kurdistan Region - A base belonging to the Iranian Kurdish opposition party Komala was targeted by Iranian missiles in Erbil province late Sunday, a senior party official said. \"As Iran’s Islamic Republic continues its attacks against Komala, tonight at 22:40, two missiles struck the headquarters of the Kurdistan Toilers Party (Komala) in Alana Valley,\" Amjad Hussein Panahi said in a Facebook post. The valley is located in Khalidan district of Erbil province. \"Since the start of its war w",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49426854f14df86f",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1346242",
+    "title": "دەستلەکارکێشانەوەی پزیشکیان رەتکرایەوە",
+    "title_en": "دەستلەکارکێشانەوەی پزیشکیان رەتکرایەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "20a6c94c1f0806fe",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/959946",
+    "title": "Bi mûşekan êrişî baregehên Komeleya Zehmetkêşan a Kurdistanê hat kirin",
+    "title_en": "Bi mûşekan êrişî baregehên Komeleya Zehmetkêşan a Kurdistanê hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Berpirsê Pêwendiyan ê Komeleya Zehmetkêşan a Kurdistanê yê li Hewlêrê ragihand ku bi 2 mûşekan êrişî baregehên wan ên li Dola Alanê hatiye kirin. Ev herêm dikeve devera Îdareya Serbixwe ya Soranê ya li parêzgeha Hewlêrê. Berpirsê Pêwendiyan ê Komeleya Zehmetkêşana Kurdistanê yê li Hewlêrê Emced Husên Penahî ji Rûdawê re axivî û got: \"Îşev saet 22:40î bi 2 mûşekan êrişî baregehên Komeleya Zehmetkêşan a Kurdistanê yên li Dola Alanê hat kirin.\" \"Di çarçoveya êrişên Îranê de ye\" Emc",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
