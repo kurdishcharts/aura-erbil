@@ -24178,6 +24178,222 @@
     }
   },
   {
+    "id": "638b7e55edb94310",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958762",
+    "title": "Trump appoints Tom Barrack as Special Presidential Envoy to Iraq and Syria",
+    "title_en": "Trump appoints Tom Barrack as Special Presidential Envoy to Iraq and Syria",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump announced on Sunday that Tom Barrack will serve as Special Presidential Envoy to both Syria and Iraq, expanding his diplomatic role in Washington’s Middle East policy while he continues to serve as ambassador to Turkey. \"I am pleased to announce that United States Ambassador to Türkiye, Tom Barrack, who has done an outstanding job, will be named Special Presidential Envoy to Syria and, likewise, Special Presidential Envoy to Iraq, as we advance",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a8872c57bd850a0",
+    "url": "https://www.rudaw.net/english/categories/iraq/958754",
+    "title": "Baghdad buys power from Erbil as Kurdistan nears 24-hour coverage",
+    "title_en": "Baghdad buys power from Erbil as Kurdistan nears 24-hour coverage",
+    "summary": "ERBIL, Kurdistan Region - Iraq has begun purchasing electricity from the Kurdistan Region to boost power supplies in several provinces, as the Region says it is on track to provide 24-hour electricity to all subscribers by the summer. A senior Iraqi government source told Rudaw on Sunday that the decision to purchase electricity \"has officially entered into effect,\" adding that \"the volume will increase according to consumption needs.\" In Kirkuk, officials said electricity from the Kurdistan Reg",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84eb81a9ad38b12c",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/958758",
+    "title": "KDP has proposed snap elections, confident to perform better: Official",
+    "title_en": "KDP has proposed snap elections, confident to perform better: Official",
+    "summary": "ERBIL, Kurdistan Region - Kurdistan Democratic Party (KDP) is bidding for redoing elections to bypass the nearly two-year-long deadlock over government formation process with the rival Patriotic Union of Kurdistan (PUK), a senior member of the former said on Sunday, expecting his party to garner enough seats to form the next cabinet. “One of the practical solutions proposed by the KDP is redoing the elections if we reach a dead-end, because we know that the results will not be the same,” Ahmed K",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93a566f0b0356665",
+    "url": "https://www.rudaw.net/sorani/categories/world/1346202",
+    "title": "داهاتووی ئاو؛ وڵاتە زیرەکەکان چۆن مامەڵە لەگەڵ هەموو دڵۆپێکدا دەکەن",
+    "title_en": "داهاتووی ئاو؛ وڵاتە زیرەکەکان چۆن مامەڵە لەگەڵ هەموو دڵۆپێکدا دەکەن",
+    "summary": "رووداو دیجیتاڵ دابینکردنی ئاوێکی پاک، یەکێکە لە سەختترین و پڕتێچووترین ئاڵنگارییەکانی بەردەم حکومەتە مۆدێرنەکان. لەگەڵ زیادبوونی ژمارەی دانیشتووان و درێژبوونەوەی ماوەی وشکەساڵییەکان بەهۆی گۆڕانی کەشوهەواوە، رێگە نەریتییەکانی بەڕێوەبردنی ئاو لە شکستهێناندان. هەندێک وڵات هەوڵدەدەن بە دروستکردنی بەنداو کێشەکە چارەسەر بکەن، لە کاتێکدا هەندێکی دیکە تەنیا بیری قووڵتر و قووڵتر لێدەدەن. بەڵام ستانداردی زێڕینی جیهانیی بێ رکابەر بۆ بەڕێوەبردنی ئاو، وڵاتێکی دوورگەیی بچووک و چڕە لە دانیشتووان؛ ئەویش سەنگاپو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "278be6ff4da68357",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1346178",
+    "title": "ئێران کۆگەکانی مووشەکی نۆژەن دەکاتەوە؛ ئەمریکا ئامانجەکانی نەپێکاوە",
+    "title_en": "ئێران کۆگەکانی مووشەکی نۆژەن دەکاتەوە؛ ئەمریکا ئامانجەکانی نەپێکاوە",
+    "summary": "رووداو دیجیتاڵ بە گوێرەی زانیارییەکان، ئێران دوای ئەوەی بە خێرایی کۆگە مووشەکییە ژێرخاک کەوتووەکانی هەڵداوەتەوە، ئێستا دەستکراوەیە بۆ ئەوەی ژمارەیەکی زۆر زیاتر مووشەکی دوورهاوێژ ئاراستەی ئیسرائیل و وڵاتانی دیکەی رۆژهەڵاتی نێوەڕاست بکات؛ \"ئەمەش لاوازی ستراتیژیی بۆردوومانەکانی ئەمریکا دەردەخات\". راپۆرتەکان ئاماژە بەوە دەکەن، بۆ چەندین هەفتە، هێرشەکانی ئەمریکا و ئیسرائیل رێگرییان لە دەستڕاگەیشتنی ئێران بە بنکە مووشەکییە ژێرزەوینییەکانی کردبوو، دوای ئەوەی رێگە و دەروازەی توونێلەکانیان خاپوورکرن. بەڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b12ac922a81e8d0",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1346166",
+    "title": "پارە سڕکراوەکەی ئێران چەندە؟",
+    "title_en": "پارە سڕکراوەکەی ئێران چەندە؟",
+    "summary": "دێسکی ئابووری لە کاتێکدا ئێران و ئەمریکا هێشتا نەگەیشتوونەتە رێککەوتنی کۆتایی، بەرپرسانی ئێران دەڵێن دڵنیاییان وەرگرتووە بۆ ئازادکردنی 12 ملیار دۆلار لە پارە سڕکراوەکانیان. حوسێن قوربانزادە، یەکێک لە ئەندامانی شاندی ئێران بووە کە سەردانی قەتەریان کرد بۆ ئازادکردنی پارە سڕکراوەکانی ئێران. ئەو دەڵێت، سەردانمان بۆ قەتەر کەمتر لە 24 کاژێری خایاند، بەڵام دانوستاندنــەکان نزیکەی 11 کاژێریان خایاند. ئەو بەرپرسە دەڵێت: \"لەگەڵ دکتۆر قاڵیباف و دکتۆر عێراقچی و دکتۆر هیممەتی و دوو سێ کەسی شارەزا لە بانکی نا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9c6834efd396c774",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/959930",
+    "title": "Berdevka YPJyê: Eger Şam me qebûl neke jî em dê hebûna xwe biparêzin",
+    "title_en": "Berdevka YPJyê: Eger Şam me qebûl neke jî em dê hebûna xwe biparêzin",
+    "summary": "Hewlêr (Rûdaw) - Berdevka Yekîneyên Parastina Jinan (YPJ) Rûksan Mihemed ragihand ku ew naxwazin bibin hêzeke asayîşê û ew dixwazin wekî hêzeke leşkerî ya jinan di nav Artêşa Sûriyeyê de cih bigirin. Wê diyar kir ku eger hikûmeta Şamê wan qebûl neke jî ew dê hebûna xwe biparêzin. Berdevka YPJyê Rûksan Mihemed bû mêhvana bultena Rojava û pirsên Dilbixwîn Dara bersivandin. Rûksan Mihemed li ser paşeroja hêzên wan û hevdîtinên bi hikûmeta Sûriyeyê re axivî. \"Paşeroja YPJyê zelal e\" Rûksan Mihemed l",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01fcebe8cfa1cada",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/959922",
+    "title": "Qelsiya CHPyê ji Kurdan re derfet e",
+    "title_en": "Qelsiya CHPyê ji Kurdan re derfet e",
+    "summary": "Kemalîzm yek ji wan îdeolojiyan e ku piştî avabûn û avakarê xwe demeke dirêj li ser pêyan maye. Di nav hemû rejîmên antîdemokratîk û faşîst de, rejîma herî demdirêj e jî. Ne tenê bi teoriya xwe, bi partî, kadro, kiryar û sazûmaniya xwe ya statukoparêz jî mînakek e. Heta ji pergala Îngilîz, Fransî, Hindî û Amerîkî cudatir, xwediyê partiyekê ye ku ji dewletê xurtir e. Di nav şeş tîrên CHPyê de demokrasî, komarî, milet, aborî, sekulerîzm, netewperestî, înqilabên perwerdeyê û mafên jinan wek amûrên ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "40fe9870b2ac2ec3",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/959918",
+    "title": "RAPOR -  Îran bi lezgînî tunelên xwe yên mûşekan nûjen dike",
+    "title_en": "RAPOR -  Îran bi lezgînî tunelên xwe yên mûşekan nûjen dike",
+    "summary": "Hewlêr (Rûdaw) - Li gorî zanyariyan, Îranê piştî ku bi lez depoyên xwe yên mûşekan ên binerdî vekirin, niha dikare hinek mûşekên dûravêj biavêje Îsraîlê û welatên din ên Rojhilata Navîn. Tê gotin, \"Ev jî lawaziya stratejîk a bombebaranên Amerîkayê nîşan dide.\" Rapor destnîşan dikin ku êrişên Amerîka û Îsraîlê bi hefteyan rê li ber gihiştina Îranê ya baregehên binerdî yên mûşekan girtibû. Ev yek piştî xirakirin û rûxandina rê û deriyên tunelan pêk hatibû. Lê hinek wêneyên peykê yên ku ketine dest",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "80e343b81390b0cb",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/959914",
+    "title": "Xelkê Qamişloyê ji bo YPJyê daket qadan",
+    "title_en": "Xelkê Qamişloyê ji bo YPJyê daket qadan",
+    "summary": "Qamişlo (Rûdaw) - Li bajarê Qamişloyê yê Rojavayê Kurdistanê bi beşdariya fermandarên jin û bi sedan welatiyan ji bo piştgiriya Yekîneyên Parastina Jinê (YPJ) xwenîşandanek hat lidarxistin. Xwenîşanderan daxwaz kir ku YPJ wekî xwe bimîne û tevlî nava artêşa nû ya Sûriyeyê bibe. Kurdên Rojavayê Kurdistanê yên ku daketin kolanan, diyar kir ku ew bi ti awayî naxwazin YPJ were hilweşandin. Ew her wiha ew daxwaz dikin ku mafên jinan û Kurdan di destûra nû ya Sûriyeyê de bi awayekî fermî werin nivîsan",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a5edc94714ed3f82",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/959910",
+    "title": "221 parlamenterên berê yên CHPyê beyannameyeke hevpar belav kir",
+    "title_en": "221 parlamenterên berê yên CHPyê beyannameyeke hevpar belav kir",
+    "summary": "Hewlêr (Rûdaw) - Nîqaşên ku piştî biryara a li ser Kongreya 38emîn a CHPyê dest pê kirine kûrtir dibin. 221 kesan ku di nav wan de parlamenter û senatorên berê hene, daxuyaniyeke hevbeş belav kir. Wan bi vê daxuyaniyê bangî birêvebiriya partiyê kir ku herî dereng di nava 45 rojan de kongreya awarte pêk bîne. Daxuyanî ji aliyê 221 siyasetmedarên ku di serdemên borî yên partiyê de cih girtine ve hatiye îmzekirin. Siyasetmedara biryara darazê wekî destêwerdana li siyaseta demokratîk pênas kir. Ew d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bed54016d7589086",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/959906",
+    "title": "Trump karekî nû da Tom Barrack",
+    "title_en": "Trump karekî nû da Tom Barrack",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku wî Balyozê Amerîkayê yê Tirkiyeyê Tom Barrack wekî nûnerê taybet ê serokatiyê yê Îraq û Sûriyeyê destnîşan kiriye. Trump pesnê karên Tom Barrack da û ragihand ku ew dê di posta xwe ya Balyozê Amerîkayê yê Tirkiyeyê de jî bimîne. Pêwendiyên bi Sûriye û Îraqê re Donald Trump derbarê mijarê li ser tora civakî ya Truth Socialê daxuyaniyek belav kir. Trump di daxuyaniya xwe de li ser destnîşankirina Tom Barrack wiha got: \"Ev destnîşankirin di",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
