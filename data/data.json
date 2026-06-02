@@ -24862,6 +24862,78 @@
     }
   },
   {
+    "id": "5bc791da1e1cd250",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958822",
+    "title": "Trump says Israel, Hezbollah agreed to halt attacks as Iran warns of fallout",
+    "title_en": "Trump says Israel, Hezbollah agreed to halt attacks as Iran warns of fallout",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump said on Monday that both Israeli officials and the Iran-backed Hezbollah movement in Lebanon had agreed to de-escalate their confrontations. His remarks came shortly after Tel Aviv signalled plans to intensify its airstrikes in Lebanon, while Tehran warned of consequences for the military action, which it said constituted a violation of its ceasefire agreement with Washington. “I had a very productive call with Prime Minister [Benjamin] Bibi Ne",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "53a48b4d77449943",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1346563",
+    "title": "رێکخراوێک: لە تورکیا خوێندن بە زمانی دایک نییە",
+    "title_en": "رێکخراوێک: لە تورکیا خوێندن بە زمانی دایک نییە",
+    "summary": "رووداو دیجیتاڵ سەندیكای کارمەندانی کەرتی پەروەردە و زانست لە تورکیا (ئەیتیم سەن) راپۆرتێکی نوێی لەسەر دۆخی پەروەردە بڵاوکردەوە. راپۆرتەکە دەری دەخات کە هەژارییەکی زۆر بەرۆکی قوتابییانی گرتووە و لە 90%ی ئەو قوتابخانانەی زۆرینەیان کورد و عەرەبن، خوێندن بە زمانی دایک فەراهەم نەکراوە. عەدنان گوموش، مامۆستا لە زانکۆی چوکورئۆڤا و یەکێک لە ئامادەکارانی راپۆرتەکە بە ناونیشانی \"چۆن پەروەردەیەک\"، ئەنجامی توێژینەوەیەکی خستەڕوو کە تێیدا بۆچوونی 18 هەزار و 316 قوتابی وەرگیراوە. راپۆرتەکە شیکاریی بۆ نایەکسانی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b127450d741b2d33",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/960046",
+    "title": "Nêçîrvan Barzanî û Balyozê Fransayê pirsgirêkên navxweyî nirxandin",
+    "title_en": "Nêçîrvan Barzanî û Balyozê Fransayê pirsgirêkên navxweyî nirxandin",
+    "summary": "Hewlêr (Rûdaw) – Serokê Herêma Kurdistanê Nêçîrvan Barzanî û Balyozê Fransayê yê Îraqê Patrick Durel pirsgirêkên navxweyî gotûbêj kirin. Serokê Herêma Kurdistanê Nêçîrvan Barzanî îro Balyozê Fransayê yê Îraqê Patrick Durel qebûl kir. Pêwendiyên dualî û rewşa siyasî Li gorî daxuyaniya Serokatiya Herêma Kurdistanê, di hevdîtinê de pêwendiyên Fransayê yên bi Îraq û Herêma Kurdistanê re hatin gotûbêjkirin. Her wiha rewşa siyasî ya Îraqê û avakirina hikûmeta federal hatin nirxandin. Her du aliyan tek",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a5b2c1596657ba3d",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/960043",
+    "title": "Trump: Îsraîl û Hizbulahê li hev kir",
+    "title_en": "Trump: Îsraîl û Hizbulahê li hev kir",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump diyar kir ku wî bi Îsraîl û Hizbulahê re hevdîtin kiriye û her du aliyan jî li hev kiriye ku \"êrişî hevdû nekin\". Serokê Amerîkayê Donald Trump, piştî ku bi Serokwezîrê Îsraîlê Benjamin Netanyahu re bi telefonê axivî, li ser hesabê xwe yê medyaya civakî daxuyaniyek belav kir. \"Leşkerên Îsraîlê hatin vegerandin\" Trump da zanîn ku wan bi Netanyahu re hevdîtineke \"gelekî baş\" kiriye. Trump eşkere kir ku dê Îsraîl leşkeran neşîne Beyrûtê û eger leşker d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
