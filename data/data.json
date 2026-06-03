@@ -32530,6 +32530,618 @@
     }
   },
   {
+    "id": "234551a07b980979",
+    "url": "https://www.rudaw.net/english/categories/iran/1077794",
+    "title": "No arrests made in killing of transgender woman in Iran: Monitor",
+    "title_en": "No arrests made in killing of transgender woman in Iran: Monitor",
+    "summary": "ERBIL, Kurdistan Region - No suspects have been arrested in connection with the killing of a 30-year-old transgender woman in Iran’s western Kurdistan province, a Norway-based human rights monitor said late Tuesday, adding that the victim’s body remains in a morgue two weeks after her death. The Hengaw Organization for Human Rights reported that Mahshid Fallahi “was killed in a knife attack” approximately two weeks ago in the city of Sanandaj. According to the group, Fallahi “had been rejected b",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26a6b36bce26a03e",
+    "url": "https://www.rudaw.net/english/categories/iraq/1077793",
+    "title": "Korek accuses Iraqi regulator of bias after settlement deal scrapped",
+    "title_en": "Korek accuses Iraqi regulator of bias after settlement deal scrapped",
+    "summary": "ERBIL, Kurdistan Region - The Erbil-based Korek Telecom on Wednesday accused Iraq’s telecommunications regulator of using “baseless pretexts” to cancel its settlement agreement and suspend its operations, arguing that the entity had exceeded its authority by dismantling a deal backed by the Iraqi prime minister’s office. “Day after day, the Communications and Media Commission [CMC] proves its lack of neutrality and its prejudice against Korek Telecom,” the company said in a statement, adding tha",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ae200269fa3b2cc0",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1077790",
+    "title": "Kuwait expels two Iranian diplomats as tensions with Tehran simmer",
+    "title_en": "Kuwait expels two Iranian diplomats as tensions with Tehran simmer",
+    "summary": "ERBIL, Kurdistan Region - Kuwait on Wednesday declared two Iranian embassy staff persona non grata and protested the “ongoing Iranian attacks” on its territory, while also rejecting claims that Kuwaiti soil was used for attacks against Iran. The move comes shortly after Tehran struck several civilian facilities in the Gulf Sheikhdom, killing at least one person and injuring dozens in what it claims were “self-defense” strikes against US assets in Kuwait. The Kuwaiti foreign ministry said in a st",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "86b6e3abf64d16de",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1860952",
+    "title": "هۆشدارییەک لە بانکەکانی نێو پڕۆژەی 'هەژماری من' بۆ مووچەخۆران",
+    "title_en": "هۆشدارییەک لە بانکەکانی نێو پڕۆژەی 'هەژماری من' بۆ مووچەخۆران",
+    "summary": "رووداو دیجیتاڵ لە نوێترین هەوڵی ساختەکاریی ئەلیکترۆنیدا، ژمارەیەک مامۆستای زانکۆی سەلاحەدین کراونەتە ئامانج و لە رێگەی تەلەفۆنەوە هەوڵی دزینی پارەی نێو هەژمارە بانکییەکانیان دراوە، کە بەشدارن لە پڕۆژەی \"هەژماری من\". پسپۆڕان و بانکەکان هۆشداری دەدەن و رێنوێنیی هاوبەشەکانیان دەکەن بۆ پاراستنی زانیارییەکانیان. چیرۆکەکە کاتێک دەستیپێکرد کە ژمارەیەک مامۆستای زانکۆی سەلاحەدین پەیوەندیی گوماناویان لە رێگەی واتسئاپەوە پێگەیشت. کەسانی پەیوەندیکەر، کە خۆیان وەک کارمەندی \"بانکی فیدراڵیی عێراق\" یان \"بانکی ن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7057e9a2c5864f11",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1860946",
+    "title": "بەنگین رێکانی بووە سەرۆکی دەسەڵاتی فڕۆکەوانیی شارستانیی عێراق",
+    "title_en": "بەنگین رێکانی بووە سەرۆکی دەسەڵاتی فڕۆکەوانیی شارستانیی عێراق",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی لە کابینەکەی سوودانی بە وەکالەت پۆستەکەی وەرگرتبوو، عەلی زەیدی نووسراوی فەرمی بۆ دەستبەکاربوونی بەنگین رێکانی، وەکو سەرۆکی دەسەڵاتی فڕۆکەوانیی شارستانیی عێراق دەرکرد. رۆژی چوارشەممە 3ی حوزەیرانی 2026، جیهاد کازم، بەڕێوەبەری راگەیاندنی دەسەڵاتی فڕۆکەوانیی مەدەنیی عێراق بە تۆڕی میدیایی رووداوی راگەیاند، سەرۆکوەزیرانی عێراق فەرمانی دەستبەکاربوونی بەنگین رێکانی، وەکو سەرۆکی دەسەڵاتی فڕۆکەوانیی شارستانیی عێراق دەرکردووە. بەنگین رێکانی کە لە کابینەکەی سوودانی وەزیری ئاوەدانکر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "396c9fd831a2cdf7",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1753018",
+    "title": "بەرپرسێکی حیزبوڵڵای لوبنان بۆ رووداو: دەستبەرداری چەک نابین",
+    "title_en": "بەرپرسێکی حیزبوڵڵای لوبنان بۆ رووداو: دەستبەرداری چەک نابین",
+    "summary": "رووداو دیجیتاڵ جێگری سەرۆکی ئەنجوومەنی سیاسیی حیزبوڵڵای لوبنان رایدەگەیێنێت، چەکی گرووپەکەیان پرسێکی ناوخۆیی لوبنانە و دەستبەرداری نابن. دەشڵێت: \"ئیسرائیل دەیەوێت مافی هەبێت هەر کاتێک بییەوێت سەروەریی لوبنان ببەزێنێت، ئەوەش بە هیچ شێوەیەک قبوڵکراو نییە.\" مەحموود قەماتی، جێگری سەرۆکی ئەنجوومەنی سیاسیی حیزبوڵڵای لوبنان، لە کاتی بەشداریکردنی لە بووڵتەنی کاژێر 17:00ـی تۆڕی میدیایی رووداو، تیشکی خستە سەر دوایین پێشهاتەکانی شەڕ و هەوڵە دیپلۆماسییەکان بۆ ئاگربەست. مەحموود قەماتی ئاماژەی بەوە کرد، هەوڵێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0aced5961a88b0ce",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1658515",
+    "title": "کۆڕەک تیلیکۆم: دەستەی راگەیاندن و گەیاندنی عێراق بێلایەن نییە و ستەممان لێدەکات",
+    "title_en": "کۆڕەک تیلیکۆم: دەستەی راگەیاندن و گەیاندنی عێراق بێلایەن نییە و ستەممان لێدەکات",
+    "summary": "رووداو دیجیتاڵ کۆمپانیای کۆڕەک تیلیکۆم لە راگەیێندراوێکدا رەخنە لە دەستەی راگەیاندن و گەیاندنی عێراق دەگرێت و بەوە تۆمەتباریان دەکات کە \"بێلایەن نین\" و بە ئەنقەست رێگری لە کارەکانیان دەکەن. کۆمپانیاکە دەڵێت: \"هەوڵدەدرێت بە بڕیاری زۆردارانە لە بازاڕ دووربخرێینەوە.\" رۆژی چوارشەممە، کۆمپانیای کۆڕەک تیلیکۆم راگەیێندراوێکی بڵاوکردەوە و تێیدا هاتووە، لە ساڵی 2007ـەوە و لە سەرەتای وەرگرتنی مۆڵەتەکەیان، رووبەڕووی \"ستەم و زۆرداری\" بوونەتەوە و لە مافە سەرەتاییەکانیان بێبەشکراون، سەرەڕای ئەوەی بە هەموو مەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "64c800674ec24408",
+    "url": "https://www.rudaw.net/sorani/categories/world/1860957",
+    "title": "سکرتێری گشتیی ناتۆ لە کیێڤ: رووسیا بەرەو بێهیوایی دەچێت",
+    "title_en": "سکرتێری گشتیی ناتۆ لە کیێڤ: رووسیا بەرەو بێهیوایی دەچێت",
+    "summary": "رووداو دیجیتاڵ سکرتێری گشتیی ناتۆ لە کیێڤ رایدەگەیێنێت، رووسیا بەهۆی زیادبوونی کێشە سەربازی و ئابوورییەکانییەوە \"تووشی بێهیوایی بووە\". هاوکات سەرۆکی ئۆکرایناش داوای سیستەمی بەرگریی پاتریۆت دەکات و دەڵێت، تەنیا لە 24 کاژێری رابردوودا 23 کەس بەهۆی هێرشەکانی رووسیاوە کوژراون. مارک رووتە، سکرتێری گشتیی ناتۆ، رۆژی چوارشەممە 3ی حوزەیرانی 2026 گەیشتە کیێڤی پایتەختی ئۆکراینا. سەردانەکەی رووتە تەنیا چەند کاژێرێک دوای ئەوە هات کە ئۆکراینا بە درۆن هێرشی کردە سەر شاری سانت پترسبۆرگی رووسیا، رێک لەو کاتەی بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "053f2bb46effd54c",
+    "url": "https://www.rudaw.net/sorani/categories/world/1860955",
+    "title": "لە بەریتانیا هێلیکۆپتەرێک کەوتە خوارەوە و سێ سەرباز گیانیان لە دەستدا",
+    "title_en": "لە بەریتانیا هێلیکۆپتەرێک کەوتە خوارەوە و سێ سەرباز گیانیان لە دەستدا",
+    "summary": "رووداو دیجیتاڵ وەزارەتی بەرگریی بەریتانیا رایگەیاند، سێ ئەندامی هێزی دەریایی شاهانەی وڵاتەکە لە رووداوێکی کەوتنەخوارەوەی هێلیکۆپتەرێکی سەربازی لە باشووری رۆژئاوای ئینگلتەرا گیانیان لەدەستدا. سەرۆکوەزیرانی بەریتانیاش رووداوەکەی بە \"تەواو کارەساتبار\" وەسفکرد. رۆژی چوارشەممە 3ـی حوزەیرانی 2026، وەزارەتی بەرگریی بەریتانیا لە راگەیێندراوێکدا رایگەیاند، ئەو سێ ئەندامە لەناو هێلیکۆپتەرێکی جۆری مێرلن (Merlin Mk4) بوون لە کاتی مەشقێکی راهێنانی سەربازیدا، کاتێک لە نزیک گوندی سۆرتۆن لە ناوچەی دیڤۆن کەوتووە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bf9cd2bff1e7b006",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1860954",
+    "title": "ململانێی باڵەکان لەنێو جەهەپەدا؛ ئۆزەل داوای کۆنگرەی 'مان و نەمان' دەکات",
+    "title_en": "ململانێی باڵەکان لەنێو جەهەپەدا؛ ئۆزەل داوای کۆنگرەی 'مان و نەمان' دەکات",
+    "summary": "رووداو دیجیتاڵ ناکۆکییەکانی نێو پارتی گەلی کۆماری (جەهەپە) قووڵتر دەبنەوە. گوتەبێژێکی ئۆزگور ئۆزەل دەڵێت، بەستنی کۆنگرە تاوەکو 25ی تەممووز بۆ پارتەکەیان پرسی 'مان و نەمانە'؛ لە بەرامبەریشدا کەمال کڵچدارئۆغڵو ئەنجوومەنی سەرکردایەتیی رکابەرەکەی بە \"نایاسایی\" ناو دەبات. دوای نیوەڕۆی رۆژی چوارشەممە، 3ی حوزەیرانی 2026، ئۆزگور ئۆزەل، سەرۆکی فراکسیۆنی جەهەپە لە باڵەخانەی پەرلەمانی تورکیا لەگەڵ ئەو ئەندامانەی ئەنجوومەنی سەرکردایەتی کۆبووەوە کە لایەنگری ئەون. ئەمە لە کاتێکدایە کە دوێنێ لایەنگرانی کەمال ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "81bd59c27bed2154",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1860956",
+    "title": "دامەزراوەی گشتی دانەوێڵەی سووریا: تاوەکو یەک ملیۆن تۆن گەنم لە جەزیرە دەکڕین",
+    "title_en": "دامەزراوەی گشتی دانەوێڵەی سووریا: تاوەکو یەک ملیۆن تۆن گەنم لە جەزیرە دەکڕین",
+    "summary": "رووداو دیجیتاڵ عەبدولحەمید داود، بەڕێوەبەری لقی دامەزراوەی گشتی دانەوێلەی سووریا لە پارێزگای حەسەکە، رایگەیاند کە پلانیان هەیە ئەمساڵ تاوەکو یەک ملیۆن تۆن گەنم لە جووتیارانی هەرێمی جەزیرە بکڕن و جەختی کردەوە کە تەواوی بەرهەمی جووتیاران وەردەگیرێت. عەبدولحەمید داود لە هەڤپەیڤینێکدا لەگەڵ رووداو کە پێشکێشکار نالین حەسەن کردوویەتی، ئاماژەی بەوە کرد، کە بەهۆی بارانی زۆر و دواکەوتنی دروێنە، پرۆسەی وەرگرتنی گەنم کە بڕیار بوو 1ـی حوزەیران دەست پێ بکات، بۆ هەفتەی داهاتوو دواخراوە. داود گوتی: \"20 سەنتەرم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f6c033729e4fbb9d",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1860953",
+    "title": "جەنگ لە کەنداو؛ فڕۆکەخانەی کوێت بۆردوومان کرا و کەسێک کوژرا",
+    "title_en": "جەنگ لە کەنداو؛ فڕۆکەخانەی کوێت بۆردوومان کرا و کەسێک کوژرا",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی فڕۆکەیەکی ئەمریکی کەشتییەکی نەوتهەڵگری ئێرانی پەکخست، ئێران و ئەمریکا بە سەختی یەکدییان بۆردوومان کرد، کەسێک کوژرا و 63 کەسیش برینداربوون. ئەم هێرشە زنجیرەیەک هەڵکشانی سەربازیی لێکەوتەوە کە تێیدا تاران بە 30 مووشەکی بالیستی و درۆن هێرشی کردە سەر فڕۆکەخانەی نێودەوڵەتیی کوێت و بەحرێن، بەهۆیەوە هاووڵاتییەکی هیندستانی کوژرا و 63 کەسی دیکە بریندار بوون. وەک کاردانەوەیەک، کوێت بڕیاری دا دوو دیپلۆماتی ئێرانی دەربکات. رۆژی چوارشەممە 3ـی حوزەیرانی 2026، بارودۆخی ئەمنی لە کەنداو ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "773c59292ffd7a38",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1860950",
+    "title": "باندێک بە ناوی هەژماری من پارەی مووچەخۆران دەبەن",
+    "title_en": "باندێک بە ناوی هەژماری من پارەی مووچەخۆران دەبەن",
+    "summary": "رووداو دیجیتاڵ ماوەیەکە باندێکی نەناسراو لە رێگەی پەیوەندیی تەلەفۆنی و لاپەڕەی ساختەوە لە تۆڕە کۆمەڵایەتییەکان، بە ناوی بانکەکان و پڕۆژەی 'هەژماری من'ەوە پەیوەندی بە فەرمانبەرانەوە دەکەن و پارەی نێو کارتە بانکییەکانیان دەبەن. تەنیا لە چوار رۆژدا 12 مامۆستای زانکۆی سەڵاحەدین بوونەتە ئامانجی ئەو باندە. باندەکە پەیوەندی بەو کەسانەوە دەکەن کە کارتی بانکیی هەژماری من یان هەیە، بە بیانووی \"چارەسەرکردنی کێشەی تەکنیکی\" یان \"نوێکردنەوەی زانیارییەکان\"، داوای ژمارەی کارت، وێنەی پێش و پاش و ژمارەی نهێنیی (P",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6861a4e15cd9af73",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1860951",
+    "title": "ئەردۆغان: تورکیا بووەتە ناوەندێکی گرنگی وزە و ئاسایشی وزەش پرسی سەروەرییە",
+    "title_en": "ئەردۆغان: تورکیا بووەتە ناوەندێکی گرنگی وزە و ئاسایشی وزەش پرسی سەروەرییە",
+    "summary": "رووداو دیجیتاڵ سەرۆککۆماری تورکیا رایدەگەیێنێت، وڵاتەکەی بووەتە ناوەندێکی سەرەکیی وزە لە ناوچەکەدا. دەشڵێت، ئاسایشی دابینکردنی وزە \"پرسی سەروەریی و ئاسایشی نیشتمانییە.\" رۆژی چوارشەممە، 3ی حوزەیرانی 2026، رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا لە رێوڕەسمی کردنەوەی پڕۆژەکانی وزەی نوێبووەوە لە ئەنقەرە گوتارێکی پێشکێش کرد و رایگەیاند: \"تورکیا لە ژێر رۆشنایی پێشهاتەکانی ئێستا، ناوەندێکی گرنگی وزەیە لە ناوچەکەدا.\" سەرۆککۆماری تورکیا ئاماژەی بە ئاڵۆزییەکانی ناوچەکە و جەنگی نێوان ئەمریکا-ئیسرائیل دژ بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "89fd0f305e812e9e",
+    "url": "https://www.rudaw.net/sorani/categories/world/1860949",
+    "title": "ئەڵمانیا نەیتوانی ببێتە ئەندامی ئەنجوومەنی ئاسایشی نەتەوە یەکگرتووەکان",
+    "title_en": "ئەڵمانیا نەیتوانی ببێتە ئەندامی ئەنجوومەنی ئاسایشی نەتەوە یەکگرتووەکان",
+    "summary": "رووداو دیجیتاڵ بۆ یەکەمجار لە مێژوودا، ئەڵمانیا نەیتوانی متمانەی ئەندامێتی لە ئەنجوومەنی ئاسایشی نەتەوە یەکگرتووەکان بەدەستبهێنێت، ئەمەش دوای ئەوەی پۆرتوگال و نەمسا لە دەنگدانی نهێنیی کۆمەڵەی گشتیدا، هەردوو کورسییەکەی رۆژئاوای ئەورووپایان بۆ ساڵی 2027 بردەوە. رۆژی چوارشەممە 3ـی حوزەیرانی 2026، لە دەنگدانێکی نهێنیدا لە کۆمەڵەی گشتیی نەتەوە یەکگرتووەکان، پۆرتوگال 134 دەنگ و نەمسا 131 دەنگیان بەدەستهێنا، لە کاتێکدا ئەڵمانیا، کە گەورەترین ئابووریی ئەورووپایە و پێشتر شەش خولی ئەندامێتی لە ئەنجوومەنەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2563617b269c2ef5",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1472209",
+    "title": "لە ئامەد، تەنیا لە رۆژانی جەژندا 72 تۆن جگەری برژاو فرۆشرا",
+    "title_en": "لە ئامەد، تەنیا لە رۆژانی جەژندا 72 تۆن جگەری برژاو فرۆشرا",
+    "summary": "رووداو دیجیتاڵ لە ماوەی پشووی جەژندا، ئامەد پێشوازی لە 400 هەزار گەشتیار کرد و ژمارەیەکی پێوانەیی نوێی تۆمارکرد، بەهۆی خواستی زۆر لەسەر خواردنە ناسراوەکانی شارەکە، کەرتی گەشتوگوزاری خۆراک چووە قۆناخێکی نوێوە و لە کاتی پشووەکەدا 72 تۆن جگەری برژاو فرۆشرا. لە ماوەی پشووی 9 رۆژەی جەژنی قورباندا، قەرەباڵخییەکی زۆری گەشتیارانی ناوخۆ و دەرەوە لە شوێنە مێژوویی و کولتوورییەکانی ئامەد بینرا. گەشتیاران دوای سەردانکردنی شوێنە گەشتیارییەکان، راستەوخۆ روویان لە چێشتخانەکان کرد. هاشم ئەلهاکان، سەرۆکی ژووری چێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c903ea6b823a8d2f",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1860940",
+    "title": "سەرایا ئەولیادەم بۆ سنووردارکردنی چەک پێنج مەرجی هەیە",
+    "title_en": "سەرایا ئەولیادەم بۆ سنووردارکردنی چەک پێنج مەرجی هەیە",
+    "summary": "رووداو دیجیتاڵ گرووپی سەرایا ئەولیادەم، کە یەکێکە لە گرووپەکانی \"موقاوەمەی ئیسلامی لە عێراق\"، پێنج مەرجی دیاریکرد بۆ ئەوەی چەک تەنیا بە دەستی دەوڵەتەوە بێت، لەوانە دەرچوونی سەرجەم هێزە بیانییەکان لەعێراق و کۆتاییهێنان بە شوێنکەوتەیی ئابووری و دارایی عێراق. رۆژی چوارشەممە، 3ی حوزەیرانی 2026، ئەبو مەهدی جەعفەری، گوتەبێژی گرووپی سەرایا ئەولیادەم رایگەیاند، لە رێگەی کەناڵەکانی راگەیاندنەوە ئەو داواکارییەیان پێگەیشتووە کە هاوپەیمانیی چوارچێوەی هەماهەنگی بۆ گرووپە چەکدارەکانی موقاوەمەی ئیسلامی ناردووە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e2b9abe5419a3f69",
+    "url": "https://www.rudaw.net/sorani/categories/world/1860934",
+    "title": "ئاژانسی نێودەوڵەتیی وزەی ئەتۆم: مەترسیی چەکی ئەتۆمیی ئێران لە پێش جەنگ زیاتر بووە",
+    "title_en": "ئاژانسی نێودەوڵەتیی وزەی ئەتۆم: مەترسیی چەکی ئەتۆمیی ئێران لە پێش جەنگ زیاتر بووە",
+    "summary": "رووداو دیجیتاڵ ئاژانسی نێودەوڵەتیی وزەی ئەتۆم هۆشداری دەدات لەوەی مەترسیی بەرنامە ئەتۆمییەکەی ئێران لە چاو پێش دەستپێکردنی جەنگ \"بەرەو خراپتر\" چووە. بەگوێرەی راپۆرتێکی نهێنی، پشکنینەکان بۆ سەر دامەزراوە ئەتۆمییەکان بە رێژەی 50% کەمی کردووە و تاران خاوەنی بڕێکی زۆر یۆرانیۆمی پیتێنراوی ئاستی بەرزە. ئاژانسی \"بلومبێرگ\" راپۆرتێکی نهێنیی 119 لاپەڕەیی ئاژانسی نێودەوڵەتیی وزەی ئەتۆمی بڵاوکردەوە. لە راپۆرتەکەدا هاتووە، تاران بە نهێنی خەریکی پەرەپێدانی بەرنامە ئەتۆمییەکەیەتی و مەترسییەکە ئێستا زۆر زیاترە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "46b51ee48d9e6fba",
+    "url": "https://www.rudaw.net/sorani/categories/world/1848877",
+    "title": "ترەمپ پشتڕاستیکردەوە سەرزەنشتی نەتەنیاهووی کردووە",
+    "title_en": "ترەمپ پشتڕاستیکردەوە سەرزەنشتی نەتەنیاهووی کردووە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا، پشتڕاستی کردەوە کە لە پەیوەندییەکی تەلەفۆنیدا بە تووندی و بە بەکارهێنانی \"قسەی نەشیاو\" هێرشی کردووەتە سەر بنیامین نەتەنیاهوو. ترەمپ دەڵێت بە نەتەنیاهووی گوتووە \"شێت بوویت\" و داوای لێکردووە هێرشەکانی سەر لوبنان رابگرێت تاوەکو دانوستاندنەکانی لەگەڵ تاران تێک نەچن. لە هەڤپەیڤینێکدا لەگەڵ رۆژنامەی (New York Post) کە رۆژی چوارشەممە، 3ـی حوزەیرانی 2026 بڵاوکراوەتەوە، دۆناڵد ترەمپ دانی بەوەدا نا کە بە تووندی رەخنەی لە سەرۆکوەزیرانی ئیسرائیل گرتووە. کاتێک رۆژ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "45ad54f7b85aef1a",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1347049",
+    "title": "پێش دەستپێکردنی مۆندیال.. مێسی یەکێک لە گەورەترین خەڵاتەکانی ئەورووپای پێدەدرێت",
+    "title_en": "پێش دەستپێکردنی مۆندیال.. مێسی یەکێک لە گەورەترین خەڵاتەکانی ئەورووپای پێدەدرێت",
+    "summary": "رووداو دیجیتاڵ لیۆنێل مێسی، ئەستێرەی ئەرجەنتینی و یانەی ئینتەرمەیامی ئەمریکی، خەڵاتی 'شازادە ئەستۆریاس'ـی بۆ ساڵی 2026 بەدەستهێنا، کە لەلایەن دامەزراوەی شازادە ئەستۆریاسەوە دەبەخشرێت، ئەمەش تەنیا چەند رۆژێک پێش دەستپێکردنی یارییەکانی مۆندیال. مێسی خۆی ئامادە دەکات بۆ سەرکردایەتیکردنی هەڵبژاردەی ئەرجەنتین بەمەبەستی بەرگریکردن لە نازناوی مۆندیال، کە بۆ یەکەمجار لە کاروانی وەرزشییدا لە ساڵی 2022 لە قەتەر بەدەستیهێنا. بڕیارە جامی جیهانی کە لە وڵاتانی ئەمریکا، کەنەدا و مەکسیک بەڕێوەدەچێت، لە 11ـی ئەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ada1925c866c6b27",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1860958",
+    "title": "عەجاج دوو جار دانى بە تاوانەکانیدا ناوە",
+    "title_en": "عەجاج دوو جار دانى بە تاوانەکانیدا ناوە",
+    "summary": "رووداو دیجیتاڵ عەجاج، یەکێک لە تاوانبارانى سەرەکى ئەنفال، لە دوو لێکۆڵینەوەدا دانی بەو تاوانانەدا ناوە، کە لە دژی گیراوانی کورد لە گرتووخانەى نوگرە سەلمان کردوونی. هەردوو دانپێدانانەکەى لە شارى سەماوە بووە، دادگای باڵای تاوانەکانى عێراق لە وردەکاریی بڕیاری لەسێدارەدانى ئەو تاوانبارەدا دەڵێت؛ دانپێدانانەکانى و گوتەی شایەتحاڵەکان لەبارەی تاوانەکانی یەکیاندەگرتەوە. هەروەها ناوی 223 سکاڵاکاریش لە بڕیارەکەدا جێگیر کراوە. رووداو نووسراوی دادگای باڵای تاوانەکانی عێراقی لەبارەی وردەکاری و پاساوی سزادانی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "689f5ecd7ee64646",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1860959",
+    "title": "لە وان نزیکەی 22 ملیار دۆلار بە هەڵە خرایە سەر هەژماری گەنجێک",
+    "title_en": "لە وان نزیکەی 22 ملیار دۆلار بە هەڵە خرایە سەر هەژماری گەنجێک",
+    "summary": "رووداو دیجیتاڵ هەڵەیەکی بانکی، دانیشتوویەکی شاری وانی لە باکووری کوردستانی بۆ ماوەیەکی کورت کردە یەکێک لە دەوڵەمەندترین کەسەکانی جیهان. نزیکەی 21.8 ملیار دۆلار (ترلیۆنێک لیرە) خرایە سەر هەژماری بانکیی ئەو گەنجە و بەهۆیەوە هەموو هەژمارەکانی بلۆک کران. ئەحمەد جیهانگرد تاکالۆ، گەنجێکی تەمەن 32 ساڵە و بە رەچەڵەک ئازەربایجانییە، ماوەی 10 ساڵە لە شاری وان نیشتەجێیە. ئەو کاتێک چوو بۆ سوپەرمارکێتێک بۆ کڕینی پێداویستی، کارتی بانکەکەی کاری نەکرد، دوای سەردانیکردنی بانک تووشی شۆک بوو. کاتێک ئەحمەد داوای رو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3b10f12fc92d357f",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1301794",
+    "title": "Balafirgeha Kuweytê hat bombebarankirin",
+    "title_en": "Balafirgeha Kuweytê hat bombebarankirin",
+    "summary": "Hewlêr (Rûdaw) - Piştî ku balafireke Amerîkayê keştiyeke petrolê ya Îranê rawestand, Îran û Amerîkayê bi giranî êrişî hev kir. Di encamê de kesek hat kuştin û 63 kes jî birîndar bûn. Vê êrişê zincîreyek aloziyên leşkerî li pey xwe anî. Di vê çarçoveyê de Tehranê bi 30 mûşekên balîstîk û dronan êrişî Balafirgeha Navneteweyî ya Kuweytê û Behreynê kir. Ji ber vê êrişê welatiyekî Hindistanê hat kuştin û 63 kesên din jî birîndar bûn. Wekî bertek, Kuweytê biryar da ku du dîplomatên Îranê dersînor bike",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "449cabeb226fa475",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1301793",
+    "title": "Berpirsê Hizbulaha Libnanê: Em çekan danaynin",
+    "title_en": "Berpirsê Hizbulaha Libnanê: Em çekan danaynin",
+    "summary": "Hewlêr (Rûdaw) - Mehmûd Qematî ragihand ku çekên Hizbulaha Libnanê mijareke navxwe ya Libnanê ye û ew çekan danaynin. Qematî her wiha got, \"Îsraîl dixwaze mafê wê hebe ku kengî bixwaze serweriya Libnanê bin pê bike.\" Alîkarê Serokê Encumena Siyasî ya Hizbulaha Libnanê Mehmûd Qematî beşdarî bultena saet 17:00an a Rûdawê bû û pirsên Warşîn Salihê bersivandin. Mehmûd Qematî bal kişand ser pêşhatên dawî yên şer û hewlên dîplomatîk ên agirbestê û diyar kir ku ji bo agirbestê hewleke zêde heye û Serok",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "111f15ddfd0d196b",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1301791",
+    "title": "Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe",
+    "title_en": "Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Amerîkayê Marco Rubio eşkere kir ku Serokê Amerîkayê Donald Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe. Marco Rubio destnîşan kir, “Ev lûtke dê di dîroka hevpeymaniyê de bibe civîna herî girîng.” Wezîrê Karên Derve yê Amerîkayê Marco Rubio, pirsên Komîteya Karên Derve ya Kongreya Amerîkayê yên li ser daxwaza budceya sala darayî ya 2027an a Wezareta Karên Derve û mijarên din ên navneteweyî bersivandin. Rubio li ser Lûtkeya NATOyê agahî dan endamên K",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2eb29fa766815526",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301788",
+    "title": "Mistefa Ebdî: Hikûmet dê dîplomayên zanîngehên Rojava û Kobaniyê qebûl bike",
+    "title_en": "Mistefa Ebdî: Hikûmet dê dîplomayên zanîngehên Rojava û Kobaniyê qebûl bike",
+    "summary": "Dr. Mistefa Ebdî: Hikûmet dê dîplomayên zanîngehên Rojava û Kobaniyê qebûl bike Hewlêr (Rûdaw) - Endamê Tîma Serokkomariya Sûriyeyê Dr. Mistefa Ebdî, di hevpeyvîneke taybet de li gel Tora Medyayî ya Rûdawê, çend agahiyên girîng dan ku rasterast bandorê li jiyana rojane ya xelkê Rojavayê Kurdistanê dikin. Dr. Mistefa Ebdî ragihand ku bawernameyên dibistan û zanîngehên herêmê tên naskirin, perwerdeya Kurdî didome û hêzên HSDyê tevlî artêşa Sûriyeyê dibin. dîplomayên dibistan û zanîngehên herêmê tê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a469ac4b44646aeb",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301785",
+    "title": "Li Herêma Kurdistanê xelk êdî zêdetir otomobîlên hybrid û karebayî dikire",
+    "title_en": "Li Herêma Kurdistanê xelk êdî zêdetir otomobîlên hybrid û karebayî dikire",
+    "summary": "Hewlêr (Rûdaw) - Li Herêma Kurdistanê, beşeke zêde ya welatiyan berê xwe daye kirîna otomobîlên hybrid û karebayî. Bikarhênerên wan otomobîlan dibêjin, xerciyên wan zêdetirî nîvî kêm bûne û bazirganên otomobîlan jî destnîşan dikin ku niha firotina otomobîlên benzînê kêm bûye. Sefwan Luqman, yek ji wan kesan e ku mehek e otomobîleke nû ya hybrid kiriye ku bi pergalên kareba û benzînê dixebite. Ew dibêje wî berê heftane nêzîkî 150 hezar dînarên Îraqî (nêzîkî 100 dolarên Amerîkî) tenê ji bo benzînê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "375217e491344eaf",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1301782",
+    "title": "WAN - 21 milyar dolar jê re hat şandin: Hesabê wî hat blokekirin",
+    "title_en": "WAN - 21 milyar dolar jê re hat şandin: Hesabê wî hat blokekirin",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Wanê ya Bakurê Kurdistanê, ji hesabê bankê yê welatiyekî bi navê Ahmad Jahangard Takalo re trilyonek lîre pere hata şandin ku çavkaniya wê ne eşkere ye. Piştî eşkerebûna vê rewşê, hesabê Takalo ku di carekê de ket nav herî dewlemendên cîhanê, ji aliyê bankê ve hat blokekirin. Ahmad Jahangard Takaloyê 32 salî li Wanê dijî. Piştî ku ji hesabê wî re nêzîkî trilyonek lîre hat şandin, hesabên wî ketin bin lêkolînê. Hesabê Takalo di carekê de gihîşt nêzîkî 21,8 milyar dol",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9e5332a5527c6610",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1301794",
+    "title": "Balafirgeha Kuweytê hat bombebarankirin",
+    "title_en": "Balafirgeha Kuweytê hat bombebarankirin",
+    "summary": "Hewlêr (Rûdaw) - Piştî ku balafireke Amerîkayê keştiyeke petrolê ya Îranê rawestand, Îran û Amerîkayê bi giranî êrişî hev kir. Di encamê de kesek hat kuştin û 63 kes jî birîndar bûn. Vê êrişê zincîreyek aloziyên leşkerî li pey xwe anî. Di vê çarçoveyê de Tehranê bi 30 mûşekên balîstîk û dronan êrişî Balafirgeha Navneteweyî ya Kuweytê û Behreynê kir. Ji ber vê êrişê welatiyekî Hindistanê hat kuştin û 63 kesên din jî birîndar bûn. Wekî bertek, Kuweytê biryar da ku du dîplomatên Îranê dersînor bike",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b807f356e50a22aa",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1301793",
+    "title": "Berpirsê Hizbulaha Libnanê: Em çekan danaynin",
+    "title_en": "Berpirsê Hizbulaha Libnanê: Em çekan danaynin",
+    "summary": "Hewlêr (Rûdaw) - Mehmûd Qematî ragihand ku çekên Hizbulaha Libnanê mijareke navxwe ya Libnanê ye û ew çekan danaynin. Qematî her wiha got, \"Îsraîl dixwaze mafê wê hebe ku kengî bixwaze serweriya Libnanê bin pê bike.\" Alîkarê Serokê Encumena Siyasî ya Hizbulaha Libnanê Mehmûd Qematî beşdarî bultena saet 17:00an a Rûdawê bû û pirsên Warşîn Salihê bersivandin. Mehmûd Qematî bal kişand ser pêşhatên dawî yên şer û hewlên dîplomatîk ên agirbestê û diyar kir ku ji bo agirbestê hewleke zêde heye û Serok",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6def4ee30ab547e4",
+    "url": "https://www.rudaw.net/kurmanci/categories/stl/1301792",
+    "title": "Zimanê herî dostane û romantîk ê cîhanê diyar bû",
+    "title_en": "Zimanê herî dostane û romantîk ê cîhanê diyar bû",
+    "summary": "Hewlêr (Rûdaw) - Şirketa fêrbûna zimên a navneteweyî Preplyê encamên rapirsiyeke nû eşkere kir. Lêkolîn nîşan dide ku ziman ne tenê amûreke dan û standinê ye, di heman demê de dikare hest û kesayetiya mirovan biguherîne. Li gorî lêkolînê, ji sedî 59ê mirovan diyar kir ku ew li gorî zimanê ku pê diaxivin aliyên cuda yên kesayetiya xwe nîşan didin. Ev amar nîşan dide ku ziman di avakirina nasnameyê de xwedî roleke mezin e. Preplyê ji bo amadekirina vê lêkolînê bi 3 hezar û 608 kesan re li Amerîka,",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3454598bb91cfd0f",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1301791",
+    "title": "Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe",
+    "title_en": "Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Amerîkayê Marco Rubio eşkere kir ku Serokê Amerîkayê Donald Trump dê beşdarî Lûtkeya NATOyê ya li Enqereyê bibe. Marco Rubio destnîşan kir, “Ev lûtke dê di dîroka hevpeymaniyê de bibe civîna herî girîng.” Wezîrê Karên Derve yê Amerîkayê Marco Rubio, pirsên Komîteya Karên Derve ya Kongreya Amerîkayê yên li ser daxwaza budceya sala darayî ya 2027an a Wezareta Karên Derve û mijarên din ên navneteweyî bersivandin. Rubio li ser Lûtkeya NATOyê agahî dan endamên K",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "77caf5085f36477a",
+    "url": "https://www.rudaw.net/kurmanci/categories/stl/1301782",
+    "title": "WAN - 21 milyar dolar jê re hat şandin: Hesabê wî hat blokekirin",
+    "title_en": "WAN - 21 milyar dolar jê re hat şandin: Hesabê wî hat blokekirin",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Wanê ya Bakurê Kurdistanê, ji hesabê bankê yê welatiyekî bi navê Ahmad Jahangard Takalo re trilyonek lîre pere hata şandin ku çavkaniya wê ne eşkere ye. Piştî eşkerebûna vê rewşê, hesabê Takalo ku di carekê de ket nav herî dewlemendên cîhanê, ji aliyê bankê ve hat blokekirin. Ahmad Jahangard Takaloyê 32 salî li Wanê dijî. Piştî ku ji hesabê wî re nêzîkî trilyonek lîre hat şandin, hesabên wî ketin bin lêkolînê. Hesabê Takalo di carekê de gihîşt nêzîkî 21,8 milyar dol",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e9e38ec345a5e967",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1301792",
+    "title": "Zimanê herî dostane û romantîk ê cîhanê diyar bû",
+    "title_en": "Zimanê herî dostane û romantîk ê cîhanê diyar bû",
+    "summary": "Hewlêr (Rûdaw) - Şirketa fêrbûna zimên a navneteweyî Preplyê encamên rapirsiyeke nû eşkere kir. Lêkolîn nîşan dide ku ziman ne tenê amûreke dan û standinê ye, di heman demê de dikare hest û kesayetiya mirovan biguherîne. Li gorî lêkolînê, ji sedî 59ê mirovan diyar kir ku ew li gorî zimanê ku pê diaxivin aliyên cuda yên kesayetiya xwe nîşan didin. Ev amar nîşan dide ku ziman di avakirina nasnameyê de xwedî roleke mezin e. Preplyê ji bo amadekirina vê lêkolînê bi 3 hezar û 608 kesan re li Amerîka,",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
