@@ -30496,6 +30496,492 @@
     }
   },
   {
+    "id": "b40d8050738e40c0",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958885",
+    "title": "Iranian drones target Kuwait airport terminal, causing injuries: Statement",
+    "title_en": "Iranian drones target Kuwait airport terminal, causing injuries: Statement",
+    "summary": "ERBIL, Kurdistan Region - Several Iranian drones struck Terminal 1 of Kuwait International Airport on Wednesday, causing significant material damage and injuring a number of people, according to Kuwait's defense ministry. The ministry's spokesperson, Saud Abdulaziz al-Atwan, said the injured received medical treatment and that Kuwait's armed forces are coordinating with relevant authorities while remaining on full alert to address any developments. Kuwait condemned the attack, describing it as I",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "82548b4d09a4caf8",
+    "url": "https://www.rudaw.net/english/categories/iraq/958882",
+    "title": "Iraqi court seizes weapons, cash, properties in raid on former deputy oil minister",
+    "title_en": "Iraqi court seizes weapons, cash, properties in raid on former deputy oil minister",
+    "summary": "ERBIL, Kurdistan Region - Iraq's Supreme Judicial Council said on Tuesday that more than three dozen properties belonging to a former oil ministry official and his associates across the country have been seized in a sweeping anti-corruption investigation. The probe has also led to the confiscation of weapons, gold, and large sums of illicit cash linked to the suspects. “The investigating judge at Iraq's Central Anti-Corruption Criminal Court announced that preliminary investigations into the cas",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "86cdeef486876f89",
+    "url": "https://www.rudaw.net/english/categories/middleeast/958879",
+    "title": "US, Iran exchange new strikes as ceasefire talks stall",
+    "title_en": "US, Iran exchange new strikes as ceasefire talks stall",
+    "summary": "ERBIL, Kurdistan Region - The United States and Iran exchanged fresh military strikes overnight on Wednesday, after the US Central Command (CENTCOM) disabled an oil tanker heading to an Iranian port in the Strait of Hormuz, with negotiations aimed at securing a permanent ceasefire remaining deadlocked. “An additional wave of Iranian drones attempting to attack U.S. forces in Kuwait failed to impact intended targets tonight,” CENTCOM said in a statement early Wednesday, adding that its air defens",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cfc509299ffa321f",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1346905",
+    "title": "نرخی ئۆتۆمبێل لە ئێران بە رێژەی 85٪ بەرزبووەوە",
+    "title_en": "نرخی ئۆتۆمبێل لە ئێران بە رێژەی 85٪ بەرزبووەوە",
+    "summary": "رووداو دیجیتاڵ لە چەند رۆژی رابردوودا نرخی ئۆتۆمبێل لە بازاڕەکانی ئێران بە شێوەیەکی بەرچاو بەرزبووەتەوە. کۆمپانیای (مودیران خودرۆ) کە کۆمپانیایەکی کەرتی تایبەتە بۆ بەرهەمهێنانی ئۆتۆمبێل لە ئێران، لە سەرەتای مانگی حوزەیرانەوە نرخی هەموو جۆرەکانی ئۆتۆمبێلەکانی بەرزکردووەتەوە. بە گوێرەی ئەو نرخە نوێیانەی لە لایەن کۆمپانیاکەوە راگەیێندراون، نرخی ئۆتۆمبێلەکانی کۆمپانیاکە بە رێژەی 85٪ زیادکراون، تەنانەت نرخی هەندێک لە مۆدیلەکانی زیاتر لە دوو هێندە زیادکراون، ئەمەش کاریگەری لەسەر کۆی بازاڕی ئۆتۆمبێل لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f42e9e977766885",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1346887",
+    "title": "شاندی هەرێمی کوردستان و کۆمپانیاکانی نەوت لەگەڵ سەرۆکوەزیرانی عێراق کۆدەبنەوە",
+    "title_en": "شاندی هەرێمی کوردستان و کۆمپانیاکانی نەوت لەگەڵ سەرۆکوەزیرانی عێراق کۆدەبنەوە",
+    "summary": "رووداو دیجیتاڵ بڕیارە ئەمڕۆ چوارشەممە شاندێکی حکومەتی هەرێمی کوردستان بە یاوەریی نوێنەرانی کۆمپانیاکانی نەوت سەردانی بەغدا بکەن و لەگەڵ سەرۆکوەزیرانی عێراق کۆببنەوە. مژاری سەرەکیی کۆبوونەوەکەش پرسی نەوت دەبێ. مایڵز کاگینز، گوتەبێژی کۆمەڵەی پیشەسازیی نەوتی کوردستان (ئەپیکور)، ئەمڕۆ چوارشەممە 3ی حوزەیرانی 2026 هەواڵەکەی بۆ تۆڕی میدیایی رووداو پشتڕاستکردەوە، بەڵام گوتی\" لێدوان لەبارەی نێوەڕۆکەکە نادەین و چاوەڕێی قسەکانی سەرۆکوەزیرانی عێراق دەکەین دوای کۆبوونەوەکە\". سەرچاوەیەکی باڵاش لە حکومەتی عێرا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7b6d4b180e5f50e",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1346881",
+    "title": "ئەمریکا و ئێران بە مووشەک و درۆن هێرشیان کردە سەر یەکدی",
+    "title_en": "ئەمریکا و ئێران بە مووشەک و درۆن هێرشیان کردە سەر یەکدی",
+    "summary": "رووداو دیجیتاڵ شەوی رابردوو ئاگربەستە 60 رۆژییەکەی ئەمریکا و ئیسرائیل لەگەڵ ئێران گەیشتە ناسکترین دۆخی کاتێک ئەمریکا بە مووشەک هێرشی کردە سەر دوورگەی قیشم و لە بەرامبەریشدا سوپای پاسداران بنکەکانی ئەمریکای لە کوێت و بەحرێن کردە ئامانج. سەرەتای کێشەکە ئەوە بوو، سوپای ئەمریکا مووشەکێکی Hellfireی بۆ لێدان لە تانکەرێکی نەوتهەڵگری بۆتسوانا بەکارهێنا کە بەرەو بەندەرێکی ئێران لە دوورگەی خارگ دەڕۆیشت. بەگوێرەی فەرماندەیی ناوەندیی ئەمریکا - سێنتکۆم، کەشتییەکە پابەندی گەمارۆکەی ئەمریکا بۆ سەر بەندەرەکانی ",
+    "source": "rudaw-sorani",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "affcac2f20286d25",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1346908",
+    "title": "ئێران سیستمی داواکاریی ئۆنلاینی بۆ تێپەڕبوون لە تەنگەی هورمز کاراکرد",
+    "title_en": "ئێران سیستمی داواکاریی ئۆنلاینی بۆ تێپەڕبوون لە تەنگەی هورمز کاراکرد",
+    "summary": "رووداو دیجیتاڵ میدیاکانی ئێران رۆژی سێشەممە رایانگەیاند، سیستمی پێشکێشکردنی داواکاری بۆ تێپەڕبوونی کەشتییەکان بەنێو تەنگەی هورمزدا ئێستا بە تەواوی کارایە، ئەمەش رێگە بە خاوەن کەشتییەکان و کاپتنەکان لە سەرانسەری جیهان دەدات لە هەموو کاتێکدا بە شەو و رۆژ، داواکاری پێشکێش بکەن. بەوپێیەش کەشتییەکان دەتوانن لەڕێگەی سیستمێکی ئەلیکترۆنییەوە داواکارییەکانیان بنێرن، کە دوای پەسندکردن مۆڵەتی تێپەڕبوونیان پێدەدرێت. لە هەمان رۆژدا، هێزی دەریایی سوپای پاسدارانی ئێران رایگەیاند، 24 کەشتی لە ماوەی 24 کاژێری را",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "29fd2c647c8b2764",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1346899",
+    "title": "یەک دۆلار بە 172 هەزار و 800 تمەن مامەڵەی پێوەدەکرێت",
+    "title_en": "یەک دۆلار بە 172 هەزار و 800 تمەن مامەڵەی پێوەدەکرێت",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ نرخی دۆلار بەرامبەر بە تمەن، بە پێچەوانەی دوێنێ، دابەزیوە. نرخی دۆلار دوێنێ 700 تمەن بەرزبووەوە و گەیشتە 173,700 تمەن، بەڵام ئەمڕۆ چوارشەممە 900 تمەن دابەزی و ئێستا یەک دۆلار لە بەرامبەر بە 172,800 تمەن مامەڵەی پێوەدەکرێت. بەرزترین نرخی دۆلار بەرامبەر بە تمەن لە 24 کاژێری رابردوودا 175,300 تمەن و نزمترین نرخیش لە ئاستی 172,200 تمەن مامەڵەی پێوە کراوە. نرخی ئێستای دۆلار بەرامبەر بە تمەن بەراورد بە هەفتەی رابردوو 0.58% بەرزبووەتەوە، بەڵام لە 6 مانگی رابردوودا نزیکەی 44.36% بەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dec420e27aac37cf",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1346902",
+    "title": "کابینەکە مەگۆڕن",
+    "title_en": "کابینەکە مەگۆڕن",
+    "summary": "کابینەی حکومەتی هەرێمی کوردستان پێویستی بە گۆڕان نییە، با هەر بمێنێتەوە و هەمان تیمی حکومەت لە جێگەی خۆیان بن. شێوازی بەڕێوەبردنی حکومەت و کابینەکە بگۆڕن، هەروەها کار لەسەر گۆڕانکاری لە سیستمی حکومڕانی بکەن، بەڵام ئەمەیان پێویستی بە دەستوورە. ئەوەی لە حکومڕانی پێویستە تەکەزی لەسەر دابنرێت و کاری بۆ بکرێت، گۆڕینی شێوازی حکومڕانییە. کارکردنە بۆ چاکسازی، روونکاری و کرانەوە بەڕووی هاونیشتمانیان دا. دەبێت ماوەی نێوان خەڵک و دەسەڵات کەمبکرێتەوە، دیوارەکان بڕمێنرێن، زنجیرە پرسگەکان هەڵبگیرێن و تەلەفۆنە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8e8b42a927ca13ac",
+    "url": "https://www.rudaw.net/sorani/categories/world/1346890",
+    "title": "تورکیا و ئەرمینیا هەنگاو بۆ ئاساییکردنەوەی پەیوەندییەکانیان دەنێن",
+    "title_en": "تورکیا و ئەرمینیا هەنگاو بۆ ئاساییکردنەوەی پەیوەندییەکانیان دەنێن",
+    "summary": "رووداو دیجیتاڵ رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا و نیکۆڵ پاشینیان، سەرۆکوەزیرانی ئەرمینیا لە پەیوەندییەکی تەلەفۆنیدا ئاساییکردنەوەی پەیوەندییەکانی یەریڤان و ئەنقەرەیان تاوتوێ کرد. لە پەیوەندییەکی تەلەفۆنیدا کە شەوی رابردوو سازکرا، رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا و نیکۆل پاشنیان، سەرۆکوەزیرانی ئەرمینیا تاوتوێی وردەکارییەکانی دەستپێکردنەوەی بازرگانیی راستەوخۆ و چەند هەنگاوێکی دیکەی نێوانیان کرد. بەگوێرەی راگەیێندراوی سەرۆکایەتیی کۆماری تورکیا، پاشینیان پیرۆزبایی جەژنی قوربانی لە ئەرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4ee6c80dc6636b20",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1346893",
+    "title": "نرخی نەوت زیاتر لە 1 دۆلار بەرزبووەوە",
+    "title_en": "نرخی نەوت زیاتر لە 1 دۆلار بەرزبووەوە",
+    "summary": "رووداو دیجیتاڵ نرخی نەوت بۆ سێیەم رۆژی لەسەریەک بەرزبووەوە. بەرزبوونەوەی نرخی نەوت دوای ئەوە هات کە ئێران هێرشی کردە سەر پێگەکانی ئەمریکا لە ناوچەکەدا و لە بەرامبەریشدا ئەمریکا چەندین شوێنی لە دوورگەی قشم کردووەتە ئامانج.  لە دوای کردنەوەی بازاڕەکانی ئاسیا، ئەمڕۆ چوارشەممە نرخی نەوتی برێنت بە رێژەی 2% بەرزبووەوە و بەرمیلێکی بە 97 دۆلار و 6 سەنت مامەڵەی پێوەکرا. نرخی نەوتی سووکی تەکساسی ئەمریکاش زیاتر لە 1 دۆلار بەرزبووەوە و بەرمیلێکی بە 94 دۆلار و 89 سەنت مامەڵەی پێوەکرا. فەرماندەیی ناوەندیی ئەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb9178102df719ea",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1346896",
+    "title": "نرخی ئۆنسەیەک زێڕ بە 4485 دۆلارە",
+    "title_en": "نرخی ئۆنسەیەک زێڕ بە 4485 دۆلارە",
+    "summary": "رووداو دیجیتاڵ نرخی زێڕ ئەمڕۆ چوارشەممە بە جێگیری مایەوە. وەبەرهێنەران چاودێریی پێشهاتەکانی رۆژهەڵاتی نێوەڕاست دەکەن لە کاتێکدا نیگەرانن لە زیادبوونی هەڵاوسان و چاوەڕوانی داتا ئابوورییەکانی داهاتووی ئەمریکا دەکەن. نرخی ئۆنسەیەک زێڕ بەبێ گۆڕانکاری لە ئاستی 4485 دۆلار بۆ هەر ئۆنسەیەک مایەوە. ئەمەش دوای ئەوە دێت دوێنێ بە رێژەی زیاتر لە 1٪ بەرزبوونەوەی بەخۆیەوە بینی. نرخی زێڕ لە گرێبەستەکانی داهاتوودا بۆ رادەستکردنی لە مانگی ئاب بە رێژەی 0.1٪ دابەزی و بە 4513 دۆلار مامەڵەی پێوەدەکرێت. کێلڤین وۆنگ، ش",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d3ad635a47858b5d",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1346884",
+    "title": "ئەنجوومەنی موەلیدە ئەهلییەکانی هەولێر: رێکار بەرامبەر بەشێک لە خاوەن موەلیدەکان دەگیرێتەبەر",
+    "title_en": "ئەنجوومەنی موەلیدە ئەهلییەکانی هەولێر: رێکار بەرامبەر بەشێک لە خاوەن موەلیدەکان دەگیرێتەبەر",
+    "summary": "رووداو دیجیتاڵ کێشەی کارەبای نیشتمانی لە هەرێمی کوردستان دروستبووە و جێگری بەرپرسی نووسینگەی سەرۆکوەزیرانیش دەڵێ، لە چەند رۆژی داهاتوودا گرفتەکە چارەسەر دەکرێ. هاونیشتمانییانیش چاوەڕێن موەلیدە ئەهلییەکان لە کاتی نەبوونی کارەبادا کارەبا دابین بکەن. خۆران خۆرانی، سەرۆکی ئەنجوومەنی موەلیدە ئەهلییەکانی هەولێر بە رووداوی راگەیاند: \"موەلیدە ئەهلییەکان دەستیان بە کارکردن کردووەتەوە. ئەوانەیشیان کاژێری کارکردنیان تەواو بووە ناڕازین و نزیکەی 60%ـیان دەڵێن دەست بە کارکردن ناکەنەوە\". بە گوتەی خۆران خۆرانی،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fc36602e9218e92c",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1346911",
+    "title": "ڤێتێرنەریی دهۆک بۆ رووداو: تووشبوویەکی تای خوێنبەربوون تۆمار کرا",
+    "title_en": "ڤێتێرنەریی دهۆک بۆ رووداو: تووشبوویەکی تای خوێنبەربوون تۆمار کرا",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری ڤێتێرنەریی دهۆک بە رووداوی راگەیاند، تووشبوویەکی تای خوێنبەربوون لە دهۆک تۆمار کراوە کە پیاوێکی 47 ساڵانە و خەڵکی شنگالە. دکتۆر نیشتمان عارف، بەڕێوەبەری ڤێتێرنەریی دهۆک بە رووداوی گوت، \"دوای ئەوەی کەسێک گومانی تووشبوون بە تای خوێنبەربوونی لێدەکرا، پشکنینمان بۆ کرد و دیار بوو توشبووە بە نەخۆشییەکە\". بەڕێوەبەری ڤێتێرنەریی دهۆک دەڵێت، 1ی ئەم مانگە پشکنینەکەیان ناردووە بۆ بەغدا و رۆژی دواتر ئەنجامەکەی گەڕاوەتەوە و پۆزەتیڤ بوو. بە گوتەی دکتۆر نیشتمان عارف، تووشبووەکە پیاوێکی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "feb93bed75f36677",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/960184",
+    "title": "Onsa zêr bi 4 hezar û 485 dolaran e",
+    "title_en": "Onsa zêr bi 4 hezar û 485 dolaran e",
+    "summary": "Hewlêr (Rûdaw) - Bihayê zêr di asta xwe de ma û ons bi 4 hezar û 485 dolaran e. Veberhêner pêşhatên li Rojhilata Navîn dişopînin û di heman demê de ji ber zêdebûna enflasyonê dilgiran in û li benda amarên aborî yên paşerojê yên Amerîkayê ne. Bihayê onsa zêr di asta 4 hezar û 485 dolaran de ma. Metirsiya li ser agirbestê Şîrovekarê şirketa OANDAyê Kelvin Wong li ser vê mijarê ragihand: \"Bazar niha li wê egerê dinêre ku dibe ku agirbesta Amerîkayê ya li gel Îranê berdewam neke, her çi qasî Trump j",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93129adbe17ef33d",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/960178",
+    "title": "Ozgur Ozel: Dibe ku pêwîstî bi partiyeke duyem hebe",
+    "title_en": "Ozgur Ozel: Dibe ku pêwîstî bi partiyeke duyem hebe",
+    "summary": "Hewlêr (Rûdaw) - Serokê Koma CHPyê Ozgur Ozel ragihand ku ji bo rewşên herî xirab dibe ku pêwîstî bi partiyeke duyem hebe. Ozgur Ozel doh piştî civîna koma CHPyê ya li Parlamentoya Tirkiyeyê bi rojnamegeran re axivî û pirsên wan bersivandin. Wî li ser senaryoya \"partiyeke nû\" daxuyanî da û diyar kir ku ew ne di nava amadehiya partiyeke nû de ne. Lê Ozel got ku divê li hemberî senaryoyên siyasî yên awarte planên alternatîv werin nirxandin. \"Em dê namzedê xwe derxin, serokkomar biguherînin\" Ozgur ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "63402a05964a25a1",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/960175",
+    "title": "Aloziya Îran û Amerîkayê petrol biha kir",
+    "title_en": "Aloziya Îran û Amerîkayê petrol biha kir",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê wekî doh û pêr, îro jî zêde bû. Bihabûna petrolê piştî wê yekê hat ku Îranê êrişî pêgehên Amerîkayê yên li herêmê kir û Amerîkayê jî di bersivê de çend cihên li Girava Qişmê kirin armanc. Piştî vebûna bazarên Asyayê, îro bihayê petrola brent bi rêjeya ji sedî 2 zêde bû û bermîlek bi 97 dolar û 6 sentan hat firotin. Bihayê petrola sivik a Teksasa Amerîkayê (WTI) jî zêdetirî dolarekî biha bû û bermîlek bi 94 dolar û 89 sentan hat firotin. Aloziya leşkerî û bandora w",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "65a4ed53d4665308",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/960172",
+    "title": "Amerîkayê li Kendava Besreyê bi mûşekan li keştiyeke petrolê xist",
+    "title_en": "Amerîkayê li Kendava Besreyê bi mûşekan li keştiyeke petrolê xist",
+    "summary": "Hewlêr (Rûdaw) - Fermandariya Navendî ya Hêzên Amerîkayê (CENTCOM) ragihand ku wan li Kendava Besreyê êrişî tankereke petrolê kiriye ku ber bi bendereke Îranê ve diçû. CENTCOMê li ser êrişa hêzên Amerîkayê ya li ser tankera petrolê ya vala agahî da. CENTCOMê da zanîn ku li avên navneteweyî \"tedbîrên dorpêçê\" li hemberî tankera bi navê \"M/T Lexie\"yê hatine pêkanîn. Hat zanîn ku ew tankera bi alaya Botswanayê ber bi Girava Xargê ya li Kendava Besreyê ve diçû. Guh nedaye hişyariyan Li gorî daxuyani",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eba4a16870a06f85",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/960169",
+    "title": "Erhan Kaya piştî 31 salan ji girtîgehê hat berdan",
+    "title_en": "Erhan Kaya piştî 31 salan ji girtîgehê hat berdan",
+    "summary": "Hewlêr (Rûdaw) - Erhan Kayayê ku 31 sal bûn li Girtîgeha Ewlehiya Bilind a Burdurê girtî bû hat berdan. Erhan Kaya sala 1995an li parêzgeha Erziromê ya Bakurê Kurdistanê hatibû girtin. Dadgeha Ewlehiya Dewletê (DGM) cezayê heta hetayê dabû Erhan Kaya. Kaya piştî girtîbûna 31 salan hat berdan. Berdana wî hatibû bipaşxistin Li gorî nûçeya MAyê, berdana Erhan Kaya ji aliyê Desteya Çavdêrî û Birêvebiriya Girtîgehê ve bi hincetên \"kêfî\" salekê hatibû bipaşxistin. Parêzeran li Dadgeha Înfazê îtîraz ki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3b148cff8e09c74f",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/960166",
+    "title": "Îranê êrişî baregehên Amerîkayê yên li Kuweytê kir",
+    "title_en": "Îranê êrişî baregehên Amerîkayê yên li Kuweytê kir",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Kuweytê ragihand ku pergalên wan ên parastina asmanî hewl didin êrişên bi mûşek û dronan asteng bikin. Artêşa Kuweytê li ser hesabê xwe yê fermî yê Xê daxuyaniyek da. Di daxuyaniyê de hat gotin, \"Pergalên me yên parastina asmanî hewl didin êrişên mûşek û dronan asteng bikin.\" Hat diyarkirin ku dengê teqînên ku tên bihîstin, ji ber wê yekê ye ku pergalên parastina asmanî \"êrişên dijminan\" têk dibin. Di daxuyaniyê de li ser çavkanî yan jî cûreyê êrişan hûrgilî nehatin dayîn",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a4c65bda1573718",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/960184",
+    "title": "Onsa zêr bi 4 hezar û 485 dolaran e",
+    "title_en": "Onsa zêr bi 4 hezar û 485 dolaran e",
+    "summary": "Hewlêr (Rûdaw) - Bihayê zêr di asta xwe de ma û ons bi 4 hezar û 485 dolaran e. Veberhêner pêşhatên li Rojhilata Navîn dişopînin û di heman demê de ji ber zêdebûna enflasyonê dilgiran in û li benda amarên aborî yên paşerojê yên Amerîkayê ne. Bihayê onsa zêr di asta 4 hezar û 485 dolaran de ma. Metirsiya li ser agirbestê Şîrovekarê şirketa OANDAyê Kelvin Wong li ser vê mijarê ragihand: \"Bazar niha li wê egerê dinêre ku dibe ku agirbesta Amerîkayê ya li gel Îranê berdewam neke, her çi qasî Trump j",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6d0277c6b26a9ea3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/960181",
+    "title": "Li Qersê ambulans û otomobîlek li hev qelibîn",
+    "title_en": "Li Qersê ambulans û otomobîlek li hev qelibîn",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Qersê ya Bakurê Kurdistanê ambulans û otomobîlek li hev qelibîn. Di qezayê de 4 kes birîndar bûn ku 3 ji wan karmendên tenduristiyê bûn. Şeva borî otomobîla ku N.N.K. diajot û ambulansa ku H.C.A. diajot Qersê li hev qelibîn. Hat zanîn ku ambulansê ji parêzgeha Agiriyê nexweşek veguhastibû Qersê û di rêya vegerê de qeza kiriye. Rewşa wan baş e Di qezayê de şofêrê otomobîlê, şofêrê ambulansê û karmendên tenduristiyê A.Ayê 27 salî û G.Kyê 26 salî birîndar bûn. Li ser a",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "54f52cdb5f29eda4",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/960178",
+    "title": "Ozgur Ozel: Dibe ku pêwîstî bi partiyeke duyem hebe",
+    "title_en": "Ozgur Ozel: Dibe ku pêwîstî bi partiyeke duyem hebe",
+    "summary": "Hewlêr (Rûdaw) - Serokê Koma CHPyê Ozgur Ozel ragihand ku ji bo rewşên herî xirab dibe ku pêwîstî bi partiyeke duyem hebe. Ozgur Ozel doh piştî civîna koma CHPyê ya li Parlamentoya Tirkiyeyê bi rojnamegeran re axivî û pirsên wan bersivandin. Wî li ser senaryoya \"partiyeke nû\" daxuyanî da û diyar kir ku ew ne di nava amadehiya partiyeke nû de ne. Lê Ozel got ku divê li hemberî senaryoyên siyasî yên awarte planên alternatîv werin nirxandin. \"Em dê namzedê xwe derxin, serokkomar biguherînin\" Ozgur ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b1f6cb57fd9fd8ad",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/960175",
+    "title": "Aloziya Îran û Amerîkayê petrol biha kir",
+    "title_en": "Aloziya Îran û Amerîkayê petrol biha kir",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê wekî doh û pêr, îro jî zêde bû. Bihabûna petrolê piştî wê yekê hat ku Îranê êrişî pêgehên Amerîkayê yên li herêmê kir û Amerîkayê jî di bersivê de çend cihên li Girava Qişmê kirin armanc. Piştî vebûna bazarên Asyayê, îro bihayê petrola brent bi rêjeya ji sedî 2 zêde bû û bermîlek bi 97 dolar û 6 sentan hat firotin. Bihayê petrola sivik a Teksasa Amerîkayê (WTI) jî zêdetirî dolarekî biha bû û bermîlek bi 94 dolar û 89 sentan hat firotin. Aloziya leşkerî û bandora w",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ba8a7851453260e5",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/960172",
+    "title": "Amerîkayê li Kendava Besreyê bi mûşekan li keştiyeke petrolê xist",
+    "title_en": "Amerîkayê li Kendava Besreyê bi mûşekan li keştiyeke petrolê xist",
+    "summary": "Hewlêr (Rûdaw) - Fermandariya Navendî ya Hêzên Amerîkayê (CENTCOM) ragihand ku wan li Kendava Besreyê êrişî tankereke petrolê kiriye ku ber bi bendereke Îranê ve diçû. CENTCOMê li ser êrişa hêzên Amerîkayê ya li ser tankera petrolê ya vala agahî da. CENTCOMê da zanîn ku li avên navneteweyî \"tedbîrên dorpêçê\" li hemberî tankera bi navê \"M/T Lexie\"yê hatine pêkanîn. Hat zanîn ku ew tankera bi alaya Botswanayê ber bi Girava Xargê ya li Kendava Besreyê ve diçû. Guh nedaye hişyariyan Li gorî daxuyani",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5982135c47dcebee",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/960169",
+    "title": "Erhan Kaya piştî 31 salan ji girtîgehê hat berdan",
+    "title_en": "Erhan Kaya piştî 31 salan ji girtîgehê hat berdan",
+    "summary": "Hewlêr (Rûdaw) - Erhan Kayayê ku 31 sal bûn li Girtîgeha Ewlehiya Bilind a Burdurê girtî bû hat berdan. Erhan Kaya sala 1995an li parêzgeha Erziromê ya Bakurê Kurdistanê hatibû girtin. Dadgeha Ewlehiya Dewletê (DGM) cezayê heta hetayê dabû Erhan Kaya. Kaya piştî girtîbûna 31 salan hat berdan. Berdana wî hatibû bipaşxistin Li gorî nûçeya MAyê, berdana Erhan Kaya ji aliyê Desteya Çavdêrî û Birêvebiriya Girtîgehê ve bi hincetên \"kêfî\" salekê hatibû bipaşxistin. Parêzeran li Dadgeha Înfazê îtîraz ki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbeafed1ca57f2f7",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/960166",
+    "title": "Îranê êrişî baregehên Amerîkayê yên li Kuweytê kir",
+    "title_en": "Îranê êrişî baregehên Amerîkayê yên li Kuweytê kir",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Kuweytê ragihand ku pergalên wan ên parastina asmanî hewl didin êrişên bi mûşek û dronan asteng bikin. Artêşa Kuweytê li ser hesabê xwe yê fermî yê Xê daxuyaniyek da. Di daxuyaniyê de hat gotin, \"Pergalên me yên parastina asmanî hewl didin êrişên mûşek û dronan asteng bikin.\" Hat diyarkirin ku dengê teqînên ku tên bihîstin, ji ber wê yekê ye ku pergalên parastina asmanî \"êrişên dijminan\" têk dibin. Di daxuyaniyê de li ser çavkanî yan jî cûreyê êrişan hûrgilî nehatin dayîn",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
