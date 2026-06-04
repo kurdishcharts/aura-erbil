@@ -34942,6 +34942,834 @@
     }
   },
   {
+    "id": "f58f8e8a9a099365",
+    "url": "https://www.rudaw.net/english/categories/iraq/1077810",
+    "title": "Iraq reservoirs 80 percent full as water surge from Turkey reaches country: Ministry",
+    "title_en": "Iraq reservoirs 80 percent full as water surge from Turkey reaches country: Ministry",
+    "summary": "ERBIL, Kurdistan Region - Several of Iraq's major reservoirs have reached up to 80 percent of their storage capacity as a large surge of water flowing from Turkey through Syria reaches the country, a development expected to significantly raise water levels in the Euphrates River, the Iraqi Water Resources Ministry told Rudaw on Thursday. Reservoirs including Mosul, Dukan, Darbandikhan, Adhaim, and Hamrin have seen substantial increases in water levels, with some now 80 percent full, ministry spo",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60fff2688bee75d1",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1077809",
+    "title": "Kurdistan’s leaders discuss Erbil-Ankara trade relations with top Turkish diplomat",
+    "title_en": "Kurdistan’s leaders discuss Erbil-Ankara trade relations with top Turkish diplomat",
+    "summary": "ERBIL, Kurdistan Region - Kurdistan Region’s leaders on Thursday received Turkey’s top diplomat in Iraq, discussing a range of issues, including Erbil-Ankara trade relations. Anil Bora Inan, Turkish ambassador in Iraq, and Kurdistan Democratic Party (KDP) President Masoud Barzani, emphasized “the importance of further developing bilateral relations and friendship,” according to a statement from the KDP leader’s office. Kurdistan Region President Nechirvan Barzani’s discussions with Inan focused ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "847e33c4b138cd7e",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1077808",
+    "title": "Baghdad seeks to open ‘new page’ with Erbil: PM Barzani",
+    "title_en": "Baghdad seeks to open ‘new page’ with Erbil: PM Barzani",
+    "summary": "ERBIL, Kurdistan Region - Kurdistan Region Prime Minister Masrour Barzani said on Thursday that Baghdad is seeking to open a “new page” in relations with Erbil, expressing support for Iraqi Prime Minister Ali al-Zaidi and voicing optimism that longstanding disputes between the federal and regional governments can be resolved. “What we heard from both him and the various political parties is a shared desire to open a new page and find solutions to outstanding issues,” Prime Minister Barzani told ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "db51c9961e777b58",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861057",
+    "title": "کەتیبەکانی حیزبوڵڵا: بە ئیمام مەهدی نەبێ، یەک فیشەک رادەست ناکەین",
+    "title_en": "کەتیبەکانی حیزبوڵڵا: بە ئیمام مەهدی نەبێ، یەک فیشەک رادەست ناکەین",
+    "summary": "رووداو دیجیتاڵ کەتیبەکانی حیزبوڵڵای عێراق رایگەیاند، چەک تەنیا رادەستی (ئیمام مەهدی) دەکەن و ئەو گرووپانەی رێگەی رادەستکردنی چەکیان گرتووەتەبەر، بەشێک نەبوون لە مقاوەمەی ئیسلامی و \"چەندین ساڵە یەک بەردیشیان نەگرتووەتە ئەمریکا\". ئەو هەڵوێستانەی کەتیبەکانی حیزبوڵڵای عێراق لە راگەیێنراوێکدا بوو کە رۆژی پێنجشەممە، 4ی ئایاری 2026 ئەبو موجاهید عەساف، بەرپرسی ئەمنیی ئەو گرووپە چەکدارە بڵاویکردەوە. ئەبو موجاهید عەساف هۆشداریی داوەتە کەسانی پەیوەندیدار و راگەیاندنکاران لەوەی بکەونە داوی ئەمریکاوە، کە بە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "75b8f8cb836ceb0b",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861050",
+    "title": "وەزارەتی سەرچاوەکانی ئاوی عێراق بۆ رووداو: 80%ی بەنداوەکان پڕبوون",
+    "title_en": "وەزارەتی سەرچاوەکانی ئاوی عێراق بۆ رووداو: 80%ی بەنداوەکان پڕبوون",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی وەزارەتی سەرچاوەکانی ئاوی عێراق دەڵێت، بەهۆی بارانی زۆر و توانەوەی بەفر، عێراق بە تەواوی لە \"بازنەی مەترسیی وشکەساڵی\" دەرچووە و ئاوی کۆکەگراوی ستراتیژیی وڵاتیش بەراورد بە پار شەش هێندە زیادی کردووە. لەبارەی بەنداوەکانیش ئاماژە بەوە دەکات کە 80٪ی توانای کۆگەکردنیان پڕبووە. رۆژی پێنجشەممە، 4ی حوزەیرانی 2026، خالید شیمال، گوتەبێژی وەزارەتی سەرچاوەکانی ئاوی عێراق بە تۆڕی میدیایی رووداوی راگەیاند، ئەو شەپۆلە ئاوەی کە لە رۆژانی رابردوودا لە تورکیاوە بەرەو سووریا دەهات \"بڕەکەی 1",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a8bf6835a3eeaaf9",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1861052",
+    "title": "ئاگادارییەک بۆ کوردستان",
+    "title_en": "ئاگادارییەک بۆ کوردستان",
+    "summary": "لە تەممووزی 2023، بابەتێکم نووسی بەناوی (دوایین هۆشداری ئەمریکا بۆ یەکگرتنەوەی هێزەکانی پێشمەرگە)، ئەوکات بابەتەکە کاردانەوەی زۆری هەبوو، بەڵام پێدەچێت بەرپرسانی هەرێمی کوردستان و حیزبە سیاسییەکان، ئەو هۆشدارییەیان بە جیدی وەرنەگرتبێت؛ ئەوانەی بابەتەکەیان خوێندووەتەوەو لەبیریان ماوە، دەزانن لەو نووسینەدا، رێک باسی ئەمڕۆمان کردووەو ئەوەی ئێستا دەبینین روودەدات، لەوێ هۆشداریمان دابوو، ئەو بابەتەمان لە رووداو ماوەو، دەتوانن جارێکی دیکە بیخوێننەوە، ئەگەر حەزتان کرد. ئەم بابەتەی ئەم جارەش دەنووسم، تێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7a87c56a3a0f5844",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861049",
+    "title": "ئەمینداری گشتیی حزبوڵڵای لوبنان: بەڵێنی بەرگری نەکردنمان بەکەس نەداوە",
+    "title_en": "ئەمینداری گشتیی حزبوڵڵای لوبنان: بەڵێنی بەرگری نەکردنمان بەکەس نەداوە",
+    "summary": "رووداو دیجیتاڵ ئەمینداری گشتیی حزبوڵڵای لوبنان رایگەیاند، هیچ بەڵێنێکیان بە هیچ لایەنێک نەداوە کە بەرپەرچی هێرشەکانی ئیسرائیل نەدەنەوە. دەشڵێت، تاوەکو هێرشەکانی ئیسرائیل بۆ سەر گوندەکانی لوبنان نەوەستن، ناوچە نیشتەجێبووەکانی ئیسرائیل لە سنوورەکان بێوەی نابن. رۆژی پێنجشەممە، 4ـی حوزەیرانی 2026، نەعیم قاسم، ئەمینداری گشتیی حزبوڵڵای لوبنان لە گوتارێکدا دوایین هەڵوێستی حیزبەکەی لەبارەی شەڕ و دانوستانەکان لەگەڵ ئیسرائیل خستەڕوو و گوتی، \"بە هەموو هێزمانەوە رووبەڕووی دەستدرێژییە بەردەوامەکان دەبینەوە.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbfff1acc597edc3",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861059",
+    "title": "عێراقچی: لە نووسینگەی رێبەر بووم کە بۆردوومان کرا",
+    "title_en": "عێراقچی: لە نووسینگەی رێبەر بووم کە بۆردوومان کرا",
+    "summary": "رووداو دیجیتاڵ وەزیری دەرەوەی ئێران رایگەیاند، کاتێک باڵەخانەی نووسینگەی عەلی خامنەیی، رێبەری پێشووی کۆماری ئیسلامی ئێران، لە یەکەم ساتەکانی شەڕدا کرایە ئامانج و بۆردومان کرا، ئەو لەوێ بووە. عەباس عێراقچی، وەزیری دەرەوەی ئێران، لە چاوپێکەوتنێکدا لەگەڵ میدیایەکی عەرەبی، لەبارەی ساتەکانی سەرەتای هێرشی ئەمریکا و ئیسرائیل بۆ سەر ئێران و بۆردومانکردنی نووسینگەی عەلی خامنەیی، رێبەری پێشووی کۆماری ئیسلامیی ئێران قسەی کرد. عێراقچی رایگەیاندووە: \"لە ساتی شەهیدبوونی رێبەردا، من لە نووسینگەکەی ئەودا بووم.\"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "449cc46a6e2bd92f",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1861058",
+    "title": "تیۆری نرخی مۆز و بەهای تمەن",
+    "title_en": "تیۆری نرخی مۆز و بەهای تمەن",
+    "summary": "بۆ ماوەی 15 ساڵە، نرخی مۆز لە ئێران بووەتە رەنگدانەوەی چیرۆکی دراوی نیشتمانی ئێران. کیلۆیەک مۆز کە لە ساڵی 2011 بە نزیکەی 2,000 تمەن دەفرۆشرا، ئێستا لە زۆربەی میوەفرۆشییەکانی تاران و شارەکانی دیکە نرخەکەی نزیکبووەتەوە لە 300 هەزار تمەن. ئەمەش بە واتایە دێت لە ماوەی 15 ساڵ دا نرخی مۆز 150 هێندە بەرزبووەتەوە. لە ماوەی ئەم 15 ساڵە دا، بەهای تمەن ساڵ لە دوای ساڵ دابەزیوە. هۆکارەکەشی سزاکان، هەڵاوسان، گوشارە دارایییەکان و گرژییە جیۆسیاسییەکان بووە. کاتێک بازرگانان یەک کیلۆ مۆز بە نزیکەی 300 هەزار تمە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c888b0ff98c935b",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1861056",
+    "title": "سەزایی تەمەللی: پێویستە کەناڵەکانی گفتوگۆ لەگەڵ ئۆجەلان بکرێنەوە",
+    "title_en": "سەزایی تەمەللی: پێویستە کەناڵەکانی گفتوگۆ لەگەڵ ئۆجەلان بکرێنەوە",
+    "summary": "رووداو دیجیتاڵ بریکاری هاوسەرۆکی فراکسیۆنی پارتیی یەکسانی و دیموکراسیی گەلان (دەم پارتی) رەخنەی لە 12یەمین گورزەی دادوەری گرت و رایگەیاند، \"پێویستە لە مافی هیواوە دەستپێبکەن.\" هەروەها جەختی لەوە کردەوە کە پێویستە کەناڵەکانی گفتوگۆ لەگەڵ عەبدوڵڵا ئۆجەلان بکرێنەوە. رۆژی پێنجشەممە 4ـی حوزەیرانی 2026، سەزایی تەمەللی، لە کۆنفرانسێکی رۆژنامەڤانیدا لە پەرلەمانی تورکیا، ئاماژەی بە هەنگاوەکانی عەبدوڵڵا ئۆجەلان کرد بۆ چارەسەری دیموکراسییانەی پرسی کورد و گوتی، \"پێویستە هەرچی زووە دۆخی یاسایی بۆ بەڕێز ئۆجەل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "61984c251e856c36",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861055",
+    "title": "یەکێتیی ئەورووپا 100 ملیۆن یۆرۆی دیکە دەداتە سوپای لوبنان",
+    "title_en": "یەکێتیی ئەورووپا 100 ملیۆن یۆرۆی دیکە دەداتە سوپای لوبنان",
+    "summary": "رووداو دیجیتاڵ یەکێتیی ئەوروپا واژۆی لەسەر گورزەیەکی نوێی هاوکاری بە بەهای 100 ملیۆن یۆرۆ (116 ملیۆن دۆلار) بۆ سوپای لوبنان کرد؛ ئەوەش لە چوارچێوەی هەوڵەکان بۆ بەهێزکردنی توانای سەربازیی ئەو وڵاتە لە سەروبەندی بەردەوامی گرژییەکان لەنێوان حیزبوڵڵا و ئیسرائیل سەرباری رێککەوتنی ئاگربەست. کایا کاڵاس، بەرپرسی سیاسەتی دەرەوەی یەکێتیی ئەورووپا لە پۆستێکی تۆڕە کۆمەڵایەتییەکاندا نووسیویەتی: \"دوایین ئاگربەستی نێوان ئیسرائیل و لوبنان دەرفەتێکە بۆ رێگریکردن لە گەڕانەوەی شەڕ و پێکدادانی گشتگیر.\" کاڵاس ئاماژە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "299076e663bcf11e",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861054",
+    "title": "فەرەنسا داوادەکات پرسی کۆچبەرانی نۆکەندی ئینگلیز بکرێتە \"پرسێکی ئەورووپایی\"",
+    "title_en": "فەرەنسا داوادەکات پرسی کۆچبەرانی نۆکەندی ئینگلیز بکرێتە \"پرسێکی ئەورووپایی\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eb1dd66a085f8f88",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861051",
+    "title": "مەحموود ئاڵنئاک، نووسەر و سیاسەتڤانی کورد زیندانی کرا",
+    "title_en": "مەحموود ئاڵنئاک، نووسەر و سیاسەتڤانی کورد زیندانی کرا",
+    "summary": "رووداو دیجیتاڵ مەحموود ئاڵنئاک، نووسەر و پارێزەر و سیاسەتڤانی کوردی باکووری کوردستان دوای ئەوەی سزاکەی لەلایەن دادگەی باڵای تورکیاوە پەسەند کرا، دەستبەسەرکرا و رەوانەی زیندان کرا. سزاکە بەهۆی ئەو سکاڵایەوە بوو کە لەسەر پەرتوکەکەی بەناوی \"محەممەد تونچ و بێکەس\" تۆمار کرابوو. ئاڵنئاک، لە پەرتووکەکەیدا باسی ژیانی محەممەد تونچ، هاوسەرۆکی ئەنجوومەنی گەلی جزیر و بێکەسی برازای کردبوو، کە لە کاتی قەدەخەی هاتووچۆدا لە 14ـی کانوونی یەکەمی 2015 گیانیان لەدەستدا. سکاڵاکەش بە تۆمەتی \"سووکایەتیکردن بە سەرۆککۆم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7071214dc92b5aa4",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1861047",
+    "title": "بەهای لیرەی تورکی ریکۆردێکی نوێی دابەزینی تۆمارکرد",
+    "title_en": "بەهای لیرەی تورکی ریکۆردێکی نوێی دابەزینی تۆمارکرد",
+    "summary": "رووداو دیجیتاڵ لیرەی تورکی بەردەوامە لە لەدەستدانی بەهاکەی بەرامبەر بە دۆلار و دراوە بیانییەکان. ئەمڕۆ پێنجشەممە، بەهای یەک دۆلاری ئەمریکی گەیشتە نزیکەی 46 لیرە. لە بازاڕی ئازادیی ئیستەنبووڵ، یەک دۆلاری ئەمریکی گەیشتە 45.97 لیرە و یەک یۆرۆش بە 53.50 لیرە مامەڵەی پێوەدەکرێ. لیرەی تورکی لە ماوەی مانگێکی رابردوودا 1.78٪ و لە ماوەی ساڵێکی رابردووشدا نزیکەی 17.40٪ـی بەهاکەی لەدەستداوە. پێشبینییەکانی بەرزبوونەوەی رێژەی سوود لەلایەن بانکی ناوەندیی ئەمریکاوە، گوشاری لەسەر دراوی وڵاتانی تازەگەشەسەندوو در",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "21560f8155f651aa",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861046",
+    "title": "موجتەبا خامنەیی دەڵێت، ئەمریکا و ئیسرائیل لە بەرامبەر خۆڕاگریی وڵاتەکەیدا شکستیان هێناوە",
+    "title_en": "موجتەبا خامنەیی دەڵێت، ئەمریکا و ئیسرائیل لە بەرامبەر خۆڕاگریی وڵاتەکەیدا شکستیان هێناوە",
+    "summary": "رووداو دیجیتاڵ رێبەری کۆماری ئیسلامیی ئێران هەوڵی دروستکردنی دووبەرەکی و ناکۆکی لەنێوان بەرپرسانی وڵاتەکەیدا، بە سەرەکیترین ئامرازی ئەمریکا و ئیسرائیل دەزانێت بۆ بەرەنگاربوونەوەی تاران. دەشڵێت: هەر هەنگاوێکی بەرپرسانی ئێران ببێتە هۆی ''بەدگومانی و ساردبوونەوەی خەڵک''، بە یارمەتیدانی دووژمنانیان هەژمار دەکرێ. ئەمڕۆ پێنجشەممە 04-06-2026، موجتەبا خامنەیی، رێبەری ئێران بەبۆنەی 37ـەمین ساڵیادی کۆچی دوایی روحوڵڵا خومەینی، دامەزرێنەری کۆماری ئیسلامیی ئێران، پەیامێکی بڵاوکردەوە کە تێیدا تیشک خراوەتە سەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b9263ac37fbac58",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861043",
+    "title": "ئەندامێکی ئەنجوومەن و کارمەندێکی شارەوانیی سەقز دەستبەسەر کران",
+    "title_en": "ئەندامێکی ئەنجوومەن و کارمەندێکی شارەوانیی سەقز دەستبەسەر کران",
+    "summary": "رووداو دیجیتاڵ میدیاکانی ئێران بڵاویانکردەوە، هێزە ئەمنییەکان لە شاری سەقز ئەندامێکی ئەنجوومەنی شارەوانی و کارمەندێکی شارەوانی سەقزیان بە تۆمەتی گەندەڵی، سەرپێچیی ئیداری و خراپ بەکارهێنانی دەسەڵات دەستبەسەر کردووە. رۆژی پینجشەممە، 4ی حوزەیرانی 2026، سەرچاوەیەکی ئاگادار لە نێو شارەوانیی سەقز رایگەیاند: \"لە چوارچێوەی بەرەنگاربوونەوەی گەندەڵی و خراپ بەکارهێنانی دەسەڵات ئەندامێکی ئەنجوومەنی شارەوانی و کارمەندێکی شارەوانی دەستبەسەر کراون.\" ناو و پۆستی ئەو ئەو دوو کەسە بڵاونەکراوەتەوە. میدیاکانی سەقز ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8390a84045e8c724",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861040",
+    "title": "نوێنەری حکومەت: شاندێکی وەزارەتی پێشمەرگە بە بانگهێشی فەرمی دێنە ئیتاڵیا",
+    "title_en": "نوێنەری حکومەت: شاندێکی وەزارەتی پێشمەرگە بە بانگهێشی فەرمی دێنە ئیتاڵیا",
+    "summary": "رووداو دیجیتاڵ نوێنەری حکومەتی هەرێمی کوردستان لە ئیتاڵیا راگەیاند، ئیتاڵیا بە فەرمی شاندێکی وەزارەتی پێشمەرگەی بانگهێشت کردووە و ئەمڕۆ دەگەنە ئیتاڵیا و دوو رۆژ دەمێننەوە. رۆژی پێنجشەممە، 4ـی حوزیرانی 2026، رێزان قادر، نوێنەری حکومەتی هەرێمی کوردستان لە ئیتاڵیا بە تۆڕی میدیایی رووداوی راگەیاند: \"شاندێکی وەزارەتی پێشمەرگە بە سەردانێکی فەرمی دێنە ئیتاڵیا؛ شاندەکە بە بانگهێشتێکی فەرمی ئیتاڵیا دێن و تاوەکو رۆژی شەممە دەمێنەوە\". نوێنەری حکومەتی هەرێمی کوردستان لە ئیتاڵیا دەڵێت:\"ئامانجی سەردانەکەش بۆ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a6f9e35fd06990ac",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861037",
+    "title": "کەشناسیی ئیلام: شەپۆلێکی خۆڵبارین پارێزگاکە دەگرێتەوە",
+    "title_en": "کەشناسیی ئیلام: شەپۆلێکی خۆڵبارین پارێزگاکە دەگرێتەوە",
+    "summary": "رووداو دیجیتاڵ کەشناسی ئیلام دەڵێت؛ شەپۆلێکی خۆڵبارین پارێزگاکە دەگرێتەوە و بۆ منداڵ و بەساڵاچوان و کەسانی نەخۆش مەترسیدارە. ئەمڕۆ پێنجشەممە، 4ی حوزەیرانی 2026، بەڕێوەبەرایەتی گشتیی کەشناسیی پارێزگای ئیلام لە رۆژهەڵاتی کوردستان رایگەیاند: \"لە ئەمڕۆوە شەپۆلێکی خۆڵبارین پارێزگاکەی گرتووەتەوە و بەهۆیەوە کوالێتیی هەوا لە زۆربەی شارەکانی پارێزگاکە دادەبەزێت.\" کەشناسی هۆشداری دەداتە منداڵان و بەساڵاچووان، کە تەنیا بۆ کاری زۆر پێویست نەبێت لە ماڵەکانیان نەیەنە دەرەوە. بەگوێرەی بەڕێوەبەرایەتی گشتی کەشنا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44bc3e0193452074",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861036",
+    "title": "لە کەرکووک کەسێک بە حەوت هەزار دۆلاری ساختەوە دەستگیرکرا",
+    "title_en": "لە کەرکووک کەسێک بە حەوت هەزار دۆلاری ساختەوە دەستگیرکرا",
+    "summary": "رووداو دیجیتاڵ پۆلیسی کەرکووک دەستگیرکردنی تۆمەتبارێکی راگەیاند کە حەوت هەزار و 300 دۆلاری ساختەی پێبووە؛ تۆمەتبارەکە لە کاتی کڕینی شتومەک و ساخکردنەوەی یەکەم وەرەقەی 100 دۆلاری لە بازاڕدا، ئاشکرا بووە و دەستگیرکراوە. عامر شوانی، گوتەبێژی پۆلیسی کەرکووک بە تۆڕی میدیایی رووداوی راگەیاند، رۆژی چوارشەممە 4ـی حوزەیرانی 2026، کەسێک لە یەکێک لە بازاڕەکانی کەرکووک ویستوویەتی بە 100 دۆلاری ساختە شتومەک بکڕێت، بەڵام فرۆشیارەکە هەستی پێکردووە و بووەتە دەمەقاڵییان. گوتەبێژی پۆلیسی کەرکووک ئاماژەی بەوە کرد،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0eb02bce5950244a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861035",
+    "title": "ئەندامێکی کۆمیتەی ناوەندیی پارتی: لەسەر بنەمای 23 کورسی مامەڵە لەگەڵ یەکێتی دەکەین، نەک 50 بە 50",
+    "title_en": "ئەندامێکی کۆمیتەی ناوەندیی پارتی: لەسەر بنەمای 23 کورسی مامەڵە لەگەڵ یەکێتی دەکەین، نەک 50 بە 50",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی کۆمیتەی ناوەندیی پارتی دیموکراتی کوردستان رایدەگەیێنێت، گفتوگۆ لەگەڵ یەکێتیی نیشتمانیی کوردستان لەسەر بنەمای ئەو کورسیانە دەکەن لە هەڵبژاردندا بەدەستیان هێناوە و رەتیدەکاتەوە جارێکی دیکە بە رێککەوتنی \"50 بە 50\" رازی بن. هیوا گەیلانی، ئەندامی کۆمیتەی ناوەندیی پارتی دیموکراتی کوردستان، لە بووڵتەنی کاژێر 12:00ـی تۆڕی میدیایی رووداودا کە سەنگەر عەبدولڕەحمان پێشکێشی دەکات ئاماژەی بەوە کرد :\"چەقبەستوویی سیاسیی نێوان لایەنەکان، بەتایبەتی پارتی و یەکێتی، زیانی بۆ هەرێمی کوردستان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b82ca2b31d030408",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861029",
+    "title": "دووشەممەی داهاتوو لە هەڵەبجە زەوی دابەش دەکرێت",
+    "title_en": "دووشەممەی داهاتوو لە هەڵەبجە زەوی دابەش دەکرێت",
+    "summary": "رووداو دیجیتاڵ سەرۆکی شارەوانیی هەڵەبجە راگەیاند، رۆژی دووشەممەی هەفتەی داهاتوو دەست دەکرێت بە دابەشکردنی زەوی بەسەر ئەو کەسانەدا دابەش دەکرێت کە 20 ساڵ لەمەوبەر فەرمانی پێدانی زەوییان هەبووە و تاوەکو ئێستا سوودمەند نەبوون. رۆژی پێنجشەممە، 4ـی حوزیرانی 2026، سەلام بیلال، سەرۆکی شارەوانیی هەڵەبجە بە تۆڕی میدیایی رووداوی راگەیاند: \"دووشەممەی هەفتەی داهاتوو زەوی بەسەر ئەو کەسانەدا دابەش دەکرێت، کە لە ساڵی 2005 فەرمانیان هەبوو و ژمارەیان نزیکەی 500 کەسە.\" لەبارەی رێکارەکانی وردبینی، سەرۆکی شارەوانیی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bdf502ab8075791a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861027",
+    "title": "وەزارەتی پێشمەرگە داوای رێککەوتنێکی نوێ لە هاوپەیمانان دەکات",
+    "title_en": "وەزارەتی پێشمەرگە داوای رێککەوتنێکی نوێ لە هاوپەیمانان دەکات",
+    "summary": "رووداو دیجیتاڵ ئەمینداری گشتیی وەزارەتی پێشمەرگە رایدەگەیێنێت، پرۆسەی یەکخستنەوەی هێزەکانی پێشمەرگە لە \"قۆناخەکانی کۆتایی\"دایە و جەخت دەکاتەوە لەگەڵ کۆتاییهاتنی یاداشتنامەی لێکتێگەیشتن لەگەڵ ئەمریکا لە مانگی 9، پێویستیان بە رێککەوتنێکی نوێ دەبێت بۆ بەردەوامبوونی هاوکاری و راهێنانەکان\". فەریق رووکن بەختیار محەممەد، ئەمینداری گشتیی وەزارەتی پێشمەرگە رۆژی پێنجشەممە، 4-6-2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"هەنگاوی باش چووینەتە پێشەوە، دەتوانین بڵێین دوایین بابەت ماوە بۆ جێبەجێکردنی یاداشتنامەکە،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d65554893fd2de83",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861026",
+    "title": "پارێزگاری هەولێر وەڵامی ئەندامێکی سەرکردایەتیی یەکێتی دەداتەوە؛ 'جیاوازی لەنێوان ناوچەکان ناکەین'",
+    "title_en": "پارێزگاری هەولێر وەڵامی ئەندامێکی سەرکردایەتیی یەکێتی دەداتەوە؛ 'جیاوازی لەنێوان ناوچەکان ناکەین'",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی ئەندامێکی سەرکردایەتیی یەکێتیی نیشتمانیی کوردستان رایگەیاند، لە سنووری پارێزگای هەولێر جیاوازی لە پێشکێشکردنی خزمەتگوزارییەکاندا دەکرێت و گرنگیی کەمتر بە قەزای کۆیە دراوە، پارێزگاری هەولێر ئەو قسانە رەتدەکاتەوە و دەڵێت: \"بە هیچ جۆرێک جیاوازیمان لە نێوان قەزاکان نەکردووە، کۆیە بەپێی بەرکەوتی خۆی پڕۆژەی بۆ کراوە\"، دەشڵێت: دەمانەوێت خزمەتی زیاتری ئەو شارۆچکەیە بکەین.'' رۆژی چوارشەممە، 3/6/2026 عەباس فەتاح، ئەندامی سەرکردایەتیی یەکێتیی نیشتمانیی کوردستان، لە بووڵتەنی کاژێر ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1181113a80689b16",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861025",
+    "title": "نرخى پارچەى یەدەگى ئۆتۆمبێلی چینى لە بازاڕەکانى هەرێمی دادەبەزێت",
+    "title_en": "نرخى پارچەى یەدەگى ئۆتۆمبێلی چینى لە بازاڕەکانى هەرێمی دادەبەزێت",
+    "summary": "رووداو دیجیتاڵ لە بازاڕەکانی هەرێمی کوردستان، نرخی پارچەی یەدەگی ئۆتۆمبێلە چینییەکان بە بەراورد بە رابردوو دابەزینێکی گەورەی بەخۆیەوە بینیوە. فرۆشیاران و بازرگانانیش پێشبینی دەکەن دوای کردنەوەی تەواوەتیی تەنگەی هورمز، نرخەکان زیاتریش دابەزن. محەممەد زانا، فرۆشیاری پارچەی یەدەگی ئۆتۆمبێلە چینی بە تۆڕی میدیایی رووداوی راگەیاند: \"نرخی پارچەی یەدەگی ئۆتۆمبێلە چینییەکان زۆر دابەزیوە. هۆکارەکەشی ئەوەیە ئێستا بریکاری هاوردەکردن زۆر بووە. لە رابردوودا چەند کۆمپانیایەک بازاڕیان قۆرخ کردبوو چونکە تەنیا خۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e38f86e0b41923fc",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861033",
+    "title": "دۆسیەی سەرایا سەلام رادەستی سوپا کرا",
+    "title_en": "دۆسیەی سەرایا سەلام رادەستی سوپا کرا",
+    "summary": "رووداو دیجیتاڵ دۆسیەی ئەمنیی قەزای سامەڕا لە هێزەکانی \"سەرایا سەلام\"ەوە بۆ فەرماندەیی ئۆپەراسیۆنەکانی سوپا گوازرایەوە. جێگری فەرماندەی ئۆپەراسیۆنە هاوبەشەکانی عێراقیش رایدەگەیێنێت، میکانیزمی بەستراوەیی ئەو هێزە بە حەشدی شەعبی هەڵدەوەشێندرێتەوە و راستەوخۆ بە فەرماندەی گشتیی هێزە چەکدارەکانەوە دەبەسترێنەوە. رۆژی پێنجشەممە، 4ـی حوزەیرانی 2026، لە رێوڕەسمێکی فەرمیدا لە سامەڕا، دۆسیەی ئەمنیی ناوچەکە رادەستی سوپا کرا. فەریق یەکەم روکن قەیس محەمەداوی، جێگری فەرماندەی ئۆپەراسیۆنە هاوبەشەکانی عێراق لە کۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d6fc4cfb62626512",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861034",
+    "title": "ئەندامێکی ئەنجوومەنی پارێزگای سەلاحەدین: جومەیلی 'حوتی نەوت' بوو",
+    "title_en": "ئەندامێکی ئەنجوومەنی پارێزگای سەلاحەدین: جومەیلی 'حوتی نەوت' بوو",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی ئەنجوومەنی پارێزگای سەلاحەدین زانیاریی نوێ لەبارەی دەستگیرکردنی عەدنان جومەیلی، بریکاری پێشووی وەزیری نەوتی عێراق ئاشکرا دەکات و دەڵێت، ئەو بەرپرسە بە \"حوتی نەوت\" ناسرابوو و بەهۆی پشتگیریی بەرپرسانی باڵای بەغداوە، حیسابی بۆ هیچ کەسێک لە پارێزگاکە نەدەکرد. یاسین محەممەد عەلی داوودی، ئەندامی ئەنجوومەنی پارێزگای سەلاحەدین بە (تۆڕی میدیایی رووداو)ی راگەیاند، عەدنان محەممەد جومەیلی کە پێشتر بەڕێوەبەری گشتیی پاڵاوگەی بێجی بووە، لە ئاستی باڵای بەرپرسانی عێراق (شیعە و سوننە) پشت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fab98fd872cd5624",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861045",
+    "title": "ترەمپ لە کۆشکی سپی: حەوزەکەی ئێمە لە تەلارە بەرزەکانیش گەورەترە",
+    "title_en": "ترەمپ لە کۆشکی سپی: حەوزەکەی ئێمە لە تەلارە بەرزەکانیش گەورەترە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8645c7a19a4584db",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1861030",
+    "title": "باجی گومرگی هەناردەکردنی ئۆتۆمبێل لە هەرێمی کوردستان زیاد کرا",
+    "title_en": "باجی گومرگی هەناردەکردنی ئۆتۆمبێل لە هەرێمی کوردستان زیاد کرا",
+    "summary": "رووداو دیجیتاڵ حکومەتی هەرێمی کوردستان بڕیاری زیادکردنی رێژەی گومرگ و باجی لەسەر هەناردەکردنی ئۆتۆمبێل دەرکرد. وەزارەتی دارایی دەڵێت، ئامانجی بڕیارەکە \"هاوسەنگکردنەوەی بازاڕ\"ـە کە بەهۆی هەناردەکردنی ئۆتۆمبێل بۆ ئێران لاسەنگ ببوو. بەپێی نووسراوێكی بەڕێوەبەرایەتیی گشتیی گومرگ کە لە 03-06-2026ـی ئامادەکراوە دەست تۆڕی میدیایی رووداو کەتووە، تێیدا هاتووە، کە وەزیری دارایی رەزامەندی داوە لەسەر زیادکردنی رێژەی گومرگی هەناردەکردنی ئۆتۆمبێلەکان بە مەبەستی زیادکردنی داهات بەمشێوەیە: بەپێی نووسراوەکە، ئەو ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d1b495db39bede19",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1861007",
+    "title": "بارسێلۆنا گرێبەست دەکات پارە دەچێتە خەزێنەی ریال مەدرید",
+    "title_en": "بارسێلۆنا گرێبەست دەکات پارە دەچێتە خەزێنەی ریال مەدرید",
+    "summary": "رووداو دیجیتاڵ گرێبەستی بارسێلۆنا لەگەڵ ئەنتۆنی گۆردۆنی یاریزانی ئینگلیزیی یانەی نیوکاسڵ، لەوانەیە خەزێنەی ریال مەدرید ببوژێنێتەوە. ریال مەدرید لایەنێک نەبوو لە گرێبەستی گواستنەوەی ئەنتۆنی گۆردۆنی ئینگلیزی بۆ بارسێلۆنا، بەڵام لەوانەیە لە رۆژانی داهاتوودا ببێتە یەکێک لە گەورەترین سوودمەندەکان لەو کارە. بەپێی بەرنامەی ئێل چێرینگیتۆ، یانەی نیوکاسڵ دوای رۆیشتنی گۆردۆن بۆ بارسێلۆنا، دەستەوارەیەکی بەبڕی 35 ملیۆن یۆرۆ پێشکەش کردووە بۆ گواستنەوەی ڤیکتۆر مونیۆز، ئەمەش وەک هەنگاوێک بۆ قەرەبووکردنەوەی یەکێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87e9fab844aa585e",
+    "url": "https://www.rudaw.net/sorani/categories/news/1860983",
+    "title": "بنیاتنانی تۆڕی پایسکیلسواریی هەولێر و دیدێک لەسەر ناسنامە و داهاتووی شارەکە",
+    "title_en": "بنیاتنانی تۆڕی پایسکیلسواریی هەولێر و دیدێک لەسەر ناسنامە و داهاتووی شارەکە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49eef7b497f58f13",
+    "url": "https://www.rudaw.net/sorani/authors/د_هێمن_جەلال",
+    "title": "د. ‌هێمن جەلال",
+    "title_en": "د. ‌هێمن جەلال",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "92029fc2d5f6f041",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1301825",
+    "title": "Teoriya bihayê mûzê û qedirê tumen",
+    "title_en": "Teoriya bihayê mûzê û qedirê tumen",
+    "summary": "Ev 15 sal in, bihayê mûzê li Îranê bûye neynika çîroka diravê neteweyî yê Îranê. Kîloyek mûz ku sala 2011an bi nêzîkî 2 hezar tumenî dihat firotin, niha li piraniya fêkîfiroşên Tehranê û bajarên din bihayê wê nêzîkî 300 hezar tumenî bûye. Ev jî tê wê wateyê ku di nava 15 salan de bihayê mûzê 150 qat zêde bûye. Di nava van 15 salan de, biha ango qedirê tumen sal bi sal daketiye. Sedema wê jî ceza, enflasyon, zextên darayî û aloziyên jeopolîtîk in. Dema ku bazirgan kîloyek mûz bi nêzîkî 300 hezar ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c64eb9731ac4b960",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1301824",
+    "title": "Weşanxaneyên Bakurê Kurdistanê çima beşdarî pêşangeha li Hewlêrê nebûn?",
+    "title_en": "Weşanxaneyên Bakurê Kurdistanê çima beşdarî pêşangeha li Hewlêrê nebûn?",
+    "summary": "Hewlêr (Rûdaw) - Li Hewlêra paytexta Herêma Kurdistanê, Pêşangeha Yekemîn a Pirtûkên Kurdî bi dirûşma \"Bi Kurdî Binivîse û bi Kurdî Bihizire\" dest pê kir. Pêşangeh cara yekem e ku tenê ji bo berhem û weşanên bi zimanê Kurdî tê lidarxistin. Nêzîkî 130 weşanxane, navendên çapê û saziyên çandî bi hezaran berhemên xwe beşdarî pêşangehê bûne. Birêvebirê Giştî yê Weşanên Dozê Koroglu Karaaslan li ser pêşangehê û beşdariya weşanxaneyên Bakurê Kurdistanê pirsên Sîma Abxêzirê bersivandin. \"Em ji bo Kurdî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "856cae4b7961fc51",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1301823",
+    "title": "Rubio: Ne pêkan e Tirkiye tevlî bernameya F-35an bibe",
+    "title_en": "Rubio: Ne pêkan e Tirkiye tevlî bernameya F-35an bibe",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Amerîkayê Marco Rubio ragihand ku niha ne pêkan e ku Tirkiye di vê qonaxê de ji nû ve tevlî bernameya F-35an bibe. Wezîrê Karên Derve yê Amerîkayê Marco Rubio, di rûniştineke Kongreyê de li ser vegera Tirkiyeyê ya bernameya F-35an û cezayên ji ber pergala parastina asmanî ya S-400an axivî. Rubio diyar kir ku ji ber rêziknameyên qanûnî yên niha, ne pêkan e ku Tirkiye di vê qonaxê de ji nû ve tevlî bernameya F-35an bibe. Ev daxuyaniyên Rubio piştî peyamên Bal",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbb103bb3907d1bf",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301822",
+    "title": "Siyasetmedar û nivîskarê Kurd Mahmut Alinak hat girtin",
+    "title_en": "Siyasetmedar û nivîskarê Kurd Mahmut Alinak hat girtin",
+    "summary": "Hewlêr (Rûdaw) - Siyasetmedar, parêzer, nivîskar û parlamenterê berê yê Kurd Mahmut Alinak li Qersa Bakurê Kurdistanê hat girtin. Hêzên ewlehiyê yên Tirkiyeyê piştî ku cezayê wî ji aliyê Dadgeha Bilind ve hat pesendkirin Mahmut Alina bir girtîgehê. Dadgehê bi îdiaya \"heqaretkirina li serokkomar\" salek û 2 meh cezayê girtîgehê dabû Mahmut Alinak. Pirtûka \"Mehmet Tunç û Bêkes\" Bi îdiaya ku di pirtûka xwe ya bi navê \"Mehmet Tunç û Bêkes\" de \"heqaret li serokkomar kiriye\" doz li Li ser Mahmut Alinak",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "19e60ae4ef6a6828",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1301825",
+    "title": "Teoriya bihayê mûzê û qedirê tumen",
+    "title_en": "Teoriya bihayê mûzê û qedirê tumen",
+    "summary": "Ev 15 sal in, bihayê mûzê li Îranê bûye neynika çîroka diravê neteweyî yê Îranê. Kîloyek mûz ku sala 2011an bi nêzîkî 2 hezar tumenî dihat firotin, niha li piraniya fêkîfiroşên Tehranê û bajarên din bihayê wê nêzîkî 300 hezar tumenî bûye. Ev jî tê wê wateyê ku di nava 15 salan de bihayê mûzê 150 qat zêde bûye. Di nava van 15 salan de, biha ango qedirê tumen sal bi sal daketiye. Sedema wê jî ceza, enflasyon, zextên darayî û aloziyên jeopolîtîk in. Dema ku bazirgan kîloyek mûz bi nêzîkî 300 hezar ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "172e702c284c2325",
+    "url": "https://www.rudaw.net/kurmanci/categories/and/1301824",
+    "title": "Weşanxaneyên Bakurê Kurdistanê çima beşdarî pêşangeha li Hewlêrê nebûn?",
+    "title_en": "Weşanxaneyên Bakurê Kurdistanê çima beşdarî pêşangeha li Hewlêrê nebûn?",
+    "summary": "Hewlêr (Rûdaw) - Li Hewlêra paytexta Herêma Kurdistanê, Pêşangeha Yekemîn a Pirtûkên Kurdî bi dirûşma \"Bi Kurdî Binivîse û bi Kurdî Bihizire\" dest pê kir. Pêşangeh cara yekem e ku tenê ji bo berhem û weşanên bi zimanê Kurdî tê lidarxistin. Nêzîkî 130 weşanxane, navendên çapê û saziyên çandî bi hezaran berhemên xwe beşdarî pêşangehê bûne. Birêvebirê Giştî yê Weşanên Dozê Koroglu Karaaslan li ser pêşangehê û beşdariya weşanxaneyên Bakurê Kurdistanê pirsên Sîma Abxêzirê bersivandin. \"Em ji bo Kurdî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7003944a6bf73b40",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1301823",
+    "title": "Rubio: Ne pêkan e Tirkiye tevlî bernameya F-35an bibe",
+    "title_en": "Rubio: Ne pêkan e Tirkiye tevlî bernameya F-35an bibe",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Amerîkayê Marco Rubio ragihand ku niha ne pêkan e ku Tirkiye di vê qonaxê de ji nû ve tevlî bernameya F-35an bibe. Wezîrê Karên Derve yê Amerîkayê Marco Rubio, di rûniştineke Kongreyê de li ser vegera Tirkiyeyê ya bernameya F-35an û cezayên ji ber pergala parastina asmanî ya S-400an axivî. Rubio diyar kir ku ji ber rêziknameyên qanûnî yên niha, ne pêkan e ku Tirkiye di vê qonaxê de ji nû ve tevlî bernameya F-35an bibe. Ev daxuyaniyên Rubio piştî peyamên Bal",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "30019e3d1fe7a366",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301821",
+    "title": "Wezareta Pêşmergeyan ji Koalîsyonê daxwaza peymaneke nû dike",
+    "title_en": "Wezareta Pêşmergeyan ji Koalîsyonê daxwaza peymaneke nû dike",
+    "summary": "Hewlêr (Rûdaw) - Bextyar Mihemed eşkere kir ku pêvajoya yekkirina hêzên Pêşmergeyan di \"qonaxên dawî\" de ye. Sekreterê Giştî yê Wezareta Pêşmergeyan Bextyar Mihemed destnîşan kir ku peymana lihevtêgihîştinê ya bi Amerîkayê re meha îlonê bi dawî dibe û ji bo berdewamiya alîkarî û rahênanan pêwîstiya wan bi peymaneke nû heye. Bextyar Mihemed ji Tora Medyayî ya Rûdawê re axivî û diyar kir: \"Em bi gelek gavên baş bi pêş ve çûne. Em dikarin bibêjin ku ji bo bicihanîna peymanê tenê mijara dawî maye, e",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f8d8ebbdbd00eab0",
+    "url": "https://www.rudaw.net/kurmanci/categories/hevpeyvn/1301820",
+    "title": "Şivan Mihemed: Xwînerên Soranî berê xwe didin pirtûkên Kurmancî",
+    "title_en": "Şivan Mihemed: Xwînerên Soranî berê xwe didin pirtûkên Kurmancî",
+    "summary": "Di Pêşangeha Pirtûkan a Kurdî ya li Hewlêrê de, daxwazeke berçav li ser pirtûkên bi zaravayê Kurmancî heye û xwînerên Hewlêr û Silêmaniyê jî pirtûkên Kurmancî dikirin. Xwediyê Pirtûkxaneya Moksîlê Şivan Mihemed ragihand ku di navbera zaravayan de \"guherîneke çandî ya xwendinê\" çêbûye û niha xwîner bi her du diyalektan pirtûkan dixwînin. Li gorî gotina Şivan Mihemed, herî zêde daxwaz li ser pirtûkên edebî û bipêşketina mirovî heye. Bi gotina Şivan Mihemed sedema wê jî ew e ku xwîner hest dikin pê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "127d2d57b268b1e1",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301819",
+    "title": "Serok Barzanî, Balyozê Tirkiyeyê qebûl kir",
+    "title_en": "Serok Barzanî, Balyozê Tirkiyeyê qebûl kir",
+    "summary": "Hewlêr (Rûdaw) - Serok Mesûd Barzanî Balyozê Tirkiyeyê yê Îraqê Anil Bora Înan qebûl kir û pêwendiyên Îraq, Tirkiye û Herêma Kurdistanê hatin gotûbêjkirin. Serok Mesûd Barzanî li navçeya Pîrmamê ya parêzgeha Hewlêrê Balyozê Tirkiyeyê yê Îraqê Anil Bora Înan qebûl kir. Baregeha Barzanî li ser naveroka civînê daxuyaniyek belav kir. Li gorî daxuyaniyê, di civînê de li ser pêşhatên dawî û şer û aloziyên li herêmê gotûbêj hatin kirin. Baregeha Barzanî da zanîn, \"Balyozê Tirkiyeyê pesnê siyaseta hekîm",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e6143b85819948e",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1301818",
+    "title": "Konseya Ewropayê metirsiya torên civakî ya li ser zarokan nîqaş kir",
+    "title_en": "Konseya Ewropayê metirsiya torên civakî ya li ser zarokan nîqaş kir",
+    "summary": "Hewlêr (Rûdaw) - Li Konseya Ewropayê li ser bandorên neyînî yên torên civakî yên li ser tenduristiya zarokan rûniştinek hat lidarxistin. Bi hevkariya Komîteya Rêberiya Mafên Zarokan (CDENF) û Komîteya Mafên Mirovan a Qadên Biotib û Tenduristiyê de (CDBIO) rûniştinek pêk hat. Rûniştina li ser rîskên ku torên civakî ji bo zarokan çêdike, di bin çavdêriya Monakoya seroka serdemê ya Komîteya Wezîran a Konseya Ewropayê de hat lidarxistin. Zêdetirî 130 pispor û çêkerên polîtîkayan beşdarî rûniştinê bû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "377576c397a77b65",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/1301820",
+    "title": "Şivan Mihemed: Xwînerên Soranî berê xwe didin pirtûkên Kurmancî",
+    "title_en": "Şivan Mihemed: Xwînerên Soranî berê xwe didin pirtûkên Kurmancî",
+    "summary": "Di Pêşangeha Pirtûkan a Kurdî ya li Hewlêrê de, daxwazeke berçav li ser pirtûkên bi zaravayê Kurmancî heye û xwînerên Hewlêr û Silêmaniyê jî pirtûkên Kurmancî dikirin. Xwediyê Pirtûkxaneya Moksîlê Şivan Mihemed ragihand ku di navbera zaravayan de \"guherîneke çandî ya xwendinê\" çêbûye û niha xwîner bi her du diyalektan pirtûkan dixwînin. Li gorî gotina Şivan Mihemed, herî zêde daxwaz li ser pirtûkên edebî û bipêşketina mirovî heye. Bi gotina Şivan Mihemed sedema wê jî ew e ku xwîner hest dikin pê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "faa1f7181e1c96bd",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1301818",
+    "title": "Konseya Ewropayê metirsiya torên civakî ya li ser zarokan nîqaş kir",
+    "title_en": "Konseya Ewropayê metirsiya torên civakî ya li ser zarokan nîqaş kir",
+    "summary": "Hewlêr (Rûdaw) - Li Konseya Ewropayê li ser bandorên neyînî yên torên civakî yên li ser tenduristiya zarokan rûniştinek hat lidarxistin. Bi hevkariya Komîteya Rêberiya Mafên Zarokan (CDENF) û Komîteya Mafên Mirovan a Qadên Biotib û Tenduristiyê de (CDBIO) rûniştinek pêk hat. Rûniştina li ser rîskên ku torên civakî ji bo zarokan çêdike, di bin çavdêriya Monakoya seroka serdemê ya Komîteya Wezîran a Konseya Ewropayê de hat lidarxistin. Zêdetirî 130 pispor û çêkerên polîtîkayan beşdarî rûniştinê bû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "79c9b806839e7496",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/1301817",
+    "title": "Eraqçî peyam da Trump: Eger biaqil be venagere şer",
+    "title_en": "Eraqçî peyam da Trump: Eger biaqil be venagere şer",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Îranê Ebas Eraqçî, daxuyaniyên Serokê Amerîkayê Trump ên \"peyman nêzîk e\" derewandin û got, “Eger ew biaqil venagere şer.” Wezîrê Karên Derve yê Îranê Ebas Eraqçî diyar kir ku di dan û standinan de ti pêşveçûnlb şênber nîne. Wî hişyarî da Trump û got, \"Eger ew biaqil be venagere şer, hêza me ya leşkerî ji ya berê baştir e.\" Li Rojhilata Navîn lêgerînên ji bo çareseriya dîplomatîk didomin. Li aliyê din, ji xeta Washington û Tehranê daxuyaniyên ku bi temamî d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3cbc362649520a60",
+    "url": "https://www.rudaw.net/kurmanci/categories/ran/1301817",
+    "title": "Eraqçî peyam da Trump: Eger biaqil be venagere şer",
+    "title_en": "Eraqçî peyam da Trump: Eger biaqil be venagere şer",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Karên Derve yê Îranê Ebas Eraqçî, daxuyaniyên Serokê Amerîkayê Trump ên \"peyman nêzîk e\" derewandin û got, “Eger ew biaqil venagere şer.” Wezîrê Karên Derve yê Îranê Ebas Eraqçî diyar kir ku di dan û standinan de ti pêşveçûnlb şênber nîne. Wî hişyarî da Trump û got, \"Eger ew biaqil be venagere şer, hêza me ya leşkerî ji ya berê baştir e.\" Li Rojhilata Navîn lêgerînên ji bo çareseriya dîplomatîk didomin. Li aliyê din, ji xeta Washington û Tehranê daxuyaniyên ku bi temamî d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
