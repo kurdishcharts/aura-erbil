@@ -46954,6 +46954,42 @@
     }
   },
   {
+    "id": "e28b30b3d7a5083b",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1077869",
+    "title": "Two bomb-laden drones shot down near Erbil: Source",
+    "title_en": "Two bomb-laden drones shot down near Erbil: Source",
+    "summary": "ERBIL, Kurdistan Region - Two bomb-laden drones heading toward the Kurdistan Region’s Erbil province were shot down by warplanes late Monday, a local security source told Rudaw. “The drones were heading toward Erbil and were successfully intercepted and destroyed over Soran district [northeast of Erbil], without causing any casualties or damage,” the source said. He added that fighter jets had been flying at low altitudes before and after the detection and destruction of the drones. Footage obta",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c36374a7d4179209",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301967",
+    "title": "Teşkîlata MHPyê ya Kilîsê hat fesixkirin",
+    "title_en": "Teşkîlata MHPyê ya Kilîsê hat fesixkirin",
+    "summary": "Hewlêr (Rûdaw) - Di teşkîlata Partiya Tevgera Neteweperest (MHP) a Kilîsa Bakurê Kurdistanê de guherîn hatin kirin. Alîkarê Serokê Giştî yê MHPyê Semih Yalçin eşkere kir ku teşkîlata partiya wan a li Kilîsê hatiye fesixkirin. Semih Yalçin da zanîn ku li gorî xalên 52 û 54an ên rêziknameya partiyê, teşkîlata Kilîsê hatiye fesixkirin. Yalçin destnîşan kir ku Ercan Akdemir wekî Serokê Bajarê Kilîsê yê MHPyê hatiye tayînkirin. Semih Yalçin li ser hesabê xwe yê medyaya civakî li ser mijarê daxuyaniye",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
