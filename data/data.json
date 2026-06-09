@@ -47188,6 +47188,276 @@
     }
   },
   {
+    "id": "fe82782547d8fec8",
+    "url": "https://www.rudaw.net/english/categories/iraq/1077872",
+    "title": "Iraq records nine deaths, 145 infections in hemorrhagic fever outbreak",
+    "title_en": "Iraq records nine deaths, 145 infections in hemorrhagic fever outbreak",
+    "summary": "ERBIL, Kurdistan Region - The Iraqi health ministry on Monday announced 145 confirmed cases and nine deaths from Crimean-Congo Hemorrhagic Fever (CCHF) since the start of the year, amid increased preventive measures. Health Ministry spokesperson Saif al-Badr told state media that since the first recorded Iraqi case of 2026 on May 7 in Kirkuk province, “the cumulative situation has reached a total of 145 laboratory-confirmed cases with 9 deaths distributed among the provinces.” CCHF, endemic in I",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "032e562b5bc74f3a",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861613",
+    "title": "کۆنسووڵی رووسیا لە هەولێر: هەڵکەوت عەزیز هێمای نیشتمانپەروەری و چاودێرێکی بێلایەن بوو",
+    "title_en": "کۆنسووڵی رووسیا لە هەولێر: هەڵکەوت عەزیز هێمای نیشتمانپەروەری و چاودێرێکی بێلایەن بوو",
+    "summary": "ماکسیم رووبین، کۆنسووڵی گشتیی رووسیای فیدراڵ لە هەولێر، پەیامێکی سەرەخۆشی ئاراستەی تۆڕی میدیایی رووداو و بنەماڵەی هەڵکەوت عەزیز دەکات و رایدەگەیێنێت، \"هەڵکەوت عەزیز هێمای نیشتمانپەروەری و نموونەی چاودێرێکی دڵسۆز و بێلایەن بوو.\" لە پەیامەکەدا کە ئاراستەی بنەماڵە و کەسوکاری هەڵکەوت عەزیز و تۆڕی میدیایی رووداو کراوە، کۆنسووڵی گشتیی رووسیا دەڵێت: \"کۆنسووڵخانەی گشتیی رووسیای فیدراڵ لە هەولێر پرسە و سەرەخۆشیی خۆی ئاراستەی کەناڵی رووداو و بنەماڵە و کەسوکاری هەڵکەوت عەزیز، پەیامنێر و بەرپرسی نووسینگەی ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b1f438093e55cadb",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861610",
+    "title": "بنەماڵەی فەرهاد حەمۆ: کۆچی دوایی هەڵکەوت عەزیز بۆ سەرجەم میدیاکاران ئازاربەخشە",
+    "title_en": "بنەماڵەی فەرهاد حەمۆ: کۆچی دوایی هەڵکەوت عەزیز بۆ سەرجەم میدیاکاران ئازاربەخشە",
+    "summary": " رووداو دیجیتاڵ بنەماڵەی رۆژنامەنووسی بێسەروشوێنکراوی تۆڕی میدیایی رووداو، فەرهاد حەمۆ، پەیامێکی هاوخەمی بۆ کۆچیدوایی هەڵکەوت عەزیز، بەڕێوەبەری نووسینگەی رووداو لە بەغدا بڵاودەکەنەوە و رایدەگەیێنن، \"ئەو هاوکار و هاوپیشەی ڕێگەی وشەی ئازاد بوو.\" لە پەیامەکەدا کە لە شاری قامشلۆوە ئاراستەی تۆڕی میدیایی رووداو کراوە، هاتووە: \"بە خەم و پەژارەیەکی قووڵەوە، بنەماڵەی رۆژنامەنووسی بێسەروشوێن فەرهاد حەمۆ، هەواڵی کۆچی دوایی رۆژنامەنووسی ئازیز و هاوپیشەی ڕێگەی وشەی ئازادیان پێگەیشت، کە بەهۆی رووداوێکی هاتووچ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4c74e9a1daa83327",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1861603",
+    "title": "لە سلێمانی کچە میدیاکارێک بە رووداوی هاتووچۆ گیانی لەدەستدا",
+    "title_en": "لە سلێمانی کچە میدیاکارێک بە رووداوی هاتووچۆ گیانی لەدەستدا",
+    "summary": "رووداو دیجیتاڵ بەرەبەیانیی ئەمڕۆ لاناز، کە کچی کوردۆی شاعیر و لە هەمانکاتدا میدیاکار بوو، بەهۆی رووداوی هاتووچۆ لە سلێمانی گیانی لەدەستدا. رۆژی سێشەممە، 9ی حوزەیرانی 2026، بەهمەن عەبدوڵڵا، بەڕێوەبەری راگەیاندنی بەڕێوەبەرایەتیی هاتووچۆی سلێمانی بە تۆڕی میدیایی رووداوی راگەیاند، بەرەبەیانیی ئەمڕۆ ئۆتۆمبێلێک لە ژێر پردی نزیک لە نەخۆشخانەی شار تووشی رووداوێکی هاتووچۆ بوو و بەهۆیەوە شۆفێرەکە گیانی لەدەستدا. لە ژێر پردەکەدا ئۆتۆمبێلەکە لە کۆنتڕۆڵ دەرچووە و شۆفێرەکە نەیتوانیوە کۆنترۆڵی بکات، بەهۆیەوە خ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f7a3d947e32dd678",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861615",
+    "title": "سەرۆک بارزانی لە ساڵیادی بۆردوومانی زێوە: ئامانجی رژێم شکاندنی ئیرادەی کورد بوو، بەڵام شکستی هێنا",
+    "title_en": "سەرۆک بارزانی لە ساڵیادی بۆردوومانی زێوە: ئامانجی رژێم شکاندنی ئیرادەی کورد بوو، بەڵام شکستی هێنا",
+    "summary": "رووداو دیجیتاڵ سەرۆک مەسعود بارزانی، لە 41ـەمین ساڵیادی بۆردوومانکردنی ئۆردوگای زێوە لەلایەن رژێمی پێشووی عێراقەوە، رایگەیاند، \"ئەو کارەساتە لاپەڕەیەکی دیکەی کارنامەی رەشی رژێم بوو، بەڵام نەک هەر ئیرادەی کوردی نەشکاند، بەڵکو مکوڕتری کردن لەسەر خەبات.\" لە رۆژێکی وەکو ئەمڕۆدا و لە 9ـی حوزەیرانی 1985 فڕۆکەکانی رژێمی پێشووی عێراق ئۆردوگای پەنابەرانی زێوەیان لە رۆژهەڵاتی کوردستان بۆردوومان کرد. رۆژی یەکشەممە، 9ـی حوزەیرانی 2026، سەرۆک مەسعود بارزانی لە پەیامێکدا بەبۆنەی ساڵیادی کارەساتی زێوە ئاماژەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "070c22627def138e",
+    "url": "https://www.rudaw.net/sorani/categories/health/1861591",
+    "title": "وەزیری تەندروستی: هەڵکەوت عەزیز پەیامنێرێکی دڵگیر، چالاک و زیرەک بوو، ورد بوو لە بەدواداچوونەکانی",
+    "title_en": "وەزیری تەندروستی: هەڵکەوت عەزیز پەیامنێرێکی دڵگیر، چالاک و زیرەک بوو، ورد بوو لە بەدواداچوونەکانی",
+    "summary": "رووداو - تەندروستی د. سامان بەرزنجی، وەزیری تەندروستیی هەرێمی کوردستان بە بەڕێوەبەر و کارمەندانی تۆڕی میدیایی رووداو دەڵێ، هەڵکەوت عەزیز پەیامنێرێکی دڵگیر، چالاک و زیرەک بوو، بە وردی بەدواداچوونی بۆ بابەتەکانی دەکرد. د. سامان بەرزنجی دەڵێت: بەداخەوە گیانی سپارد و بە دڵگرانییەکی زۆرەوە پرسە و سەرەخۆشیی خۆم و وەزارەتی تەندروستی لە کەسوکار، خانەوادەی خوالێخۆشبوو و بەڕێوەبەر و ستافی تۆڕی میدیایی رووداو و تەواوی دۆست و هاوکارانی دەکەم. دوا نیوەڕۆی رۆژی دووشەممە، 8-6-2026 هەڵکەوت عەزیز، پەیامنێر و بەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8768e1fbd33e6b94",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1861612",
+    "title": "ریال مەدرید هەنگاوێکی گەورە بەرەو گرێبەستە گەورەکە دەنێت",
+    "title_en": "ریال مەدرید هەنگاوێکی گەورە بەرەو گرێبەستە گەورەکە دەنێت",
+    "summary": "رووداو دیجیتاڵ فلۆرێنتینۆ پێرێز، سەرۆکی یانەی ریال مەدرید، هەنگاوێکی گەورەی بڕیوە بۆ ئەنجامدانی گرێبەستێکی گەورەکە بۆ بەرژەوەندی یانە شاهانلە ماوەی ئەم هاوینەدا. بڕیارە پێرێز لە پۆستەکەی وەک سەرۆکی ریال مەدرید بەردەوام بێت دوای سەرکەوتنی لە هەڵبژاردنی سەرۆکایەتی، کە یەکشەممەی رابردوو بەڕێوەچوو، و سەرکەوت بەسەر ئینریکێ ریکێلمی رکابەری. پێرێزی تەمەن 79 ساڵ، بەڵێنی ئەنجامدانی گرێبەستی گەورەی دابوو لەژێر سەرپەرشتی راهێنەری داهاتووی تیپەکە جوزێ مۆرینیۆی تەمەن 63 ساڵ. بەڵێنەکانی پێرێز پێشکەشکردنی گرێب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a6624c98f2057ec",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301978",
+    "title": "Arif Qurbanî: Helkewt, te bi qasî hemû kenên xwe rondik bi me dan rijandin",
+    "title_en": "Arif Qurbanî: Helkewt, te bi qasî hemû kenên xwe rondik bi me dan rijandin",
+    "summary": "Hewlêr (Rûdaw) - Arif Qurbanî bi gotinên, “Te tola bişirînbexşîna wan hemû salan ji me hilda, tu dizanî te çi azar xist dil û derûniya me, tu dizanî te bi qasî hemû kenên xwe rondik bi me dan rijandin” xatirê xwe ji Helkewt Ezîz xwest. Berpirsê Ofîsa Rûdawê ya Bexdayê Helkewt Ezîz doh li ser Bexda û Besreyê di encama qezayeke trafîkê de koça dawî kiribû. Nivîskar û rewşenbîrê Arif Qurbanî hestên xwe yên ji bo Helkewt Ezîz wiha anîn zimên: “Tu çûyî û te ji me re negot di vê dem û dewrana tal de, ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6be6d12992575d9c",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301977",
+    "title": "Malbata Ferhad Hemo: Helkewt Ezîz hevkarê peyva azad bû",
+    "title_en": "Malbata Ferhad Hemo: Helkewt Ezîz hevkarê peyva azad bû",
+    "summary": "Hewlêr (Rûdaw) - Malbata rojnamegerê Tora Medyayî ya Rûdawê yê winda Ferhad Hemo, ji bo koça dawî ya Birêvebirê Ofîsa Rûdawê yê Bexdayê Helkewt Ezîz peyameke sersaxiyê belav kir. Malbatê di daxuyaniya xwe de got, \"Ew hevkar û hevkarê rêya peyva azad bû.\" Di peyama ku ji bajarê Qamişloyê ji Tora Medyayî ya Rûdawê re hatiye şandin de wiha hat gotin: \"Malbata rojnamegerê winda Ferhad Hemo bi xem û kovaneke kûr nûçeya koça dawî ya rojnamegerê ezîz û hevpîşeyê rêya peyva azad bihîst. Wî di qezayeke t",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "04701ea000ca9c76",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301973",
+    "title": "PWK: Em sersaxiyê ji rojnameger û xebatkarên medyaya Kurdistanê re dixwazin",
+    "title_en": "PWK: Em sersaxiyê ji rojnameger û xebatkarên medyaya Kurdistanê re dixwazin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Giştî yê Partîya Welatparêzên Kurdistanê (PWK) Mustafa Ozçelîk li ser navê partiya xwe sersaxî ji Rûdawê û malbata Helkewt Ezîz re xwest. Berpirsê Ofîsa Rûdawê ya Bexdayê Helkewt Ezîz doh li ser Bexda û Besreyê di encama qezayeke trafîkê de koça dawî kiribû. Serokê Giştî yê Partîya Welatparêzên Kurdistanê (PWK) Mustafa Ozçelîk xemgîniya xwe anî zimên û got: “Em bi wefata Helkewt Ezîz gelekî xemgîn in, em xwe hevparê xema we dibînin.” Peyama Serokê Giştî yê Partîya Welatpa",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a5d5c431b628dadb",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301972",
+    "title": "1600 malbatên koçber vê hefteyê vedigerin Efrînê",
+    "title_en": "1600 malbatên koçber vê hefteyê vedigerin Efrînê",
+    "summary": "Hewlêr (Rûdaw) - Parêzgariya Hisîçayê (Hesekê) ragihand ku ew ji bo vegera 1600 malbatên koçber amadehiyan dikin û da zanîn ku ew malbat dê vê hefteyê vegerin malên xwe. Li gorî daxuyaniya Parêzgariya Hisîçayê, Parêzgar Nûredîn Ehmed di çarçoveya şopandina pêkanîna peymana 29ê Kanûna Paşîn a 2026an de, bi şandeyeke serokatiya Sûriyeyê ya pêwendîdar re civiyaye. Di hevdîtinê de prosedur û gavên pêwîst ên ji bo ku koçberên Efrînî bi awayekî ewle û bi rûmet vegerin malên xwe hatine gotûbêjkirin. Li",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5df5e5f9686c31e3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301979",
+    "title": "Parêzgarê Hisîçayê: Keda Helkewt Ezîz a ji bo gihandina rastiyan nayê jibîrkirin",
+    "title_en": "Parêzgarê Hisîçayê: Keda Helkewt Ezîz a ji bo gihandina rastiyan nayê jibîrkirin",
+    "summary": "Hewlêr (Rûdaw) - Parêzgarê Hisîçayê Nûredîn Ehmed ji bo koça dawî ya Birêvebirê Ofîsa Rûdawê yê Bexdayê Helkewt Ezîz peyameke sersaxiyê belav kir. Birêvebirê Ofîsa Rûdawê yê Bexdayê Helkewt Ezîz doh li ser rêya di navbera Bexda û Besreyê de di qezayeke trafîkê ya diltezîn de canê xwe ji dest da. Parêzgarê Hisîçayê (Hesekê) Nûredîn Ehmed di peyama xwe de hevxemiya xwe bi Tora Medyayî ya Rûdawê re parve kir. Nûredîn Ehmed destnîşan kir ku Helkewt Ezîz bi hewldanên xwe xizmeta rojnamegeriya Kurdî k",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2f30e294f8fab8dc",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301976",
+    "title": "Berdevkê Tevgera Vejînê ya Kurdistanê hat desteserkirin",
+    "title_en": "Berdevkê Tevgera Vejînê ya Kurdistanê hat desteserkirin",
+    "summary": "Hewlêr (Rûdaw) - Berdevkê Tevgera Vejînê ya Kurdistanê Ferîd Azad li ser hesabê xwe yê Xê ragihand ku hêzên ewlehiyê yên Tirkiyeyê wî desteser dikin. Ferîd Azad 25ê Gulanê vîdeoyeke ku li gel leşkerekî Tirk nîqaşe dike belav kir û tê de ragihand ku “li welatê xwe bi Tirkî naaxive û leşkeriya neçarî ji Tirkan re nake.” Her wiha roja 7ê Hezîranê jî li kafeyekê vîdeoyek belav kir û ragihand: “Daxwaza wan a mûzîka Kurdî ji aliyê xebatkarên kafeyê ve hatiye redkirin û wan gotiye ku li gor şêwazê perg",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a9ae18202d881b2e",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301975",
+    "title": "MÊRDÎN - Hawara xelkê Mehsertê: Em 5 sal in di nav vê bêhna genî de ne",
+    "title_en": "MÊRDÎN - Hawara xelkê Mehsertê: Em 5 sal in di nav vê bêhna genî de ne",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Mehsertê ya Mêrdîna Bakurê Kurdistanê, ava kanalîzasyonê heta ber deriyê Qonaxa Hikûmetê diherike. Vê rewşê xelkê navçeyê bêzar kiriye. Şêniyên navçeyê ev 5 sal in di nav vê bêhna genî û qirêjiyê de hatine hiştin. Xelkê navçeyê bangî Şaredariya Bajarê Mezin a ku di destê qeyûm de ye dike. Ew dixwazin êdî ev pirsgirêk çareser bibe. Li Taxa Cumhuriyetê ava pîs heta ber Qonaxa Hikûmetê diherike. Vê yekê jiyan li şêniyan heram kiriye. Bêhna genî û dîmenê qirêj sîmaya navç",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d8a5157c2dab4aa",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1301974",
+    "title": "Li Amedê zarokekî 10 salî di Çemê Dîcleyê de xeniqî",
+    "title_en": "Li Amedê zarokekî 10 salî di Çemê Dîcleyê de xeniqî",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Amedê ya Bakurê Kurdistanê zarokekî 10 salî ji bo avjeniyê ket Çemê Dîcleyê lê li ber avê çû û xeniqî. Muhammet Umut Kizilkayayê 10 salî û 2 hevalên xwe doh li gundê Herbecînê yê Amedê ji bo avjeniyê ketin Çemê Dîcleyê. Piştî ku demekê avjenî kirin Muhammet Umut Kizilkaya li ber avê çû û hevalên wî xizmên xwe yên li gund û Navenda Banga Lezgîn-112 agahdar kirin. Muhammet Umut ji aliyê xelkê ve ji çem hat derxistin lê canê xwe ji dest dabû. Termê Muhammet Umut ji bo ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
