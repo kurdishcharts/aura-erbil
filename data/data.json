@@ -48340,6 +48340,24 @@
     }
   },
   {
+    "id": "d1b7cbfeb37c6c41",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861654",
+    "title": "ئەمریکا هێرشی کردەسەر ئێران و سوپای پاسدارانیش دەڵێت، بە درۆن و مووشەک وەڵاممان دایەوە",
+    "title_en": "ئەمریکا هێرشی کردەسەر ئێران و سوپای پاسدارانیش دەڵێت، بە درۆن و مووشەک وەڵاممان دایەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
