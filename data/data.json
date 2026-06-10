@@ -50050,6 +50050,420 @@
     }
   },
   {
+    "id": "c3839d7185f4bb60",
+    "url": "https://www.rudaw.net/english/categories/world/1077891",
+    "title": "Trump says US to strike Iran again ‘today,’ accuses Tehran of stalling deal",
+    "title_en": "Trump says US to strike Iran again ‘today,’ accuses Tehran of stalling deal",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump said Wednesday that American forces would strike Iran again “today,” accusing Tehran of downing a US army Apache helicopter over the Strait of Hormuz and delaying an end-war deal with Washington that would bar it from “ever” obtaining a nuclear weapon. Trump’s remarks came hours after the US and Iran exchanged missile strikes against dozens of targets on Wednesday morning. “We hit them hard yesterday and we’re going to hit them again hard today",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6604db3463a33870",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1077890",
+    "title": "One casualty, two missing after oil tanker blaze off Oman coast",
+    "title_en": "One casualty, two missing after oil tanker blaze off Oman coast",
+    "summary": "ERBIL, Kurdistan Region - At least one person has fallen “casualty” and two others went missing after an oil tanker caught fire off the coast of Oman, the British navy monitor reported on Wednesday. This as the US Central Command (CENTCOM) later in the day reported that its forces disabled an Iran-bound vessel as it transited the same waters. The United Kingdom Maritime Trade Operations (UKMTO) said that an “incident” occurred about 20 nautical miles (NM) northeast of the northern Omani port cit",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b85c5e37748d42f",
+    "url": "https://www.rudaw.net/english/categories/world/1077889",
+    "title": "IAEA board presses Iran over unverified uranium, demands monitoring access",
+    "title_en": "IAEA board presses Iran over unverified uranium, demands monitoring access",
+    "summary": "ERBIL, Kurdistan Region - The United Nations nuclear watchdog’s 35-member Board of Governors on Wednesday adopted a resolution requiring Iran to provide immediate, verifiable declarations of its remaining enriched uranium stockpiles. The resolution, backed by the United States and the E3 nations - Britain, France, and Germany - states that the International Atomic Energy Agency (IAEA) Board “deeply regrets Iran’s continued failure to remedy its non-compliance over the past 12 months.” It formall",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c8475ebcbc8b9a70",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861720",
+    "title": "ترەمپ: ئەمڕۆ بە تووندی لە ئێران دەدەینەوە",
+    "title_en": "ترەمپ: ئەمڕۆ بە تووندی لە ئێران دەدەینەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا هەڕەشەی هێرشکردنەوە سەر ئێرانی کرد و تیمی دانوستاندنکاری ئێرانی تۆمەتبار کرد بەوەی \"یاری بە ئەمریکا دەکەن\" و پابەندی رێککەوتنەکان نین. رۆژی چوارشەممە، 10ـی حوزەیرانی 2026، دۆناڵد ترەمپ لە کۆشكی سپی بە رۆژنامەڤانانی گوت، \"دوێنێ بە تووندی لێمان دان، ئەمڕۆش جارێکی دیکە بە تووندی لێیان دەدەینەوە. ئێمە هێرش دەکەینە سەریان، هێرشی زۆر قورس.\" ئەم لێدوانە تووندانەی ترەمپ دوای ئەوە دێن کە گرژییەکانی نێوان واشنتن و تاران گەیشتنە ئاستێکی نوێ، بەتایبەتی دوای خستنەخ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f534a2f87c193469",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861718",
+    "title": "لێدوانی گوتەبێژی حکومەتی عێراق لەبارەی مووچە و نەوتی هەرێمی کوردستان",
+    "title_en": "لێدوانی گوتەبێژی حکومەتی عێراق لەبارەی مووچە و نەوتی هەرێمی کوردستان",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی حکومەتی عێراق رایگەیاند، بەگوێرەی دەستوور مامەڵە لەگەڵ پرسی مووچە و رادەستکردنی داهاتی ناونەوتیی هەرێمی کوردستان دەکەن و رێکار و هەماهەنگییەکان لەگەڵ هەولێر لەبارەی مووچەوە رێکدەخەن. راشیگەیاند \"حکومەتی فیدراڵی بەرپرسیارێتیی تەواوی هەیە بۆ رێکخستن و بەڕێوەبردنی ئەو دۆسیەیە و دابینکردنی پێویستییەکانی بۆ ئەم قۆناخە.\" رۆژی چوارشەممە، 10ی حوزەیرانی 2026، حەیدەر عەبوودی، دوای دەستنیشانکردنی وەکو گوتەبێژی نوێی حکومەتی عێراق، یەکەم کۆنفرانسی رۆژنامەڤانی لە بەغدا کرد. لەبارەی راد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e66850d72f6845f",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861711",
+    "title": "مەسرور بارزانی بۆ رووداو: داواکردنی 120 ملیارەکە داوایەکی یاسایی نییە",
+    "title_en": "مەسرور بارزانی بۆ رووداو: داواکردنی 120 ملیارەکە داوایەکی یاسایی نییە",
+    "summary": "رووداو دیجیتاڵ سەرۆکی حکومەتی هەرێمی کوردستان رایگەیاند، دیاریکردنی 120 ملیار دینار وەک پشکی مانگانەی بەغدا لە داهاتی ناوخۆی هەرێمی کوردستان هیچ بنەمایەکی زانستی نەبووە؛ راشیگەیاند، داوا دەکەین نیوەی داهاتی هەرێمی کوردستان بدرێتە بەغدا. رۆژی چوارشەممە، 10-06-2026، مەسرور بارزانی، سەرۆکی حکومەت لە پەراوێزی رێوڕەسمی کردنەوەی ناوەندی گەنجان لە هەولێر، لە کۆنفرانسێکی رۆژنامەڤانیدا تیشکی خستە سەر هەندێک مژاری گرنگی وەک پەیوەندییەکانی نێوان بەغدا و هەولێر، داهاتی ناوخۆیی و پێکهێنانی کابینەی نوێی حکومە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5079b61b0b95755c",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861710",
+    "title": "فازڵ میرانی: بەشێک لە لایەنەکان وەڵامی دەستپێشخەرییەکەی سەرۆک بارزانییان داوەتەوە",
+    "title_en": "فازڵ میرانی: بەشێک لە لایەنەکان وەڵامی دەستپێشخەرییەکەی سەرۆک بارزانییان داوەتەوە",
+    "summary": "رووداو دیجیتاڵ بەرپرسی دەستەی کارگێڕیی مەکتەبی سیاسیی پارتی دەڵێت، بەشێک لە لایەنە سیاسییەکان بۆ وەڵانانی ناکۆکییەکانی نێوانیان، وەڵامی ''ئەرێنی''ـیان بۆ دەستپێشخەرییەکەی سەرۆک بارزانی هەبووە. دەشڵێت، وەلانانی بەرژەوەندییە حیزبییەکان، زیاتر لە 90%ـی کێشەکانی هەرێمی کوردستان چارەسەر دەکەن. رۆژی چوارشەممە، 10-06-2026، فازڵ میرانی، بەرپرسی دەستەی کارگێڕیی مەکتەبی سیاسیی پارتی دیموکراتی کوردستان لە پەراوێزی ساڵیادی کۆچی دوایی کەریم شنگالی، وەزیری پێشووتری ناوخۆی هەرێمی کوردستان و ئەندامی مەکتەبی سیا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "753009d3244c5e3b",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861721",
+    "title": "پزیشکیان وەڵامی ترەمپ دەداتەوە: هەڕەشە لە ژێرخان نیشانەی \"نائومێدییە\"",
+    "title_en": "پزیشکیان وەڵامی ترەمپ دەداتەوە: هەڕەشە لە ژێرخان نیشانەی \"نائومێدییە\"",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e793ea5b01994df",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861717",
+    "title": "بەئامادەبوونی سەرۆک بارزانی یەکەم رۆژی فێستیڤاڵی شاڵ و شەپک لە زاخۆ بەڕێوەدەچێت",
+    "title_en": "بەئامادەبوونی سەرۆک بارزانی یەکەم رۆژی فێستیڤاڵی شاڵ و شەپک لە زاخۆ بەڕێوەدەچێت",
+    "summary": "رۆژی 10حوزەیران فێستیڤاڵی نێودەوڵەتیی شاڵ و شەپک لە سنووری ئیدارەی سەربەخۆی زاخۆ لە پارێزگای دهۆک بە بەشداری هەزاران کەس دەستی پێکرد، هاونیشتیمانییان بە جل و بەرگی رەسەنی کوردییەوە بەشدارییان کرد. بڕیارە فێستیڤاڵەکە دوو رۆژ بەردەوام بێت. لە فێستیڤاڵەکەدا جلوبەرگی کوردی نمایش کرا. وهاوکات چەندین گرووپ و هونەرمەندێک لە هەر چوار پارچەی کوردستانەوە بە گۆرانی بەشداریان کرد. ئەمە چوارەم فێستیڤاڵی نێودەوڵەتیی شاڵ و شەپکە کە لە زاخۆ لە پردسی دەلال بەرێوەدەچێت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2234f0f4574a055d",
+    "url": "https://www.rudaw.net/sorani/categories/health/1861690",
+    "title": "نوێنەری نەخۆشخانە تایبەتەکان و وەزارەتی تەندروستی لەبارەی دامەزراندنی پزیشکانی خولاو کۆبوونەوە",
+    "title_en": "نوێنەری نەخۆشخانە تایبەتەکان و وەزارەتی تەندروستی لەبارەی دامەزراندنی پزیشکانی خولاو کۆبوونەوە",
+    "summary": "رووداو-تەندروستی نوێنەری نەخۆشخانە تایبەتەکان لە هەرسێ پارێزگەی هەرێمی کوردستان لەگەڵ وەزارەتی تەندروستی لەبارەی دامەزرادنی پزیشکانی خولاو لە نەخۆشخانە تایبەتەکان کۆبوونەوە. د. وڵات ئیبراهیم نوێنەری نەخۆشخانە تایبەتەکان لە هەرسێ پارێزگەی هەرێمی کوردستان رایگەیاند، تاوەکو ئێستا هیچ بڕیارێک لەبارەی شێوازی دامەزراندنی پزیشکانی خولاو لە نەخۆشخانە تایبەتەکان نەدراوە و هەفتەی داهاتوو دووبارە لەگەڵ وەزارەتی تەندروستی کۆدەبنەوە. نوێنەری نەخۆشخانە تایبەتەکان لە هەرسێ پارێزگەی هەرێمی کوردستان گوتی، \"دوو ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "72adb31b0312c2ac",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1302028",
+    "title": "Mesrûr Barzanî li Hewlêrê navendeke ciwanan vekir",
+    "title_en": "Mesrûr Barzanî li Hewlêrê navendeke ciwanan vekir",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Herêma Kurdistanê eşkere kir, diyarkirina 120 milyar dînaran wekî pişka mehane ya Bexdayê ya ji dahata navxwe ya Herêma Kurdistanê ne li ser bingeheke zanistî ye. Serokwezîr Mesrûr Barzanî di merasîma vekirina Youth Hubê (Navenda Ciwanan) a li Hewlêrê di konferanseke rojnamegeriyê de li ser mijarên girîng ên wekî pêwendiyên Hewlêr û Bexdayê, dahata navxwe û pêkanîna kabîneya nû ya hikûmetê axivî. Mesrûr Barzanî li ser vekirina navendê peyamek da ciwanan û anî ziman: ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ee4c4a4c73e76b7e",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302026",
+    "title": "Eslê wê çîroka ku Rahmî Koç got çi ye?",
+    "title_en": "Eslê wê çîroka ku Rahmî Koç got çi ye?",
+    "summary": "Hewlêr (Rûdaw) - Cihekî ku ne axa Kurdan e, çîrokeke ku qet navê Kurdan tê de derbas nabe diguherin û nêzîkbûna xwe ya li hemberî Kurdan derdixin holê û kesên li dora wan, tewr ên ku serozwezîrî jî kiriye dikenin û dibe hirehira wan. Karsaz û Serokê Rûmetê yê Koç Holdîngê Rahmî Koç 5ê Hezîranê li Îzmîrê di vekirina nexweşxaneyekê de bi çîrokekê heqaret li jinên Kurd kir. Ev gotinên wî di nava siyaset û raya giştî de rastî bertekên tund hatin. Heta bang hat kirin ku markayên di bin banê şirketên ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c7a972cdb2e1e31",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1302024",
+    "title": "Navê Helkewt Ezîz li cadeyeke Xurmatûyê tê kirin",
+    "title_en": "Navê Helkewt Ezîz li cadeyeke Xurmatûyê tê kirin",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Xurmatûyê ya parêzgeha Selahedînê, navê Helkewt Ezîz li cadeyekê tê kirin. Nûçegihan û Birêvebirê Ofîsa Rûdawê ya Bexdayê Helkewt Ezîz roja duşemê di qezayeke trafîkê de koça dawî kiribû. Şêwirmendê Parêzgarê Selahedînê yê Kar û Barên Herêma Kurdistanê û Navçeyan Kawa Şêxanî ji Tora Medyayî ya Rûdawê re axivî û da zanîn: \"Wekî wefayekê ji bo Helkewt Ezîz, min pêşniyareke fermî da parêzgar ku navê wî li cadeyeke Xurmatûyê were kirin û wî jî qebûl kir.\" Nûçegihanê Rûdaw",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "858f998ea45c394f",
+    "url": "https://www.rudaw.net/kurmanci/categories/stl/1302027",
+    "title": "Apple ji bo iPhoneke ku tê qatkirin amadehiyê dike",
+    "title_en": "Apple ji bo iPhoneke ku tê qatkirin amadehiyê dike",
+    "summary": "Hewlêr (Rûdaw) – Şirketa Appleyê ji bo ku yek ji mezintirîn guherînên iPhoneyê pêk bîne, amadehiyê dike. Tê îdiakirin ku modela iPhoneya tê qatkirin dê bi 2 hezar dolarên Amerîkî meha Îlonê bikeve bazarê. Pergala iOS 27ê hinek nîşaneyên xurt pêşkêş dike ku şirket li pişt perdeyê iPhoneke ku tê qatkirin çêdike. Li gorî nûçeya Bloomberg Newsê, biryar e amûra ku tê qatkirin meha Îlonê tevî rêze iPhone 18 Proyê were nasandin. Bi vê gavê, tê çaverêkirin ku Apple di bazara telefonên ku tê qatkirin de ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "642165b87418eadf",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1302026",
+    "title": "Eslê wê çîroka ku Rahmî Koç got çi ye?",
+    "title_en": "Eslê wê çîroka ku Rahmî Koç got çi ye?",
+    "summary": "Hewlêr (Rûdaw) - Cihekî ku ne axa Kurdan e, çîrokeke ku qet navê Kurdan tê de derbas nabe diguherin û nêzîkbûna xwe ya li hemberî Kurdan derdixin holê û kesên li dora wan, tewr ên ku serozwezîrî jî kiriye dikenin û dibe hirehira wan. Karsaz û Serokê Rûmetê yê Koç Holdîngê Rahmî Koç 5ê Hezîranê li Îzmîrê di vekirina nexweşxaneyekê de bi çîrokekê heqaret li jinên Kurd kir. Ev gotinên wî di nava siyaset û raya giştî de rastî bertekên tund hatin. Heta bang hat kirin ku markayên di bin banê şirketên ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3cda7cc9f3f20360",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1302025",
+    "title": "DEM Partiyê serkeftina Nîkol Paşînyan pîroz kir",
+    "title_en": "DEM Partiyê serkeftina Nîkol Paşînyan pîroz kir",
+    "summary": "Hewlêr (Rûdaw) - Hevserokên Giştî yên Partiya Gelan a Wekhevî û Demokrasiyê (DEM Partî) Tuncer Bakirhan û Tulay Hatîmogullariyê Nîkol Paşînyan pîroz kir. Nîkol Paşînyan di hilbijartinên Parlamentoya Ermenistanê yên 7ê Hezîranê de bi rêjeya ji sedî 49,87ê dengan bi ser ket û careke din wekî Serokwezîrê Ermenistanê hat hilbijartin. Di daxuyaniya DEM Partiyê de hat diyarkirin ku hilbijartinên li Ermenistanê bi awayekî demokratîk bi rê ve çûne û ev peyam hat dayîn: \"Birêz Serokwezîrê Ermenistanê Nîk",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fe8ee4032d55f487",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1302023",
+    "title": "Li Moskowê êriş: Fermandarekî payebilind hat kuştin",
+    "title_en": "Li Moskowê êriş: Fermandarekî payebilind hat kuştin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Birêvebiriya Sereke ya Mûşek û Topavêjan a Wezareta Parastinê ya Rûsyayê (GRAU) Damir Davidov, di encama êrişeke bombeyî de canê xwe ji dest daye. Êriş li nêzîkî Moskowê li otomobîla Davidov pêk hat. Sibeha 9ê Hezîrana 2026an, derdora saet 05:30î li herêma Balaşîhayê ya li derveyî Moskowê teqîneke bihêz rû da. Hat diyarkirin ku li taxa Aviatorovê dema otomobîleke cureya BMW X3 ji cihê parkkirinê derdiket teqiyaye. Tevî midaxeleya xelkê derdorê jî ajokar li cihê bûyerê can",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e104254587e93876",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1302022",
+    "title": "Li Stenbolê bi çekan êrişî Yapi Krediyê hat kirin",
+    "title_en": "Li Stenbolê bi çekan êrişî Yapi Krediyê hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Esenyurtê ya Stenbolê bi şev bi çekan êrişî şaxeke Banka Yapi Krediyê hat kirin. Bi şev kes an jî kesên nasnameya wan nediyar bi motorsîkletekê çûn ber şaxa bankê ya li Cadeya Dogan Arasliyê ya taxa Înonuyê û gule lê reşandin. Karmendên ku serê sibehê ji bo vekirina şaxê çûn, dema şopên guleyan dîtin polîs agahdar kir. Tîmên polîsan çûn cihê bûyerê, derdora şaxa bankê bi şerîta ewlehiyê girt, lêkolîn kir û delîl kom kirin. Xebatên polîsan ên ji bo girtina gumanbar an ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "052da1f1570ef38d",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1302027",
+    "title": "Apple ji bo iPhoneke ku tê qatkirin amadehiyê dike",
+    "title_en": "Apple ji bo iPhoneke ku tê qatkirin amadehiyê dike",
+    "summary": "Hewlêr (Rûdaw) – Şirketa Appleyê ji bo ku yek ji mezintirîn guherînên iPhoneyê pêk bîne, amadehiyê dike. Tê îdiakirin ku modela iPhoneya tê qatkirin dê bi 2 hezar dolarên Amerîkî meha Îlonê bikeve bazarê. Pergala iOS 27ê hinek nîşaneyên xurt pêşkêş dike ku şirket li pişt perdeyê iPhoneke ku tê qatkirin çêdike. Li gorî nûçeya Bloomberg Newsê, biryar e amûra ku tê qatkirin meha Îlonê tevî rêze iPhone 18 Proyê were nasandin. Bi vê gavê, tê çaverêkirin ku Apple di bazara telefonên ku tê qatkirin de ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93329838010d1ed9",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302025",
+    "title": "DEM Partiyê serkeftina Nîkol Paşînyan pîroz kir",
+    "title_en": "DEM Partiyê serkeftina Nîkol Paşînyan pîroz kir",
+    "summary": "Hewlêr (Rûdaw) - Hevserokên Giştî yên Partiya Gelan a Wekhevî û Demokrasiyê (DEM Partî) Tuncer Bakirhan û Tulay Hatîmogullariyê Nîkol Paşînyan pîroz kir. Nîkol Paşînyan di hilbijartinên Parlamentoya Ermenistanê yên 7ê Hezîranê de bi rêjeya ji sedî 49,87ê dengan bi ser ket û careke din wekî Serokwezîrê Ermenistanê hat hilbijartin. Di daxuyaniya DEM Partiyê de hat diyarkirin ku hilbijartinên li Ermenistanê bi awayekî demokratîk bi rê ve çûne û ev peyam hat dayîn: \"Birêz Serokwezîrê Ermenistanê Nîk",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cf5cd4fb31f92e7a",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302023",
+    "title": "Li Moskowê êriş: Fermandarekî payebilind hat kuştin",
+    "title_en": "Li Moskowê êriş: Fermandarekî payebilind hat kuştin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Birêvebiriya Sereke ya Mûşek û Topavêjan a Wezareta Parastinê ya Rûsyayê (GRAU) Damir Davidov, di encama êrişeke bombeyî de canê xwe ji dest daye. Êriş li nêzîkî Moskowê li otomobîla Davidov pêk hat. Sibeha 9ê Hezîrana 2026an, derdora saet 05:30î li herêma Balaşîhayê ya li derveyî Moskowê teqîneke bihêz rû da. Hat diyarkirin ku li taxa Aviatorovê dema otomobîleke cureya BMW X3 ji cihê parkkirinê derdiket teqiyaye. Tevî midaxeleya xelkê derdorê jî ajokar li cihê bûyerê can",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d390e60368d61821",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302022",
+    "title": "Li Stenbolê bi çekan êrişî Yapi Krediyê hat kirin",
+    "title_en": "Li Stenbolê bi çekan êrişî Yapi Krediyê hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Esenyurtê ya Stenbolê bi şev bi çekan êrişî şaxeke Banka Yapi Krediyê hat kirin. Bi şev kes an jî kesên nasnameya wan nediyar bi motorsîkletekê çûn ber şaxa bankê ya li Cadeya Dogan Arasliyê ya taxa Înonuyê û gule lê reşandin. Karmendên ku serê sibehê ji bo vekirina şaxê çûn, dema şopên guleyan dîtin polîs agahdar kir. Tîmên polîsan çûn cihê bûyerê, derdora şaxa bankê bi şerîta ewlehiyê girt, lêkolîn kir û delîl kom kirin. Xebatên polîsan ên ji bo girtina gumanbar an ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3aeed04bbb871931",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302029",
+    "title": "Trump: Em dê îro bi tundî li Îranê bidin",
+    "title_en": "Trump: Em dê îro bi tundî li Îranê bidin",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump gefa êrişa li Îranê xwar û tîma dan û standinan a Îranê tohmetbar kir ku ew \"bi Amerîkayê re dilîzin\" û ne pêbendî peymanan in. Serokê Amerîkayê Donald Trump li Koşka Spî ji rojnamegeran re axivî û got, \"Doh wan bi tundî li me xist, îro jî em dê careke din bi tundî li wan bidin. Em dê êrişî wan bikin, êrişên gelekî giran.\" Ev daxuyaniyên tund ên Trump di demekê de ne ku aloziyên di navbera Washington û Tehranê de gihîştine asteke nû. Bi taybetî piştî ku Îranê helîko",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
