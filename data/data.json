@@ -51454,6 +51454,708 @@
     }
   },
   {
+    "id": "7cc8440a23008331",
+    "url": "https://www.rudaw.net/english/categories/iran/1077900",
+    "title": "Kurdish man killed by Iranian border guards: Rights agency",
+    "title_en": "Kurdish man killed by Iranian border guards: Rights agency",
+    "summary": "ERBIL, Kurdistan Region – A Kurdish man was killed early Thursday after being struck by direct gunfire from government border forces in Baneh, Iran's Kurdistan province, according to the Kurdistan Press Agency (Kurdpa). The incident took place in the early hours of Thursday, when a Kurdish citizen, identified as Matlab Kheybari, father of two, was killed after being shot by government border forces in the Choman area of Baneh, Kurdpa reported, citing a local informed source. It also added that t",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c47094a1f26b72b5",
+    "url": "https://www.rudaw.net/english/categories/iran/1077898",
+    "title": "US Treasury sanctions networks supporting Iran’s military under ‘Economic Fury’ campaign",
+    "title_en": "US Treasury sanctions networks supporting Iran’s military under ‘Economic Fury’ campaign",
+    "summary": "ERBIL, Kurdistan Region - The United States on Wednesday announced new sanctions targeting foreign networks accused of supporting Iran’s military and weapons procurement programs, as part of its ongoing “Economic Fury” campaign aimed at intensifying financial pressure on Tehran. The US Treasury Department’s Office of Foreign Assets Control (OFAC) announced that it had “sanctioned nine individuals and entities that have supported weapons procurement on behalf of Iran’s Islamic Revolutionary Guard",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e50b14b3cc31cf20",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1077897",
+    "title": "US, Iran launch new attacks, trade claims over damaged military sites",
+    "title_en": "US, Iran launch new attacks, trade claims over damaged military sites",
+    "summary": "ERBIL, Kurdistan Region - The United States and Iran traded fresh military strikes on Thursday, with Washington saying it targeted Iranian military infrastructure while Tehran claimed it had destroyed facilities and fighter jets at a US air base in Jordan. In a statement, the US Central Command (CENTCOM) said its forces had \"completed additional self-defense strikes against multiple targets in Iran,\" adding that the operation targeted \"Iranian military surveillance capabilities, communication sy",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd119963c569202b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861773",
+    "title": "کچی پێشەوا قازی محەممەد بۆ مەرگی هەڵکەوت: خۆم بە هاوبەشی ئەم خەمە دڵهەژێنە دەزانم",
+    "title_en": "کچی پێشەوا قازی محەممەد بۆ مەرگی هەڵکەوت: خۆم بە هاوبەشی ئەم خەمە دڵهەژێنە دەزانم",
+    "summary": "رووداو دیجیتاڵ منیرە قازی، کچی پێشەوا قازی محەممەد سەرەخۆشی لە کەسوکار، هاوڕێ و هاوکارانی هەڵکەوت عەزیز دەکات و دەڵێت، \"خۆم بە هاوبەشی ئەم خەمە دڵهەژێنە دەزانم\". منیرە قازی پەیامێکی هاوخەمی ئاراستەی تۆڕی میدیایی رووداو کردووە و دڵتەنگیی خۆی بە لەدەستدانی هەڵکەوت عەزیز دەردەبڕێت. لە پەیامەکەیدا، کچەکەی پێشەوا قازی محەممەد دەڵێت، \"سەرەخۆشیی خۆم ئاراستەی بنەماڵەی رێزدار و نیشتمان پەروەر و هەموو میدیای کودستان و گەلی خۆشەویستی کوردستان دەکەم و خۆم بە هاوبەشی ئەو خەمە دڵهەژێنە دەزانم\". دوانیوەڕۆی رۆژ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a0b6135c40158277",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861765",
+    "title": "ئێران: بە 12 مووشەک هێرشمان کردە سەر ئوردن",
+    "title_en": "ئێران: بە 12 مووشەک هێرشمان کردە سەر ئوردن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fea695bab5273837",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1861782",
+    "title": "کۆمپانیای بی وای دی لە تورکیا دەکشێتەوە و تورکیاش هەڕەشەی سزادانی دەکات",
+    "title_en": "کۆمپانیای بی وای دی لە تورکیا دەکشێتەوە و تورکیاش هەڕەشەی سزادانی دەکات",
+    "summary": "رووداو دیجیتاڵ کۆمپانیای (بی وای دی)ی چینی کە یەکێکە لە کۆمپانیاکانی بەرهەمهێنانی ئۆتۆمبێلی کارەبایی لە جیهاندا، پڕۆژەی دروستکردنی کارگەکەی لە شاری مانیسای تورکیا راگرت، کە بڕیار بوو بە بەهای 1 ملیار دۆلار دابمەزرێنرێت. کۆمپانیاکە ئاشکرای کرد کە لەم قۆناخەدا لەپێشینەی کارەکانیان بۆ وەبەرهێنان هەنگاریایە و هیچ خشتەیەکی کاتیی دیاریکراو بۆ دەستپێکردنی بەرهەمهێنان لە تورکیادا نییە. ستێلا لی، جێگری سەرۆکی کۆمپانیای بی وای دی رایگەیاند: \"وەک کۆمپانیا لەپێشینەی کارەکانمان پڕۆژەی وەبەرهێنانمانە لە بازاڕ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "34484591994d7b61",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861781",
+    "title": "کۆمپانیای سەردار بۆ کۆچی دوایی هەڵکەوت عەزیز: دڵتەنگی قووڵی خۆمتان ئاراستە دەکەم",
+    "title_en": "کۆمپانیای سەردار بۆ کۆچی دوایی هەڵکەوت عەزیز: دڵتەنگی قووڵی خۆمتان ئاراستە دەکەم",
+    "summary": "رووداو دیجیتاڵ گرووپی کۆمپانیاکانی سەردار لە عێراق \"دڵتەنگی قووڵی\" خۆی ئاراستەی بەڕێوەبەر و کارمەندانی تۆڕی میدیایی رووداو دەکات بەهۆی کۆچی دوایی هەڵکەوت عەزیزی هاوکارمان. هەڵکەوت عەزیز، پەیامنێری رووداو و بەڕێوەبەری نووسینگەکەمان لە بەغدا، رۆژی دووشەممە بە رووداوی هاتووچۆ گیانی لەدەستدا. سەردار بیبانی، سەرۆکی گرووپی کۆمپانیاکانی سەردار لە عێراق سەرەخۆشی لە تۆڕی میدیایی رووداو دەکات و دەڵێت، \"خوالێخۆشبوو دەنگێکی میدیایی پیشەیی بوو و بە پابەندبوون بە دڵسۆزی لە راپەڕاندنی پیشە میدیاییەکەی ناسرابوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f2b19f466ca88cd7",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861780",
+    "title": "کاسبکارێکی بانە لەلایەن هێزە ئەمنییەکانی ئێران کوژرا",
+    "title_en": "کاسبکارێکی بانە لەلایەن هێزە ئەمنییەکانی ئێران کوژرا",
+    "summary": "رووداو دیجیتاڵ کاسبکارێکی ناوچەیەکی سنووریی سەر بە شاری بانەی رۆژهەڵاتی کوردستان بە تەقەی هێزە ئەمنییەکانی ئێران کوژرا. بەپێی رێکخراوەکانی مافی مرۆڤی رۆژهەڵاتی کوردستان، بەرەبەیانی ئەمڕۆ پێنجشەممە، 11ی حوزەیرانی 2026، هێزە ئەمنییەکانی ئێران لە ناوچەیەکی سنووریی شاری بانەی سەر بە پارێزگای سنە تەقەیان لە کاسبکارێکی کورد بە ناوی موتەلیب خەیبەری کردووە و بەهۆیەوە کوژراوە. ئاژانسی هەواڵی کوردپا رایگەیاند: \"هێزەکانی ئێران لە سنووری چۆمان ئەو کەسەیان بەبێ هۆشداریی پێشوەخت و بە بیانووی گواستنەوەی کەلوپە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c0570ddea2167bd5",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861779",
+    "title": "سوپاسالاری عێراق سەردانی هەرێمی کوردستان دەکات",
+    "title_en": "سوپاسالاری عێراق سەردانی هەرێمی کوردستان دەکات",
+    "summary": "رووداو دیجیتاڵ بڕیارە هەفتەی داهاتوو فەریق روکن عەبدولئەمیر رەشید یارەڵڵا، سوپاسالاری عێراق بە سەرۆکایەتیی شاندێکی باڵای سەربازی و ئەمنی سەردانی هەرێمی کوردستان بکات؛ ئامانجی سەردانەکەش پرسی پاراستنی کێڵگە نەوتییەکان و بەهێزکردنی هاوئاهەنگیی ئەمنیی نێوان هەولێر و بەغدایە. سەرچاوەیەکی باڵا لە حکومەتی عێراق، رۆژی پێنجشەممە، 11-06-2026، بە تۆڕی میدیایی رووداوی راگەیاند: \"فەریق روکن عەبدولئەمیر رەشید یارەڵڵا، سوپاسالاری عێراق بە سەرۆکایەتی شاندێکی باڵای سەربازی و ئەمنی سەردانی هەرێمی کوردستان دەکات ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "028c293ea8e35afe",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861777",
+    "title": "بەرگریی شارستانیی هەڵەبجە: بە کامێرای تایبەت بەدوای تەرمی منداڵە 11 ساڵانەکەدا دەگەڕێین",
+    "title_en": "بەرگریی شارستانیی هەڵەبجە: بە کامێرای تایبەت بەدوای تەرمی منداڵە 11 ساڵانەکەدا دەگەڕێین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93e5c4b2c37555a8",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1861776",
+    "title": "پەرلەمانتارێکی ئیی پارتی چووە ریزەکانی ئاکپارتی",
+    "title_en": "پەرلەمانتارێکی ئیی پارتی چووە ریزەکانی ئاکپارتی",
+    "summary": "رووداو دیجیتاڵ پەرلەمانتارێکی فراکسیۆنی ئیی پارتی دوای دەستلەکارکێشانەوەی، پەیوەندیی بە ئاکپارتی کرد. رەجەب تەیب ئەردۆغان، ئەندامێتی پەسند کرد و پێشوازیی لێکرد. بەمەش ئیی پارتی تەنیا 29 پەرلەمانتاریان مایەوە. رۆژی چوارشەممە 10ـی حوزەیرانی 2026، ئەرسین بەیاز، ئەندامی دەستەی دامەزرێنەر و پەرلەمانتاری فراکسیۆنی ئیی پارتی لە بازنەی ئیستەنبووڵ، بە فەرمی پەیوەندیی بە فراکسیۆنی ئاکپارتی کرد. رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا و سەرۆکی ئاکپارتی لە کۆبوونەوەی هەفتانەی فراکسیۆنی پارتەکەیدا، ئەندامبوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1803ef059623afc2",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1861775",
+    "title": "هاڵک بانک: بە پەسندکردنی دادگەی ئەمریکا دۆسیەکە بەتەواوی کۆتایی دێت",
+    "title_en": "هاڵک بانک: بە پەسندکردنی دادگەی ئەمریکا دۆسیەکە بەتەواوی کۆتایی دێت",
+    "summary": "رووداو دیجیتاڵ هاڵک بانکی تورکی، رایگەیاند، ئەو دۆسیە سزاییەی نزیکەی نۆ ساڵە لە ئەمریکا لەبارەی پێشێلکردنی سزاکانی سەر ئێران بەردەوامە، چووەتە قۆناخی کۆتاییەوە. لە روونکردنەوەیەکدا کە لەبارەی بابەتەکەوە بۆ پلاتفۆرمی ئاشکراکردنی گشتی بڵاوکراوەتەوە، ئاماژە بەوە کراوە، راپۆرتی پابەندبوون کە لە چوارچێوەی \"رێککەوتنی دواخستنی دادگاییکردن\" لە نێوان داواکاری گشتیی ناوچەی باشووری نیویۆرکی سەر بە وەزارەتی دادی ئەمریکا و هاڵک بانکدا لە 11ـی ئاداری 2026 کەوتووەتە بواری جێبەجێکردنەوە، لە کاتی خۆیدا رادەستی د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a76ec789f69ea1b8",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861774",
+    "title": "مامۆستایانی کوردی لە باکووری کوردستان؛ لە بێکارییەوە بۆ ململانێ لە بازاڕی ئۆنلاین دا",
+    "title_en": "مامۆستایانی کوردی لە باکووری کوردستان؛ لە بێکارییەوە بۆ ململانێ لە بازاڕی ئۆنلاین دا",
+    "summary": "رووداو دیجیتاڵ دەرچووانی بەشی زمان و ئەدەبیاتی کوردی لە باکووری کوردستان و تورکیا، لەبەردەم قەیرانێکی قووڵی بێکاری دان. ئەوانەی لە کەرتی گشتی دانەمەزراون و روویان لە وانەگوتنەوەی ئۆنلاین کردووە، رووبەڕووی کەمیی خواست و هەرزانیی نرخی وانەکانیان دەبنەوە بەراورد بە وانە زانستییەکانی دیکە. بەگوێرەی بەدواداچوونێکی (رووداو)، نرخی یەک کاژێر وانەی تایبەتی زمانی کوردی لە نێوان 750 بۆ 1200 لیرەدایە، لە کاتێکدا وانەیەکی وەک بیرکاری کە تاقیکردنەوەی نیشتمانیی لەسەرە، نرخەکەی دەگاتە 3 هەزار لیرە. مامۆستایانی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cc185043c6efbf4f",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1861769",
+    "title": "نەسیر شەمە: هەڵکەوت عەزیز دەنگێکی راستگۆ بوو کە گوزارشتی لە ئومێد و خەونەکانی خەڵک دەکرد",
+    "title_en": "نەسیر شەمە: هەڵکەوت عەزیز دەنگێکی راستگۆ بوو کە گوزارشتی لە ئومێد و خەونەکانی خەڵک دەکرد",
+    "summary": "رووداو دیجیتاڵ د. نەسیر شەمە، هونەرمەندی یونسکۆ بۆ ئاشتی، هاوخەمی قووڵی خۆی بۆ کۆچی دوایی هەڵکەوت عەزیز، بەڕێوەبەری نووسینگەی تۆڕی میدیایی رووداو لە بەغدا دەربڕی و رایگەیاند، ئەو میدیاکارە \"دەنگێکی راستگۆ بوو کە گوزارشتی لە ئومێد و خەونەکانی خەڵک دەکرد\". نەسیر شەمە لە پەیامێکی سەرەخۆشیدا کە ئاراستەی بنەماڵەی کۆچکردوو و تۆڕی میدیایی رووداوی کردووە، ئاماژەی بەوە کردووە، کۆچی دوایی هەڵکەوت عەزیز خەم و پەژارەیەکی زۆری لای ئەوان دروستکردووە، بەتایبەت کە هەڵکەوت عەزیز \"دوای کاروانێکی میدیایی و مرۆیی ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6d83ea7660246125",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1861768",
+    "title": "نرخی دۆلار ئاستی 180 هەزار تمەنی تێپەڕاند",
+    "title_en": "نرخی دۆلار ئاستی 180 هەزار تمەنی تێپەڕاند",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ پێنجشەممە، نرخی دۆلار بەرامبەر بە تمەنی ئێرانی، بەراورد بە دوێنێ تاوەکو ئێستا بە جێگیری ماوەتەوە، ئەوەش دوای ئەوەی دوێنێ نرخەکەی بەرزبوونەوەی بەرچاوی بەخۆیەوە بینی. دوێنێ نرخی دۆلار 1,700 تمەن بەرزبووەوە و گەیشتە 179,000 تمەن. ئەمڕۆ پێنجشەممە، دوای هێرشەکانی بەرەبەیانی ئەمڕۆی ئەمریکا بۆ سەر ئێران، نرخی دۆلار بە جێگیری ماوەتەوە و یەک دۆلار لە دەوروبەری 179,000 تمەن مامەڵەی پێوەدەکرێت. بە ئەگەری زۆرەوە داخرانی بازاڕەکانی ئێران و کەمیی مامەڵەکان هۆکاری ئەوەیە نرخی تمەن تاوەکو ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c237b0fd355681d",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1861767",
+    "title": "نرخی نەوتی برێنت بۆ زیاتر لە 94 دۆلار بەرزبووەوە",
+    "title_en": "نرخی نەوتی برێنت بۆ زیاتر لە 94 دۆلار بەرزبووەوە",
+    "summary": "رووداو دیجیتاڵ نرخی نەوت ئەمڕۆ پێنجشەممە بە شێوەیەکی بەرچاو بەرزبووەوە، ئەوەش دوای ئەوەی تاران داخستنی تەنگەی هورمزی راگەیاند، خاڵێکی ستراتیژی و گرنگی گواستنەوەی وزەیە. بڕیارەکەی ئێران دوای ئەوە هات، ویلایەتە یەکگرتووەکانی ئەمریکا هێرشی زیاتری کردە سەر ئەو وڵاتە و دۆناڵد ترەمپ، سەرۆکی ئەمریکاش هەڕەشەی هێرشی تووندتری کرد ئەگەر رێککەوتنی ئاشتی واژۆ نەکرێت. نرخی نەوتی برێنت دۆلارێک و 48 سەنت بەرزبووەوە و گەیشتە 94 دۆلار و 58 سەنت. هەروەها نرخی نەوتی سووکی تەکساسی ئەمریکاش دۆلارێک و 71 سەنت بەرزبووە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "95f02822a82438e3",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1861766",
+    "title": "نرخی زێڕ دابەزی بۆ کەمتر لە 4060 دۆلار",
+    "title_en": "نرخی زێڕ دابەزی بۆ کەمتر لە 4060 دۆلار",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ پێنجشەممە، نرخی زێڕ بەردەوامیی دا بە دابەزینەکانی چەند رۆژی رابردووی و نرخی یەک ئۆنسە بۆ کەمتر لە 4060 دۆلار دابەزی. بەو پێیەش، لە ماوەی سێ رۆژدا نرخی کانزای زەرد لە هەر ئۆنسەیەکدا 300 دۆلار لە بەهاکەی لەدەستداوە. لە چەند کاژێری سەرەتای کردنەوەی بازاڕەکاندا، ئەمڕۆ نرخی زێڕ تەنانەت بۆ ئاستی 4022 دۆلار دابەزی، کە ئەوەش کەمترین ئاستی بووە لە دوای 21ـی مانگی 11ـەوە، واتە کەمترین ئاستی شەش مانگی رابردوو. بازرگانان ئەمڕۆ چاوەڕێی بڵاوبوونەوەی ئاماری گرنگی کۆفرۆشین کە دوای نیوەڕۆ بڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8ae3e6004226c513",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1302045",
+    "title": "Keça Qazî Mihemed ji bo koça dawî ya Helkewt Ezîz sersaxî ji Rûdawê re xwest",
+    "title_en": "Keça Qazî Mihemed ji bo koça dawî ya Helkewt Ezîz sersaxî ji Rûdawê re xwest",
+    "summary": "Hewlêr (Rûdaw) - Keça Pêşewa Qazî Mihemed a bi navê Munîre Qaziyê sersaxî ji malbat, heval û hevkarên Helkewt Ezîz re xwest û got, \"Ez xwe hevparê vê xema dilhejîn dibînim.” Munîre Qaziyê ji bo koça dawî ya Helkewt Ezîz peyameke hevxemiyê ji Tora Medyayî ya Rûdawê re şand. Wê ji ber koça dawî ya hevkarê me Helkewt Ezîz xembariya xwe anî zimên. \"Ez hevparê xema we me\" Keça Pêşewa Qazî Mihemed di peyama xwe de wiha got: “Ez sersaxiyê ji malbata rêzdar û niştimanperwer, hemû medyaya Kurdistanê û ge",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e56c4c60731be083",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302044",
+    "title": "Îranê hişyarî da: Nêzîkbûna Tengava Hurmizê hevkariya bi dijmin re ye",
+    "title_en": "Îranê hişyarî da: Nêzîkbûna Tengava Hurmizê hevkariya bi dijmin re ye",
+    "summary": "Hewlêr (Rûdaw) - Supaya Pasdaran a Îranê ragihand ku Tengava Hurmizê heta daxuyaniyeke din ji çûn û hatina keştiyan re hatiye girtin. Di daxuyaniyê de hat diyarkirin ku nêzîkbûna li Tengava Hurmizê dê wekî \"hevkariya bi dijmin re\" were qebûlkirin. Li gorî Ajansa Nûçeyan a Xwendekarên Îranê (ISNA), di daxuyaniya Supaya Pasdaran de hat destnîşankirin ku Tengava Hurmizê ji ber binpêkirina agirbestê careke din hatiye girtin. \"Tengava Hurmizê dê girtî bimîne\" Supaya Pasdaran a Îranê di daxuyaniyê de ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d01505e6a9b2666",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1302042",
+    "title": "Îranê Tengava Hurmizê girt, petrol biha bû",
+    "title_en": "Îranê Tengava Hurmizê girt, petrol biha bû",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê pêncşemê bi awayekî berbiçav zêde bû. Ev yek piştî wê yekê hat ku Tehranê girtina Tengava Hurmizê eşkere kir. Ev tengav ji bo veguhastina enerjiyê xaleke stratejîk û gelekî girîng e. Trump: Em dê bi tundî bombebaran bikin Biryara Îranê piştî êrişên nû yên Amerîkayê yên li ser wî welatî hat. Serokê Amerîkayê Donald Trump hişyarî da û got eger peymana aştiyê neyê îmzekirin ew dê êrişên tundtir bikin. Donald Trump êvara çarşemê ji nûçegihanê Fox Newsê re axivî. Trump",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8feab08180682aff",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1302041",
+    "title": "Di nava sê rojan de onsa zêr 300 dolarî erzan bû",
+    "title_en": "Di nava sê rojan de onsa zêr 300 dolarî erzan bû",
+    "summary": "Hewlêr (Rûdaw) - Îro daketina bihayê zêr a çend rojên borî domî û bihayê onsa zêr ket bin 4 hezar û 60 dolarî. Bi vî awayî, di nava sê rojan de onsa zêr 300 dolarî ji qîmetê xwe winda kir. Îro di çend demjimêrên ewil ên vebûna bazaran de, bihayê zêr heta 4 hezar û 22 dolaran jî daket. Ev ji 21ê Çiriya Paşîn û vir ve asta herî nizm e, ango asta herî nizm a şeş mehên borî ye. Amarên firotinê tên eşkerekirin Bazirgan îro li bendê ne ku amarên girîng ên firotina bikom eşkere bibin ku dê piştî nîvro ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c9479a57cc6cae73",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1302046",
+    "title": "Birêvebiriya Kiliçdaroglu 9 parlamenteran ji CHPyê derdixe",
+    "title_en": "Birêvebiriya Kiliçdaroglu 9 parlamenteran ji CHPyê derdixe",
+    "summary": "Hewlêr (Rûdaw) - Komîteya Birêvebiriya Navendî ya ku bi biryara dadgehê li şûna birêvebiriya navendî ya CHPyê hatibû erkdarkirin, biryara derxistina 9 parlamenteran da. Ev komîte wekî baskê Kemal Kiliçdaroglu tê naskirin. Serokê Koma CHPyê Ozgur Ozel bi daxuyaniyeke tund bertek nîşanî vê hewldanê da. Birêvebiriya Serokê Giştî yê CHPyê Kemal Kiliçdaroglu ya ku bi biryara dadgehê li ser kursiyê birêvebiriya CHPyê rûniştiye, pêvajoya derxistinê da destpêkirin. Wê birêvebiriyê 9 parlamenterên CHPyê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3657450d34f3b01e",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302044",
+    "title": "Îranê hişyarî da: Nêzîkbûna Tengava Hurmizê hevkariya bi dijmin re ye",
+    "title_en": "Îranê hişyarî da: Nêzîkbûna Tengava Hurmizê hevkariya bi dijmin re ye",
+    "summary": "Hewlêr (Rûdaw) - Supaya Pasdaran a Îranê ragihand ku Tengava Hurmizê heta daxuyaniyeke din ji çûn û hatina keştiyan re hatiye girtin. Di daxuyaniyê de hat diyarkirin ku nêzîkbûna li Tengava Hurmizê dê wekî \"hevkariya bi dijmin re\" were qebûlkirin. Li gorî Ajansa Nûçeyan a Xwendekarên Îranê (ISNA), di daxuyaniya Supaya Pasdaran de hat destnîşankirin ku Tengava Hurmizê ji ber binpêkirina agirbestê careke din hatiye girtin. \"Tengava Hurmizê dê girtî bimîne\" Supaya Pasdaran a Îranê di daxuyaniyê de ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "80ce6edebb3f0c78",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302043",
+    "title": "Erdogan û Netanyahu ketin qirika hev",
+    "title_en": "Erdogan û Netanyahu ketin qirika hev",
+    "summary": "Hewlêr (Rûdaw) - Aloziya di navbera Tirkiye û Îsraîlê de gihîşt asta herî bilind. Piştî ku Erdogan, Netanyahu wekî Hîtler pênase kir, Netanyahu jî ji Erdogan re got \"dîktator û kujerê Kurdan\". Wezareta Karên Derve ya Tirkiyeyê di bersiveke tund de Serokwezîrê Îsraîlê wekî \"pisporê komkujiyê\" bi nav kir. Wezareta Karên Derve ya Tirkiyeyê 10ê Hezîrana 2026an nerazîbûneke tund nîşanî daxuyaniyên Serokwezîrê Îsraîlê Benjamin Netanyahu da û got: \"Ew tohmetên bêbingeh û provokatîf ên li dijî Serokkoma",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c98d66a50ea949a8",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1302042",
+    "title": "Îranê Tengava Hurmizê girt, petrol biha bû",
+    "title_en": "Îranê Tengava Hurmizê girt, petrol biha bû",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê pêncşemê bi awayekî berbiçav zêde bû. Ev yek piştî wê yekê hat ku Tehranê girtina Tengava Hurmizê eşkere kir. Ev tengav ji bo veguhastina enerjiyê xaleke stratejîk û gelekî girîng e. Trump: Em dê bi tundî bombebaran bikin Biryara Îranê piştî êrişên nû yên Amerîkayê yên li ser wî welatî hat. Serokê Amerîkayê Donald Trump hişyarî da û got eger peymana aştiyê neyê îmzekirin ew dê êrişên tundtir bikin. Donald Trump êvara çarşemê ji nûçegihanê Fox Newsê re axivî. Trump",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3098884965df41bc",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1302041",
+    "title": "Di nava sê rojan de onsa zêr 300 dolarî erzan bû",
+    "title_en": "Di nava sê rojan de onsa zêr 300 dolarî erzan bû",
+    "summary": "Hewlêr (Rûdaw) - Îro daketina bihayê zêr a çend rojên borî domî û bihayê onsa zêr ket bin 4 hezar û 60 dolarî. Bi vî awayî, di nava sê rojan de onsa zêr 300 dolarî ji qîmetê xwe winda kir. Îro di çend demjimêrên ewil ên vebûna bazaran de, bihayê zêr heta 4 hezar û 22 dolaran jî daket. Ev ji 21ê Çiriya Paşîn û vir ve asta herî nizm e, ango asta herî nizm a şeş mehên borî ye. Amarên firotinê tên eşkerekirin Bazirgan îro li bendê ne ku amarên girîng ên firotina bikom eşkere bibin ku dê piştî nîvro ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c73f76fda4d0bb6",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302040",
+    "title": "22 welatan hişyarî da Îranê",
+    "title_en": "22 welatan hişyarî da Îranê",
+    "summary": "Hewlêr (Rûdaw) - 22 welatan ku Amerîka û welatên Ewropayê jî di nav de ne, di daxuyaniyeke hevbeş de hişyariyeke tund da Îranê. Wan ji Tehranê xwest ku êrişên li dijî xelkê yên li ser axa wan rawestîne. Her wiha wan welatan bikaranîna komên tawanbar ji aliyê Tehranê ve bi tundî şermezar kir. \"Pêwîst e ev kiryar demildest bên rawestandin\" Di daxuyaniya hevbeş a 22 welatan de hat gotin ku dezgehên ewlehiyê yên Îranê komên tawanbar ên navxweyî û navneteweyî bi kar tînin. Li gorî daxuyaniyê, ev kom ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6d122244dd1fe647",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302039",
+    "title": "Îran: Me li Tengava Hurmizê li 2 keştiyan xist",
+    "title_en": "Îran: Me li Tengava Hurmizê li 2 keştiyan xist",
+    "summary": "Hewlêr (Rûdaw) - Hêza Deryayî ya Supaya Pasdaran a Îranê ragihand ku wan li Tengava Hurmizê 2 keştî kirine armanc û li wan xistiye. Supaya Pasdaran a Îranê derbarê êrişî daxuyaniyek da. Li gorî daxuyaniya Supaya Pasdaran a Îranê wan keştiyan dixwest bi awayekî neyasayî ji tengavê derbas bibin. Di daxuyaniyê de li ser nasnameya keştiyan û zererên canî û madî ti agahiyên zêdetir nehatin belavkirin. Tenê hat destnîşankirin ku ew dê rê nedin ti \"derbasbûnên neyasayî\" yên li wê rêgeha avî ya stratejî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7d274a477e021177",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302046",
+    "title": "Birêvebiriya Kiliçdaroglu 9 parlamenteran ji CHPyê derdixe",
+    "title_en": "Birêvebiriya Kiliçdaroglu 9 parlamenteran ji CHPyê derdixe",
+    "summary": "Hewlêr (Rûdaw) - Komîteya Birêvebiriya Navendî ya ku bi biryara dadgehê li şûna birêvebiriya navendî ya CHPyê hatibû erkdarkirin, biryara derxistina 9 parlamenteran da. Ev komîte wekî baskê Kemal Kiliçdaroglu tê naskirin. Serokê Koma CHPyê Ozgur Ozel bi daxuyaniyeke tund bertek nîşanî vê hewldanê da. Birêvebiriya Serokê Giştî yê CHPyê Kemal Kiliçdaroglu ya ku bi biryara dadgehê li ser kursiyê birêvebiriya CHPyê rûniştiye, pêvajoya derxistinê da destpêkirin. Wê birêvebiriyê 9 parlamenterên CHPyê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e87b0f3721e7097f",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302043",
+    "title": "Erdogan û Netanyahu ketin qirika hev",
+    "title_en": "Erdogan û Netanyahu ketin qirika hev",
+    "summary": "Hewlêr (Rûdaw) - Aloziya di navbera Tirkiye û Îsraîlê de gihîşt asta herî bilind. Piştî ku Erdogan, Netanyahu wekî Hîtler pênase kir, Netanyahu jî ji Erdogan re got \"dîktator û kujerê Kurdan\". Wezareta Karên Derve ya Tirkiyeyê di bersiveke tund de Serokwezîrê Îsraîlê wekî \"pisporê komkujiyê\" bi nav kir. Wezareta Karên Derve ya Tirkiyeyê 10ê Hezîrana 2026an nerazîbûneke tund nîşanî daxuyaniyên Serokwezîrê Îsraîlê Benjamin Netanyahu da û got: \"Ew tohmetên bêbingeh û provokatîf ên li dijî Serokkoma",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7f0756b75b9b2f6b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302040",
+    "title": "22 welatan hişyarî da Îranê",
+    "title_en": "22 welatan hişyarî da Îranê",
+    "summary": "Hewlêr (Rûdaw) - 22 welatan ku Amerîka û welatên Ewropayê jî di nav de ne, di daxuyaniyeke hevbeş de hişyariyeke tund da Îranê. Wan ji Tehranê xwest ku êrişên li dijî xelkê yên li ser axa wan rawestîne. Her wiha wan welatan bikaranîna komên tawanbar ji aliyê Tehranê ve bi tundî şermezar kir. \"Pêwîst e ev kiryar demildest bên rawestandin\" Di daxuyaniya hevbeş a 22 welatan de hat gotin ku dezgehên ewlehiyê yên Îranê komên tawanbar ên navxweyî û navneteweyî bi kar tînin. Li gorî daxuyaniyê, ev kom ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ba3276a5ab94f8e4",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302039",
+    "title": "Îran: Me li Tengava Hurmizê li 2 keştiyan xist",
+    "title_en": "Îran: Me li Tengava Hurmizê li 2 keştiyan xist",
+    "summary": "Hewlêr (Rûdaw) - Hêza Deryayî ya Supaya Pasdaran a Îranê ragihand ku wan li Tengava Hurmizê 2 keştî kirine armanc û li wan xistiye. Supaya Pasdaran a Îranê derbarê êrişî daxuyaniyek da. Li gorî daxuyaniya Supaya Pasdaran a Îranê wan keştiyan dixwest bi awayekî neyasayî ji tengavê derbas bibin. Di daxuyaniyê de li ser nasnameya keştiyan û zererên canî û madî ti agahiyên zêdetir nehatin belavkirin. Tenê hat destnîşankirin ku ew dê rê nedin ti \"derbasbûnên neyasayî\" yên li wê rêgeha avî ya stratejî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c03fbe50e9599187",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302038",
+    "title": "Trump: Îranê ji me xwest em êrişan rawestînin",
+    "title_en": "Trump: Îranê ji me xwest em êrişan rawestînin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku berpirsên payebilind ên Îranê rasterast ji Odeya Operasyonan a Koşka Spî bi wî re ketine têkiliyê û wan xwestiye ku bombebarana welatê wan were rawestandin. Trump hişyarî da ku bombebaran demkî ye û dê di demeke nêzîk de raweste. Wî diyar kir, eger Tehran peymana pêşniyarkirî îmze neke ew dê sibe bi awayekî gelekî tund û bêrehm Îranê careke din bombebaran bikin. \"Berpirsên Îranê daxwaza rawestandina bombebaranê kir\" Donald Trump eşkere k",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2cba73d7e7d5453d",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302037",
+    "title": "CENTCOM: Pêla nû ya êrişên li Îranê bi dawî bû",
+    "title_en": "CENTCOM: Pêla nû ya êrişên li Îranê bi dawî bû",
+    "summary": "Hewlêr (Rûdaw) – Fermandariya Navendî ya Artêşa Amerîkayê (CENTCOM) ragihand ku êrişên bi fermana Trump ên li Îranê temam bûn. Fermandariya Navendî ya Artêşa Amerîkayê li ser operasyonên dawî daxuyaniyek belav kir. CENTCOMê ragihand ku êrişên wan ên li dijî armancên leşkerî û ewlehiyê yên li Îranê bi dawî bûne. Ev êriş li ser fermana Serokê Amerîkayê Donald Trump hatin kirin. Ev bû şeva duyem a li pey hev ku hêzên Amerîkayê êrişên tund dibirin ser Îranê. \"Êriş ji bo xweparastinê hatin kirin\" CEN",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e9bbdb44d022ba09",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302036",
+    "title": "Îranê bi dron û mûşekan êrişî baregehên Amerîkayê kir",
+    "title_en": "Îranê bi dron û mûşekan êrişî baregehên Amerîkayê kir",
+    "summary": "Hewlêr (Rûdaw) - Supaya Pasdaran a Îranê bi 12 mûşekên balîstîk êrişî Baregeha Asmanî ya Ezreqê ya li Urdinê kir. Wan ragihand ku baregeha balafirên şer ên Amerîkayê yên F-35, F-15 û F-16an û navenda kontrol û fermandeyiyê ya artêşa wî welatî têk birine. Ji ber vê êrişê Kuweytê qada xwe ya asmanî ji geştan re girt. Her wiha Balyozxaneya Amerîkayê ya li Emmanê jî welatiyên xwe hişyar kirin. Birêvebiriya Têkiliyên Giştî ya Supaya Pasdaran a Îranê daxuyaniyek da. Di daxuyaniyê de hat gotin ku wan w",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d47988b147130b5",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/1302035",
+    "title": "Amerîkayê êrişî Îranê kir",
+    "title_en": "Amerîkayê êrişî Îranê kir",
+    "summary": "Hewlêr (Rûdaw) - Aloziya navbera Amerîka û Îranê derbasî qonaxeke nû bû. Artêşa Amerîkayê ragihand ku wan li Îranê li dijî gelek armancan dest bi êrişan kiriye. Hat diyarkirin ku li başûrê Îranê li gelek deveran dengê teqînan hatiye bihîstin. Fermandariya Navendî ya Amerîkayê (CENTCOM) li ser mijarê daxuyaniyek da. CENTCOMê di daxuyaniya xwe de anî zimên ku wan li dijî gelek armancên li Îranê dest bi \"êrişên nû yên xweparastina meşrû\" kiriye. Li başûrê Îranê teqîn Li gorî nûçeyên medyaya Îranê, ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ce59ee921ed40a53",
+    "url": "https://www.rudaw.net/kurmanci/authors/deham_ebdilfettah",
+    "title": "Deham Ebdilfettah",
+    "title_en": "Deham Ebdilfettah",
+    "summary": "",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a5c7fd1b66261601",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302047",
+    "title": "Urdin: Me 20 mûşekên Îranê têk birin",
+    "title_en": "Urdin: Me 20 mûşekên Îranê têk birin",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Urdinê ragihand ku 20 mûşekên ku ji Îranê ber bi bajarê Zerqayê ve hatibûn avêtin hatin têkbirin. Fermandariya Hêzên Çekdar ên Urdinê daxuyaniyeke nivîskî da û li ser êrişên Îranê agahî belav kirin. Mûşek hatin têkbirin Fermandariya Hêzên Çekdar ên Urdinê da zanîn ku 20 mûşekên ku berê sibehê ji Îranê hatibûn avêtin bi pergalên parastina asmanî hatine xistin. Her wiha hat gotin ku perçeyên mûşekan nebûne sedema ti zererên canî û madî. Di daxuyaniyê de hat eşkerekirin ku H",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e7517c53e4a87566",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302047",
+    "title": "Urdin: Me 20 mûşekên Îranê têk birin",
+    "title_en": "Urdin: Me 20 mûşekên Îranê têk birin",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Urdinê ragihand ku 20 mûşekên ku ji Îranê ber bi bajarê Zerqayê ve hatibûn avêtin hatin têkbirin. Fermandariya Hêzên Çekdar ên Urdinê daxuyaniyeke nivîskî da û li ser êrişên Îranê agahî belav kirin. Mûşek hatin têkbirin Fermandariya Hêzên Çekdar ên Urdinê da zanîn ku 20 mûşekên ku berê sibehê ji Îranê hatibûn avêtin bi pergalên parastina asmanî hatine xistin. Her wiha hat gotin ku perçeyên mûşekan nebûne sedema ti zererên canî û madî. Di daxuyaniyê de hat eşkerekirin ku H",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
