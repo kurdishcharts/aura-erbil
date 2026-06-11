@@ -53434,6 +53434,312 @@
     }
   },
   {
+    "id": "27b4986a83819ff0",
+    "url": "https://www.rudaw.net/english/categories/iraq/1077908",
+    "title": "Iraq signals closer Arab alignment, steers clear of Iran-US escalation",
+    "title_en": "Iraq signals closer Arab alignment, steers clear of Iran-US escalation",
+    "summary": "ERBIL, Kurdistan Region - The Iraqi foreign ministry on Thursday condemned the attacks on Bahrain, Jordan, and Kuwait recently carried out by Iran, which Tehran said targeted alleged US positions in those countries. Baghdad’s stance comes amid a broader rapprochement the new Iraqi government appears to be pursuing with its Arab neighbors. In a statement, the ministry relayed Iraq’s “condemnation of the attacks on the territories of the Hashemite Kingdom of Jordan, the Kingdom of Bahrain, and the",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "75421b7b2cae27c6",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1077906",
+    "title": "Two drones strike Erbil grain facility, causing major damage: Kurdish CT",
+    "title_en": "Two drones strike Erbil grain facility, causing major damage: Kurdish CT",
+    "summary": "ERBIL, Kurdistan Region - Two bomb-laden drones struck a grain storage facility southwest of Erbil on Thursday, causing significant economic damage but no casualties, according to the Kurdistan Region's counter-terrorism service, which condemned the attack as targeting civilian areas. “A grain warehouse in the Qushtapa district of Erbil province was attacked by two booby-trapped drones from the Hadid-110 type,” the Kurdistan Region’s Counter-Terrorism Service (CTG) said in a statement, adding, \"",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d9b7eedbb090b6b",
+    "url": "https://www.rudaw.net/english/categories/iran/1077907",
+    "title": "Iran warns of severe consequences as Trump threatens new strikes",
+    "title_en": "Iran warns of severe consequences as Trump threatens new strikes",
+    "summary": "ERBIL, Kurdistan Region - Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Thursday warned that “wrong strategies” could trigger severe disruptions in energy infrastructure and markets. The remarks came shortly after US President Donald Trump warned of further strikes on Iran in the coming hours and raised the possibility of capturing the country’s key oil hub, Kharg Island. “Wrong strategies and impulsive decisions will reset the entire board for the worse, explode energy infrastructure a",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4fba325219f19abc",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861840",
+    "title": "ترەمپ هێرشەکانی ئەمشەوی بۆ سەر ئێران هەڵوەشاندەوە",
+    "title_en": "ترەمپ هێرشەکانی ئەمشەوی بۆ سەر ئێران هەڵوەشاندەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، هێرشە سەربازییەکانی ئەمشەوی بۆ سەر ئێران هەڵوەشاندوونەتەوە، ئەوەش دوای ئەوەی گوایە دانوستاندنەکان گەیشتوونەتە بەرزترین ئاستی سەرکردایەتیی باڵای ئێران و وڵاتانی ناوچەکە و پەسند کراون. لە پۆستێکدا لە لە تۆڕی کۆمەڵایەتیی ترووس سۆشیاڵ، ترەمپ نووسیویەتی: \"لەبەر ئەوەی دانوستاندنـەکان لەگەڵ کۆماری ئیسلامیی ئێران گەیشتوونەتە بەرزترین ئاستی سەرکردایەتیی ئێران و پەسەند کراون، من وەک سەرۆکی ویلایەتە یەکگرتووەکانی ئەمریکا، هێرش و بۆردوومانە پلانبۆدانراو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "216849c575a58001",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1861843",
+    "title": "جەنگی ئەمریکا و ئێران؛ وەرچەرخانێک لە ستراتیژیی واشنتن لە ناوچەکەدا؟",
+    "title_en": "جەنگی ئەمریکا و ئێران؛ وەرچەرخانێک لە ستراتیژیی واشنتن لە ناوچەکەدا؟",
+    "summary": "لە ساڵانی رابردوودا زۆرێک لە داڕێژەرانی سیاسەتی ئەمریکا، بە تایبەت سێ ئیدارەی یەک لەدوای یەکی وەک ترەمپی یەکەم، بایدن، و ترەمپی دووەم، لە بەڵگەنامە ستراتیژییەکانیاندا داوای کەمکردنەوەی رۆڵی وڵاتەکەیان دەکرد لە رۆژهەڵاتی ناوەڕاست (Divestiture) ، لە پێناو رکابەریی هێزە گەورەکانی وەک چین و رووسیا، بە شێوەیەک کە رۆژهەڵاتی ناوەڕاست لە رووی گرنگییەوە بۆ پلەکانی چوارەم و پێنجەم دابەزیبوو. لەم چوارچێوەیەدا، خولی دووەمی ئیدارەی ترەمپ لە سەرەتادا (لە کۆتایی 2025 و سەرەتای 2026) پلانی ئەوەی هەبوو (ئێستاش ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd9fddf627565548",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861842",
+    "title": "ئەردۆغان: نەتەنیاهوو شوێنپێی هیتلەر هەڵدەگرێت",
+    "title_en": "ئەردۆغان: نەتەنیاهوو شوێنپێی هیتلەر هەڵدەگرێت",
+    "summary": "رووداو دیجیتاڵ سەرۆککۆماری تورکیا رایگەیاند، \"مانگی سووری تورکیا زیاتر لە 26 هەزار تۆن هاوکاریی مرۆیی گەیاندووەتە کەرتی غەززە، کە لەژێر هێرشی تۆڕی کۆمەڵکوژیی زایۆنیدایە بە سەرۆکایەتیی نەتەنیاهوو.\" ئەمڕۆ پێنجشەممە، 11ـی حوزەیرانی 2026، رەجەب تەیب ئەردۆغان، بەبۆنەی 158 ساڵەی دامەزراندنی مانگی سووری تورکیا، بەشداریکرد لە رێوڕەسمی دابەشکردنی خەڵاتەکانی رێکخراوەکە بەسەر ژمارەیەک چالاکڤانی ناوخۆیی و بیانی و لە کۆشکی سەرۆکایەتیی کۆمار لە ئەنقەرە گوتارێکی پێشکێش کرد. سەرۆککۆماری تورکیا بەشێکی گوتارەکەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "05edfc21a3d737b0",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1861841",
+    "title": "چارەنووسی 16 منداڵی عێراقی لە سووریا نادیارە؛ \"بە زۆر لە خێزانەکانیان دابڕێندراون\"",
+    "title_en": "چارەنووسی 16 منداڵی عێراقی لە سووریا نادیارە؛ \"بە زۆر لە خێزانەکانیان دابڕێندراون\"",
+    "summary": "رووداو دیجیتاڵ کۆمەڵەی گوندەکانی منداڵان (SOS) لە سووریا رایدەگەیێنێت، 16 منداڵی عێراقی کە لە کاتی ململانێکانی سووریادا بە زۆر لە خێزانەکانیان دابڕێندراون و رادەستی خانەکانی چاودێری کراون، تاوەکو ئێستا چارەنووسیان نادیارە. کۆمەڵەکە ئاشکرای دەکات، ئەو منداڵانە لە ئەنجامی شاڵاوی گرتنی خێزانەکانیان لەلایەن دەزگا ئەمنییەکانی حکومەتی سووریاوە، لە کەسوکاریان جیاکراونەتەوە. لە وەڵامی پرسیارەکانی محەممەد عیسا، ئیدیتۆر لە بەشی عەرەبیی تۆڕی میدیایی رووداو، نووسینگەی راگەیاندنی کۆمەڵەی (SOS) رایگەیاند، ئەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b946ddf024d017fc",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861839",
+    "title": "خاتەمولئەنبیای ئێران: هێرش بکرێتەوە سەرمان جەنگەکە بەرفراوانتر دەکەین",
+    "title_en": "خاتەمولئەنبیای ئێران: هێرش بکرێتەوە سەرمان جەنگەکە بەرفراوانتر دەکەین",
+    "summary": "رووداو دیجیجتاڵ قەرارگەی ناوەندی خاتەمولئەنبیای ئێران، ئەمریکا بە هۆکاری داخرانی تەنگەی هورمز و تێکدانی ئاسایشی ناوچەکە دەزانێت و دەڵێت، ''یان هەناردەکردنی نەوت و گاز بۆ هەمووان دەبێت، یان بۆ هیچ کەس.'' ئەمڕۆ پێنجشەممە، 11-06-2026، عەلی عەبدوڵڵاهی، فەرماندەی قەرارگەی ناوەندی خاتەمولئەنبیای ئێران پەیامێکی سەبارەت بە داخرانی تەنگەی هورمز بەسەر کەشتییە بازرگانی و نەوتهەڵگرەکاندا بڵاو کردەوە کە تێیدا هاتووە: ''ئەمریکا لە لایەک باسی رێککەوتن و دانوستاندن دەکات، لە لایەکی دیکەوە سەرقاڵی خراپەکارییە. ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44fc25fc6a75fa29",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861838",
+    "title": "سەرۆکی لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران: هێزەکانمان لەوپەڕی ئامادەییدان",
+    "title_en": "سەرۆکی لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران: هێزەکانمان لەوپەڕی ئامادەییدان",
+    "summary": "رووداو دیجیتاڵ سەرۆکی لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران دەڵێ، هێزەکانیان بۆ بەرەنگاربوونەوەی هەر هێرشێکی ئەمریکا و ئیسرائیل لەوپەڕی ئامادەییدان. هەڕەشەش دەکات: ''وەڵامی پەشیمانکەرەوەمان بۆ هەر هەنگاوێکی هەڵە دەبێت.'' ئەمڕۆ پێنجشەممە 11-06-2026، ئیبراهیم رەزایی، سەرۆکی لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران سەبارەت بە دوایین هێرشەکانی ئەمریکا بۆ سەر وڵاتەکەی رایگەیاند: ''لە بەرامبەر هەر جۆرە هەنگاو و هەڕەشەیەکدا، وەڵامێکی یەکلاکەرەوە، کوشندە، بەئازار و پەشیمانکەرەوەمان دەبێت.'' بەگوتەی ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e281114fa6a9766",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861837",
+    "title": "سەعد مەعن بۆ رووداو: دوو چەکداری داعش لە دیالە بە فڕۆکەی ئێف 16 کرانە ئامانج",
+    "title_en": "سەعد مەعن بۆ رووداو: دوو چەکداری داعش لە دیالە بە فڕۆکەی ئێف 16 کرانە ئامانج",
+    "summary": "رووداو دیجیتاڵ فڕۆکە جەنگییەکانی عێراق لە رۆژهەڵاتی دیالە دوو چەکداری رێکخراوی داعش بۆردوومان دەکەن، بەگوێرەی شانەی راگەیاندنی ئەمنی، یەکێکیان سەرکردەیەکی ئەو رێکخراوە بووە. پێنجشەممە، 11ی حوزەیرانی 2026، سەعد مەعن، سەرۆکی شانەی راگەیاندنی ئەمنیی عێراق بە تۆڕی میدیایی رووداوی گوت: \"ئەمڕۆ بە فڕۆکەی جەنگیی ئێف 16 دوو جار پێگەیەک لە رۆژهەڵاتی ناحیەی بوھروز بۆردوومان کراوە، کە مەفرەزەیەکی داعشی تێدابووە و لە دوو کەس پێکهاتبوون.\" ناحیەی بوھروز دەکەوێتە رۆژهەڵاتی پارێزگای دیالە و لە رووی کارگێڕییەوە س",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ee91a5b9d22fabfe",
+    "url": "https://www.rudaw.net/sorani/categories/news/1861843",
+    "title": "جەنگی ئەمریکا و ئێران؛ وەرچەرخانێک لە ستراتیژیی واشنتن لە ناوچەکەدا؟",
+    "title_en": "جەنگی ئەمریکا و ئێران؛ وەرچەرخانێک لە ستراتیژیی واشنتن لە ناوچەکەدا؟",
+    "summary": "لە ساڵانی رابردوودا زۆرێک لە داڕێژەرانی سیاسەتی ئەمریکا، بە تایبەت سێ ئیدارەی یەک لەدوای یەکی وەک ترەمپی یەکەم، بایدن، و ترەمپی دووەم، لە بەڵگەنامە ستراتیژییەکانیاندا داوای کەمکردنەوەی رۆڵی وڵاتەکەیان دەکرد لە رۆژهەڵاتی ناوەڕاست (Divestiture) ، لە پێناو رکابەریی هێزە گەورەکانی وەک چین و رووسیا، بە شێوەیەک کە رۆژهەڵاتی ناوەڕاست لە رووی گرنگییەوە بۆ پلەکانی چوارەم و پێنجەم دابەزیبوو. لەم چوارچێوەیەدا، خولی دووەمی ئیدارەی ترەمپ لە سەرەتادا (لە کۆتایی 2025 و سەرەتای 2026) پلانی ئەوەی هەبوو (ئێستاش ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b76fe9f6c289b308",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1302069",
+    "title": "Festîvala 16emîn a Fîlmên Kurdî ya Berlînê: ‘Berhemên xwe bişînin’",
+    "title_en": "Festîvala 16emîn a Fîlmên Kurdî ya Berlînê: ‘Berhemên xwe bişînin’",
+    "summary": "Hewlêr (Rûdaw) - Birêvebiriya Festîvala Fîlmên Kurdî ya Berlînê ragihand ku amadehiyên ji bo Festîvala 16emîn a Fîlmên Kurdî ya Berlînê temam bûne. Festîval dê di navbera 25ê Îlonê û 1ê Çiriya Pêşîna 2026an de li Sînemaya Babylonê ya li Rosa-Luxemburg-Platzê ya li Berlîna paytexta Almanyayê were lidarxistin. Birêvebiriya Festîvala Fîlmên Kurdî ya Berlînê li ser hesabê xwe yê Facebookê û malpera xwe daxuyanî belav kirin. Festîvala Fîlmên Kurdî ya Berlînê ku bi salan e wekî platformeke giring a sî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "777b0372d1b42000",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302068",
+    "title": "Trump êrişên îro yên li Îranê rawestandin",
+    "title_en": "Trump êrişên îro yên li Îranê rawestandin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku wî êrişên leşkerî yên li Îranê hatibûn plankirin betal kirine. Donald Trump diyar kir ku ev biryar piştî wê yekê hat dayîn ku dan û standin gihîştin asta herî bilind a serkirdayetiya Îranê û welatên herêmê û hatin pejirandin. Trump li ser hesabê xwe yê tora civakî Truth Socialê daxuyaniyek belav kir û anî ziman: \"Ji ber ku dan û standinên bi Komara Îslamî ya Îranê re gihîştin asta herî bilind a serkirdayetiya Îranê û hatin pejirandin, mi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fabe5f92d446a869",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302067",
+    "title": "Li Pentagonê zengila metirsiyê hat lêdan: Xelet bûye",
+    "title_en": "Li Pentagonê zengila metirsiyê hat lêdan: Xelet bûye",
+    "summary": "Hewlêr (Rûdaw) - Televîzyona CNNyê li ser zarê du çavkaniyên Amerîkî belav kir ku ew rûdana ku bû sedema girtin û valakirina beşeke avahiya Pentagonê, tenê ji ber \"zengileke xelet\" bûye û ti madeyên metirsîdar derneketine. Rayedar û tîmên agirvemirandinê ragihandibû ku ji ber bûyera \"derketina madeyeke metirsîdar\", çend qat û korîdorên di nav avahiya mezin a Wezareta Şer a Amerîkayê (Pentagon) de hatine girtin û beşeke din jî hatiye valakirin. Çavkaniyan ji CNNyê re da zanîn ku qatên ji duyem he",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ba7d6b05432605e",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1302069",
+    "title": "Festîvala 16emîn a Fîlmên Kurdî ya Berlînê: ‘Berhemên xwe bişînin’",
+    "title_en": "Festîvala 16emîn a Fîlmên Kurdî ya Berlînê: ‘Berhemên xwe bişînin’",
+    "summary": "Hewlêr (Rûdaw) - Birêvebiriya Festîvala Fîlmên Kurdî ya Berlînê ragihand ku amadehiyên ji bo Festîvala 16emîn a Fîlmên Kurdî ya Berlînê temam bûne. Festîval dê di navbera 25ê Îlonê û 1ê Çiriya Pêşîna 2026an de li Sînemaya Babylonê ya li Rosa-Luxemburg-Platzê ya li Berlîna paytexta Almanyayê were lidarxistin. Birêvebiriya Festîvala Fîlmên Kurdî ya Berlînê li ser hesabê xwe yê Facebookê û malpera xwe daxuyanî belav kirin. Festîvala Fîlmên Kurdî ya Berlînê ku bi salan e wekî platformeke giring a sî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "27e712f2117d6608",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1302068",
+    "title": "Trump êrişên îro yên li Îranê rawestandin",
+    "title_en": "Trump êrişên îro yên li Îranê rawestandin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku wî êrişên leşkerî yên li Îranê hatibûn plankirin betal kirine. Donald Trump diyar kir ku ev biryar piştî wê yekê hat dayîn ku dan û standin gihîştin asta herî bilind a serkirdayetiya Îranê û welatên herêmê û hatin pejirandin. Trump li ser hesabê xwe yê tora civakî Truth Socialê daxuyaniyek belav kir û anî ziman: \"Ji ber ku dan û standinên bi Komara Îslamî ya Îranê re gihîştin asta herî bilind a serkirdayetiya Îranê û hatin pejirandin, mi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a64a4756d886831c",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1302067",
+    "title": "Li Pentagonê zengila metirsiyê hat lêdan: Xelet bûye",
+    "title_en": "Li Pentagonê zengila metirsiyê hat lêdan: Xelet bûye",
+    "summary": "Hewlêr (Rûdaw) - Televîzyona CNNyê li ser zarê du çavkaniyên Amerîkî belav kir ku ew rûdana ku bû sedema girtin û valakirina beşeke avahiya Pentagonê, tenê ji ber \"zengileke xelet\" bûye û ti madeyên metirsîdar derneketine. Rayedar û tîmên agirvemirandinê ragihandibû ku ji ber bûyera \"derketina madeyeke metirsîdar\", çend qat û korîdorên di nav avahiya mezin a Wezareta Şer a Amerîkayê (Pentagon) de hatine girtin û beşeke din jî hatiye valakirin. Çavkaniyan ji CNNyê re da zanîn ku qatên ji duyem he",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
