@@ -55684,6 +55684,384 @@
     }
   },
   {
+    "id": "70c27068778d80be",
+    "url": "https://www.rudaw.net/english/categories/world/1077921",
+    "title": "Proposed Iran deal would end Tehran’s nuclear program, reopen Hormuz: US official",
+    "title_en": "Proposed Iran deal would end Tehran’s nuclear program, reopen Hormuz: US official",
+    "summary": "ERBIL, Kurdistan Region - A senior US administration official said Friday that a proposed agreement with Iran would reopen the Strait of Hormuz, dismantle Tehran's nuclear program, remove its stockpile of enriched nuclear material, and establish a framework for long-term regional peace. Speaking on background during a briefing with reporters, the senior White House official said the deal fulfills the core objectives set by President Donald Trump. \"What it does is first it reopens the straits and",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f3d93424c41200d7",
+    "url": "https://www.rudaw.net/english/categories/economic/1077920",
+    "title": "Syria eyes role as regional energy hub",
+    "title_en": "Syria eyes role as regional energy hub",
+    "summary": "WASHINGTON DC - As concerns grow over the security of global energy supplies amid tensions affecting the Strait of Hormuz, Syria is seeking to position itself as a major regional energy transit hub and an alternative route for oil and gas flows between Asia, the Middle East, and Europe. The issue was the focus of a discussion hosted in Washington by the New Lines Institute under the title \"The Four Seas Initiative\" - a project aimed at linking the Mediterranean Sea, the Persian Gulf, the Black S",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "46811649ad4b00bd",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861925",
+    "title": "قالیباف: پێویستە پابەندییەکان جێبەجێ بکرێن",
+    "title_en": "قالیباف: پێویستە پابەندییەکان جێبەجێ بکرێن",
+    "summary": "رووداو دیجیتاڵ محەممەد باقر قالیباف، سەرۆکی پەرلەمانی ئێران، لەبەر ئەگەری رێکەوتنی نێوان وڵاتەکەی و ئەمریکا رایگەیاند: \"هیچ ئەگەر و پاساو بۆ جێبەجێنەکردنی پابەندییەکان نییە\" نوێدەکرێتەوە...",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4fb427ca6f1ec447",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861921",
+    "title": "بەرپرسێکی باڵای کۆشکی سپی وردەکاریی رێککەوتنەکە ئاشکرا دەکات: یۆرانیۆمی پیتێندراو لەنێودەبرێ و دەبرێتە دەرەوە",
+    "title_en": "بەرپرسێکی باڵای کۆشکی سپی وردەکاریی رێککەوتنەکە ئاشکرا دەکات: یۆرانیۆمی پیتێندراو لەنێودەبرێ و دەبرێتە دەرەوە",
+    "summary": "رووداو دیجیتاڵ لە لێدوانێکی تایبەتدا بۆ ژمارەیەک رۆژنامەڤان لە کۆشکی سپی کە دیار کوردە، بەڕێوەبەری نووسینگەی تۆڕی میدیایی رووداویش لە واشنتن ئامادەی بوو، بەرپرسێکی باڵای کۆشکی سپی کە نەیویست ناوی ئاشکرا بکرێ، وردەکاریی قۆناخی کۆتایی رێککەوتنەکەی نێوان ئەمریکا و ئێرانی خستنەڕوو. بەرپرسەکە رەتی کردەوە تاران تەنیا لە بەرامبەر واژۆکردنی رێککەوتنەکەدا ملیاران دۆلاری پێبدرێ و ئاماژەی بەوەشکرد، نابێ بڕوا بە \"پڕوپاگەندەی\" میدیاکانی سوپای پاسداران بەکرێ. بەرپرسە باڵاکەی کۆشکی سپی لەبارەی نێوەڕۆکی رێککەوت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c84a1b63b13d927",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861920",
+    "title": "ترەمپ: رەنگە رۆژی دووشەممە رێککەوتنی ئاشتی لەگەڵ ئێران واژۆ بکرێ",
+    "title_en": "ترەمپ: رەنگە رۆژی دووشەممە رێککەوتنی ئاشتی لەگەڵ ئێران واژۆ بکرێ",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا گەشبینیی خۆی بۆ گەیشتن بە رێککەوتنی کۆتایی لەگەڵ کۆماری ئیسلامیی ئێران دەربڕی و رایگەیاند، ئەگەری هەیە رێککەوتنەکە تاوەکو رۆژی دووشەممە یان لەو رۆژەدا واژۆ بکرێ. دۆناڵد ترەمپ بە ماڵپەڕی ئەکسیۆسی راگەیاند، لێدوانەکانی عەباس عێراقچی، وەزیری دەرەوەی ئێران \"زۆر ئەرینی\" بوون، ئەوەش دوای تویتێکی وەزیری دەرەوەی ئێران لەبارەی رێککەوتن؛ ئاماژەی بەوەشکرد، داوای روونکردنەوەی فەرمی لە ئێران کردووە سەبارەت بەو هەواڵانەی میدیای ئەو وڵاتە ئەمڕۆ بڵاویان کردەوە. ترەمپ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b5e39af25ba800de",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1861919",
+    "title": "ئێران دەڵێ رێککەوتن لەگەڵ ئەمریکا لە هەموو کاتێک نزیکترە",
+    "title_en": "ئێران دەڵێ رێککەوتن لەگەڵ ئەمریکا لە هەموو کاتێک نزیکترە",
+    "summary": "رووداو دیجیتاڵ وەزیری دەرەوەی ئێران دەڵێ، رێککەوتن لەگەڵ ئەمریکا بۆ کۆتاییهێنان بە شەڕی رۆژهەڵاتی نێوەڕاست لە هەموو کاتێک نزیکترە. پاکستانی نێوەندگیریش پشتڕاستی دەکاتەوە کە \"دەقی کۆتایی و پەسندکراو\"ی رێککەوتنی ئاشتی ئامادەیە، ئەمەش دوای ئەوە هات کە دۆناڵد ترەمپ، سەرۆکی ئەمریکا بە تووڕەییەوە تارانی تۆمەتبارکرد بەوەی بە نییەتی خراپەوە دانوستاندن دەکات. ئەو کاردانەوە تووڕەییەی ترەمپ دوای ئەوە دێت، میدیاکانی ئێران وردەکاریی ئەو رەشنووسەیان بڵاوکردەوە کە گوایە لەسەر مێزە، تێیدا جەختیان لەوە کردەوە کە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ec682900dc2e6b0",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861924",
+    "title": "لە رووداوێکی تەقەکردندا لە تێکساس کەسێک کوژرا و 10 کەسی دیکە بریندار بوون",
+    "title_en": "لە رووداوێکی تەقەکردندا لە تێکساس کەسێک کوژرا و 10 کەسی دیکە بریندار بوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "aef0bcfdae613086",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1861923",
+    "title": "سەندیکای رۆژنامەنووسانی عێراق رێوڕەسمێکی ماتەمینی بۆ گیانلەدەستدانی هەڵکەوت عەزیز رێکخست",
+    "title_en": "سەندیکای رۆژنامەنووسانی عێراق رێوڕەسمێکی ماتەمینی بۆ گیانلەدەستدانی هەڵکەوت عەزیز رێکخست",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a38895c8bd489bf5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861922",
+    "title": "بۆ رێگری لە وەرگرتنی وڵاتینامە؛ ئەمریکا سەدان ڤیزای \"گەشتوگوزاری لەدایکبوون\" پوچەڵ دەکاتەوە",
+    "title_en": "بۆ رێگری لە وەرگرتنی وڵاتینامە؛ ئەمریکا سەدان ڤیزای \"گەشتوگوزاری لەدایکبوون\" پوچەڵ دەکاتەوە",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دەرەوەی ئەمریکا رایگەیاند، چەندین تۆڕی نێودەوڵەتیی \"گەشتوگوزاری لەدایکبوون\"یان لە سەرانسەری جیهان هەڵوەشاندووەتەوە و سەدان ڤیزایان پوچەڵ کردووەتەوە؛ ئەمەش وەک هەوڵێک بۆ رێگری لەو بیانییانەی دەیانەوێت تەنیا بۆ بەدەستهێنانی وڵاتینامە ئەمریکی بۆ منداڵەکانیان، گەشت بکەن. بەپێی راپۆرتێکی میدیای ئەمریکی، باڵیۆزخانەکانی واشنتن لە رۆژئاوای ئەفریقا، ئەورووپا و باکووری ئەفریقا بەڵگەیان لەسەر چەندین پلانی رێکخراو دۆزیوەتەوە، کە تێیدا بە بەڵگەنامەی ساختە ئاسانکارییان بۆ ژنانی دووگیان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3bc0948d89c54376",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861918",
+    "title": "لەسەر پرسی کۆچبەران دەکرێت لە سویسرا گشتپرسی دەکرێت",
+    "title_en": "لەسەر پرسی کۆچبەران دەکرێت لە سویسرا گشتپرسی دەکرێت",
+    "summary": "رووداو دیجیتاڵ بڕیارە دوو سبەی لە سویسرا گشتپرسییەکی جیاواز بکرێت،ئەویش بۆئەوەی خەڵکی ئەو وڵاتە بڕیاربدەن کە دەیانەوێ بەهۆی کۆچبەرییەوە ژمارەی دانیشتووانیان لە ساڵی 2050دا بگاتە دە ملیۆن کەس یان نا. بەگوێرەی ئامارەکانی حکومەتی ئەو وڵاتە، ئێستا ژمارەی دانیشتووان نۆ ملیۆنە. حکومەت دەیەوێت بڕیار لەسەر چارەنووسی 25 ساڵی داهاتووی کۆچبەری و سیاسەتی کۆچبەری لە وڵاتەکەیان بدەن. پرسی کۆچبەران یەکێکە لە پرسە هەستیارەکان لە ئەوروپا و لەم هەفتەیەدا لە ئێرلەندای باکوور هێرشییان کردە سەر ماڵی کەسانی بە پاشبنە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9590ab4077f31126",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1861926",
+    "title": "کەسوکاری یاد سەرباز: چاوەڕێی ئەنجامی توێکاری دادپزیشکی دەکەین",
+    "title_en": "کەسوکاری یاد سەرباز: چاوەڕێی ئەنجامی توێکاری دادپزیشکی دەکەین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "43d263f123b6887d",
+    "url": "https://www.rudaw.net/sorani/categories/world/1861914",
+    "title": "لە یۆنان کۆچبەرێک کرا بە کۆیلە؛ شەوان لەناو سندووقێکدا بەند دەکرا",
+    "title_en": "لە یۆنان کۆچبەرێک کرا بە کۆیلە؛ شەوان لەناو سندووقێکدا بەند دەکرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "28cd4d21167bea6a",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302095",
+    "title": "Trump: Dibe ku peymana aştiyê ya bi Îranê re duşemê were îmzekirin",
+    "title_en": "Trump: Dibe ku peymana aştiyê ya bi Îranê re duşemê were îmzekirin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku ew di dan û standinên bi Îranê re de gihîştine xaleke dîrokî û dibe ku roja duşemê peymana dawî were îmzekirin. Donald Trump di pêvajoya dîplomatîk a piştî şer de peyamên geşbîn dan û diyar kir ku ew di qonaxa dawî de ne. Trump ji malpera nûçeyan a Axiosê re axivî û daxuyaniyên Wezîrê Karên Derve yê Îranê Ebas Eraqçî bi rengê \"gelekî erênî\" binav kirin. Tehranê ji bo \"agahiyên şaş\" lêborîn xwest Trump destnîşan kir ku hinek şertên ku îro",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "afee6efc270aae3c",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1302094",
+    "title": "Berpirsekî Koşka Spî hûrgiliyên qonaxa dawî ya peymana Amerîka û Îranê eşkere kirin",
+    "title_en": "Berpirsekî Koşka Spî hûrgiliyên qonaxa dawî ya peymana Amerîka û Îranê eşkere kirin",
+    "summary": "Hewlêr (Rûdaw) - Berpirsekî payebilind ê Koşka Spî yê ku nexwest navê wî were eşkerekirin, hûrgiliyên qonaxa dawî ya peymana navbera Amerîka û Îranê eşkere kirin. Wî berpirsî hûrgilî ji rojnamegeran re eşkere kirin û Nûçegihanê Rûdawê yê Washingtonê Diyar Kurde jî di wê civînê de amade bû. Berpirsê Koşka Spî angaştên ku \"Îran dê tenê li hemberî îmzekirina peymanê bi milyaran dolaran wergire\" red kirin û hişyarî da ku divê bawerî bi \"propagandaya\" medyaya Supaya Pasdaran neyê kirin. Berpirsê paye",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a64bc82075159c0b",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1302097",
+    "title": "AGIRÎ - Otomobîlê li barhilgirê da: 2 mirî û 2 birîndar",
+    "title_en": "AGIRÎ - Otomobîlê li barhilgirê da: 2 mirî û 2 birîndar",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Dutaxê ya parêzgeha Agiriyê ya Bakurê Kurdistanê, otomobîlek li barhilgireke rawestiyayî qelibî. Di vê qezayê de 2 kes mirin û 2 kes jî birîndar bûn. Qeza îro li ser rêya sereke ya Agirî û Dutaxê çêbû. Li gorî agahiyan, otomobîla bi ajokariya O.O. ji kontrolê derket û li barhilgira ku li kêleka rê rawestiyabû qelibî. Di bûyerê de pitika 3 salî ya bi navê Y.O. li cihê qezayê mir. Ajokar O.O. û welatiyên bi navê T.B.O. (36 salî) û M.D.O. (10 salî) bi birîndarî rakirin n",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "34fd38f89245c45e",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302096",
+    "title": "Îsraîl: Em ji Libnan, Sûriye û Xezeyê venakişin",
+    "title_en": "Îsraîl: Em ji Libnan, Sûriye û Xezeyê venakişin",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Parastinê yê Îsraîlê Israel Katz ragihand ku artêşa welatê wan ji wan herêmên krîtîk ên ku kontrol kirine venakişe. Israel Katz diyar kir ku Îsraîl ji stratejiya xwe ya leşkerî tewîzê nade û got ku hebûna Îsraîlê ya li wan herêmên ewle yên li Libnan, Sûriye û Xezeyê dê berdewam bike. \"Em dê ji herêmên ewle tewîzê nedin\" Katz di daxuyaniya xwe ya îro de peyameke zelal da û got, \"Îsraîl ji wan herêmên ewle venakişe ku li Libnan, Sûriye û Xezeyê ava kirine.\" Wezîrê Parastinê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "345889c614ec8f42",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1302095",
+    "title": "Trump: Dibe ku peymana aştiyê ya bi Îranê re duşemê were îmzekirin",
+    "title_en": "Trump: Dibe ku peymana aştiyê ya bi Îranê re duşemê were îmzekirin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku ew di dan û standinên bi Îranê re de gihîştine xaleke dîrokî û dibe ku roja duşemê peymana dawî were îmzekirin. Donald Trump di pêvajoya dîplomatîk a piştî şer de peyamên geşbîn dan û diyar kir ku ew di qonaxa dawî de ne. Trump ji malpera nûçeyan a Axiosê re axivî û daxuyaniyên Wezîrê Karên Derve yê Îranê Ebas Eraqçî bi rengê \"gelekî erênî\" binav kirin. Tehranê ji bo \"agahiyên şaş\" lêborîn xwest Trump destnîşan kir ku hinek şertên ku îro",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "632ffb4a990d8798",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1302094",
+    "title": "Berpirsekî Koşka Spî hûrgiliyên qonaxa dawî ya peymana Amerîka û Îranê eşkere kirin",
+    "title_en": "Berpirsekî Koşka Spî hûrgiliyên qonaxa dawî ya peymana Amerîka û Îranê eşkere kirin",
+    "summary": "Hewlêr (Rûdaw) - Berpirsekî payebilind ê Koşka Spî yê ku nexwest navê wî were eşkerekirin, hûrgiliyên qonaxa dawî ya peymana navbera Amerîka û Îranê eşkere kirin. Wî berpirsî hûrgilî ji rojnamegeran re eşkere kirin û Nûçegihanê Rûdawê yê Washingtonê Diyar Kurde jî di wê civînê de amade bû. Berpirsê Koşka Spî angaştên ku \"Îran dê tenê li hemberî îmzekirina peymanê bi milyaran dolaran wergire\" red kirin û hişyarî da ku divê bawerî bi \"propagandaya\" medyaya Supaya Pasdaran neyê kirin. Berpirsê paye",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "171884147de0adf6",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302098",
+    "title": "Qalîbaf: Divê Amerîka û Îran li ser sozên xwe bin",
+    "title_en": "Qalîbaf: Divê Amerîka û Îran li ser sozên xwe bin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Parlamentoya Îranê Mihemed Baqir Qalîbaf derbarê peymana aştiyê ya ku tê çaverêkirin li gel Amerîkayê were îmzekirin de daxuyanî da û diyar kir ku divê her du alî jî bi sozên xwe ve girêdayî bin. Îran û Amerîka gihîştine ber deriyê çareseriyeke dîplomatîk û ji nava Îranê peyamên piştgiriyê tên. Serokê Parlamentoya Îranê Mihemed Baqir Qalîbaf derbarê lihevkirina gengaz a navbera her du welatan bi zelalî axivî. Qalîbaf diyar kir ku di pêvajoya bicihanîna peymanê de ti asten",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fde355365eaf5e8f",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1302096",
+    "title": "Îsraîl: Em ji Libnan, Sûriye û Xezeyê venakişin",
+    "title_en": "Îsraîl: Em ji Libnan, Sûriye û Xezeyê venakişin",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Parastinê yê Îsraîlê Israel Katz ragihand ku artêşa welatê wan ji wan herêmên krîtîk ên ku kontrol kirine venakişe. Israel Katz diyar kir ku Îsraîl ji stratejiya xwe ya leşkerî tewîzê nade û got ku hebûna Îsraîlê ya li wan herêmên ewle yên li Libnan, Sûriye û Xezeyê dê berdewam bike. \"Em dê ji herêmên ewle tewîzê nedin\" Katz di daxuyaniya xwe ya îro de peyameke zelal da û got, \"Îsraîl ji wan herêmên ewle venakişe ku li Libnan, Sûriye û Xezeyê ava kirine.\" Wezîrê Parastinê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5ceb736cbe36954a",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1302098",
+    "title": "Qalîbaf: Divê Amerîka û Îran li ser sozên xwe bin",
+    "title_en": "Qalîbaf: Divê Amerîka û Îran li ser sozên xwe bin",
+    "summary": "Hewlêr (Rûdaw) - Serokê Parlamentoya Îranê Mihemed Baqir Qalîbaf derbarê peymana aştiyê ya ku tê çaverêkirin li gel Amerîkayê were îmzekirin de daxuyanî da û diyar kir ku divê her du alî jî bi sozên xwe ve girêdayî bin. Îran û Amerîka gihîştine ber deriyê çareseriyeke dîplomatîk û ji nava Îranê peyamên piştgiriyê tên. Serokê Parlamentoya Îranê Mihemed Baqir Qalîbaf derbarê lihevkirina gengaz a navbera her du welatan bi zelalî axivî. Qalîbaf diyar kir ku di pêvajoya bicihanîna peymanê de ti asten",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
