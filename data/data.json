@@ -169575,6 +169575,24 @@
     }
   },
   {
+    "id": "b18c78e59205bdaf",
+    "url": "https://www.rudaw.net/sorani/categories/world/1865796",
+    "title": "ئۆتۆمبێلێک لە بەرلین خۆی بەنێو ئاهەنگی هاوڕەگەزخوازەکاندا کرد و کەسێکی کوشت",
+    "title_en": "ئۆتۆمبێلێک لە بەرلین خۆی بەنێو ئاهەنگی هاوڕەگەزخوازەکاندا کرد و کەسێکی کوشت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
