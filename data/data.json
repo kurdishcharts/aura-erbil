@@ -171771,6 +171771,114 @@
     }
   },
   {
+    "id": "57e848262a5cba2e",
+    "url": "https://www.rudaw.net/english/categories/iran/1078530",
+    "title": "Iran reports oil tanker explosion after warning against route deviation in Strait of Hormuz",
+    "title_en": "Iran reports oil tanker explosion after warning against route deviation in Strait of Hormuz",
+    "summary": "ERBIL, Kurdistan Region - An oil tanker exploded in the Strait of Hormuz on Sunday after striking a sea mine amid warnings regarding deviation from Iran-designated routes, according to Iran state media, in the latest escalation in the strategic waterway with the United States. Islamic Revolutionary Guard Corps (IRGC)-affiliated Tasnim News Agency reported that \"a violating oil tanker in the Strait of Hormuz, which had deviated from the route designated by Iran, exploded after striking a sea mine",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b7fce646c8e785d",
+    "url": "https://www.rudaw.net/english/categories/syria/1078531",
+    "title": "Family Awaits Return of Abducted Father in Hasaka",
+    "title_en": "Family Awaits Return of Abducted Father in Hasaka",
+    "summary": "ERBIL, Kurdistan Region - The family of a Kurdish father of six appealed for help on Sunday after he and his driver were abducted by an unknown armed group while working near Menajir (al-Manajir) and Sari Kani (Ras al-Ain) in Hasaka province in northeastern Syria (Rojava) earlier this month. Relatives say the kidnappers are demanding a $600,000 ransom. Mohammed Qadir, 52, and his driver, Wiso Hoshan, 25, disappeared almost two weeks ago on July 14. Mohammed’s daughter, Rola Qadir, told Rudaw's S",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc072b49664736db",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1865867",
+    "title": "هەولێر.. سێ پێشنیاز بۆ چارەسەری کێشەی بەنزین دەدرێتە حکومەت",
+    "title_en": "هەولێر.. سێ پێشنیاز بۆ چارەسەری کێشەی بەنزین دەدرێتە حکومەت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4fd96db793c843cc",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1865866",
+    "title": "کۆمیسیۆن هەڵبژاردنی رێکخەری گۆڕانی هەڵوەشاندەوە",
+    "title_en": "کۆمیسیۆن هەڵبژاردنی رێکخەری گۆڕانی هەڵوەشاندەوە",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی جڤاتی نیشتمانیی بزووتنەوەی گۆڕان رایگەیاند، کۆمیسیۆنی باڵای سەربەخۆی هەڵبژاردنەکانی عێراق، هەڵبژاردنی جڤاتی بزووتنەوەی گۆڕانی پەسند کردووە و تەنیا هەڵبژاردنی رێکخەری گشتی هەڵوەشاندووەتەوە. هاوکات، دەرگای ئاشتبوونەوە بۆ باڵەکەی دیکەی گۆڕان دەکاتەوە و دەڵێ، \"هیوادارین جارێکی دیکە لە یەک سەنگەردا کۆببینەوە.\" بەشێک لە سەرکردەکانی بزووتنەوەی گۆڕان لە کەرکووک کۆنفرانسێکیان بەست و تێیدا دەستەی بەڕێوەبردنی نوێیان هەڵبژارد. دواتر، ناکۆکییەکانی نێو بزووتنەوەکە زیاتر بوون و بوونە د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47181411f03a9ca6",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303521",
+    "title": "Arî Hersîn: Avanekirina hikûmetê çirke bi çirke zererê dide Kurdistanê",
+    "title_en": "Arî Hersîn: Avanekirina hikûmetê çirke bi çirke zererê dide Kurdistanê",
+    "summary": "Hewlêr (Rûdaw) - Birêvebirê Şaxa 4an a Partiya Demokrat a Kurdistanê (PDK) ya li Silêmaniyê Arî Hersîn ragihand ku bipaşketina avakirina kabîneya nû ya Hikûmeta Herêma Kurdistanê \"çirke bi çirke zererê dide Herêma Kurdistanê û berjewendiyên xelkê.\" Arî Hersîn beşdarî bultena saet 12:00an a Rûdawê bû ku Senger Ebdulrehman pêşkêş dikir. Wî amaje bi girîngiya civîna lûtkeyê ya di navbera PDK û Yekîtiya Niştimanî ya Kurdistanê (YNK) de kir û ev lûtke wekî \"nûçeyeke gelekî xweş\" bi nav kir û diyar ki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "12b2bb7391a6a927",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303522",
+    "title": "Koreya Başûr dixwaze pêwendiyên xwe yên bi Herêma Kurdistanê re bi pêş bixe",
+    "title_en": "Koreya Başûr dixwaze pêwendiyên xwe yên bi Herêma Kurdistanê re bi pêş bixe",
+    "summary": "Hewlêr (Rûdaw) - Serok Mesûd Barzanî îro li Hewlêrê bi Konsulê Giştî yê Koreya Başûr Un Gyu Shim re hevdîtinek kir. Konsulê Giştî yê Koreya Başûr ji bo hevdîtina bi Serok Barzanî re kêfxweşiya xwe anî zimên. Wî rêz û spasiya xwe ji bo rola Serok Barzanî ya di xebata neteweyî û niştimanî ya gelê Kurdistanê de nîşan da. Her wiha wî bal kişand ser pebşibîna xebat û berxwedana gelê Koreyê û gelê Kurdistanê. Un Gyu Shim xwestina welatê xwe ya ji bo bipêşxistina pêwendî û hevahengiyê ya di warên perwe",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
