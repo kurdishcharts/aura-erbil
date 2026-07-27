@@ -174363,6 +174363,330 @@
     }
   },
   {
+    "id": "96b56f5684fb82a1",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078546",
+    "title": "Houthis claim Saudi oil attacks as Riyadh accuses Iran-backed Iraqi militias",
+    "title_en": "Houthis claim Saudi oil attacks as Riyadh accuses Iran-backed Iraqi militias",
+    "summary": "ERBIL, Kurdistan Region - The Iran-backed Ansarullah movement in Yemen, better known as the Houthis, on Monday claimed they launched drone attacks on \"sensitive\" crude supply lines in Saudi Arabia's Eastern Province, shortly after Riyadh accused Iran-aligned \"terrorist militias\" in Iraq of attempting to target its oil facilities there and urged Baghdad to take action to deter them. \"A number of targets and sensitive positions related to the crude oil supply and transport lines from Eastern Saudi",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f1525bffd242f2f8",
+    "url": "https://www.rudaw.net/english/categories/iran/1078545",
+    "title": "Four Kurdish dissidents killed in clashes with Iranian forces in Rojhelat",
+    "title_en": "Four Kurdish dissidents killed in clashes with Iranian forces in Rojhelat",
+    "summary": "ERBIL, Kurdistan Region - Four members of the Kurdistan Free Life Party (PJAK) dissident group were killed in clashes with Iranian security forces in Iran’s Kurdish-majority western regions (Rojhelat), Tehran’s state and semi-official media reported on Monday. The incident took place in the city of Baneh, northwest of Rojhelat’s Kurdistan province, the state-run Islamic Republic of Iran Broadcasting relayed in a post on X. The semi-official Mehr News Agency cited Saeed Montazer al-Mahdi, spokesp",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f0bf44a5a879e77",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1865960",
+    "title": "سبەی لە 26 بەنزینخانەی هەولێر بەنزین دابەش دەکرێت و لە 12یان بە کارتی ئەلیکترۆنی دەبێت",
+    "title_en": "سبەی لە 26 بەنزینخانەی هەولێر بەنزین دابەش دەکرێت و لە 12یان بە کارتی ئەلیکترۆنی دەبێت",
+    "summary": "رووداو دیجیتاڵ سبەی سێشەممە لە 26 بەنزینخانەی سنووری پارێزگای هەولێر و ئیدارەی سەربەخۆی سۆران، بەنزینی 750 دیناری دابەش دەکرێت، کە 12 لەو بەنزینخانانە تەنیا بە کارتی ئەلیکترۆنی دابەشی دەکەن. رۆژی دووشەممە 27ـی تەممووزی 2026، سالار محەممەد، لێپرسراوی لیژنەی پشکنین و بەدواداچوون لە بەڕێوەبەرایەتیی نەوت و کانزاکانی هەولێر بە تۆڕی میدیایی رووداوی راگەیاند، ئەمڕۆ وەک تێست لە بەنزینخانەیەکی هەولێر بەنزین بە کارتی ئەلیکترۆنی دابەشکرا و زۆر سەرکەتوو بوو و گوتی: \"لە کاژێر 01:00ـی دوای نیوەڕۆوە هیچ نۆرەیە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "50226c0895f3841b",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1865956",
+    "title": "سێ رۆژە شەڕ وەستاوە؛ سعودیە درۆنەکانی عێراق تێکدەشکێنێت",
+    "title_en": "سێ رۆژە شەڕ وەستاوە؛ سعودیە درۆنەکانی عێراق تێکدەشکێنێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "aac512e0d883ad79",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1865955",
+    "title": "ترەمپ: ئێران داوای کۆبوونەوەی کردووە؛ ئەگەر رێکنەکەوین هێرش دەکەینەوە",
+    "title_en": "ترەمپ: ئێران داوای کۆبوونەوەی کردووە؛ ئەگەر رێکنەکەوین هێرش دەکەینەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ویلایەتە یەکگرتووەکانی ئەمریکا ئەمڕۆ دووشەممە رایگەیاند، ئێران بە شێوەیەکی راستەوخۆ و لە رێگەی نێوەندگیرەکانییەوە داوای کۆبوونەوەی کردووە. هۆشداری دا ئەگەر لەم گفتوگۆ نوێیانەدا نەگەنە ئەنجام، ئەوا سوپای وڵاتەکەی دەست بە هێرشە چڕەکانی دەکاتەوە. دۆناڵد ترەمپ لە ناو فڕۆکەی سەرۆکایەتی (ئەیر فۆرس وەن) لە کاتی گەشتکردنی بەرەو ناوچەی واتەرفۆرد، بە رۆژنامەڤانانی گوت: \"ئێران لە رێگەی نێوەندگیرەکان و بە شێوەیەکی راستەوخۆش داوای کۆبوونەوەی کردووە. ئێمە ئێستا خەریکی کۆبوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d0b5f5b829e355cd",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1865951",
+    "title": "هەوڵێک هەیە بەنزینی 450 دیناری بۆ هەرێمی کوردستان دابین بکرێت",
+    "title_en": "هەوڵێک هەیە بەنزینی 450 دیناری بۆ هەرێمی کوردستان دابین بکرێت",
+    "summary": "رووداو دیجیتاڵ لیژنە تایبەتەکەی پەرلەمانی عێراق بۆ لێکۆڵینەوە لە دۆسیەی سووتەمەنی و 50 هەزار بەرمیل نەوتی هەرێمی کوردستان یەکەم کۆبوونەوەی کرد؛ پەرلەمانتارانی کورد لە بەغدا دەڵێن، دەبێت هاونیشتمانیانی هەرێمی کوردستان، هاوشێوەی ناوچەکانی دیکەی عێراق، بەنزین بە نرخی 450 دینار وەربگرن. رۆژی دووشەممە، 27-07-2026 لیژنەی کاتیی پەرلەمانی عێراق بۆ لێکۆڵینەوە لە پرسی ناردنی 50 هەزار بەرمیل نەوتی رۆژانە بۆ هەرێمی کوردستان و چارەسەرکردنی قەیرانی بەنزین، یەکەم کۆبوونەوەی خۆی بە سەرۆکایەتیی عامر عەبدولجەبار ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2280a1a879e76bc1",
+    "url": "https://www.rudaw.net/sorani/categories/world/1865959",
+    "title": "مێرتس گۆڕانکارییەکانی نێو کابینەی حکومەتی ئەڵمانیای تەواوکرد",
+    "title_en": "مێرتس گۆڕانکارییەکانی نێو کابینەی حکومەتی ئەڵمانیای تەواوکرد",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "de831f86a612cf0c",
+    "url": "https://www.rudaw.net/sorani/categories/world/1865958",
+    "title": "پۆلیسی پاریس پیاوێکی دەستگیرکرد کە بە چەقۆ سێ ژنی بریندار کردبوو",
+    "title_en": "پۆلیسی پاریس پیاوێکی دەستگیرکرد کە بە چەقۆ سێ ژنی بریندار کردبوو",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49bdce5678dab522",
+    "url": "https://www.rudaw.net/sorani/categories/world/1865957",
+    "title": "لە نزیک کۆنسووڵخانەی ئەمریکا لە تۆرۆنتۆ تەقەکرا",
+    "title_en": "لە نزیک کۆنسووڵخانەی ئەمریکا لە تۆرۆنتۆ تەقەکرا",
+    "summary": "رووداو دیجیتاڵ پۆلیسی کەنەدا رایگەیاند، بەرەبەیانی رۆژی دووشەممە 27-07-2026 تەقە لە نزیک کۆنسووڵخانەی ئەمریکا لە شاری تۆرۆنتۆ کراوە، بەڵام هیچ کەسێک بریندار نەبووە. ئەمە دووەمین رووداوی تەقەکردنە لە نزیک ئەو باڵەخانە دیپلۆماسییە لە ماوەی چوار مانگدا. پۆلیسی تۆرۆنتۆ لە ئێکس بڵاویکردەوە: \"ئەفسەرەکانمان گوێیان لە دەنگی تەقە بووە لە ناوچەکەدا\" و \"بینراوە ئۆتۆمبێلێکی سیدانی سپی لە شوێنی رووداوەکە بووە و دواتر رۆیشتووە. پۆلیس ئاماژەی بەوەش کردووە، ناوچەکە گەمارۆدراوە و قەوانی فیشەک دۆزراوەتەوە، بەڵام ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "25d807b5bec2fb6d",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1865954",
+    "title": "ئاکپارتی لەبارەی پرۆسەی چارەسەری: گەیشتووینەتە قۆناخێکی یاسایی بۆ چەکدانانی پەکەکە",
+    "title_en": "ئاکپارتی لەبارەی پرۆسەی چارەسەری: گەیشتووینەتە قۆناخێکی یاسایی بۆ چەکدانانی پەکەکە",
+    "summary": "رووداو - دیجیتاڵ گوتەبێژی پارتی داد و گەشەپێدان (ئاکپارتی) رایگەیاند، لە بابەتی پرۆسەی چارەسەریدا گەیشتوونەتە قۆناخی زەمینەسازیی یاسایی بۆ چەکدانانی پەکەکە. دوای کۆبوونەوەی ناوەندی بڕیار و بەڕێوەبردنی ئاکپارتی کە ئەمڕۆ دووشەممە 27-7-2026 لە ئەنقەرە بەڕێوەچوو، عومەر چەلیک گوتەبێژی ئەو پارتە لە کۆنفرانسێکی رۆژنامەڤانیدا باسی هەنگاوەکانی پرۆسەی چارەسەریی کرد. چەلیک گوتی: \"لە بابەتی تورکیای بێ تیرۆردا گەیشتووینەتە قۆناخێکی نوێ. ئەویش رەخساندنی زەمینەیەکی یاساییە بۆ چەکدانان. کۆبوونەوەی زۆر سازدەکەین",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f16e12210beb04e9",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1865953",
+    "title": "پارەی زبڵ و خاشاک لە رێگەی ئەپی مۆبایلەوە دەدرێت",
+    "title_en": "پارەی زبڵ و خاشاک لە رێگەی ئەپی مۆبایلەوە دەدرێت",
+    "summary": "رووداو دیجیتاڵ وەزارەتی شارەوانی و گەشتوگوزار بڕیاری داوە لەمەودوا پارەی زبڵ و خاشاک لە رێگەی ئەپەکانی پارەدانی ئەلیکترۆنی کۆبکاتەوە. بەڕێوەبەری گشتی شارەوانییەکان دەڵێت ئێستا سیستەمەکە لە هەولێر لە قۆناخی تاقیکردنەوەدایە و ئەگەر پرۆسەکە سەرکەوتوو بێت، لە سەرجەم هەموو شارەوانییەکان جێبەجێ دەکرێت. مەریوان هادی، بەڕێوەبەری گشتی شارەوانییەکان، ئەمڕۆ دووشەممە (27ی تەموزی 2026) بە رووداوی راگەیاند: ئەم هەنگاوە بە مەبەستی کەمکردنەوەی رۆتین و ئاسانکردنی پرۆسەی پارەدان بۆ خاوەن دوکان، بازرگانان و خاوەن ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7125a0ac7fb6a44d",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1865952",
+    "title": "لە دهۆک، چوار کرێکار لە کاتی کارکردندا بریندار بوون",
+    "title_en": "لە دهۆک، چوار کرێکار لە کاتی کارکردندا بریندار بوون",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ دووشەممە لە پارێزگای دهۆک، چوار کرێکار لە کاتی کارکردن لەسەر دوو پڕۆژەی جیاواز کەوتنە خوارەوە و بریندار بوون و تەندروستیی یەکێک لە کرێکارەکان ناجێگیرە. وەڵات ئەمین، سەرۆکی سەندیکای کرێکارانی دهۆک، بە تۆڕی میدیایی رووداوی راگەیاند: \"لە رووداوی یەکەمدا، سێ کرێکار لە کاتی کارکردن لە پڕۆژەیەکی بیناسازیدا کەوتوونەتە خوارەوە. تەمەنی ئەو کرێکارانە 17، 22 و 46 ساڵە.\" سەبارەت بە تەندروستییان، وڵات ئەمین، ئاماژەی بەوە کرد، یەکێک لە کرێکارەکان بەهۆی ئەوەی زیانێکی زۆر بەر بڕبڕەی پشتی کە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "307f17562737ed4b",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1865949",
+    "title": "خانمە هونەرمەند چیمەن ناسری لە سنە کۆچی دواییکرد",
+    "title_en": "خانمە هونەرمەند چیمەن ناسری لە سنە کۆچی دواییکرد",
+    "summary": "رووداو دیجیتاڵ چیمەن ناسری، خانمە هونەرمەندی بواری فیلم و کۆمیدی لە شاری سنە کۆچی دواییکرد. ئەمڕۆ دووشەممە، 27ی تەممووزی 2026، هونەرمەندبیهنام محەممەدی، بە تۆڕی میدیایی رووداوی راگەیاند: \"چیمەن ناسری، لە تەمەنی 55 ساڵیدا بە نەخۆشیی شێرپەنجە کۆچی دواییکرد.\" چیمەن ناسری لە ساڵی 1971 لە شاری سنە لەدایکبووە، لە فیلمی (رێگەی خۆشبەختی) و زنجیرەی (رۆژە خۆشەکانی ژیان و کانی مۆناکۆ) بەشدار بووە. ئەو هونەرمەندە لە ژمارەیەک شانۆگەریشدا بەشداری کردووە، لەوانەش (کوڕە یا کەنیشک). لە کارە کۆمیدییەکانیدا بە \"دا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e7b2db3673d185af",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1865950",
+    "title": "دوو برا لە حەوزی باخەکەیان لە تەنیشت زێی بچووک لە سەنگەسەر خنکان",
+    "title_en": "دوو برا لە حەوزی باخەکەیان لە تەنیشت زێی بچووک لە سەنگەسەر خنکان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8749e0dffdaa4b8f",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1303557",
+    "title": "Rêwîtiyek ber bi tilê tariyê ve",
+    "title_en": "Rêwîtiyek ber bi tilê tariyê ve",
+    "summary": "Xwînerê hêja, Berhema duyem a vê destenivîsê “Heart of Darkness” a Joseph Conrad e. Min ev berhem bi taybetî hilbijart ji ber ku kêm berhemên bi vî rengî hene ku encamên mêtingeriyê yên li ser mêtingeran vedibêjin. Joseph Conrad nêzikî bîst salên jiyana xwe li ser deryayê derbas kirin, gelek çandên cuda nas kirin, pergala emperyalîst a Ewropî ji nêzik ve nas kir. Piştî 36 saliya xwe Conrad dev ji deryavaniyê berda û dema xwe bêtir ji bona nivîsandinê terxan kir. Heart of Darkness wek du çîrokên ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e7350f76069b0d45",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1303557",
+    "title": "Rêwîtiyek ber bi tilê tariyê ve",
+    "title_en": "Rêwîtiyek ber bi tilê tariyê ve",
+    "summary": "Xwînerê hêja, Berhema duyem a vê destenivîsê “Heart of Darkness” a Joseph Conrad e. Min ev berhem bi taybetî hilbijart ji ber ku kêm berhemên bi vî rengî hene ku encamên mêtingeriyê yên li ser mêtingeran vedibêjin. Joseph Conrad nêzikî bîst salên jiyana xwe li ser deryayê derbas kirin, gelek çandên cuda nas kirin, pergala emperyalîst a Ewropî ji nêzik ve nas kir. Piştî 36 saliya xwe Conrad dev ji deryavaniyê berda û dema xwe bêtir ji bona nivîsandinê terxan kir. Heart of Darkness wek du çîrokên ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "214cbae3e7c1793b",
+    "url": "https://www.rudaw.net/kurmanci/categories/sriye/1303556",
+    "title": "Neteweyên Yekbûyî: Li Sûriyeyê heta 300 hezar kesan winda ne",
+    "title_en": "Neteweyên Yekbûyî: Li Sûriyeyê heta 300 hezar kesan winda ne",
+    "summary": "Hewlêr (Rûdaw) - Neteweyên Yekbûyî (NY) ragihand ku hejmara kesên winda yên li Sûriyeyê di navbera 130 hezar û 300 hezarî de ye. Seroka Saziya Serbixwe ya Taybet bi Kesên Winda yên li Sûriyeyê Carla Quintanayê ragihand ku saziya wan di nava salekê de li ser zêdetirî 75 hezar belgeyan xebitiye. Bi gotina wê ew xebat ji bo eşkerekirina çarenivîsa kesên winda gelekî girîng e. Bi vê yekê re, saziyê kariye gav bi gav bersivan bide malbatên kesên winda. “Her malbata Sûriyeyê kesekî winda nas dike” Car",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "377c477fae663e09",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1303556",
+    "title": "Neteweyên Yekbûyî: Li Sûriyeyê heta 300 hezar kesan winda ne",
+    "title_en": "Neteweyên Yekbûyî: Li Sûriyeyê heta 300 hezar kesan winda ne",
+    "summary": "Hewlêr (Rûdaw) - Neteweyên Yekbûyî (NY) ragihand ku hejmara kesên winda yên li Sûriyeyê di navbera 130 hezar û 300 hezarî de ye. Seroka Saziya Serbixwe ya Taybet bi Kesên Winda yên li Sûriyeyê Carla Quintanayê ragihand ku saziya wan di nava salekê de li ser zêdetirî 75 hezar belgeyan xebitiye. Bi gotina wê ew xebat ji bo eşkerekirina çarenivîsa kesên winda gelekî girîng e. Bi vê yekê re, saziyê kariye gav bi gav bersivan bide malbatên kesên winda. “Her malbata Sûriyeyê kesekî winda nas dike” Car",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
