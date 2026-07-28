@@ -178305,6 +178305,78 @@
     }
   },
   {
+    "id": "ab665f108dd31046",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078571",
+    "title": "Saudi Arabia says it intercepted drones launched from Iraq for second day in a row",
+    "title_en": "Saudi Arabia says it intercepted drones launched from Iraq for second day in a row",
+    "summary": "ERBIL, Kurdistan Region - Saudi Arabia said Tuesday it had intercepted several drones attempting to target oil facilities in the country's Eastern Province, noting that they were launched from Iraqi territory. The remarks came a day after Riyadh made similar claims on Monday, urging Baghdad to prevent its territory from being used as a \"launchpad for aggression.\" “Air defenses intercepted and destroyed a number of drones during the past hours, which attempted to target oil facilities in the East",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b9333e567371bd74",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078570",
+    "title": "Christian politician raises concerns over land confiscation in Nineveh Plains",
+    "title_en": "Christian politician raises concerns over land confiscation in Nineveh Plains",
+    "summary": "ERBIL, Kurdistan Region - Lands seized by the ousted Ba’athi regime in the Nineveh province must be returned to their original Christian owners, a Christian politician said on Tuesday, stressing the need to prevent a demographic change in the area. Ano Abdoka, the leader of Christian Alliance, told Rudaw’s Mustafa Goran that “the lands that belonged to Christians from their ancestors must be returned to Christians according to the law and the constitution. “We want to preserve the demography of ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2e655ab3a4f6a0ac",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078547",
+    "title": "Iraqi PM orders probe into Saudi drone attack claims",
+    "title_en": "Iraqi PM orders probe into Saudi drone attack claims",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Prime Minister Ali al-Zaidi on Monday directed relevant security agencies to investigate official Saudi statements claiming the kingdom was targeted in an attempted drone attack launched from Iraq. The remarks came shortly after Riyadh urged Baghdad to curb \"aggression\" carried out by Iran-backed \"terrorist militias\" from Iraqi territory. Zaidi ordered \"the relevant security agencies to investigate what was stated in the Saudi defense ministry's statement regardin",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3990d3a9c0b2b6c2",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866077",
+    "title": "پێنج رۆژە گەنجێکی 27 ساڵ لە شیلادزێ خنکاوە و تەرمەکەی دیار نییە",
+    "title_en": "پێنج رۆژە گەنجێکی 27 ساڵ لە شیلادزێ خنکاوە و تەرمەکەی دیار نییە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
