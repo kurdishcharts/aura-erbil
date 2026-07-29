@@ -181455,6 +181455,114 @@
     }
   },
   {
+    "id": "c8d900fc08150409",
+    "url": "https://www.rudaw.net/english/categories/iran/1078591",
+    "title": "Four IRGC members killed in US-Saudi airstrikes in Iraq",
+    "title_en": "Four IRGC members killed in US-Saudi airstrikes in Iraq",
+    "summary": "ERBIL, Kurdistan Region - Four members of Iran's Islamic Revolutionary Guard Corps (IRGC) were killed in joint US-Saudi airstrikes on positions belonging to the Popular Mobilization Forces (PMF) in Iraq on Wednesday, Tehran's state media reported. \"During recent joint US-Saudi airstrikes on Iraq's [eastern] Diyala province, four IRGC members … were martyred,\" Hassan Qamari, deputy governor for political, security and social affairs of Iran’s central-western Markazi province, told the state-run I",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fe4ca1761dc50d74",
+    "url": "https://www.rudaw.net/english/categories/turkey/1078590",
+    "title": "Turkish ex-PM quits politics, dissolves party",
+    "title_en": "Turkish ex-PM quits politics, dissolves party",
+    "summary": "ERBIL, Kurdistan Region - Turkish former Prime Minister Ahmet Davutoglu announced Wednesday that he is leaving politics and dissolving his Gelecek Partisi (Future Party), framing the move as an ethical step away from a \"decaying\" system - not a surrender - while pledging to keep working for the country outside party politics. In a four-page document shared on X, Davutoglu said he had decided to \"withdraw from party politics and end the Future Party's political activities\" so as not to remain par",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ed7abeaea184ba6f",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866171",
+    "title": "چوارچێوەی هاوئاهەنگی سەرکۆنەی هێرشەکانی ئەمریکا و سعودیە دەکات: عێراق ناکەینە گۆڕەپانی ململانێ",
+    "title_en": "چوارچێوەی هاوئاهەنگی سەرکۆنەی هێرشەکانی ئەمریکا و سعودیە دەکات: عێراق ناکەینە گۆڕەپانی ململانێ",
+    "summary": "رووداو دیجیتاڵ بە بەشداریی عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق، چوارچێوەی هاوئاهەنگی کۆبوونەوەیەکی \"بەپەلە\"ـی ئەنجامدا و تێیدا هێرشەکانی ئەمریکا و سعودیەی بۆ سەر خاکی عێراق بە \"پێشێلکارییەکی ئاشکرای سەروەریی وڵات\" ناوبرد. ئێوارەی دوێنێ چوارشەممە، 29ی تەممووزی 2026، عەلی فالح زەیدی لە کۆشکی حکومەت میوانداریی سەرکردەکانی چوارچێوەی هاوئاهەنگی کرد بۆ تاوتوێکردنی دوایین هێرشە ئاسمانییەکان کە هێزەکانی حەشدی شەعبیان لە چەند ناوچەیەکی عێراق کردە ئامانج. چوارچێوەی هاوئاهەنگی لە راگەیێندراوێکدا بە \"تووند",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3600413014577fcd",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866169",
+    "title": "میدیای پاسداران ناو و وێنەی پێنج ئەندامی پاسداران بڵاودەکاتەوە، کە لە عێراق کوژراون",
+    "title_en": "میدیای پاسداران ناو و وێنەی پێنج ئەندامی پاسداران بڵاودەکاتەوە، کە لە عێراق کوژراون",
+    "summary": "رووداو - دیجیتاڵ میدیا نافەرمییەکانی سەر بە سوپای پاسدارانی ئێران، ناو و وێنەی پێنج ئەندامی سوپاکەیان بڵاوکردەوە، کە لە هێرشە هاوبەشەکەی سعودیە و ئەمریکا بۆ سەر بارەگاکانی حەشدی شەعبی لە پارێزگاکانی عێراق کوژراون. کەناڵەکانی وەکو (خبر سپاە پاسداران) و (سپاە سایبری پاسداران) لە تەلەگرام بڵاویان کردەوە، پێنج ئەندامی سوپای پاسداران لەو ‌هێرشانەدا کوژراون. دوو لە چەکدارەکان پلەدارن، یەکێکیان عەقیدە و ئەوەی دیکەشیان نەقیبە. بەگوێرەی میدیای نزیک لە پاسداران، چوار ئەندامی پاسداران، کە خەڵکی شاری کاشانن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c2888a8c267a9b0",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866170",
+    "title": "ترەمپ: بە تووندی لە ئێران دەدەین",
+    "title_en": "ترەمپ: بە تووندی لە ئێران دەدەین",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، وڵاتەکەی بە تووندی لە ئێران دەدات و جەختی کردەوە لەوەی تاران داوای لێکردوون وەڵامی هێرشەکانی ئەم دواییە نەدەنەوە، بەڵام گوتی، \"ئێستا نۆرەی ئێمەیە.\" دۆناڵد ترەمپ لە لێدوانێکدا بۆ رۆژنامەنووسان، هێرشە درۆنییەکەی ئەم دواییەی سەر میسری بە \"پەیوەندیدار بە ئێران\" وەسف کرد و رایگەیاند، \"ئێمە بە تووندی لەوان دەدەین. دەتوانم ئەوە بڵێم چونکە ناتوانن هیچ شتێک لە بەرامبەردا بکەن\". ترەمپ ئاماژەی بەوە کرد، تاران دەزانێت هێرشی ئەمریکا لە رێگەیە و داوایان ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "02acbc8df83adb29",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1866168",
+    "title": "بانکی ناوەندیی ئەمریکا رێژەی سوودی بانکی وەک خۆی هێشتەوە",
+    "title_en": "بانکی ناوەندیی ئەمریکا رێژەی سوودی بانکی وەک خۆی هێشتەوە",
+    "summary": "رووداو دیجیتاڵ بانکی ناوەندیی ئەمریکا بڕیاری دا بۆ پێنجەمین جار لەسەر یەک رێژەی سوودی بانکی بەبێ گۆڕانکاری بهێڵێتەوە، ئەمەش لە کاتێکدایە بەهۆی جەنگی ئێرانەوە هەڵاوسان رووی لە زیادبوون کردووە و بەشێک لە بەرپرسانی بانکەکە داوای رێکاری تووندتر دەکەن. لیژنەی بازاڕی کراوەی فیدراڵی ئەمریکا بڕیاری دا، رێژەی سوودی بانکی لە نێوان 3.50٪ بۆ 3.75٪ بمێنێتەوە. لە کۆبوونەوەی لیژنەکە بۆ بڕیاردان لەسەر رێژەکە، سێ ئەندام لە کۆی 12 ئەندامی لیژنەکە، کە لۆری لۆگان، بێت هاماک و نیل کاشکاری بوون، دژی بڕیاری هێشتنەوەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
