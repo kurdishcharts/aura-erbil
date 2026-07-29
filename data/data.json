@@ -178377,6 +178377,24 @@
     }
   },
   {
+    "id": "55627020731ae476",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866078",
+    "title": "سێنتکۆم: بەرپەرچی هێرشێکی مووشەکیی کتوپڕی ئێرانمان دایەوە",
+    "title_en": "سێنتکۆم: بەرپەرچی هێرشێکی مووشەکیی کتوپڕی ئێرانمان دایەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
