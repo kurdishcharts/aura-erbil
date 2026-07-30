@@ -184065,6 +184065,186 @@
     }
   },
   {
+    "id": "167ead2941d141fa",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078604",
+    "title": "US denies IRGC claim of destroying F-35 jets at Jordan airbase",
+    "title_en": "US denies IRGC claim of destroying F-35 jets at Jordan airbase",
+    "summary": "ERBIL, Kurdistan Region - The claims by Iran's Islamic Revolutionary Guard Corps (IRGC) that it destroyed three American F-35 fighter jets at a base in Jordan are false, the US Central Command (CENTCOM) said Thursday, further accusing Iranian forces of posing an \"immediate threat\" to commercial and civilian shipping in the Strait of Hormuz. \"The IRGC claims three U.S. F-35 stealth fighters and three other aircraft were destroyed during a recent Iranian attack on an American air base,\" the Comman",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "99e2cc643cba1d7e",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866254",
+    "title": "گولـلەیەکی وێڵ بەر سەری ئومێدی 7 ساڵ کەوت؛ پزیشکەکان دەڵێن، \"نەشتەرگەرییەکە پڕ مەترسییە\"",
+    "title_en": "گولـلەیەکی وێڵ بەر سەری ئومێدی 7 ساڵ کەوت؛ پزیشکەکان دەڵێن، \"نەشتەرگەرییەکە پڕ مەترسییە\"",
+    "summary": "رووداو دیجیتاڵ لە گوندێکی سەر بە قەزای شێخان لە پارێزگای دهۆک، گولـلەیەکی وێڵ بەر سەری منداڵێکی 7 ساڵ بە ناوی ئومێد کەوت. کەمال محەممەد، باوکی ئومێد، لە کاتی بەشداریکردن لە بووڵتەنی کاژێر 17:00ـی تۆڕی میدیایی رووداودا رایگەیاند، گولـلەیەکە لە سەری کوڕەکەیدا ماوەتەوە و پزیشکەکان ترسی ئەوەیان هەیە کوڕەکەی ئیفلیج بێت. کەمال محەممەد سەبارەت بە وردەکاریی رووداوەکە ئاماژەی بەوە کرد، ئومێد لە باخچەی ماڵەکەیان لە قەسرۆک لەگەڵ خوشکە 3 ساڵانەکەی یاری دەکرد، لەو کاتەدا گولـلەیەک بەر سەری کەوت. باوکی ئومێد ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd68df2c20495d80",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866253",
+    "title": "وەزارەتی بەرگریی چین بۆ رووداو: سێ بنەمامان بۆ هەناردەکردنی چەک بۆ عێراق و ناوچەکە هەیە",
+    "title_en": "وەزارەتی بەرگریی چین بۆ رووداو: سێ بنەمامان بۆ هەناردەکردنی چەک بۆ عێراق و ناوچەکە هەیە",
+    "summary": "رووداو دیجیتاڵ جیانگ بین، گوتەبێژی وەزارەتی بەرگریی چین لە لێدوانێکی تایبەتدا بۆ رووداو رایگەیاند، وڵاتەکەی لە هەناردەکردنی چەکدا پەیڕەوی سێ بنەمای سەرەکی دەکات؛ ئاماژەی بەوەشکرد، هاوکارییە سەربازییەکانیان لەگەڵ عێراق بەردەوام دەبن . جیانگ بین لە کۆنفرانسێکی رۆژنامەڤانیدا لە بەیژینگ ئاماژەی بەوە کرد، چین و سوپای عێراق پەیوەندییەکی دۆستانەی مێژووییان هەیە؛ ئەم هاوکارییە بوارەکانی ئاڵوگۆڕی کارمەند، مەشق و راهێنانی سەربازی لەنێوان ئەکادیمیاکانی هەردوو وڵات دەگرێتەوە. گوتەبێژی وەزارەتی بەرگریی چین س",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a4cf231bb0ce2094",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1866260",
+    "title": "بەکارهێنانی یەدەگ و چاپکردنی پارە؛ عێراق تا کەی دەتوانێت لەسەر بانکی ناوەندی بژی؟",
+    "title_en": "بەکارهێنانی یەدەگ و چاپکردنی پارە؛ عێراق تا کەی دەتوانێت لەسەر بانکی ناوەندی بژی؟",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "12f878a842d458d3",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866258",
+    "title": "واژۆ بۆ دانیشتنى نائاسایی پەرلەمان بە ئامادەبوونی عەلی زەیدی کۆدەکرێتەوە",
+    "title_en": "واژۆ بۆ دانیشتنى نائاسایی پەرلەمان بە ئامادەبوونی عەلی زەیدی کۆدەکرێتەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dd00b7a16fbcc9c6",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1866256",
+    "title": "زیاتر لە 1300 خێزانی شەهبا چاوەڕێی گەرەنتیی ئاسایش دەکەن بۆ گەڕانەوە",
+    "title_en": "زیاتر لە 1300 خێزانی شەهبا چاوەڕێی گەرەنتیی ئاسایش دەکەن بۆ گەڕانەوە",
+    "summary": "رووداو دیجیتاڵ جەواهیر حەمدۆ، دایکی حەوت منداڵە و لە نێو نەخۆشخانەیەکی کۆن و چۆڵی شاری قامشلۆ ژیان بەسەردەبات. ئەو ئاوارەی دەستی شەڕە، نەک هەر بارودۆخی ژیانی سەختە، بەڵکو چاوەڕێی چارەنووسی هاوسەرەکەشی دەکات حەوت مانگە لە زینداندایە و کچە بچووکەکەی هێشتا باوکی نەبینیوە. جەواهیر حەمدۆ، خەڵکی گوندەواری شە‌هبایە و پێشتر دانیشتووی گەڕەکی شێخ مەقسوودی شاری حەلەب بووە، چیرۆکی ئاوارەیی و بێسەروشوێنبوونی هاوسەرەکەی بۆ رووداو دەگێڕێتەوە و دەڵێت: \"زۆر قورسە، زەحمەتە، من بوومەتە ژن و پیاوی ماڵەکە، ژیان ئاوا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d24fc40d48dde8d6",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866255",
+    "title": "پەڕینەوەی کۆچبەران لە نۆکەندی ئینگلیزەوە بۆ بەریتانیا ژمارەیەکی پێوانەیی تۆمارکرد",
+    "title_en": "پەڕینەوەی کۆچبەران لە نۆکەندی ئینگلیزەوە بۆ بەریتانیا ژمارەیەکی پێوانەیی تۆمارکرد",
+    "summary": "رووداو دیجیتاڵ رۆژی پێنجشەممە، 30ی تەممووزی 2026، حکومەتی بەریتانیا رایگەیاند، رۆژی پێشتر 752 کۆچبەر لەرێگەی بەلەمی بچووکەوە بە نۆکەندی ئینگلیزدا گەیشتوونەتە وڵاتەکەی، کە ئەمەش بەرزترین ژمارەی رۆژانەیە ئەم ساڵ تۆمار کرابێت. ئەو ئامارە کە لەلایەن وەزارەتی ناوخۆی بەریتانیاوە بڵاوکراوەتەوە، ژمارە پێوانەییەکەی ساڵی 2026ـی شکاند، کە لە مانگی حوزەیراندا بە گەیشتنی 710 کۆچبەر لە یەک رۆژدا تۆمارکرابوو. پرسی گەیشتنی کۆچبەری نایاسایی بە بەلەمی بچووک بووەتە کێشەیەکی گەورە بۆ حکومەتە یەک لەدوای یەکەکانی بەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ae08ae3ce3cd53b5",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866233",
+    "title": "هەنجیری خۆماڵی کەوتە بازاڕ و لە عەلوەکان بە پێنج هەزار دینارە",
+    "title_en": "هەنجیری خۆماڵی کەوتە بازاڕ و لە عەلوەکان بە پێنج هەزار دینارە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی کشتوکاڵی ئاکرێ راگەیاند، بەهۆی بارینی بەفر و بارانی زۆر لە زستانی رابردوودا، کوالێتی هەنجیری ئەمساڵ \"پلە یەک\" دەبێت. هاوکات لە عەلوەکانی هەولێر و سلێمانی نرخی کیلۆیەک هەنجیری لە نێوان سێ بۆ پێنج هەزار دینارە. رۆژی پێنجشەممە، 30ـی تەممووزی 2026، فازڵ مستەفا، بەڕێوەبەری کشتوکاڵی ئاکرێ بە تۆڕی میدیایی رووداوی راگەیاند، \"بەهۆی بارینی باران و بەفری زۆر، هەنجیری ئەمساڵمان پلە یەک دەبێت و کوالێتییەکەی زۆر باش دەبێت؛ چونکە بەشێک لە ڤایرۆس و نەخۆشییەکان بەهۆی بەفرەوە لەناود",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "43e7f4e11bab47f0",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303677",
+    "title": "Di ser Enfala Barzaniyan re 43 sal derbas dibin",
+    "title_en": "Di ser Enfala Barzaniyan re 43 sal derbas dibin",
+    "summary": "Hewlêr (Rûdaw) - 43 sal di ser pêla Enfala Barzaniyan re derbas dibin lê hîn jî cilên reş ên dayîkên Barzaniyan nehatine guhertin. Salane di salvegera wê karesatê de, xemgîniya windabûna kur, hevjîn û kesên wan nû dibe û dibe birînek ku bi derbasbûna bi dehan salan jî nehatiye dermankirin. Halîme Silêmana ku yek ji dayîkên Enfalê ye, bi çavên tijî hêsir behsa wê êşê dike ku hîn wekî roja ewil di canê wê de maye û dibêje: \"Heta em dimirin ew karesat ji bîra me naçe. Em mirine, ma çi ji me maye? E",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c97fa847165d633",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303676",
+    "title": "Koçbera Kurd Cewahir Hemdo: Ez hem bûme mêr hem jî jin",
+    "title_en": "Koçbera Kurd Cewahir Hemdo: Ez hem bûme mêr hem jî jin",
+    "summary": "Hewlêr (Rûdaw) - Cewahir Hemdoya ku ji taxa Şêx Meqsûd a Helebê koçber bûye, bi 7 zarokên xwe re niha li Qamişloyê di nexweşxaneyeke kevn û vala de dijî. Bavê zarokan şervan bû û dema ku şer gihîşt taxên Kurdan ên li Helebê, hevjînê wê ket destê hikûmeta demkî ya Sûriyeyê û wekî dîl hat girtin. Cewahir Hemdo qala zehmetiyên xwe dike û dibêje, \"Rewş pir dijwar e, zehmet e, ez bûme mêr û jin.\" \"Hîn bavê xwe nedîtiye\" Piştî êrişa hikûmetê ya li dijî Kurdan, xelkê Şehbayê koçberî parêzgeha Hisîçayê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
