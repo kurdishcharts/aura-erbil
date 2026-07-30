@@ -181581,6 +181581,60 @@
     }
   },
   {
+    "id": "6122e35eebbf59ae",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866174",
+    "title": "سوپای ئەمریکا زنجیرەیەک هێرشی نوێی کردە سەر ئێران",
+    "title_en": "سوپای ئەمریکا زنجیرەیەک هێرشی نوێی کردە سەر ئێران",
+    "summary": "رووداو دیجیتاڵ سوپای ئەمریکا هێرشی \"بەهێز\"ـی کردەوە سەر ئێران، ئەمەش وەک وەڵامێک بۆ هێرشەکانی تاران کە بنکەکانی ئەمریکای لە ئوردن کردبووە ئامانج، لە کاتێکدا جەنگی رۆژهەڵاتی نێوەڕاست سەریهەڵداوەتەوە. میدیای فەرمیی ئێرانیش دەڵێ، لە چەندین شاری وڵاتەکە دەنگی تەقینەوە بیستراوە. رۆژی پێنجشەممە 30-07-2026 فەرماندەیی ناوەندیی ئەمریکا (سێنتکۆم) رایگەیاند: \"هێرشەکان وەڵامێکی بەهێزن بۆ هەوڵی هێرشەکانی دوێنێی ئێران بۆ سەر هێزەکانی ئەمریکا کە لە رۆژهەڵاتی نێوەڕاست جێگیرکراون.\" میدیا نافەرمییەکانی سەر بە سوپ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4df7ac156057ffce",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866173",
+    "title": "دەنگی تەقینەوە لە چەندین شاری ئێران بیسترا",
+    "title_en": "دەنگی تەقینەوە لە چەندین شاری ئێران بیسترا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b7e3003f17cacb51",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866175",
+    "title": "دوورگەی قیشم لە ئێران بۆردوومانکرا",
+    "title_en": "دوورگەی قیشم لە ئێران بۆردوومانکرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
