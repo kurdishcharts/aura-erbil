@@ -184929,6 +184929,258 @@
     }
   },
   {
+    "id": "142ff8becbe97cff",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078609",
+    "title": "Drone attack targets Iranian Kurdish group near Erbil",
+    "title_en": "Drone attack targets Iranian Kurdish group near Erbil",
+    "summary": "ERBIL, Kurdistan Region - An Iranian Kurdish opposition group said its base southwest of Erbil came under a drone attack in the early hours of Friday, with the extent of the damage still unknown. The Khabat Organization of Iranian Kurdistan (Khabat) is one of several Iranian Kurdish opposition groups based in the Kurdistan Region that Tehran considers separatist. The attack targeted the group's base in the Rizgari subdistrict, also known as Topzawa, within Erbil province's Khabat district. Video",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "290bb2f927e0e822",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078608",
+    "title": "Iraqi Airways to resume Baghdad-Moscow flights after five-month suspension",
+    "title_en": "Iraqi Airways to resume Baghdad-Moscow flights after five-month suspension",
+    "summary": "ERBIL, Kurdistan Region - Flights from Iraq to the Russian capital Moscow will resume early next week, the country's national carrier, Iraqi Airways, said in a statement, noting that the resumption follows nearly five months of disruption caused by the outbreak of the Iran war. \"Iraqi Airways will resume direct flights between Baghdad and Moscow and vice versa starting on Tuesday, August 4,\" the carrier said Thursday. The airline added that “flights had been suspended for five months due to secu",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d5a421a6ee5537c3",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866289",
+    "title": "هێرشکرایە سەر بنکەیەکی سازمانی خەباتی کوردستانی ئێران",
+    "title_en": "هێرشکرایە سەر بنکەیەکی سازمانی خەباتی کوردستانی ئێران",
+    "summary": "رووداو دیجیتاڵ  سازمانی خەباتی کوردستانی ئێران رایگەیاند، لەسەر رێگەی هەولێر- مەخموور هێرشکراوەتە سەر بنکەیەکیان، بەڵام تاوەکو ئێستا قەبارەی زیانەکان و سەرچاوەی هێرشەکە رانەگەیێندراون. بەرەبەیانی ئەمڕۆ هەینی 31-07-2026، لەسەر رێگەی هەولێر-مەخمووری باشووری کوردستان، هێرش کرایە سەر بارەگای سەرەکیی سازمانی خەباتی کوردستانی ئێران. ماڵپەڕە فەرمییەکانی سازمانی خەباتی کوردستانی ئێران لە تۆڕە کۆمەڵایەتییەکان گرتەڤیدیۆی هێرشەکەیان بڵاوکردووەتەوە. بەپێی گرتەڤیدیۆکە دوای بیستنی دەنگی تەقینەوەی بەهێز، دووکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4d1684ed2cd94028",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866288",
+    "title": "قالیباف: ئەمریکا باجی هێرشەکەی سەر قیشم دەدات",
+    "title_en": "قالیباف: ئەمریکا باجی هێرشەکەی سەر قیشم دەدات",
+    "summary": "رووداو دیجیتاڵ سەرۆکی پەرلەمانی ئێران هەڕەشە لە ئەمریکا دەکات و دەڵێت، باجی هێرشکردنە سەر دوورگەی قیشم دەدەن؛ ئاماژە بەوەش دەکات: ''ئەوان راهاتوون زللەیەی گۆڕەپانی جەنگ بە رشتنی خوێنی خەڵکی بێتاوان قەرەبوو بکەنەوە.'' بەرەبەیانی ئەمڕۆ هەینی 31-07-2026، محەممەدباقر قالیباف، سەرۆکی پەرلەمانی ئێران لە کاردانەوەی هێرشەکەی ئەمریکا بۆ سەر دوورگەی قیشمی باشووری وڵاتەکە پەیامێکی بڵاو کردەوە کە تێیدا هاتووە: ''ویلایەتە یەکگرتووەکانی ئەمریکا هەموو رۆژێک دەستی خۆی بە تاوانێکی نوێ سوور دەکات'' محەممەدباقر قا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44bc670c5510f9c5",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866291",
+    "title": "لەبەر مووچە بانکی رافیدەین لە رۆژانی پشووشدا دەوام دەکات",
+    "title_en": "لەبەر مووچە بانکی رافیدەین لە رۆژانی پشووشدا دەوام دەکات",
+    "summary": "رووداو دیجیتاڵ بانکی رافیدەین بڕیاری دا رۆژانی هەینی و شەممە و پشووەکان، دەوامکردن لە هەندێک لە لقەکانی بەردەوام بێت بۆ تەواوکردنی پڕۆسەی دابەشکردنی مووچەی فەرمانبەران. ئەو بانکە لە راگەیێنراوێکدا رایگەیاند، لە چوارچێوەی پەرۆشییان بۆ دابەشکردنی مووچە بەشێوەیەکی ئاسان و لە کاتی خۆیدا، بڕیاری کارکردنی ئەو لقانەی بانکەکەیان لە رۆژانی هەینی و شەممەدا داوە. بەگوێرەی راگەیێندراوەکە، ئەو لقانەی بانکەکە بەردەوام دەبن لە دەوامکردن کە تایبەتن بەو فەرمانبەرانەی جێگیرکردنی مووچەیان بۆ کراوە. بانکی رافیدەین ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c678b7bdea1ef83",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866290",
+    "title": "سوپای ئێران: هێرشمان کردە سەر بنکەیەکی ئەمریکا لە کوێت",
+    "title_en": "سوپای ئێران: هێرشمان کردە سەر بنکەیەکی ئەمریکا لە کوێت",
+    "summary": "رووداو دیجیتاڵ سوپای ئێران دەڵێت، هێرشێکی درۆنییان کردووەتە سەر بنکەی سەربازیی (ئەحمەد ئەلجابر)ـی ئەمریکا لە کوێت؛ ئاماژە بەوەش دەکات، زیانی زۆریان بە کۆگەکانی سووتەمەنی، پەناگەی فڕۆکە جەنگییەکان و رادارەکانی پەیوەندی گەیاندووە. بەرەبەیانی ئەمڕۆ هەینی 31-07-2026، پەیوەندییە گشتییەکانی سوپای ئێران (ئەرتەش) لە راگەیێندراوێکدا بڵاوی کردەوە، لە قۆناخی 27ـەمی ئۆپەراسیۆنی ''هەورەبرووسکە''ـدا هێرشیان کردووەتە سەر بنکەی (ئەحمەد ئەلجابر)ـی ئەمریکا لە کوێت. بەپێی راگەیێندراوەکە، هێرشەکە بە درۆن کراوە و تێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3fd7d4f057f24846",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866287",
+    "title": "قەرارگەی خاتەمولئەنبیا: تابووت پێویستیی سەرەکیی ئەمریکییەکانە لە ناوچەکە",
+    "title_en": "قەرارگەی خاتەمولئەنبیا: تابووت پێویستیی سەرەکیی ئەمریکییەکانە لە ناوچەکە",
+    "summary": "رووداو دیجیتاڵ  فەرماندەی قەرارگەی ناوەندیی خاتەمولئەنبیای ئێران هەڕەشە لە ئەمریکا دەکات و دەڵێت، ئەمریکا و هاوبەشانی تێگەیشتوون کە تابووتەکانیان بەشێک دەبن لە کەرەستەی پێویستیان لە ناوچەکە. بەرەبەیانی ئەمڕۆ هەینی، 31-07-2026، عەلی عەبدوڵڵاهی، فەرماندەی قەرارگەی ناوەندیی خاتەمولئەنبیای ئێران پەیامێکی هەڕەشەئامێزی بڵاو کردەوە کە تێیدا هاتووە: ''ئەمریکییەکان و بەکرێگیراوەکانیان لە ناخەوە تێگەیشتوون کە تابووتەکانیان بەشێکن لە کەلوپەلی پێویست لە ناوچەکەدا.'' عەلی عەبدوڵڵاهی ئاماژەی بە گوتەیەکی عەلی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e9f1ebbb83dc268f",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1866286",
+    "title": "قازانجی زەبەلاحی کۆمپانیاکانی نەوت و هەڕەشەکانی ترەمپ؛ جەنگی ئێران بازاڕی سووتەمەنی هەژاندووە",
+    "title_en": "قازانجی زەبەلاحی کۆمپانیاکانی نەوت و هەڕەشەکانی ترەمپ؛ جەنگی ئێران بازاڕی سووتەمەنی هەژاندووە",
+    "summary": "رووداو دیجیتاڵ بڕیارە رۆژی هەینی هەردوو کۆمپانیای زەبەلاحی ئەمریکی، ئێکزۆن مۆبیل و شیڤرۆن، ئاماری قازانجەکانی وەرزی دووەمی ئەمساڵ رابگەیێنن؛ ئەمەش لە کاتێکدایە کە بەرزبوونەوەی نرخی بەنزین گوشارێکی زۆری خستووەتە سەر بەکاربەران و دۆناڵد ترەمپ، سەرۆکی ئەمریکاشی نیگەران کردووە. ئامارە چاوەڕوانکراوەکانی رۆژی هەینی دوای ئەنجامە سەرسوڕهێنەرەکانی کۆمپانیا ئەورووپییەکان دێن؛ کۆمپانیای شێڵ قازانجەکانی سێ هێندە بووە و گەیشتووەتە 10.8 ملیار دۆلار، کۆمپانیای تۆتاڵ ئینێرجیزیش قازانجەکانی دووقات بووە و گەیشتوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f6ecf39144b0559",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866292",
+    "title": "ئێران سزای لە سێدارەدانی بەندکراوێکی کوردی جێبەجێ کرد",
+    "title_en": "ئێران سزای لە سێدارەدانی بەندکراوێکی کوردی جێبەجێ کرد",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی رێکخراوەکانی مافی مرۆڤ، سزای لەسێدارەدانی بەندکراوێکی کوردی خەڵکی شاری نەغەدەی پارێزگای ورمێ کە پێشتر بە تۆمەتی کوشتنی بە ئەنقەست دەستگیرکرابوو، لە زیندانی ناوەندیی پارێزگاکە جێبەجێکراوە. ئێوارەی دوێنێ پێنجشەممە 30-07-2026، رێکخراوی مافی مرۆڤی هەنگاو کە لە رۆژهەڵاتی کوردستان و ئێران چالاکە پشتڕاستی کردەوە، سزای لەسێدارەدانی فەرزاد سوبحانی، بەندکراوی کوردی خەڵکی شاری نەغەدەی سەر بە پارێزگای ورمێی رۆژهەڵاتی کوردستان، لە زیندانی ناوەندیی پارێزگاکە (زیندانی دەریا) جێبەجێکراوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7160b45041def193",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303684",
+    "title": "Sazimana Xebatê: Êrişî baregeha me ya sereke kirin",
+    "title_en": "Sazimana Xebatê: Êrişî baregeha me ya sereke kirin",
+    "summary": "Hewlêr (Rûdaw) - Sazimana Xebatê ya Kurdistana Îranê piştrast kir ku li ser rêya Hewlêr-Mexmûrê êrişî baregeheke wan hatiye kirin. Heta niha li ser asta zerer û ziyanên êrişê û çavkaniya wê ti agahî nehatine dayîn. Li ser rêya Hewlêr-Mexmûrê ya Başûrê Kurdistanê, êrişî baregeha sereke ya Sazimana Xebatê ya Kurdistana Îranê hat kirin. Malperên fermî yên Sazimana Xebatê li ser torên civakî vîdeoya êrişê belav kir. Li gorî wê vîdeoyê, piştî dengê teqîneke bihêz, dûxaneke reş û agir ji nav baregehê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a321ec85967e4dc2",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303682",
+    "title": "Îran: Me êrişî baregeha Amerîkayê ya li Kuweytê kir",
+    "title_en": "Îran: Me êrişî baregeha Amerîkayê ya li Kuweytê kir",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Îranê ragihand ku wan bi dronan êrişî baregeha leşkerî ya Amerîkayê ya bi navê Ehmed El-Cabir a li Kuweytê kiriye. Îran dibêje ku zerereke mezin gihîştiye depoyên sotemeniyê, stargehên balafirên şer û radarên pêwendiyê. Birêvebiriya Pêwendiyên Giştî yên Artêşa Îranê daxuyaniyek belav kir. Li gorî daxuyaniyê, di qonaxa 27an a operasyona bi navê Birûskê de êrişî baregeha Ehmed El-Cabira Amerîkayê ya li Kuweytê hatiye kirin. Di daxuyaniyê de hat diyarkirin ku êriş bi dronan ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2d51466c39d8e9f5",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1303683",
+    "title": "Donald Trump: Me li ser çekdanîna Hemasê li hev kir",
+    "title_en": "Donald Trump: Me li ser çekdanîna Hemasê li hev kir",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê ji bo \"çekdanîna bi temamî\" ya tevgera Hemasê peymanek ragihand. Donald Trump ev gav wekî qonaxeke diyarker a ji bo avakirina hikûmeteke nû ya Filistînê ya li Xezeyê bi nav kir. Serokê Amerîkayê Donald Trump li ser hesabê xwe yê Truth Socialê nivîsî: \"Îro Encumena Aştiyê ji bo çekdanîna bi temamî ya Hemasê û hemû komên din ên çekdar ên li Xezeyê gihîşt peymaneke dîrokî. Ev gaveke mezin e ji bo aştî û ewlehiya mayînde.\" Trump her wiha eşkere kir ku pêvajoya çekda",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ceca279b70502544",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1303682",
+    "title": "Îran: Me êrişî baregeha Amerîkayê ya li Kuweytê kir",
+    "title_en": "Îran: Me êrişî baregeha Amerîkayê ya li Kuweytê kir",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Îranê ragihand ku wan bi dronan êrişî baregeha leşkerî ya Amerîkayê ya bi navê Ehmed El-Cabir a li Kuweytê kiriye. Îran dibêje ku zerereke mezin gihîştiye depoyên sotemeniyê, stargehên balafirên şer û radarên pêwendiyê. Birêvebiriya Pêwendiyên Giştî yên Artêşa Îranê daxuyaniyek belav kir. Li gorî daxuyaniyê, di qonaxa 27an a operasyona bi navê Birûskê de êrişî baregeha Ehmed El-Cabira Amerîkayê ya li Kuweytê hatiye kirin. Di daxuyaniyê de hat diyarkirin ku êriş bi dronan ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "28d58819c978d16b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303683",
+    "title": "Donald Trump: Me li ser çekdanîna Hemasê li hev kir",
+    "title_en": "Donald Trump: Me li ser çekdanîna Hemasê li hev kir",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê ji bo \"çekdanîna bi temamî\" ya tevgera Hemasê peymanek ragihand. Donald Trump ev gav wekî qonaxeke diyarker a ji bo avakirina hikûmeteke nû ya Filistînê ya li Xezeyê bi nav kir. Serokê Amerîkayê Donald Trump li ser hesabê xwe yê Truth Socialê nivîsî: \"Îro Encumena Aştiyê ji bo çekdanîna bi temamî ya Hemasê û hemû komên din ên çekdar ên li Xezeyê gihîşt peymaneke dîrokî. Ev gaveke mezin e ji bo aştî û ewlehiya mayînde.\" Trump her wiha eşkere kir ku pêvajoya çekda",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
