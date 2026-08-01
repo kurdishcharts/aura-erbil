@@ -189429,6 +189429,132 @@
     }
   },
   {
+    "id": "2e982e11bb08df06",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078629",
+    "title": "Coalition pull-out leaves Kurdistan exposed as Iranian attacks intensify",
+    "title_en": "Coalition pull-out leaves Kurdistan exposed as Iranian attacks intensify",
+    "summary": "ERBIL, Kurdistan Region - American, British, French and German forces have withdrawn hundreds of troops and key air-defense systems from Erbil International Airport in a surprise 72-hour pull-out that has left the Kurdistan Region badly exposed to intensifying Iranian and militia attacks, Rudaw understands. Several large military transport aircraft arrived at the airport last weekend, including US C-17 Globemaster III and British Airbus A400M Atlas planes. Kurdish authorities initially believed ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "34faf761ca12c60b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866435",
+    "title": "ئەمریکا بەشێکی سیستمە بەرگرییەکانی لە هەرێمی کوردستان دەکشێنێتەوە",
+    "title_en": "ئەمریکا بەشێکی سیستمە بەرگرییەکانی لە هەرێمی کوردستان دەکشێنێتەوە",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی زانیارییەکانی رووداو؛ هێزەکانی ئەمریکا، بەریتانیا، فەرەنسا و ئەڵمانیا لە کشانەوەیەکی لەناکاوی 72 کاژێریدا، سەدان سەرباز و سیستمی سەرەکیی بەرگریی ئاسمانییان لە فڕۆکەخانەی نێودەوڵەتیی هەولێر کشاندووەتەوە. رووداو زانیویەتی، رۆژی شەممە 01-08-2026 ئەو باڵۆنەی لە ئاسمانی هەولێر دەبینرا، هێنراوەتە خوارەوە. ئەو باڵۆنە بە ئینگلیزی پێی دەگوترێت (PSS-T)، کامێرای زۆر پێشکەوتووی چاودێریی شەو و رۆژی تێدایە، بە بازنەی 360 پلە بۆ مەودای نزیکەی 50 کیلۆمەتر دووریی دەبینێت و سەرچاوەی هەموو ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6ac0b93827bb1d6",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866434",
+    "title": "زانیاریی رووداو: ئەمریکا باڵۆنەکەی ئاسمانی هەولێری داگرت",
+    "title_en": "زانیاریی رووداو: ئەمریکا باڵۆنەکەی ئاسمانی هەولێری داگرت",
+    "summary": "رووداو دیجیتاڵ رووداو زانیویەتی، رۆژی شەممە 01-08-2026، ئەو باڵۆنەی لە ئاسمانی هەولێر دەبینرا، هێنراوەتە خوارەوە. ئەو باڵۆنە بە ئینگلیزی پێی دەگوترێت (PSS-T)، کامێرای زۆر پێشکەوتووی چاودێریی شەو و رۆژی تێدایە، بە بازنەی 360 پلە بۆ مەودای نزیکەی 50 کیلۆمەتر دووریی دەبینێت و سەرچاوەی هەموو هێرشێک ئاشکرا دەکات. ئەم باڵۆنانە دەتوانن ئامێرە ئەلیکترۆنییەکان بۆ بەرزیی چەند هەزار پێیەک لەسەر بنکە سەربازییەکان، هێزە بڵاوەپێکراوەکان و کاروانەکان بەرز بکەنەوە. ئەمە وەک هۆشدارییەکی پێشوەختە کاردەکات دژی هەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c38a08d11986758",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1866433",
+    "title": "ئەردۆغان بۆ لایەنگرانی: لەم هەفتەیەوە پرۆسەی چارەسەری بۆ خەڵک باس بکەن",
+    "title_en": "ئەردۆغان بۆ لایەنگرانی: لەم هەفتەیەوە پرۆسەی چارەسەری بۆ خەڵک باس بکەن",
+    "summary": "رووداو - دیجیتاڵ  رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا پێداگریی خۆی بۆ سەرخستنی پرۆسەی چارەسەری دووپاتکردەوە و رێنمایی بە ئەندام و لایەنگرانی دا کە لەم هەفتەیەوە دەرگە بە دەرگە بگەڕێن و وردەکاریی پرۆسەکە بۆ خەڵک باس بکەن. نوێ دەکرێتەوە...",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "86d43ee19ce29518",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866425",
+    "title": "لە چەمچەماڵ ژینگەپارێزان بارهەڵگرەکانی کۆمپانیایەکی پاککەرەوەیان وەکو 'بارمتە' گرتووە",
+    "title_en": "لە چەمچەماڵ ژینگەپارێزان بارهەڵگرەکانی کۆمپانیایەکی پاککەرەوەیان وەکو 'بارمتە' گرتووە",
+    "summary": "رووداو دیجیتاڵ لە قەزای چەمچەماڵ، نزیکەی 200 ژینگەپارێز رێگری لە گەڕانەوەی بارهەڵگرەکانی کۆمپانیایەکی پاککەرەوە بۆ شاری سلێمانی دەکەن. هۆکاری ناڕەزایەتییەکەشیان بۆ مووچەی مانگێک دەگەڕێتەوە دوو ساڵە وەرگیان نەگرتووە. ئەمیر فازڵ و هەژار حەمەخورشید، دوو لەو ژینگەپارێزانەن چاوەڕێی وەرگرتنی ئەو 300 هەزار دینارە دەکەن لای کۆمپانیاکە قەرزارن. ئەوان دەڵێن ئەو بڕە پارەیە، ئەگەرچی کەمیشە، بەڵام بۆ بژێوی و دەرمان و پێداویستیی رۆژانەی خێزانەکانیان گرنگە. ئەمیر فازڵ بە تۆڕی میدیایی رووداوی راگەیاند: \"بەم حاڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "468c0123854ab198",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1303735",
+    "title": "Werzişvanê Kurd  rekoreke Guinnessê şikand",
+    "title_en": "Werzişvanê Kurd  rekoreke Guinnessê şikand",
+    "summary": "Hewlêr (Rûdaw) - Werzişvanê Kurd Milad Kemal Mihemedê 30 salî yê ji bajarê Sîneyê yê Rojhilatê Kurdistanê, di Pirtûka Rekoran a Guinnessê de rekoreke nû nivîsand. Milad Kemal Mihemed di rahênana berdewam a mist û pêyan de (Punch and Kick), bêyî rawestan û xwarinê, 40 demjimêr û 40 xulek û 40 çirkeyan li ber xwe da. Bi vê yekê wî rekora werzişvanê Spanî Ricardo Siravelli şikand. Rekora Siravelli 27 demjimêr û 15 xulek bû. Amadehiyên nêzîkî salek û 6 mehan Milad Kemal Mihemed ev rekor di Roja Alay",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4b4adb7acfaa011f",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1303735",
+    "title": "Werzişvanê Kurd  rekoreke Guinnessê şikand",
+    "title_en": "Werzişvanê Kurd  rekoreke Guinnessê şikand",
+    "summary": "Hewlêr (Rûdaw) - Werzişvanê Kurd Milad Kemal Mihemedê 30 salî yê ji bajarê Sîneyê yê Rojhilatê Kurdistanê, di Pirtûka Rekoran a Guinnessê de rekoreke nû nivîsand. Milad Kemal Mihemed di rahênana berdewam a mist û pêyan de (Punch and Kick), bêyî rawestan û xwarinê, 40 demjimêr û 40 xulek û 40 çirkeyan li ber xwe da. Bi vê yekê wî rekora werzişvanê Spanî Ricardo Siravelli şikand. Rekora Siravelli 27 demjimêr û 15 xulek bû. Amadehiyên nêzîkî salek û 6 mehan Milad Kemal Mihemed ev rekor di Roja Alay",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
