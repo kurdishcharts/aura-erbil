@@ -190023,6 +190023,60 @@
     }
   },
   {
+    "id": "aa11ad436838730f",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866446",
+    "title": "لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران: وەڵاممان تەنیا لە کەنداو نابێت",
+    "title_en": "لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران: وەڵاممان تەنیا لە کەنداو نابێت",
+    "summary": "گوتەبێژی لیژنەی ئاسایشی نیشتمانیی پەرلەمانی ئێران رایگەیاند، وەڵامی وڵاتەکەی بۆ هەر هێرشێکی دووژمن، تەنیا لە ناوچەی کەنداوی فارس دا نابێت. بەیانیی ئەمڕۆ یەکشەممە، ئیبراهیم رەزایی لە تۆڕی کۆمەڵایەتیی ئێکس پەیامێکی بڵاوکردەوە و نووسی، وەڵامی وڵاتەکەی بۆ هەر هێرشێکی دووژمن، تەنیا لە ناوچەی کەنداوی فارس دا نابێت، بەڵکو هێرش دەکەنە سەر \"هەموو بنکەکانی دووژمن و سەرچاوەی هێرشەکان لە هەر کوێیەک بن\". شەوی شەممە، عەباس عێراقچی، وەزیری دەرەوەی ئێران، لە دوو پەیوەندیی تەلەفۆنیی جیادا لەگەڵ عاسم مونیر، سوپاس",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3815bea643ef9834",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866445",
+    "title": "دوو بوومەلەرزە سنووری چەمچەماڵیان هەژاند و کەشناسیی سلێمانیش دەڵێ، مەترسیدار نین",
+    "title_en": "دوو بوومەلەرزە سنووری چەمچەماڵیان هەژاند و کەشناسیی سلێمانیش دەڵێ، مەترسیدار نین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fdc2aa7b310e7336",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866444",
+    "title": "ئیمارات: بە تووندترین شێوە سەرکۆنەی هێرشی ئێران بۆ سەر کوێت دەکەین",
+    "title_en": "ئیمارات: بە تووندترین شێوە سەرکۆنەی هێرشی ئێران بۆ سەر کوێت دەکەین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
