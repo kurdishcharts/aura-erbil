@@ -188637,6 +188637,132 @@
     }
   },
   {
+    "id": "77150bfd0c1d0b49",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078624",
+    "title": "US urges citizens in Iraq to prepare for flight cancellations amid Iran war",
+    "title_en": "US urges citizens in Iraq to prepare for flight cancellations amid Iran war",
+    "summary": "ERBIL, Kurdistan Region - The US embassy in Baghdad on Saturday urged Americans to prepare for flight cancellations, citing “heightened tensions” in the region amid reports of further escalation in the Iran war. \"Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation,\" the embassy and its consulate in Erbil said in a joint security alert. \"Americans currently in the Middle East should exercise caution and heightened vi",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "71ba9023a6833459",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866408",
+    "title": "دوو گەشتیاری عەرەب لە سنووری قەزای ئامێدی خنکان",
+    "title_en": "دوو گەشتیاری عەرەب لە سنووری قەزای ئامێدی خنکان",
+    "summary": "رووداو دیجیتاڵ دوو گەشتیاری عەرەب لە گەلی شێرانە لە سنووری ناحیەی دێرەلووک و هاوینەهەواری ئینشکێ لە سنووری ناحیەی سەرسنک لە قەزای ئامێدی خنکان. بەپێی زانیارییەکانی تۆڕی میدیایی رووداو، تەرمی هەردوو قوربانییەکە دەرهێندران و بۆ دادپزیشکیی دهۆک گواستراونەتەوە. هەرمان سدقی، خاوەنی پرۆژەی گەشتیاریی گەلی شێرانە بە تۆڕی میدیایی رووداوی راگەیاند، \"لە کاژێر 12:00ی نیوەڕۆی ئەمڕۆ، گەنجێکی 28 ساڵ کە خەڵکی بەغدایە، لە گەلی شێرانەدا خنکاوە. دواتر تەرمەکەی بۆ بنکەی تەندروستیی دێرەلووک گواسترایەوە.\" سەرچاوەیەکی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0f0edb71923d8dba",
+    "url": "https://www.rudaw.net/sorani/categories/health/1866407",
+    "title": "ئەو پزیشکەی لە دهۆک دووجار دڵی بۆ پیاوێک گەڕاندەوە: ''لەکاتی هێڵکاریی دڵدا، دڵی وەستا''",
+    "title_en": "ئەو پزیشکەی لە دهۆک دووجار دڵی بۆ پیاوێک گەڕاندەوە: ''لەکاتی هێڵکاریی دڵدا، دڵی وەستا''",
+    "summary": "رووداو - تەندروستی پزیشکێک لە فریاکەوتنی نەخۆشخانەی فێرکاریی ئازادی لە دهۆک دووجار دڵی پیاوێک بەساڵاچوو دەخاتەوە کار و لە دواییدا ژیانی لە مردن رزگار دەکات. ئەو پزیشکە تەنانەت لەسەر تەختی نەخۆشەکەش سینگە دڵەبووژاندنەوەی بۆ دەکات تا دەگەیێندرێتە ژووری لێدانی کارەبا لە دڵ DC Shock. ئەمڕۆ شەممە 1-8-2026 دکتۆر ئەلەند ناسر، پزیشکی خولاو لە فریاکەوتنی نەخۆشخانەی ئازادی لە دهۆک بە رووداوی راگەیاند، ئەوە پیاوێکی 64 ساڵ بووە و بەپێی خۆی هاتووەتە نەخۆشخانە، چونکە ئازاری سینگی هەبووە. پزیشکەکان پاش بینینی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "af155cfee79bb1bd",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1866406",
+    "title": "مۆرینیۆ داوای چارەسەری بەپەلە دەکات",
+    "title_en": "مۆرینیۆ داوای چارەسەری بەپەلە دەکات",
+    "summary": "رووداو دیجیتاڵ هێڵی بەرگریی یانەی ریال مەدرید هێشتا لەنێو قەیرانی پێکانەکاندا دەتلێتەوە، کە لە دوو وەرزی رابردووەوە بەرۆکی گرتووە. ئەمە جۆزێ مۆرینۆی راهێنەری پۆرتوگالی خستووەتە دۆخێکی زۆر سەختەوە، بەجۆرێک بۆ یەکەم یاریی دۆستانە بەرامبەر فیۆرێنتینا، هیچ بەرگریکارێکی دڵی بەرگری تیپی یەکەمی لەبەردەستدا نییە. قەیرانێک کە کۆتایی نایەت دڵی بەرگری بووەتە گەورەترین خاڵی لاوازی ریال مەدرید. ئەم دۆخە لە وەرزی 2024-2025ـەوە دەستیپێکرد، کاتێک یانەکە سێ لە کۆڵەکە سەرەکییەکانی بەرگریی لەدەستدا. سەرەتا ئێدێر م",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f4f75b665d3d6abe",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1866409",
+    "title": "ئارسیناڵ بۆ بەدەستهێنانی تواناکانی ڤینیسیۆس ئامادەیە",
+    "title_en": "ئارسیناڵ بۆ بەدەستهێنانی تواناکانی ڤینیسیۆس ئامادەیە",
+    "summary": "رووداو دیجیتاڵ داهاتووی ڤینیسیۆس جۆنیۆر، ئەستێرەی بەرازیلی لە یانەی ریال مەدریدی ئیسپانی بە نادیاری ماوەتەوە و یانەی ئارسیناڵ بەجددی هەوڵی گواستنەوەی ئەو یاریزانە دەدات. میکێل ئارتێتا سەرسامیی خۆی بۆ تواناکانی ڤینی دەربڕیوە و خاوەنەکانی یانە لەندەنییەکەش بۆ تەرخانکردنی پارەی پێویست گڵۆپی سەوزیان بۆ گواستنەوەی ئەو ئەستێرەیە هەڵکردووە، ئەمەش دوای ئەوەی دانوستاندنەکانی نوێکردنەوەی گرێبەستی یاریزانەکە لەگەڵ یانە ئیسپانییەکە گەیشتووەتە بنبەست. ساڵ و نیوێک بەسەر دەستپێکردنی گفتوگۆکانی نێوان ریال مەدری",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39b3530574fe8734",
+    "url": "https://www.rudaw.net/sorani/categories/news/1866382",
+    "title": "جەنگی ئێران و بەکارهێنانی ئامرازی نوێی جەنگ و دانوستاندن",
+    "title_en": "جەنگی ئێران و بەکارهێنانی ئامرازی نوێی جەنگ و دانوستاندن",
+    "summary": "لە قەیرانەکاندا، بەشێوەیەکی گشتی سەرنجەکان دەچنە سەر گۆڕەپانی جەنگ، کردەی سەربازی و هاوسەنگیی هێز، بەڵام ئەگەر بمانەوێت وێنەیەکی گشتگیرتر لە قەیرانێکمان هەبێت، دەبێت لەم چوارچێوەیە تێپەڕین. لە تیۆرییەکانی پەیوەندییە نێودەوڵەتییەکاندا، جەنگ تەنیا یەکێکە لە رەهەندەکانی قەیران؛ چونکە لە هەمان کاتدا ئابووری، وزە، بازرگانی، بازاڕە داراییەکان، زنجیرەکانی دابینکردن و چاوەڕوانییەکانی ئەکتەرە ئابوورییەکانیش دێنە ناو هاوکێشەکەوە. لەم روانگەیەوە، تەنانەت دوای کۆتاییهاتنی جەنگیش، زۆربەی لێکەوتە هەرە گرنگەکا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be85d771f8019be4",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303726",
+    "title": "Amerîkayê hişyarî da welatiyên xwe yên li Îraq û Herêma Kurdistanê",
+    "title_en": "Amerîkayê hişyarî da welatiyên xwe yên li Îraq û Herêma Kurdistanê",
+    "summary": "Hewlêr (Rûdaw) - Balyozxaneya Amerîkayê ya Bexdayê û Konsulxaneya Amerîkayê ya Hewlêrê ji bo welatiyên xwe yên li Îraq û Herêma Kurdistanê \"hişyariyeke ewlehiyê\" ya bilez belav kir. Amerîkayê di hişyariyê de ji welatiyên xwe xwest ku ji bo derketina ji herêmê amade bin. Balyozxaneya Amerîkayê ya Bexdayê û Konsulxaneya Amerîkayê ya Hewlêrê di daxuyaniyê de got: \"Ji ber zêdebûna aloziyên li Rojhilata Navîn, rewşa ewlehiyê aloz e û eger heye ku şer û pevçûn bi awayekî çaverênekirî berfireh bibin.\" ",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
