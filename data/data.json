@@ -190527,6 +190527,384 @@
     }
   },
   {
+    "id": "09ebb1287e9917fe",
+    "url": "https://www.rudaw.net/english/categories/world/1078634",
+    "title": "Trump says paused planned attack on Iran to help efforts for a new deal",
+    "title_en": "Trump says paused planned attack on Iran to help efforts for a new deal",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump said early Sunday that he has suspended planned military strikes against Iran to allow for renewed efforts to reach a deal, amid heightened tensions between Washington and Tehran. “We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to. This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran’s nuclear threat,” ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c58dd666dd31692",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078633",
+    "title": "Over 135K Yazidis remain in camps as genocide anniversary nears: Official",
+    "title_en": "Over 135K Yazidis remain in camps as genocide anniversary nears: Official",
+    "summary": "ERBIL, Kurdistan Region - Monday marks the 12th anniversary of the Islamic State (ISIS) genocide against the Yazidis, but hundreds of thousands of members of the community remain displaced, including more than 135,000 still living in camps, a senior official said on Sunday. \"According to our data, 135,860 Yazidis remain displaced and are living in camps across the Kurdistan Region. Another 189,337 Yazidis are living in different cities across the Kurdistan Region,\" Hussein Qaidi, head of the Off",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2b17623e3e74127",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866478",
+    "title": "ئاماری نوێ؛ بە 966 درۆن و مووشەک هێرش کراوەتە سەر هەرێمی کوردستان",
+    "title_en": "ئاماری نوێ؛ بە 966 درۆن و مووشەک هێرش کراوەتە سەر هەرێمی کوردستان",
+    "summary": "رووداو دیجیتاڵ بە گوێرەی بەدواداچوونی تۆڕی میدیایی رووداو بۆ ئەو هێرشانەی دەکرێنە سەر هەرێمی کوردستان، لە دەستپێکی جەنگەوە تائێستا بە 966 درۆن و مووشەک هێرش کراوەتە سەر هەرێمی کوردستان و لە ژمارەیە 88 یان لە مانگی حەوت و 16یان لە مانگی شەش بوون. بەگوێرەی ئاماری کۆکراوەی رووداو، لە کەمتر لە 24 کاژێری رابردوودا، بە پێنج درۆن هێرش کراوەتە سەر هەرێمی کوردستان، چوار درۆن لە سلێمانی و درۆنێکیش لە ئاسمانی هەولێر تێکشکێندرا. هێرشەکانی 24 کاژێری رابردوو: - 01ـی ئاب، کۆمەڵەی زەحمەتکێشانی کوردستانی ئێران ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "acde019e6981a6c1",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866474",
+    "title": "کڕینی دۆلار لەلایەن بانکی ناوەندیی عێراقەوە 50% کەمیکردووە",
+    "title_en": "کڕینی دۆلار لەلایەن بانکی ناوەندیی عێراقەوە 50% کەمیکردووە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "398142e8eca2acc3",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866468",
+    "title": "یەکەم ساتەکانی دوای کوژرانی خامنەیی لە زاری قالیبافەوە؛ ''لەوانە بوو ئاراستەی شەقام بگۆڕدرێت''",
+    "title_en": "یەکەم ساتەکانی دوای کوژرانی خامنەیی لە زاری قالیبافەوە؛ ''لەوانە بوو ئاراستەی شەقام بگۆڕدرێت''",
+    "summary": "رووداو دیجیتاڵ سەرۆکی پەرلەمانی ئێران باس لە یەکەم ساتەکانی دوای کوژرانی رێبەری پێٍشووی وڵاتەکەی دەکات و دەڵێت: ''ئەگەر داوامان لە خەڵک نەکردبووایە بێنە دەرەوە، لەوانە بوو شەقام ئاراستەیەکی جیاوازی گرتبا.'' رۆژی شەممە 01-08-2026، محەممەدباقر قالیباف، سەرۆکی پەرلەمانی ئێران لە دانیشتنێکدا لەگەڵ ژمارەیەک لە بەرپرسانی وڵاتەکەی وردەکاریی نوێی سەبارەت بە یەکەم ساتەکانی هێرشەکەی 28ـی شوباتی ئەمریکا و ئیسرائیل بۆ سەر شوێنی مانەوەی عەلی خامنەیی، رێبەری پێشووی وڵاتەکە لە تاران خستەڕوو. بەگوتەی محەممەدباق",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3a75d22b14663f41",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866467",
+    "title": "دوای 12 ساڵ لە کۆمەڵکوژکردنی کوردی ئێزدی؛ تائێستاش 2526 کەس بێسەروشوێنن",
+    "title_en": "دوای 12 ساڵ لە کۆمەڵکوژکردنی کوردی ئێزدی؛ تائێستاش 2526 کەس بێسەروشوێنن",
+    "summary": "رووداو دیجیتاڵ سبەی 12 ساڵ بەسەر کۆمەڵکوژکردنی کوردی ئێزدی لە شنگال و دەوروبەری تێدەپەڕێت. بەگوێرەی ئاماری نووسینگەی رزگارکردنی رفێندراوانی دەستی داعش، تاوەکو ئەمڕۆ 3 هەزار و 595 رفێندراو ئازاد کراون و زیاتر لە 2500 کەسیش چارەنووسیان نادیارە. حوسێن قائیدی، بەرپرسی نووسینگەی رزگارکردنی رفێندراوانی دەستی داعش، کە نووسینگەکەی سەر بە نووسینگەی تایبەتی نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستانە، ئەمڕۆ 2ـی ئابی 2026، بە تۆڕی میدیایی رووداوی گوت: \"بە کۆی گشتیی نزیکەی پێنج هەزار ئێزدی بەدەست تیرۆرستانی د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d6bd28ebb78047e8",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866477",
+    "title": "دوای 12 ساڵ لە فەرمان ئێزدییەکان ماڵەکانیان دەبەنەوە بناری چیای شنگال",
+    "title_en": "دوای 12 ساڵ لە فەرمان ئێزدییەکان ماڵەکانیان دەبەنەوە بناری چیای شنگال",
+    "summary": "رووداو دیجیتاڵ سەرەڕای تێپەڕبوونی 12 ساڵ بەسەر فەرمانی کۆمەڵکوژیی ئێزدییەکان لە شنگال، ترس لە دووبارەبوونەوەی کارەسات لە دڵی رزگاربوواندا ماوەتەوە. ئێستا بەشێکی زۆری ئەو خەڵکە لەبری ئاوەدانکردنەوەی ناوچە دەشتاییەکان، روو لە بناری چیا دەکەن و لەوێ نیشتەجێ دەبن. بەگوێرەی ئامارە نافەرمییەکان، لە ماوەی 12 ساڵی رابردوودا، نزیکەی 2500 خانوو لە دەوروبەر و سەردەشتی چیای شنگال دروستکراون. ئەم کۆچە ناوخۆییەی شنگالییەکان لە دەشتەوە بۆ بناری چیا، وەکو هەوڵێک بۆ دابینکردنی ئاسایش و پاراستنی ژیانیان لە هەر گە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2ec23e6530f4861f",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866476",
+    "title": "وەزارەتی دارایی بۆ خاوەن بڕوانامە نوێیەکان: چاوەڕێی پەسندکردنی بودجە بکەن",
+    "title_en": "وەزارەتی دارایی بۆ خاوەن بڕوانامە نوێیەکان: چاوەڕێی پەسندکردنی بودجە بکەن",
+    "summary": "رووداو دیجیتاڵ ژمارەیەکی زۆر لە \"خاوەن بڕوانامە نوێیەکان\" داوادەکەن دەرماڵەی بڕوانامەکانیان بۆ خەرجبکرێت، بەڵام وەزارەتی داراییی هەرێمی کوردستان دەڵێت، جێبەجێکردنی داواکارییەکەیان پێویستی بە تەرخانی دارایی هەیە. ئەو خاوەن بڕوانامانە لە یاداشتێکدا کە بۆ رۆژی هیوا جەمالیان ناردووە، دەڵێن، \"ئێمە خاوەن بڕوانامە نوێیەکانین و پێشتر میلاکی حکومەت بووین، لەکاتی فەرمانبەریدا خوێندوومانە، بڕوانامەی بەرزتر لەوەی هەمان بووە بەدەستمانهێناوە، دەمانەوێت دەرماڵەی ئەو بڕوانامە نوێیانەمان بۆ خەرجبکرێت.\" ئەوانەی ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "72bf9fafeb64b731",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866475",
+    "title": "زیاتر لە 500 پارچە زەویی ناوچەی تیمار لە سنووری شارەوانیی هەولێر تاپۆکران",
+    "title_en": "زیاتر لە 500 پارچە زەویی ناوچەی تیمار لە سنووری شارەوانیی هەولێر تاپۆکران",
+    "summary": "رووداو دیجیتاڵ لە گەڕەکی تیمار کەرتی 5 هەزاریی سنووری سەرۆکایەتیی شارەوانیی هەولێر زیاتر لە 500 پارچە زەویی نیشتەجێبوون تاپۆکران، بەرپرسی بەشی مۆڵەت لە شارەوانیی هەولێر دەڵێت، دوای پێدانی تاپۆ رێگەپێدانی دروستکردنی خانووش دەستپێدەکات. دلۆڤان سەرتیپ، بەرپرسی بەشی مۆڵەت لە شارەوانیی هەولێر بە رووداوی راگەیاند، کەرتی 5 هەزاریی گەڕەکی تیمار کێشەی نەخشە و راستکردنەوەی کەند و چاککردنەوەی ژمارەی زەوییەکانی هەبوو، بەڵام چارەسەرکران و نێردراون بۆ یەکەی گۆڕینی کارت بۆ تاپۆ، دوای وەرگرتنەوەی تاپۆکان، رێگە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "093131c615aff5ae",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866473",
+    "title": "وەزیری تەندروستیی عێراق: حەوت مانگە پشکی وەزارەت لە داهاتەکان بڕدراوە",
+    "title_en": "وەزیری تەندروستیی عێراق: حەوت مانگە پشکی وەزارەت لە داهاتەکان بڕدراوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "889866189b5932e3",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866472",
+    "title": "سەرۆک بارزانی بۆ ئێزدییان: هیوادارم هەموو جەژن و بۆنەکانتان لە ئارامی و ئاسایشدا بەسەرببەن",
+    "title_en": "سەرۆک بارزانی بۆ ئێزدییان: هیوادارم هەموو جەژن و بۆنەکانتان لە ئارامی و ئاسایشدا بەسەرببەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c662486d866f6a28",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866471",
+    "title": "مەسرور بارزانی بۆ کوردانی ئێزدی: وەکو هەمیشە پشتیوانتانم",
+    "title_en": "مەسرور بارزانی بۆ کوردانی ئێزدی: وەکو هەمیشە پشتیوانتانم",
+    "summary": "رووداو دیجیتاڵ مەسرور بارزانی، سەرۆکوەزیرانی هەرێمی کوردستان، بەبۆنەی جەژنی چلەی هاوینەوە پەیامێکی بڵاوکردەوە و پیرۆزبایی لە کوردانی ئێزدی دەکات، هەروەها پشتیوانیی خۆی بۆ ماف و داخوازییەکانیان دووپاتدەکاتەوە. رۆژی یەکشەممە، 2ـی ئابی 2026، مەسرور بارزانی، سەرۆکوەزیرانی هەرێمی کوردستان پەیامێکی بڵاوکردەوە و نوسیوویەتی، \"بەبۆنەی هاتنی جەژنی چلەی هاوین، پیرۆزباییەکی گەرم لە تەواوی خوشک و برایانی ئێزدیی کوردستان و جیهان دەکەم. هیوادارم رۆژانی جەژن بە خێر و خۆشی و ئارامی بەسەرببەن.\" لە بەشێکی دیکەی پە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6a989971dd42701d",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866470",
+    "title": "نێچیرڤان بارزانی لە جەژنی چلەی هاوینی ئێزدییان: هەرێمی کوردستان بە لانکەی پێکەوەژیان دەمێنێتەوە",
+    "title_en": "نێچیرڤان بارزانی لە جەژنی چلەی هاوینی ئێزدییان: هەرێمی کوردستان بە لانکەی پێکەوەژیان دەمێنێتەوە",
+    "summary": "رووداو دیجیتاڵ نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان، بەبۆنەی جەژنی چلەی هاوینە پەیامێکی بڵاوکردەوە و پیرۆزبایی لە کوردانی ئێزدی دەکات و رایدەگەیێنێت، هەرێمی کوردستان بە لانکەی پێکەوەژیان دەمێنێتەوە. رۆژی یەکشەممە، 2ـی ئابی 2026، سەرۆکی هەرێمی کوردستان پەیامێکی بڵاوکردەوە و نوسیوویەتی، \"جەژنی چلەی هاوینە، بەگەرمی لە جەنابی میری ئێزدییان، بابەشێخ، جڤاتی رووحانی و هەموو هاونیشتمانییانی ئێزدی لە هەرێمی کوردستان و عێراق، هەروەها لە هەموو ئێزدییان لە سەرانسەری جیهان پیرۆزدەکەم.\" سەرۆکی هەرێمی کورد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "335ed6a5b2b13579",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866466",
+    "title": "سەرۆکی کۆڵۆمبیا داوا دەکات ئەمریکا هێرش نەکاتە سەر کووبا",
+    "title_en": "سەرۆکی کۆڵۆمبیا داوا دەکات ئەمریکا هێرش نەکاتە سەر کووبا",
+    "summary": "رووداو دیجیتاڵ گۆستاڤۆ پێترۆ، سەرۆکی کۆڵۆمبیا کە ماوەی سەرۆکایەتییەکەی بەرەو کۆتایی دەچێت، لە سەردانێکیدا بۆ هاڤانای پایتەختی داوای کرد هەموو هەوڵێک بدرێت بۆ رێگری لە هەر هێرشێکی ئەمریکا بۆ سەر کووبا. هەروەها داوای لە دۆناڵد ترەمپ، سەرۆکئ ئەمریکا کرد، رێگەی دیالۆگ لەگەڵ ئەو وڵاتە بگرێتەبەر. دۆناڵد ترەمپ کە پێشتر ئارەزووی خۆی بۆ گۆڕینی رژێمی کووبا دەربڕیوە، پێیوایە ئەو وڵاتە کۆمۆنیستەی کە تەنیا 150 کیلۆمەتر لە کەناراوەکانی فلۆریداوە دوورە، هەڕەشەیە بۆ سەر ئاسایشی نیشتمانیی ئەمریکا و چەندین جار هە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bd7532f0c635ac33",
+    "url": "https://www.rudaw.net/sorani/episode/70954",
+    "title": "زریان ئەحمەد؛ شێوەکارێک لە سلێمانی دوای زانکۆ بووەتە دارتاش",
+    "title_en": "زریان ئەحمەد؛ شێوەکارێک لە سلێمانی دوای زانکۆ بووەتە دارتاش",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "baddf6f2b473eaae",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303750",
+    "title": "Tirkiye bûye gola bermayiyên plastîk ên Ewropayê: 503 hezar ton",
+    "title_en": "Tirkiye bûye gola bermayiyên plastîk ên Ewropayê: 503 hezar ton",
+    "summary": "Hewlêr (Rûdaw) - Sala 2025an rêjeya bermayiyên plastîk ên ku ji welatên Yekîtiya Ewropayê (YE) ji bo Tirkiyeyê hatine şandin gihîşt 503 hezar tonan ku ev yek heta niha asta herî bilind e. Tirkiye bi ferqeke mezin bûye ew welatê ku Yekîtiya Ewropayê herî zêde bermayiyên plastîk jê re dişîne. Li hemberî vê yekê Greenpeaceya Tirkiyeyê ji bo qedexekirina hawirdekirina bermayiyên plastîk û tekstîlê dest bi kampanyayeke komkirina îmzeyan kir. Rêjeya bermayiyên plastîk ku Yekîtiya Ewropayê dişîne Tirki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d03f5fba4f0b3bce",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303748",
+    "title": "Salvegera 12an a Komkujiya Şingalê: Çarenivîsa 2 hezar û 526 Kurdên Êzidî ne diyar e",
+    "title_en": "Salvegera 12an a Komkujiya Şingalê: Çarenivîsa 2 hezar û 526 Kurdên Êzidî ne diyar e",
+    "summary": "Hewlêr (Rûdaw) - Sibe 12 sal di ser Komkujiya Kurdên Êzidî ya li Şingalê û derdora wê re derbas dibin. Li gorî amarên Ofîsa Rizgarkirina Revandiyan heta niha 3 hezar û 595 revandî hatine rizgarkirin lê çarenivîsa zêdetirî 2 hezar û 500 kesan hîn jî ne diyar e. Berpirsê Ofîsa Rizgarkirina Revandiyan Husên Qaîdî ku ofîsa wî girêdayî ofîsa taybet a Serokê Herêma Kurdistanê Nêçîrvan Barzanî ye li ser mijarê ji Tora Medyayî ya Rûdawê re axivî. Husên Qaîdî got, “Bi giştî nêzîkî 5 hezar Êzidî ji aliyê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4d8f0339e46617a5",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303747",
+    "title": "Di Çemê Botanê de karesat: Zarokek xeniqî, bav winda ye",
+    "title_en": "Di Çemê Botanê de karesat: Zarokek xeniqî, bav winda ye",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Sêrtê ya Bakurê Kurdistanê zarokekî 12 salî ket çem û xeniqî. Bavê wî yê ku ji bo rizgarkirina wî xwe avêtibû avê jî ber pêlan ket û winda bû. Li gorî agahiyan, doh danê êvarê li ser rêya Sêrt û Dihê, li devera Pira Botanê Faruk Santurê 12 salî ket nav Çemê Botanê. Dema bavê wî Omer Santur dît ku kurê wî ketiye çem, ji bo rizgarkirinê tavilê xwe avêt nav avê lê belê bav jî ber pêlên avê ket û winda bû. Li ser agahdarkirina welatiyên derdorê, tîmên tenduristiyê, AFAD",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b5d1daca5a08f230",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1303750",
+    "title": "Tirkiye bûye gola bermayiyên plastîk ên Ewropayê: 503 hezar ton",
+    "title_en": "Tirkiye bûye gola bermayiyên plastîk ên Ewropayê: 503 hezar ton",
+    "summary": "Hewlêr (Rûdaw) - Sala 2025an rêjeya bermayiyên plastîk ên ku ji welatên Yekîtiya Ewropayê (YE) ji bo Tirkiyeyê hatine şandin gihîşt 503 hezar tonan ku ev yek heta niha asta herî bilind e. Tirkiye bi ferqeke mezin bûye ew welatê ku Yekîtiya Ewropayê herî zêde bermayiyên plastîk jê re dişîne. Li hemberî vê yekê Greenpeaceya Tirkiyeyê ji bo qedexekirina hawirdekirina bermayiyên plastîk û tekstîlê dest bi kampanyayeke komkirina îmzeyan kir. Rêjeya bermayiyên plastîk ku Yekîtiya Ewropayê dişîne Tirki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "57368185b5464d31",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1303749",
+    "title": "Şaredariya Tokyoyê bi hişê çêkirî xelkê dizewicîne",
+    "title_en": "Şaredariya Tokyoyê bi hişê çêkirî xelkê dizewicîne",
+    "summary": "Hewlêr (Rûdaw) - Li Tokyoya paytexta Japonyayê, sepana hevnasînê ya bi piştgiriya hişê çêkirî ku ji aliyê şaredariyê ve hatiye bipêşxistin, di nava 2 salan de 265 cot zewicandin. Her wiha 760 cotên ku vê sepanê bi kar tînin jî di pêwendiyeke cidî de ne. Li gorî nûçeya DWyê, Şaredariya Bajarê Mezin a Tokyoyê ji bo rûbirûbûna rêjeya kêm a jidayîkbûnê sepana \"TOKYO Enmusubi\" Îlona 2024an da destpêkirin. Li gorî amarên ku şaredariyê eşkere kirine, heta 30ê Hezîranê 760 cotên ku bi rêya vê sepanê hev",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "976123c4026347b8",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1303749",
+    "title": "Şaredariya Tokyoyê bi hişê çêkirî xelkê dizewicîne",
+    "title_en": "Şaredariya Tokyoyê bi hişê çêkirî xelkê dizewicîne",
+    "summary": "Hewlêr (Rûdaw) - Li Tokyoya paytexta Japonyayê, sepana hevnasînê ya bi piştgiriya hişê çêkirî ku ji aliyê şaredariyê ve hatiye bipêşxistin, di nava 2 salan de 265 cot zewicandin. Her wiha 760 cotên ku vê sepanê bi kar tînin jî di pêwendiyeke cidî de ne. Li gorî nûçeya DWyê, Şaredariya Bajarê Mezin a Tokyoyê ji bo rûbirûbûna rêjeya kêm a jidayîkbûnê sepana \"TOKYO Enmusubi\" Îlona 2024an da destpêkirin. Li gorî amarên ku şaredariyê eşkere kirine, heta 30ê Hezîranê 760 cotên ku bi rêya vê sepanê hev",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
