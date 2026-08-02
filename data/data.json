@@ -192273,6 +192273,186 @@
     }
   },
   {
+    "id": "278a13999cc1c251",
+    "url": "https://www.rudaw.net/english/categories/world/1078643",
+    "title": "US military redirects thirty five ships: CENTCOM",
+    "title_en": "US military redirects thirty five ships: CENTCOM",
+    "summary": "ERBIL, Kurdistan Region - The US Central Command (CENTCOM) announced on Sunday that its forces have redirected 35 commercial vessels, disabled two, and boarded two others while enforcing Washington's maritime blockade against Iran, amid the renewed tensions between Washington and Tehran over the past few weeks. In a post on X, CENTCOM announced the launch of its F-35C stealth fighter jet aircraft carrier though the Arabian Sea to fortify “the U.S. blockade against Iran,” adding that as of August",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03fc99a0e3567708",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866518",
+    "title": "گەشتیارێکی عەرەب لە رووباری سیروان خنکا",
+    "title_en": "گەشتیارێکی عەرەب لە رووباری سیروان خنکا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec8bcfa2ee3ea8fc",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866517",
+    "title": "عێراقچی: دانوستاندنەکان لەبارەی تەنگەی هورمز لە قۆناخی کۆتاییدان",
+    "title_en": "عێراقچی: دانوستاندنەکان لەبارەی تەنگەی هورمز لە قۆناخی کۆتاییدان",
+    "summary": "رووداو دیجیتاڵ وەزیری دەرەوەی ئێران دەڵێ، \"دانوستاندنەکانی ئێران و عومان لەبارەی تەنگەی هورمز و شێوازی بەڕێوەبردنی، بەرەوپێشچوونی باشیان بەخۆیەوە بینیوە و ئێستا لە قۆناخی کۆتاییدان.\" ئەمڕۆ یەکشەممە، 2ی ئابی 2026، نووسینگەی سەرۆکایەتیی کۆماری ئێران لە راگەیێندراوێکدا بڵاویکردەوە، کابینەی وەزیرانی حکومەتی ئێران، ئێوارەی ئەمڕۆ بە سەرۆکایەتیی مەسعود پزیشکیان، سەرۆککۆماری ئەو وڵاتە کۆبووەوە و تێیدا راپۆرتی دوایین دۆخی دانوستاندنەکانی ئێران و عومان لەبارەی چۆنیەتی بەڕێوەبردنی تەنگەی هورمز تاوتوێ کرا. ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "55a099ace174a291",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866516",
+    "title": "لە کەرکووک تەرمی گەنجێک دۆزرایەوە کە کەسوکارەکەی گومانیان لە هاوڕێکانی هەیە",
+    "title_en": "لە کەرکووک تەرمی گەنجێک دۆزرایەوە کە کەسوکارەکەی گومانیان لە هاوڕێکانی هەیە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e19004414432245",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866515",
+    "title": "جێگری پارێزگاری هەولێر: هەر پڕۆژەیەکی نیشتەجێبوون لە خزمەتگوزاری کەمتەرخەم بێت سزا دەدرێت",
+    "title_en": "جێگری پارێزگاری هەولێر: هەر پڕۆژەیەکی نیشتەجێبوون لە خزمەتگوزاری کەمتەرخەم بێت سزا دەدرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8c766950ce719386",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866514",
+    "title": "قوربانییەکی بۆردوومانەکانی تورکیا: دوای 13 ساڵ تائێستا هیچ مووچە و قەرەبوویەکمان پێنەدراوە",
+    "title_en": "قوربانییەکی بۆردوومانەکانی تورکیا: دوای 13 ساڵ تائێستا هیچ مووچە و قەرەبوویەکمان پێنەدراوە",
+    "summary": "رووداو دیجیتاڵ هاونیشتمانییەکی دانیشتووی ئیدارەی سەربەخۆی راپەڕین کە بەهۆی بۆردوومانی فڕۆکە جەنگییەکانی تورکیاوە هەردوو چاوی لەدەستداوە، دەڵێت سەرەڕای تێپەڕبوونی زیاتر لە 13 ساڵ بەسەر رووداوەکەدا و تەواوکردنی تەواوی مامەڵە یاسایی و پزیشکییەکان، تاوەکو ئێستا خۆی و برا بریندارەکەی هیچ مووچە و قەرەبوویەکیان لەلایەن حکومەتەوە بۆ نەبڕدراوەتەوە. محەممەد بایز (لەدایکبووی 1987)، هاونیشتمانییەکی دانیشتووی گوندی \"مارەدوو\"ی بناری قەندیلە و لە بەرنامەی 'مژار'ی رادیۆی رووداو دا چیرۆکی خۆی گێڕایەوە. محەممەد ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a50aae76370dd476",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1303776",
+    "title": "Li Pakistanê teqîn, bi dehan mirî û birîndar hene",
+    "title_en": "Li Pakistanê teqîn, bi dehan mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li eyaleta Xeyber Pextunxwayê ya Pakistanê li ber qereqoleke polîsan teqînekê rû da û di vê teqînê de 14 kes mirin û 24 kes jî birîndar bûn. Li gorî nûçeya rojnameya Dawnê, rayedaran li ser teqîna li herêma Swatê daxuyaniyek daye. Hatiye diyarkirin ku êrişkarekî xwestiye bikeve hundirê qereqolê lê polîsan rê li berê girtiye. Êrişkar piştî ku hatiye rawestandin teqemeniyên li ser xwe teqandine. Rayedaran eşkere kir ku di nav kesên mirî de polîs û sivîl hene. Hat ragihandin ku dem",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "958a5fef5189a5d6",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1303775",
+    "title": "Çima Neteweperwerî?",
+    "title_en": "Çima Neteweperwerî?",
+    "summary": "Navê nivîsa min ji pirtûka Yael Tamirê ya bi navê “Çima Neteweperwerî?” tê û her ku lê dinêrim, asofirehîya pirtûkê cihê xwe yê cuda bêtir diparêze. Lewra di cihanê de bi mîlyonan mirov mixetab û mixalîfên van du hevokan in. Bi taybetî ji bo neteweyeke ku bi tena serê xwe li ber xwe daye, bi sedhezaran keç û xortên xwe ji bo xeyala serxwebûnê kirine qurban, ev mijar bêtir muhim e. Tewr di vî warî de Kurdistan laboratuara dîroka du sedsalên dawî yên cihanê ye. Ev qas laboratuar e, bi her awayî da",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a2668391ed551494",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1303776",
+    "title": "Li Pakistanê teqîn, bi dehan mirî û birîndar hene",
+    "title_en": "Li Pakistanê teqîn, bi dehan mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li eyaleta Xeyber Pextunxwayê ya Pakistanê li ber qereqoleke polîsan teqînekê rû da û di vê teqînê de 14 kes mirin û 24 kes jî birîndar bûn. Li gorî nûçeya rojnameya Dawnê, rayedaran li ser teqîna li herêma Swatê daxuyaniyek daye. Hatiye diyarkirin ku êrişkarekî xwestiye bikeve hundirê qereqolê lê polîsan rê li berê girtiye. Êrişkar piştî ku hatiye rawestandin teqemeniyên li ser xwe teqandine. Rayedaran eşkere kir ku di nav kesên mirî de polîs û sivîl hene. Hat ragihandin ku dem",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e6d9572cc525696",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1303775",
+    "title": "Çima Neteweperwerî?",
+    "title_en": "Çima Neteweperwerî?",
+    "summary": "Navê nivîsa min ji pirtûka Yael Tamirê ya bi navê “Çima Neteweperwerî?” tê û her ku lê dinêrim, asofirehîya pirtûkê cihê xwe yê cuda bêtir diparêze. Lewra di cihanê de bi mîlyonan mirov mixetab û mixalîfên van du hevokan in. Bi taybetî ji bo neteweyeke ku bi tena serê xwe li ber xwe daye, bi sedhezaran keç û xortên xwe ji bo xeyala serxwebûnê kirine qurban, ev mijar bêtir muhim e. Tewr di vî warî de Kurdistan laboratuara dîroka du sedsalên dawî yên cihanê ye. Ev qas laboratuar e, bi her awayî da",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
