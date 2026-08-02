@@ -190077,6 +190077,42 @@
     }
   },
   {
+    "id": "91a8300a0f2bf746",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866447",
+    "title": "لە تەقەکردنێکدا لە ویلایەتی ئایداهۆی ئەمریکا سێ کەس کوژران",
+    "title_en": "لە تەقەکردنێکدا لە ویلایەتی ئایداهۆی ئەمریکا سێ کەس کوژران",
+    "summary": "رووداو دیجیتاڵ بەرپرسانی شاری توین فۆڵز لە ویلایەتی ئایداهۆی ئەمریکا رایدەگەیێنن، لە رووداوێکی تەقەکردندا لە نزیک چێشتخانەیەک سێ کەس کوژران و لانیکەم دوو کەسی دیکەش بریندار بوون. رووداوەکە رۆژی شەممە 01-08-2026 روویداوە و پۆلیس لە تۆڕە کۆمەڵایەتییەکان رایگەیاند، هێزەکانیان رووبەڕووی \"رووداوێکی تەقەکردن\" بوونەتەوە لە نزیک چێشتخانەی (In-N-Out Burger) و چەند شوێنێکی دیکەی شارەکە. جۆش پاڵمەر، گوتەبێژی شارەکە پشتڕاستی کردەوە، لە هێرشەکەدا سێ کەس کوژراون و دووی دیکەش بریندارن، بەڵام ئاماژەی بەوە کرد، ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a88fc062d60ef5db",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866448",
+    "title": "بە سێ درۆن هێرش کرایە سەر سلێمانی و هەولێر بەڵام زیانیان نەبوو",
+    "title_en": "بە سێ درۆن هێرش کرایە سەر سلێمانی و هەولێر بەڵام زیانیان نەبوو",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
