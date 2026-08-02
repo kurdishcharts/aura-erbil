@@ -191301,6 +191301,204 @@
     }
   },
   {
+    "id": "c12ea97d160bf2af",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078637",
+    "title": "Iraq issues life sentence to international drug trafficking gang member",
+    "title_en": "Iraq issues life sentence to international drug trafficking gang member",
+    "summary": "ERBIL, Kurdistan Region - A Baghdad court on Sunday issued a life sentence to a suspected Foxtrot international drug trafficking gang member amid a nationwide anti-narcotics campaign in Iraq and a push to curb international trafficking networks in the country. “The Karkh Criminal Court issued a life sentence against a drug dealer belonging to an international gang specialized in drug trafficking in European countries,” the Supreme Judicial Court (SJC) said in a statement, noting that the convict",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "91999f2a8cdf2fee",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866490",
+    "title": "حەج و عومرە: بەیەکجار تیروپشک بۆ ناوی دوو ساڵی داهاتووی حەج دەکەین",
+    "title_en": "حەج و عومرە: بەیەکجار تیروپشک بۆ ناوی دوو ساڵی داهاتووی حەج دەکەین",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی بەڕێوەبەرایەتیی گشتیی حەج و عومرەی هەرێمی کوردستان رایگەیاند، ئەمساڵ بەیەکجار ناوی زیاتر لە 10 هەزار کەس بە تیروپشک هەڵدەبژێرن کە بۆ دوو ساڵی داهاتوو حەج دەکەن. کاروان ستوونی، گوتەبێژی بەڕێوەبەرایەتیی حەج و عومرەی هەرێمی کوردستان، ئەمڕۆ یەکشەممە، 2ـی ئابی 2026 بە تۆڕی میدیایی رووداوی راگەیاند، زیاتر لە 45 هەزار کەس ناویان تۆمارکردووە ساڵی داهاتوو بچنە حەج و دوایین کات 5ـی ئەم مانگە دەبێت. گوتەبێژی بەڕێوەبەرایەتیی حەج و عومرە گوتی، \"ئەمساڵ تیروپشک بۆ دوو ساڵ دەکرێت، رێکارە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87d826c617c155bf",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1866493",
+    "title": "هیوا بۆ هاندەرانی بارسێلۆنا دەگەڕێتەوە",
+    "title_en": "هیوا بۆ هاندەرانی بارسێلۆنا دەگەڕێتەوە",
+    "summary": "رووداو - دیجیتاڵ میدیاکانی نزیک لە یانەی بارسێلۆنا جەخت لەسەر ئەوە دەکەنەوە کە دانوستاندنەکانی بارسێلۆنا و ئاتلێتیکۆ مەدرید بۆ گواستنەوەی جولیان ئەلڤارێزی هێرشبەری ئەرجەنتینی لە واندا میترۆپۆلیتانۆ بۆ کامپ نو بەردەوامن. بەگوێرەی ئەو سەرچاوانە، دانوستاندنەکانی نێوان بارسێلۆنا و ئاتلێتیکۆ مەدرید بۆ گواستنەوەی جولیان ئەلڤارێز لە رۆژانی داهاتوودا بەردەوام دەبن و دەڵێن \"بارسا بەنیازە هێرشبەرێک بگوازێتەوە و ئەلڤارێز بژاردەی یەکەمە، بەڵام یەکلاکردنەوەی گرێبەستەکە زیاتر بەدەست یانەی ئاتلێتیکۆ مەدریدە نە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "52de440363bbdacc",
+    "url": "https://www.rudaw.net/sorani/categories/health/1866491",
+    "title": "راگەیێندراوێکی هاوبەشی WHO و UNICEF: لە زۆرێک وڵاتان دایکان پاڵپشتیی ناکرێن بۆ شیرپێدانی سرووشتی",
+    "title_en": "راگەیێندراوێکی هاوبەشی WHO و UNICEF: لە زۆرێک وڵاتان دایکان پاڵپشتیی ناکرێن بۆ شیرپێدانی سرووشتی",
+    "summary": "رووداو - تەندروستی هەردوو رێکخراوی یونیسێف و رێکخراوی تەندروستیی جیهانی رایدەگەیێنن، هێشتا دایکانی زۆرێک لە وڵاتان پاڵپشتیی بۆ شیردانی سرووشتییان پێ ناگات. هەردوو رێکخراوەکەش داوای بەهاناهاتنی بەپەلە دەکەن. یونیسێفیش دەڵێت، شیری دایک ساڵانە رێگری لە نزیکەی 400 هەزار گیانلەدەستدانی منداڵ دەکات. رێکخراوی تەندروستیی جیهانی دەڵێت، شیردانی سرووشتی یەکێکە لە سادەترین و بەهێزترین رێگەکان بۆ پاراستنی تەندروستیی منداڵ. خۆراکی پێویست بۆ کۆرپە و منداڵانی بچووک دابین دەکات، بەرگریی جەستەشیان بەهێز دەکات و ی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "744ce6cff734b78e",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866492",
+    "title": "چوار عەرەبی هاوردە لە کەرکووک دوای وەرگرتنی قەرەبوو، زەویی خێزانێکی کورد داگیر دەکەنەوە",
+    "title_en": "چوار عەرەبی هاوردە لە کەرکووک دوای وەرگرتنی قەرەبوو، زەویی خێزانێکی کورد داگیر دەکەنەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1963ed2e5035d796",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303761",
+    "title": "Li Kerkûkê Erebên hawirde zeviyên Kurdan ducare dagir kirin",
+    "title_en": "Li Kerkûkê Erebên hawirde zeviyên Kurdan ducare dagir kirin",
+    "summary": "Hewlêr (Rûdaw) - 4 Erebên hawirde piştî ku qerebûya Madeya 140î wergirtiye, careke din zêdetirî 118 donim zeviyên kesekî Kurd li Kerkûkê dagir kirin. Niha dosyeya wan li dadgeheke bajêr e. Birêvebiriya Çandiniyê ya Kerkûkê nivîsa piştgiriyê ji bo malbata Kurd ji dadgehê re şandiye. Ew zevî li gundê Tepegulê yê sînorê qezaya Dûzê ya Kerkûkê ne. Dosyeya zeviyan li dadgehê ye Nûnerê Cotkarên Sergeranê Mihemed Emîn ji Rûdawê re axivî û got: “Dosyeya wî cotkarê Kurd niha li dadgehê ye. Zeviyên wan be",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "397d6188b700230d",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303762",
+    "title": "Li Mêrdînê zarokekî ku di otomobîlê de hatibû jibîrkirin mir",
+    "title_en": "Li Mêrdînê zarokekî ku di otomobîlê de hatibû jibîrkirin mir",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Şemrexê ya parêzgeha Mêrdînê ya Bakurê Kurdistanê, zarokekî 5 salî yê ku di otomobîlê de hatibû jibîrkirin mir. Roja şemiyê li taxa Kayalarê ya Şemrexê, Muhammed Aras T.yê 5 salî di otomobîla bavê xwe de hat jibîrkirin. Muhammed Aras ji ber germahiya zêde û bêhewabûnê di nava otomobîlê de ji ser hişê xwe çû û bêhal ket. Piştî demekê malbata wî Muhammed Aras bi awayekî bêhiş dît û ew bir Nexweşxaneya Dewletê ya Şemrexê. Piştî midaxeleya destpêkê ya li wir, ew birin Nex",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "52164a8d6ff89e4d",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303760",
+    "title": "Heyeta DEM Partiyê çû Îmraliyê",
+    "title_en": "Heyeta DEM Partiyê çû Îmraliyê",
+    "summary": "Hewlêr (Rûdaw) - Heyeta Îmraliyê ya DEM Partiyê ji bo hevdîtina bi Abdullah Ocalan re çû Girava Îmraliyê. Heyeta ku ji parlamenteran Pervîn Buldan û Mîthat Sancar û her wiha parêzer Faîk Ozgur Erol pêk tê, ber bi Girava Îmraliyê ve bi rê ket. Tê çaverêkirin ku heyet piştî hevdîtinê daxuyaniyekê bide. Heyeta Îmraliyê ya DEM Partiyê herî dawî 20ê Tîrmehê çûbû Girava Îmraliyê. Di wê serdanê de şandeyê bi Abdullah Ocalan re hevdîtin kiribû. Mijara sereke ya nîqaşên wê hevdîtinê “yasaya çarçoveyî” bû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "277a155604999100",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1303759",
+    "title": "Li Tetwanê bi hezaran kes bi stranên Kurdî coşiyan",
+    "title_en": "Li Tetwanê bi hezaran kes bi stranên Kurdî coşiyan",
+    "summary": "Tetwan (Rûdaw) - Festîvala Çand û Hunerê ya Tetwanê ya li Bakurê Kurdistanê bi coşeke mezin didome. Di roja duyemîn a festîvalê de stêrkên muzîka Kurdî Mehmet Atli, Rûken Yilmaz û koma Agirê Jiyanê derketin ser dikê û şevek jibîrnekirî bi beşdaran da jiyandin. Ji bo guhdarîkirina hunermendên navdar, bi hezaran kes ji Tetwan, Bedlîs û gelek bajarên din qada konsertê û perava Gola Wanê tije kirin. Di konserê de pêşî Mehmet Atli derket ser dikê û stranên xwe yên ku herî zêde tên hezkirin gotin. Kes",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ddf309dc1051f68f",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1303760",
+    "title": "Heyeta DEM Partiyê çû Îmraliyê",
+    "title_en": "Heyeta DEM Partiyê çû Îmraliyê",
+    "summary": "Hewlêr (Rûdaw) - Heyeta Îmraliyê ya DEM Partiyê ji bo hevdîtina bi Abdullah Ocalan re çû Girava Îmraliyê. Heyeta ku ji parlamenteran Pervîn Buldan û Mîthat Sancar û her wiha parêzer Faîk Ozgur Erol pêk tê, ber bi Girava Îmraliyê ve bi rê ket. Tê çaverêkirin ku heyet piştî hevdîtinê daxuyaniyekê bide. Heyeta Îmraliyê ya DEM Partiyê herî dawî 20ê Tîrmehê çûbû Girava Îmraliyê. Di wê serdanê de şandeyê bi Abdullah Ocalan re hevdîtin kiribû. Mijara sereke ya nîqaşên wê hevdîtinê “yasaya çarçoveyî” bû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c09b1c876903689b",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1303759",
+    "title": "Li Tetwanê bi hezaran kes bi stranên Kurdî coşiyan",
+    "title_en": "Li Tetwanê bi hezaran kes bi stranên Kurdî coşiyan",
+    "summary": "Tetwan (Rûdaw) - Festîvala Çand û Hunerê ya Tetwanê ya li Bakurê Kurdistanê bi coşeke mezin didome. Di roja duyemîn a festîvalê de stêrkên muzîka Kurdî Mehmet Atli, Rûken Yilmaz û koma Agirê Jiyanê derketin ser dikê û şevek jibîrnekirî bi beşdaran da jiyandin. Ji bo guhdarîkirina hunermendên navdar, bi hezaran kes ji Tetwan, Bedlîs û gelek bajarên din qada konsertê û perava Gola Wanê tije kirin. Di konserê de pêşî Mehmet Atli derket ser dikê û stranên xwe yên ku herî zêde tên hezkirin gotin. Kes",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
