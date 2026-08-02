@@ -192705,6 +192705,60 @@
     }
   },
   {
+    "id": "f5e32a473f292bbd",
+    "url": "https://www.rudaw.net/english/categories/iran/1078646",
+    "title": "Iran executes at least 67 prisoners in July 2026: Watchdog",
+    "title_en": "Iran executes at least 67 prisoners in July 2026: Watchdog",
+    "summary": "ERBIL, Kurdistan Region - Iranian authorities have executed at least 67 prisoners, including nine political prisoners, in July 2026, according to data published on Sunday by a rights group in its July statistical report, bringing its total number of recorded executions in 2026 to 442. “Compared with the same period last year, the number of executions fell by at least 29, representing a 30 percent decrease,” according to Norway-based Hengaw human rights organization, which documented at least 96 ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "74084a54beaf2dc7",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866530",
+    "title": "عێراقچی و فوئاد حوسێن تاوتوێی رەوشی تەنگەی هورمز و هێورکردنەوەی ناوچەکەیان کرد",
+    "title_en": "عێراقچی و فوئاد حوسێن تاوتوێی رەوشی تەنگەی هورمز و هێورکردنەوەی ناوچەکەیان کرد",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44b2fd4e696682da",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866529",
+    "title": "ترەمپ: گفتوگۆکانمان لەگەڵ ئێران دەستپێدەکەن و رێککەوتن لەسەر تەنگەی هورمز هەیە",
+    "title_en": "ترەمپ: گفتوگۆکانمان لەگەڵ ئێران دەستپێدەکەن و رێککەوتن لەسەر تەنگەی هورمز هەیە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
