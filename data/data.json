@@ -192453,6 +192453,114 @@
     }
   },
   {
+    "id": "fae8f0ada15240ac",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866522",
+    "title": "راپۆرتێک: ئەمریکا و ئێران لە ئاگربەستێکی دیکەی 60 رۆژە نزیکن",
+    "title_en": "راپۆرتێک: ئەمریکا و ئێران لە ئاگربەستێکی دیکەی 60 رۆژە نزیکن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "71b73d151c76d886",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1866519",
+    "title": "پەکەکە 81 پێگەی لەسەر سنووری هەرێمی کوردستان و تورکیا چۆڵکرد",
+    "title_en": "پەکەکە 81 پێگەی لەسەر سنووری هەرێمی کوردستان و تورکیا چۆڵکرد",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی زانیارییە هەواڵگرییەکان و وێنەی مانگە دەستکردە سەربازییەکان، پارتی کرێکارانی کوردستان - پەکەکە، 81 پێگەی ستراتیژیی لەسەر سنوورەکان چۆڵکردووە و بەرەو سنووری ئێران پاشەکشەی کردووە. هاوکات لەگەڵ نزیکبوونەوەی وادەی خستنەڕووی پرۆژەیاسایەکی 12 مادەیی لە پەرلەمانی تورکیا، جموجۆڵێکی پاشەکشە لە هێڵی سنووریی عێراق و تورکیا بەدیکراوە. بەگوێرەی راپۆرتە هەواڵگرییەکان، گەریلاکانی پەکەکە لە 81 خاڵی جیاوازی سەر سنوور بەتەواوی کشاونەتەوە و شوێنەکانیان گۆڕیوە. وێنەی مانگە دەستکردەکان و هەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5d335b54f03e0a5a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866521",
+    "title": "پاسەوانی سنووری ئێران باوک و کوڕێکی خەڵکی هەڵشۆیان دەستگیرکردووە و مەڕەکانیشیان بردوون",
+    "title_en": "پاسەوانی سنووری ئێران باوک و کوڕێکی خەڵکی هەڵشۆیان دەستگیرکردووە و مەڕەکانیشیان بردوون",
+    "summary": "رووداو دیجیتاڵ لە سنووری ئیدارەی سەربەخۆی راپەڕین، هێزە ئەمنییەکانی ئێران باوک و کوڕێکیان دەستگیرکرد، ئەوەش دوای ئەوەی ویستوویانە ئەو مەڕوماڵاتانە بگەڕێننەوە کە بەهۆی تەقەی پاسەوانانی سنووری ئێرانەوە لە شوێنەکە بەجێهێڵدرابوون. بەپێی زانیارییەکانی ئەبوبەکر ئیسماعیل، پەیامنێری رووداو لە راپەڕین، رووداوەکە لە کوێستانەکانی (ئاوە سپی) لە سنووری (چیای مامەندە) لە ناحیەی هەڵشۆ روویداوە، کە تێیدا خاڵێکی سەربازیی هێزەکانی ئێران لەو سنوورە دروست کراوە. بەگوتەی پەیامنێری رووداو، سەرەتا شوانێکی خەڵکی هەڵشۆ ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2499771616140562",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866520",
+    "title": "ئاژانسی فەرمیی سووریا: ئەحمەد شەرع لە دیمەشق پێشوازی لە نێچیرڤان بارزانی دەکات",
+    "title_en": "ئاژانسی فەرمیی سووریا: ئەحمەد شەرع لە دیمەشق پێشوازی لە نێچیرڤان بارزانی دەکات",
+    "summary": "رووداو دیجیتاڵ ئەحمەد شەرع، سەرۆککۆماری سووریا، سبەی دووشەممە لە کۆشکی گەل لە دیمەشقی پایتەخت، پێشوازی لە نێچیرڤان بارزانی، سەرۆکی هەرێمی کوردستان دەکات کە بە سەردانێکی فەرمی دەگاتە ئەو وڵاتە. بەگوێرەی هەواڵێکی ئاژانسی دەنگوباسی فەرمیی سووریا (سانا) کە ئێوارەی ئەمڕۆ یەکشەممە بڵاویکردەوە، بڕیارە لە دیدارەکەدا، هەردوولا گفتوگۆ لەبارەی پەیوەندییەکانی نێوان هەولێر و دیمەشق و چەند پرسێکی گرنگی ناوچەکە بکەن کە جێی بایەخی هەردوولان؛ ئەمەش بە مەبەستی بەهێزکردنی هاوکاری و هاوئاهەنگی لە بوارە جیاوازەکاندا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2b1dabd2b73d990d",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1866502",
+    "title": "کودەتا لەنێو فیفا؛ داوای دەستلەکارکێشانەوەی ئینفانتینۆ دەکرێت",
+    "title_en": "کودەتا لەنێو فیفا؛ داوای دەستلەکارکێشانەوەی ئینفانتینۆ دەکرێت",
+    "summary": "رووداو - دیجیتاڵ جیانی ئینفانتینۆ، سەرۆکی یەکێتیی تۆپی پێی جیهان، رووبەڕووی شەپۆلێکی تووندی ناڕەزایەتی بووەتەوە و گوشارەکان بۆ سەر کورسییەکەی گەیشتوونەتە لووتکە. سەرەڕای ئەوەی ئینفانتینۆ لە پڕۆژە مشتومڕاوییەکەی پاشەکشەی کرد، بەڵام بەرەی دژبەرانی لەنێو ماڵی تۆپی پێی جیهانیدا رۆژ لە دوای رۆژ بەهێزتر دەبێت. یوفا و کۆنکاکاف پشت لە ئینفانتینۆ دەکەن بێن جاکۆبس، رۆژنامەنووسی بەناوبانگی بەریتانی، ئەمڕۆ یەکشەممە رایگەیاند کە یەکێتیی تۆپی پێی ئەورووپا خەریکی ئامادەکارییە بۆ ئەوەی بەفەرمی هەموو پشتگیرییە ن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b21897fdbf5af93d",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303777",
+    "title": "2 zarok ji bo kursa Quranê bi rê ketin lê li Cizîrê winda bûn",
+    "title_en": "2 zarok ji bo kursa Quranê bi rê ketin lê li Cizîrê winda bûn",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Kerboranê ya Mêrdînê du zarokên 13 salî yên ku ji bo kursa Quranê bi rê ketibûn winda bûn. Li gorî agahiyan, B.E. (13) û M.D. (13) doh berê sibehê demjimêr 07:00an ji Kerboranê bi serwîsê ber bi Cizîrê ve bi rê ketin. Malbatên wan ew ji bo perwerdeya li kursa Quranê ya li navenda Şirnexê şandibûn. Li Cizîrê winda bûn Hat zanîn ku her du zarok berê sibehê gihîştine Cizîrê lê piştî wê demê pêwendiya bi wan re qut bûye. Malbatên wan du roj in ti agahiyê ji zarokên xwe na",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
