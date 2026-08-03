@@ -195999,6 +195999,78 @@
     }
   },
   {
+    "id": "8f12a67ef221a3e9",
+    "url": "https://www.rudaw.net/english/categories/syria/1078663",
+    "title": "SDF chief hails President Barzani’s Damascus visit, foresees progress on Kurdish issue",
+    "title_en": "SDF chief hails President Barzani’s Damascus visit, foresees progress on Kurdish issue",
+    "summary": "ERBIL, Kurdistan Region - Commander of the Kurdish-led Syrian Democratic Forces (SDF) Mazloum Abdi on Monday hailed Kurdistan Region President Nechirvan Barzani's visit to Damascus as \"historic,\" praising his role in advancing the Kurdish cause in Syria and the region. \"The historic visit of the President of the Kurdistan Region Nechirvan Barzani to Syria is a source of great joy,\" Abdi said in a post on X, underlining his \"important role in supporting the Kurdish cause in Syria and in Kurdistan",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cec754367fe51eaa",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866637",
+    "title": "سەرۆکی ئەنجوومەنی ئاسایش بۆ رووداو: لە پرسی پاراستنی هەرێمی کوردستان دەکۆڵمەوە",
+    "title_en": "سەرۆکی ئەنجوومەنی ئاسایش بۆ رووداو: لە پرسی پاراستنی هەرێمی کوردستان دەکۆڵمەوە",
+    "summary": "رووداو دیجیتاڵ سەرۆکی ئەنجوومەنی ئاسایش بۆ مانگی ئاب، پێشوازی لە پێدانی وڵاتینامە بە کورد لە سووریا دەکات و دەڵێت \"پێشهاتێکی باشە\"؛ سەبارەت بە پاراستنی هەرێمی کوردستانیش لە هێرشە درۆنی و مووشەکییەکان دەڵێت: \"دەبێت لێی بکۆڵمەوە.\" نامۆ عەبدوڵڵا، پەیامنێری رووداو لە نیویۆرک، لە کۆنگرەیەکی رۆژنامەڤانیدا دوو پرسیاری ئاراستەی کریستینا مارکوس لاسن، باڵیۆزی دانیمارک و سەرۆکی ئەنجوومەنی ئاسایش کرد؛ یەکەمیان لەبارەی چارەنووسی کورد لە سووریای نوێ و مەرسوومی ژمارە 13 بۆ پێدانی وڵاتینامە بە کوردی وڵاتەکە، دو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b6cdac622a9968f2",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1303808",
+    "title": "Yurî Nabiyev: Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye",
+    "title_en": "Yurî Nabiyev: Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye",
+    "summary": " Hewlêr (Rûdaw) - Namzedê Kurd ê Parlamentoya Rûsyayê Yurî Nabiyev bi minasebeta salvegera 12an a êrişa DAIŞê ya li Şingalê û Komkujiya Êzidiyan peyamek belav kir û got, “Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye.” Yurî Nabiyev di peyama xwe de da zanîn ku tawanên li dijî Êzidiyan nayên jibîrkirin û divê sûcdar werin cezakirin. Nabiyev anî zimên ku 3yê Tebaxa 2014an cîhan bû şahidê yek ji tawanên herî metirsîdar ên serdema me û got: “Çekdarên DAIŞê komkujî kirin. Wan bi hezaran jin û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bfe829573559b6ec",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1303808",
+    "title": "Yurî Nabiyev: Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye",
+    "title_en": "Yurî Nabiyev: Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye",
+    "summary": " Hewlêr (Rûdaw) - Namzedê Kurd ê Parlamentoya Rûsyayê Yurî Nabiyev bi minasebeta salvegera 12an a êrişa DAIŞê ya li Şingalê û Komkujiya Êzidiyan peyamek belav kir û got, “Paşeroja Êzidiyan bi Herêma Kurdistanê ve girêdayî ye.” Yurî Nabiyev di peyama xwe de da zanîn ku tawanên li dijî Êzidiyan nayên jibîrkirin û divê sûcdar werin cezakirin. Nabiyev anî zimên ku 3yê Tebaxa 2014an cîhan bû şahidê yek ji tawanên herî metirsîdar ên serdema me û got: “Çekdarên DAIŞê komkujî kirin. Wan bi hezaran jin û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
