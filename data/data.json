@@ -199185,6 +199185,24 @@
     }
   },
   {
+    "id": "68075baa84ce0339",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078681",
+    "title": "Iraq says Syria border remains secure despite alert reports",
+    "title_en": "Iraq says Syria border remains secure despite alert reports",
+    "summary": "ERBIL, Kurdistan Region - Iraq's borders with Syria remain \"calm and secure,\" a high-ranking Iraqi border official said Tuesday, despite reports from regional and Syrian media outlets that Syria's army has entered a state of alert and is deploying units along the country's borders with Iraq amid security concerns. \"The situation along [Iraq's] border with Syria is normal, and the movements on the Syrian side to secure the borders are taking place with our knowledge and in coordination with us,\" ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
