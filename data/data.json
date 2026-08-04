@@ -196341,6 +196341,492 @@
     }
   },
   {
+    "id": "4246b0406f464f44",
+    "url": "https://www.rudaw.net/english/categories/economic/1078667",
+    "title": "Genel Energy: Oil production in Tawke, Peshkabur dropped by 66% in first half of 2026",
+    "title_en": "Genel Energy: Oil production in Tawke, Peshkabur dropped by 66% in first half of 2026",
+    "summary": "ERBIL, Kurdistan Region - Genel Energy released its latest financial and operational report revealing a 66.3 percent decline in overall oil production levels in the Tawke and Peshkabur fields for the first half of 2026 compared to the same period last year. According to Genel Energy's report, the decline was due to the temporary suspension of production operations following the escalation of military tensions and conflict in the region at the end of February this year. Production decline and ini",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "112c29847328eb10",
+    "url": "https://www.rudaw.net/english/categories/iran/1078666",
+    "title": "Iran executes Kurdish man despite overturned verdict",
+    "title_en": "Iran executes Kurdish man despite overturned verdict",
+    "summary": "ERBIL, Kurdistan Region - An Iranian Kurdish student was executed on Monday despite Iran's supreme court overturning his death sentence two days earlier, according to information obtained by a rights organization, amid a string of executions carried out in recent months based on alleged confessions obtained under duress. A source told Kurdpa human rights organization that Omid Behzad, 21, a Kurdish student from Urmia, the capital of Rojhelat's West Azerbaijan province, “was executed Monday morni",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "033d859e35cff300",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078665",
+    "title": "Cargo vessel hit by 'unknown projectile' in Strait of Hormuz amid US-blockade",
+    "title_en": "Cargo vessel hit by 'unknown projectile' in Strait of Hormuz amid US-blockade",
+    "summary": "ERBIL, Kurdistan Region - A cargo vessel was struck by an \"unknown projectile\" in the Strait of Hormuz off the coast of Oman, a British maritime security monitor reported early Tuesday in the latest security incident along the strategic waterway following the reinstatement of the US blockade on Iranian ports. \"A cargo vessel has broadcasted on VHF 16 that they have been hit by an unknown projectile\" about 20 nautical miles (37 kilometers) northeast of al-Khasab, Oman, the UKMTO (UK Maritime Trad",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "768b2146d45c1b95",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1866654",
+    "title": "لەگەڵ کەمبوونەوەی داهاتی عێراق، ئاڵوگۆڕی پارە لە رێگەی مۆبایلەوە 50٪ کەمی کردووە",
+    "title_en": "لەگەڵ کەمبوونەوەی داهاتی عێراق، ئاڵوگۆڕی پارە لە رێگەی مۆبایلەوە 50٪ کەمی کردووە",
+    "summary": "رووداو دیجیتاڵ عێراق لەبەردەم وەرچەرخانێکی گەورەی دیجیتاڵیدایە. بەپێی داتاکانی بانکی ناوەندیی عێراق، لە ماوەی 30 مانگدا قەبارەی مامەڵە داراییەکان لە ڕێگەی مۆبایلەوە (Mobile Wallet) گەیشتووەتە نزیکەی 12.8 تریلیۆن دینار، کە زۆرترینی لە رێگەی زەین کاشەوە بووە، بەڵام لەگەڵ کەمبوونەوەی داهاتی عێراق بەهۆی جەنگەوە، ئاڵوگۆڕی پارە لەو رێگەیەوە 50٪ کەمی کردووە. بەگوێرەی ئاماری مانگانەی بانکی ناوەندیی عێراق، چوار کۆمپانیای تۆمارکراو هەن، کە کاری ئاڵوگۆڕی دراو لە رێگەی مۆبایلەوە دەکەن، ئەوانیش ئاسیا حەواڵە،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4de7e089161a6e8f",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866652",
+    "title": "راپۆرتێک: رێککەوتنەکەی واشنتن و تاران کۆنترۆڵی تەنگەی هورمز دەداتە دەست ئێران",
+    "title_en": "راپۆرتێک: رێککەوتنەکەی واشنتن و تاران کۆنترۆڵی تەنگەی هورمز دەداتە دەست ئێران",
+    "summary": "رووداو دیجیتاڵ رۆژنامەی نیویۆرک تایمزی ئەمریکی لە راپۆرتێکدا باس لەوە دەکات کە لەوانەیە کردنەوەی تەنگەی هورمز کێشە گەورەکەی دۆناڵد ترەمپ، سەرۆکی ئەمریکا چارەسەر بکات و نەوت بگەڕێنێتەوە بازاڕ، بەڵام ئەمە باجێکی قورسی دەبێت؛ ئەویش ئەوەیە کە ئێران دەبێتە خاوەن دەسەڵات بەسەر رێڕەوێکدا کە پێشتر نێودەوڵەتی و ئازاد بوو. پلانەکە چییە؟ تاران و عومان نزیک بوونەتەوە لە رێککەوتنێک. بەپێی پلانەکە، ئەو کەشتییانەی دەچنە نێو کەنداوەوە بە رێڕەوێکدا دەڕۆن کە نزیکە لە ئێران و تاران کۆنترۆڵی دەکات، ئەوانەشی دێنە دە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "21643ef582f3d550",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866651",
+    "title": "لە کریمیا سەربازێک چوار کەسی کوشت؛ سێیان سڤیلن",
+    "title_en": "لە کریمیا سەربازێک چوار کەسی کوشت؛ سێیان سڤیلن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7cc47191326d0a8d",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866649",
+    "title": "لە شەش مانگدا هەوڵی بە قاچاخبردنی 4.5 ملیۆن حەبی کاپتاگۆن بە باڵۆن لە عێراق پووچەڵ کراوەتەوە",
+    "title_en": "لە شەش مانگدا هەوڵی بە قاچاخبردنی 4.5 ملیۆن حەبی کاپتاگۆن بە باڵۆن لە عێراق پووچەڵ کراوەتەوە",
+    "summary": "رووداو دیجیتاڵ لە ماوەی شەش مانگی یەکەمی ئەمساڵدا، پاسەوانی سنووری عێراق دەستی بەسەر 4.5 ملیۆن دەنک حەبی کاپتاگۆندا گرتووە، هەوڵدراوە بە باڵۆن ببرێنە سنووری عێراقەوە، بە گوتەى سەرۆکى لیژنەى ئەمنیى ئەنجوومەنى پارێزگاى ئەنبار ئەو رێگەیە لەدواى رووخانى دەسەڵاتى پێشووى سووریاوە پەناى بۆ براوە. بەگوێرەی ئامارێک کە تۆڕی میدیایی رووداو لە پاسەوانی سنووری عێراقەوە دەستی کەوتووە، لە ماوەی شەش مانگی یەکەمی ئەم ساڵدا، ئەو هێزە دەستی بەسەر 4.5 ملیۆن دەنک حەبی کاپتاگۆندا گرتووە، کە هەوڵدراوە لە رێگەی باڵۆنەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eefaac6a74de419d",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866658",
+    "title": "تەلەگرام بۆ ماوەیەکی کورت لە ئەپ ستۆری ئەپڵ لابرا و گەڕێنرایەوە",
+    "title_en": "تەلەگرام بۆ ماوەیەکی کورت لە ئەپ ستۆری ئەپڵ لابرا و گەڕێنرایەوە",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی بۆ ماوەیەکی لادرا و رێگری لە داگرتنی کرا، جارێکی دیکە ئەپڵیکەیشنی تەلەگرام لە ئەپ ستۆری سەر بە کۆمپانیای ئەپڵ دەرکەوتەوە. بەرەبەیانی رۆژی سێشەممە 4ی ئاب، کاتێک بەکارهێنەران لەنێو کۆگای ئەپ ستۆر بۆ تەلەگرام دەگەڕان، ئەپڵیکەیشنەکە دەرنەدەکەوت، بەمەش بەکارهێنەرە نوێیەکان نەیاندەتوانی دایبگرن. بەڵام دواتر لە هەمان رۆژدا، ئەپڵیکەیشنەکە گەڕایەوە نێو ئەنجامەکانی گەڕان و توانای داگرتنیشی کارا کرایەوە. دوای بڵاوبوونەوەی هەواڵی دیارنەمانی تەلەگرام لە ئەپ ستۆر، بەهای دراوی دیجیتاڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "75c4a78ffd7c7884",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866657",
+    "title": "وەزارەتی ناوخۆ: لەم هاوینە 16 کەس لە کۆریای باشوور بەهۆی گەرماوە مردوون",
+    "title_en": "وەزارەتی ناوخۆ: لەم هاوینە 16 کەس لە کۆریای باشوور بەهۆی گەرماوە مردوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c90c7bd01d542f4",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1866656",
+    "title": "بەرزبوونەوەی نرخی سووتەمەنی قازانجەکانی لوفتهانزا دادەبەزێنێت",
+    "title_en": "بەرزبوونەوەی نرخی سووتەمەنی قازانجەکانی لوفتهانزا دادەبەزێنێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f257da79f0f3d7d9",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866655",
+    "title": "بە تۆمەتی کردنەوەی ئاگرێکی گەورە گومانلێکراوێک لە واشنتن دەستگیرکرا",
+    "title_en": "بە تۆمەتی کردنەوەی ئاگرێکی گەورە گومانلێکراوێک لە واشنتن دەستگیرکرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f91e54e203700a0b",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866653",
+    "title": "دەزگای روانگە هۆڵی کۆبوونەوەکانی بەڕێوەبەرایەتیی پەروەردەی گەرمیان نۆژەن دەکاتەوە",
+    "title_en": "دەزگای روانگە هۆڵی کۆبوونەوەکانی بەڕێوەبەرایەتیی پەروەردەی گەرمیان نۆژەن دەکاتەوە",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ لە رێوڕەسمێکدا هۆڵی کۆبوونەوەکانی بەڕێوەبەرایەتیی گشتیی پەروەردەی گەرمیان دەکرێتەوە، لەلایەن دەزگای روانگەوە بە شێوازێکی نوێ و مۆدێرن نۆژەنکراوەتەوە. محەممەد ئەحمەد، بەڕێوەبەری گشتیی پەروەردەی گەرمیان بە تۆڕی میدیایی رووداوی راگەیاند: ''زۆر کاری بەڕێوەبەرایەتییەکانی پەروەردە لەو هۆڵەدا دەکەین، کۆبوونەوە، کردنەوەی خول و راهێنانەکان لەو هۆڵەدا بەڕێوەدەچن.\" بەڕێوەبەری گشتیی پەروەردەی گەرمیان کارەکانی دەزگای روانگەی لەبارەی نۆژەنکردنەوە و خزمەتگەیاندن بە کەرتی پەروەردە و کەرتەکا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a246267fdc5e050e",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866650",
+    "title": "لە دەریای رەش درۆنەکانی ئۆکراینا هێرشیان کردە سەر کەشتییەکی تورکیا  و برینداری لێکەوتەوە",
+    "title_en": "لە دەریای رەش درۆنەکانی ئۆکراینا هێرشیان کردە سەر کەشتییەکی تورکیا  و برینداری لێکەوتەوە",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی راپۆرتێکی ئاژانسی ڤایۆریی رووسی کە ئەمڕۆ سێشەممە بڵاوکراوەتەوە، رۆژی دووشەممە لە ئەنجامی هێرشێکی درۆنیدا، کەشتییەکی بارهەڵگری تورکیا کە بەرەو بەندەری نۆڤۆرۆسیسکی رووسیا دەڕۆیشت زیانی بەرکەوت و چەند ئەندامێکی تیمی کەشتییەکەش بریندار بوون. لەو ڤیدیۆییانەی کە لەنێو کەشتییەکەوە گیراون، دەردەکەوێت کەشتییەکە ئاگری گرتووە و دووکەڵ بەرزدەبێتەوە، لە کاتێکدا تیمەکە هەوڵی کوژاندنەوەی ئاگرەکە دەدەن. لە دیمەنەکانی دیکەدا دەریاڤانە بریندارەکان دەردەکەون، کە بەشێکیان دوای هێرشەکە یارمەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3d8f6b4481be0669",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866647",
+    "title": "دەزگای روانگە رۆژانە 4812 ئامپێر کارەبا لە رێی وزەی خۆرەوە بۆ 5 گوندی هەرێمی کوردستان دابین دەکات",
+    "title_en": "دەزگای روانگە رۆژانە 4812 ئامپێر کارەبا لە رێی وزەی خۆرەوە بۆ 5 گوندی هەرێمی کوردستان دابین دەکات",
+    "summary": "رووداو دیجیتاڵ دەزگای روانگە رایگەیاند، رۆژانە 4 هەزار 812 ئەمپێر کارەبا بۆ پێنج گوندی هەرێمی کوردستان دابین دەکات. سیواد عومەر، بەرپرسی پەیوەندییەکانی دەزگای روانگە دووشەممە 3ـی ئابی 2026، بە تۆڕی میدیایی رووداوی راگەیاند: \"دەزگای روانگە سیستمی وزەی خۆری لە پێنج گوندی هەرێمی کوردستان داناوە، کارەبای پاک و جێگیر بۆ هەزار و 492 سوودمەند دابین دەکات.\" سیواد عومەر روونیکردەوە، ئەو پرۆژەیە رۆژانە 4,812 ئەمپێر کارەبا دابین دەکات و گوتی: \"ئەم پڕۆژەیە خزمەت بە دوو ئامانجی ستراتیجی دەکات، پاراستنی ژینگە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8d511f9629d63f1e",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866645",
+    "title": "ئایا هەستان لە خەو کاژێر 3:00ی شەو شتێکی ئاساییە یان نەخۆشییە؟",
+    "title_en": "ئایا هەستان لە خەو کاژێر 3:00ی شەو شتێکی ئاساییە یان نەخۆشییە؟",
+    "summary": "رووداو دیجیتاڵ ئەگەر تۆش یەکێکیت لەو کەسانەی زۆرجار کاژێر 3:00ی شەو خەبەرت دەبێتەوە و ناتوانیت خەوت لێبکەوێتەوە، لەوانەیە هەست بە بێزاری بکەیت و پێتوابێت کێشەیەکت هەیە، بەڵام زانست و مێژوو دەڵێن ئەمە شتێکی ئاساییە و دەگەڕێتەوە بۆ شێوازی ژیانی کۆنی مرۆڤ. لە رابردوودا و پێش ئەوەی کارەبا و مۆبایل هەبێت، مرۆڤەکان خەویان یەک پارچە نەبووە، واتە تاوەکو بەیانی بەردەوام نەخەوتوون. ئەوان دوای خۆرئاوابوون دەخەوتن، پاشان لە نیوەشەودا بۆ ماوەیەک خەبەریان دەبووەوە، ئینجا دووبارە دەخەوتنەوە تاوەکو بەیانی. بەڵا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c9e30a61682174f",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1866648",
+    "title": "ئەگەری هەیە سوپرایزێکی گەورە لە ریال مەدریددا رووبدات",
+    "title_en": "ئەگەری هەیە سوپرایزێکی گەورە لە ریال مەدریددا رووبدات",
+    "summary": "رووداو دیجیتاڵ یانەی ریال مەدرید لەسەر ئامادەکارییەکانی بۆ وەرزی نوێ بەردەوامە و جۆزێ مۆرینیۆ، هێشتا بڕیاری یەکلاکەرەوەی لەبارەی یاریزانێکەوە نەداوە و راپۆرتە رۆژنامەڤانییەکانیش دەڵێن، رەنگە سوپرایزێک رووبدات. ریال مەدرید هیچ کێشەیەکی لە هێڵی پێشەوەدا نییە، بەتایبەت کە خاوەنی کیلیان ئێمباپێ و ڤینیسیۆس جونیۆرە، یاریزانێکی دیکەش لەژێر چاودێریی راهێنەرە، ئەو یاریزانە ئێندریکە. بەهۆی ئەوەی چاوەڕوانناکرێت لە وەرزی نوێشدا خولەکی زۆری بۆ یارییکردن هەبێت و راهێنەریش بەردەوام چاودێریی دەکات، ئەگەری هەیە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2ba9e57912a320b9",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1303817",
+    "title": "Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer dicivin",
+    "title_en": "Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer dicivin",
+    "summary": "Hewlêr (Rûdaw) - Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer îro li Şamê li hev dicivin. Fermandarê Giştî yê Hêzên Sûriyeya Demokratîk (HSD) Mezlûm Ebdî û Hevseroka Daîreya Pêwendiyên Derve ya Rêveberiya Xweser Îlham Ehmed û Serokkomarê Sûriyeyê Ehmed Şer îro li Şama paytexta Sûriyeyê dicivin. Çavkaniyeke berpirs a ji nav Rêveberiya Xweser a ku nexwest em navê wê eşkere bikin ji Rûdawê eşkere kir ku îro Mezlûm Ebdî û Îlham Ehmed îro li Şamê bi Ehmed Şer re dicivin. Li gorî agahiyên wê çavkaniyê, di civ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4beb8b7bf84c9fef",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303816",
+    "title": "Ehmed Hîlalî: Dibistan dê li gorî bernameyên Şamê bên vekirin",
+    "title_en": "Ehmed Hîlalî: Dibistan dê li gorî bernameyên Şamê bên vekirin",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Parêzgarê Hisîçayê Ehmed Hîlalî li ser sîstema perwerdeyê, vekirina dibistanan û rewşa koçberên li parêzgeha Hisîçayê daxuyaniyek da. Li gorî daxuyaniya ku ji aliyê Birêvebiriya Ragihandinê ya Hisîçayê ve hatiye belavkirin, Ehmed Hîlalî diyar kiriye ku bernameya perwerdeyê ya niştimanî “bernameya fermî û pejirandî “ye. Ji ber vê yekê jî dibistan dê li gorî bernameyên ku li Şamê hatine qebûlkirin bên vekirin. Hîlalî li ser rewşa xwendekarên ku berê li dibistanên Rêveberiy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d6aebbd6e8f32a44",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303812",
+    "title": "UKMTO: Li peravên Umanê êrişî keştiyeke barhilgir hat kirin",
+    "title_en": "UKMTO: Li peravên Umanê êrişî keştiyeke barhilgir hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Navenda Operasyonên Bazirganiya Deryayî ya Brîtanyayê (UKMTO) ragihand ku li peravên Umanê êrişî keştiyeke barhilgir hatiye kirin. UKMTOyê di daxuyaniya xwe ya nivîskî de diyar kir ku li gorî agahiyên ji rayedarên leşkerî hatine wergirtin, bûyerê bi dûrahiya 20 mîlên deryayî li bakurrojhilatê bajarê El-Hesaba Umanê rû daye. Di daxuyaniyê de hat eşkerekirin ku keştiyeke barhilgir a li herêmê bi rêya kanala bêtêl (VHF 16) daxuyanî daye û ragihandiye ku bi “teqemeniyeke nenas” lê h",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "209e1ce4f1b4352b",
+    "url": "https://www.rudaw.net/kurmanci/categories/sriye/1303817",
+    "title": "Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer dicivin",
+    "title_en": "Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer dicivin",
+    "summary": "Hewlêr (Rûdaw) - Îlham Ehmed, Mezlûm Ebdî û Ehmed Şer îro li Şamê li hev dicivin. Fermandarê Giştî yê Hêzên Sûriyeya Demokratîk (HSD) Mezlûm Ebdî û Hevseroka Daîreya Pêwendiyên Derve ya Rêveberiya Xweser Îlham Ehmed û Serokkomarê Sûriyeyê Ehmed Şer îro li Şama paytexta Sûriyeyê dicivin. Çavkaniyeke berpirs a ji nav Rêveberiya Xweser a ku nexwest em navê wê eşkere bikin ji Rûdawê eşkere kir ku îro Mezlûm Ebdî û Îlham Ehmed îro li Şamê bi Ehmed Şer re dicivin. Li gorî agahiyên wê çavkaniyê, di civ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f54b61f7fe6c1b2",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1303815",
+    "title": "Dolarek bi 192 hezar tumenan e",
+    "title_en": "Dolarek bi 192 hezar tumenan e",
+    "summary": "Hewlêr (Rûdaw) - Îro bihayê dolar li beramberî tumenê Îranê hezar û 200 tumenî zêde bû. Bi vê zêdebûnê re bihayê dolarekî gihîşt 192 hezar û 450 tumenî. Di nav 24 demjimêrên dawî de bihayê herî bilind ê dolar 192 hezar û 750 tumen bû. Bihayê herî kêm jî 191 hezar û 50 tumen bû. Amar nîşan didin ku bihayê dolar li gorî hefteya borî bi rêjeya ji sedî 0,89 zêde bûye. Di nav 6 mehên dawî de jî tumen li beramberî dolarî bi qasî ji sedî 21,57an bê qîmet bûye. Aloziyên siyasî û bazar Rojên dawî nûçeyên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6b5df67a10b0290d",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1303814",
+    "title": "Nakokiyên Amerîka û Îranê zêr biha kir",
+    "title_en": "Nakokiyên Amerîka û Îranê zêr biha kir",
+    "summary": "Hewlêr (Rûdaw) - Zêr îro biha bû û niha onsa zêr bi bêhtirî 4 hezar û 50 dolarî tê firotin. Veberhêner di navbera aloziyên li Rojhilata Navîn û metirsiyên enflasyonê de bi baldarî tevdigerin. Sibeha îro bihayê onseke zêr bi rêjeya ji sedî 0,1 zêde bû û gihişt 4 hezar û 57 dolaran. Her wiha zêr di peymanên paşerojê de bi rêjeya ji sedî 0,6 zêde bû û gihişt 4 hezar û 113,67 dolaran. Veberhêner ji aliyekî ve ji bêaramiyên jeopolîtîk dilgiran in, ji aliyê din ve jî pêşbînî dikin ku zêdebûna bihayê e",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc8369ab85eade92",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1303813",
+    "title": "Bermîla petrola brent bi ser 84 dolaran ket",
+    "title_en": "Bermîla petrola brent bi ser 84 dolaran ket",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê îro dîsa zêde bû. Sedema vê yekê dilgiraniyên li ser astengbûna veguhastina petrolê ya li Rojhilata Navîn e. Sibeha îro bihayê bermîleke petrola brent 62 sentan zêde bû û gihişt 84,39 dolaran. Her wiha bihayê petrola sivik a Amerîkayê (WTI) jî bi rêjeya ji sedî 0,7 zêde bû û gihişt 80,95 dolaran. Divê were gotin ku doh bihayê petrolê bi rêjeya ji sedî 5-7an daketibû çimkî Serokê Amerîkayê Donald Trump ragihandibû ku ew dê êrişên li ser Îranê bide rawestandin. Lê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e029c0158add2cd",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1303812",
+    "title": "UKMTO: Li peravên Umanê êrişî keştiyeke barhilgir hat kirin",
+    "title_en": "UKMTO: Li peravên Umanê êrişî keştiyeke barhilgir hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Navenda Operasyonên Bazirganiya Deryayî ya Brîtanyayê (UKMTO) ragihand ku li peravên Umanê êrişî keştiyeke barhilgir hatiye kirin. UKMTOyê di daxuyaniya xwe ya nivîskî de diyar kir ku li gorî agahiyên ji rayedarên leşkerî hatine wergirtin, bûyerê bi dûrahiya 20 mîlên deryayî li bakurrojhilatê bajarê El-Hesaba Umanê rû daye. Di daxuyaniyê de hat eşkerekirin ku keştiyeke barhilgir a li herêmê bi rêya kanala bêtêl (VHF 16) daxuyanî daye û ragihandiye ku bi “teqemeniyeke nenas” lê h",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a1f6497af60c53b",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1303815",
+    "title": "Dolarek bi 192 hezar tumenan e",
+    "title_en": "Dolarek bi 192 hezar tumenan e",
+    "summary": "Hewlêr (Rûdaw) - Îro bihayê dolar li beramberî tumenê Îranê hezar û 200 tumenî zêde bû. Bi vê zêdebûnê re bihayê dolarekî gihîşt 192 hezar û 450 tumenî. Di nav 24 demjimêrên dawî de bihayê herî bilind ê dolar 192 hezar û 750 tumen bû. Bihayê herî kêm jî 191 hezar û 50 tumen bû. Amar nîşan didin ku bihayê dolar li gorî hefteya borî bi rêjeya ji sedî 0,89 zêde bûye. Di nav 6 mehên dawî de jî tumen li beramberî dolarî bi qasî ji sedî 21,57an bê qîmet bûye. Aloziyên siyasî û bazar Rojên dawî nûçeyên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f3aa9ec078bbe44",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1303814",
+    "title": "Nakokiyên Amerîka û Îranê zêr biha kir",
+    "title_en": "Nakokiyên Amerîka û Îranê zêr biha kir",
+    "summary": "Hewlêr (Rûdaw) - Zêr îro biha bû û niha onsa zêr bi bêhtirî 4 hezar û 50 dolarî tê firotin. Veberhêner di navbera aloziyên li Rojhilata Navîn û metirsiyên enflasyonê de bi baldarî tevdigerin. Sibeha îro bihayê onseke zêr bi rêjeya ji sedî 0,1 zêde bû û gihişt 4 hezar û 57 dolaran. Her wiha zêr di peymanên paşerojê de bi rêjeya ji sedî 0,6 zêde bû û gihişt 4 hezar û 113,67 dolaran. Veberhêner ji aliyekî ve ji bêaramiyên jeopolîtîk dilgiran in, ji aliyê din ve jî pêşbînî dikin ku zêdebûna bihayê e",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0c8367cdc417e412",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1303813",
+    "title": "Bermîla petrola brent bi ser 84 dolaran ket",
+    "title_en": "Bermîla petrola brent bi ser 84 dolaran ket",
+    "summary": "Hewlêr (Rûdaw) - Bihayê petrolê îro dîsa zêde bû. Sedema vê yekê dilgiraniyên li ser astengbûna veguhastina petrolê ya li Rojhilata Navîn e. Sibeha îro bihayê bermîleke petrola brent 62 sentan zêde bû û gihişt 84,39 dolaran. Her wiha bihayê petrola sivik a Amerîkayê (WTI) jî bi rêjeya ji sedî 0,7 zêde bû û gihişt 80,95 dolaran. Divê were gotin ku doh bihayê petrolê bi rêjeya ji sedî 5-7an daketibû çimkî Serokê Amerîkayê Donald Trump ragihandibû ku ew dê êrişên li ser Îranê bide rawestandin. Lê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
