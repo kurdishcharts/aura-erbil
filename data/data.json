@@ -203739,6 +203739,438 @@
     }
   },
   {
+    "id": "16b0716a5c9dc120",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078704",
+    "title": "Iraq reports adequate water reserves, revival of southern marshes",
+    "title_en": "Iraq reports adequate water reserves, revival of southern marshes",
+    "summary": "ERBIL, Kurdistan Region - The Iraqi Ministry of Water Resources announced on Thursday that the country holds strong water reserves in its major dams and has successfully supplied hundreds of millions of cubic meters to revive its marshlands following the heavy rain season, replenishing reserves after years of drought. \"Currently, 619 cubic meters of water per second reach the Mosul Dam from the Tigris River. In return, we release 700 cubic meters of water per second from the dam to meet agricult",
+    "source": "rudaw-english",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "33c70cdfb5c1e759",
+    "url": "https://www.rudaw.net/english/categories/iran/1078703",
+    "title": "Iran arrests six Kurdish environmental activists, more expected: Watchdog",
+    "title_en": "Iran arrests six Kurdish environmental activists, more expected: Watchdog",
+    "summary": "ERBIL, Kurdistan Region - Iranian forces arrested six Kurdish environmental activists in Iran’s western Kurdish regions (Rojhelat) on Thursday without search warrants, a human rights organization said, pending additional information with numbers are expected to rise, amid Tehran’s wider ongoing crackdown against dissidents and members of civil society. Iranian security forces Thursday morning arrested Arya Maroufi, Pshtiwan Tatar, Zanyar Asawar, Saman Khosravi, Hawre Parwaza, and Saro Roshani “w",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "094c2776d3bbe85b",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866906",
+    "title": "خوێندنی باڵا بۆ زانکۆکان: هەرکەس داوای پشتگیریی کرد بۆ دامەزراندن پارەی لێوەرمەگرن",
+    "title_en": "خوێندنی باڵا بۆ زانکۆکان: هەرکەس داوای پشتگیریی کرد بۆ دامەزراندن پارەی لێوەرمەگرن",
+    "summary": "رووداو دیجیتاڵ وەزارەتی خوێندنی باڵا و توێژینەوەی زانستی، لە نووسراوێکدا داوا لە هەموو زانکۆکانی هەرێمی کوردستان دەکات، هەر دەرچوویەکی زانکۆکان داوای پشتگیری بۆ دامەزراندن کرد پارەی لێوەرنەگرن. لە نووسراوەکەدا کە 6ـی ئاب بۆ زانکۆکان نێردراوە هاتووە، \"لە چوارچێوەی پڕۆسەی دامەزراندن بە گرێبەست بە لەجێدانان لەسەر میلاکی وەزارەتمان و ئەو رێکارانەی بۆ کێبڕکێی هەڵبژاردنی پێشکێشکارانی شایستە بە سیستمێکی دادپەروەرانە پەیڕەودەکرێن، بە بەڕێزتان رادەگەیەنین کەوا هەر دەرچوویەک یان زانکۆ کە داوای پشتگیری دەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b09428904667a50e",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866899",
+    "title": "عەلی زەیدی هێزە ئەمنی و سەربازییەکانی خستە دۆخی ئامادەییەوە",
+    "title_en": "عەلی زەیدی هێزە ئەمنی و سەربازییەکانی خستە دۆخی ئامادەییەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7a3899b8b5f43434",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866897",
+    "title": "دوای بەدواداچوونی رووداو بەڕێوەبەرایەتیی ئاوی سلێمانی بەڵێنی چارەسەری کێشەی گەڕەکەکان دەدات",
+    "title_en": "دوای بەدواداچوونی رووداو بەڕێوەبەرایەتیی ئاوی سلێمانی بەڵێنی چارەسەری کێشەی گەڕەکەکان دەدات",
+    "summary": "رووداو دیجیتاڵ زیاتر لە 10 گەڕەکی سلێمانی کێشەی ئاویان هەیە، بەڕێوەبەری ئاوی پارێزگاکە دەڵێت، لە رۆژانی داهاتوودا کێشەکەیان چارەسەردەبێت. رۆژی پێنجشەممە، 6ـی ئابی 2026، بووڵتەنی کاژێر 10:00ـی تۆڕی میدیایی رووداو کە ئارێز خالید پێشکێشیکرد، تایبەت بوو بە کێشەی کەمئاوی لە سلێمانی. بۆ بەدواداچوونی کێشەکە، هاونیشتمانییانی گەڕەکە جیاوازەکان لەنێو ستۆدیۆی سلێمانیی تۆڕی میدیایی رووداو و بەشێکی دیکەشیان لەڕێگەی پەیامنێرانەوە دەنگی خۆیان گەیاند، هەر لەنێو بووڵتەنەکەدا بەختیار تاهیر، بەڕێوەبەری ئاوی سلێمان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "aeb6b439ed79cf58",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866895",
+    "title": "جۆرەکانی بناسن؛ ساڵانە لە کوردستان نزیکەی 25 هەزار تۆن هەنجیر بەرهەم دەهێندرێت",
+    "title_en": "جۆرەکانی بناسن؛ ساڵانە لە کوردستان نزیکەی 25 هەزار تۆن هەنجیر بەرهەم دەهێندرێت",
+    "summary": "رووداو دیجیتاڵ وەرزی پێگەیشتنی هەنجیر لە هەرێمی کوردستان دەستیپێکردووە؛ بەرهەمێک کە نەک تەنیا پێداویستیی ناوخۆ پڕ دەکاتەوە، بەڵکو وەک \"بڕاندێک\" ساڵانە هەزاران تۆنی رەوانەی شارەکانی ناوەڕاست و خوارووی عێراق دەکرێت و داهاتێکی گەورە بۆ جووتیاران دابین دەکات. رۆژی پێنجشەممە، 06ـی ئابی 2026، دکتۆر قارەمان قادر، گوتەبێژی وەزارەتی کشتوکاڵ و سەرچاوەکانی ئاو لە هەرێمی کوردستان بە تۆڕی میدیایی رووداوی راگەیاند: \"پێویستیی ساڵانەی ناوخۆ بۆ هەنجیری فرێش لە نێوان 10 هەزار بۆ 15 هەزار تۆن دەخەمڵێندرێت. لە وەرز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b9e9b5297483f2cf",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866905",
+    "title": "نەتەوە یەکگرتووەکان: ئێران لە مانگی ئادارەوە 56 کەسی بە تۆمەتی تێکدانی ئاسایش لە سێدارە داوە",
+    "title_en": "نەتەوە یەکگرتووەکان: ئێران لە مانگی ئادارەوە 56 کەسی بە تۆمەتی تێکدانی ئاسایش لە سێدارە داوە",
+    "summary": "رووداو دیجیتاڵ ڤۆلکەر تورک، کۆمیسیاری باڵای مافەکانی مرۆڤ لە نەتەوە یەکگرتووەکان رایگەیاند، لە 19ی ئادارەوە تاوەکو ئێستا لانیکەم 56 کەس لە ئێران بە تۆمەتی پەیوەندیدار بە \"ئاسایشی نیشتمانی\" لە سێدارە دراون، کە 27یان پەیوەندییان بە خۆپیشاندانەکانی سەرەتای ئەمساڵەوە هەبووە. تورک لە راگەیێندراوێکدا نیگەرانیی قووڵی خۆی نیشان دا و گوتی: \"بەهۆی زیادبوونی رێژەی لە سێدارەدان و دەرکردنی سزای مردن لە ئێران لە مانگی ئادارەوە، تووشی شۆک بووم. سزای لەسێدارەدان بەردەوام وەک ئامرازێک بۆ دروستکردنی ترس لەناو خەڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "647d5246e56543bd",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1866904",
+    "title": "ئومید ئۆزداغ: پڕۆژەیاساکە لێخۆشبوونێکی تایبەتە بۆ پەکەکە",
+    "title_en": "ئومید ئۆزداغ: پڕۆژەیاساکە لێخۆشبوونێکی تایبەتە بۆ پەکەکە",
+    "summary": "رووداو دیجیتاڵ سەرۆکی پارتی زەفەر لە کۆنگرەیەکی رۆژنامەڤانیدا رەخنەی توندی لە پڕۆژەیاسای بەهێزکردنی پاڵپشتیی نیشتمانی و یەکڕیزیی کۆمەڵایەتی گرت، کە لەلایەن هاوپەیمانیی گەل (ئاکپارتی و مەهەپە) پێشکێشی پەرلەمانی تورکیاکراوە و رایگەیاند، ئەم هەنگاوە لەجیاتی بەدەستهێنانی ئاشتی، تەواوی پڕۆسەکە تەسلیمکردنی وڵاتە بە تیرۆر. ئومید ئۆزداغ، سەرۆکی پارتی زەفەر گوتی، \"مانگی ئاب لە مێژووی تورکەکاندا مانگی سەرکەوتنەکان بووە، بەڵام هاوپەیمانیی دەسەڵاتدار لە ئابی 2026ـدا بەم رێککەوتنە دان بەوەدادەنێت کە دەوڵەت ن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "106d0bc6f1ee082a",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866903",
+    "title": "وەزارەتی بەرگریی ئێران: دەستمان بۆ وەڵامدانەوەی هەر هێرشێک واڵایە",
+    "title_en": "وەزارەتی بەرگریی ئێران: دەستمان بۆ وەڵامدانەوەی هەر هێرشێک واڵایە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f213edaea2712dd",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866902",
+    "title": "کارەبای گەرمیان: بەهۆی کەمبوونەوەی بەرهەمهێنان، جێبەجێکردنی پڕۆژەی رووناکی دوو مانگ دواکەوتووە",
+    "title_en": "کارەبای گەرمیان: بەهۆی کەمبوونەوەی بەرهەمهێنان، جێبەجێکردنی پڕۆژەی رووناکی دوو مانگ دواکەوتووە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گشتیی کارەبای گەرمیان راگەیاند، بەهۆی کەمبوونەوەی بەرهەمهێنانی کارەبا، پڕۆژەی 24 کاژێریی کارەبا لە سنوورەکە دواکەوتووە، ئاماژە بەوەشدەکات کە ئێستا پڕۆژەکە لە قۆناخی کۆتاییدایە. رۆژی پێنجشەممە، 6ـی ئابی 2026، ئەندازیار حازم کەریم، بەڕێوەبەری گشتیی کارەبای گەرمیان بە تۆڕی میدیایی رووداوی راگەیاند، \"بڕیاربوو حوزەیرانی ئەمساڵ کارەبای ئیدارەی گەرمیان بکرێتە 24 کاژێری، بەڵام بەهۆی کێشە تەکنیکییەکان و کەمبوونەوەی بڕی بەرهەمهێنانەوە تاوەکو ئێستا جێبەجێنەکراوە.\" سەبارەت بە هەنگا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8c7998e51d16ae4c",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1866901",
+    "title": "شارەوانیی هەولێر: 14 ئاودەستی نوێ لە سەنتەری شار دادەنرێن",
+    "title_en": "شارەوانیی هەولێر: 14 ئاودەستی نوێ لە سەنتەری شار دادەنرێن",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی شارەوانیی یەکی هەولێر، رایگەیاند، 14 ئاودەستی نوێ لە سەنتەری شاری هەولێر دادەنرێن. بەڕێوەبەری شارەوانیی یەک دەڵێت، لە کۆی ئەو ئاودەستانە، حەوت دانەیان بۆ پیاوان و حەوت دانەشیان بۆ ئافرەتان دەبن. رۆژی پێنجشەممە، 6ـی ئابی 2026، سەنگەر محەممەد، بەڕێوەبەری شارەوانیی یەک، بە رووداوی راگەیاند، \"شارەوانیی هەولێر هەوڵدەدات لە شوێنە گشتییەکانی شار تەوالێتی گشتی دابنێت، بەمەبەستی باشترکردنی خزمەتگوزاری بۆ هاونیشتمانییان و گەشتیاران.\" لەبارەی شەقامی ئیسکان، کە یەکێکە لە شەقام",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "edd3e3d97f938273",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866900",
+    "title": "لە عێراق مۆڵەتی کارکردن لە سێ کۆمپانیای ئاڵوگۆڕی دراو وەردەگیرێتەوە",
+    "title_en": "لە عێراق مۆڵەتی کارکردن لە سێ کۆمپانیای ئاڵوگۆڕی دراو وەردەگیرێتەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "235fb0a76bd9fe7f",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866898",
+    "title": "لە عێراق ئینتەرنێتی 16 کۆمپانیا بۆ هەفتەیەک بەخۆڕایی دەبێت",
+    "title_en": "لە عێراق ئینتەرنێتی 16 کۆمپانیا بۆ هەفتەیەک بەخۆڕایی دەبێت",
+    "summary": "رووداو دیجیتاڵ وەزارەتی گەیاندنی عێراق بڕیاریدا حەوت رۆژ ئینتەرنێت بەخۆڕایی بداتە بەشداربووانی ئینتەرنێتی کێبڵی (FTTH)، ئەوەش بەمەبەستی رەچاوکردنی دۆخی دارایی هاووڵاتییان بەهۆی دواکەوتنی مووچەوە. رۆژی پێنجشەممە، 6ـی ئابی 2026، وەزارەتی گەیاندنی عێراق لیستی 16 کۆمپانیای دابینکاری ئینتەرنێتی کێبڵی (FTTH) و ناوی ئەپڵیکەیشنە فەرمییەکانیانی بڵاوکردەوە کە دەبێت تاوەکو 7 رۆژی دیکە ئینتەرنێت بە هاووڵاتییان بدەن، بەبێ ئەوەی پارەیان لێوەربگیرێت، تاوەکو ئەوکاتەی مووچە دابەشدەکرێت. بەگوێرەی لیستەکەی وەزارەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "478a9d03b81d6013",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866896",
+    "title": "سامانی ماسی: مۆڵەت بە زیاتر لە 2300 پڕۆژەی بەخێوکردنی ماسی دراوە",
+    "title_en": "سامانی ماسی: مۆڵەت بە زیاتر لە 2300 پڕۆژەی بەخێوکردنی ماسی دراوە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری سامانی ماسی لە وەزارەتی کشتوکاڵ رایدەگەیێنێت، لە هەرێمی کوردستان 2307 پڕۆژەی ماسی هەن و بۆ پاراستنی بەرهەمی ناوخۆش، لە مانگی ئابەوە باج دەخرێتە سەر ماسی هاوردە. رۆژی پێنجشەممە، 6ـی ئابی 2026، بێستوون نەجمەدین، بەڕێوەبەری سامانی ماسی لە وەزارەتی کشتوکاڵ بە تۆڕی میدیایی رووداوی راگەیاند، \"ئەمساڵ 71 پڕۆژە مۆڵەتی سەرەتاییان پێدراوە و لە قۆناخی دروستکردندان، هەروەها 67 پڕۆژەی دیکەش مۆڵەتی هەمیشەییان پێدراوە. بەوەش کۆی گشتیی پڕۆژەکان گەیشتووەتە 2307 پڕۆژە.\" لەبارەی کاتی پێگەی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "381baea7f2090def",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1866894",
+    "title": "بەرپرسێکی وەزارەتی خوێندنی باڵا: دوای پەسندکردنی بودجە دەرماڵەی خوێندکاران دەگەڕێتەوە",
+    "title_en": "بەرپرسێکی وەزارەتی خوێندنی باڵا: دوای پەسندکردنی بودجە دەرماڵەی خوێندکاران دەگەڕێتەوە",
+    "summary": "رووداو دیجیتاڵ بەرپرسێکی وەزارەتی خوێندنی باڵا و توێژینەوەی زانستیی هەرێمی کوردستان رایگەیاند، دوای پەسندکردنی بودجە، دەرماڵەی خوێندکاران دابەشدەکرێتەوە و بۆ ئەو مەبەستەش مانگانە پێنج ملیار دینار تەرخانکراوە. هەروەها دەڵێت، بۆ دامەزراندنی نزیکەی 16 هەزار لە یەکەم و دووەم و سێیەمەکانی زانکۆ و پەیمانگەکان، پێویستیان بە 12 ملیار دینارە. د. توانا نەجەف، بەڕێوەبەری گشتیی فەرمانگەی کارگێڕی و دارایی لە وەزارەتی خوێندنی باڵا و توێژینەوەی زانستی، لەکاتی بەشداریکردنی لە بووڵتەنی کاژێر 12:00ـی تۆڕی میدیایی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9a1e72a8312648be",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1866892",
+    "title": "عێراق داوایەکی یاسایی لە ئوردن بردەوە",
+    "title_en": "عێراق داوایەکی یاسایی لە ئوردن بردەوە",
+    "summary": "رووداو دیجیتاڵ فەرمانگەی یاسایی سەر بە وەزارەتی دادی عێراق، توانیویەتی داوایەکی یاسایی لە بەرژەوەندیی کۆمپانیای دەرمانی سامەڕا لە دادگەکانی ئوردن بباتەوە و کۆمپانیایەکی ئەو وڵاتە ناچار بە قەرەبووکردنەوەی عێراق بکات. پێنجشەممە، 6ـی ئابی 2026، هەیسەم موحی رازی، بەڕێوەبەری فەرمانگەی یاسایی لە وەزارەتی دادی عێراق، بە رووداوی راگەیاند، \"توانیمان لە دادگەکانی ئوردن سەرکەوتن بەدەستبهێنین.\" بڕیارەکە کۆمپانیایەکی ئوردنی پابەنددەکات بە دانی بڕە پارەیەک بۆ کۆمپانیای گشتیی پیشەسازیی دەرمان و پێداویستییە پزی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ceafcee49c93717d",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1303906",
+    "title": "Ma roman dikare dîrokê biparêze?",
+    "title_en": "Ma roman dikare dîrokê biparêze?",
+    "summary": "Di nava gelek neteweyan de, dîrok tenê di arşîv û belgeyan de nayê parastin; ew di roman, çîrok û bîranînan de jî dijî. Ji ber vê yekê pirseke girîng derdikeve holê: Ma roman dikare dîrokê biparêze? Roman ne pirtûkeke dîrokê ye û ne jî armanca wê ew e ku bûyeran wekî ku qewimîne veguhêze. Lê roman dikare tiştekî ku belge nikare bigihîne, pêk bîne. Ew dikare hest, tirs, hêvî û jiyana rojane ya mirovan di nav bûyereke dîrokî de bide ber çavên xwendevanan. Ji ber vê yekê, gelek caran xwendevan dîro",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3b1d7c332295ed2b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303905",
+    "title": "Li Tirkiye û Bakurê Kurdistanê meha borî herî kêm 25 jin hatine kuştin",
+    "title_en": "Li Tirkiye û Bakurê Kurdistanê meha borî herî kêm 25 jin hatine kuştin",
+    "summary": "Hewlêr (Rûdaw) - Platforma Em dê Kuştina Jinan Rawestînin (KCDP) ragihand ku meha borî li Tirkiye û Bakurê Kurdistanê herî kêm 25 jin hatine kuştin û mirina 31 jinan jî bi guman e. Platforma Em dê Kuştina Jinan Rawestînin (KCDP) rapora xwe ya tawanên li dijî jinan a meha Tîrmehê eşkere kir. Li gorî raporê, di nava mehekê de 25 jin hatine kuştin û 31 jin jî bi awayekî gumanbar mirine. Di raporê de hat diyarkirin ku ji 25 jinên hatine kuştin, 4 ji wan ji ber ku xwestine li ser jiyana xwe biryarê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fcecaa33540c1c76",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1303904",
+    "title": "Mehmet Saît Yaz li ser pêşniyaryasayê got: Ev ji bo Kurd û Tirkan mizgîniyeke mezin e",
+    "title_en": "Mehmet Saît Yaz li ser pêşniyaryasayê got: Ev ji bo Kurd û Tirkan mizgîniyeke mezin e",
+    "summary": "Hewlêr (Rûdaw) - Mehmet Saît Yaz li ser pêşniyaryasaya nû ya ku li Parlamentoya Tirkiyeyê tê nîqaşkirin ji Rûdawê re axivî. Parlamenterê AK Partiyê yê Amedê Mehmet Saît Yaz diyar kir ku ev pêşniyaryasa mizgîniyeke mezin e û ew hêvîdar in ku beriya zivistanê were qebûlkirin. Mehmet Saît Yaz beşdarî bultena Rûdawê bû û pirsên Hêvîdar Zanayê bersivandin. Yaz îdiayên ku dibêjin parlamenterên AK Partiyê bêyî ku pêşniyaryasayê bibînin îmze kirine red kirin û got: \"Ev ne rast e. Wekî endamên komîteyê, ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "653cd32cd3f2a885",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1303903",
+    "title": "Neteweyên Yekbûyî: Li Efxanistanê salane 7 hezar jin dema anîna zarokan dimirin",
+    "title_en": "Neteweyên Yekbûyî: Li Efxanistanê salane 7 hezar jin dema anîna zarokan dimirin",
+    "summary": "New York (Rûdaw) - Talîban şanaziyê bi zêdebûna rêjeya geştyarên biyanî dike lê berpirseke pilebilind a Neteweyên Yekbûyî wêneyekî gelekî tarîtir ê navxwe yê Efxanistanê nîşan dide. Ew radigihîne ku jin û keç ji ber sînordarkirinan hêdî hêdî ji nav civakê winda dibin. Nûçegihanê Rûdawê yê New Yorkê Namo Ebdula di raporekê de balê dikişîne ser du rûyên cuda yên jiyana li Efxanistana di bin desthilata Talîbanê de. Li aliyekî, geştyarên wekî wê jina Almanyayî ya ku çûye wî welatî behsa tecrubeyeke ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b3834b9177d9e057",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1303906",
+    "title": "Ma roman dikare dîrokê biparêze?",
+    "title_en": "Ma roman dikare dîrokê biparêze?",
+    "summary": "Di nava gelek neteweyan de, dîrok tenê di arşîv û belgeyan de nayê parastin; ew di roman, çîrok û bîranînan de jî dijî. Ji ber vê yekê pirseke girîng derdikeve holê: Ma roman dikare dîrokê biparêze? Roman ne pirtûkeke dîrokê ye û ne jî armanca wê ew e ku bûyeran wekî ku qewimîne veguhêze. Lê roman dikare tiştekî ku belge nikare bigihîne, pêk bîne. Ew dikare hest, tirs, hêvî û jiyana rojane ya mirovan di nav bûyereke dîrokî de bide ber çavên xwendevanan. Ji ber vê yekê, gelek caran xwendevan dîro",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e911cb48477b306f",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1303905",
+    "title": "Li Tirkiye û Bakurê Kurdistanê meha borî herî kêm 25 jin hatine kuştin",
+    "title_en": "Li Tirkiye û Bakurê Kurdistanê meha borî herî kêm 25 jin hatine kuştin",
+    "summary": "Hewlêr (Rûdaw) - Platforma Em dê Kuştina Jinan Rawestînin (KCDP) ragihand ku meha borî li Tirkiye û Bakurê Kurdistanê herî kêm 25 jin hatine kuştin û mirina 31 jinan jî bi guman e. Platforma Em dê Kuştina Jinan Rawestînin (KCDP) rapora xwe ya tawanên li dijî jinan a meha Tîrmehê eşkere kir. Li gorî raporê, di nava mehekê de 25 jin hatine kuştin û 31 jin jî bi awayekî gumanbar mirine. Di raporê de hat diyarkirin ku ji 25 jinên hatine kuştin, 4 ji wan ji ber ku xwestine li ser jiyana xwe biryarê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2277e947e4026072",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1303904",
+    "title": "Mehmet Saît Yaz li ser pêşniyaryasayê got: Ev ji bo Kurd û Tirkan mizgîniyeke mezin e",
+    "title_en": "Mehmet Saît Yaz li ser pêşniyaryasayê got: Ev ji bo Kurd û Tirkan mizgîniyeke mezin e",
+    "summary": "Hewlêr (Rûdaw) - Mehmet Saît Yaz li ser pêşniyaryasaya nû ya ku li Parlamentoya Tirkiyeyê tê nîqaşkirin ji Rûdawê re axivî. Parlamenterê AK Partiyê yê Amedê Mehmet Saît Yaz diyar kir ku ev pêşniyaryasa mizgîniyeke mezin e û ew hêvîdar in ku beriya zivistanê were qebûlkirin. Mehmet Saît Yaz beşdarî bultena Rûdawê bû û pirsên Hêvîdar Zanayê bersivandin. Yaz îdiayên ku dibêjin parlamenterên AK Partiyê bêyî ku pêşniyaryasayê bibînin îmze kirine red kirin û got: \"Ev ne rast e. Wekî endamên komîteyê, ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e772a8012aca7336",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1303903",
+    "title": "Neteweyên Yekbûyî: Li Efxanistanê salane 7 hezar jin dema anîna zarokan dimirin",
+    "title_en": "Neteweyên Yekbûyî: Li Efxanistanê salane 7 hezar jin dema anîna zarokan dimirin",
+    "summary": "New York (Rûdaw) - Talîban şanaziyê bi zêdebûna rêjeya geştyarên biyanî dike lê berpirseke pilebilind a Neteweyên Yekbûyî wêneyekî gelekî tarîtir ê navxwe yê Efxanistanê nîşan dide. Ew radigihîne ku jin û keç ji ber sînordarkirinan hêdî hêdî ji nav civakê winda dibin. Nûçegihanê Rûdawê yê New Yorkê Namo Ebdula di raporekê de balê dikişîne ser du rûyên cuda yên jiyana li Efxanistana di bin desthilata Talîbanê de. Li aliyekî, geştyarên wekî wê jina Almanyayî ya ku çûye wî welatî behsa tecrubeyeke ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
