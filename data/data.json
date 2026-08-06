@@ -202389,6 +202389,78 @@
     }
   },
   {
+    "id": "dda9f9d0df1fc147",
+    "url": "https://www.rudaw.net/sorani/categories/world/1866842",
+    "title": "راپۆرتێک: هێلیکۆپتەرەکەی ترەمپ زۆر لە فڕۆکەیەکی نەفەرهەڵگر نزیک بووەتەوە",
+    "title_en": "راپۆرتێک: هێلیکۆپتەرەکەی ترەمپ زۆر لە فڕۆکەیەکی نەفەرهەڵگر نزیک بووەتەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "02e032e0d13781c4",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866841",
+    "title": "UKMTO: لە نزیک کەشتییەکی نەوتهەڵگر لە تەنگەی هورمز تەقینەوەیەک روویدا",
+    "title_en": "UKMTO: لە نزیک کەشتییەکی نەوتهەڵگر لە تەنگەی هورمز تەقینەوەیەک روویدا",
+    "summary": "رووداو دیجیتاڵ ئاژانسێکی دەریایی بەریتانیا رایگەیاند، کەشتییەکی نەوتهەڵگر لە کاتی تێپەڕبوونی بە تەنگەی هورمز لە نزیک عومان گوێی لە دەنگی تەقینەوە بووە، ئەمەش لە کاتێکدایە تاران و مەسقەت سەرقاڵی گفتوگۆن بۆ بەڕێوەبردنی هاوبەشی ئەو رێڕۆ ئاوییە گرنگە. رۆژی پێنجشەممە 06-08-2026 دەستەی ئۆپەراسیۆنە دەریاییەکانی بازرگانیی بەریتانیا (UKMTO) لە ئێکس بڵاویکردەوە: \"کاپتنی کەشتییەکی نەوتهەڵگر لە کاتی تێپەڕبوونی بە تەنگەی هورمزدا رایگەیاندووە گوێی لە دەنگی دوو تەقینەوە بووە.\" رووداوەکە نزیکەی 10 میل (16 کیلۆم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c0d9d92e3cc62cb",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866840",
+    "title": "ترەمپ: پێم باشترە لەگەڵ ئێران رێکبکەوم نەک وێرانی بکەم",
+    "title_en": "ترەمپ: پێم باشترە لەگەڵ ئێران رێکبکەوم نەک وێرانی بکەم",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d86f22804a2eaf71",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1866843",
+    "title": "دزەکردنی نەوت لە کەشتییەکەوە لە کەناراوەکانی عومان مەترسیی کارەساتێکی ژینگەیی دروستکردووە",
+    "title_en": "دزەکردنی نەوت لە کەشتییەکەوە لە کەناراوەکانی عومان مەترسیی کارەساتێکی ژینگەیی دروستکردووە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
