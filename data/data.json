@@ -207429,6 +207429,42 @@
     }
   },
   {
+    "id": "2ee8dccb2f7504a3",
+    "url": "https://www.rudaw.net/english/categories/world/1078724",
+    "title": "Two Kurdish men killed in German refugee camp, suspect arrested",
+    "title_en": "Two Kurdish men killed in German refugee camp, suspect arrested",
+    "summary": "ERBIL, Kurdistan - German authorities arrested a Syrian national for the suspected murder of two Kurdish men in a refugee camp in Augsburg, Germany, police and prosecutors told Rudaw on Thursday. The Augsburg prosecutor's office and the regional police confirmed the arrest of a 29-year-old Syrian national on charges of “double homicide” in a joint statement sent to Rudaw's Kehy Mahmoud. According to the updated press release, the victims are a 39-year-old man from the Kurdish semi-autonomous reg",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "731588ac1ade76f5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867009",
+    "title": "لە ئەڵمانیا دوو پەناخوازی کورد کوژران و گومانلێکراوێکی سووری دەستگیرکرا",
+    "title_en": "لە ئەڵمانیا دوو پەناخوازی کورد کوژران و گومانلێکراوێکی سووری دەستگیرکرا",
+    "summary": "رووداو دیجیتاڵ لە کەمپێکی پەنابەران لە شاری ئۆگسبێرگی ئەڵمانیا، دوو پەناخوازی کورد بە چەقۆ کوژران. یەکێکیان خەڵکی پارێزگای سلێمانییە و ئەوی دیکەیان خەڵکی شاری تل تەمرە لە رۆژئاوای کوردستان. پۆلیس پەناخوازێکی سووریایی بە ناوی (محەممەد ک.) وەک گومانلێکراوی سەرەکیی تاوانەکە دەستگیرکردووە. بەپێی زانیارییەکانی پۆلیس، تەرمی هەردوو هاونیشتمانییەکە لەنێو سەبەتەی گەورەی زبڵ و خاشاکدا دۆزراونەتەوە و دەرکەوتووە کە بە چەقۆ کوژراون. گوتەبێژی پۆلیسی شڤابن رایگەیاند: \"پۆلیسی تاوانی ئۆگسبێرگ لە 3ـی ئابی 2026ـەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
