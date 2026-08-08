@@ -209535,6 +209535,42 @@
     }
   },
   {
+    "id": "3f47b95dec60d600",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078737",
+    "title": "Iraq’s security needs ‘auxiliary force’ until US fully withdraws: Shiite official",
+    "title_en": "Iraq’s security needs ‘auxiliary force’ until US fully withdraws: Shiite official",
+    "summary": "ERBIL, Kurdistan Region - Iraq must maintain its armed factions until it is fully capable of protecting its sovereignty and foreign forces completely leave the country, an official from a key political party within the ruling Shiite-led Coordination Framework announced Saturday. \"The state must possess a capable defense system that ensures full sovereignty over its waters, land, and airspace,” Ali al-Daffayi, spokesperson for the Islamic Supreme Council of Iraq (ISCI), an Iraqi Shiite political ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "acd49ee9949caf2f",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867058",
+    "title": "شکانی بۆریی هێڵی دووی دووکان کارپێکردنی سێ پەمپی نوێی ئاوی دواخست",
+    "title_en": "شکانی بۆریی هێڵی دووی دووکان کارپێکردنی سێ پەمپی نوێی ئاوی دواخست",
+    "summary": "رووداو دیجیتاڵ نزیکەی مانگێکە بەشێکی زۆری گەڕەکەکانی سلێمانی بەدەست کەمئاوییەوە دەناڵێنن. بڕیار وابوو فەرمانگەی ئاوی سلێمانی ئەمڕۆ سێ پەمپی نوێی هێڵەکە لە دووکانەوە بخاتە کار، بەڵام شکانی بۆریی هێڵی دووەم لە ناوچەی قولەرەیسی، تاقیکردنەوەی پەمپە نوێیەکانیشی راگرت. بەختیار تاهیر، بەڕێوەبەری فەرمانگەی ئاوی سلێمانی بە رووداوی راگەیاند: \"ئێمە نازانین ئەو کارە (شکاندنی بۆرییەکە) بۆچی کراوە، بەڵام لایەنی سەرپێچیکار بانگهێشتی لێکۆڵینەوە دەکەین، چونکە زەرەری لە بۆرییەکە داوە و دەبێت چەند رۆژێک چاوەڕێ بکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
