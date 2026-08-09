@@ -212433,6 +212433,60 @@
     }
   },
   {
+    "id": "99eb409530fcaf88",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867161",
+    "title": "ترەمپ: ئێران لە بارودۆخێکی زۆر خراپدایە و نیوە-دانوستاندنێکمان لەگەڵیاندا هەیە",
+    "title_en": "ترەمپ: ئێران لە بارودۆخێکی زۆر خراپدایە و نیوە-دانوستاندنێکمان لەگەڵیاندا هەیە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا ئاماژەی بە گۆڕانکارییەک لە ستراتیژی وڵاتەکەی بەرامبەر ئێران کرد و رایگەیاند، لە جیاتی دەستپێکردنی ئۆپەراسیۆنی سەربازیی نوێ، رێگە دەدات گوشارە ئابوورییەکان تاران ناچار بە تەسلیمبوون بکەن. ئەم گۆڕانکارییە لە کاتێکدایە، تەنیا هەفتەیەک لەمەوبەر، ترەمپ خەریک بوو فەرمانی هێرشێکی گەورەی سەربازی بدات، بەڵام لە چاوپێکەوتنێکی نوێدا لەگەڵ ماڵپەڕی \"ئەکسیۆس\" هیچ هەڕەشەیەکی سەربازیی نەکرد. رۆژی یەکشەممە، 9ی ئابی 2026، ترەمپ لە پەیوەندییەکی تەلەفۆنیدا لەگەڵ رۆژنامەڤا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9ffaf69eb66e84ee",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867162",
+    "title": "لە هەولێر ئاگر لە پڕۆژەیەکی نیشتەجێبوون کەوتووەتەوە",
+    "title_en": "لە هەولێر ئاگر لە پڕۆژەیەکی نیشتەجێبوون کەوتووەتەوە",
+    "summary": "رووداو دیجیتاڵ لە هەولێر ئاگر لە پڕۆژەیەکی نیشتەجێبوون کەوتەوە و تیمەکانی بەرگریی شارستانی هەوڵدەدەن کۆنترۆڵی ئاگرەکە بکەن. پەیام سەربەست، پەیامنێری رووداو لە شوێنی ئاگرەکەوە رایگەیاند،تیمەکان لە هەوڵدان بۆ رزگارکردنی ژنێک و منداڵەکەی لەنێو شوقەی خۆیان. تاوەکو ئێستا هۆکاری ئاگرەکە دیارنییە، بەڵام پەیامنێری رووداو رایگەیاند، بۆنی گاز لە شوێنەکە بڵاوبووەتەوە. پڕۆژەکە دەکەوێتە سەر شەقامی 120 مەتریی هەولێر. شاهێدحاڵێک بە پەیامنێری رووداوی گوت، \"چەند کەسێکمان بینی بە ئەمبوڵانس برانە نەخۆشخانە\".  نوێد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "98fee606a6447169",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304002",
+    "title": "Vahap Coşkun: Armanca yasaya nû çekdanîn e, ne çareserkirina pirsgirêka Kurdan e",
+    "title_en": "Vahap Coşkun: Armanca yasaya nû çekdanîn e, ne çareserkirina pirsgirêka Kurdan e",
+    "summary": "Hewlêr (Rûdaw) - Dr. Vahap Coşkun got, “Armanca vê pêvajoyê ew e ku PKK çekên xwe deyne. Armanc ne çareserkirina pirsgirêka Kurdan e.” Hemû xalên projeyasaya \"Bihêzkirina Hevgirtina Neteweyî û Yekbûna Civakî\" di dengdana Komîsyona Dadê ya Parlamentoya Tirkiyeyê de hatin qebûlkirin. Akademîsyen û Mamosteyê Zanîngeha Dîcleyê Dr. Vahap Coşkun li ser projeyasaya nû ya pêvajoya çareseriyê ji Rûdawê re axivî û bersiv da pirsên Hawar Celaledînê. Vahap Coşkun diyar kir ku ev yasa dê pêvajoyê ji zemîneke",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
