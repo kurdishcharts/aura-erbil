@@ -212847,6 +212847,78 @@
     }
   },
   {
+    "id": "b63fc0d3da5b1db5",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867178",
+    "title": "دۆسیەی دامەزراندن لە نێوان هەولێر و بەغدا؛ لەگەڵ رەنج هەموو شتێک لەبارەیانەوە ئاشکرا دەکات",
+    "title_en": "دۆسیەی دامەزراندن لە نێوان هەولێر و بەغدا؛ لەگەڵ رەنج هەموو شتێک لەبارەیانەوە ئاشکرا دەکات",
+    "summary": "لە بەرنامەی (لەگەڵ رەنج)ی تۆڕی میدیایی رووداو، گفتوگۆیەکی چڕ لەبارەی چارەنووسی فەرمانبەر و سێ یەکەمە دانەمەزراوەکانی هەرێمی کوردستان کرا. ئامارە راستەقینەکان، ئاستەنگە یاساییەکان و هەوڵە نوێیەکان بۆ جێگیرکردنی شایستە داراییەکان لایەنە پەیوەندیدارەکان خرانە روو. خوێندنی باڵا: داوای دامەزراندنی 16,280 کەسمان کردووە دکتۆر توانا نەجەف، بەڕێوەبەری گشتیی فەرمانگەی کارگێڕی و دارایی لە وەزارەتی خوێندنی باڵا، ئاماژەی بەوە کرد، ئەوان ئەوەی لە توانای وەزارەتدا بووە کردوویانە و ئاشکرای کرد، بە نووسراوی فەرم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "32026982a09bc5ed",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867177",
+    "title": "تیمی 721ـی هەرێمی کوردستان بۆ قۆناخی پێش کۆتایی مۆندیالی \"پەبجی مۆبایل\" سەرکەوت",
+    "title_en": "تیمی 721ـی هەرێمی کوردستان بۆ قۆناخی پێش کۆتایی مۆندیالی \"پەبجی مۆبایل\" سەرکەوت",
+    "summary": "رووداو دیجیتاڵ تیمی (721 ئێس جی ئی سپۆرت)ـی هەرێمی کوردستان، دووەم رۆژی پاڵەوانێتیی جیهانیی پەبجی مۆبایلی بە ئەنجامێکی باشتر کۆتایی پێهێنا؛ ئەو چوار گەنجەی هەرێمی کوردستان لە رۆژی دووەمدا توانییان خاڵێکی زیاتر لە هەموو یارییەکانی رۆژی یەکەم کۆبکەنەوە، هەر ئەم ئەنجامەش بووە هۆی ئەوەی سەرکەون بۆ قۆناخی پێش کۆتایی مۆندیالەکە. رۆژی یەکشەممە، 09-08-2026، مەسرور دۆسکی، یاریزانی تیمی 721 لە پاڵەوانێتیی جیهانیی پەبجی مۆبایل، بە تۆڕی میدیایی رووداوی راگەیاند، لە رۆژی یەکەمی مۆندیالدا چەند هەڵەیەکیان کردو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "29d06ed34c84b1a8",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1304007",
+    "title": "Tîmeke Kurdistanê li Urdinê 3 madalya standin",
+    "title_en": "Tîmeke Kurdistanê li Urdinê 3 madalya standin",
+    "summary": "Hewlêr (Rûdaw) - Tîmeke Kurdistanê li Urdinê beşdarî şampiyonayeke navneteweyî ya tekwandoyê bû û 3 medalyayên cuda standin. Tîma Perwerdeya Kurdistanê li Urdinê beşdarî Şampiyoniya Vekirî ya Navneteweyî ya tekwandoyê bû û 3 madalya standin. 110 lîstikvanan ji 40 welatan beşdarî şampiyonayê bûn û wan 3 rojan ji bo madalyayên şampiyonayê têkoşîn kir. Tîma Perwerdeya Kurdistanê wekî tîma yekem a Kurdistan û Îraqê beşdarî vê şampiyonayê bû. Tîmê madalyayeke zîv û du madalyayên bronz standin. Sehend",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ecd4e3e2b379347d",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1304007",
+    "title": "Tîmeke Kurdistanê li Urdinê 3 madalya standin",
+    "title_en": "Tîmeke Kurdistanê li Urdinê 3 madalya standin",
+    "summary": "Hewlêr (Rûdaw) - Tîmeke Kurdistanê li Urdinê beşdarî şampiyonayeke navneteweyî ya tekwandoyê bû û 3 medalyayên cuda standin. Tîma Perwerdeya Kurdistanê li Urdinê beşdarî Şampiyoniya Vekirî ya Navneteweyî ya tekwandoyê bû û 3 madalya standin. 110 lîstikvanan ji 40 welatan beşdarî şampiyonayê bûn û wan 3 rojan ji bo madalyayên şampiyonayê têkoşîn kir. Tîma Perwerdeya Kurdistanê wekî tîma yekem a Kurdistan û Îraqê beşdarî vê şampiyonayê bû. Tîmê madalyayeke zîv û du madalyayên bronz standin. Sehend",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
