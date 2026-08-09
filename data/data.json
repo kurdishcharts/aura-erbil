@@ -212793,6 +212793,60 @@
     }
   },
   {
+    "id": "d29433578b10b402",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867176",
+    "title": "پاسپۆرتی عێراقی سێیەم خراپترینی جیهانە",
+    "title_en": "پاسپۆرتی عێراقی سێیەم خراپترینی جیهانە",
+    "summary": "رووداو دیجیتاڵ پاسپۆرتی عێراق هێشتا وەکو یەکێک لە خراپترین پاسپۆرتەکانی جیهان بۆ ساڵی 2026 ماوەتەوە، ئەمە بەگوێرەی نوێترین ریزبەندیی دامەزراوەی \"هێنلی\"ی بەریتانی کە تایبەتە بە گەشتوگوزار و نیشتەجێبوون. کۆمپانیای هێنلی کە بنکەی سەرەکی لە لەندەنە، ریزبەندیی نوێی پاسپۆرتەکانی جیهانی بۆ نیوەی دووەمی ساڵی 2026 بڵاوکردەوە. ریزبەندییەکە 104 وڵاتی مەبەست لەخۆدەگرێت. عێراق سێیەم خراپترینە و لە پلەی 102میندا دێت. لە ریگەیەوە بەبێ ڤیزا تەنیا دەتوانی سەردانی 28 وڵات بکەیت. بەگوێرەی لیستەکە، تەنیا پاسپۆرتی ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a96d5ef008ae55c8",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1867174",
+    "title": "یانەیەکی کوردستان لە پاڵەوانێتییەکی نێودەوڵەتیدا سێ میدالیا دەباتەوە",
+    "title_en": "یانەیەکی کوردستان لە پاڵەوانێتییەکی نێودەوڵەتیدا سێ میدالیا دەباتەوە",
+    "summary": "رووداو دیجیتاڵ یانەیەکی کوردستان لە ئوردن بەشداری لە پاڵەوانێتییەکی نێودەوڵەتیدا دەکات و سێ میدالیای جیاواز دەباتەوە. یانەی پەروەردەی کوردستان، لە ئوردن بەشداریی لە پاڵەوانێتییەکی کراوەی نێودەوڵەتیی تایکواندۆدا کرد و یاریزانەکانی توانیان سێ میدالیا بەدەستبهێنن. لە پاڵەوانێتییەکەدا 110 یاریزان لە 40 وڵاتی جیاواز بەشدارییان کرد و ماوەی سێ رۆژ رکابەرییان لەسەر میدالیاکانی پاڵەوانێتییەکە دەکرد. یانەی پەروەردەی کوردستان وەکو یەکەم یانەی کوردستان و عێراق بەشداریی لە پاڵەوانێتییەکەدا کرد و میدالیایەکی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fca02d0ba923d535",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304006",
+    "title": "Serok Barzanî: Divê doza gelê Kurdistanê bi rêya aştiyane were çareserkirin",
+    "title_en": "Serok Barzanî: Divê doza gelê Kurdistanê bi rêya aştiyane were çareserkirin",
+    "summary": "Hewlêr (Rûdaw) - Serok Mesûd Barzanî endamê Parlamentoya Almanyayê Serdar Yuksel pêşwazî kir û bal kişand ser çareseriya aştiyane ya doza gelê Kurdistanê. Serok Mesûd Barzanî li Pîrmamê bi parlamenterê Almanyayê Serdar Yuksel re hevdîtinek kir. Serok Barzanî kêfxweşiya xwe anî zimên ku ciwanekî Kurd di navendên siyasî û parlamentoya Almanyayê de xwedî rol e. Serok Barzanî her wiha ji bo hewlên wî yên di warên cuda de destxweşî lê kir û bi taybetî bal kişand ser hewlên wî yên ji bo parastina doza",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
