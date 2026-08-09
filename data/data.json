@@ -211785,6 +211785,114 @@
     }
   },
   {
+    "id": "aa9fb235e202522c",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078745",
+    "title": "Baghdad court issues arrest warrants for former Iraqi minister, militia leader",
+    "title_en": "Baghdad court issues arrest warrants for former Iraqi minister, militia leader",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Supreme Judicial Council (SJC) on Sunday issued two arrest warrants against Ahmed al-Asadi, former minister of labour and leader of an armed faction within Iran-aligned Popular Mobilization Forces (PMF), on charges of illicit enrichment. The warrants, issued by Baghdad’s Karkh Court of Appeal, accuse Asadi of two separate offenses. The first alleges that Asadi “profited directly from contracts and works” he was responsible for preparing in his capacity as minister",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a83bdb7eedcf89d7",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867145",
+    "title": "نەتەوە یەکگرتووەکان: 4 هەزار تووشبوو و 1850 گیانلەدەستدان بە ئیبۆلا تۆمار کراون",
+    "title_en": "نەتەوە یەکگرتووەکان: 4 هەزار تووشبوو و 1850 گیانلەدەستدان بە ئیبۆلا تۆمار کراون",
+    "summary": "رووداو - تەندروستی گوتەبێژی نەتەوە یەکگرتووەکان رایگەیاند، گرووپێکی راوێژکاریی رێکخراوی تەندروستیی جیهانی پێشنیازی کردووە تاقیکردنەوەیەکی کلینیکی لە کۆنگۆ بۆ هەڵسەنگاندنی ڤاکسینی ئێرڤیبۆ بکرێت دژی جۆرێکی دەگمەنی ئیبۆلا، کە بە ڤایرۆسی بوندیبوگیۆ ناسراوە. فەرحان حەق، گوتەبێژی رێکخراوەی نەتەوە یەکگرتووەکان دەڵێت: ڤاکسینی ئێڤێربۆ تاکە ڤاکسینی مۆڵەتپێدراوە دژی ئیبۆلا و \"ئەمە لە کاتێکدایە کە ڤایرۆسەکە بەردەوامە لە بڵاوبوونەوەی خێرا بە سەرانسەری کۆماری دیموکراتی کۆنگۆ. بەپێی ئامارەکان، لە مانگی ئاداری ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cddc63ad5afdb081",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867144",
+    "title": "ئاوی سلێمانی: کێشەی ئەو گەڕەکانە چارەسەر دەکرێت کە هەفتەی جارێک ئاویان پێدەدرێت",
+    "title_en": "ئاوی سلێمانی: کێشەی ئەو گەڕەکانە چارەسەر دەکرێت کە هەفتەی جارێک ئاویان پێدەدرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7fc2c2bacc0702d0",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303994",
+    "title": "Tevger: Di nava vê qanûnê de şaşîtî û kêmasiyên cidî hene",
+    "title_en": "Tevger: Di nava vê qanûnê de şaşîtî û kêmasiyên cidî hene",
+    "summary": "Hewlêr (Rûdaw) - Birêvebiriya Tevgerê diyar kir ku qanûna çarçoveyê xwedî kêmasiyên cidî ye û got, \"Bê guman ev ziman zimanekî welê ye ku gelê me û Tevgera me nikare qebûl bike.\" Hemû xalên projeyasaya \"Bihêzkirina Hevgirtina Neteweyî û Yekbûna Civakî\" di dengdana Komîsyona Dadê ya Parlamentoya Tirkiyeyê de hatin qebûlkirin. Birêvebiriya Tevgerê (Partiya Karkerên Kurdistanê/PKK) têkildarî qanûna çarçoveyê ev daxuyanî da: \"Qanûna çarçoveyê ya ku bi mehan e tê hêvîkirin ji komîsyonê derbas bû û dê",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9131649eb3b6e655",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303993",
+    "title": "Parlamenterê DEM Partiyê nêçîra pezkoviyan bir Parlamentoya Tirkiyeyê",
+    "title_en": "Parlamenterê DEM Partiyê nêçîra pezkoviyan bir Parlamentoya Tirkiyeyê",
+    "summary": "Hewlêr (Rûdaw) - Parlamenterê DEM Partiyê yê Colemêrgê Vezîr Coşkun Parlak li parlamentoyê bertek nîşanî îhaleya kuştina pezkoviyên li Colemêrgê da. Wî xwest ku demildest ev biryar were betalkirin. Îhaleya “turîzma nêçîrê” Birêvebiriya Parkên Niştimanî û Xwezayê ya Colemêrgê daxuyaniyek dabû. Li gorî daxuyaniyê, ji bo kuştina 3 pezkoviyan îhaleyek dest pê kiriye. Ev pezkovî li çiyayên navçeyên Gever û Şemzînanê yên Colemêrgê ne. Îhale di bin navê “turîzma nêçîrê” de hatiye vekirin. Îhale rê dide",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f58c73c872634788",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1303992",
+    "title": "Çetîn Arkaş li Nisêbînê axivî: Yasaya li Parlamentoyê destpêkek e",
+    "title_en": "Çetîn Arkaş li Nisêbînê axivî: Yasaya li Parlamentoyê destpêkek e",
+    "summary": "Hewlêr (Rûdaw) - Endamê berê yê Sekreteryaya Îmraliyê Çetîn Arkaş ragihand ku \"Yasaya Çarçove\" ya li Parlamentoya Tirkiyeyê destpêkek e ji bo bidawîkirina êşên 100 salî. Çetîn Arkaş got, \"Divê êdî rûpeleke nû were vekirin da ku milet bi aramî bijî.\" Encûmena Ciwanan a DEM Partiyê ya Mêrdînê li navçeya Nisêbînê panelek li dar xist. Çetîn Arkaş jî beşdarî vê panelê bû. Wî li ser pêvajoya çareseriyê û pêşniyaryasaya ku ji Komîsyona Dadê derbas bûye axivî. Arkaş bal kişand ser Pirsgirêka Kurdan a di",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
