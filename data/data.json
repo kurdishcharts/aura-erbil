@@ -212739,6 +212739,60 @@
     }
   },
   {
+    "id": "d1f01a6de1ee96a1",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867173",
+    "title": "قەیرانی کەمئاوی لە سلێمانی بەردەوامە، شکانی پەمپ و بۆرییەکان کێشەکەیان قووڵتر کردووەتەوە",
+    "title_en": "قەیرانی کەمئاوی لە سلێمانی بەردەوامە، شکانی پەمپ و بۆرییەکان کێشەکەیان قووڵتر کردووەتەوە",
+    "summary": "رووداو دیجیتاڵ کێشەی دابینکردنی ئاو لە پارێزگای سلێمانی و بەشێک لە شارۆچکەکانی دەوروبەری، بەتایبەت چەمچەماڵ و بازیان، بەردەوامە و هاووڵاتییان ناچارن بە پارە ئاوی خواردنەوە بکڕن. محەممەد عەبدوڵڕەحمان، دانیشتووی گەڕەکی ئاسوودەیە لە چەمچەماڵ و دەڵێت: \"ناچارین لە مانگێکدا 10 جار ئاو بکڕین، زۆر بێ ئاوین و دۆخەکە باش نییە.\" نەسرین ئەحمەد، کابانی ماڵەوەیە و دەڵێت: \"خەریکە ماڵەکانمان چۆڵ دەکەین لەبەر بێ ئاویی. دەبێت بپاڕێینەوە تاوەکو ئاومان دەستبکەوێت، ئەمەیە راستییەکە.\" هاوکات سیامەند عەبدوڵڵا، مامۆستا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f53e6f9cb1a01850",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1304005",
+    "title": "Antolojiya Helbestvanên Jin ên Kurd",
+    "title_en": "Antolojiya Helbestvanên Jin ên Kurd",
+    "summary": "Tê gotin ku gava Anton Çexov di rojên xwe yên dawî û herî ne xweş de bûye, hevjîna wî xwestiye ku hebek cemedê bide ser dilê Çexov da ku êşa wî kêm bike lê Anton Çexov ev daxwaz red kiriye û ji xanima xwe re gotiye: “Cemedê nede ser dilê vala.” Helbet mebesta nivîskarekî wekî Çexov ne neçariya tibî ye, qesta wî kêmbûna hestan an jî xilasbûna emr e. Yanê nexweşiya tibî jî û bêhestî jî ji dil re mirinayî ye û “dil” bi her awayî girîng e. Wer neba, Feqiyê Teyran wê negota “Dil ji min nakit xeyalan”",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "48d77aa39f25e3eb",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1304005",
+    "title": "Antolojiya Helbestvanên Jin ên Kurd",
+    "title_en": "Antolojiya Helbestvanên Jin ên Kurd",
+    "summary": "Tê gotin ku gava Anton Çexov di rojên xwe yên dawî û herî ne xweş de bûye, hevjîna wî xwestiye ku hebek cemedê bide ser dilê Çexov da ku êşa wî kêm bike lê Anton Çexov ev daxwaz red kiriye û ji xanima xwe re gotiye: “Cemedê nede ser dilê vala.” Helbet mebesta nivîskarekî wekî Çexov ne neçariya tibî ye, qesta wî kêmbûna hestan an jî xilasbûna emr e. Yanê nexweşiya tibî jî û bêhestî jî ji dil re mirinayî ye û “dil” bi her awayî girîng e. Wer neba, Feqiyê Teyran wê negota “Dil ji min nakit xeyalan”",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
