@@ -212253,6 +212253,78 @@
     }
   },
   {
+    "id": "a4f36067f6d4d551",
+    "url": "https://www.rudaw.net/english/categories/syria/1078749",
+    "title": "Syrian industrial exhibitions draw international companies, Kurdish-owned business",
+    "title_en": "Syrian industrial exhibitions draw international companies, Kurdish-owned business",
+    "summary": "ERBIL, Kurdistan Region - More than 300 companies from 13 countries are taking part in a three-day industrial exhibition in Damascus, including a Kurdish-owned manufacturer from northeastern Syria (Rojava) seeking to expand production and investment. Among the participating companies is a car-oil manufacturer owned by Yahya Qasim, from Rojava's province of Hasaka, who told Rudaw's Solin Mohammed he plans to open a factory in Qamishli. “The opening of this factory in Qamishli has many benefits. F",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7e170c1554ad8a64",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078748",
+    "title": "Kurdistan Region President welcomes new British consul general",
+    "title_en": "Kurdistan Region President welcomes new British consul general",
+    "summary": "ERBIL, Kurdistan Region - Kurdistan Region President Nechirvan Barzani received Britain’s newly appointed Consul General Holly Vare on Sunday, discussing efforts to strengthen bilateral ties as well as the latest developments in the Kurdistan Region, Iraq and the region at large. President Nechirvan Barzani “welcomed and congratulated Ms. Vare on her appointment and wished her success in her new mission as British Consul General in the Kurdistan Region,” expressing the Kurdistan Region's readine",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "130f3f14884a6687",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867156",
+    "title": "وردەکاریی \"کەمبوونەوەی چەکی ئەمریکا''؛ رووسیا و چین چاودێریی دەکەن و کاریگەرییەکەی درێژخایەنە",
+    "title_en": "وردەکاریی \"کەمبوونەوەی چەکی ئەمریکا''؛ رووسیا و چین چاودێریی دەکەن و کاریگەرییەکەی درێژخایەنە",
+    "summary": "رووداو دیجیتاڵ جەنگی ئەمریکا دژی ئێران کۆگەکانی چەکی ئەو وڵاتەی بۆ ئاستێکی 'نیگەرانبەخش' کەمکردووەتەوە، بەپێی گوتەی بەرپرسانی باڵا، ئەمریکا پێویستییەکانی لە چەک، لە ئاسیا و ئەورووپاوە راکێشاوە. کەمبوونی خێرای مووشەکەکانی بەرگریی ئاسمانی و چەکە گرنگەکانی دیکە لە ئەورووپا و ئاسیا، نەک تەنیا سوپای ئەمریکا بە ئامادەکاریی کەمترەوە بەجێدەهێڵێت، بەڵکو دەکرێت رووسیا و چینیش بوێر بکات ئەگەر بیریان لە ململانێ لەگەڵ ئەمریکا کردبێتەوە. بۆردوومانکردنی ئێران، هەزاران مووشەکی چەند ملیۆن دۆلاری خەرج کرد کە پارچ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "77fd6968be8edfcb",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304000",
+    "title": "Karwanê yekem ê koçberan vedigere Serê Kaniyê",
+    "title_en": "Karwanê yekem ê koçberan vedigere Serê Kaniyê",
+    "summary": "Hewlêr (Rûdaw) - Sibe zêdetirî 600 malbat vedigerin malên xwe yên li Serê Kaniyê. Hêdî hêdî konên koçberên Serê Kaniyê tên rakirin û bê xwedî dimînin. Ew kon ev 7 sal bûn hatibûn vegirtin û ji koçberan re bûbûn wekî stargehekê. Koçberan di bin wan konan de 7 salên tijî êş, dûrbûn û zehmetiyên mezin derbas kirin. Yekem karwan sibe bi rê dikeve Sibe yekem karwanê koçberên Serê Kaniyê dê vegere warê xwe. Karwan dê sibe saet 08:00an ji Kampa Waşokaniyê ya li gundê Tiwênayê bi rê bikeve. Alîkarê Ferm",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
