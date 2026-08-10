@@ -215565,6 +215565,114 @@
     }
   },
   {
+    "id": "a49e23395be155d2",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078768",
+    "title": "Iraq jails police over detainee assault, arrests suspects in viral harassment case",
+    "title_en": "Iraq jails police over detainee assault, arrests suspects in viral harassment case",
+    "summary": "ERBIL, Kurdistan Region - Several Iraqi police officers were sentenced to 10 years in prison and dismissed from service for assaulting a female detainee in southern Iraq, state media reported Monday, as Baghdad’s interior ministry also confirmed the arrest of \"a number of individuals\" involved in a harassment incident in Baghdad that was caught on video and gone viral on Iraqi social media in recent days. “The Internal Security Forces Court sentenced an officer, a deputy officer, and three perso",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "df0c298f622b70d3",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867272",
+    "title": "عەلی زەیدی: بەمزووانە کابینەی حکومەت تەواو دەکرێت",
+    "title_en": "عەلی زەیدی: بەمزووانە کابینەی حکومەت تەواو دەکرێت",
+    "summary": "رووداو دیجیتاڵ چوارچێوەی هاوئاهەنگیی شیعەکان بە ئامادەبوونی سەرۆکوەزیرانی عێراق کۆبووەوە، لە کۆبوونەوەکەدا باس لە چاککردنی دۆخی خزمەتگوزاری و تەواوکردنی کابینەی حکومەت کرا. بەگوێرەی راگەیێندراوی نووسینگەی راگەیاندنی چوارچێوەی هاوئاهەنگی، شەوی دووشەممە 10ی ئابی 2026، لایەنەکانی چوارچێوەی هاوئاهەنگی کۆبوونەوەی خولیی خۆیان لە نووسینگەی محەممەد شیاع سوودانی، بە ئامادەبوونی عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق کرد. یەکێک لە تەوەرەکانی کۆبوونەوەکە، راگەیاندنی نزیکبوونەوەی کاتی تەواوکردنی کابینەی حکومی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b81cda106e59b03c",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867269",
+    "title": "نەوت و کانزاکانی هەولێر: بەمنزیکانە کێشەی کەمیی بەنزین چارەسەر دەکرێت",
+    "title_en": "نەوت و کانزاکانی هەولێر: بەمنزیکانە کێشەی کەمیی بەنزین چارەسەر دەکرێت",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی نەوت و کانزاکانی هەولێر دڵنیایی دەداتە هاونیشتمانییان کە کێشەی کەمیی سووتەمەنی لە ماوەیەکی نزیکدا چارەسەر دەبێت و رای دەگەیێنێت، لەمەودوا شەوانە لیستی دابەشکردنی بەنزین بڵاو دەکرێتەوە. دووشەممە 10-8-2026 بەڕێوەبەرایەتیی نەوت و کانزاکانی هەولێر لە ئاگادارییەکدا بۆ هاونیشتمانییان ئاماژەی بەوە کردووە، هەموو شەوێک دوای کاتژمێر 12:00ـی شەو، لیستی دابەشکردنی بەنزین لە پەیجی فەرمیی خۆیان بڵاو دەکەنەوە بۆ ئەوەی شۆفێران لە شوێنی دابەشکردنەکە ئاگادار بن. سەبارەت بە دۆخی سووت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2826c6b0c06412d6",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867271",
+    "title": "وەزارەتی ناوخۆی عێراق پاسەوانی ئەو پەرلەمانتارانە دەکێشێتەوە کە بە گەندەڵی تۆمەتبارن",
+    "title_en": "وەزارەتی ناوخۆی عێراق پاسەوانی ئەو پەرلەمانتارانە دەکێشێتەوە کە بە گەندەڵی تۆمەتبارن",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ناوخۆی عێراق فەرمانی دا بە کێشانەوەی سەرجەم ئەو پاسەوانانەی، بۆ پاراستنی ئەو پەرلەمانتار و بەرپرسانە تەرخانکرابوون، کە بە تۆمەتی گەندەڵی رەوانەی دادگە کراون و فەرمانی دەستگیرکردنیان بۆ دەرچووە. رۆژی دووشەممە 10ی ئابی 2026 حوسێن عەوادی، بریکاری باڵای وەزارەتی ناوخۆی عێراق، فەرمانی دا بە کێشانەوەی دەستبەجێی ئەو کارمەندانەی پۆلیس کە ئەرکی پاراستنی ئەو پەرلەمانتار و بەرپرسانەیان لە ئەستۆ بوو، کە پارێزبەندییان لادراوە و بە تۆمەتی گەندەڵی رووبەڕووی یاسا کراونەتەوە. ئەم بڕیارە ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3e094e07ce60d1b3",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867239",
+    "title": "9 گۆڕانکاری؛ ریال مەدرید ژمارەی درێسی یاریزانەکانی بۆ وەرزی نوێ راگەیاند",
+    "title_en": "9 گۆڕانکاری؛ ریال مەدرید ژمارەی درێسی یاریزانەکانی بۆ وەرزی نوێ راگەیاند",
+    "summary": "رووداو - هەولێر یانەی ریال مەدریدی ئیسپانی بەفەرمی ژمارەی درێسی یاریزانەکانی بۆ وەرزی 2026-2027 راگەیاند. لیستە نوێیەکە 9 گۆڕانکاری گەورەی تێدایە و تێیدا ژمارەی درێسی ئەستێرە نوێیەکان و چەند گۆڕانکارییەکی ناوخۆیی ئاشکرا کراوە. بەگوێرەی راگەیێندراوی فەرمی یانە شاهانەکە، هەردوو یاریزانی لاو؛ کارلۆس ئیسپی و یان دیۆماندی، بەفەرمی بوونە بەشێک لە تیپی یەکەم. ئیسپی درێسی ژمارە 19 دەپۆشێت کە پێشتر خاوەنەکەی دانی سیبایۆس بوو، دیۆماندیش ژمارە 25ـی پێدراوە. ژمارەی یاریزانە نوێیەکان ئەو یاریزانە نوێیانەی لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6d2b13c877ea9eb",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867270",
+    "title": "تەممووز گەرمترین مانگ بووە لە مێژووی ئەمریکادا",
+    "title_en": "تەممووز گەرمترین مانگ بووە لە مێژووی ئەمریکادا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
