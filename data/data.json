@@ -214719,6 +214719,222 @@
     }
   },
   {
+    "id": "99d2249e16686278",
+    "url": "https://www.rudaw.net/english/categories/syria/1078762",
+    "title": "SDF chief condemns Sare Kani IDP convoy attacks, calls for restraint",
+    "title_en": "SDF chief condemns Sare Kani IDP convoy attacks, calls for restraint",
+    "summary": "ERBIL, Kurdistan Region - Syrian Democratic Forces (SDF) Commander Mazloum Abdi on Monday condemned attacks on the first convoy of displaced residents returning to Sare Kani (Ras al-Ain), calling for accountability and stating that authorities in northeast Syria (Rojava) are coordinating with Damascus to facilitate safe returns. \"We condemn the attack on displaced Kurdish families returning to Sare Kani (Ras al-Ain), which was carried out in coordination with the Syrian state,” Abdi said in a po",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8ad271ce93becbce",
+    "url": "https://www.rudaw.net/english/categories/syria/1078764",
+    "title": "UN Commissioner meets Syrian president to discuss refugee returns",
+    "title_en": "UN Commissioner meets Syrian president to discuss refugee returns",
+    "summary": "ERBIL, Kurdistan Region - UN High Commissioner for Refugees Barham Salih met Syrian President Ahmad Al-Sharra in Damascus on Monday to discuss a number of issues spanning refugee returns, livelihood, early recovery and the safe return of millions of displaced Syrians. President Sharaa and Salih addressed “ways to enhance cooperation between the Syrian Arab Republic and the United Nations High Commissioner for Refugees, in addition to supporting efforts related to the voluntary and safe return of",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b956b319e7fb5c20",
+    "url": "https://www.rudaw.net/english/categories/iran/1078763",
+    "title": "Iran's Khamenei names ex-IRGC spy chief Taeb as head of Basij",
+    "title_en": "Iran's Khamenei names ex-IRGC spy chief Taeb as head of Basij",
+    "summary": "ERBIL, Kurdistan Region - Iranian Supreme Leader Mojtaba Khamenei has appointed Hossein Taeb, the former head of the Islamic Revolutionary Guard Corps (IRGC) Intelligence Organization, as head of the Corps' paramilitary Basij Organization, semi-official Iranian media reported on Monday. The appointment of Taeb, whose name has been tied to human rights violations against dissidents and who is sanctioned by the US, comes shortly after Khamenei appointed Mohsen Rezaei, another controversial figure,",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f22117e08a8d0f3",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867244",
+    "title": "حکومەتی عێراق: مووچەی فەرمانبەران پارێزراوە و دەنگۆی دابەشکردنی 40 رۆژ جارێک ناڕاستە",
+    "title_en": "حکومەتی عێراق: مووچەی فەرمانبەران پارێزراوە و دەنگۆی دابەشکردنی 40 رۆژ جارێک ناڕاستە",
+    "summary": "رووداو دیجیتاڵ حکومەتی عێراق رایدەگەیێنێت، هیچ زانیارییەکی پێشوەختەی لەبارەی بۆردوومانەکانی ئەمریکا و سعودیە بۆ سەر بارەگاکانی حەشدی شەعبی نەبووە. لەبارەی مووچەی فەرمانبەرانیش ئەو دەنگۆیانەی رەتکردەوە کە باس لە دابەشکردنی مووچە لە 40 رۆژ جارێک دەکەن و گوتی، \"دابینکراوە و پارێزراوە.\" حەیدەر عەبوودی، گوتەبێژی حکومەتی عێراق رۆژی دووشەممە 10ی ئابی 2026، لە کۆنگرەیەکی رۆژنامەڤانیدا کە تۆڕی میدیایی رووداو ئامادەی بوو، رایگەیاند، عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق وەزارەتی دەرەوەی راسپاردووە تاوەکو ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "202d3c92198d0bbf",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867242",
+    "title": "مەزڵوم عەبدی: ئەوانەی هێرشیان کردە سەر ئاوارەکانی سەرێکانی لێپرسینەوەیان لەگەڵ دەکرێت",
+    "title_en": "مەزڵوم عەبدی: ئەوانەی هێرشیان کردە سەر ئاوارەکانی سەرێکانی لێپرسینەوەیان لەگەڵ دەکرێت",
+    "summary": "رووداو دیجیتاڵ مەزڵوم عەبدی، فەرماندەی گشتیی هێزەکانی سووریای دیموکرات (هەسەدە)، سەرکۆنەی ئەو هێرش و دەستدرێژییانە دەکات کە کراونەتە سەر خێزانە کوردە ئاوارەکان لەکاتی گەڕانەوەیان بۆ سەرێکانی و رایدەگەیێنێت، \"هەر کەسێک تێوەگلابێت، لێپرسینەوەی لەگەڵ دەکرێت.\" رۆژی دووشەممە 10-08-2026 مەزڵوم عەبدی لە پەیامێکدا کە لە تۆڕی کۆمەڵایەتیی ئێکس بڵاوی کردووەتەوە، رایگەیاند، \"سەرکۆنەی ئەو دەستدرێژییانە دەکەین کرانە سەر خێزانە کوردە ئاوارەکان لەکاتی گەڕانەوەیان بۆ سەرێکانی، کە پڕۆسەی گەڕانەوەیان بە هەماهەنگی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dd2ae2457bcd32b9",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867243",
+    "title": "گەنجێکی 28 ساڵان لە رووباری باڵەکایەتی دا خنکا",
+    "title_en": "گەنجێکی 28 ساڵان لە رووباری باڵەکایەتی دا خنکا",
+    "summary": "رووداو دیجیتاڵ گەنجێکی سنووری ئیدارەی سەربەخۆی سۆران لە کاتی مەلەوانیدا لە رووباری گەورەی باڵەکایەتیدا خنکا. ئەمڕۆ دووشەممە، 10-08-2026، لە گوندی بەرزێوە لە سنووری ئیدارەی سەربەخۆی سۆران، گەنجێک لە کاتی مەلەوانیدا خنکا. رەوەند مەغدید، گوتەبێژی بەرگریی شارستانیی سۆران بە رووداوی گوت، \"گەنجەکە ناوی خدر عەبدوڵڵایە و خەڵکی گوندی سیتکانە و تەمەنی 28 ساڵ بووە\". بەگوتەی گوتەبێژی بەرگریی شارستانیی سۆران، گەنجەکە، \"پیشەی مامۆستا بووە، دوای هێنانە دەرەوەی لە رووبار رەوانەی دادپزیشکیی سۆران کراوە\". بەگوێرە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2e8775430826702",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1867245",
+    "title": "چیرۆکی ژنە پێشمەرگەیەک بۆ جیهان؛ تیزەری فیلمە نوێیەکەی هەڵکەوت مستەفا بڵاوکرایەوە",
+    "title_en": "چیرۆکی ژنە پێشمەرگەیەک بۆ جیهان؛ تیزەری فیلمە نوێیەکەی هەڵکەوت مستەفا بڵاوکرایەوە",
+    "summary": "رووداو دیجیتاڵ بۆ یەکەم جار تیزەری فیلمی سینەمایی \"بەهەشت نابینیت ئەگەر ژن بتکوژێت\"، نوێترین بەرهەمی سینەماکاری دیاری کورد هەڵکەوت مستەفا بڵاوکرایەوە؛ چیرۆکی ژنە پێشمەرگەیەک دەگێڕێتەوە کە رەتیدەکاتەوە لە بەردەم تاریکیدا سەر دانەوێنێت. ئەم فیلمە نوێیەی هەڵکەوت مستەفا لە رۆژی 7-9-2026 لە رێوڕەسمێکی پرۆتۆکۆڵی فەرمی دا لە 83یەمین فێستیڤاڵی ڤێنیس یەکەم نمایشی نێودەوڵەتی بۆ دەکرێت. دەرهێنەر و ستافی فیلمەکە لەسەر فەرشی سووری کۆنترین و یەکێک لە گەورەترین سەکۆکانی سینەما لە جیهان دا پێشوازیان لێدەکرێت. ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2bbae0f228c629f1",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1867246",
+    "title": "ترەمپ داوای قەرەبوو لە ئێران دەکات و مەرجێکی نوێ دەخاتە نێو دانوستاندنەکانەوە",
+    "title_en": "ترەمپ داوای قەرەبوو لە ئێران دەکات و مەرجێکی نوێ دەخاتە نێو دانوستاندنەکانەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، لە بەرامبەر داواکارییەکانی تاران بۆ قەرەبووکردنەوەی زیانەکانی جەنگ، واشنتن بەرامبەر کوژرانی سەربازانی ئەمریکی و سەدان هەزار خۆپێشاندەری بێتاوان داوای قەرەبوو لە ئێران دەکات، فەرمانیشیداوە ئەم مەرجە بخرێتە نێو سەرجەم دانوستاندنەکانی داهاتووەوە. رۆژی دووشەممە 10-08-2026، دۆناڵد ترەمپ، سەرۆکی ئەمریکا لە ترووس سۆشیاڵ پەیامێکی بڵاوکردەوە و ئاماژەی بەوە کرد، نوێنەرانی کۆماری ئیسلامیی ئێران داوای قەرەبووکردنەوەی ئەو زیانانە دەکەن کە لە پێنج مانگی ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d673513451adf414",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304024",
+    "title": "Fragmana ‘Eger Jin Te Bikuje Tu Biheştê Nabînî’ hat belavkirin",
+    "title_en": "Fragmana ‘Eger Jin Te Bikuje Tu Biheştê Nabînî’ hat belavkirin",
+    "summary": "Hewlêr (Rûdaw) - Nîşandana yekemîn a cîhanî ya fîlma “Eger Jin Te Bikuje Tu Biheştê Nabînî” dê li Festîvala Fîlman a Navneteweyî ya Venedîkê be. Şîrketa Hany Filmê fragmana fîlma “Eger Jin Te Bikuje Tu Biheştê Nabînî” bi raya giştî re parve kir. Ev fîlm berhema sînemakarê Kurd Helkewt Mistefa ya herî nû ye. Saziya hilberîna fîlman a Norwecî Hany Filmê, fragmana fîlmê bi raya giştî re parve kir. Fîlm dê li Festîvala 83yemîn a Fîlman a Navneteweyî ya Venedîkê bê nîşandan ku ev festîval wekî festîv",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c3809bb8c3bf367",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304025",
+    "title": "Mezlûm Ebdî li ser êrişa li Serê Kaniyê daxuyanî da",
+    "title_en": "Mezlûm Ebdî li ser êrişa li Serê Kaniyê daxuyanî da",
+    "summary": "Hewlêr (Rûdaw) - Fermandarê Giştî yê Hêzên Sûriyeya Demokratîk (HSD) Mezlûm Ebdî êrişa li ser koçberên ku vedigerin Serê Kaniyê şermezar kir. Mezlûm Ebdî da zanîn ku ew ji bo parastina wan koçberan û hesabpirsîna ji êrişkaran dixebitin. \"Vegera wan bi hevahengiya dewletê pêk hatiye\" Fermandarê Giştî yê HSDyê Mezlûm Ebdî li ser hesabê xwe yê Xê daxuyaniyek belav kir. Wî di daxuyaniya xwe de eşkere kir ku ew êrişa li ser malbatên Kurd ên vedigeriyan Serê Kaniyê şermezar dike. Her wiha wî anî zimên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9270fde1243a4927",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304023",
+    "title": "Sîpan Hemo: Em dê derbarê êrişkaran rêkarên yasayî pêk bînin",
+    "title_en": "Sîpan Hemo: Em dê derbarê êrişkaran rêkarên yasayî pêk bînin",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Wezîrê Parastinê Sûriyeyhê Sîpan Hemo (Semîr Elî Oso) êrişa Erebên hawirde ya li ser malbatên ku vedigerin Serê Kaniyê şermezar kir. Karwanê yekem ê koçberên Serê Kaniyê piştî 7 salan vegeriya warê xwe lê rastî êrişa Erebên hawirde û çekdaran hat. Sîpan Hemo ragihand ku mafê vegera wan parastî ye û ew dê li dijî êrişkaran rêkarên yasayî bigirin ber xwe. Sîpan Hemo di daxuyaniyekê de got, \"Em wan êrişan şermezar dikin ku ji aliyê hinek têkderan ve hatine kirin. Wan êrişî ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b897396ea008cf88",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1304024",
+    "title": "Fragmana ‘Eger Jin Te Bikuje Tu Biheştê Nabînî’ hat belavkirin",
+    "title_en": "Fragmana ‘Eger Jin Te Bikuje Tu Biheştê Nabînî’ hat belavkirin",
+    "summary": "Hewlêr (Rûdaw) - Nîşandana yekemîn a cîhanî ya fîlma “Eger Jin Te Bikuje Tu Biheştê Nabînî” dê li Festîvala Fîlman a Navneteweyî ya Venedîkê be. Şîrketa Hany Filmê fragmana fîlma “Eger Jin Te Bikuje Tu Biheştê Nabînî” bi raya giştî re parve kir. Ev fîlm berhema sînemakarê Kurd Helkewt Mistefa ya herî nû ye. Saziya hilberîna fîlman a Norwecî Hany Filmê, fragmana fîlmê bi raya giştî re parve kir. Fîlm dê li Festîvala 83yemîn a Fîlman a Navneteweyî ya Venedîkê bê nîşandan ku ev festîval wekî festîv",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
