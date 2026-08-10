@@ -212937,6 +212937,42 @@
     }
   },
   {
+    "id": "d37ed3f3f490639e",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078752",
+    "title": "Korek Telecom asks Iraqi PM to intervene over dispute with Iraqi telecom regulator",
+    "title_en": "Korek Telecom asks Iraqi PM to intervene over dispute with Iraqi telecom regulator",
+    "summary": "ERBIL, Kurdistan Region - Korek Telecom has called on Iraqi Prime Minister Ali al-Zaidi to intervene in its dispute with the Communications and Media Commission (CMC), accusing the regulator of pursuing “arbitrary” measures aimed at ending the operations of the Erbil-based company. In a statement issued Sunday, Korek said it was seeking the prime minister’s intervention to “render justice” to the company over what it described as continued “injustice” by the CMC. The company rejected the regulat",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "80e567a3ed7869f3",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867179",
+    "title": "بازاڕی نەوت و زێڕ بە گەشبینی و نادیاری کرایەوە؛ دۆخی هورمز کاریگەری هەیە",
+    "title_en": "بازاڕی نەوت و زێڕ بە گەشبینی و نادیاری کرایەوە؛ دۆخی هورمز کاریگەری هەیە",
+    "summary": "رووداو دیجیتاڵ لەگەڵ کرانەوەی بازاڕەکانی جیهان لە رۆژی دووشەممەدا، نرخی نەوت بە رێژەی یەک دۆلار بەرزبووەوە، لە کاتێکدا نرخی زێڕ دوای بازدانە گەورەکەی هەفتەی رابردوو، تاوەکو رادەیەک لە ئاستە بەرزەکانیدا جێگیر بووە؛ ئەم پەرەسەندنانەش لە کاتێکدان کە دۆخی ئاڵۆزی تەنگەی هورمز و بازاڕی کاری ئەمریکا بەردەوامن. رۆژی دووشەممە، 10-08-2026، نرخی نەوتی خاوی برێنت لە سەرەتای مامەڵەکانی ئەمڕۆدا بەرزبووەوە و گەیشتە سەروو 84 دۆلار بۆ هەر بەرمیلێک، هەروەها نەوتی خاوی ئەمریکیش ئاستی 79 دۆلاری تێپەڕاند. ئەمە سێیەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
