@@ -218427,6 +218427,78 @@
     }
   },
   {
+    "id": "829ea442cab20d89",
+    "url": "https://www.rudaw.net/english/categories/syria/1078786",
+    "title": "Syrian army says two soldiers killed in Qamishli attack",
+    "title_en": "Syrian army says two soldiers killed in Qamishli attack",
+    "summary": "ERBIL, Kurdistan Region - Two soldiers from a Syrian army brigade comprising integrated members of the Syrian Democratic Forces (SDF) were killed and two others wounded in an attack in Qamishli, northeast Syria (Rojava), on Tuesday, according to a military spokesperson. “Two fighters were killed and two others from the Qamishli Brigade were wounded after their position in the village of Tawil Harb, in the Qamishli countryside, came under attack by an outlaw group. The fighters repelled the attac",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "28a284aa1036e2b3",
+    "url": "https://www.rudaw.net/english/categories/world/1078785",
+    "title": "UN backs Turkey’s steps toward peace with PKK, Kurdish groups: Spox",
+    "title_en": "UN backs Turkey’s steps toward peace with PKK, Kurdish groups: Spox",
+    "summary": "ERBIL, Kurdistan Region - The United Nations encourages all steps toward achieving peace with Kurdish groups, including the Kurdistan Workers' Party (PKK), a senior official from the global body confirmed to Rudaw's Namo Abdulla on Tuesday, a day after the Turkish parliament passed a landmark bill offering partial amnesty to PKK members who disarm. \"We're studying this as it progresses, but obviously we encourage all steps by the government of Turkey to forge ahead on peace with Kurdish groups, ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c8f7478ba740347a",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078784",
+    "title": "Houthi Red Sea attack kills six, injures several: Yemeni coast guard",
+    "title_en": "Houthi Red Sea attack kills six, injures several: Yemeni coast guard",
+    "summary": "ERBIL, Kurdistan Region - Six people were killed and several others injured in an attack carried out by the Iran-backed Ansarullah movement in Yemen, better known as the Houthis, in the Bab al-Mandeb Strait, the Yemeni coast guard said Tuesday. While the Houthis did not claim the assault, they defended their operations in the Red Sea as a \"legitimate response\" to alleged attacks on their positions by Saudi Arabia and the Aden-based internationally recognized government (IRG) in Yemen, including ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26be1129becefa4f",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304068",
+    "title": "Ciwan Îso: Ji bo vegera Serê Kaniyê garantiyên ewlehiyê nînin",
+    "title_en": "Ciwan Îso: Ji bo vegera Serê Kaniyê garantiyên ewlehiyê nînin",
+    "summary": "Hewlêr (Rûdaw) - Ciwan Îso ragihand ku wan amadehiyên şandina karwanê duyem bi awayekî demkî rawestandiye. Berpirsê Pêwendiyan ê Komîteya Koçberên Serê Kaniyê Ciwan Îso bû mêvanê Rûdawê û pirsên Dilbixwîn Dara bersivandin. Pêvajoya vegera Kurdan a li Serê Kaniyê doh dest pê kir. Di karwanê yekem de 409 malbat vegeriyan warê xwe. Karwanê yekem ê koçberên Serê Kaniyê piştî 7 salan vegeriya lê rastî êrişa Erebên hawirde hat. Gava koçberên Kurd gihîştin malên xwe, rastî dîmenên xemgîn hatin û wan dî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
