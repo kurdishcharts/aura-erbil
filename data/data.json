@@ -216987,6 +216987,240 @@
     }
   },
   {
+    "id": "30287074cb58a35d",
+    "url": "https://www.rudaw.net/english/categories/syria/1078775",
+    "title": "Syrian court sentences Bashar al-Assad to death for crimes against humanity",
+    "title_en": "Syrian court sentences Bashar al-Assad to death for crimes against humanity",
+    "summary": "ERBIL, Kurdistan Region - A Syrian criminal court on Tuesday sentenced former President Bashar al-Assad to death in absentia, convicting him of premeditated murder, torture, arbitrary detention and crimes against humanity committed during the country’s nearly 14-year conflict. Judge Fakhr al-Din al-Aryan of the Fourth Criminal Court in Damascus announced the verdicts on Tuesday in a landmark trial, saying investigations and witness testimonies had established the involvement of Assad and other s",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f3d94ca0d0b71b2f",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078777",
+    "title": "Iran launches fresh attacks on Kurdish opposition group in Erbil",
+    "title_en": "Iran launches fresh attacks on Kurdish opposition group in Erbil",
+    "summary": "ERBIL, Kurdistan Region - Iran on Tuesday launched new missile strikes against the headquarters of the Kurdish opposition group, Komala Toilers Party of Kurdistan (Komala), in Erbil province, the group said, with no casualties reported. The strikes targeted the party’s headquarters in Alana valley, near the town of Khalifan, at around 1:20 pm local time, Amjad Hussein Panahi, head of the party's communications, said in a post on Facebook. “Although the attack was carried out intensely, our force",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c83255f7e4bd613a",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867320",
+    "title": "پەرلەمانتارێک: وەزیری دارایی پێیگوتین 600 ملیار دینار کۆکراوەتەوە و هەفتەی داهاتوو مووچە دەنێرین",
+    "title_en": "پەرلەمانتارێک: وەزیری دارایی پێیگوتین 600 ملیار دینار کۆکراوەتەوە و هەفتەی داهاتوو مووچە دەنێرین",
+    "summary": "رووداو دیجیتاڵ سێ ئەندامی پەرلەمانی عێراق لەگەڵ فالح ساری، وەزیری دارایی کۆبوونەوە و یەکێک لەو پەرلەمانتارانە بە رووداوی گوت: \"وەزیری دارایی پێیگوتین 600 ملیار دینار کۆکراوەتەوە و هەفتەی داهاتوو مووچە دەنێرین.\" کۆبوونەوەکە پاشنیوەڕۆی ئەمڕۆ سێشەممە، 11ی ئابی 2026، لە بەغدا لە نێوان سێ پەرلەمانتاری فراکسیۆنی پارتی دیموکراتی کوردستان و فالح سارى، وەزیری دارایی بووە. سەلوان ئاکرەیی، یەکێک لەو پەرلەمانتارانەی کە بەشدار بووە لەو کۆبوونەوەیە، بە تۆڕی میدیایی رووداوی گوت: \"وەزیری دارایی پێیگوتین دابەشکر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc58bb66d59f74f7",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867323",
+    "title": "هەمواری یاسایەک لە عێراق؛ موختارەکان دەمانچە هەڵدەگرن و مووچەکەیان دەبێتە دوو هێندە",
+    "title_en": "هەمواری یاسایەک لە عێراق؛ موختارەکان دەمانچە هەڵدەگرن و مووچەکەیان دەبێتە دوو هێندە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d7cbb7f669b3bdcc",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867321",
+    "title": "توێژینەوەیەک: کەمکردنەوەی 30 خولەک وەرزش رۆژانە مەترسیی شێرپەنجە زیاد دەکات",
+    "title_en": "توێژینەوەیەک: کەمکردنەوەی 30 خولەک وەرزش رۆژانە مەترسیی شێرپەنجە زیاد دەکات",
+    "summary": "رووداو-تەندروستی توێژینەوەیەک لە بەریتانیا دەریخستووە، گۆڕینی تەنیا 30 خولەک وەرزشی رۆژانە بە دانیشتن، مەترسیی تووشبوون بە شێرپەنجە بەشێوەیەکی بەرچاو زیاد دەکات. توێژینەوەکە، لە کۆلێژی پزیشکیی لەندەن لەسەر نزیکەی 60 هەزار کەس کراوە کە تێکڕای تەمەنیان 61 ساڵ بووە، دەرکەوتووە گۆڕینی 30 خولەک جووڵە بە 30 خولەک دانیشتن، مەترسیی شێرپەنجەی بە رێژەی 8% بەرزکردووەتەوە. د. جۆن میچڵ، سەرپەرشتیاری توێژینەوەکە لە کۆلێژی پزیشکی لەندەن، رایگەیاند، \"ئەو کەسانەی کاتێکی زیاتر بە دانیشتنەوە بەسەر دەبەن، مەترسیی ت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "54cee227ec9d58e2",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867319",
+    "title": "نۆیەمین پێشانگای نێودەوڵەتیی خوێندن لە هەولێر کرایەوە",
+    "title_en": "نۆیەمین پێشانگای نێودەوڵەتیی خوێندن لە هەولێر کرایەوە",
+    "summary": "رووداو دیجیتاڵ نۆیەمین پێشانگای پەروەردە و خوێندن (EDEX) لە هۆتێل رۆتانا لە شاری هەولێر کرایەوە، کە تێیدا زیاتر لە 30 زانکۆ، پەیمانگە و کۆمپانیای تایبەت بە خوێندن لەنێوخۆ و دەرەوەی هەرێمی کوردستان بەشدارن. پێشانگاکە ماوەی دوو رۆژ بەردەوام دەبێت و ئامانج لێی ئاشناکردنی قوتابیان و خوێندکارانە بە دەرفەتەکانی خوێندن و ئاسانکاری بۆ دۆزینەوەی ئەو بوار و پسپۆڕییانەی کە ئارەزووی دەکەن، بەتایبەتی بۆ دەرچووانی پۆلی 12. ئیبراهیم شەمزین، یەکێک لە سەرپەرشتیارانی پێشانگاکە، بە رووداوی راگەیاند: \"ئەمە نۆیەمین ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1be7867741b2e5ae",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867317",
+    "title": "چارەسەرێکی نوێ هیوای پاککردنەوەی جەستەی کۆرپە لە ڤایرۆسی HIV زیاد دەکات",
+    "title_en": "چارەسەرێکی نوێ هیوای پاککردنەوەی جەستەی کۆرپە لە ڤایرۆسی HIV زیاد دەکات",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c5834f696ba2be19",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867324",
+    "title": "هەزاران هاندەر روودەکەنە کڕینی درێسەکانی ئامەدسپۆر",
+    "title_en": "هەزاران هاندەر روودەکەنە کڕینی درێسەکانی ئامەدسپۆر",
+    "summary": "رووداو دیجیتاڵ یانەی ئامەدسپۆر بۆ وەرزی نوێی خولی سوپەرلیگی تورکیا ئامادەیە و هەزاران هاندەر داوای درێسەکانی یانەکە دەکەن. شەوی دووشەممە لە رێوڕەسمێکی تایبەتدا بە ئامادەبوونی هەزاران هاندەر، پێنج یاریزانی نوێی یانەکە گرێبەستەکانیان واژۆکرد و بە هاندەران ناسێنران، دوای رێوڕەسمی ناساندنی یاریزانە نوێیەکانی ئامەدسپۆر، هەزاران هاندەر روویانکردە ستۆری تایبەتی یانەی ئامەدسپۆر بۆ ئەوەی درێسە نوێیەکانی ئەو یانەیە بکڕن. ئامەدسپۆر ماوەیەک لەمەوبەر درێسە نوێیەکانی ئاشکراکرد، لە وەرزی نوێدا بە چوار رەنگی جی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c6708b565495c496",
+    "url": "https://www.rudaw.net/sorani/episode/71060",
+    "title": "مۆزەخانەی کولتووریی شار لە کفری یەكێکە لە دەوڵەمەندترین مۆزەخانەکانی گەرمیان",
+    "title_en": "مۆزەخانەی کولتووریی شار لە کفری یەكێکە لە دەوڵەمەندترین مۆزەخانەکانی گەرمیان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "278d6a0208982066",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867325",
+    "title": "حەج و عومرە: زیاتر لە 120 هەزار کەس ناویان بۆ حەج تۆمار کردووە",
+    "title_en": "حەج و عومرە: زیاتر لە 120 هەزار کەس ناویان بۆ حەج تۆمار کردووە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گشتیی حەج و عومرەی هەرێمی کوردستان، لە کۆنفرانسێکی رۆژنامەڤانیدا رایگەیاند، ئەم ساڵ بە تیروپشک ناوی ئەو کەسانە ئاشکرا دەکەن، لە دوو ساڵی داهاتوودا مافیان دەبێت حەج بکەن. شێخ وریا مەولانا خالید بالیسانی، بەڕێوەبەری گشتیی حەج و عومرەی هەرێمی کوردستان بە وەکالەت، سێشەممە 11ی ئاب لە کۆنفرانسێکی رۆژنامەڤانیدا رایگەیاند: \"سیستەمی تۆمارکردنی ناونووسینی حەج بۆ ساڵی داهاتوو لە شەوی رابردووەوە راگیراوە و کۆتایی بە تۆمارکردنی ناو هاتووە\". بەڕێوەبەری حەج و عومرە گوتی: \"بڕیارماندابو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2b52433e2be7b7d5",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867326",
+    "title": "نەوت و کانزاکانی هەولێر: بەنزینخانەکان سەرپشکن لە دیاریکردنی کاتی دابەشکردنی بەنزین",
+    "title_en": "نەوت و کانزاکانی هەولێر: بەنزینخانەکان سەرپشکن لە دیاریکردنی کاتی دابەشکردنی بەنزین",
+    "summary": "رووداو دیجیتاڵ بەشێکی شۆفێران ناڕازین لە کاتی دابەشکردنی بەنزین و داوا دەکەن رێگری لە نۆرەبڕی بکرێت. بەڕێوەبەری دابەشکردنی نەوت و کانزاکانی هەولێریش دەڵێت، دیارینەکردنی کاتێکی دیاریکراو بۆ دابەشکردنی بەنزین، لە بەرژەوەندی فەرمانبەر و کاسبکارانە. زیاد رەحمان، شۆفێرێکی دانیشتووی سیدەکان بە رووداوی گوت، زیاتر لە سێ کاژێر لە نۆرەی بەنزین وەستاوە، بەڵام کاتێک گەیشتووەتە بەنزینخانەکە پێیان گوتووە بەنزین نەماوە. ئەو شۆفێرە گوتی، لەبەرچاوی ئەو، پۆلیس و ئاسایش دەچوونە ناو بەنزینخانە و بەنزینیان پێدەدرا. ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fd45685867bd2477",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304051",
+    "title": "HPG: Ew her du sivîlên li Cûdiyê hatin kuştin ne sîxur bûn, nêçîrvan bûn",
+    "title_en": "HPG: Ew her du sivîlên li Cûdiyê hatin kuştin ne sîxur bûn, nêçîrvan bûn",
+    "summary": "Hewlêr (Rûdaw) - Hêzên Parastina Gel (HPG) li ser kuştina 2 sivîlan a li Cûdiyê daxuyaniya xwe rast kir û got, “Selahattîn Gungen û Îzzet Batmaz ne sîxur bûn, nêçîrvan bûn.” Navenda Ragihandin û Çapemeniyê ya HPGyê li ser kuştina du sivîlan daxuyaniya xwe ya berê rast kir. Ev her du sivîl 5ê Tîrmeha 2020an li Çiyayê Cûdiyê hatibûn kuştin û HPGyê berê gotibû ku ew \"kontra\" ne. Lê hat eşkerekirin ku ew tenê nêçîrvan bûn. Bûyer çawa qewimîbû? HPGyê 8ê Tîrmeha 2020an li ser bûyerê daxuyaniyek dabû. ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fc08aa8c50062acb",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304049",
+    "title": "Komeleya Zehmetkêşan: Bi mûşekan êrişî me hat kirin, birîndarên me hene",
+    "title_en": "Komeleya Zehmetkêşan: Bi mûşekan êrişî me hat kirin, birîndarên me hene",
+    "summary": "Hewlêr (Rûdaw) - Komeleya Zehmetkêşan a Kurdistanê ragihand ku baregehên wan ên li Dola Alaneyê ya Hewlêrê bi sisê mûşekan hatine bombekirin. Li gorî daxuyaniya endamekî serkirdayetiya Komeleya Zehmetkêşan, di êrişê de du kes birîndar bûne. Endamê Serkirdayetiya Komeleya Zehmetkêşan a Kurdistanê Emced Husên Penahî ji Rûdawê re got: \"Îro saet 13:20î Komara Îslamî ya Îranê careke din bi mûşekan êrişî baregehên me kir. Du birîndarên me hene lê birînên wan gelekî sivik in û rewşa wan a tenduristiyê ",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
