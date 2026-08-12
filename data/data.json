@@ -220281,6 +220281,96 @@
     }
   },
   {
+    "id": "b30cd9b9b8ed0f49",
+    "url": "https://www.rudaw.net/english/categories/economic/1078795",
+    "title": "Baghdad, Erbil, oil companies renew tripartite agreement: SOMO",
+    "title_en": "Baghdad, Erbil, oil companies renew tripartite agreement: SOMO",
+    "summary": "ERBIL, Kurdistan Region - State Organization for Marketing of Oil (SOMO) announced on Wednesday the renewal of its tripartite agreement with the Iraqi government and the Kurdistan Regional Government following the recently renewed oil export contract between Iraq and Turkey. “The tripartite agreement also reached its end and required an extension,” Ali Nizar, director general of SOMO, told Rudaw's Malik Mohammed, adding that its extension was contingent on the renewal of the Iraq-Turkey agreemen",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "70e7f5783bf21e1a",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867418",
+    "title": "مەرجەکانی جۆرجینا بۆ هاوسەرگیریکردن لەگەڵ رۆناڵدۆ",
+    "title_en": "مەرجەکانی جۆرجینا بۆ هاوسەرگیریکردن لەگەڵ رۆناڵدۆ",
+    "summary": "رووداو دیجیتاڵ کریستیانۆ رۆناڵدۆ، بەشێوەیەکی فەرمی چوونە نێو ژیانی هاوژینیی لەگەڵ جۆرجینا رۆدریگێز راگەیاند و بەفەرمی جۆرجی بووە هاوژینی کریستیانۆ. رۆناڵدۆ و جۆرجینا بەیەکەوە وێنەیەکیان لە ئینستاگرام بڵاوکردووەتەوە، دوو دەستن و ئەلقەی هاوسەرگیریان لەدەستکردووە، بەمشێوەیە دۆن هاوسەرگیرییەکەی لەگەڵ ئەو کچە راگەیاند، کە چەندین ساڵە وەکو خۆشەویست لەگەڵی دەژیت. وێنەی کریستیانۆ رۆناڵدۆ دەنگدانەوەیەکی زۆر گەورەی لەسەر ئاستی جیهان هەبوو و زیاتر لە 22 ملیۆن لایکی بۆ چووە لە ئینستاگرامدا. پێشتر رۆناڵدۆ و ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b1c2ee183c170a9",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304091",
+    "title": "Balafireke şer a Tirkiyeyê ket",
+    "title_en": "Balafireke şer a Tirkiyeyê ket",
+    "summary": "Hewlêr (Rûdaw) - Wezareta Parastinê ya Tirkiyeyê ragihand ku li parêzgeha Yalovayê balafireke F-16ê ketiye xwarê. Balafira şer di dema firîna perwerdeyê de qeza kiriye. Hat destnîşankirin ku pîlotê balafirê beriya qezayê xwe avêtiye û canê xwe rizgar kiriye. Dê lêkolîn were kirin Wezareta Parastinê ya Tirkiyeyê li ser qezayê daxuyaniyeke nivîskî belav kir. Wezaretê di daxuyaniya xwe de ev zanyarî dan: \"Balafireke me ya F-16ê li Yalovayê di dema firîna perwerdeyê de ketiye xwarê û pîlotê me bi xw",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ed6850a15736f658",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1304090",
+    "title": "Karsazên Tirkiye, Azerbeycan û Kurdistanê li Hewlêrê dicivin",
+    "title_en": "Karsazên Tirkiye, Azerbeycan û Kurdistanê li Hewlêrê dicivin",
+    "summary": "Hewlêr (Rûdaw) - Bi armanca xurtkirina têkiliyên bazirganî û bipêşxistina sektorên cuda yên aboriyê, dê meha bê li Hewlêrê forumeke aboriyê were lidarxistin. Dê karsazên ji Tirkiye, Azerbeycanê û Herêma Kurdistanê beşdarî vê forumê bibin. Serokê Odeyên Bazirganî û Pîşesaziyê yên Herêma Kurdistanê Geylan Hacî Seîd ji Rûdawê re axivî. Geylan Hacî Seîd da zanîn ku dê forum bi beşdariya Serokwezîrê Herêma Kurdistanê Mesrûr Barzanî bê lidarxistin. Armanc bipêşxistina bazirganiyê ye Geylan Hacî Seîd d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ae5ec9703353a359",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304090",
+    "title": "Karsazên Tirkiye, Azerbeycan û Kurdistanê li Hewlêrê dicivin",
+    "title_en": "Karsazên Tirkiye, Azerbeycan û Kurdistanê li Hewlêrê dicivin",
+    "summary": "Hewlêr (Rûdaw) - Bi armanca xurtkirina têkiliyên bazirganî û bipêşxistina sektorên cuda yên aboriyê, dê meha bê li Hewlêrê forumeke aboriyê were lidarxistin. Dê karsazên ji Tirkiye, Azerbeycanê û Herêma Kurdistanê beşdarî vê forumê bibin. Serokê Odeyên Bazirganî û Pîşesaziyê yên Herêma Kurdistanê Geylan Hacî Seîd ji Rûdawê re axivî. Geylan Hacî Seîd da zanîn ku dê forum bi beşdariya Serokwezîrê Herêma Kurdistanê Mesrûr Barzanî bê lidarxistin. Armanc bipêşxistina bazirganiyê ye Geylan Hacî Seîd d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
