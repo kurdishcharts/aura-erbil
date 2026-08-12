@@ -219057,6 +219057,168 @@
     }
   },
   {
+    "id": "5d82cb39d10b110e",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078791",
+    "title": "Iran launches new missile, drone attack on Kurdish opposition bases in Erbil",
+    "title_en": "Iran launches new missile, drone attack on Kurdish opposition bases in Erbil",
+    "summary": "ERBIL, Kurdistan Region - Iran fired several missiles and drones at locations in the Alana Valley, about 90 kilometers northeast of Erbil, targeting positions of the Kurdish opposition groups Komala and the Kurdistan Democratic Party of Iran (KDPI), a Peshmerga commander told Rudaw English on Wednesday. A security official told Rudaw that two drones struck the area, causing no casualties. The attacks targeted the headquarters and camps of Iranian Kurdish opposition groups based in the Kurdistan ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cdbe86a9412ba381",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867389",
+    "title": "نرخی نەوت و زێڕ بەرزبوونەوە؛ بازاڕەکان لەنێوان گرژییەکانی هورمز و هەڵاوسانی ئەمریکادان",
+    "title_en": "نرخی نەوت و زێڕ بەرزبوونەوە؛ بازاڕەکان لەنێوان گرژییەکانی هورمز و هەڵاوسانی ئەمریکادان",
+    "summary": "رووداو دیجیتاڵ نرخی نەوت و زێڕ لە بازاڕەکانی جیهاندا رۆژی چوارشەممە 12-08-2026، روویان لە بەرزبوونەوە کرد. بەهۆی تووندبوونەوەی گرژییەکان لە رۆژهەڵاتی نێوەڕاست و چاوەڕوانی بۆ بڵاوبوونەوەی ئامارە گرنگەکانی هەڵاوسانی ئەمریکا، بازاڕ تووشی جۆرێک لە دڵەڕاوکێ بووە. نرخی بەرمیلێک نەوتی خاوی برێنت بۆ سەروو 89 دۆلار بۆ هەر بەرمیلێک بەرزبووەوە و نەوتی خاوی ئەمریکییش گەیشتە نزیکەی 84 دۆلار؛ ئەمە شەشەمین جارە یەک لەدوای یەک بازاڕەکانی نەوت تێیدا گەشە دەکەن. ئەم هەڵکشانە لە کاتێکدایە، وەبەرهێنەران چاودێریی پە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f27c2207f7459794",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867387",
+    "title": "ترەمپ: تەنگەی هورمز لەژێر کۆنترۆڵماندایە و ئێران چیدیکە دەسەڵاتداری ناوچەکە نییە",
+    "title_en": "ترەمپ: تەنگەی هورمز لەژێر کۆنترۆڵماندایە و ئێران چیدیکە دەسەڵاتداری ناوچەکە نییە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ دەڵێ، واشنتن کۆنترۆڵی تەواوەتیی بەسەر تەنگەی هورمزدا هەیە و لەم ململانێیەی ئێستادا لە دۆخێکی زۆر بەهێزدایە. ترەمپ بێئومێدیی خۆی بەرامبەر تاران دووپاتکردەوە و جەختی کردەوە کە ئێران ئیدی خاوەنی هەژموونی زۆرداریی رابردووی خۆی نییە لە رۆژهەڵاتی نێوەڕاست. کۆنترۆڵی تەنگەی هورمز سەرۆکی ئەمریکا لە لێدوانێکدا بیرۆکەی هەبوونی متمانەی بە تاران رەتکردەوە و گوتی: \"من دوایین کەسم کە متمانەم بە ئێران هەبێ، ئەوان بەردەوام درۆیان لەگەڵ کردووم.\" سەبارەت بە دۆخی تەنگەی هورمز، ترەمپ جەخت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4542d25cf94dd019",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867386",
+    "title": "چوار درۆن لە سێ شوێنی جیای پارێزگای هەولێر کەوتنە خوارەوە",
+    "title_en": "چوار درۆن لە سێ شوێنی جیای پارێزگای هەولێر کەوتنە خوارەوە",
+    "summary": " رووداو دیجیتاڵ پەیامنێری رووداو دەڵێت، کاژێر 06:00ی بەرەبەیانیی ئەمڕۆ، چوار درۆن بەر سێ شوێن لە قەزاکانی سۆران، خەلیفان و هەریر لە سنووری پارێزگای هەولێر کەوتن. پەیامنێری رووداو دەڵێت: لە هەریر بەهۆی کەوتنەخوارەوەی درۆنەکە، ئاگر لە پووش و پاوانی چیای بەنی هەریر کەوتووەتەوە. هەروەها لە خەلیفان لە نزیکی گوندێک کەوتوون و لە سۆرانیش بەر ماڵی هاونیشتیمانییەک کەوتووە. دەشڵێت: لەهەر سێ شوێنەکە هیچ زیانی گیانی نەبووە.  یەکێک لەو هاونیشتمانییانەی درۆن بەر ماڵەکەی کەوتووە بە رووداوی گوت، \"سوپاس بۆ خۆی هی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0ee82c30d726bf04",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867388",
+    "title": "نەوت و کانزاکانی سلێمانی: رێکارەکانی دابەشکردنی نەوتی سپیی ماڵان دەستی پێنەکردووە",
+    "title_en": "نەوت و کانزاکانی سلێمانی: رێکارەکانی دابەشکردنی نەوتی سپیی ماڵان دەستی پێنەکردووە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی نەوت و کانزاکانی سلێمانی دەڵێ، تاوەکو ئێستا هیچ بڕیارێکی فەرمی بۆ دابەشکردنی نەوتی سپیی ماڵان دەرنەچووە، نرخی بەرمیلێک نەوتیش لە بازاڕەکاندا گەیشتووەتە 250 هەزار دینار. سەلام عومەر، گوتەبێژی بەڕێوەبەرایەتیی نەوت و کانزاکانی سلێمانی، رۆژی چوارشەممە 12ی ئابی 2026 بە رووداوی راگەیاند، \"تاوەکو ئێستا هیچ نووسراوێکمان پێنەگەیشتووە لەبارەی دیاریکردنی کاتی دابەشکردنی نەوتی سپی. ساڵانە لە مانگی تشرینی یەکەم (10)ەوە دەست بە رێکارەکان دەکرێت.\" گوتەبێژی نەوت و کانزاکانی سلێمان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "da72c3ca46fc6ac8",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304074",
+    "title": "Trump: Ez ji ber gefan bi balafireke cuda ji Tirkiyeyê derketim",
+    "title_en": "Trump: Ez ji ber gefan bi balafireke cuda ji Tirkiyeyê derketim",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku ew ji ber gefan bi balafireke cuda ji Tirkiyeyê derketiye. Donald Trump dema ku ji Ohioyê vedigeriya Washingtonê bersiv da pirsên rojnamegeran ên li ser rojevê. Trump got ku ew di mijara dan û standinan de baweriya xwe bi Îranê nayîne û got, \"Kesê herî dawî yê ku baweriyê bi Îranê bîne ez im. Wan her tim derew li min kirin.\" Trump destnîşan kir ku Îranê di dema dan û standinan de gelek caran derew li wan kirine û got: \"Ez baweriya xwe bi",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "acf83cb50c0bb9b1",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304073",
+    "title": "Dîsa bi dronan êrişî Hewlêrê hat kirin",
+    "title_en": "Dîsa bi dronan êrişî Hewlêrê hat kirin",
+    "summary": "Hewlêr (Rûdaw) – Li Hewlêrê 4 dron ketin xwarê. Li gorî agahiyên Rûdawê, ev dron serê sibehê demjimêr 06:00an li qezayên Soran, Xelîfan û Herîrê yên Hewlêrê ketine. Dronek li Herîrê, dronek li Soranê û 2 dron jî li Xelîfanê ketine. Ji ber ketina dronê agir bi pûş pelaşê Çiyayê Benî Herîrê ketiye. Drona li Soranê jî li maleke sivîlan ketiye. Heta niha li ser sedema ketina van balafiran û zererên wan ti agahiyên fermî nehatine belavkirin. Divê were gotin ku doh herî dawî doh êrişî Silêmaniyê hatib",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47a0f4095f7b4e01",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304074",
+    "title": "Trump: Ez ji ber gefan bi balafireke cuda ji Tirkiyeyê derketim",
+    "title_en": "Trump: Ez ji ber gefan bi balafireke cuda ji Tirkiyeyê derketim",
+    "summary": "Hewlêr (Rûdaw) - Serokê Amerîkayê Donald Trump ragihand ku ew ji ber gefan bi balafireke cuda ji Tirkiyeyê derketiye. Donald Trump dema ku ji Ohioyê vedigeriya Washingtonê bersiv da pirsên rojnamegeran ên li ser rojevê. Trump got ku ew di mijara dan û standinan de baweriya xwe bi Îranê nayîne û got, \"Kesê herî dawî yê ku baweriyê bi Îranê bîne ez im. Wan her tim derew li min kirin.\" Trump destnîşan kir ku Îranê di dema dan û standinan de gelek caran derew li wan kirine û got: \"Ez baweriya xwe bi",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8d1fac9452b14944",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304072",
+    "title": "Meleyê ku heqaret li Êzidiyan kiribû daxuyaniyek belav kir",
+    "title_en": "Meleyê ku heqaret li Êzidiyan kiribû daxuyaniyek belav kir",
+    "summary": "Hewlêr (Rûdaw) - Meleyê ji Rojhilatê Kurdistanê Ramîn Salihzadeyê ku heqaret li Kurdên Êzidî kiribû daxuyaniyek belav kir. Ramîn Salihzade di daxuyaniya xwe de got ku wî tenê behsa wan Êzidiyan kiriye ku heqaretê li Îslamê û Pêxemberê Misilmanan dikin. Ramîn Salihzadeyê ku li bajarê Baneyê yê Rojhilatê Kurdistanê Meletiyê dike, doh li ser hesabê xwe yê Instagramê daxuyaniyek belav kir. Ramîn Salihzade di daxuyaniya xwe de anî zimên, gotinên wî yên li ser hesabê Instagramê ne wekî xwe hatine danî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
