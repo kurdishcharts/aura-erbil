@@ -221955,6 +221955,78 @@
     }
   },
   {
+    "id": "ebd010dac0f21057",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078805",
+    "title": "German MP reiterates support for Kurdistan Region amid Iranian strikes",
+    "title_en": "German MP reiterates support for Kurdistan Region amid Iranian strikes",
+    "summary": "ERBIL, Kurdistan Region - The continuation of strikes from Iran against the Kurdistan Region is “unacceptable and must stop,” the German lawmaker with Kurdish descent Serdar Yuksel said. Yuksel serves as a member of the state parliament in Landtag of North Rhine-Westphalia, representing the Social Democratic Party of Germany (SPD). The parents of the 52-year-old lawmaker are from Kurdish areas in southeast Turkey. His family migrated to Germany in 1964, and he was born in Essen. He has been a me",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a47bca95c85fd7eb",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867468",
+    "title": "گوتەبێژی کۆشکی سپی دەست لەکار دەکێشێتەوە",
+    "title_en": "گوتەبێژی کۆشکی سپی دەست لەکار دەکێشێتەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، کارۆلین لیڤێت، گوتەبێژی کۆشکی سپی دەست لەکار دەکێشێتەوە، بەڵام وەک راوێژکارێکی باڵا لەگەڵیدا دەمێنێتەوە. رۆژی چوارشەممە، 12ـی ئابی 2026، کۆشکی سپی لە راگەیێندراوێکدا دەستلەکارکێشانەوەی کارۆلین لیڤێتی بڵاوکردەوە. لیڤێتی تەمەن 28 ساڵ، کە گەنجترین گوتەبێژە لە مێژووی سەرۆکایەتیی ئەمریکادا، بە یەکێک لە داکۆکیکەرە هەرە دڵسۆزەکانی ترەمپ دادەنرێت. ئەو بەوە دەناسرا کە لە کۆنفرانسە رۆژنامەڤانییەکاندا زۆر بە زمانێکی پاراو و شێوازێکی هێرشبەرانە وەڵامی ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f6999a43f65c2754",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867467",
+    "title": "پۆلیسی نیویۆرک: تیمی پاراستن بۆ هاوژینی مەمدانی دانانێین",
+    "title_en": "پۆلیسی نیویۆرک: تیمی پاراستن بۆ هاوژینی مەمدانی دانانێین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cbd8ee902162b6b",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867466",
+    "title": "بۆچی لە ئاکرێ فێستیڤاڵی تایبەت بە هەنجیر نییە؟",
+    "title_en": "بۆچی لە ئاکرێ فێستیڤاڵی تایبەت بە هەنجیر نییە؟",
+    "summary": "رووداو دیجیتاڵ چاوەڕێ دەکرێت ئەمساڵ لە ئاکرێ زیاتر لە هەشت هەزار تۆن بەرهەمی هەنجیر هەبێت، بەڵام فێستیڤاڵێکی تایبەت بەو بەرهەمەی نییە. فازڵ مستەفا، بەرپرسی بەشی کشتوکاڵی ئاکرێ، بە رووداوی گوت لە ئاکرێ زیاتر لە 250 هەزار داری هەنجیر هەیە و پێشبینی دەکرێت بەرهەمی هەنجیری ئەم ساڵ بگاتە نزیکەی هەشت تاوەکو 8.5 هەزار تۆن، بەڵام هێشتا فێستیڤاڵێکی تایبەت بە هەنجیری ئاکرێ نییە. هەروەها ئاماژەی بەوەش دا، ئەمساڵ هەنجیرەکان نەخۆشییان هەبووە، بەڵام رێژەکەی زۆر کەم بووە و کاریگەرییەکی گەورەی لەسەر بەرهەمی هەن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
