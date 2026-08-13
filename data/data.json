@@ -223935,6 +223935,366 @@
     }
   },
   {
+    "id": "703d0ead9138de35",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078812",
+    "title": "Iran says US risks ‘bigger miscalculation’ over Hormuz Strait",
+    "title_en": "Iran says US risks ‘bigger miscalculation’ over Hormuz Strait",
+    "summary": "ERBIL, Kurdistan Region - Iranian Foreign Minister Abbas Araghchi on Thursday warned that Washington is risking an “even bigger miscalculation” over the Strait of Hormuz, shortly after US President Donald Trump said his country's forces have total control over the strategic waterway. “The U.S. has long miscalculated due to intelligence failures. Case in point: The war on Iran. Now, an even bigger miscalculation on the Strait of Hormuz,” Araghchi said in a post on X. “Worse than fake news is fake",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e9f2edbc39bf019b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867519",
+    "title": "پەروەردەی کەرکووک: بۆ هەڵبژاردنی رەنگی جلی یەکپۆشیی قوتابخانەکان سەرپشک دەکرێن",
+    "title_en": "پەروەردەی کەرکووک: بۆ هەڵبژاردنی رەنگی جلی یەکپۆشیی قوتابخانەکان سەرپشک دەکرێن",
+    "summary": "رووداو دیجیتاڵ دوای دروستبوونی مشتومڕ لەسەر رەنگی جلی فەرمیی قوتابیان لە کەرکووک، بەڕێوەبەری گشتیی پەروەردەی شارەکە رایگەیاند، ئەوانەی ناڕەزاییان هەیە دەتوانن داواکاری پێشکەش بکەن، بۆ ئەوەی بەدەریان بکەن لە بڕیارەکە. بەڕێوەبەری خوێندنی کوردیش لە کەرکووک دەڵێت، ئەوان تەنیا پابەندی بڕیاری وەزارەتی پەروەردەی هەرێمی کوردستان دەبن. مەنسوور مەزری، بەڕێوەبەری گشتیی پەروەردەی کەرکووک، رۆژی پێنجشەممە 13ـی ئابی 2026، بە رووداوی راگەیاند، بڕیاری یەکپۆشی بۆ هەموو بەشەکانی خوێندن (کوردی، عەرەبی، تورکمانی و س",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "da8242392f8f96bd",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867521",
+    "title": "زانکۆی ئیست ئانگليا لە بەریتانیا: بەکارهێنانی قادرمە تەمەن درێژدەکات و دڵ دەپارێزێت",
+    "title_en": "زانکۆی ئیست ئانگليا لە بەریتانیا: بەکارهێنانی قادرمە تەمەن درێژدەکات و دڵ دەپارێزێت",
+    "summary": "رووداو - تەندروستی ئەگەر بەدوای رێگەیەکی ئاسان دەگەڕێیت بۆ ئەوەی ژیانێکی تەندروستتر و درێژترت هەبێت، ئەوە کاتێک گەیشتیتە بەردەم بەرزکەرەوە، باشترە قادرمەکان (پلیکانە) بەکاربهێنیت کە مەترسییەکانی تووشبوون بە نەخۆشییەکانی دڵ و مردنی پێشوەختە کەم دەکانەوە. بەپێی توێژینەوەیەک لە زانکۆی ئیست ئانگليا لە بەریتانیا لەلایەن پرۆفیسۆر د. سۆفی پادۆک، کراوە و تێیدا شیکاری بۆ ئاماری زیاتر لە 480 هەزار کەس کراوە کە تەمەنیان لەنێوان 35 بۆ 84 ساڵ بووە، دەرکەوتووە ئەو کەسانەی بەردەوام قادرمە بەکاردەهێنن، مەترسیی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dca5fd2d228248dc",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867520",
+    "title": "پرۆژەی رووناکی: ئەو ناوچانەی کارەبای 24 کاژێرییان نییە سەرجەم قەرزەکانی کارەبا بە داشکاندنی 50% دەدەنەوە",
+    "title_en": "پرۆژەی رووناکی: ئەو ناوچانەی کارەبای 24 کاژێرییان نییە سەرجەم قەرزەکانی کارەبا بە داشکاندنی 50% دەدەنەوە",
+    "summary": "رووداو دیجیتاڵ تیمی پرۆژەی رووناکی بە تۆڕی میدیایی رووداوی گوت، ئەو ناوچانەی لە هەرێمی کوردستان کە پرۆژەی کارەبای 24 کاژێرییان لێ نەکەوتووەتە کار، سەرجەم ئەو قەرزانەی لەسەریانە دەتوانن بە داشکاندنی 50% بیدەنەوە. ماوەی دە رۆژە پرۆسەی دانەوەی قەرزی پێش پرۆژەی رووناکی بە داشکاندنی 50% دەستیپێکردووە و تاوەکو مانگێکی دیکە بەردەوام دەبێت. تاوەکو ئێستا لە هەرێمی کوردستان کارەبای قەزاکانی پێنجوێن، چەمچەماڵ، بازیان، دووکان، شەقڵاوە و چەند ناوچەیەکی دیکە نەکراونە 24 کاژێری. لەبارەی وەرگرتنەوەی پارەی قەرزی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2ec85185c1bcfd5e",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867518",
+    "title": "بەرگریی عێراق: سوپا لە کەرکووک و خورماتوو نەکشاوەتەوە",
+    "title_en": "بەرگریی عێراق: سوپا لە کەرکووک و خورماتوو نەکشاوەتەوە",
+    "summary": "رووداو دیجیتاڵ وەزارەتی بەرگریی عێراق ئەو دەنگۆیانە رەتدەکاتەوە کە باس لە کشانەوەی هێزەکانی سوپا لە نێوان کەرکووک و قەزای خورماتوو دەکەن و دەڵێت: \"ئەوەی روویداوە تەنیا جێگۆڕکێی ئاسایی سەربازی بووە.\" لیوا یەحیا رەسوول، گوتەبێژی وەزارەتی بەرگریی عێراق، رۆژی پێنجشەممە، 13ـی ئابی 2026، رایگەیاند: \"ئەو هەواڵانەی لە هەندێک میدیا و تۆڕە کۆمەڵایەتییەکان بڵاوکراونەتەوە لەسەر هەبوونی کشانەوەیەکی گەورەی سوپای عێراق لە خاڵە سەربازییەکانی نێوان خورماتوو و کەرکووک، دوورن لە راستییەوە.\" لیوا یەحیا رەسوول روونی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "658865f61a7262bd",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867517",
+    "title": "دانیشتووانی 'سەن تاوەر' لە هەولێر گلەییان لە بێکارەبایی و گرانیی خزمەتگوزارییەکان هەیە",
+    "title_en": "دانیشتووانی 'سەن تاوەر' لە هەولێر گلەییان لە بێکارەبایی و گرانیی خزمەتگوزارییەکان هەیە",
+    "summary": "رووداو دیجیتاڵ دانیشتووانی پرۆژەی نیشتەجێبوونی 'سەن تاوەر' لە هەولێر بەهۆی نەبوونی کارەبای نیشتمانی و خراپیی کارەبای موەلیدە نیگەرانن؛ بەڕێوەبەری پرۆژەکەش دەڵێت، بۆ چارەسەرکردنی کێشەکە موەلیدەیەکی دیکەیان وەک یەدەگ زیاد کردووە. ژمارەیەک لە دانیشتووانی پرۆژەی 'سەن تاوەر' کە لە 750 یەکەی نیشتەجێبوون پێکهاتووە و سەر بە گرووپی کۆمپانیاکانی لالاڤە، پەیوەندییان بە رادیۆی رووداوەوە کردووە و باس لەوە دەکەن، بەهۆی پچڕانی بەردەوامی کارەبای موەلیدە و نەبوونی کارەبای نیشتمانی، تووشی گرفتی زۆر بوونەتەوە، لەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "754149c7736de384",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867516",
+    "title": "منداڵێکی تەمەن پێنج ساڵان لە یەک کاتدا پێویستی بە چاندنی جگەر و گورچیلەیە",
+    "title_en": "منداڵێکی تەمەن پێنج ساڵان لە یەک کاتدا پێویستی بە چاندنی جگەر و گورچیلەیە",
+    "summary": "رووداو دیجیتاڵ منداڵێکی تەمەن پێنج ساڵان لە ناحیەی وەرتێی سەر بە ئیدارەی سەربەخۆی سۆران، بەهۆی پەککەوتنی بۆماوەیی جگەر و گورچیلەکانییەوە ژیانی لە مەترسیدایە. باوکی منداڵەکە لە رێگەی رووداوەوە داوای هاوکاری دەکات و پزیشکێکیش دەڵێت، تێچووی نەشتەرگەرییەکەی نزیکەی 60 هەزار دۆلارە. میدیا محەممەد، ئەو کچە تەمەن پێنج ساڵانەیە کە تووشی نەخۆشیی \"زۆربڵقیی گورچیلەکان\" (Polycystic kidney) بووە و بەهۆیەوە جگەر و گورچیلەکانی لەکارکەوتوون. محەممەد حاجی، باوکی میدیا، بە تۆڕی میدیایی رووداوی راگەیاند: \"کچەکەم گە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d08b6547b50b9719",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867515",
+    "title": "هێشتا کێشەی 4 هەزار دۆنم زەوی لە کۆمەڵگەی چڕە یەکلایی نەبووەتەوە",
+    "title_en": "هێشتا کێشەی 4 هەزار دۆنم زەوی لە کۆمەڵگەی چڕە یەکلایی نەبووەتەوە",
+    "summary": "رووداو - دیجیتاڵ لە کۆمەڵگەی چرە لە سنووری قەزای شێخان، ململانێیەک لەسەر چوار هەزار و 212 دۆنم زەوی لە نێوان خاوەن زەوییەکان و جووتیاراندا دروستبووە. ئەم کێشەیە کە لە ساڵی 2018ـەوە بەردەوامە، پرۆسەی دابەشکردنی زەوی بەسەر 800 فەرمانبەردا پەکخستووە و تاوەکو ئێستاش بووەتە هۆی کوژرانی دوو کەس و برینداربوونی 10ی دیکە. شەهوان لوقمان، وەک نوێنەری ماڵی ''وەردەک\" (لایەنی یەکەمی کێشەکە) دەڵێت، ئەوان خاوەنی رەسەنی زەوییەکەن و تاپۆی کۆن و نوێیان بەدەستەوەیە. شەهوان بە رووداوی راگەیاند: \"دادگە لە بەرژەوەندیی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a9da4194ad2d0172",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867514",
+    "title": "کەشی 48 کاژێری داهاتوو؛ خۆڵبارینێکی سووک بەشێک لە ناوچەکان دەگرێتەوە",
+    "title_en": "کەشی 48 کاژێری داهاتوو؛ خۆڵبارینێکی سووک بەشێک لە ناوچەکان دەگرێتەوە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی گشتیی کەشناسی و بوومەلەرزەزانیی هەرێمی کوردستان پێشبینی دەکات پلەی گەرما جێگیر بێت و لە هەندێک ناوچەش ئەگەری تۆز و خۆڵێکی سووک هەبێت. بەگوێرەی پێشبینییەکانی کەشناسی، ئەمڕۆ پێنجشەممە 13ـی ئابی 2026، ئاسمانی هەرێمی کوردستان بە گشتی لەنێوان ساماڵ و پەڵەهەور دەبێت، لە هەندێک لە ناوچە شاخاوییەکانیش ئاسمان دەبێتە نیمچەهەور. پلەی گەرما بە گشتی نزیک دەبنەوە لە تۆمارەکانی دوێنێ، تەنیا لە ناوچە سنوورییەکانی رۆژهەڵات نەبێت کە کەمێک بەرز دەبنەوە. ئاسۆ کەمال، شارەزای کەشناسی و ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0dc9ca9899b3da82",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867513",
+    "title": "بۆ یەکەمجار لەسەر ئاستی عێراق؛ ئافرەتێک پلەی پرۆفیسۆری لە بواری شێرپەنجە بەدەستهێنا",
+    "title_en": "بۆ یەکەمجار لەسەر ئاستی عێراق؛ ئافرەتێک پلەی پرۆفیسۆری لە بواری شێرپەنجە بەدەستهێنا",
+    "summary": "رووداو دیجیتاڵ بۆ یەکەمجار لەسەر ئاستی عێراق و هەرێمی کوردستان، ئافرەتێک پلەی زانستیی \"پرۆفیسۆر\" لە پسپۆڕییەکی گرنگ و دەگمەنی پزیشکیدا بەدەستدەهێنێت. سەرۆکایەتیی زانکۆی سلێمانی فەرمانی بەرزکردنەوەی ناسناوی زانستی بۆ ئەو دکتۆرە دەرکرد، کە بە گوتەی خۆی یەکەمین ئافرەتە لەو بوارەدا ئەو پلە زانستییە لە هەموو عێراقدا وەربگرێت. بەگوێرەی فەرمانێکی زانکۆیی بە واژۆی دکتۆر کۆسار محەممەد عەلی، سەرۆکی زانکۆی سلێمانی دەرچووە، بڕیاردرا بە بەرزکردنەوەی پلەی زانستیی (دکتۆر هاژە عەبدوڵڵا محەممەدئەمین)، مامۆستا لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4a58db5394f66225",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304133",
+    "title": "Taktîkên nû yên Îranê û kêmbûna mûşekên Amerîkayê",
+    "title_en": "Taktîkên nû yên Îranê û kêmbûna mûşekên Amerîkayê",
+    "summary": "Hewlêr (Rûdaw) - Meha borî, di nava 5 rojên tijî alozî de, Îranê bi dehan dron û mûşek avêtin hêzên Amerîkayê yên li 3 baregehên leşkerî yên li Urdinê. Komara Îslamî ya Îranê bi vê yekê xwest sîstemên parastina asmanî yên Amerîkayê derbas bike. Îranê bi mûşekên bipêşketî yên ku dikarin ji nişka ve arasteya xwe biguherînin êrişî sîstema parastinê ya baregehan kir. Vê yekê Amerîka neçar kir ku hejmareke zêde ya mûşekên Patriotê bi kar bîne ku hejmara wan di depoyên Amerîkayê de kêm bûye. Roja pênc",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fcaecc0b8814a28b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304131",
+    "title": "Şandeya Îmraliyê: Divê pêvajo bi lez berdewam bike",
+    "title_en": "Şandeya Îmraliyê: Divê pêvajo bi lez berdewam bike",
+    "summary": "Hewlêr (Rûdaw) - Şandeya Îmraliyê ya DEM Partiyê ragihand ku divê pêvajoya çareseriyê bi lezgînî berdewam bike Şandeya Îmraliyê ya DEM Partiyê ku ji Parlamenter Pervîn Buldan û Parlamenter Mîthat Sancar pêk tê, beriya hevdîtina bi Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan re, pirsên rojnamegeran bersivandin. Şandeyê diyar kir ku divê ew piştî hevdîtinê di demeke zû de bi Abdullah Ocalan re jî hevdîtinê bikin. Pervîn Buldanê da zanîn ku ew dê hevdîtineke girîng bi Serokkomar re pêk bînin û got: ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5cff09a8c899fef0",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1304132",
+    "title": "Ji Erebê Şemo û Mehmed Uzun heta îro: Di romana Kurdî de çi guherî?",
+    "title_en": "Ji Erebê Şemo û Mehmed Uzun heta îro: Di romana Kurdî de çi guherî?",
+    "summary": "Dema ku em behsa romana Kurdî dikin, navê Mehmed Uzun bê guman yek ji wan navên sereke ye ku di hişê me de derdikeve pêş lê berî ku em bigihêjin Mehmed Uzun, romana Kurdî ji dîrokeke dirêj a ceribandin, di nava kêmasî û astengiyan re derbas bûye. Ji Erebê Şemo û romana wî Şivanê Kurmanca heta romana îro, gelek tişt hatine guhertin; mijar, ziman, şêwaz, teknîkên çîrokgotinê, şertên çapkirinê û pêwendiya nivîskar a bi xwendevan re. Ji ber vê yekê, pirsa sereke ya vê gotarê ne tenê ew e ku Mehmed U",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a14db09bbc86ef2",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304129",
+    "title": "GENARê  rêjeya dengên Partiya NÛ û AK Partiyê eşkere kir",
+    "title_en": "GENARê  rêjeya dengên Partiya NÛ û AK Partiyê eşkere kir",
+    "summary": "Hewlêr (Rûdaw) - Şirketa Lêkolînan a GENARê bi beşdariya 3 hezar kesî rapirsiyeke nû ya hilbijartinê çêkir û encamên wê eşkere kirin. Li gorî rapirsiyê AK Partî bi rêjeya ji sedî 35,4an di rêza yekem de cihê xwe diparêze. Partiya NÛ (YENÎ Partî) ku nû hatiye avakirin, gihîşt rêjeya ji sedî 14,5an. CHPyê jî rêjeya ji sedî 15,4an bi dest xist û bi qasî 0,9 pûanan li pêşiya Partiya Nû ye. Belavbûna dengên partiyên din Şirketa GENARê ev rapirsî bi 3 hezar kesî re kiriye û hewl daye ku belavbûna deng",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9ca95c24b0875a57",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304133",
+    "title": "Taktîkên nû yên Îranê û kêmbûna mûşekên Amerîkayê",
+    "title_en": "Taktîkên nû yên Îranê û kêmbûna mûşekên Amerîkayê",
+    "summary": "Hewlêr (Rûdaw) - Meha borî, di nava 5 rojên tijî alozî de, Îranê bi dehan dron û mûşek avêtin hêzên Amerîkayê yên li 3 baregehên leşkerî yên li Urdinê. Komara Îslamî ya Îranê bi vê yekê xwest sîstemên parastina asmanî yên Amerîkayê derbas bike. Îranê bi mûşekên bipêşketî yên ku dikarin ji nişka ve arasteya xwe biguherînin êrişî sîstema parastinê ya baregehan kir. Vê yekê Amerîka neçar kir ku hejmareke zêde ya mûşekên Patriotê bi kar bîne ku hejmara wan di depoyên Amerîkayê de kêm bûye. Roja pênc",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "94d4bbf916348d15",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304131",
+    "title": "Şandeya Îmraliyê: Divê pêvajo bi lez berdewam bike",
+    "title_en": "Şandeya Îmraliyê: Divê pêvajo bi lez berdewam bike",
+    "summary": "Hewlêr (Rûdaw) - Şandeya Îmraliyê ya DEM Partiyê ragihand ku divê pêvajoya çareseriyê bi lezgînî berdewam bike Şandeya Îmraliyê ya DEM Partiyê ku ji Parlamenter Pervîn Buldan û Parlamenter Mîthat Sancar pêk tê, beriya hevdîtina bi Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan re, pirsên rojnamegeran bersivandin. Şandeyê diyar kir ku divê ew piştî hevdîtinê di demeke zû de bi Abdullah Ocalan re jî hevdîtinê bikin. Pervîn Buldanê da zanîn ku ew dê hevdîtineke girîng bi Serokkomar re pêk bînin û got: ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "54ae1758541dcdd4",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1304132",
+    "title": "Ji Erebê Şemo û Mehmed Uzun heta îro: Di romana Kurdî de çi guherî?",
+    "title_en": "Ji Erebê Şemo û Mehmed Uzun heta îro: Di romana Kurdî de çi guherî?",
+    "summary": "Dema ku em behsa romana Kurdî dikin, navê Mehmed Uzun bê guman yek ji wan navên sereke ye ku di hişê me de derdikeve pêş lê berî ku em bigihêjin Mehmed Uzun, romana Kurdî ji dîrokeke dirêj a ceribandin, di nava kêmasî û astengiyan re derbas bûye. Ji Erebê Şemo û romana wî Şivanê Kurmanca heta romana îro, gelek tişt hatine guhertin; mijar, ziman, şêwaz, teknîkên çîrokgotinê, şertên çapkirinê û pêwendiya nivîskar a bi xwendevan re. Ji ber vê yekê, pirsa sereke ya vê gotarê ne tenê ew e ku Mehmed U",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "258b7c8eec596aa3",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304130",
+    "title": "PWKyê li ser yasaya çarçoveyê daxuyanî da",
+    "title_en": "PWKyê li ser yasaya çarçoveyê daxuyanî da",
+    "summary": "Hewlêr (Rûdaw) - Partiya Welatparêzên Kurdistanê (PWK) li ser Yasaya Çarçoveyê ya ku li Parlamentoya Tirkiyeyê hat qebûlkirin got, “Ev yasa, bi naveroka xwe miletê Kurd rencîde dike û rûmeta neteweyî ya Kurdan dişkîne.” Buroya Ragihandinê ya Partiya Welatparêzên Kurdistanê (PWK) derbarê Yasaya Çarçoveyê de daxuyaniyek belav kir û nerazîbûna xwe anî zimên. PWKyê ragihand ku ev yasa \"berdewamiya pêvajoya tunehesibandin, mijûlkirin û paşguhkirina miletê Kurd e\". PWKyê bal kişand ser dîroka polîtîka",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87b3f5a290f7624d",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304129",
+    "title": "GENARê  rêjeya dengên Partiya NÛ û AK Partiyê eşkere kir",
+    "title_en": "GENARê  rêjeya dengên Partiya NÛ û AK Partiyê eşkere kir",
+    "summary": "Hewlêr (Rûdaw) - Şirketa Lêkolînan a GENARê bi beşdariya 3 hezar kesî rapirsiyeke nû ya hilbijartinê çêkir û encamên wê eşkere kirin. Li gorî rapirsiyê AK Partî bi rêjeya ji sedî 35,4an di rêza yekem de cihê xwe diparêze. Partiya NÛ (YENÎ Partî) ku nû hatiye avakirin, gihîşt rêjeya ji sedî 14,5an. CHPyê jî rêjeya ji sedî 15,4an bi dest xist û bi qasî 0,9 pûanan li pêşiya Partiya Nû ye. Belavbûna dengên partiyên din Şirketa GENARê ev rapirsî bi 3 hezar kesî re kiriye û hewl daye ku belavbûna deng",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1915fc6238cddc88",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304130",
+    "title": "PWKyê li ser yasaya çarçoveyê daxuyanî da",
+    "title_en": "PWKyê li ser yasaya çarçoveyê daxuyanî da",
+    "summary": "Hewlêr (Rûdaw) - Partiya Welatparêzên Kurdistanê (PWK) li ser Yasaya Çarçoveyê ya ku li Parlamentoya Tirkiyeyê hat qebûlkirin got, “Ev yasa, bi naveroka xwe miletê Kurd rencîde dike û rûmeta neteweyî ya Kurdan dişkîne.” Buroya Ragihandinê ya Partiya Welatparêzên Kurdistanê (PWK) derbarê Yasaya Çarçoveyê de daxuyaniyek belav kir û nerazîbûna xwe anî zimên. PWKyê ragihand ku ev yasa \"berdewamiya pêvajoya tunehesibandin, mijûlkirin û paşguhkirina miletê Kurd e\". PWKyê bal kişand ser dîroka polîtîka",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
