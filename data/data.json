@@ -227355,6 +227355,60 @@
     }
   },
   {
+    "id": "acdc21d964f6cd4e",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1867618",
+    "title": "ئەردۆغان لەبارەی جەنگی سوپای وڵاتەکەی و پەکەکە: چارەسەرمان کرد و چیدیکە بۆنی بارووت نایەت",
+    "title_en": "ئەردۆغان لەبارەی جەنگی سوپای وڵاتەکەی و پەکەکە: چارەسەرمان کرد و چیدیکە بۆنی بارووت نایەت",
+    "summary": "رووداو دیجیتاڵ سەرۆککۆماری تورکیا دەڵێت، وڵاتەکەی لە جەنگی سوپا لەگەڵ پەکەکە رزگار کردووە و ئاماژە بەوەش دەکات کە \"برایەتی\" بنەمای مانەوەی تورکیایە. رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا و سەرۆکی ئاکپارتی، ئەمشەو 14ـی ئابی 2026، لە پارکی میللەت لە ئەنقەرە، لە ئاهەنگی 25 ساڵیادی دامەزراندنی پارتی داد و گەشەپێدان (ئاکپارتی) کە خۆی دامەزرێنەرییەتی، گوتارێکی پێشکێشی ئەندامان و لایەنگرانی پارتەکەی کرد. ئەردۆغان گوتی، جەنگی نێوان سوپای وڵاتەکەی و گەریلاکانی پەکەکە لە ساڵی 1984ـەوە بووە هۆی ئازارێکی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cac7d35c7130e77a",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304172",
+    "title": "3 parlamenter û 7 şaredar tevlî AK Partiyê bûn",
+    "title_en": "3 parlamenter û 7 şaredar tevlî AK Partiyê bûn",
+    "summary": "Hewlêr (Rûdaw) - Parlamenterê Îzmirê Mustafa Bilici, Parlamenterê Aydinê Omer Karakaş, Parlamenterê Dîlokê Mehmet Mustafa Gurban û 7 serokên şaredariyan tevlî AK Partiyê bûn. Bernameya Salvegera 25emîn a Damezrandina AK Partiyê hat lidarxistin. Di bernameyê de hinek kesayetên nû tevlî AK Partiyê bûn. Serokkomarê Tirkiyeyê û Serokê Gişrî yê AK Partiyê Recep Tayyîp Erdogan rozêtên partiyê bi pêsîra wan kesên nû ve kirin. Sê parlamenteran biryar da ku derbasî nav refên AK Partiyê bibin. Ew jî Parla",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ff5e382e43784463",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304172",
+    "title": "3 parlamenter û 7 şaredar tevlî AK Partiyê bûn",
+    "title_en": "3 parlamenter û 7 şaredar tevlî AK Partiyê bûn",
+    "summary": "Hewlêr (Rûdaw) - Parlamenterê Îzmirê Mustafa Bilici, Parlamenterê Aydinê Omer Karakaş, Parlamenterê Dîlokê Mehmet Mustafa Gurban û 7 serokên şaredariyan tevlî AK Partiyê bûn. Bernameya Salvegera 25emîn a Damezrandina AK Partiyê hat lidarxistin. Di bernameyê de hinek kesayetên nû tevlî AK Partiyê bûn. Serokkomarê Tirkiyeyê û Serokê Gişrî yê AK Partiyê Recep Tayyîp Erdogan rozêtên partiyê bi pêsîra wan kesên nû ve kirin. Sê parlamenteran biryar da ku derbasî nav refên AK Partiyê bibin. Ew jî Parla",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
