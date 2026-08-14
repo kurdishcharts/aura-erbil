@@ -226959,6 +226959,132 @@
     }
   },
   {
+    "id": "f41e0d5fdf783d75",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078827",
+    "title": "Plummeting oil exports cast shadow as Iraq drafts 2027 budget",
+    "title_en": "Plummeting oil exports cast shadow as Iraq drafts 2027 budget",
+    "summary": "ERBIL, Kurdistan Region - The Finance Ministry has begun preparing the 2027 annual budget, the Iraqi Parliament’s finance committee announced Friday, against the backdrop of plummeting oil exports which account for more than 85 percent of the country’s revenues. \"During the committee's visit to the Prime Minister, an agreement was reached on several issues, including the agreement to send the 2027 budget,\" committee member Ikhlas al-Dulaimi told the Iraqi News Agency (INA) on Friday. \"The Financ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "090786cbe031f443",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867607",
+    "title": "سێنتکۆم: ئاراستەی 62 کەشتیی بازرگانیمان لە کەنداو گۆڕیوە",
+    "title_en": "سێنتکۆم: ئاراستەی 62 کەشتیی بازرگانیمان لە کەنداو گۆڕیوە",
+    "summary": "رووداو دیجیتاڵ فەرماندەیی ناوەندیی هێزەکانی ئەمریکا (سێنتکۆم) ئەمڕۆ هەینی رایگەیاند، هێزەکانیان لە جێبەجێکردنی گەمارۆی دەریایی سەر بەندەرەکانی کۆماری ئیسلامیی ئێران بەردەوامن؛ ئاماژەی بەوەشکرد، لە نێوەڕاستی تەممووزەوە ئاراستەی 62 کەشتیی بازرگانییان گۆڕیوە و رێگرییان لێ کردوون هاتووچۆی بەندەرەکانی ئێران بکەن. سێنتکۆم لە راگەیێندراوێکدا گوتی، هێزەکانیان لە دەریای عەرەب جێگیرکراون بۆ چاودێریی وردی گەمارۆکە و دەریاوانانی ئەمریکاش لەسەر کەشتیی جەنگیی (یو ئێس ئێس پرینستن) سەرپەرشتیی فڕینی هێلیکۆپتەرەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c21579a1a73cd101",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867608",
+    "title": "لە سبەینێوە بەنزینی پاڵپشتیکراو لە هەرێمی کوردستان زیاد دەکرێت",
+    "title_en": "لە سبەینێوە بەنزینی پاڵپشتیکراو لە هەرێمی کوردستان زیاد دەکرێت",
+    "summary": "رووداو دیجیتاڵ وەزارەتی سامانە سروشتییەکان بڕیاری دا پشتگیریی بەنزینی بازرگانی بکات، بە مەرجێک نرخی هەر لیترێک 750 دینار بێت. لەسەر ئەو بنچینەیە، سبەی لە بەنزینخانەکانی هەرێمی کوردستان بەنزینی بازرگانی بەو نرخە دابەش دەکرێت. هێمن قادر، جێگری پارێزگاری هەولێر، بە رووداوی راگەیاند: \"بۆ کەمکردنەوەی قەرەباڵغی و بە مەبەستی هاوکاریکردنی زیاتری شۆفێران و هاونیشتمانییان، بڕیاردراوە بڕی بەنزینی پاڵپشتیکراو زیاد بکرێت.\" جێگری پارێزگاری هەولێر گوتی، تاوەکو ئێستا 26 بەنزینخانە بەنزینی پاڵپشتیکراوی 750 دینار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5aa898dc2da8aa91",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867606",
+    "title": "سەرچاوەیەکی ئەمنیی عێراق: بەشێک لە گرووپەکان لە پرسی چەکدانان نەرمییان نواندووە",
+    "title_en": "سەرچاوەیەکی ئەمنیی عێراق: بەشێک لە گرووپەکان لە پرسی چەکدانان نەرمییان نواندووە",
+    "summary": "رووداو دیجیتاڵ سەرچاوەیەکی ئەمنیی عێراق دەڵێت، حکومەتی عێراق هەوڵ دەدات زمانی گفتوگۆ لەگەڵ گرووپەکان پێش شەڕ و بەرەنگاربوونەوە بخات و گفتوگۆش کراوە و بەردەوامە؛ باس لەوەش دەکات کە گرووپی سەیدولشوهەدا جۆرێک لە نەرمی نواندووە و گرووپەکانیش بەگشتی چەند مەرجێکیان هەیە. سەرچاوە ئەمنییەکە بە تۆڕی میدیایی رووداوی راگەیاند، ئەبوو ئەلا وەلائی کە ئەمینداری گشتیی کەتیبەکانی سەیدولشوهەدایە \"تا رادەیەک نەرمی نواندووە بۆ رازیبوون بە چەکدانانی گرووپەکەی، بەڵام بەگشتی گرووپەکان چەند مەرجێکیان هەیە کە دیارترینیا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f2f1c2c40ddb7726",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1867605",
+    "title": "وڵاتانی کەنداو هێرشی سەر دوو کەشتیی ئیمارات لە تەنگەی هورمز سەرکۆنە دەکەن",
+    "title_en": "وڵاتانی کەنداو هێرشی سەر دوو کەشتیی ئیمارات لە تەنگەی هورمز سەرکۆنە دەکەن",
+    "summary": "رووداو دیجیتاڵ سعودیە، بەحرێن و قەتەر هاوسۆزیی خۆیان بۆ ئیمارات دەربڕی و بە تووندی سەرکۆنەی هێرشێکیان کرد کە کرایە سەر دوو کەشتیی گواستنەوەی نەوت لە کاتی تێپەڕبوونیان بە تەنگەی هورمزدا. کۆمپانیای نەوتی نیشتمانیی ئەبوزەبی (ئادنۆک) بەیانیی رۆژی هەینی، 14ـی ئابی 2026، بڵاویکردەوە، شەوی رابردوو دوو کەشتی لە کاتی تێپەڕبوونیان بە تەنگەکەدا رووبەڕووی هێرش بوونەتەوە. کۆمپانیاکە گوتی، هێرشەکە هیچ زیانێکی گیانی نەبووە. هەرچەندە ئێران بەرپرسیارێتیی خۆی لە ‌هێرشەکە رانەگەیاندووە، بەڵام واشنتن و هاوپەیمانەکا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d439aff1d60ddb76",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304167",
+    "title": "Erdogan: Me hêza xwe ji milet wergirt",
+    "title_en": "Erdogan: Me hêza xwe ji milet wergirt",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan got, “Me hêza xwe ji milet wergirt.” Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan, bi helkefta salvegera 25emîn a damezirandina AK Partiyê gotarek nivîsand. Wî di gotara xwe de bal kişand ser serkeftinên partiya xwe. Erdogan destnîşan kir ku desthilata wan a çaryek sedsalê ji bo Tirkiyeyê bûye serdemeke veguherîna dîrokî. Gotara Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan a bi sernavê \"AK Partî: Çîroka Veguherîna Çaryek Sedsalî ya ku bi Mi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "17b6e25db8466897",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304167",
+    "title": "Erdogan: Me hêza xwe ji milet wergirt",
+    "title_en": "Erdogan: Me hêza xwe ji milet wergirt",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan got, “Me hêza xwe ji milet wergirt.” Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan, bi helkefta salvegera 25emîn a damezirandina AK Partiyê gotarek nivîsand. Wî di gotara xwe de bal kişand ser serkeftinên partiya xwe. Erdogan destnîşan kir ku desthilata wan a çaryek sedsalê ji bo Tirkiyeyê bûye serdemeke veguherîna dîrokî. Gotara Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan a bi sernavê \"AK Partî: Çîroka Veguherîna Çaryek Sedsalî ya ku bi Mi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
