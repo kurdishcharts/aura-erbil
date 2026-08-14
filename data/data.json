@@ -226509,6 +226509,114 @@
     }
   },
   {
+    "id": "19f055a43fe7a90f",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078825",
+    "title": "Kurdistan Region hit by 19 drone, missile attacks in first two weeks of August",
+    "title_en": "Kurdistan Region hit by 19 drone, missile attacks in first two weeks of August",
+    "summary": "ERBIL, Kurdistan Region - The Kurdistan Region was targeted in 16 drone and three missile attacks in the first two weeks of August, Rudaw tracking showed on Friday, with the capital Erbil bearing the brunt of them. Erbil province was targeted by eight drones and three missiles since the start of August, while the Region's eastern Sulaimani province was struck by eight drones. The latest attack was recorded in the Kurdish capital city in the early hours of Friday, the Region's Directorate General",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c9e9d909d987e381",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867592",
+    "title": "سیپان حەمۆ لە لیستی سووری داواکراوانی تورکیا دەرهێنرا",
+    "title_en": "سیپان حەمۆ لە لیستی سووری داواکراوانی تورکیا دەرهێنرا",
+    "summary": "رووداو - دیجیتاڵ سیپان حەمۆ، یاریدەدەری وەزیری بەرگریی سووریا و فەرماندەی پێشووی باڵای هێزەکانی سووریای دیموکرات (هەسەدە) لە لیستی سووری داواکراوانی وەزارەتی ناوخۆی تورکیا دەرهێنرا. سەرچاوەیەکیش لە وەزارەتی بەرگریی سووریا زانیارییەکانی بۆ رووداو پشتڕاستکردەوە. سیپان حەمۆ دوای واژۆکردنی رێککەوتننامەی نێوان هەسەدە و دیمەشق لە 29ی کانوونی دووەمی 2026، لە مانگی ئاداری رابردوودا وەک یاریدەدەری وەزیری بەرگریی سووریا دەستنیشانکرا. سیپان حەمۆ، کە ناوی راستەقینەی (سەمیر ئۆسۆ)یە، پێشتر بەو ناوە لە لیستی س",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a40431fc20251e11",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867591",
+    "title": "وەزیری نەوتی عێراق: هەناردەی رۆژانەمان گەیشتووەتە 2 ملیۆن بەرمیل نەوت",
+    "title_en": "وەزیری نەوتی عێراق: هەناردەی رۆژانەمان گەیشتووەتە 2 ملیۆن بەرمیل نەوت",
+    "summary": "رووداو دیجیتاڵ وەزیری نەوتی عێراق، کردنەوەی وێستگەیەکی ناوەندیی چارەسەرکردنی گازی لە کێڵگەی فەیحا راگەیاند و ئاشکرای کرد کە تێکڕای هەناردەی نەوتی عێراق لە سەرەتای مانگی ئابەوە بۆ 2 ملیۆن بەرمیل لە رۆژێکدا بەرزبووەتەوە. رۆژی هەینی، 14ـی ئابی 2026، وەزیری نەوتی عێراق لە کۆنگرەیەکی رۆژنامەڤانیی هاوبەشدا لەگەڵ ئەسعەد عێدانی، پارێزگاری بەسرە، رایگەیاند، وێستگەی چارەسەری ناوەندیی گاز (CPP) لە کێڵگەی نەوتیی فەیحا کەوتووەتە کار. ئەم وێستگەیە توانای چارەسەرکردنی 130 ملیۆن پێ سێجا گازی لە رۆژێکدا هەیە، ها",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9998ae2635dc8391",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867593",
+    "title": "دەزگای شەهیدانی عێراق: 17 هەزار ناوی وەهمی و داعشی کوژراو لە لیستی شەهیدان دان",
+    "title_en": "دەزگای شەهیدانی عێراق: 17 هەزار ناوی وەهمی و داعشی کوژراو لە لیستی شەهیدان دان",
+    "summary": "رووداو دیجیتاڵ پەردە لەسەر دۆسیەیەکی گەورەی گەندەڵی لە ناو دەزگای شەهیدانی عێراق لادەدرێت؛ بەپێی داتاکان، 17 هەزار ناوی وەهمی و تیرۆریست لە لیستەکاندا هەن و مووچە وەردەگرن، بەڵام لیژنەی شەهیدان لە پەرلەمانی عێراق دەڵێت: \"بەهۆی تەواونەبوونی رێژەیی یاساییەوە ناتوانین هیچ رێکارێک بگرینە بەر\". رۆژی چوارشەممە، 12ـی ئابی 2026، عەبدولئیلا نائلی، سەرۆکی دەزگای شەهیدانی عێراق، ئاشکرای کرد، عەبدولئەمیر شەمەری، وەزیری ناوخۆی پێشووی عێراق، لە ساڵی 2023دا (CD) پڕ لە داتای رادەستی ئەنجوومەنی باڵای دادوەریی عێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b7c76d6e3db2f27d",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304162",
+    "title": "Omer Bolat: Barhilgirên me di ser Sûriyeyê re diçin Îraqê",
+    "title_en": "Omer Bolat: Barhilgirên me di ser Sûriyeyê re diçin Îraqê",
+    "summary": "Hewlêr (Rûdaw) - Omer Bolat ragihand ku piştî guherîna desthilatê bazirganiya wan a bi Sûriyeyê re ji sedî 45 zêde bûye. Wezîrê Bazirganiyê yê Tirkiyeyê Omer Bolat doh çû Deriyê Sînorî yê Cîlvegozuyê yê li parêzgeha Hatayê û beşdarî vekirina garaja barhilgiran bû. Omer Bolat da zanîn ku sala borî bazirganiya wan a bi Sûriyeyê re 3 milyar û 750 milyon dolar bûye. Wezîrê Bazirganiyê yê Tirkiyeyê Omer Bolat li ser deriyên sînorî got: “Bi Sûriyeyê re bi tevahî 11 deriyên me hene û 6 deriyên sînorî d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "50e1ef6ea6201ce7",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304162",
+    "title": "Omer Bolat: Barhilgirên me di ser Sûriyeyê re diçin Îraqê",
+    "title_en": "Omer Bolat: Barhilgirên me di ser Sûriyeyê re diçin Îraqê",
+    "summary": "Hewlêr (Rûdaw) - Omer Bolat ragihand ku piştî guherîna desthilatê bazirganiya wan a bi Sûriyeyê re ji sedî 45 zêde bûye. Wezîrê Bazirganiyê yê Tirkiyeyê Omer Bolat doh çû Deriyê Sînorî yê Cîlvegozuyê yê li parêzgeha Hatayê û beşdarî vekirina garaja barhilgiran bû. Omer Bolat da zanîn ku sala borî bazirganiya wan a bi Sûriyeyê re 3 milyar û 750 milyon dolar bûye. Wezîrê Bazirganiyê yê Tirkiyeyê Omer Bolat li ser deriyên sînorî got: “Bi Sûriyeyê re bi tevahî 11 deriyên me hene û 6 deriyên sînorî d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
