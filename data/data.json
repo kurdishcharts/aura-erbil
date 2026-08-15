@@ -229959,6 +229959,78 @@
     }
   },
   {
+    "id": "74c6827e7aee074d",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867653",
+    "title": "ریال مەدرید بەسەرکردایەتی مۆرینیۆ شۆڕشی رووخاندنی بارسێلۆنای دەستپێکردووە",
+    "title_en": "ریال مەدرید بەسەرکردایەتی مۆرینیۆ شۆڕشی رووخاندنی بارسێلۆنای دەستپێکردووە",
+    "summary": "رووداو دیجیتاڵ جۆزێ مۆرینیۆ، راهێنەری یانەی ریال مەدرید ئاڵای ئاڵنگاری بەرزدەکاتەوە و شۆڕشێکی 225 ملیۆن یۆرۆیی دەستپێکردووە بۆ رووخاندنی بارسێلۆنا. دوای دوو وەرزی وشک و بێ نازناو، یانەی ریال مەدرید بەتووندی گەڕاوەتەوە نێو بازاڕی گواستنەوەی یاریزانان و ئامانجی سەرەکیی قەڵای سپی کۆتاییهێنانە بە باڵادەستیی بارسێلۆنای هانزی فلیک و وەرگرتنەوەی تاجی پاشایەتیی ئیسپانیا و ئەورووپا. ریال مەدرید لەم هاوینەدا نەک تەنیا خەزێنەکەی کردووەتەوە، بەڵکو ستراتیژی گواستنەوەکانیشی گۆڕیوە. بەگوێرەی ئامارەکان، زیاتر ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1d941e9d13abb68d",
+    "url": "https://www.rudaw.net/sorani/episode/71098",
+    "title": "چیرۆکی حەمامەکەی نووری  و گۆرانییەکەی ئەحمەد شەماڵ",
+    "title_en": "چیرۆکی حەمامەکەی نووری  و گۆرانییەکەی ئەحمەد شەماڵ",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e958acb6fcf728d0",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304186",
+    "title": "HEZEX - Ji DEM Partiyê hat hilbijartin, derbasî AK Partiyê bû",
+    "title_en": "HEZEX - Ji DEM Partiyê hat hilbijartin, derbasî AK Partiyê bû",
+    "summary": "Hewlêr (Rûdaw) - Şaredara Hezexê Turkan Kayira ku di hilbijartinên 31ê Adara 2024an de ji DEM Partiyê hatibû hilbijartin, derbasî AK Partiyê bû. Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan di bernameya taybet a salvegera 25an a AK Partiyê de rozet bi Turkan Kayirê ve kir. Bi vê tevlîbûnê, Turkan Kayir bû şaredara yekem a Siryan a di dîroka AK Partiyê de. Turkan Kayir di hilbijartinên 31ê Adara 2024an de wekî namzeda DEM Partiyê beşdarî hilbijartinan bûbû. Wê 7 hezar û 909 deng standibûn û bi rêje",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "468939ad835951aa",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304187",
+    "title": "Li Midyadê hostayek di nav otomobîla xwe de kuştî hat dîtin",
+    "title_en": "Li Midyadê hostayek di nav otomobîla xwe de kuştî hat dîtin",
+    "summary": "Hewlêr (Rûdaw) – Li navçeya Midyadê hostayê otomobîlan Omer Ataş li ber deriyê dikana xwe, di nav otomobîla xwe de bi demançeyê kuştî hat dîtin. Bûyer li navenda pîşesaziya otomobîlan a li taxa Bahçelîevlerê ya navçeya Midyadê ya parêzgeha Mêrdînê ya Bakurê Kurdistanê qewimî. Dema dikandarên li wê derê serê sibehê çûn ku dikanên xwe vekin, wan dît ku hostayê otomobîlan Omer Ataşê 30 salî di nav otomobîla xwe de bê liv û tevger e. Li ser agahdarkirinê, tîmên tenduristiyê û polîs çûn cihê bûyerê. ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
