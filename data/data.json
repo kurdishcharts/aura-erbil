@@ -229311,6 +229311,78 @@
     }
   },
   {
+    "id": "f8ddfbc0dbcd1f59",
+    "url": "https://www.rudaw.net/english/categories/world/1078832",
+    "title": "Canada imposes fresh sanctions on IRGC over Hormuz restrictions",
+    "title_en": "Canada imposes fresh sanctions on IRGC over Hormuz restrictions",
+    "summary": "ERBIL, Kurdistan Region - Canada imposed a new round of sanctions on senior Iranian officials and the country’s Islamic Revolutionary Guard Corps (IRGC) for obstructing maritime activities in the Strait of Hormuz, Ottawa’s foreign ministry said on Friday, as Iran continues to claim control over the strategic waterway amid hostilities with the US. A statement from the Canadian foreign ministry cited Minister Anita Anand as saying that the sanctions were imposed against the officials “for their ac",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a47b388e0a0671bc",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867632",
+    "title": "سێ منداڵ لە رووداوێکی ئاگرکەوتنەوەدا لە گوڵاڵە گیانیان لەدەستدا",
+    "title_en": "سێ منداڵ لە رووداوێکی ئاگرکەوتنەوەدا لە گوڵاڵە گیانیان لەدەستدا",
+    "summary": "رووداو دیجیتاڵ لە سنووری ناحیەی گوڵاڵەی قەزای خانەقین لە پارێزگای دیالە، لە ئەنجامی ئاگرکەوتنەوە لەنێو ماڵێکدا سێ منداڵ گیانیان لەدەستدا و دایکیشیان بریندار بوو. پۆلیسی دیالە دەڵێت، بە گومانی هەبوونی کێشەی خێزانی، باوکی منداڵەکان دەستگیر کراوە. عەمید هەیسەم سەلمان شەمەری، گوتەبێژی پۆلیسی پارێزگای دیالە، ئەمڕۆ شەممە 15ی ئابی 2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"رووداوەکە درەنگی شەوی رابردوو لە گەڕەکی عرووبە لە جەلەولا (گوڵاڵە) روویدا. دایکێک و سێ منداڵەکەی لە ئەنجامی کەوتنەوەی ئاگرێک بە بریندا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49e2f0c24a44fe1b",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867631",
+    "title": "وەرزی لێکردنەوەی خورما لە عێراق دەست پێدەکات",
+    "title_en": "وەرزی لێکردنەوەی خورما لە عێراق دەست پێدەکات",
+    "summary": "رووداو دیجیتاڵ وەرزی لێکردنەوەی خورما لە عێراق دەستی پێکردووە و وەزارەتی کشتوکاڵی عێراقیش رایدەگەیێنێت، ئامانجیانە ژمارەی دارخورماکان بگەیێننە 32 ملیۆن دار. قوسەی حەتاب، گوتەبێژی وەزارەتی کشتوکاڵی عێراق، رۆژی شەممە 15ی ئابی 2026 بە تۆڕی میدیایی رووداوی راگەیاند: \" ژمارەی دارخورماکان لە عێراق نزیکەی 22 ملیۆن دارە، لەکاتێکدا پێشتر ژمارەیان لە 32 ملیۆن تێپەڕی دەکرد.\" گوتەبێژی وەزارەت هۆکاری کەمبوونەوەی ژمارەی دارخورماکانی بۆ \"جەنگ، تێکچوونی دۆخی ئەمنی دوای ساڵی 2003، تێکدانی باخەکان بۆ مەبەستی نیشت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d4725afdbfc99145",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867630",
+    "title": "گەورەترین پڕۆژەی وزەی خۆر لە بەسرە دەستی بە بەرهەمهێنان کرد؛ 1000 مێگاوات کارەبا بەرهەمدەهێنێ",
+    "title_en": "گەورەترین پڕۆژەی وزەی خۆر لە بەسرە دەستی بە بەرهەمهێنان کرد؛ 1000 مێگاوات کارەبا بەرهەمدەهێنێ",
+    "summary": "رووداو دیجیتاڵ وەزارەتی کارەبای عێراق دەڵێ، قۆناخی یەکەمی پڕۆژەی (خۆری بەسرە) بۆ بەرهەمهێنانی کارەبا لە تیشکی خۆر بە توانای 250 مێگاوات کەوتە کار. بڕیارە دوای تەواوبوونی، بەرهەمهێنانی کارەبا لەو پڕۆژەیەدا بگاتە 1000 مێگاوات. ئەحمەد تورکی، گوتەبێژی وەزارەتی کارەبای عێراق، رۆژی شەممە، 15ـی ئابی 2026 بە رووداوی راگەیاند، پڕۆژەی (خۆری بەسرە) کە لە لایەن کۆمپانیای (تۆتاڵ ئینێرجی)ـی فەرەنسییەوە بە هاوکاریی وەزارەتی کارەبا جێبەجێ دەکرێ، یەکێکە لە پڕۆژە ستراتیژییە گەورەکان لەسەر ئاستی رۆژهەڵاتی نێوەڕاست",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
