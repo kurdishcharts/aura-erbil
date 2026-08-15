@@ -230949,6 +230949,42 @@
     }
   },
   {
+    "id": "dc62146b483f95c8",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078840",
+    "title": "Iraqi pro-Iran group denies responsibility for recent drone attacks on Erbil",
+    "title_en": "Iraqi pro-Iran group denies responsibility for recent drone attacks on Erbil",
+    "summary": "ERBIL, Kurdistan Region - Iran-backed Kata’ib Sayyid al-Shuhada has denied responsibility for a Friday drone attack on Erbil, while saying a “partial agreement” is temporarily holding back planned attacks against Saudi Arabia, the group’s spokesperson told Rudaw. Responding to a question about the three drones that targeted Erbil early Friday, Kadhim al-Fartousi, spokesperson for the armed group, told Rudaw's Hevidar Ahmed that the attack “was not carried out by our groups,” adding that “there i",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f9e91fe9ee3f9b8e",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867686",
+    "title": "بەڵێندەرانی دهۆک: زیاتر لە 300 ملیۆن دۆلارمان لای حکومەتە",
+    "title_en": "بەڵێندەرانی دهۆک: زیاتر لە 300 ملیۆن دۆلارمان لای حکومەتە",
+    "summary": "رووداو دیجیتاڵ لە هەرێمی کوردستان قەیرانی دارایی و کەمیی نەختینە کاریگەرییەکی تووندی کردووەتە سەر کاری بەڵێندەران. زیرەک دۆسکی، سەرۆکی لقی دهۆکی یەکێتیی بەڵێندەرانی کوردستان ئاشکرای کرد، حکومەت بە سەدان ملیۆن دۆلار قەرزاری بەڵێندەرانە و بەو هۆیەوە چەندین پرۆژە راوەستاون. زیرەک دۆسکی، سەرۆکی لقی دهۆکی یەکێتیی بەڵێندەرانی کوردستان، لە کاتی بەشداریکردنی لە بۆڵتەنی کاژێر 13:00ـی تۆڕی میدیایی رووداو، سەبارەت بە وردەکاریی قەرزەکانی حکومەت راگەیاند، قەرزی بەڵێندەرانی دهۆک کە لە ساڵی 2014ـەوە ماوەتەوە، ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
