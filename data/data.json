@@ -230643,6 +230643,78 @@
     }
   },
   {
+    "id": "601bfdf093e04a62",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078839",
+    "title": "Baghdad residents welcome anti-corruption drive, call for deeper reforms",
+    "title_en": "Baghdad residents welcome anti-corruption drive, call for deeper reforms",
+    "summary": "ERBIL, Kurdistan Region - Baghdad residents have welcomed Iraq’s sweeping anti-corruption campaign, describing it as a long-overdue effort to hold powerful officials accountable, while urging authorities to expand investigations and recover stolen public funds. Prime Minister Ali al-Zaidi launched the nationwide campaign, dubbed “Operation Dawn,” in late June. Since then, security forces have carried out raids across Baghdad, including inside the heavily fortified Green Zone, arresting dozens of",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "21a9ee544d115523",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867680",
+    "title": "پارتی: بە ئەرکى خۆمانى دەزانین بەوپەڕى تواناوە کار بۆ چارەسەرى کێشە و گرفتەکان بکەین",
+    "title_en": "پارتی: بە ئەرکى خۆمانى دەزانین بەوپەڕى تواناوە کار بۆ چارەسەرى کێشە و گرفتەکان بکەین",
+    "summary": "رووداو دیجیتاڵ مەکتەبی سیاسیی پارتی دیموکراتی کوردستان بەبۆنەی 80 ساڵەی دامەزراندنی پارتەکەیەوە راگەیێندراوێکی بڵاوکردەوە و تێیدا جەخت لە پاراستنی قەوارەی هەرێمی کوردستان، پێکهێنانی کابینەی دەیەم و دوورخستنەوەی عێراق و هەرێمی کوردستان لە ئاژاوەی ناوچەکە دەکاتەوە. لە راگەیێندراوەکەدا کە رۆژی شەممە، 15ـی ئابی 2026 بڵاوکراوەتەوە، مەکتەبی سیاسیی پارتی دەڵێت، پاراستنی دەستکەوتەکان و دوورخستنەوەی هەرێمی کوردستان لە گرژی و شەڕ و پێکدادانەکانی دەوروبەر، بەرپرسیارێتییەکی نەتەوەیی و نیشتمانییە؛ هەروەها جە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0aca8eb97e9eba1d",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1867678",
+    "title": "ئەردۆغان: کوردی سووریا پشکیان لە ئاشتی و سەقامگیریدا دەبێت",
+    "title_en": "ئەردۆغان: کوردی سووریا پشکیان لە ئاشتی و سەقامگیریدا دەبێت",
+    "summary": "رووداو دیجیتاڵ سەرۆککۆماری تورکیا رایگەیاند، سووریا بە تەنیا نییە و وڵاتەکەی هەموو هەوڵێک بۆ پشتگیریکردنی سەقامگیرییەکەی دەدات و گوتی، کوردی سووریا پشکیان لە ئاشتی و سەقامگیریدا دەبێت. رەجەب تەیب ئەردۆغان، لە هەڤپەیڤینێکی تایبەتدا لەگەڵ کەناڵی جەزیرە کە بڕیارە سبەی یەکشەممە 16ـی ئابی 2026 پەخش بکرێت، باسی لە رێککەوتنی مەککە، دۆخی سووریا و رۆژئاوای کوردستان، لوبنان، غەززە و جەنگی ئێران و ئەمریکا، دوایین پێشهاتەکانی تەنگەی هورمز و پەیوەندییەکانیان لەگەڵ رۆژهەڵاتی ناوەڕاست کرد و گوتی: \"چوونە نێو یە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9615b72523d15736",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867677",
+    "title": "وەزارەتی کارەبای عێراق ژمارەیەک بەڕێوەبەر و بەرپرس لە پۆستەکانیان دووردەخاتەوە",
+    "title_en": "وەزارەتی کارەبای عێراق ژمارەیەک بەڕێوەبەر و بەرپرس لە پۆستەکانیان دووردەخاتەوە",
+    "summary": "رووداو دیجیتاڵ بەپێی نووسراوێکی فەرمی، وەزیری کارەبای عێراق بڕیاری داوە بە دوورخستنەوەی ژمارەیەک لە یاریدەدەرانی بەڕێوەبەری گشتی و بەڕێوەبەری لق و وێستگەکان لە پۆستەکانیان، ئەوەش بەهۆی \"نەگونجانیان لەگەڵ وەسفی وەزیفی\"ـی پۆستەکانیان. بەگوێرەی نووسراوێکی وەزارەتی کارەبای عێراق کە لە 15ـی ئابی 2026 دەرچووە تێیدا هاتووە، بڕیارەکە دوای پەسندکردنی راسپاردەکانی لیژنەیەکی وردبینی دێت، کە لەلایەن عەلی سەعدی وەهیب، وەزیری کارەبای عێراقەوە راسپێردرابوون، بۆ پێداچوونەوە بە وەسفی وەزیفی (شیاویی کەسەکە بۆ وەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
