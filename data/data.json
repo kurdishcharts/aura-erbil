@@ -231183,6 +231183,78 @@
     }
   },
   {
+    "id": "c1055378a51905e4",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867695",
+    "title": "یەکشەممە 2.7 ملیۆن لیتر بەنزین بە نرخی پاڵپشتیکراوە دابەشدەکرێت",
+    "title_en": "یەکشەممە 2.7 ملیۆن لیتر بەنزین بە نرخی پاڵپشتیکراوە دابەشدەکرێت",
+    "summary": "رووداو دیجیتاڵ پرۆسەی دابەشکردنی بەنزینی بازرگانی پاڵپشتیکراوی حکومەتی هەرێمی کوردستان بە نرخی 750 دینار بۆ هەر لیترێک، بە شێوەیەکی فراوان لە هەموو شار و شارۆچکەکان دەستیپێکردووە. بەرپرسانی نەوت و کارگێڕی دەڵێن، تەنیا بۆ سبەی نزیکەی 2.7 ملیۆن لیتر بەنزین دەگاتە شارەکان و ئیدارە سەربەخۆکان. لە هەولێر 1.8 ملیۆن لیتر بەنزین دابەش دەکرێت نەبەز عەبدولحەمید، قایمقامی هەولێر شەممە 15-08-2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"ئەمڕۆ لە 50 بەنزینخانە بەنزینی 750 دیناری دابەش کرا. بۆ سبەی یەکشەممە، 33 تان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e8633c756470ae91",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867696",
+    "title": "سەرۆکی کۆریای باشوور داوای گفتوگۆ لەگەڵ کۆریای باکوور دەکات",
+    "title_en": "سەرۆکی کۆریای باشوور داوای گفتوگۆ لەگەڵ کۆریای باکوور دەکات",
+    "summary": "رووداو دیجیتاڵ لی جەی میونگ، سەرۆکی کۆریای باشوور پێشنیاری دەستپێکردنی گفتوگۆی لەگەڵ کۆریای باکوور کرد بۆ ئەوەی بە فەرمی کۆتایی بە جەنگی درێژخایەنی نێوانیان بهێندرێت. ئەمە لەکاتێکدایە پیۆنگیانگ پەیوەندییەکانی لەگەڵ رووسیا بەهێزتر کردووە و جەخت لە بوونی خۆی وەک دەوڵەتێکی ئەتۆمیی دەکاتەوە. هەردوو کۆریا تاوەکو ئێستا لە رووی تەکنیکییەوە لە جەنگدان، چونکە جەنگی ساڵانی 1950-1953 کە بە هێرشی کۆریای باکوور دەستیپێکرد، بە ئاگربەست کۆتایی هات نەک بە رێککەوتنامەی ئاشتی. لی جەی میونگ لە گوتارەکەیدا بەبۆنەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44f73d2efa4fe293",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304198",
+    "title": "Piştî 14 salan sefera yekem a asmanî ji Berlînê gihîşt Şamê",
+    "title_en": "Piştî 14 salan sefera yekem a asmanî ji Berlînê gihîşt Şamê",
+    "summary": "Dîlok (Rûdaw) - Îro piştî qutbûna 14 salan sefera yekem a asmanî ya rasterast ji Balafirgeha Berlînê ya Almanyayê gihîşt Balafirgeha Navneteweyî ya Şamê. Ev sefer ji aliyê şirketa Almanî ya bi navê \"Sundair\"ê ve hat kirin. Ev gav wekî destpêka seferên rasterast ên di navbera her du paytextan de tê dîtin. Nîşana vegera şirketên Ewropayî Serokê Saziya Hewavaniya Sivîl a Sûriyeyê Omer Husarî ji ajansa fermî ya Sûriyeyê (SANA) re axivî. Husarî ragihand ku vegera van seferan ne tenê ji bo hêsankirina",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "457c6ccc63477411",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304198",
+    "title": "Piştî 14 salan sefera yekem a asmanî ji Berlînê gihîşt Şamê",
+    "title_en": "Piştî 14 salan sefera yekem a asmanî ji Berlînê gihîşt Şamê",
+    "summary": "Dîlok (Rûdaw) - Îro piştî qutbûna 14 salan sefera yekem a asmanî ya rasterast ji Balafirgeha Berlînê ya Almanyayê gihîşt Balafirgeha Navneteweyî ya Şamê. Ev sefer ji aliyê şirketa Almanî ya bi navê \"Sundair\"ê ve hat kirin. Ev gav wekî destpêka seferên rasterast ên di navbera her du paytextan de tê dîtin. Nîşana vegera şirketên Ewropayî Serokê Saziya Hewavaniya Sivîl a Sûriyeyê Omer Husarî ji ajansa fermî ya Sûriyeyê (SANA) re axivî. Husarî ragihand ku vegera van seferan ne tenê ji bo hêsankirina",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
