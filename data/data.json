@@ -230517,6 +230517,78 @@
     }
   },
   {
+    "id": "698203f135c0784a",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078838",
+    "title": "Iraq seizes 90 kg of narcotics in territorial waters",
+    "title_en": "Iraq seizes 90 kg of narcotics in territorial waters",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s anti-narcotics forces have seized 90 kilograms of hashish and arrested three suspected members of an international drug trafficking network, including a foreign national, in the country’s territorial waters, the Interior Ministry said on Saturday. Describing it as the first of its kind, the ministry said the operation was carried out in Iraqi territorial waters near a neighboring country. \"The heroes of the anti-narcotics directorate do not stop at the borders of",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "336a8d4761c3052d",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867673",
+    "title": "گومرگی عێراق: لە 7 مانگدا 2.5 ترلیۆن دینار داهاتمان هەبووە",
+    "title_en": "گومرگی عێراق: لە 7 مانگدا 2.5 ترلیۆن دینار داهاتمان هەبووە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گشتیی دەستەی گشتیی گومرگەکانی عێراق رایگەیاند، داهاتی 7 مانگی ئەمساڵی گومرگ گەیشتووەتە 2.5 ترلیۆن دینار. هەروەها پێشبینی دەکات تاوەکو کۆتایی ئەمساڵ داهاتەکە بگاتە زیاتر لە 3.5 ترلیۆن دینار. سامر قاسم تائی، بەڕێوەبەری گشتیی دەستەی گشتیی گومرگ راگەیاند: \"داهاتی گومرگ بۆ ئاستێکی پێوانەیی بەرزبووەتەوە و تاوەکو ئێستا 2.5 ترلیۆن دینار کۆکراوەتەوە؛ کە یەکسانە بە تەواوی داهاتی ساڵی 2025.\" تائی ئاماژەی بەوەش کرد، تەنیا لە مانگی تەممووزی رابردوودا 560 ملیار دینار وەک داهاتی گومرگ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07e0bf5958c18797",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304191",
+    "title": "Îran: Qeterê 3 pîlotên me dîl girtine",
+    "title_en": "Îran: Qeterê 3 pîlotên me dîl girtine",
+    "summary": "Hewlêr (Rûdaw) - Sererkaniya Îranê li ser pîlotên xwe yên winda daxuyaniyek belav kir û ragihand ku Qeterê 3 pîlotên wan dîl girtine. Di şerê li dijî Amerîka û Îsraîlê de 2 balafirên şer ên Îranê ketibûn xwarê. Di van her du balafiran de 4 pîlotên Îranî hebûn. Îranê ragihand ku ji van pîlotan 3 pîlot ji aliyê Qeterê ve dîl hatine girtin. \"Ev 6 meh in girtî ne\" Fermandarê Komîteya Lêgerîna Kesên Winda ya Sererkaniya Hêzên Çekdar ên Îranê Mihemed Baqirzade li ser mijarê axivî. Hat diyarkirin ku pi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "41f3def791eaf819",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304191",
+    "title": "Îran: Qeterê 3 pîlotên me dîl girtine",
+    "title_en": "Îran: Qeterê 3 pîlotên me dîl girtine",
+    "summary": "Hewlêr (Rûdaw) - Sererkaniya Îranê li ser pîlotên xwe yên winda daxuyaniyek belav kir û ragihand ku Qeterê 3 pîlotên wan dîl girtine. Di şerê li dijî Amerîka û Îsraîlê de 2 balafirên şer ên Îranê ketibûn xwarê. Di van her du balafiran de 4 pîlotên Îranî hebûn. Îranê ragihand ku ji van pîlotan 3 pîlot ji aliyê Qeterê ve dîl hatine girtin. \"Ev 6 meh in girtî ne\" Fermandarê Komîteya Lêgerîna Kesên Winda ya Sererkaniya Hêzên Çekdar ên Îranê Mihemed Baqirzade li ser mijarê axivî. Hat diyarkirin ku pi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
