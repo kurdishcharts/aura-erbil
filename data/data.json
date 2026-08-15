@@ -229113,6 +229113,24 @@
     }
   },
   {
+    "id": "796513259202a8fd",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867626",
+    "title": "بوومەلەرزەیەک بە گوڕی 7.7 پلە ئیندۆنیزیای هەژاند; هۆشداری تسۆنامی دراوە",
+    "title_en": "بوومەلەرزەیەک بە گوڕی 7.7 پلە ئیندۆنیزیای هەژاند; هۆشداری تسۆنامی دراوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
