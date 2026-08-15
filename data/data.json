@@ -231615,6 +231615,78 @@
     }
   },
   {
+    "id": "6699a0e030530e05",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078842",
+    "title": "Iraq’s PMF brigade assumes security control in eastern Salahaddin",
+    "title_en": "Iraq’s PMF brigade assumes security control in eastern Salahaddin",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s Popular Mobilization Forces (PMF) announced on Saturday that its 52nd Brigade has assumed responsibility for security in part of the Amirli district in eastern Salahaddin province, taking over from an Iraqi army unit as Baghdad moves to reorganize security sectors and strengthen coordination among state forces. In a statement, the Tehran-aligned PMF said the second battalion of the Iraqi army’s 86th Brigade had handed over its “area of responsibility and security",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3417a33022bdb4ea",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867714",
+    "title": "کچی پەرلەمانتارێک رێگری لێکرا گەشت بکات؛ فڕۆکەکە گەڕێندرایەوە؟",
+    "title_en": "کچی پەرلەمانتارێک رێگری لێکرا گەشت بکات؛ فڕۆکەکە گەڕێندرایەوە؟",
+    "summary": "رووداو دیجیتاڵ هەواڵی گەڕاندنەوەی فڕۆکەیەک دوای فڕینی لە فڕۆکەخانەی بەغداوە بۆ نێو فڕۆکەخانە بەهۆی کچی پەرلەمانتارێک، مشتومڕێکی زۆری لە شەقامی عێراقی دروست کردووە. باس لەوە دەکرێت پەرلەمانتارێک بە هاوکاریی بەڕێوەبەری نووسینگەی وەزیری گواستنەوە فڕۆکەکەی گەڕاندبێتەوە، بۆئەوەی رێگری لە کچەکەی بکات گەشت بکات، بەڵام سەرچاوەیەک لە دەسەڵاتی فڕۆکەوانیی عێراق دەڵێت، پێش فڕینی فڕۆکەکە رێگری لە کچەکە کراوە. ئەو دەنگۆیانەی بڵاوکراونەتەوە باس لەوە دەکەن، فڕۆکەیەک لە بەغداوە بەرەو ئیستەنبووڵ بەڕێکەوتبوو، ناچا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7347d147e0566b48",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1867713",
+    "title": "ئەستێرەکانی Frozen 3 هەوادارانیان سەرسام دەکەن",
+    "title_en": "ئەستێرەکانی Frozen 3 هەوادارانیان سەرسام دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ee561c0dc19aa08c",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867712",
+    "title": "چەکدار ماڵئاوایی لە ئامەدسپۆر کرد",
+    "title_en": "چەکدار ماڵئاوایی لە ئامەدسپۆر کرد",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
