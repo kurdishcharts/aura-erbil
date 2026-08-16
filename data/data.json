@@ -234279,6 +234279,24 @@
     }
   },
   {
+    "id": "a3c33f5a527e7dcc",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1867803",
+    "title": "ئامەدسپۆر بە سێ گۆڵی خاوێن بردییەوە و پێشەنگی سوپەرلیگی گرت",
+    "title_en": "ئامەدسپۆر بە سێ گۆڵی خاوێن بردییەوە و پێشەنگی سوپەرلیگی گرت",
+    "summary": "  ریزبەندیی یانەکانی خولی سوپەرلیگی تورکیا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
