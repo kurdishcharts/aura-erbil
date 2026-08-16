@@ -233469,6 +233469,42 @@
     }
   },
   {
+    "id": "9e3f0e2dbca81d43",
+    "url": "https://www.rudaw.net/english/categories/economic/1078849",
+    "title": "Iraqi trucks complete first international overland transport to Turkmenistan",
+    "title_en": "Iraqi trucks complete first international overland transport to Turkmenistan",
+    "summary": "ERBIL, Kurdistan Region - Iraqi trucks have successfully completed their first international journey under the Transports Internationaux Routiers (TIR) system, traveling from its southmost border crossing to Turkmenistan, Iraq's general company for land transport announced on Sunday, marking another step in Baghdad’s expansion of regional trade routes. The state-owned company, affiliated with Iraq’s Ministry of Transport, said the operation from Arar, bordering Saudi Arabia, was carried out in \"",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e483558385823897",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304220",
+    "title": "Li Cizîrê Komeleya Dayîkên Aştiyê hat vekirin",
+    "title_en": "Li Cizîrê Komeleya Dayîkên Aştiyê hat vekirin",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Cizîrê ya parêzgeha Şirnexê ya Bakurê Kurdistanê Komeleya Dayîkên Aştiyê hat vekirin. Gelek kes beşdarî vekirina komeleyê bûn û peyamên aştiyê hatin dayîn. \"Daxwaza me ew e ku deriyên zindanan vebin\" Dayîka Aştiyê Şîrîn Demirê di merasîma vekirinê de axivî. Wê hêvî kir ku komele ji aştiya civakî re bibe alîkarû daxwazên xwe wiha anîn zimên: “Karê her dayîkan û her kesên ku di vê rêyê de ked daye li wan pîroz be. Em hêvî dikin ku ev gav bibe wesîleya xêr, başî û azadiy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
