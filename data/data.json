@@ -232227,6 +232227,42 @@
     }
   },
   {
+    "id": "940dfb2f3f24059d",
+    "url": "https://www.rudaw.net/sorani/categories/world/1867732",
+    "title": "ناتۆ درۆنێکی لە ئاسمانی رۆمانیا تێکشکاند",
+    "title_en": "ناتۆ درۆنێکی لە ئاسمانی رۆمانیا تێکشکاند",
+    "summary": "رووداو دیجیتاڵ وەزارەتی بەرگریی رۆمانیا رایگەیاند، فڕۆکەیەکی جەنگیی ئیسپانی کە لە چوارچێوەی ئەرکەکانی ناتۆدایە، درۆنێکی لە نزیک سنوورەکانی ئۆکراینا و مۆڵدۆڤا خستووەتە خوارەوە. ئەمە نوێترین پێشهاتی بەزاندنی ئاسمانی وڵاتانی ئەندام لە ناتۆیە بەهۆی جەنگی ئۆکرایناوە. وەزارەتی بەرگریی رۆمانیا رۆژی یەکشەممە، 16-08-2026، لە راگەیێندراوێکدا ئاشکرای کرد، فڕۆکەیەکی جۆری F-18 کاژێر 5:01ـی بەیانی بەرپەرچی درۆنەکەی داوەتەوە کە لە خاکی مۆڵدۆڤاوە هاتبووە نێو ئاسمانی رۆمانیا. پێدەچێت پاشماوەی درۆنەکە لە ناوچەیەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e11ade8941ef432e",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304207",
+    "title": "Mehmûd Berxwedan: Em HSDyê fesix dikin û daxwaza me ya dewleteke cuda nîne",
+    "title_en": "Mehmûd Berxwedan: Em HSDyê fesix dikin û daxwaza me ya dewleteke cuda nîne",
+    "summary": "Hewlêr (Rûdaw) - Mehmûd Berxwedan ragihand ku di pêngava entegrasyona Artêşa Ereban a Sûriyeyê de ji sedî 99ê astengan hatine derbaskirin. Berpirsê Kobaniyê yê Hêzên Sûriyeya Demokratîk (HSD) Mehmûd Berxwedan got ku nêzîkî 10 hezar şervanên wan derbasî nav Artêşa Ereban a Sûriyeyê bûne û di nav çend rojan de ew dê HSD û YPGyê fesix bikin. Mehmûd Berxwedan li ser pêvajoya nû ya çareseriyê pesnê Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan û Serokê MHPyê Devlet Bahçelî da û got: “Serokkomar Erdogan ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
