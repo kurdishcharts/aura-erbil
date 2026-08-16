@@ -233685,6 +233685,78 @@
     }
   },
   {
+    "id": "865794e44e3d9bc1",
+    "url": "https://www.rudaw.net/english/categories/turkey/1078851",
+    "title": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander",
+    "title_en": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander",
+    "summary": "ERBIL, Kurdistan Region - Jailed Kurdistan Workers’ Party (PKK) leader Abdullah Ocalan must be granted physical freedom and play a direct role in ongoing peace efforts with Turkey, a senior commander of the group has stated, arguing that recent legislation passed by the Turkish parliament falls short of creating the conditions needed for a lasting settlement. In a message released Sunday by PKK-affiliated Sterk TV marking the anniversary of the PKK’s August 15, 1984 insurgency, Murat Karayilan, ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "16d5212373ca2199",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1867783",
+    "title": "هێزە چەکدارەکانی ئێران: تاوەکو بەتەواوی دووژمن تێکنەشکێنین، کۆڵ نادەین",
+    "title_en": "هێزە چەکدارەکانی ئێران: تاوەکو بەتەواوی دووژمن تێکنەشکێنین، کۆڵ نادەین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec211b6a8ca8042d",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304225",
+    "title": "Fetî Yildiz: Fesixkirina HSDyê di çarçoveya yasaya pêvajoyê de ye",
+    "title_en": "Fetî Yildiz: Fesixkirina HSDyê di çarçoveya yasaya pêvajoyê de ye",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Serokê Giştî yê MHPyê Fetî Yildiz ragihand ku fesixkirina Hêzên Sûriyeya Demokratîk (HSD) jî di çarçoveya yasaya pêvajoyê de ye. Berpirsê Kobaniyê yê HSDyê Mehmûd Berxwedan ji Rojnameya Turkiyeyê re axivîbû. Mehmûd Berxwedan ragihandibû nêzîkî 10 hezar şervanên wan derbasî nav Artêşa Ereban a Sûriyeyê bûne û di nav çend rojan de ew dê HSD û YPGyê fesix bikin. Berpirsê Kobaniyê yê HSDyê Mehmûd Berxwedan ji medyaya Tirkiyeyê ya nêzîkî desthilatê re axivîbû. Daxuyaniya HSDy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "78a55a5075763088",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304225",
+    "title": "Fetî Yildiz: Fesixkirina HSDyê di çarçoveya yasaya pêvajoyê de ye",
+    "title_en": "Fetî Yildiz: Fesixkirina HSDyê di çarçoveya yasaya pêvajoyê de ye",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Serokê Giştî yê MHPyê Fetî Yildiz ragihand ku fesixkirina Hêzên Sûriyeya Demokratîk (HSD) jî di çarçoveya yasaya pêvajoyê de ye. Berpirsê Kobaniyê yê HSDyê Mehmûd Berxwedan ji Rojnameya Turkiyeyê re axivîbû. Mehmûd Berxwedan ragihandibû nêzîkî 10 hezar şervanên wan derbasî nav Artêşa Ereban a Sûriyeyê bûne û di nav çend rojan de ew dê HSD û YPGyê fesix bikin. Berpirsê Kobaniyê yê HSDyê Mehmûd Berxwedan ji medyaya Tirkiyeyê ya nêzîkî desthilatê re axivîbû. Daxuyaniya HSDy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
