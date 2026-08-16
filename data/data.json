@@ -232929,6 +232929,60 @@
     }
   },
   {
+    "id": "5f121fdeb2e14abe",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304214",
+    "title": "Murat Karayilan: Ev nêzîkatiya teng pirsgirêkê çareser nake",
+    "title_en": "Murat Karayilan: Ev nêzîkatiya teng pirsgirêkê çareser nake",
+    "summary": "Hewlêr (Rûdaw) - Endamê Fermandariya Navenda Parastina Gel Murat Karayilan li ser Yasaya Çarçoveyê got, “Gaveke hêja ye lê kêmaniyên wê hene. Ev nêzîkatiya teng pirsgirêkê çareser nake.” Endamê Fermandariya Navenda Parastina Gel Murat Karayilan, bi minasebeta 15ê Tebaxa 1984an peyamek belav kir ku PKKyê dest bi çalakiyên çekdarî kiribû. Karayilan di peyama xwe de pêvajoya çareseriyê û Yasaya Çarçoveyê nirxand. \"Gaveke nû û hêja ye\" Karayilan li ser Yasaya Çarçoveyê ya ku 10ê Tebaxê ji aliyê Parl",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c42ae0750fdfd6f",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/1304215",
+    "title": "Îranê xwenîşanderek bi tohmeta 'sîxuriya Îsraîlê' îdam kir",
+    "title_en": "Îranê xwenîşanderek bi tohmeta 'sîxuriya Îsraîlê' îdam kir",
+    "summary": "Hewlêr (Rûdaw) - Saziya Dadê ya Îranê eşkere kir ku girtiyê bi navê Şehram Sadiqî hat îdamkirin. Ew di dema xwenîşandanan de bi tohmeta \"sîxuriya Îsraîlê\", \"serhildan\" û êrişa bi otomobîlê ya li hêzên ewlehiyê yên Îranê hatibû tawanbarkirin. Ajansa Nûçeyan a Mîzanê ya Saziya Dadê ya Îranê nûçeyek belav kir û ragihand ku Şehram Sadiqî li bajarê Kerecê di dema xwenîşandanan de bi ajotina otomobîlê ya bi ser hêzên ewlehiyê de hatiye tawanbarkirin. Rayedarên dadê îdia kir ku di bûyerê de 7 endamên h",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "14d9b8bcea519dfb",
+    "url": "https://www.rudaw.net/kurmanci/categories/ran/1304215",
+    "title": "Îranê xwenîşanderek bi tohmeta 'sîxuriya Îsraîlê' îdam kir",
+    "title_en": "Îranê xwenîşanderek bi tohmeta 'sîxuriya Îsraîlê' îdam kir",
+    "summary": "Hewlêr (Rûdaw) - Saziya Dadê ya Îranê eşkere kir ku girtiyê bi navê Şehram Sadiqî hat îdamkirin. Ew di dema xwenîşandanan de bi tohmeta \"sîxuriya Îsraîlê\", \"serhildan\" û êrişa bi otomobîlê ya li hêzên ewlehiyê yên Îranê hatibû tawanbarkirin. Ajansa Nûçeyan a Mîzanê ya Saziya Dadê ya Îranê nûçeyek belav kir û ragihand ku Şehram Sadiqî li bajarê Kerecê di dema xwenîşandanan de bi ajotina otomobîlê ya bi ser hêzên ewlehiyê de hatiye tawanbarkirin. Rayedarên dadê îdia kir ku di bûyerê de 7 endamên h",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
