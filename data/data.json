@@ -231867,6 +231867,60 @@
     }
   },
   {
+    "id": "634392eb1062ce93",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867719",
+    "title": "مەسرور بارزانی: پارتی و سەرۆک بارزانی گەرەنتیی پاراستنی قەوارەی هەرێمی کوردستانن",
+    "title_en": "مەسرور بارزانی: پارتی و سەرۆک بارزانی گەرەنتیی پاراستنی قەوارەی هەرێمی کوردستانن",
+    "summary": "رووداو دیجیتاڵ جێگری سەرۆکی پارتی دیموکراتی کوردستان بەبۆنەی 80 ساڵەی دامەزراندنی پارتەکەی و رۆژی لەدایکبوونی سەرۆک بارزانی، راگەیێندراوێکی بڵاوکردەوە و رایدەگەیێنێت، پارتی و سەرۆک بارزانی گەرەنتیی پاراستن و پێشخستنی قەوارەی دەستووریی هەرێمی کوردستانن. رۆژی یەکشەممە، 16ـی ئابی 2026، مەسرور بارزانی، جێگری سەرۆکی پارتی دیموکراتی کوردستان پەیامێکی بڵاوکردەوە و تێیدا پیرۆزبایی ئاراستەی سەرۆک مەسعود بارزانی، کەسوکاری شەهیدان، ئەنفالکراوان، پێشمەرگە و سەرجەم ئەندامانی پارتەکەی کرد. مەسرور بارزانی لە پ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "41e4679d1d8eb0aa",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304205",
+    "title": "Fransa û Brîtanyayê ji Rûdawê re got: 9 hezar kes ji ber germahiyê mirin",
+    "title_en": "Fransa û Brîtanyayê ji Rûdawê re got: 9 hezar kes ji ber germahiyê mirin",
+    "summary": "Hewlêr (Rûdaw) - Parzemîna Ewropayê di bin bandora pêleke germahiyê de ye ku bûye sedema mirina bi hezaran kesan û şewitîna rûberên berfireh ên daristanan. Li gorî şopandinên Rûdawê yên ji bo amarên fermî yên tenduristî û keşnasiyê yên li Brîtanya, Fransa û Yekîtiya Ewropayê, rewş gihîştiye asteke metirsîdar. Li gorî Saziya Çavdêriya Keşnasiyê ya Yekîtiya Ewropayê ji Rûdawê re ragihand ku pileyên germahiyê li paytextên sereke yên Ewropayê astên rekor tomar kirin. Li bajarê Parîsê pileya germahiy",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9f0021524f1ee492",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304205",
+    "title": "Fransa û Brîtanyayê ji Rûdawê re got: 9 hezar kes ji ber germahiyê mirin",
+    "title_en": "Fransa û Brîtanyayê ji Rûdawê re got: 9 hezar kes ji ber germahiyê mirin",
+    "summary": "Hewlêr (Rûdaw) - Parzemîna Ewropayê di bin bandora pêleke germahiyê de ye ku bûye sedema mirina bi hezaran kesan û şewitîna rûberên berfireh ên daristanan. Li gorî şopandinên Rûdawê yên ji bo amarên fermî yên tenduristî û keşnasiyê yên li Brîtanya, Fransa û Yekîtiya Ewropayê, rewş gihîştiye asteke metirsîdar. Li gorî Saziya Çavdêriya Keşnasiyê ya Yekîtiya Ewropayê ji Rûdawê re ragihand ku pileyên germahiyê li paytextên sereke yên Ewropayê astên rekor tomar kirin. Li bajarê Parîsê pileya germahiy",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
