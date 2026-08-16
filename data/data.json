@@ -232479,6 +232479,150 @@
     }
   },
   {
+    "id": "a810256cac8c6876",
+    "url": "https://www.rudaw.net/english/categories/iran/1078846",
+    "title": "Iran detains at least 10 Kurds in three days: Watchdog",
+    "title_en": "Iran detains at least 10 Kurds in three days: Watchdog",
+    "summary": "ERBIL, Kurdistan Region - Iranian security forces have detained at least 10 Kurds over the span of three days in the Kurdish region of Rojhelat in the west, a rights group reported on Sunday. The Oslo-based Hengaw Human Rights Organization said that Masoud Alani Kohneh Qaleh, Amir Soleimani, and Zakaria Badsar were arrested by intelligence forces and agents on Saturday. Hengaw had previously reported the arrests of three other Kurds - Rahman Khuzan, Omid Chawbaz, and Mohammad Hajizadeh - on Frid",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "82f9f67c68b49ec8",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1867747",
+    "title": "مەترسیی جەنگی ئەتۆمی؛ ژاپۆن سێ وڵاتی ئەتۆمیی تووڕە کردووە",
+    "title_en": "مەترسیی جەنگی ئەتۆمی؛ ژاپۆن سێ وڵاتی ئەتۆمیی تووڕە کردووە",
+    "summary": "لە فەلسەفەی سیاسیی تۆماس هۆبزدا، یاسا و دەستوورەکان لەدایکبووی \"رەوشت\" نین، بەڵکو زادەی ترسی پەتین لە پشێوی و وێرانکاریی گشتگیر. لە ساڵی 1947دا ژاپۆن ملکەچی ئەو هاوکێشەیە بوو؛ بە خواستی خۆی کۆتوبەندی کردە دەست و پێی \"لیڤیاتانی سەربازی\"ی خۆی و کلیلەکەی فڕێدایە قووڵایی زەریای هێمن، بەو ئومێدەی سێبەری بەرگریی ئەمریکا و دەستوورێکی ئاشتیخوازانە، لە حاڵەتی دڕندانەی سرووشت بیپارێزن؛ بەڵام ناهەموارییە جیۆپۆلەتیکییەکانی رۆژهەڵاتی ئاسیا سەلماندیان رەوشتی نێودەوڵەتی تەنها وەهمێکە کاتێک بەرژەوەندییە مەزنەکا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f6da2244532aedcf",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867745",
+    "title": "دەستەی دەستپاکیی عێراق: لە ماڵی بریکاری وەزارەتی کارەبا دەستمان بەسەر 9 ملیار دینار و 7 قاڵبی زێڕ دا گرت",
+    "title_en": "دەستەی دەستپاکیی عێراق: لە ماڵی بریکاری وەزارەتی کارەبا دەستمان بەسەر 9 ملیار دینار و 7 قاڵبی زێڕ دا گرت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c592dd45cdcfb2f9",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867746",
+    "title": "یەکێتیی نێودەوڵەتیی شەکرە: لە میسر زیاتر لە 13 ملیۆن تووشبووی شەکرە تۆمار کراون",
+    "title_en": "یەکێتیی نێودەوڵەتیی شەکرە: لە میسر زیاتر لە 13 ملیۆن تووشبووی شەکرە تۆمار کراون",
+    "summary": "رووداو - تەندروستی یەکێتیی نێودەوڵەتیی شەکرە رایدەگەیێنێت، تەنیا لە میسر 13 ملیۆن تووشبووی نەخۆشیی شەکرە تۆمار کراون کە زۆرینەیان شەکرەی جۆری دوون. بەپێی حکومەتی میسر، نزیکەی دوو ملیۆن و 400 هەزار تووشبووی شەکرە بە بیمەی تەندروستی چارەسەر دەکرێن و تێچووەکەیان لەسەر ئەرکی دەوڵەتە و ساڵانە دەکاتە نزیکەی 80 ملیۆن دۆلار. میسر تاوەکو ساڵی رابردوو بە تەواوی ئەنسۆلینی هاوردە دەکرد بۆ تووشبووانی شەکرە، بەڵام دوای ئەوەی چوار کارگەی نوێی کردەوە، دەستیان بە بەرهەمهێنان کرد، ئەمەش وایکرد ئەوانەی لەسەر ئەرکی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c03d52cbfb96b45",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867743",
+    "title": "لە پشدەر ساڵانە 5 هەزار تۆن بامیە بەرهەم دێت",
+    "title_en": "لە پشدەر ساڵانە 5 هەزار تۆن بامیە بەرهەم دێت",
+    "summary": "رووداو دیجیتاڵ دەشتە پان و بەرینەکانی پشدەر، تاوەکو چاو بڕبکات بە سەوزایی و گوڵ و بەری بامیە تەنراون. ئەم زەویانە تەنیا زەوی کشتوکاڵی نین، بەڵکو بوونەتە سەرچاوەی بژێوی سەدان خێزان کە لە ناوچە جیاوازەکانەوە روویان تێکردووە. حوسێن مەحەممەد، جوتیارێکی خەڵکی شاری سەردەشتی رۆژهەڵاتی کوردستانە. ئەو ئەمساڵ لەگەڵ خێزانەکەی رووی لە دەشتی پشدەر کردووە و بە نیوەکاری، دوو دۆنم زەوی کردووەتە بامیە. ئەو باس لە سەختیی کارەکەیان دەکات و دەڵێت: \"چاندنی بامیە لە مانگی یەکەوە دەستپێدەکات، ئیشی بامیە سەختترین ئیشە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a3fa0d5d42d15ce4",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867744",
+    "title": "مۆڵەتی گەڕان بەدوای نەوت لە پێنج شاری باکووری کوردستان درێژکرایەوە",
+    "title_en": "مۆڵەتی گەڕان بەدوای نەوت لە پێنج شاری باکووری کوردستان درێژکرایەوە",
+    "summary": "رووداو دیجیتاڵ مۆڵەتی گەڕان و پشکنین بەدوای نەوت لەلایەن کۆمپانیای پشکداری نەوتی تورکیا (TPAO) لە چەند ناوچەیەکی باکووری کوردستان درێژکرایەوە؛ هاوکات مۆڵەتی پێنج ساڵەی نوێش بۆ گەڕان لە کێڵگەکانی سەمسوور و رووها درا. بەپێی بڕیارەکانی بەڕێوەبەرایەتیی گشتیی کاروباری کانزا و نەوتی تورکیا، کە رۆژی یەکشەممە 16ـی ئابی 2026، لە رۆژنامەی فەرمیی ئەو وڵاتەدا بڵاوکراونەتەوە؛ مۆڵەتی کارکردنی TPAO لە کێڵگەیەکی نەوتی بە رووبەری 15 هەزار و 297 هێکتار لە نێوان پارێزگاکانی ئێلیهـ، مێردین و سێرت لە باکووری کوردستا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b3d6c6bfd8f1982a",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304210",
+    "title": "Nêçîrvan Barzanî: Divê em xwe nû bikin",
+    "title_en": "Nêçîrvan Barzanî: Divê em xwe nû bikin",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Serokê Partiya Demokrat a Kurdistanê (PDK) Nêçîrvan Barzanî got, “PDK pêşenga wekhevî û bihevrejiyanê ye.” Nêçîrvan Barzanî her wiha got ku divê ew wekî PDKyê xwe bi bipêşketinan re nû bikin Serokê Herêma Kurdistanê û Alîkarê Serokê Partiya Demokrat a Kurdistanê (PDK) Nêçîrvan Barzanî peyamek bi helkefta 80 saliya damezirandina PDKyê belav kir. Nêçîrvan Barzanî di peyama xwe de tekezî li ser berpirsyariya neteweyî ya PDKyê kir û ew wekî pêşenga wekhevî û bihevrejiyanê bi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ad3cfc027053ab1",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304209",
+    "title": "Îmad Nimê: 17 hezar malbat vegeriyane Efrînê",
+    "title_en": "Îmad Nimê: 17 hezar malbat vegeriyane Efrînê",
+    "summary": "Hewlêr (Rûdaw) - Berpirsê Kar û Barên Civakî yê Efrînê ji Rûdawê re ragihand ku nêzîkî 7 hezar malbatên koçber ên ji deverên cuda yên Sûriyeyê, li Efrînê di 80 kampan de dimînin. Berpirsê Kar û Barên Civakî yê Efrînê Îmad Nimê di daxuyaniyeke taybet de ji Tora Medyayî ya Rûdawê re amar û agahiyên nû yên li ser rewşa koçberan û malbatên ku nû vegeriyane eşkere kirin. Îmad Nimê bal kişand ser kêmbûna alîkariyan û hewldanên wan ên ji bo dabînkirina stargehan. Li gorî daxuyaniya Îmad Nimê, niha li h",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
