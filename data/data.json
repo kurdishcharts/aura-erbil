@@ -233397,6 +233397,78 @@
     }
   },
   {
+    "id": "463d5a76c252edde",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867778",
+    "title": "ئەمریکا دەرمانێکی نوێی بۆ چارەسەری ADHD پەسەند کرد",
+    "title_en": "ئەمریکا دەرمانێکی نوێی بۆ چارەسەری ADHD پەسەند کرد",
+    "summary": "رووداو-تەندروستی دەزگەی خۆراک و دەرمانی ئەمریکا (FDA) دەرمانێکی نوێی بە ناوی \"سێمتریۆ\" (Simtriyo) بۆ چارەسەری تێکچوونی کەمیی سەرنج و فرەجووڵەیی (ADHD) پەسەند کرد. ئەم دەرمانە نوێیە کە بەشێوەی کەپسولە و مادەی چالاکی \"سێنتانافادین\"ی تێدایە، یەکەم چارەسەری لە جۆری خۆیەتی کە کار لەسەر سێ راگەیێنەری سەرەکیی دەمار (نۆرئێپینێفرین، دۆپامین، و سیرۆتۆنین) دەکات، ئەمەش یارمەتیی رێکخستنی سەرنج و رەفتارەکانی کەسی تووشبوو دەدات. FDA ئاماژە بەوەدەکات کە پەسەندکردنەکە دوای شیکردنەوەی ئەنجامی 4 تاقیکردنەوەی کلین",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cbb0e3c2559b6ceb",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867777",
+    "title": "پسپۆڕێکی پێست رێنوێنی بۆ هەڵبژاردنی سابوونی گونجاو دەدات",
+    "title_en": "پسپۆڕێکی پێست رێنوێنی بۆ هەڵبژاردنی سابوونی گونجاو دەدات",
+    "summary": "رووداو- تەندروستی د. سامی وەلی، پسپۆڕی نەخۆشییەکانی پێست، چەند رێنوێنییەکی گرنگی لەبارەی هەڵبژاردن و بەکارهێنانی سابوون بۆ پاراستنی تەندروستیی پێست خستەڕوو. د. سامی وەلی، رایگەیاند پێکهاتەی سابوون زۆر گرنگە و پێویستە رێژەی ترشی و تفتییەکەی (pH) نزیک بێت لە پێست، واتە دەوروبەری pH6 بێت. هەروەها گوتی: \"پێویستە سابوون مادەی بۆن و رۆنە بنەڕەتییەکانی تێدا نەبێت، چونکە ئەمانە دەبنە هۆی دروستبوونی هەستەوەری پێست.\" ئەو پسپۆڕەی پێست جەختی لەوە کردەوە کە بوونی مادەی شێدارکەرەوە لە سابووندا زۆر گرنگە. سەبا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "41eed433ed65d350",
+    "url": "https://www.rudaw.net/kurmanci/categories/tendurist/1304219",
+    "title": "Sedemên herî mezin ên mirînê çi ne?",
+    "title_en": "Sedemên herî mezin ên mirînê çi ne?",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Tenduristiyê yê Tirkiyeyê ragihand ku li Tirkiye û Bakurê Kurdistanê sedema ji sedî 50 ya mirinan nexweşiyên pergala gera xwînê û penceşêra pergala nefesê ne. Wezîrê Tenduristiyê yê Tirkiyeyê Kemal Memîşoglu, li Şaxa Stenbolê ya Şirketa Xizmetên Tenduristiyê yên Navneteweyî (USHAŞ) bi nûçegihanên tenduristiyê re civiya. Kemal Memîşoglu di wê civînê de diyar kir ku li Tirkiye û Bakurê Kurdistanê temenê navînî yê jiyanê gihîştiye 78,5 salan. Wî da zanîn ku rêjeya mirina pit",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6bb3ace1544c0d5b",
+    "url": "https://www.rudaw.net/kurmanci/categories/health/1304219",
+    "title": "Sedemên herî mezin ên mirînê çi ne?",
+    "title_en": "Sedemên herî mezin ên mirînê çi ne?",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Tenduristiyê yê Tirkiyeyê ragihand ku li Tirkiye û Bakurê Kurdistanê sedema ji sedî 50 ya mirinan nexweşiyên pergala gera xwînê û penceşêra pergala nefesê ne. Wezîrê Tenduristiyê yê Tirkiyeyê Kemal Memîşoglu, li Şaxa Stenbolê ya Şirketa Xizmetên Tenduristiyê yên Navneteweyî (USHAŞ) bi nûçegihanên tenduristiyê re civiya. Kemal Memîşoglu di wê civînê de diyar kir ku li Tirkiye û Bakurê Kurdistanê temenê navînî yê jiyanê gihîştiye 78,5 salan. Wî da zanîn ku rêjeya mirina pit",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
