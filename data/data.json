@@ -233991,6 +233991,42 @@
     }
   },
   {
+    "id": "57d5b1c737ff3e0b",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078853",
+    "title": "Hormuz closure left ‘direct effects’ on Iraq’s economy: Iraqi finance minister",
+    "title_en": "Hormuz closure left ‘direct effects’ on Iraq’s economy: Iraqi finance minister",
+    "summary": "ERBIL, Kurdistan Region - The closure of the Strait of Hormuz has had a direct impact on Iraq’s economy, Iraq’s Finance Minister declared during a meeting with the British ambassador on Sunday as his ministry works to increase non-oil revenues and advance financial reforms. The Finance ministry is seeking to overcome the current circumstances by “enhancing non-oil revenues, developing financial management tools and continuing the reform process,” Falah al-Sari, the Iraqi finance minister stated ",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ff9466cf980c293a",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304227",
+    "title": "Xwezaya bêhempa ya Dêrsimê bala geştyaran dikişîne",
+    "title_en": "Xwezaya bêhempa ya Dêrsimê bala geştyaran dikişîne",
+    "summary": "Hewlêr (Rûdaw) - Xwezaya pêhempa ya navçeya Pilûrê ya Dêrsima Bakurê Kurdistanê bala geştyaran dikişîne. Di demsalên bihar û havînê de geştên çiyagerî û geştyariyên yên li xwezaya Pilûr û Pilemûriyê zêde dibin. Lûtkeyên xwezaya navçeyên Pilûr û Pilemûriyê bi sûlav, golên qeşayî, gelî, zozan û jiyana kovî bala çiyager û werzîşvanan dikişînin. Çiyager Dilaver Eren wiha qala rêwîtiya xwe kir: “Em demjimêrên sibehê zû bi otomobîla xwe ji Pilûrê derketin. Em heta cihekî bi otomobîlê hatin, rêya wê jî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
