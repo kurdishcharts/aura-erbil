@@ -233631,6 +233631,60 @@
     }
   },
   {
+    "id": "703fb3f6420580c2",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304223",
+    "title": "Termê Yeşîma 22 salî ji Çemê Dîcleyê hat derxistin",
+    "title_en": "Termê Yeşîma 22 salî ji Çemê Dîcleyê hat derxistin",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Basan a parêzgeha Şirnexê ya Bakurê Kurdistanê jineke 22 salî di Çemê Dîcleyê de xeniqî. Yeşîm Î.ya 22 salî tevî malbat û hevalên xwe ji bo pîknîkê çûbû nêzîkî gundê Zêwê. Yeşîm û 3 hevalên xwe ji bo hênikbûnê ketin Çemê Dîcleyê. Piştî demekê her 4 ciwan di avê de man û wan hewl da xwe ji xeniqînê rizgar bikin. Kesên li derdorê bi hawara wan ve çûn û 3 hevalên Yeşîmê ji avê derxistin. Lê belê Yeşîm di nav pêlên avê de winda bû. Li ser agahdarkirinê tîmên tenduristiyê,",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cf89af026fec435b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304224",
+    "title": "Di lêpirsîna Cemaeta Suleymanciyan de 32 kes hatin girtin",
+    "title_en": "Di lêpirsîna Cemaeta Suleymanciyan de 32 kes hatin girtin",
+    "summary": "Hewlêr (Rûdaw) - Di lêpirsîna derbarê Cemaeta Suleymanciyan de, Serokê Cemaetê Alîhan Kurîş jî di nav de 32 kes hatin girtin. Her wiha 6 kes jî bi şertê kontrola dadî serbest hatin berdan. Serdozgeriya Komarê ya Enqereyê 13ê Tebaxê li hemberî Cemaeta Suleymanciyan lêpirsînek dabû destpêkirin. Ev lêpirsîn bi îdiaya \"spîkirina pereyan\" hatiye destpêkirin. Di çarçoveya lêpirsînê de Serokê Cemaetê Alîhan Kurîş jî di nav de 38 kes hatin desteserkirin. Îfadeyên wan 38 kesan hatin wergirtin û ew bi dax",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e09a5c37eab518cf",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304224",
+    "title": "Di lêpirsîna Cemaeta Suleymanciyan de 32 kes hatin girtin",
+    "title_en": "Di lêpirsîna Cemaeta Suleymanciyan de 32 kes hatin girtin",
+    "summary": "Hewlêr (Rûdaw) - Di lêpirsîna derbarê Cemaeta Suleymanciyan de, Serokê Cemaetê Alîhan Kurîş jî di nav de 32 kes hatin girtin. Her wiha 6 kes jî bi şertê kontrola dadî serbest hatin berdan. Serdozgeriya Komarê ya Enqereyê 13ê Tebaxê li hemberî Cemaeta Suleymanciyan lêpirsînek dabû destpêkirin. Ev lêpirsîn bi îdiaya \"spîkirina pereyan\" hatiye destpêkirin. Di çarçoveya lêpirsînê de Serokê Cemaetê Alîhan Kurîş jî di nav de 38 kes hatin desteserkirin. Îfadeyên wan 38 kesan hatin wergirtin û ew bi dax",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
