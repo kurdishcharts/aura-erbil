@@ -234171,6 +234171,24 @@
     }
   },
   {
+    "id": "4daf405b30aef9b1",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078854",
+    "title": "Iraqi authorities seize $6M, MPs call for equal enforcement",
+    "title_en": "Iraqi authorities seize $6M, MPs call for equal enforcement",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s Federal Commission of Integrity announced on Sunday the seizure of more than $6 million, seven gold bars and gold jewelry at the home of the deputy electricity minister for transport and distribution amid Iraq’s ongoing anti-corruption crackdown. “A team from the Baghdad Investigation Directorate, following intensive monitoring, inquiries and investigations, managed to find large sums of money and quantities of gold in several houses belonging to the accused, Kha",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
