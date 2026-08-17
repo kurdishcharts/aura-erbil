@@ -236655,6 +236655,114 @@
     }
   },
   {
+    "id": "e5afce6f04da7339",
+    "url": "https://www.rudaw.net/english/categories/world/1078872",
+    "title": "UN tells Rudaw attack on PM Barzani’s office is a clear ‘violation of sovereignty’",
+    "title_en": "UN tells Rudaw attack on PM Barzani’s office is a clear ‘violation of sovereignty’",
+    "summary": "ERBIL, Kurdistan Region - The United Nations on Monday condemned the drone attack on Kurdistan Region Prime Minister Masrour Barzani's office as a clear violation of Iraqi sovereignty, a senior official from the global body told Rudaw. The remarks came as Iraqi Prime Minister Ali al-Zaidi ordered a probe into the assault, which the Region says originated from Iran. Asked by Rudaw's Namo Abdullah about the assault, UN Secretary-General Spokesperson Stephane Dujarric said, “It clearly is a violati",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5f2c4a54a346a5c0",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078871",
+    "title": "Iraqi PM orders probe into attack on PM Barzani’s office launched from ‘Iranian side’",
+    "title_en": "Iraqi PM orders probe into attack on PM Barzani’s office launched from ‘Iranian side’",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Prime Minister Ali al-Zaidi on Monday ordered a probe into the attack that targeted Kurdistan Region Prime Minister Masrour Barzani’s office and the residence of Erbil’s security director, his office said in a statement, noting that findings would be publicized “at the earliest opportunity” to reveal the perpetrators. Erbil has said the assault was launched from Iran. Zaidi, in his capacity as premier and commander-in-chief of the armed forces, “has ordered the fo",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5e2bdd7a38aa661f",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867888",
+    "title": "خشتەی مووچەی مانگی 7ی هەرێمی کوردستان: بە سێ رۆژ مووچەی هەمووان دابەشدەکرێت",
+    "title_en": "خشتەی مووچەی مانگی 7ی هەرێمی کوردستان: بە سێ رۆژ مووچەی هەمووان دابەشدەکرێت",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دارایی و ئابووریی هەرێمی کوردستان خشتەی مووچەی مانگی تەممووزی فەرمانبەران و مووچەخۆرانی بڵاوکردەوە، بەپێی خشتەکە لە سێ رۆژدا مووچەی هەموو فەرمانبەر و مووچەخۆران دابەشدەکرێت. لە راگەیێندراوەکەی وەزارەتی دارایی و ئابووریی حکومەتی هەرێمی کوردستان دا هاتووە، رۆژی سێشەممە 18ی ئابی 2026 دەست بە دابەشکردنی مووچەی مانگی تەممووزی فەرمانبەران و مووچەخۆران دەکرێت و رۆژی پێنجشەممە 20ی ئابی 2026 کۆتایی بە دابەشکردنی مووچە دێت. بەپێی خشتەکە، سبەی سێشەممە 18ی ئاب مووچەی ئەم وەزارەتانە د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2cfc18c05c1864e",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867887",
+    "title": "بەرەی تورکمانی هێرشەکەی سەر پیرمام سەرکۆنە دەکات؛ \"بەئامانجگرتنی سەروەریی عێراقە\"",
+    "title_en": "بەرەی تورکمانی هێرشەکەی سەر پیرمام سەرکۆنە دەکات؛ \"بەئامانجگرتنی سەروەریی عێراقە\"",
+    "summary": "رووداو دیجیتاڵ بەرەی تورکمانیی عێراق سەرکۆنەی ئەو هێرشە دەکات کە کرایە سەر نووسینگەی تایبەتی مەسرور بارزانی، سەرۆکی حکومەتی هەرێمی کوردستان و ماڵی بەڕێوەبەری ئاژانسی پاراستن لە پیرمام و دەڵێت، \"ئاسایشی هەرێمی کوردستان بەشێکی دانەبڕاوە لە ئاسایشی عێراق.\" ئەمڕۆ دووشەممە، 17ـی ئابی 2026، محەممەد سەمعان ئاغا، سەرۆکی بەرەی تورکمانیی عێراق لە راگەیێندراوێکدا هێرشەکەی وەک \"پێشهاتێکی مەترسیدار و رەتکراوە\" وەسف کردووە و دەڵێت، ئەو هێرشە، \"دەستدرێژییە بۆ سەر سەروەریی عێراق و ئارامی و سەقامگیریی وڵات.\" سەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93101b1069f10866",
+    "url": "https://www.rudaw.net/kurmanci/categories/iraq/1304258",
+    "title": "Serokwezîrê Îraqê ferman da: Êrişkaran eşkere bikin",
+    "title_en": "Serokwezîrê Îraqê ferman da: Êrişkaran eşkere bikin",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îraqê û Fermandarê Giştî yê Hêzên Çekdar Alî Falih Zeydî ji bo êrişa îro ya li ser Hewlêrê fermanek da û got, “Êrişkaran eşkere bikin.” Zeydî biryar da ku ji bo eşkerekirina çavkanî û kesên ku êriş kirine komîteyeke lêpirsînê were avakirin. Ev êriş berê sibeha îro li anvçeya Pîrmamê ya Hewlêrê hatibû kirin. Ofîsa Taybet a Serokwezîrê Herêma Kurdistanê û mala Birêvebirê Ajansa Parastinê bûbûn armanc. Fermana Serokwezîrê Îraqê Ofîsa Ragihandinê ya Serokwezîriya Îraqê î",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9e94f123cb90d835",
+    "url": "https://www.rudaw.net/kurmanci/categories/raq/1304258",
+    "title": "Serokwezîrê Îraqê ferman da: Êrişkaran eşkere bikin",
+    "title_en": "Serokwezîrê Îraqê ferman da: Êrişkaran eşkere bikin",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îraqê û Fermandarê Giştî yê Hêzên Çekdar Alî Falih Zeydî ji bo êrişa îro ya li ser Hewlêrê fermanek da û got, “Êrişkaran eşkere bikin.” Zeydî biryar da ku ji bo eşkerekirina çavkanî û kesên ku êriş kirine komîteyeke lêpirsînê were avakirin. Ev êriş berê sibeha îro li anvçeya Pîrmamê ya Hewlêrê hatibû kirin. Ofîsa Taybet a Serokwezîrê Herêma Kurdistanê û mala Birêvebirê Ajansa Parastinê bûbûn armanc. Fermana Serokwezîrê Îraqê Ofîsa Ragihandinê ya Serokwezîriya Îraqê î",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
