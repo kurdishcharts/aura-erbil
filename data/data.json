@@ -236763,6 +236763,78 @@
     }
   },
   {
+    "id": "6944e6ccd8e50c48",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078873",
+    "title": "Iraqi FM demands official clarification from Iran over attack on Kurdish Premier's office",
+    "title_en": "Iraqi FM demands official clarification from Iran over attack on Kurdish Premier's office",
+    "summary": "ERBIL, Kurdistan Region - The drone attack on Kurdistan Region Prime Minister Masrour Barzani's office, launched from Iran, sets a \"serious precedent,\" Iraqi Foreign Minister Fuad Hussein told his Iranian counterpart Abbas Araghchi on Monday, demanding an official clarification from Tehran. Iran's chief diplomat reportedly denied knowledge of the incident. In a phone call, Hussein told Araghchi that while Tehran had for months used the presence of Kurdish dissident groups in the Kurdistan Region",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e2874773b8536fea",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867891",
+    "title": "سەدر: لێدانی خاکی عێراق بە درۆنی برا ئێرانییەکانمان جێگەی داخە",
+    "title_en": "سەدر: لێدانی خاکی عێراق بە درۆنی برا ئێرانییەکانمان جێگەی داخە",
+    "summary": "رووداو دیجیتاڵ موقتەدا سەدر پەیامێکی ناڕەزایەتی ئاراستەی کۆماری ئیسلامیی ئێران کردووە و داوایان لێدەکات هێرشە درۆنییەکانیان بۆ سەر خاکی عێراق رابگرن. سەدر دەڵێت، لێدانی بەرپرسانی عێراقی چ لە بەغدا بێت یان لە کوردستان، جێگەی داخە. ئەمڕۆ دووشەممە، 17ی ئابی 2026، موقتەدا سەدر، رێبەری رەوتی نیشتمانیی شیعەکان لە هەژماری خۆی لە تۆڕی کۆمەڵایەتیی (ئێکس) پەیامێکی بڵاوکردەوە و دەڵێت، \"عێراق بە درۆنی دووژمنان لێیبدرێت، ئەمە کارێکی پڕ لە شانازییە. بەڵام لێدانی خاک و ناوچەکانی عێراق بە درۆنی براکانمان لە ئێر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1710c5e73e2f98bc",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867889",
+    "title": "وەزیری دەرەوەی ئێران بۆ هاوتا عێراقییەکەی: هیچ زانیاریم نییە هێرشە درۆنییەکان لە خاکی ئێمەوە کرابن",
+    "title_en": "وەزیری دەرەوەی ئێران بۆ هاوتا عێراقییەکەی: هیچ زانیاریم نییە هێرشە درۆنییەکان لە خاکی ئێمەوە کرابن",
+    "summary": "رووداو دیجیتاڵ وەزیری دەرەوەی عێراق پەیوەندییەکی تەلەفۆنیی لەگەڵ هاوتا ئێرانییەکەی ئەنجامدا و هێرشکردنە سەر شوێنی نووسینگەی سەرۆکی حکومەتی هەرێمی کوردستانی تاوتوێ کرد. عێراقچی \"سەرسوڕمانی خۆی\" لە هێرشەکە دەربڕیوە و گوتوویەتی، \"هیچ زانیارییەکی لەبەردەستدا نییە کە هێرشەکان لە خاکی ئێرانەوە ئەنجامدرابن.\" رۆژی دووشەممە 17ی ئابی 2026 فوئاد حوسێن، وەزیری دەرەوەی عێراق پەیوەندییەکی تەلەفۆنیی لەگەڵ عەباس عێراقچی، وەزیری دەرەوەی ئێران ئەنجامدا بە مەبەستی تاوتوێکردنی ئەو هێرشەی کرایە سەر نووسینگەی تایبەتی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "054c326cae8be0c4",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867890",
+    "title": "چوار سەرۆکایەتییەکە: خاکی عێراق نابێتە شوێنی ململانێی ناوچەیی",
+    "title_en": "چوار سەرۆکایەتییەکە: خاکی عێراق نابێتە شوێنی ململانێی ناوچەیی",
+    "summary": "رووداو دیجیتاڵ چوار سەرۆکایەتییەکەی عێراق بۆ تاوتوێکردنی دۆخی سیاسی، ئەمنی و ئابووریی وڵات کۆبوونەوە. بەگوێرەی راگەیێندراوی کۆبوونەوەکە، چوار سەرۆکایەتییەکە جەختیان لە دوورخستنەوەی عێراق لە ململانێ ناوچەییەکان، کۆنترۆڵکردنی چەک لە دەستی دەوڵەت و رووبەڕووبوونەوەی ئاڵنگارییە داراییەکان کردووەتەوە کە بەهۆی داخستنی تەنگەی هورمزەوە دروستبوون. ئێوارەی ئەمڕۆ دووشەممە، 17ی ئابی 2026، بە سەرپەرشتی عەلی زەیدی، سەرۆکوەزیرانی عێراق و بە ئامادەبوونی نزار ئامێدی، سەرۆککۆمار، هەیبەت حەلبووسی، سەرۆکی پەرلەمان و",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
