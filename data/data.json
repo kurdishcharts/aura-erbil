@@ -236421,6 +236421,114 @@
     }
   },
   {
+    "id": "589165d46dbc6eec",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078868",
+    "title": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
+    "title_en": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
+    "summary": "ERBIL, Kurdistan Region - Archaeologists have uncovered seven Parthian-era tombs, including a clay coffin containing a small figurine of a pregnant woman, during a two-month excavation in Koya, the Kurdistan Region’s antiquities affairs said Monday. The discoveries were made in the Khazna area near Gomasheen village along the new Erbil-Koya road in Erbil province, during work carried out from late April to late June. They are now protected in the Directorate of Antiquities and Heritage in Koya, ",
+    "source": "rudaw-english",
+    "category": "traffic",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01b5d6321022fe1b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867880",
+    "title": "تۆم باراک لەبارەی هێرشە درۆنییەکان: ئەم دەستدرێژییە بۆ سەر هاوپەیمانە کوردەکانمان قبووڵنەکراوە",
+    "title_en": "تۆم باراک لەبارەی هێرشە درۆنییەکان: ئەم دەستدرێژییە بۆ سەر هاوپەیمانە کوردەکانمان قبووڵنەکراوە",
+    "summary": "رووداو دیجیتاڵ تۆم باراک، نێردەی تایبەتی سەرۆکی ئەمریکا بۆ سووریا و عێراق \"بە تووندی سەرکۆنەی هێرشەکەی سەر نووسینگەی مەسرور بارزانی لە هەولێر دەکات\" و دەشڵێت، \"ئەم دەستدرێژییە بۆ سەر هاوپەیمانە کوردە باوەڕپێکراوەکانمان قبووڵنەکراوە.\" نێردەی تایبەتی سەرۆکی ئەمریکا بۆ سووریا و عێراق ئاماژەی بەوەش کردووە، \"ئەم دەستدرێژییە هەڕەشەیەکی راستەوخۆیە بۆ سەر سەقامگیریی ناوچەکە.\" تۆم باراک جەخت لەوە دەکاتەوە، \"بە هیچ شێوەیەک چاوپۆشی لەم جۆرە دووژمنکارییانە ناکەین و لێی بێدەنگ نابین.\" هاوکات نێردە تایبەتەکەی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a3367f13cef65e75",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304256",
+    "title": "Barrack li ser êrişa Hewlêrê got: Em dê bêdeng nemînin",
+    "title_en": "Barrack li ser êrişa Hewlêrê got: Em dê bêdeng nemînin",
+    "summary": " Hewlêr (Rûdaw) - Nûnerê Taybet ê Amerîkayê yê Kar û Barên Sûriye û Îraqê Tom Barrack êrişa li ser ofîsa Mesrûr Barzanî ya li Hewlêrê bi tundî şermezar kir. Tom Barrack li ser êrişê got, \"Ev destdirêjiya li ser hevpeymanên me yên Kurd ên pêbawer nayê qebûlkirin.\" \"Gefeke rasterast e\" Nûnerê Taybet ê Serokê Amerîkayê yê Kar û Barên Sûriye û Îraqê destnîşan kir ku ev êriş ji bo aramiya herêmê xeter e. Barrack anî zimên, \"Ev destdirêjî ji bo aramiya herêmê gefeke rasterast e.\" \"Em dê bêdeng nemînin",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2142a5392d293cd3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304255",
+    "title": "Leyla Zana: Bila dost û dijmin bizanin ev sedsala azadiya gelê Kurd e",
+    "title_en": "Leyla Zana: Bila dost û dijmin bizanin ev sedsala azadiya gelê Kurd e",
+    "summary": "Hewlêr (Rûdaw) - Siyasetmedara Kurd Leyla Zanayê êrişa li ser Ofîsa Taybet a Serokwezîrê Herêma Kurdistanê şermezar kir û got, “Bila dost û dijmin bizanin ev sedsala azadiya gelê Kurd e.” Îro bi dronên bombebarkirî êrişî Ofîsa Taybet a Serokwezîrê Herêma Kurdistanê Mesrûr Barzanî hat kirin. Her wiha di heman demê de êrişî cihê mayînê yê Berpirsê Ajansa Parastinê jî hat kirin. \"Ev sedsala azadiya gelê Kurd e\" Siyasetmedara Kurd Leyla Zanayê li ser vê êrişê peyamek belav kir. Leyla Zanayê di peyam",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a35ad06656810c2",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304254",
+    "title": "Li Kerkûkê droneke nenas hat xistin",
+    "title_en": "Li Kerkûkê droneke nenas hat xistin",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Îraqê li Kerkûkê droneke keşfê xist xwarê ku nasnameya wê nenas e. Piştî operasyonê, ew efserê ku dron xistiye xwarê hat xelatkirin. Ew dron li asmanê bajêr hat dîtin û hêzên ewlehiyê ketin nav hişyariyê. Lîwaya 8an midaxele kir Fermandariya Operasyonên Hevpar a Kerkûkê daxuyaniyek da. Li gorî daxuyaniyê, Lîwaya 8an a artêşê dest bi şopandina wê drina gumanbar kiriye. Hat zanîn ku dronê keşfeke neyasayî dikir û biryara xistina wê hat dayîn. Efserekî artêşê bi lêdaneke ser",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "92c912a1932917c9",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304256",
+    "title": "Barrack li ser êrişa Hewlêrê got: Em dê bêdeng nemînin",
+    "title_en": "Barrack li ser êrişa Hewlêrê got: Em dê bêdeng nemînin",
+    "summary": " Hewlêr (Rûdaw) - Nûnerê Taybet ê Amerîkayê yê Kar û Barên Sûriye û Îraqê Tom Barrack êrişa li ser ofîsa Mesrûr Barzanî ya li Hewlêrê bi tundî şermezar kir. Tom Barrack li ser êrişê got, \"Ev destdirêjiya li ser hevpeymanên me yên Kurd ên pêbawer nayê qebûlkirin.\" \"Gefeke rasterast e\" Nûnerê Taybet ê Serokê Amerîkayê yê Kar û Barên Sûriye û Îraqê destnîşan kir ku ev êriş ji bo aramiya herêmê xeter e. Barrack anî zimên, \"Ev destdirêjî ji bo aramiya herêmê gefeke rasterast e.\" \"Em dê bêdeng nemînin",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
