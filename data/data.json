@@ -235629,6 +235629,186 @@
     }
   },
   {
+    "id": "a628f1c33800f8de",
+    "url": "https://www.rudaw.net/english/categories/world/1078864",
+    "title": "Trump says he is in no hurry for Iran deal as pressure mounts on Tehran",
+    "title_en": "Trump says he is in no hurry for Iran deal as pressure mounts on Tehran",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump said on Monday that he was in no hurry to reach a deal with Iran and insisted that his approach was not being driven by November’s midterm elections, as Washington continues to tighten economic and military pressure on Tehran. “I have no time schedule,” Trump told Fox News. “I’m not in a hurry … the midterms have nothing to do with my thinking.” Trump said Iran should “put up the white flag of surrender,” while portraying Tehran as increasingly",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9285f7384aa25442",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078863",
+    "title": "Thousands of graduates protest in Baghdad, demand public sector employment",
+    "title_en": "Thousands of graduates protest in Baghdad, demand public sector employment",
+    "summary": "ERBIL, Kurdistan Region - Thousands of graduates from 15 Iraqi provinces gathered in Baghdad on Monday to demand employment opportunities, amid growing concerns about the government’s ability to sustain public sector hiring as the country’s oil revenues decline. “We’re a lot. 150 thousand people. We have previously applied electronically as a census we’re old graduates from 2019 and 2020 and up until now. Some have graduated 18 and 15 years ago, and this is our 4th demonstration in Baghdad, our ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f4680e709a3843b8",
+    "url": "https://www.rudaw.net/english/categories/iran/1078862",
+    "title": "Iranian MP apologizes to Zhina Amini’s family over derogatory remarks",
+    "title_en": "Iranian MP apologizes to Zhina Amini’s family over derogatory remarks",
+    "summary": "ERBIL, Kurdistan Region - An Iranian lawmaker has apologized for making derogatory remarks about Zhina (Mahsa) Amini, the young Kurdish woman whose death in the custody of Tehran’s morality police triggered nationwide anti-government protests in 2022, following a fierce backlash from her family and the public. “In a recent debate I had on television, while criticizing the remarks and performance of the current representative and the president, I unconsciously used inappropriate language about th",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ac6d141ce07388c2",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867855",
+    "title": "مەزڵووم عەبدی لەبارەی هێرشە درۆنییەکە: کارێکی رەتکراوە و نائەخلاقییە",
+    "title_en": "مەزڵووم عەبدی لەبارەی هێرشە درۆنییەکە: کارێکی رەتکراوە و نائەخلاقییە",
+    "summary": "رووداو دیجیتاڵ فەرماندەی گشتیی هێزەکانی سووریای دیموکرات (هەسەدە) بە تووندی سەرکۆنەی هێرشەکەی سەر نووسینگەی سەرۆکوەزیرانی هەرێمی کوردستان دەکات و رایدەگەیێنێت، ئەو کارە نائەخلاقییە و هێرشە بۆ سەر ئیرادەی گەلی هەرێمی کوردستان و بەشێکی بنەڕەتیی دامەزراوەکانی عێراق. رۆژی دووشەممە، 17ـی ئابی 2026، مەزڵووم عەبدی، فەرماندەی گشتیی هێزەکانی سووریای دیموکرات (هەسەدە) لە تۆڕی کۆمەڵایەتیی ئێکس پەیامێکی لەبارەی هێرشەکەی سەر نووسینگەی مەسرور بارزانی، سەرۆکوەزیرانی هەرێمی کوردستان بڵاوکردەوە. مەزڵووم عەبدی لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b74af00f05d4ae4a",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867856",
+    "title": "پێشبینی دەکرێت تاوەکو ساڵی 2050 زیاتر لە 2 ملیۆن تووشبووی شێرپەنجە لە ئوسترالیادا هەبن",
+    "title_en": "پێشبینی دەکرێت تاوەکو ساڵی 2050 زیاتر لە 2 ملیۆن تووشبووی شێرپەنجە لە ئوسترالیادا هەبن",
+    "summary": "رووداو - تەندروستی لە زانکۆی سیدنی، توێژینەوەیەکی نوێ دەریخستووە، رەنگە تاوەکو ساڵی 2050 زیاتر لە 2.6 ملیۆن ئوسترالی هەڵگری شێرپەنجە بن، کە بەراورد بە ساڵی 2025، نزیکەی یەک ملیۆن کەس زیاد دەکات. بەگوێرەی راگەیێندراوێک کە ئەمڕۆ دووشەممە لەلایەن زانکۆی سیدنیی ئوسترالیاوە بڵاو کراوەتەوە، کۆی گشتیی ژمارەی تووشبووانی شێرپەنجە لە هەموو تەمەنەکاندا بە رێژەی 57٪ زیاد دەکات، واتە لە 1.66 ملیۆن تووشبووی ساڵی رابردووەوە بۆ 2.61 ملیۆن کەس لە ساڵی 2050 زیاد دەبێت. هۆکارەکەشی دەگەڕێتەوە بۆ گەشەی دانیشتووان و ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5b1381ab2b38a8fb",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867854",
+    "title": "درۆنێکی \"نەناسراو\" لە کەرکووک خرایە خوارەوە",
+    "title_en": "درۆنێکی \"نەناسراو\" لە کەرکووک خرایە خوارەوە",
+    "summary": "رووداو دیجیتاڵ لە سنووری پارێزگای کەرکووک درۆنێکی \"نەناسراو\" لەلایەن سوپاوە دەخرێتە خوارەوە و ئەفسەرێک بەو هۆیەوە خەڵات دەکرێ. فەرماندەیی ئۆپەراسیۆنە هاوبەشەکانی کەرکووک رایگەیاند، ئەو درۆنە نەناسراو بووە و لەلایەن ئەفسەرێکی فیرقەی هەشتی سوپاوە خراوەتە خوارەوە. لیوا مەعد بەدای، فەرماندەی ئۆپەراسیۆنەکانی کەرکووک رایگەیاند، ئەو درۆنە لە ئاسمانی شارەکە خراوەتە خوارەوە و ئەو ئەفسەرەش خەڵاتکراوە کە خستوویەتییە خوارەوە. سەرچاوەیەکی ئەمنیی باڵا لە کەرکووک بە تۆڕی میدیایی رووداوی راگەیاند: \"ئەو درۆنە رۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0526f5be6445a7c0",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304244",
+    "title": "Baregeha Barzanî: Dron û mûşek pirsgirêkan çareser nakin",
+    "title_en": "Baregeha Barzanî: Dron û mûşek pirsgirêkan çareser nakin",
+    "summary": "Hewlêr (Rûdaw) - Baregeha Barzanî êrişa bi dronan a li ser ofîsa Serokwezîrê Herêma Kurdistanê û mala Berpirsê Ajansa Parastinê bi tundî şermezar kir û got ku ti hinceta van êrişên nerewa nîne. Baregeha Barzanî li ser êrişa bi dronan daxuyaniyek belav kir û di daxuyaniya xwe de anî zimên: \"Em bi tundî wê êrişa bi dronan şermezar dikin ku berê vê sibehê ji aliyê sînorê Îranê ve li Pîrmamê li ofîsa Serokwezîr û cihê mayînê yê Berpirsê Ajansa Parastinê hat kirin.\" “Bikaranîna dron û mûşekan pirsgir",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ad6aa6d432e59a83",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1304245",
+    "title": "Kelecana futbolê li Êlihê, Batman Petrolspor û Boluspor tên pêşberî hev",
+    "title_en": "Kelecana futbolê li Êlihê, Batman Petrolspor û Boluspor tên pêşberî hev",
+    "summary": "Hewlêr (Rûdaw) - Batman Petrolspor îşev di Lîga 1emîn de derdikeve maça xwe ya pêşî ya li mala xwe. Tîma sor û spî demjimêr 21:30î li Stadyuma Êlihê mêhvandariya Bolusporê dike. Batman Petrolsporê di bin rahêneriya Selçuk Şahîn de amadehiyên xwe qedandine. Armanca tîmê ew e ku li pêşberî alîgirên xwe bigihe serkeftina yekem a sezonê. Di tîma Êlihê de ji xeynî Metehanê ku cezayê wî yê kartê heye, ti kêmasiya girîng nîne. Erdem Mertogluyê ji herêma Samsunê dê hakemtiya lîstikê bike. Murathan Çomog",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37b654e955b787da",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1304245",
+    "title": "Kelecana futbolê li Êlihê, Batman Petrolspor û Boluspor tên pêşberî hev",
+    "title_en": "Kelecana futbolê li Êlihê, Batman Petrolspor û Boluspor tên pêşberî hev",
+    "summary": "Hewlêr (Rûdaw) - Batman Petrolspor îşev di Lîga 1emîn de derdikeve maça xwe ya pêşî ya li mala xwe. Tîma sor û spî demjimêr 21:30î li Stadyuma Êlihê mêhvandariya Bolusporê dike. Batman Petrolsporê di bin rahêneriya Selçuk Şahîn de amadehiyên xwe qedandine. Armanca tîmê ew e ku li pêşberî alîgirên xwe bigihe serkeftina yekem a sezonê. Di tîma Êlihê de ji xeynî Metehanê ku cezayê wî yê kartê heye, ti kêmasiya girîng nîne. Erdem Mertogluyê ji herêma Samsunê dê hakemtiya lîstikê bike. Murathan Çomog",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0f6338e539739078",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304246",
+    "title": "Mezlûm Ebdî: Êrişa li ser ofîsa Serokwezîr ne exlaqî ye",
+    "title_en": "Mezlûm Ebdî: Êrişa li ser ofîsa Serokwezîr ne exlaqî ye",
+    "summary": "Hewlêr (Rûdaw) - Fermandarê Giştî yê Hêzên Sûriyeya Demokratîk (HSD) Mezlûm Ebdî êrişa bi dronan a li ser ofîsa Serokwezîrê Herêma Kurdistanê şermezar kir. \"Kiryareke neexlaqî ye\" Fermandarê Giştî yê HSDyê Mezlûm Ebdî li ser hesabê xwe yê Xê peyamek belav kir û piştevaniya xwe ya ji bo Herêma Kurdistanê anî zimên. Ebdî di peyama xwe de wiha got: \"Em bi hikûmet û gelê Herêma Kurdistanê re hevxem in û em armanckirina ofîsa Serokê Hikûmetê bi tundî şermezar dikin. Ev êriş kiryareke neexlaqî ye û na",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
