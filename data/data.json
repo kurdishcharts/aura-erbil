@@ -237303,6 +237303,204 @@
     }
   },
   {
+    "id": "0876ee2be3683054",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078875",
+    "title": "Kurdish voices rally behind PM Barzani after Erbil attack",
+    "title_en": "Kurdish voices rally behind PM Barzani after Erbil attack",
+    "summary": "ERBIL, Kurdistan Region - The attack on Kurdistan Region Prime Minister Masrour Barzani's office on Monday triggered a wave of condemnations from the Region's senior leadership as well as Kurdish leaders and political actors beyond. Erbil’s Directorate General of Counter Terrorism (CTD), affiliated with the Kurdistan Region Security Council (KRSC), earlier in the day reported that “two explosive drones of the Hadid-110 type were launched from the Iranian side of the border” toward the Kurdish Pr",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "733f651673bf48bd",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867916",
+    "title": "داوا دەکرێت پەرلەمانی عێراق لە هەولێر کۆببێتەوە",
+    "title_en": "داوا دەکرێت پەرلەمانی عێراق لە هەولێر کۆببێتەوە",
+    "summary": "رووداو دیجیتاڵ لە پەرلەمانی عێراق زیاتر لە 90 واژۆ کۆکراونەتەوە بۆ ئەوەی دانیشتنێکی نائاسایی پەرلەمان لە شاری هەولێر بەڕێوەبچێت؛ ئەوەش وەک وەڵامدانەوەیەک بۆ ئەو هێرشانەی دەکرێنە سەر هەرێمی کوردستان و دەربڕینی هاوسۆزی بۆ خەڵکەکەی. شێروان دووبەردانی، ئەندامی لیژنەی ئاسایش و بەرگری لە پەرلەمانی عێراق لە فراکسیۆنی پارتی دیموکراتی کوردستان، ئەمڕۆ دووشەممە 17ی ئابی 2026 بە تۆڕی میدیایی رووداوی راگەیاند، فراکسیۆنەکەیان هەڵمەتێکی بۆ کۆکردنەوەی واژۆ دەستپێکردووە تاوەکو دانیشتنێکی نائاسایی پەرلەمان لە هەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b44b9e84e1749d8",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1867917",
+    "title": "شەیبانی و باراک لە ئیستەنبووڵ کۆبوونەوە",
+    "title_en": "شەیبانی و باراک لە ئیستەنبووڵ کۆبوونەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "304d86b98a3b723b",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1867914",
+    "title": "تورکیا لە خاڵێکی دیکەی سەربازیی خۆی لە ئیدلب کشایەوە",
+    "title_en": "تورکیا لە خاڵێکی دیکەی سەربازیی خۆی لە ئیدلب کشایەوە",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی میدیای وڵاتەکە سوپای تورکیا بنکەی سەربازیی تەلسەندەلی لە دەوروبەری ئیدلب چۆڵ کرد و بڕیارە رادەستی حکومەتی خۆجێی ناوچەکەی بکات. سوپای تورکیا بنکەی سەربازیی تەلسەندەلی لە دەوروبەری ئیدلبی سووریا چۆڵ کرد و راشگەیێندراوە کە یاداشتنامەیەکی لێکتێگەیشتن بۆ رادەستکردنی ناوچەکە بە ئیدارەی خۆجێیی واژۆ کراوە. ئەو بنکەیەی تورکیا لە نزیک گوندی زەردەنای سەر بە قەزای مەعرەت میسرین لە ئیدلب بوو. هەر بەگوێرەی میدیای تورکیا، فادی عەبدولفەتاح، بەڕێوەبەری کارگێڕیی قەزای مەعرەت میسرین، یاداشت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f54a6dc778bf384b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867915",
+    "title": "یەکێتیی ئەورووپا: هێرشەکانی سەر نووسینگەی مەسرور بارزانی هەوڵێکە بۆ تێوەگلانی عێراق لە ململانێکان",
+    "title_en": "یەکێتیی ئەورووپا: هێرشەکانی سەر نووسینگەی مەسرور بارزانی هەوڵێکە بۆ تێوەگلانی عێراق لە ململانێکان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1fb901172c8c67e3",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867913",
+    "title": "حکومەتی عێراق رێکارەکانی وەرگرتنی باج تووندتر دەکات",
+    "title_en": "حکومەتی عێراق رێکارەکانی وەرگرتنی باج تووندتر دەکات",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دارایی عێراق و دیوانی چاودێریی دارایی فیدراڵ، لەسەر پلانێکی نوێ رێککەوتن بۆ خێراکردنی پرۆسەی وەرگرتنی باج و زیادکردنی داهاتە نانەوتییەکان. بڕیارەکە بەتایبەتی کۆمپانیاکانی کەرتی تێکەڵاو و زانکۆ و پەیمانگە تایبەتەکان دەگرێتەوە. ئەمڕۆ دووشەممە 17ی ئابی 2026 وەزارەتی دارایی عێراق لە راگەیێندراوێکدا رایگەیاند، \"لە چوارچێوەی هەوڵەکانی حکومەت بۆ پاراستنی مافی گەنجینەی دەوڵەت و زیادکردنی نەختینە، کۆبوونەوەیەکی هاوئاهەنگی لەگەڵ دیوانی چاودێریی دارایی بەڕێوەچوو بۆ چارەسەرکردنی کێشە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d9d1e7cce8005b8f",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867912",
+    "title": "بەناوی وەبەرهێنانەوە هەوڵی داگیرکردنی 2500 دۆنم زەویی کورد لە خانەقین دەدرێت",
+    "title_en": "بەناوی وەبەرهێنانەوە هەوڵی داگیرکردنی 2500 دۆنم زەویی کورد لە خانەقین دەدرێت",
+    "summary": "رووداو - دیجیتاڵ ژمارەیەک لە هاونیشتمانی گوندی پەلکانە باسیان لە هەوڵی دەستبەسەرداگرتنی 2500 دۆنم زەوییان بۆ تۆڕی میدیایی رووداو کرد. ئەکرەم مەجید، کە دانیشتووی گوندی پەلکانەیە، بە تۆڕی میدیایی رووداوی راگەیاند، \"خەڵکی دیکە دێن بۆ دەستبەسەرداگرتنی زەوییەکان، بەڵام تاوەکو ئێستا رێگەمان پێنەداون.\" گوندی پەلکانە لە خانەقین، دوایین گوندی ئاوەدانی کوردە لە قەزاکە کە هێشتا چۆڵنەکراوە، بەڵام هەوڵی دەستبەسەرداگرتنی 2500 دۆنم لە زەوییەکانی گوندەکە، مەترسیی چۆڵکردنی دروستکردووە. ئەکرەم مەجید، کە دانیشتووی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0bf17cb1eb132a51",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867911",
+    "title": "57 بەرپرس لەسەر گەندەڵی لە سەڵاحەددین دەستگیرکراون و دەستبەسەر سەدان ملیار دیناردا گیراوە",
+    "title_en": "57 بەرپرس لەسەر گەندەڵی لە سەڵاحەددین دەستگیرکراون و دەستبەسەر سەدان ملیار دیناردا گیراوە",
+    "summary": "رووداو - دیجیتاڵ لە پارێزگای سەڵاحەددین، رێژەی بێکاری و هەژاری 30%ی تێپەڕاندووە و زیاتر لە 36 هەزار کەس بۆ وەرگرتنی مووچەی چاودێریی کۆمەڵایەتی ناوی خۆیان تۆمار کردووە، هاوکات لە سێ مانگدا 57 بەرپرس بە تۆمەتی گەندەڵی دەستگیرکراون. خالید سەدام، سەوزەفرۆشێکە و دەڵێت، \"تەماتە و پەتاتە دەفرۆشم بۆ ئەوەی منداڵەکانم بەخێو بکەم، داهاتی رۆژانەم پێنج هەزار یان دە هەزار دینارە، کەچی بەرپرسێک دێت و 10 ملیار دینار بە یەکجار دەدزێت.\" لە چوارچێوەی هەڵمەتی بەرەنگاربوونەوەی گەندەڵیدا، هێزە ئەمنییەکان لە ماڵی ئەو ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a1212f57947ccd5a",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867910",
+    "title": "شارەزایەکی بازاڕە داراییەکان: ئاساییە ئۆنسەیەک زێڕ بگاتە 5 هەزار دۆلار",
+    "title_en": "شارەزایەکی بازاڕە داراییەکان: ئاساییە ئۆنسەیەک زێڕ بگاتە 5 هەزار دۆلار",
+    "summary": "رووداو دیجیتاڵ نرخی زێڕ رووی لە بەرزبوونەوەی زیاتر کردووە، هەر ئۆنسەیەک زێڕ بە نزیکەی 4 هەزار و 400 دۆلار مامەڵەی پێوە دەکرێت. شرۆڤەکارێکی بازاڕە دارییەکان دەڵێت، ئاساییە نرخەکە بگاتە 5 هەزار دۆلار. رۆژی 17ی ئابی 2026 د. ئازاد گەیلانی، شارەزای بازاڕە داراییەکان لەکاتی بەشداریکردنی لە بووڵتەنی ئابووری کە محەممەد شێخ فاتیح پێشكێشی دەکات، رایگەیاند، چاوەڕوانی زیاتری بەرزبوونەوەی نرخی زێڕ دەکرێت بەجۆرێک کە ئاسایی بێت ئەگەر بگاتە 5 هەزار دۆلار، چونکە بەهۆی دابەزینی یەنی ژاپۆنییەوە رەنگە ئەمریکا و ژاپ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4cb2e976dcae23e6",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304263",
+    "title": "Hikûmeta Şamê: HSD di demeke nêzîk de namîne",
+    "title_en": "Hikûmeta Şamê: HSD di demeke nêzîk de namîne",
+    "summary": "Hewlêr (Rûdaw) - Berdevkê Heyeta Serokkomariyê Ehmed Hîlalî ragihand ku dê fesixkirina Hêzên Sûriyeya Demokratîk (HSD) \"di demeke gelekî nêzîk de\" were ragihandin. Heyeta Serokkomariyê berpirsiyarê bicihanîna peymana 29ê Kanûna Paşîn e ku di navbera Hikûmeta Sûriyeyê û HSDyê de hatibû îmzekirin. Ehmed Hîlalî ku di heman demê de Alîkarê Parêzgarê Hisîçayê Hîlalî ye, ji Syria TVyê re axivî. Wî li ser bipêşketinên dawî yên bicihanîna peymana 29ê Kanûna Paşîn agahî da. Ehmed Hîlalî diyar kir ku ragi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f17d6b1bf308b9a",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304263",
+    "title": "Hikûmeta Şamê: HSD di demeke nêzîk de namîne",
+    "title_en": "Hikûmeta Şamê: HSD di demeke nêzîk de namîne",
+    "summary": "Hewlêr (Rûdaw) - Berdevkê Heyeta Serokkomariyê Ehmed Hîlalî ragihand ku dê fesixkirina Hêzên Sûriyeya Demokratîk (HSD) \"di demeke gelekî nêzîk de\" were ragihandin. Heyeta Serokkomariyê berpirsiyarê bicihanîna peymana 29ê Kanûna Paşîn e ku di navbera Hikûmeta Sûriyeyê û HSDyê de hatibû îmzekirin. Ehmed Hîlalî ku di heman demê de Alîkarê Parêzgarê Hisîçayê Hîlalî ye, ji Syria TVyê re axivî. Wî li ser bipêşketinên dawî yên bicihanîna peymana 29ê Kanûna Paşîn agahî da. Ehmed Hîlalî diyar kir ku ragi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
