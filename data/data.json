@@ -234693,6 +234693,168 @@
     }
   },
   {
+    "id": "e86755f08e186dfd",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078859",
+    "title": "Two attack drones fired from Iran target the office of PM Barzani: Statement",
+    "title_en": "Two attack drones fired from Iran target the office of PM Barzani: Statement",
+    "summary": "ERBIL, Kurdistan Region - Two attack drones launched from Iran targeted the office of Kurdistan Region Prime Minister Masrour Barzani and the residence of the head of the Kurdistan Region’s security agency in Erbil provine’s Pirmam district early Monday, according to Erbil-based counterterrorism forces. No casualties were reported. The Directorate General of Counter Terrorism (CTD), which is affiliated with the Kurdistan Region Security Council (KRSC), said in a statement on Monday that “two exp",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "72560eebe8b481b5",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867817",
+    "title": "دژەتیرۆر: دوو درۆن ئاراستەی نووسینگەی سەرۆکوەزیران و ئاژانسی پاراستن کران",
+    "title_en": "دژەتیرۆر: دوو درۆن ئاراستەی نووسینگەی سەرۆکوەزیران و ئاژانسی پاراستن کران",
+    "summary": "رووداو دیجیتاڵ دژەتیرۆری هەرێمی کوردستان دەڵێت، دوو درۆنی بۆمبڕێژکراو ئاراستەی نووسینگەی تایبەتی سەرۆکوەزیران و شوێنی حەوانەی بەڕێوەبەری ئاژانسی پاراستن کران. دژەتیرۆری کوردستان رایگەیاند: بە گوێرەی زانیارییەکانی دژەتیرۆری کوردستان، بەرەبەیانی ئەمڕۆ دووشەممە 17ی ئابی 2026، لە کاتژمێر 00:28، دوو درۆنی بۆمبڕێژکراو لە جۆری (حەدید-110) لە دیوی سنووری وڵاتی ئێرانەوە ئاراستەی بارەگای نووسینگەی تایبەتی سەرۆکوەزیرانی هەرێمی کوردستان و شوێنی حەوانەوەی بەڕێوەبەری ئاژانسی پاراستن لە قەزای پیرمامی پارێزگای ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5d9df03ae46f1905",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1867816",
+    "title": "16 هاونیشتمانی لە مهاباد سزای بەندکردنیان بۆ دەرچوو",
+    "title_en": "16 هاونیشتمانی لە مهاباد سزای بەندکردنیان بۆ دەرچوو",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی رێکخراوەکانی مافی مرۆڤ لە رۆژهەڵاتی کوردستان، 16 هاونیشتمانیی خەڵکی مهاباد، بە تۆمەتی پەیوەندیدار بە دژایەتیکردنی کۆماری ئیسلامیی ئێران، لانیکەم هەر یەکێکیان سزای زیاتر لە پێنج ساڵ بەندکردنی بۆ دەرچوو. رێکخراوەکانی مافی مرۆڤ لە ئێران و رۆژهەڵاتی کوردستان، دوێنێ یەکشەممە دادگاییکردنی 16 هاونیشتمانیی خەڵکی مهابادی پارێزگای ورمێیان پشتڕاست کردەوە کە پاییزی ساڵی 2024 دەستگیر کرابوون. بەگوێرەی زانیارییەکان، دادگاییکردنەکە لە رۆژانی رابردوودا لەلایەن لقی یەکەمی دادگەی شۆڕشی مها",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cddc93bf290ffea",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867815",
+    "title": "پەرلەمانتارێک بۆ رووداو: رێکارەکانی خەرجکردنی مووچە دەستیپێکرد",
+    "title_en": "پەرلەمانتارێک بۆ رووداو: رێکارەکانی خەرجکردنی مووچە دەستیپێکرد",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی پەرلەمانی عێراق رایدەگەیێنێت، وەزارەتی دارایی فیدراڵ دەستی بە ناردنی مووچەی مانگی تەممووزی فەرمانبەرانی هەرێمی کوردستان کردووە. هاوکات سەرچاوەیەک لە حکومەتی هەرێمی کوردستان ئاشکرای دەکات، بەغدا نزیکەی 841 ملیار دینار رەوانە دەکات و بڕی 120 ملیار دیناریش بەهۆی رادەستنەکردنی داهاتی نانەوتییەوە بڕدراوە. رۆژی دووشەممە، 17ـی ئابی 2026، شێروان دووبەردانی، ئەندامی پەرلەمانی عێراق، بە تۆڕی میدیایی رووداوی راگەیاند: \"وەزارەتی دارایی فیدراڵ دەستی کرد بە ناردنی مووچەی مانگی تەممووز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "483b3f2b78acb627",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1867821",
+    "title": "لە ئێران نۆ کەس بە تۆمەتی کوشتنی سروودبێژێکی ئایینی دەستگیرکران",
+    "title_en": "لە ئێران نۆ کەس بە تۆمەتی کوشتنی سروودبێژێکی ئایینی دەستگیرکران",
+    "summary": "رووداو دیجیتاڵ سەرپەرشتیاری بەشی لێکۆڵینەوە لە دادگەی تاران رایگەیاند، نۆ کەس کە دەستیان لە رفاندن، ئەشکەنجەدان و کوشتنی حەمید رەزا رەجەبزادە هەبووە، دەستگیرکراون. محەممەد شەهریاری، سەرپەرشتیاری بەشی لێکۆڵینەوە لە دادگەی تاران، رۆژی دووشەممە، 17-08-2026، بە ئاژانسی هەواڵی (میزان)ی سەر بە دەسەڵاتی دادی ئێران راگەیاند: \"ئەو نۆ کەسەی لە ئەشکەنجەدان و کوشتنی حەمید رەزا رەجەبزادە بەشداربوون، دەستگیرکران.\" هەفتەی رابردوو، محەممەد شەهریاری دۆزینەوەی تەرمی رەجەبزادەی لە دەوروبەری تاران راگەیاند و گوتی: ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f700a4bcda879060",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867820",
+    "title": "بەریتانییەکان توێژینەوە لەسەر گوێز دەکەن؛ ''پەستانی خوێن کەم دەکاتەوە''",
+    "title_en": "بەریتانییەکان توێژینەوە لەسەر گوێز دەکەن؛ ''پەستانی خوێن کەم دەکاتەوە''",
+    "summary": "رووداو - تەندروستی مشتێک گوێز لە رۆژێکدا دەکرێت ببێتە کلیلی پاراستنی دڵ و رێگریکردن لە بەرزبوونەوەی پەستانی خوێن. توێژەرانی بەریتانی ئەمە بە توێژینەوەکە دەسەلمێنن. توێژینەوەیەکی زانکۆی ئیمپێڕیاڵ لە بەریتانیا دیاریکردووە، خواردنی گوێز بە شێوەیەکی بەردەوام پەیوەندییەکی راستەوخۆی بە کەمبوونەوەی مەترسیی تووشبوون بە بەرزبوونەوەی پەستانی خوێن (زەخت)ـەوە هەیە. د. داگفین ئۆنن، توێژەر لە زانکۆکە شیکارییان بۆ زانیاریی زیاتر لە 143 هەزار کەس کردووە دەریخستووە، خواردنی نزیکەی 28 گرام گوێز لە رۆژێکدا (مشتێک)",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1bbf989afc79afae",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867819",
+    "title": "وەزارەتی وزەی ئوردن بۆ رووداو: لێکۆڵینەوە لە پرۆژەی بۆریی نەوتی بەسرە – عەقەبە دراوەتە کۆمپانیا نێودەوڵەتییەکان",
+    "title_en": "وەزارەتی وزەی ئوردن بۆ رووداو: لێکۆڵینەوە لە پرۆژەی بۆریی نەوتی بەسرە – عەقەبە دراوەتە کۆمپانیا نێودەوڵەتییەکان",
+    "summary": "رووداو دیجیتاڵ وەزارەتی وزەی ئوردن دەڵێت، لایەنی عێراقی پێی راگەیاندوون کە لێکۆڵینەوە لە سوودی پرۆژەی بۆریی بەسرە - حەدیسە - عەقەبە دراوەتە هاوپەیمانیی کۆمپانیا نێودەوڵەتییەکان؛ ئاماژە بەوەش دەکات، تاوتوێی راکێشانی هێڵی گاز دەکرێت و بۆرییەکە لە عێراقەوە بۆ عەقەبە توانای یەک ملیۆن بەرمیل هەناردەی هەیە و کۆگەیەکی حەوت ملیۆن بەرمیلیش دروست دەکرێت. لیندا عەبادی، گوتەبێژی وەزارەتی وزە و سامانی کانزایی ئوردن بە تۆڕی میدیایی رووداوی راگەیاند: \"لایەنی عێراقی تیمێکی تەکنیکیی پێکهێناوە بۆ هاوئاهەنگیکردن ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2b471506372e0c59",
+    "url": "https://www.rudaw.net/sorani/categories/health/1867818",
+    "title": "دەرمانێکی نوێ بۆ مەلاریا دۆزرایەوە",
+    "title_en": "دەرمانێکی نوێ بۆ مەلاریا دۆزرایەوە",
+    "summary": "رووداو - تەندروستی تیمێکی توێژەرانی سکۆتلەندی دەرمانێکی نوێیان بۆ چارەسەری نەخۆشیی مەلاریا دۆزیوەتەوە و ئاشکرای دەکەن، لەڕێگەی دەنکۆڵەوە وەردەگیرێت و بە تێکەڵی لەگەڵ دەرمانێکی ئێستای مەلاریادا کاریگەری دەبێت. تیمێک لە توێژەر و پزیشکانی زانکۆی دەندی لە سکۆتلاند بە توێژینەوەیەکی پڕ وردەکاری لە گۆڤاری لانسێت باسی ئەوە دەکات، پێکهاتەی cabamiquine کە بە دژەمەلاریایەکی کاریگەر ناسراوە، تەنیا یەک ژەمی لێ بەکاربێت، دەتوانێت بە رێژەیەکی زۆر چارەسەری ئەو نەخۆشییە درێژخایەنە کوشندەیە بکات. ئەنجامەکانی قۆنا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fa729eda18281a0f",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304234",
+    "title": "Omer Husrî: Nêzîkî ji sedî 80yê xebatên nûkirina Balafirgeha Qamişloyê bi dawî bûne",
+    "title_en": "Omer Husrî: Nêzîkî ji sedî 80yê xebatên nûkirina Balafirgeha Qamişloyê bi dawî bûne",
+    "summary": "Hewlêr (Rûdaw) - Serokê Desteya Giştî ya Balafirvaniya Sivîl û Veguhastina Asmanî ya Sûriyeyê Omer Husrî ji Rûdawê re ragihand nêzîkî ji sedî 80yê kar û xebatan nûkirina Balafirgeha Navneteweyî ya Qamişloyê temam bûne. Omer Husrî ji Rûdawê re diyar kir ku ew niha li ser temamkirina hûrgiliyên teknîk û xebatên mayî dixebitin û got: “Ev xebat ji binesazî, amadehî û pergalên bingehîn ên girêdayî ewlehî, parastin û karkirina balafirgehê pêk tê.” Omer Husrî derbarê dema destpêkirina geştan jî eşkere ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
