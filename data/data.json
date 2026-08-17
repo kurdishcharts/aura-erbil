@@ -237501,6 +237501,60 @@
     }
   },
   {
+    "id": "500e68ed27e01e09",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078876",
+    "title": "Saudi Arabia renews invitation for Iraqi PM Zaidi to visit Riyadh: Spox.",
+    "title_en": "Saudi Arabia renews invitation for Iraqi PM Zaidi to visit Riyadh: Spox.",
+    "summary": "ERBIL, Kurdistan Region - Saudi Arabia has renewed its invitation for Iraqi Prime Minister Ali al-Zaidi to visit Riyadh, the Baghdad government spokesperson said Monday, days after a senior security delegation from Iraq visited the Kingdom. The renewed invite comes after Zaidi had reportedly \"postponed\" a previously-scheduled visit to Saudi Arabia following drone-related tensions with Riyadh. Haider al-Aboudi, Iraqi government spokesperson, told the state-run al-Iraqiya channel, \"Saudi Arabia ha",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d2e2094f32f38875",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1867918",
+    "title": "چوارچێوەی هاوئاهەنگی سەرکۆنەی هێرشەکەی پیرمام دەکات",
+    "title_en": "چوارچێوەی هاوئاهەنگی سەرکۆنەی هێرشەکەی پیرمام دەکات",
+    "summary": "رووداو دیجیتاڵ چوارچێوەی هاوئاهەنگیی شیعە جەخت لە کۆکردنەوەی چەک لەدەستی دەوڵەتدا دەکاتەوە و بە\"داواکارییەکی نیشتمانی\" ناوی دەبات؛ هاوکات سەرکۆنەی هێرشکردنە سەر نووسینگەی سەرۆکی حکومەتی هەرێمی کوردستان دەکات. رۆژی دووشەممە 17-08-2026، چوارچێوەی هاوئاهەنگیی شیعەکان کۆبوونەوەی ئاسایی ژمارە 289ی خۆی لە نووسینگەی عەممار حەکیم کرد. کۆبوونەوەکە بە ئامادەبوونی سەرۆکوەزیرانی عێراق بوو و تێیدا دوایین پەرەسەندنە ناوخۆیی و دەرەکییەکان، دۆخی خزمەتگوزاری، ئابووری و سەقامگیریی وڵات تاوتوێ کران. بەپێی راگەیێند",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "61f4409480a2f132",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1867919",
+    "title": "ئیدریس نێچیرڤان بارزانی بژێویی ژیان و خوێندنی هەردوو منداڵەکەی شەهید موسا و مژدە دەگرێتە ئەستۆ",
+    "title_en": "ئیدریس نێچیرڤان بارزانی بژێویی ژیان و خوێندنی هەردوو منداڵەکەی شەهید موسا و مژدە دەگرێتە ئەستۆ",
+    "summary": "رووداو دیجیتاڵ ئیدریس نێچیرڤان بارزانی پێشوازیی لە منداڵانی شەهید موسا ئەنوەر و شەهید مژدە ئەسعەد کرد، کە لە هێرشێکی درۆنیدا لە سنووری هەولێر دایک و باوکیان لەدەستدا. ئیدریس نێچیرڤان بارزانی بڕیاری دا تەواوی تێچووی بژێویی ژیان و خوێندنی ئەو منداڵانە بگرێتە ئەستۆ. رۆژی دووشەممە 17ی ئابی 2026، دەزگای روانگە لە راگەیێندراوێکدا بڵاویکردەوە، \"لە هەولێر، ئیدریس نێچیرڤان بارزانی لەسەر بنەمای هەستێکی مرۆڤدۆستانە و بەرپرسیارێتیی نیشتمانی، لەگەڵ منداڵانی شەهید موسا کۆبووەوە.\" ئەو منداڵانە لە ئەنجامی هێرشێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
