@@ -238833,6 +238833,42 @@
     }
   },
   {
+    "id": "b525f6082ffaaf86",
+    "url": "https://www.rudaw.net/english/categories/analysis/1078883",
+    "title": "Basiji teenager returns from Iran’s old war as his commander takes reins of war efforts with the US",
+    "title_en": "Basiji teenager returns from Iran’s old war as his commander takes reins of war efforts with the US",
+    "summary": "ERBIL, Kurdistan Region - Around the time Iran supreme leader Mojtaba Khamenei decided to appoint Mohsen Rezaei in charge of the war with the US on August 10, an Iranian search team in the mountains of Sulaimani in the Kurdistan Region unearthed another secret from Rezaei’s past. The team from the Armed Forces General Staff’s Committee for the Search for the Missing discovered the remains of a 17-year-old boy who accompanied the Islamic Revolutionary Guard Corps (IRGC) forces as part of Basij, i",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e7b9b8803e7d36e7",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867964",
+    "title": "سەرچاوەیەک: هەفتەی داهاتوو پارەی هاوپەیمانان دەخرێتە سەر هەژماری وەزارەتی پێشمەرگە",
+    "title_en": "سەرچاوەیەک: هەفتەی داهاتوو پارەی هاوپەیمانان دەخرێتە سەر هەژماری وەزارەتی پێشمەرگە",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی سەرچاوەیەک بۆ رووداو، تاوەکو ئەمڕۆ هاوپەیمانان پارەی هاوکارییان بۆ وەزارەتی پێشمەرگە نەناردووە و ناردنەکەی دەکەوێتە هەفتەی داهاتوو. سەرچاوەیەکی ئاگادار لە وەزارەتی پێشمەرگە، ئەمڕۆ 18ـی ئابی 2026 بە تۆڕی میدیایی رووداوی گوت: \"تاوەکو ئێستا پارەی هاوپەیمانان نەخراوەتە سەر هەژماری وەزارەتی پێشمەرگە، بە ئەگەری زۆرەوە ناردنی پارەکە دەکەوێتە هەفتەی داهاتوو\". هاوکارییەکە وەک پشتیوانییەکە بۆ یەکخستنەوەی هێزەکانی پێشمەرگە کە هاوپەیمانان دابینی دەکەن. ئەگەر پارەکە بگات وەکو هاوکاری ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
