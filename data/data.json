@@ -240075,6 +240075,42 @@
     }
   },
   {
+    "id": "2affdb4ff2a09599",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868002",
+    "title": "لە بابل؛ سێ ساڵ زیندانی بۆ کەسێک کە خۆی وەک بەرپرسی دەسپاکی ناساندبوو",
+    "title_en": "لە بابل؛ سێ ساڵ زیندانی بۆ کەسێک کە خۆی وەک بەرپرسی دەسپاکی ناساندبوو",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0ad655d3bcb9553e",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304296",
+    "title": "Mesrûr Barzanî û Heval Ebûbekir li ser şewatên li Silêmaniyê axivîn",
+    "title_en": "Mesrûr Barzanî û Heval Ebûbekir li ser şewatên li Silêmaniyê axivîn",
+    "summary": "Hewlêr (Rûdaw) - Parêzgarê Silêmaniyê ragihand ku Serokwezîr Mesrûr Barzanî ji bo şopandina şewatên li Silêmaniyê telefonî wî kiriye. Parêzgarê Silêmaniyê Heval Ebûbekir ji Tora Medyayî ya Rûdawê re eşkere kir: \" Serokwezîrê Herêma Kurdistanê Kek Mesrûr Barzanî di pêwendiyeke telefonî de ji ber van şewatan piştgirî û hevxemiya xwe nîşan da.\" Parêzgarê Silêmaniyê da zanîn ku Mesrûr Barzanî sedem û zererên şewatan pirs kiriye, bi taybetî jî şewata vê êvarê ya li nava avahiya Meclisa Parêzgeha Silê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
