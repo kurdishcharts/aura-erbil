@@ -240507,6 +240507,150 @@
     }
   },
   {
+    "id": "9ba3f89df65199d1",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078891",
+    "title": "UAE says it detected two Iranian missiles targeting 'maritime navigation'",
+    "title_en": "UAE says it detected two Iranian missiles targeting 'maritime navigation'",
+    "summary": "ERBIL, Kurdistan Region - The United Arab Emirates said Tuesday its air defenses detected two ballistic missiles launched from Iran, in what marked the second such attack in just over a month - the first having occurred in mid-July, weeks after Iran and the United States signed a ceasefire memorandum of understanding in June. \"The UAE's air defence systems detected two ballistic missiles launched from Iran towards the country,\" the Emirati defense ministry said, adding that \"the first fell outsi",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8f55d22773be0812",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1868020",
+    "title": "بەنزینی 'پێلەقە' بزوێنەری ئۆتۆمبێلەکان تێکدەدات و مەترسیشە بۆ شۆفێران",
+    "title_en": "بەنزینی 'پێلەقە' بزوێنەری ئۆتۆمبێلەکان تێکدەدات و مەترسیشە بۆ شۆفێران",
+    "summary": "رووداو - دیجیتاڵ بازاڕی بەنزینی نۆڕماڵی بازرگانی کە بە نرخێکی زۆر هەرزانتر لە نرخی گشتی دەفرۆشرێت، تەنگی بە شۆفێران هەڵچنیوە و زیانێکی زۆری بە بزوێنەری ئۆتۆمبێلەکان گەیاندووە؛ لە هەولێریش بەو جۆرە سووتەمەنییە نایاساییانە دەگوترێت \"پێلەقە\". رۆژانە بەنزینی نۆڕماڵی بازرگانی کە لە هەندێک بەنزینخانەی ڕێگەی هەولێر - دهۆک دەفرۆشرێت، کێشەی گەورە بۆ شۆفێران دروست دەکات. مەڕوان نیحۆ، کە کاسبکارە و بزوێنەری ئۆتۆمبێلەکەی بەو بەنزینە تێکچووە، ڕایگەیاند کە تۆبەی کردووە و داوا لە شۆفێرانی دیکەش دەکات ئەو بەنزی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c3da293b1f7d75d",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868021",
+    "title": "عەلی زەیدی: کار بۆ بەرەوپێشبردنی گوندەکان دەکەین",
+    "title_en": "عەلی زەیدی: کار بۆ بەرەوپێشبردنی گوندەکان دەکەین",
+    "summary": "رووداو دیجیتاڵ سەرۆکوەزیرانی عێراق دەڵێ، کار بۆ بەرەوپێشبردنی گوندەکان و کەرتی کشتوکاڵ دەکەن؛ ئاماژە بەوەش دەکات، دامەزراندنی سندووقی گەشەپێدان رێگە خۆش دەکات بۆ رەخساندنی هەلی کاری زیاتر و تەواوکردنی پڕۆژە ستراتیژییەکان. رۆژی سێشەممە، 18ـی ئابی 2026، عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق، پێشوازی لە پیتەر هۆکینز، رێکخەری نەتەوە یەکگرتووەکان لە عێراق بەوەکالەت کرد. بەپێی راگەیێندراوی نووسینگەی سەرۆکوەزیرانی عێراق، لە کۆبوونەوەکەدا باس لە بەهێزکردنی هاوبەشی نێوان عێراق و نەتەوە یەکگرتووەکان لە بوا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f360d55bcc4e5f57",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1868018",
+    "title": "ئامەدسپۆر بەهۆی هەڵسوکەوت و دروشمی هاندەرانیەوە سکاڵای لەسەر تۆمارکرا",
+    "title_en": "ئامەدسپۆر بەهۆی هەڵسوکەوت و دروشمی هاندەرانیەوە سکاڵای لەسەر تۆمارکرا",
+    "summary": "رووداو دیجیتاڵ یانەی ئامەدسپۆر کە شەممەی رابردوو یەکەمین یاریی لە خولی نایاب (سوپەرلیگ)ی تورکیا کرد و لە یانەی ئەرزەڕۆمی بردەوە، چەند تۆمەتێک درایە پاڵ هاندەرانی هەردوولا و سکاڵا لە دژیان تۆمارکرا. نووسینگەی راوێژی یاسایی یەکێتیی تۆپی پێی تورکیا، بڕیاری دا یانەی ئامەدسپۆر رەوانەی لیژنەی پابەندکاری بکات و هۆکارەکەیشی بۆ ئەوە گەڕاندەوە کە گوایە هاندەرانی ئەو یانەیەی باکووری کوردستان، دروشمی ناشیرین و نەشیاویان گوتووەتەوە، گرژی و ئاڵۆزییان لە یاریگە دروستکردووە، نێوانەڕێگەی پلیکانەکانیان چۆڵنەکردوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c7ea05415a432a9",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868019",
+    "title": "کەرکووک؛ هێرشکرایە سەر لیژنەی لابردنی زیادەڕۆیی و سکاڵا لەسەر راوێژکارێکی پارێزگار تۆمارکرا",
+    "title_en": "کەرکووک؛ هێرشکرایە سەر لیژنەی لابردنی زیادەڕۆیی و سکاڵا لەسەر راوێژکارێکی پارێزگار تۆمارکرا",
+    "summary": "رووداو - دیجتاڵ لە کەرکووک، هەوڵێکی لیژنەی لابردنی زیادەڕۆیی شارەوانی بۆ روخاندنی ژمارەیەک خانووی زێدەڕۆ گرژیی لێکەوتەوە؛ بەرپرسێکی لیژنەکەش راوێژکارێکی پارێزگاری کەرکووک تۆمەتبار دەکات بەوەی لە پشت دروستکردنی خانووەکانەوە بووە و رێگری لە کارەکانیان کردووە. لە کاتی چوونی تیمەکانی شارەوانی بۆ کەرتی 58ی گەڕەکی دۆمیز لە نزیک بازگەی کۆبانێ، بەشێک لە ئامادەبووان هەوڵیان دا رێگری لە شۆفەڵی لابردنی زیادەڕۆییەکان بکەن و کەسێکیش چووە سەر بانی یەکێک لە خانووەکان و هەڕەشەی خۆفڕێدانەخوارەوەی کرد. لە شوێنی ر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4c7cbf00b81f6842",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304300",
+    "title": "Di ser şer re 6 meh derbas bûn: Kurdên Rojavayê Kurdistanê di çi rewşê de ne?",
+    "title_en": "Di ser şer re 6 meh derbas bûn: Kurdên Rojavayê Kurdistanê di çi rewşê de ne?",
+    "summary": "Hewlêr (Rûdaw) - Nîşaneya yekem a ku rewş li Rojavayê Kurdistanê guheriye, yekser piştî derbasbûna ji Deriyê Sêmalkayê yê ji Herêma Kurdistanê derdikeve holê. Du berpirsên li beşa kontrola sînor ku ji aliyê Şamê ve hatine danîn, destûra Wezareta Ragihandinê ya Sûriyeyê dixwazin da ku rojnameger karibin li herêmê bixebitin. Ew wêneyên ku berê dîwar xemilandibûn, wêneyên wan şervanên Kurd bûn ku di 15 salên şerê li dijî komên cîhadîst de canê xwe dabû lê niha yek ji wan jî nemaye. Li şûna wan, wên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1bdccede96a23c27",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304301",
+    "title": "Trump Tengava Hurmizê wekî ‘herêmeke nû ya Amerîkayê’ bi nav kir",
+    "title_en": "Trump Tengava Hurmizê wekî ‘herêmeke nû ya Amerîkayê’ bi nav kir",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump ji bo sepandina serweriya welatê xwe nexşeyek belav kir ku tê de Tengava Hurmizê wekî \"herêmeke nû ya Amerîkayê\" nîşan dide. Serokê Amerîkayê Donald Trump li ser platforma Truth Socialê nexşeyek belav kir. Trump di nexşeyê de Tengava Hurmizê wekî \"herêmeke nû ya Amerîkayê\" bi nav kir. Ev gav wekî nîşaneyek ji bo bicihanîna gefên wî yên li ser sepandina serweriya Amerîkayê ya li ser wê tengava stratejîk tê dîtin. Ev gava Trump di demekê de ye ku Îranê wekî bersivek j",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "400022386a354787",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304301",
+    "title": "Trump Tengava Hurmizê wekî ‘herêmeke nû ya Amerîkayê’ bi nav kir",
+    "title_en": "Trump Tengava Hurmizê wekî ‘herêmeke nû ya Amerîkayê’ bi nav kir",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump ji bo sepandina serweriya welatê xwe nexşeyek belav kir ku tê de Tengava Hurmizê wekî \"herêmeke nû ya Amerîkayê\" nîşan dide. Serokê Amerîkayê Donald Trump li ser platforma Truth Socialê nexşeyek belav kir. Trump di nexşeyê de Tengava Hurmizê wekî \"herêmeke nû ya Amerîkayê\" bi nav kir. Ev gav wekî nîşaneyek ji bo bicihanîna gefên wî yên li ser sepandina serweriya Amerîkayê ya li ser wê tengava stratejîk tê dîtin. Ev gava Trump di demekê de ye ku Îranê wekî bersivek j",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
