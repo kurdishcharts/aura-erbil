@@ -237771,6 +237771,96 @@
     }
   },
   {
+    "id": "98dfd20ce6b3acd2",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078870",
+    "title": "Surveillance balloon relaunches over Erbil",
+    "title_en": "Surveillance balloon relaunches over Erbil",
+    "summary": "ERBIL, Kurdistan Region - The US-led coalition on Monday redeployed its Aerostat surveillance balloon over Erbil after keeping it grounded for more than 15 days, an unnamed security source told Rudaw, to monitor security near Erbil International Airport surrounding airspace. The security source told Rudaw's Taha Mustafa on Monday that the balloon was relaunched at 3:30 pm (local time) on Monday, for security surveillance purposes. The source said it was not yet clear when the balloon would be br",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "91a16d8db4ef01c1",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1867927",
+    "title": "ئەگەری زیادنەکردنی رێژەی سوود نرخی زێڕی بەرزکردەوە",
+    "title_en": "ئەگەری زیادنەکردنی رێژەی سوود نرخی زێڕی بەرزکردەوە",
+    "summary": "رووداو دیجیتاڵ نرخی زێڕ، رۆژی سێشەممە، لە نزیک ئاستی 4,400 دۆلار بۆ هەر ئۆنسەیەک جێگیر بوو، ئەمەش لە کاتێکدایە کە داتاکانی ئابووریی ئەمریکا بوونەتە هۆی کەمکردنەوەی چاوەڕوانییەکان بۆ تووندکردنەوەی سیاسەتی نەختینەیی لەلایەن بانکی ناوەندیی فیدراڵییەوە، هاوکات گرژییەکانی رۆژهەڵاتی نێوەڕاستیش پاڵپشتیی لە بەرزبوونەوەی داواکاری بۆ کانزای زەرد کردووە. بەرەبەیانیی ئەمڕۆ سێشەممە نرخی ئۆنسەیەک زێڕ لە مامەڵە هەنووکەییەکاندا گەیشتە 4434 دۆلار. لە گرێبەستەکانی داهاتووشدا گەیشتە 4486 دۆلار. دوای تۆمارکردنی ئەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ccadf1d84e2e54c7",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304265",
+    "title": "Li Meletiyê barana gur û bahozê jiyan serobino kir",
+    "title_en": "Li Meletiyê barana gur û bahozê jiyan serobino kir",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Meletiyê ya Bakurê Kurdistanê barana gur û bahoza dijwar di nav 5 xulekan de li gelek deverên bajêr ziyaneke mezin çêkir. Dar ji kokê rabûn, banê xaniyan firiyan û kolan û kuçe di bin avê de man. Şevê din ji nişkê ve baran û bahozê, di demeke kurt de jiyan serobino kir. Ji ber bayê bihêz, kiremîdên ser banan li erdê ketin, gelek darên mezin ji kokê hilweşiyan. Darên ku bi ser rêyan de ketin, çûn û hatina trafîkê asê kirin. Her çi qasî baran demkurt bû jî ji ber gurb",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "596fc1c1d374aa35",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1304266",
+    "title": "Amedspor dibe mêvanê Kocaeliyê, bilêt tên firotin",
+    "title_en": "Amedspor dibe mêvanê Kocaeliyê, bilêt tên firotin",
+    "summary": "Hewlêr (Rûdaw) - Dest bi firotina bilêtên lîstika Kocaeli-Amedsporê hat kirin. Amedspor piştî serkeftina li pêşberî Erzurumsporê amadehiyên xwe yên ji bo lîstika Kocaelîsporê didomîne. Lîstik dê roja duşemê (24ê Tebaxê) demjimêr 21:30î bê lîstin û firotina bilêtan jî dest pê kir. Amedspora ku bi 3 puanan dest bi Lîga Super kir, piştî rojek bêhnvedanê bi serkêşiya rahêner Besnik Hasi dest bi antrenmanên vê lîstika girîng kir. Kocaelîsporê jî ragihand ku dê firotina bilêtên taybet ên ji bo alîgirê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "326a2773364f73ef",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1304266",
+    "title": "Amedspor dibe mêvanê Kocaeliyê, bilêt tên firotin",
+    "title_en": "Amedspor dibe mêvanê Kocaeliyê, bilêt tên firotin",
+    "summary": "Hewlêr (Rûdaw) - Dest bi firotina bilêtên lîstika Kocaeli-Amedsporê hat kirin. Amedspor piştî serkeftina li pêşberî Erzurumsporê amadehiyên xwe yên ji bo lîstika Kocaelîsporê didomîne. Lîstik dê roja duşemê (24ê Tebaxê) demjimêr 21:30î bê lîstin û firotina bilêtan jî dest pê kir. Amedspora ku bi 3 puanan dest bi Lîga Super kir, piştî rojek bêhnvedanê bi serkêşiya rahêner Besnik Hasi dest bi antrenmanên vê lîstika girîng kir. Kocaelîsporê jî ragihand ku dê firotina bilêtên taybet ên ji bo alîgirê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
