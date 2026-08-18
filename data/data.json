@@ -240111,6 +240111,78 @@
     }
   },
   {
+    "id": "68b340811d2f2825",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1868004",
+    "title": "بە کۆکردنەوەی زیاتر لە دوو ملیار دۆلار SpiderMan ناوی دەچێتە مێژوو",
+    "title_en": "بە کۆکردنەوەی زیاتر لە دوو ملیار دۆلار SpiderMan ناوی دەچێتە مێژوو",
+    "summary": "رووداو دیجیتاڵ هۆڵیوود هەفتەیەکی پڕ لە داهاتی لە بازاڕەکانی سینەمای ئەمریکا و کەنەدا تۆمارکرد، فیلمی سپایدەرمان لە سێیەم هەفتەی نمایشیدا توانی نزیکەی 70 ملیۆن دۆلار لە فرۆشی بلیتی ناوخۆیی بەدەست بێنێت و لە ریزی پێشەوەی پڕفرۆشترین فیلمەکان بێت. بەپێی داتا و خەمڵاندنی فرۆشتنی بلیتی سینەماکان لە ئەمریکا و کەنەدا، فیلمی The Odyssey کە دەنگدانەوەی گەورەی لە جیهان دروست کرد و کریستۆفەر نۆلان بەو بەرهەمە جیهانی سەرسامکردەوە، بە کۆکردنەوەی 23.2 ملیۆن دۆلار لە پلەی دووەمی پڕ فرۆشترین بلیتی سینەماکان دێت،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07e11641a8141d30",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868003",
+    "title": "ئاگرەکانی سلێمانی کاریگەری لەسەر نرخ و دابەشکردنی بەنزین دەبێت؟",
+    "title_en": "ئاگرەکانی سلێمانی کاریگەری لەسەر نرخ و دابەشکردنی بەنزین دەبێت؟",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری دابەشکردنی نەوت و کانزاکانی سلێمانی دەڵێ، ئاگرکەوتنەوەکەی شەوی رابردووی تانجەرۆ و ئەوەی ئەمڕۆ هیچ کاریگەرییەکی لەسەر دابەشکردنی بەنزینی 750 دیناری نەبووە. رۆژی سێشەممە، 18ـی ئابی 2026، محەممەد حەسیب، بەڕێوەبەری دابەشکردنی نەوت و کانزاکانی سلێمانی بە رووداوی راگەیاند: \"ئاگرکەوتنەوەکەی دوێنێ شەو، ئەوەی ئەمڕۆش هیچ کاریگەرییەکی لەسەر دابەشکردنی بەنزین نەبووە\". لەبارەی رووداوەکەی دوێنێ شەو، محەممەد حەسیب گوتی: \"ئەو سووتەمەنییەی لە کۆگاکەدا گڕی گرت، بەنزینی بازرگانی بوو نەوەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3c942dcdf052aa71",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304297",
+    "title": "STENBOL - Fuara Pirtûkên Erebî bi beşdariya 300 weşanxaneyan berdewam dike",
+    "title_en": "STENBOL - Fuara Pirtûkên Erebî bi beşdariya 300 weşanxaneyan berdewam dike",
+    "summary": "Stenbol (Rûdaw) - Fuara 11emîn a Navneteweyî ya Pirtûkên Erebî ya Stenbolê bi beşdariyeke zêde berdewam dike ku ji 30 welatan zêdetirî 300 weşanxaneyan beşdarî fuarê bûne. Li fuarê herî zêde pirtûkên zarokan, lîteratura klasîk a Îslamî û wêjeya Erebî tên firotin. Sûriye îsal wekî mêvana rûmetê di fuarê de amade ye. Alîkarê Wezîrê Çandê yê Sûriyeyê Saad Nasan li ser weşangeriya Kurdî ji Rûdawê re axivî û got: “Em li Sûriyeyê piştgiriya zindîbûna weşangeriya Kurdî dikin. Ev mafekî xwezayî ye.” Ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "13e751a7aceb9f83",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1304297",
+    "title": "STENBOL - Fuara Pirtûkên Erebî bi beşdariya 300 weşanxaneyan berdewam dike",
+    "title_en": "STENBOL - Fuara Pirtûkên Erebî bi beşdariya 300 weşanxaneyan berdewam dike",
+    "summary": "Stenbol (Rûdaw) - Fuara 11emîn a Navneteweyî ya Pirtûkên Erebî ya Stenbolê bi beşdariyeke zêde berdewam dike ku ji 30 welatan zêdetirî 300 weşanxaneyan beşdarî fuarê bûne. Li fuarê herî zêde pirtûkên zarokan, lîteratura klasîk a Îslamî û wêjeya Erebî tên firotin. Sûriye îsal wekî mêvana rûmetê di fuarê de amade ye. Alîkarê Wezîrê Çandê yê Sûriyeyê Saad Nasan li ser weşangeriya Kurdî ji Rûdawê re axivî û got: “Em li Sûriyeyê piştgiriya zindîbûna weşangeriya Kurdî dikin. Ev mafekî xwezayî ye.” Ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
