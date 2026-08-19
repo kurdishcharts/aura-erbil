@@ -241785,6 +241785,114 @@
     }
   },
   {
+    "id": "21e6a88cf327df39",
+    "url": "https://www.rudaw.net/english/categories/economic/1078898",
+    "title": "Oil exports through Kurdistan pipeline only 20%: Spox",
+    "title_en": "Oil exports through Kurdistan pipeline only 20%: Spox",
+    "summary": "ERBIL, Kurdistan Region - Oil exports through the Kurdistan Region start at around 150,000 barrels per day (bpd) and fluctuate from day to day, Iraq's oil ministry spokesperson told Rudaw on Wednesday, despite an agreement allowing the transport of 750,000 bpd through Iraq-Turkey pipeline. Salim al-Rukabi, spokesperson for the Iraqi ministry of oil, told Rudaw's Malik Mohammed on Wednesday that exports through its southern ports are averaging nearly 2 million bpd while the volume of exports thro",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a4ab5589474abfcd",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868061",
+    "title": "راوێژکارێکی فەرماندەی سوپای پاسداران: قسەکانی ترەمپ بێبنەمان و هێزی ئەمریکایان تێکشکاندووە",
+    "title_en": "راوێژکارێکی فەرماندەی سوپای پاسداران: قسەکانی ترەمپ بێبنەمان و هێزی ئەمریکایان تێکشکاندووە",
+    "summary": "رووداو دیجیتاڵ راوێژکارێکی باڵای فەرماندەی گشتیی سوپای پاسداران دەڵێت، دوو ئامانجی سەرەکیی ئەمریکا لە جەنگ لەگەڵ وڵاتەکەی، رووخاندنی حکومەتی ئێران و دابەشکردنی خاکەکەی بووە، بەڵام ''شکست''ـیان هێناوە؛ ئاماژە بەوەش دەکات، دوای ''شکست''ـەکە، ئەمریکا هیچ ستراتیژییەکی لە جەنگدا نەماوە. محەممەدڕەزا نەقدی، راوێژکاری باڵای فەرماندەی گشتیی سوپای پاسدارانی ئێران، لە لێدوانێکی نوێدا هێرشی تووندی کردە سەر سیاسەتەکانی ئەمریکا لە ناوچەکە و کەسایەتیی دۆناڵد ترەمپ، سەرۆکی وڵاتەکە و رایگەیاند، سەرجەم ئامانجە ست",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "962d633a9d95d3e6",
+    "url": "https://www.rudaw.net/sorani/categories/health/1868062",
+    "title": "بەڕێوەبەری نەخۆشخانەی رزگاری لە هەولێر: وادەکەین، لەمەودوا هەر نەخۆشێک یەک هاوەڵی لەگەڵدا بێت",
+    "title_en": "بەڕێوەبەری نەخۆشخانەی رزگاری لە هەولێر: وادەکەین، لەمەودوا هەر نەخۆشێک یەک هاوەڵی لەگەڵدا بێت",
+    "summary": "رووداو - تەندروستی بەئەلیکترۆنیکردنی نەخۆشخانەی رزگاری لە هەولێر دەستیپێکرد و بەڕێوەبەری نەخۆشخانەکە رایدەگەیێنێت، نۆژەنکردنەوەکان کاری جیدی و لەپێشینەن بۆ رەخساندنی باشترین ژینگەی خزمەتگوزاری بۆ نەخۆش. ئەمڕۆ چوارشەممە 19-8-2026 د. نووڕجیهان عەلی، بەڕێوەبەری نەخۆشخانەی رزگاریی فێرکاری لە هەولێر لە کۆنگرەیەکی رۆژنامەڤانیدا رایگەیاند، هەنگاوی جیدی و کردەیی کراوە و دەکرێت بۆ نۆژەنکردنەوەی نەخۆشخانەی رزگاری کە ئامانجیانە ژینگەیەکی نایاب و پێداویستیی گونجاو بخەنە بەردەستی پزیشک و ستافی تەندروستیی نەخ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "375cf30559d02ef3",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868060",
+    "title": "رووپێوی بۆ پەنابەرانی هەرێمی کوردستان دەکرێت؛ هەژاری لەنێویاندا دیاریدەکرێت",
+    "title_en": "رووپێوی بۆ پەنابەرانی هەرێمی کوردستان دەکرێت؛ هەژاری لەنێویاندا دیاریدەکرێت",
+    "summary": "رووداو دیجیتاڵ رووپێوی بۆ 1600 ماڵباتی پەنابەر لە هەرێمی کوردستان دەکرێت، پرۆسەکە دەستیپێکردووە و تاوەکو نێوەڕاستی ئەیلوولی داهاتوو بەردەوام دەبێ. شوان عەباس، سەرپەرشتیاری رووپێویی پەنابەران لە دەستەی ئامار بە رووداوی راگەیاند: \"رووپێوییەکە بۆ کۆکردنەوەی زانیارییە لەبارەی دۆخی پەنابەران، ژیان و گوزەرانیان.\" بەشێکی زۆری ئەو پەنابەرانەی لە هەرێمی کوردستان دەژین، دۆخی ژیانیان باش نییە، بۆیە یەکێک لە ئامانجەکانی رووپێوییەکە دیاریکردنی رێژەی هەژارییە لەنێو پەنابەراندا. شوان عەباس دەڵێت: \"ماوەیەکە کار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03d3a4960534d6a4",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304315",
+    "title": "Neteweyên Yekbûyî û Amerîka li ser Lîbyayê ketin nav nakokiyan",
+    "title_en": "Neteweyên Yekbûyî û Amerîka li ser Lîbyayê ketin nav nakokiyan",
+    "summary": "New York (Rûdaw) - Di civîna Konseya Ewlehiyê ya Neteweyên Yekbûyî de, nakokiyên navneteweyî yên li ser krîza Lîbyayê derketin asteke nû. Nûnera Taybet a Neteweyên Yekbûyî, bi awayekî nerasterast rexne li \"rêyên paralel\" û destpêşxeriyên Amerîkayê girtin. Wê hişyarî da ku ev pêngav dibin sedema windakirina demê. Gelê Lîbyayê li ser deryayeke petrolê dijî. Lê ji ber mîrata 10 salên şerê navxweyî û destêwerdanên derve, xelk ji xizmetguzariyên herî seretayî yên wekî av, kareba û sotemeniyê bêpar ma",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b542f9f428e4d095",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304315",
+    "title": "Neteweyên Yekbûyî û Amerîka li ser Lîbyayê ketin nav nakokiyan",
+    "title_en": "Neteweyên Yekbûyî û Amerîka li ser Lîbyayê ketin nav nakokiyan",
+    "summary": "New York (Rûdaw) - Di civîna Konseya Ewlehiyê ya Neteweyên Yekbûyî de, nakokiyên navneteweyî yên li ser krîza Lîbyayê derketin asteke nû. Nûnera Taybet a Neteweyên Yekbûyî, bi awayekî nerasterast rexne li \"rêyên paralel\" û destpêşxeriyên Amerîkayê girtin. Wê hişyarî da ku ev pêngav dibin sedema windakirina demê. Gelê Lîbyayê li ser deryayeke petrolê dijî. Lê ji ber mîrata 10 salên şerê navxweyî û destêwerdanên derve, xelk ji xizmetguzariyên herî seretayî yên wekî av, kareba û sotemeniyê bêpar ma",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
