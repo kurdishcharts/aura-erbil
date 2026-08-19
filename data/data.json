@@ -242829,6 +242829,96 @@
     }
   },
   {
+    "id": "f58f05c36ba91664",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1868100",
+    "title": "ئیسرائیل: رێگە بە جێگیربوونی هیچ هێزێکی دووژمنکار لە سووریا نادەین",
+    "title_en": "ئیسرائیل: رێگە بە جێگیربوونی هیچ هێزێکی دووژمنکار لە سووریا نادەین",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "48e6c02b5067283b",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868101",
+    "title": "وەزارەتی پەروەردە فرۆشگای کۆمەڵگە نێودەوڵەتییەکان بە کرێ دەدات",
+    "title_en": "وەزارەتی پەروەردە فرۆشگای کۆمەڵگە نێودەوڵەتییەکان بە کرێ دەدات",
+    "summary": "رووداو دیجیتاڵ وەزارەتی پەروەردەی حکومەتی هەرێمی کوردستان بڕیاری دا فرۆشگای کۆمەڵگە پەروەردەییە نێودەوڵەتییە حکومییەکان بە شێوەی زیادکردنی ئاشکرا بە کرێ بدات و رۆژی زیادکردنەکەش دیاریکراوە. بەپێی نووسراوێکی فەرمی کە رۆژی چوارشەممە، 19ـی ئابی 2026، لەلایەن بەڕێوەبەرایەتیی گشتیی دیوان لە وەزارەتی پەروەردە واژۆکراوە و بڵاوکراوەتەوە، زیادکردنە ئاشکراکە لە رۆژی پێنجشەممە 3-9-2026 لە بەڕێوەبەرایەتیی گشتیی باخچەی منداڵان و فێرکردنی بنەڕەتی بەڕێوەدەچێت. وەزارەتی پەروەردە چەند مەرجێکی بۆ ئەو کۆمپانیایانە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26aaadafb40fc4e3",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868099",
+    "title": "نەوتی عێراق لە رێگەی ئێرانەوە دەگوازرێتەوە تورکیا و ئەفغانستان",
+    "title_en": "نەوتی عێراق لە رێگەی ئێرانەوە دەگوازرێتەوە تورکیا و ئەفغانستان",
+    "summary": "رووداو دیجیتاڵ گواستنەوەی بەرهەمی نەوتی عێراق بۆ تورکیا و ئەفغانستان لە رێگەی هێڵی ئاسنی کرماشان دەستیپێکرد. حەسەن روستەمزادە، جێگری کاروباری ئابووریی پارێزگاری کرماشان رایگەیاند، بەشێکی بەرچاوی هەناردە و هاوردەی ئێران لە رێگەی دەریاییەوە دەکرێت، دۆخی ئەم دواییە، پێویستی کرد گرنگیی زیاتر بە رێگەی زەوینی و هێڵی ئاسنی بۆ بازرگانی بدرێت. بە گوتەی روستەمزادە، کرماشان توانایەکی تایبەتیی هەیە و دەتوانێت لە بوارەکانی هاوردە، هەناردە و گواستنەوەی کاڵا رۆڵێکی گرنگ ببینێت. جێگری کاروباری ئابووریی پارێزگار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "53bd9f5305fd4507",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304327",
+    "title": "ENQERE - Karkerên madenê li pey mafên xwe ne: ‘Çavên wan nabînin, guhên wan ker in’",
+    "title_en": "ENQERE - Karkerên madenê li pey mafên xwe ne: ‘Çavên wan nabînin, guhên wan ker in’",
+    "summary": "Enqere (Rûdaw) - 86 karkerên kana komirê ya Doruk Madencîlîkê ku niha girêdayî Yildizlar SS Holdingê ye, ji bo wergirtina heqdest, tezmînat û mafên xwe li Enqereyê çalakiyan dikin. Di nav wan karkeran de 10 karkerên Kurd jî hene. Her çi qas meha Hezîranê bi garantiya Wezareta Enerjiyê ya Tirkiyeyê soza dayîna heqdestên wan hatibe dayîn jî heta niha pereyên karkeran nehatine dayîn. Karker dixwazin dengê wan were bihîstin û mafên wan werin dayîn. Murat Çelîk yek ji wan karkeran e û wî 4 zarokên xw",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c8fe9a2abf4877f3",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304327",
+    "title": "ENQERE - Karkerên madenê li pey mafên xwe ne: ‘Çavên wan nabînin, guhên wan ker in’",
+    "title_en": "ENQERE - Karkerên madenê li pey mafên xwe ne: ‘Çavên wan nabînin, guhên wan ker in’",
+    "summary": "Enqere (Rûdaw) - 86 karkerên kana komirê ya Doruk Madencîlîkê ku niha girêdayî Yildizlar SS Holdingê ye, ji bo wergirtina heqdest, tezmînat û mafên xwe li Enqereyê çalakiyan dikin. Di nav wan karkeran de 10 karkerên Kurd jî hene. Her çi qas meha Hezîranê bi garantiya Wezareta Enerjiyê ya Tirkiyeyê soza dayîna heqdestên wan hatibe dayîn jî heta niha pereyên karkeran nehatine dayîn. Karker dixwazin dengê wan were bihîstin û mafên wan werin dayîn. Murat Çelîk yek ji wan karkeran e û wî 4 zarokên xw",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
