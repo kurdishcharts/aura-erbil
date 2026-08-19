@@ -242505,6 +242505,78 @@
     }
   },
   {
+    "id": "71c18dcf266d6cfa",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868092",
+    "title": "عارف روشدی: پەیوەندیمان لەگەڵ یەکێتی لە هەموو ئاستەکان هەیە و دانەبڕاوە",
+    "title_en": "عارف روشدی: پەیوەندیمان لەگەڵ یەکێتی لە هەموو ئاستەکان هەیە و دانەبڕاوە",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی دەستەی کارگێڕیی ئەنجوومەنی باڵای تێکۆشەرانی پارتی رایدەگەیێنێت، سەرباری ناکۆکییەکان، دابڕان لەنێوان ئەوان و یەکێتی رووی نەداوە. داواش لە یەکێتی دەکات پەرلەمان کارا بکەنەوە و دەڵێت: \"پارتی ئامادەیە تەنانەت کەسێکی بێلایەن ببێتە سەرۆکی پەرلەمان، تەنیا بۆ ئەوەی کێشەکان چارەسەر بکرێن.\" عارف روشدی، ئەندامی دەستەی کارگێڕیی ئەنجوومەنی باڵای تێکۆشەرانی پارتی دیموکراتی کوردستان، لە کاتی بەشداریکردنی لە بووڵتەنی کاژێر 12:00ـی تۆڕی میدیایی رووداو، کە سەنگەر عەبدولڕەحمان پێشکەشی دەکا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a49982cebba05e58",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868091",
+    "title": "پارتی نوێ ئامادەکاری بۆ کۆنگرەی گشتی دەکات",
+    "title_en": "پارتی نوێ ئامادەکاری بۆ کۆنگرەی گشتی دەکات",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی پارتی نوێ خشتەی کاتیی بەستنی کۆنگرەی پارتەکەی ئاشکرا کرد کە لە 22ـی ئابەوە دەستپێدەکات و دوای کۆتاییهاتنی کۆنگرەی ناوچەیی و پارێزگاکان، پارتەکە کۆنگرەی گشتی دەکات. زەینەل ئەمرە، گوتەبێژی پارتی نوێ، رایگەیاند لیستی ئەندامانی پارتەکە لە 26ـی ئابدا رادەگەیێندرێت و هەموو ئەو کەسانەی تاوەکو ئەو کاتە دەبنە ئەندام، مافی دەنگدانیان لە کۆنگرەدا دەبێت. بەپێی ئەو خشتەیەی کە راگەیێندراوە، هەڵبژاردنی سەرۆکی ناوچەکان لە 12ـی ئەیلوولی 2026 و هەڵبژاردنی سەرۆکی پارێزگاکانیش بۆ پارتەکە لە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6e2eaeb2ff157237",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304320",
+    "title": "Li Tirkiye û Bakurê Kurdistanê benzîn dîsa biha bû: ‘Bi kepçeyan ji me distînin’",
+    "title_en": "Li Tirkiye û Bakurê Kurdistanê benzîn dîsa biha bû: ‘Bi kepçeyan ji me distînin’",
+    "summary": "Enqere (Rûdaw) - Hikûmeta Tirkiyeyê baca taybet a li ser sotemeniyê ku serê her lîtreyê derdora 7 lîre û 74 kuruşî bû ji bo meha Tebaxê bi temamî rakir. Meha Îlonê jî hikûmet dê wekî bac 3 lîreyan bistîne lê tevî hemû tedbîrên hatine standin jî bihayê sotemeniyê her roj zêdetir dibe. Di nava salekê de benzînê serê her lîtreyê 42-43 sentî biha bûye. Di nava salekê de xerca depoyeke 50 lîtreyî jî herî kêm serê her depoyê 20 dolarî zêde bûye. Li Enqereya paytexta Tirkiyeyê niha lîtreya benzînê bi 7",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5006539c9e85471d",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1304320",
+    "title": "Li Tirkiye û Bakurê Kurdistanê benzîn dîsa biha bû: ‘Bi kepçeyan ji me distînin’",
+    "title_en": "Li Tirkiye û Bakurê Kurdistanê benzîn dîsa biha bû: ‘Bi kepçeyan ji me distînin’",
+    "summary": "Enqere (Rûdaw) - Hikûmeta Tirkiyeyê baca taybet a li ser sotemeniyê ku serê her lîtreyê derdora 7 lîre û 74 kuruşî bû ji bo meha Tebaxê bi temamî rakir. Meha Îlonê jî hikûmet dê wekî bac 3 lîreyan bistîne lê tevî hemû tedbîrên hatine standin jî bihayê sotemeniyê her roj zêdetir dibe. Di nava salekê de benzînê serê her lîtreyê 42-43 sentî biha bûye. Di nava salekê de xerca depoyeke 50 lîtreyî jî herî kêm serê her depoyê 20 dolarî zêde bûye. Li Enqereya paytexta Tirkiyeyê niha lîtreya benzînê bi 7",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
