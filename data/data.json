@@ -240831,6 +240831,96 @@
     }
   },
   {
+    "id": "a667d510b5b04d68",
+    "url": "https://www.rudaw.net/english/categories/syria/1078893",
+    "title": "Syria, IAEA make significant progress on resolving past nuclear file",
+    "title_en": "Syria, IAEA make significant progress on resolving past nuclear file",
+    "summary": "ERBIL, Kurdistan Region - The Syrian government and the International Atomic Energy Agency (IAEA) on Tuesday announced a \"significant advance\" in efforts to resolve longstanding safeguards on issues linked to undeclared nuclear activities under the former regime, following a two-day visit to the country by the head of the UN nuclear agency. Following IAEA Director General Rafael Mariano Grossi’s visit to Syria, the two sides released a statement marking the visit as “the most significant advance",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0a71d17f670ec5b5",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868030",
+    "title": "قالیباف لە بەغدا لەگەڵ سەرکردەکانی عێراق کۆدەبێتەوە",
+    "title_en": "قالیباف لە بەغدا لەگەڵ سەرکردەکانی عێراق کۆدەبێتەوە",
+    "summary": "رووداو دیجیتاڵ سەرۆکی پەرلەمانی ئێران دەگاتە بەغدا، لەگەڵ سەرکردەکانی عێراق کۆدەبێتەوە و پەیوەندییەکانی هەردوو وڵات تاوتوێ دەکەن. هەرێم کەمال ئاغا، سەرۆکی فراکسیۆنی یەکێتیی نیشتمانیی کوردستان لە پەرلەمانی عێراق ئەمڕۆ بە تۆڕی میدیایی رووداوی راگەیاند، بەیانی ئەمڕۆ محەممەد باقر قالیباف، سەرۆکی پەرلەمان ئێران بە سەردانێک دەگاتە بەغدا. راشیگەیاند، \"کاژێر 9:30 بەیانی لە هۆڵی دەستووری پەرلەمانی عێراق لەگەڵ هەیبەت حەلبووسی، سەرۆک پەرلەمانی عێراق و سەرۆک فراکسیۆنەکانی نێو پەرلەمان پێشوازی لێدەکەن و دوای",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a8061d9f04e3ad99",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304303",
+    "title": "Li Rihayê qeza: 3 mirî û 2 birîndar",
+    "title_en": "Li Rihayê qeza: 3 mirî û 2 birîndar",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Bêrecûkê ya Rihaya Bakurê Kurdistanê du otomobîlan li hev xist. Di vê qezayê de 3 kes mirin û 2 kes jî birîndar bûn. Bûyer derengê şeva borî li ser rêya Riha û Bêrecûkê qewimî. Otomobîla ku ajokarê wê Salîh Akgoz (49) bû û otomobîla ku ajokarê Mehmet Korkmaz (19) bû li hev xist. Li ser agahdarkirina xelkê derdorê tîmên tenduristiyê, cendirme û tîmên parastinê yên sivîl çûn cihê bûyerê. Tîmên tenduristiyê diyar kir ku rêwiyên bi navê Yasîn Korkmaz (18) û Huseyîn Korkma",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a284acfe903c989d",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304302",
+    "title": "Li Hindistanê agir bi otelekê ket û 9 kes mirin",
+    "title_en": "Li Hindistanê agir bi otelekê ket û 9 kes mirin",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Kolkatayê yê li rojhilatê Hindistanê, di şewata li otelekê de herî kêm 9 kes mirin û gelek kes jî birîndar bûn. Şewatê vê sibehê li bajarê Kolkatayê yê paytextê eyaleta Bengala Rojava ya Hindistanê dest pê kir. Li gorî nûçeyên medyaya herêmî, ji ber agirê ku bi otelê ketiye gelek kes di hundirê avahiyê de asê mane. Ajansa nûçeyan a Press Trust of Indiayê (PTI) li ser zarê birêvebirekî ragihand ku di şewatê de 9 kes mirine. Heman rayedarî diyar kir ku egera zêdebûna hej",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1c994fe51a8c8802",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304302",
+    "title": "Li Hindistanê agir bi otelekê ket û 9 kes mirin",
+    "title_en": "Li Hindistanê agir bi otelekê ket û 9 kes mirin",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Kolkatayê yê li rojhilatê Hindistanê, di şewata li otelekê de herî kêm 9 kes mirin û gelek kes jî birîndar bûn. Şewatê vê sibehê li bajarê Kolkatayê yê paytextê eyaleta Bengala Rojava ya Hindistanê dest pê kir. Li gorî nûçeyên medyaya herêmî, ji ber agirê ku bi otelê ketiye gelek kes di hundirê avahiyê de asê mane. Ajansa nûçeyan a Press Trust of Indiayê (PTI) li ser zarê birêvebirekî ragihand ku di şewatê de 9 kes mirine. Heman rayedarî diyar kir ku egera zêdebûna hej",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
