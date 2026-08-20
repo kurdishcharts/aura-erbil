@@ -245043,6 +245043,24 @@
     }
   },
   {
+    "id": "371280265b7f8e80",
+    "url": "https://www.rudaw.net/english/categories/world/1078912",
+    "title": "18 US troops killed, 757 wounded since start of Iran war, Pentagon says",
+    "title_en": "18 US troops killed, 757 wounded since start of Iran war, Pentagon says",
+    "summary": "ERBIL, Kurdistan Region - More than a dozen American service members have been killed since the outbreak of the Iran war in late February, a US defense department database showed Thursday, with more than 750 others wounded. This comes as US President Donald Trump on the same day vowed to launch “the most crushing economic operation ever” against Tehran. The Department’s Defense Casualty Analysis System (DCAS) showed the combined death toll across its Operation Epic Fury and Overseas Operations c",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
