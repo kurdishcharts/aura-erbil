@@ -245673,6 +245673,132 @@
     }
   },
   {
+    "id": "e2cbf18afbf26a74",
+    "url": "https://www.rudaw.net/english/categories/iran/1078914",
+    "title": "Iran executes another January protester",
+    "title_en": "Iran executes another January protester",
+    "summary": "ERBIL, Kurdistan Region - Iran’s judiciary on Thursday executed another protester in connection with a case involving several people accused of killing four members of the security forces during nationwide protests in January, when the Islamic Revolutionary Guard Corps (IRGC) and other security forces killed thousands of demonstrators. Ghaem Hosseini, also known as Arian, was hanged for his alleged involvement in the deaths of four members of the security forces in Shahid Alikhani Square in Isfa",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9cc054c7a65acc0a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868202",
+    "title": "قەیرانی کارەبا بازاڕی پانێڵی وزەی خۆر لە رۆژئاوای کوردستان گەرم دەکات",
+    "title_en": "قەیرانی کارەبا بازاڕی پانێڵی وزەی خۆر لە رۆژئاوای کوردستان گەرم دەکات",
+    "summary": "رووداو دیجیتاڵ بەهۆی خراپیی دۆخی کارەبای نیشتمانی و گرانیی بەرچاوی نرخی ئەمپێری مۆلیدە ئەهلییەکان، هاونیشتمانیانی شاری قامشلۆ لە رۆژئاوای کوردستان، بەشێوەیەکی فراوان روویان لە کڕینی پانێڵی وزەی خۆر کردووە. ئەم دۆخە بووەتە هۆی ئەوەی هەندێک لە خێزانەکان، بۆ دابینکردنی تێچووی سیستمی وزەی خۆر، ناچاربن پەنا بۆ فرۆشتنی زێڕ و خشڵەکانیان یان وەرگرتنی قەرز ببەن. فادی جەردۆ، کە بازرگانێکی پانێڵی وزەی خۆرە لە قامشلۆ، بە تۆڕی میدیایی رووداوی گوت، \"لە ماوەی 3 مانگی رابردوودا، خواستێکی ئێجگار زۆر لەسەر پانێڵی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0eb23ad9948ea29a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868203",
+    "title": "وادەی گۆڕینی مۆدێلی ئۆتۆمبێلی هاوردەکراو دوو مانگ دواخرا",
+    "title_en": "وادەی گۆڕینی مۆدێلی ئۆتۆمبێلی هاوردەکراو دوو مانگ دواخرا",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ناوخۆی هەرێمی کوردستان، بەهۆی ئاڵۆزییەکانی ناوچەکە و کاریگەرییەکانی لەسەر جووڵەی بازرگانیی نێودەوڵەتی، بڕیاری دا بە درێژکردنەوەی وادەی هاوردەکردنی مۆدێلی ئۆتۆمبێل، ئەمەش وەک کارئاسانییەک بۆ بازرگانان و کاسبکارانی ئەو بوارە. بەپێی رێنماییەکی وەزارەتی ناوخۆ، کە ئەمڕۆ پێنجشەممە 20ی ئابی 2026، بە واژۆی رێبەر ئەحمەد، وەزیری ناوخۆ دەرچووە، یەکەم هەموارکردنەوە لە رێنمایی ژمارە (14)ی ساڵی 2025ی تایبەت بە (مەرجەکانی سەلامەتی و تۆمارکردنی ئۆتۆمبێلی هاوردەکراو) کرا. بەپێی هەموارە نو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c4f6acfa77d6981",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1304354",
+    "title": "Roman û helbest: Pêwendiyeke çawa di navbera wan de heye?",
+    "title_en": "Roman û helbest: Pêwendiyeke çawa di navbera wan de heye?",
+    "summary": "Çend sal berê, min gotarek li ser pêwendiya di navbera roman û helbestê de nivîsandibû. Di wê nivîsê de ez li ser vê baweriyê rawestiyabûm ku roman û helbest, her çi qas di wêjeyê de du cureyên cuda bin jî di navbera wan de pêwendiyeke xurt û hevseng heye. Wê demê, hinek kes li dijî vê nêrînê derketin. Ji bo wan roman roman e û helbest helbest e. Roman bi çîrok, karakter û bûyeran re têkildar e. Helbest jî ji hest, rîtm, wêne û peyvên ku di navbera xwe de pêwendiyekê çêdikin pêk tê lê ez hîn jî ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f05c861b2138d1b6",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304353",
+    "title": "Li Almanyayê polîsan zarokekî 14 salî birîndar kir: Navenda Kurdan daxuyanî da",
+    "title_en": "Li Almanyayê polîsan zarokekî 14 salî birîndar kir: Navenda Kurdan daxuyanî da",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Munîhê yê Almanyayê polîsan gule berdan xortekî 14 salî. Polîsan gotiye qey çeka lîstikê ya di destê wî de çeka rastîn e. Polîsan eşkere kir ku tevî hişyariya \"çekê deyne erdê\" jî xortî çeka xwe bilind kiriye û berê çekê daye wan, ji ber vê yekê wan guleyek berdayê. Malbata wî xortî jî îdia dike ku polîs rastiyê nabêjin û wî di dema bûyerê de gotiye \"ev lîstik e\" û çeka xwe avêtiye erdê. Hat ragihandin ku Birêvebiriya Ewlehiyê ya Bavyerayê li ser bikaranîna çekê lêkolî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c5973d48e5cb22f1",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1304354",
+    "title": "Roman û helbest: Pêwendiyeke çawa di navbera wan de heye?",
+    "title_en": "Roman û helbest: Pêwendiyeke çawa di navbera wan de heye?",
+    "summary": "Çend sal berê, min gotarek li ser pêwendiya di navbera roman û helbestê de nivîsandibû. Di wê nivîsê de ez li ser vê baweriyê rawestiyabûm ku roman û helbest, her çi qas di wêjeyê de du cureyên cuda bin jî di navbera wan de pêwendiyeke xurt û hevseng heye. Wê demê, hinek kes li dijî vê nêrînê derketin. Ji bo wan roman roman e û helbest helbest e. Roman bi çîrok, karakter û bûyeran re têkildar e. Helbest jî ji hest, rîtm, wêne û peyvên ku di navbera xwe de pêwendiyekê çêdikin pêk tê lê ez hîn jî ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4ecd39ab68ef74d9",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304353",
+    "title": "Li Almanyayê polîsan zarokekî 14 salî birîndar kir: Navenda Kurdan daxuyanî da",
+    "title_en": "Li Almanyayê polîsan zarokekî 14 salî birîndar kir: Navenda Kurdan daxuyanî da",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Munîhê yê Almanyayê polîsan gule berdan xortekî 14 salî. Polîsan gotiye qey çeka lîstikê ya di destê wî de çeka rastîn e. Polîsan eşkere kir ku tevî hişyariya \"çekê deyne erdê\" jî xortî çeka xwe bilind kiriye û berê çekê daye wan, ji ber vê yekê wan guleyek berdayê. Malbata wî xortî jî îdia dike ku polîs rastiyê nabêjin û wî di dema bûyerê de gotiye \"ev lîstik e\" û çeka xwe avêtiye erdê. Hat ragihandin ku Birêvebiriya Ewlehiyê ya Bavyerayê li ser bikaranîna çekê lêkolî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
