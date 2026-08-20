@@ -246141,6 +246141,96 @@
     }
   },
   {
+    "id": "7d7f4c0ab2d04182",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078917",
+    "title": "Iraq's regulator closes Korek Telecom offices in Baghdad amid contractual dispute",
+    "title_en": "Iraq's regulator closes Korek Telecom offices in Baghdad amid contractual dispute",
+    "summary": "ERBIL, Kurdistan Region - Iraq's state-run media regulator, acting in coordination with the country's primary domestic intelligence agency, shut down multiple offices belonging to Korek Telecom in Baghdad on Thursday, citing measures against the Erbil-based company over its alleged violations of contractual obligations and financial commitments. The Communications and Media Commission (CMC) said in a statement that it carried out \"field measures,\" closing \"a number of Korek Telecom's sites in Ba",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c1343b93015301e8",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868215",
+    "title": "سەرۆک بارزانی نیشانی ئاستبەرزی رێزلێنانی پاپای ڤاتیکانی پێ بەخشرا",
+    "title_en": "سەرۆک بارزانی نیشانی ئاستبەرزی رێزلێنانی پاپای ڤاتیکانی پێ بەخشرا",
+    "summary": "رووداو دیجیتاڵ لەسەر داوای کاردیناڵ لویس ساکۆ و وەک رێزێک بۆ رۆڵی مێژوویی و مرۆییەکەی، نیشانی (ئاستبەرزی رێزلێنانی پاپای ڤاتیکان) بەخشرایە سەرۆک بارزانی. بەگوێرەی راگەیێندراوی بارەگای بارزانی، کە ئەمڕۆ پێنجشەممە، 20ی ئابی 2026 بڵاوکراوەتەوە، کاردیناڵ لویس ساکۆ، کاردیناڵی فەخریی کلدانەکان پێزانینێکی زۆری بۆ رۆڵی سەرۆک بارزانی هەبووە لە قووڵکردنەوەی بەهاکانی پێکەوەژیان، مرۆڤدۆستی و چەسپاندنی ئاشتی لە کوردستان و ناوچەکە. ئەمڕۆ پێنجشەممە 20ی ئابی 2026، سەرۆک مەسعود بارزانی پێشوازی لە لویس ساکۆ، کارد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "62e63d0d2a590f71",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1868217",
+    "title": "ژیریی دەستکرد بووەتەهۆی دەرکردنی زیاتر لە 175 هەزار کارمەند لە کۆمپانیا تەکنەلۆجییەکان",
+    "title_en": "ژیریی دەستکرد بووەتەهۆی دەرکردنی زیاتر لە 175 هەزار کارمەند لە کۆمپانیا تەکنەلۆجییەکان",
+    "summary": "رووداو دیجیتال لە نیوەی یەکەمی ساڵی 2026ـدا زیاتر لە 175 هەزار کارمەند لە کۆمپانیا زەبەلاحەکانی تەکنەلۆجیا کاریان لەدەستداوە. زۆربەی ئەم کۆمپانیایانە هۆکاری دەرکردنی کارمەندەکانیان دەگەڕێننەوە بۆ ئەوەی دەیانەوێ پارەی زیاتر تەرخان بکەن بۆ پەرەپێدانی تەکنەلۆجیای ژیریی دەستکرد. کۆمپانیای ئۆراکل ( ) کە کۆمپانیایەکی گەورەی بواری نەرمەکاڵا (سۆفتوێر)ـە لە ئەمریکا، زۆرترین کارمەندی دەرکردووە. لە راپۆرتی دارایی کۆمپانیاکەدا دەرکەوتووە، لە یەک ساڵدا 21 هەزار کارمەندی دەرکردووە کە دەکاتە 13٪ـی کۆی کارمەندە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "afac37dd402dd01d",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868216",
+    "title": "دانیشتووانی گەڕەکێکی بەکرەجۆ لە تێکچوونی شەقامەکەیان نیگەرانن",
+    "title_en": "دانیشتووانی گەڕەکێکی بەکرەجۆ لە تێکچوونی شەقامەکەیان نیگەرانن",
+    "summary": "رووداو دیجیتاڵ لە گەڕەکی بەکرەجۆی تازە لە شاری سلێمانی، بەهۆی چاکنەکردنەوەی قیری کۆڵانێک کە بۆ چاککردنی ئاوەڕۆی کۆڵانەکە هەڵکەندراوە، دانیشتووانی ناوچەکە تووشی گرفت بوون. ئەو کۆڵانە کە دەکەوێتە بەرامبەر کتێبخانەی بەکرەجۆی تازە، چەند مانگێکە بە هەڵکەندراوی جێهێڵدراوە و کارەکانی تەواو نەکراون. دانیشتووانی کۆڵانەکە ئاماژە بەوە دەکەن، دوای ئەوەی ئاوەڕۆی کۆڵانەکە لە ئاداری ئەمساڵ چاککرا، شارەوانی پڕۆژەکەی جێهێشتووە. وەک دانیشتووانی ناوچەک دەڵێن، کاتێکیش سەردانی شارەوانییان کردووە، پێیان گوتراوە کە \"پ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4c5f1560502337ce",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304359",
+    "title": "Gelo dê çi bi çekên ku PKK radestî Tirkiyeyê bike were?",
+    "title_en": "Gelo dê çi bi çekên ku PKK radestî Tirkiyeyê bike were?",
+    "summary": "Hewlêr (Rûdaw) - Çekên ku PKKyê ya ku xwe fesix kiriye dê radest bike, dê ji bo Wezareta Parastinê ya Tirkiyeyê werin veguhastin. Tê plankirin ku çekên li gorî pîvanên NATOyê yên guncav bixin nav çekên Hêzên Çekdar ên Tirkiyeyê (TSK) û yên ne guncav jî werin veguhertin. Çekên mayî jî dê werin firotin an jî guherandin. Li ser bikaranîna çekên ku PKK dê radestî Tirkiyeyê bike planek hatiye amadekirin. Li gorî nûçeya rojnameya Yenî Şafakê, bi armanca \"rêgiriya li veguhastina çekan a ji bo herêmên c",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
