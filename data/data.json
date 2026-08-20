@@ -244989,6 +244989,60 @@
     }
   },
   {
+    "id": "9215f6bb6bdaacf4",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078911",
+    "title": "36 Kurdish migrants found in Libya, set for repatriation: Official",
+    "title_en": "36 Kurdish migrants found in Libya, set for repatriation: Official",
+    "summary": "ERBIL, Kurdistan Region - Three dozen migrants from the Kurdistan Region who entered Libya illegally have been located and are expected to be returned to Iraq soon, Baghdad's top diplomat in Tripoli told Rudaw, adding that their repatriation would bring the total number of Iraqis returned from Libya since late 2023 to 388. \"After high-level coordination over the past week with the relevant Libyan authorities in the Government of National Unity [GNU] in Tripoli, the Iraqi embassy has obtained inf",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bfaf53deaa27b80a",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304347",
+    "title": "Tirkiyeyê êrişa Îsraîlê ya li ser baregeheke Sûriyeyê şermezar kir",
+    "title_en": "Tirkiyeyê êrişa Îsraîlê ya li ser baregeheke Sûriyeyê şermezar kir",
+    "summary": "Hewlêr (Rûdaw) - Wezareta Parastinê ya Tirkiyeyê bertek nîşanî êrişa Îsraîlê ya li ser Baregeha Asmanî ya Ebû Zuhurê ya Sûriyeyê da û ev êriş şermezar kir. Wezaretê diyar kir ku ew êriş serwerî û yekparçeyiya axa wî welatî bin pê dike û eşkere kir ku “di dema êrişê de ti şandeya leşkerî ya Tirk li wê baregeha asmanî nebûye.” “Êriş li dijî aramiya Sûriyeyê ye” Wezareta Parastinê ya Tirkiyeyê li ser êrişa Îsraîlê ya li ser Baregeha Asmanî ya Ebû Zuhurê ya li Sûriyeyê daxuyaniyek belav kir. Wezaret",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cd236562cf797d34",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304347",
+    "title": "Tirkiyeyê êrişa Îsraîlê ya li ser baregeheke Sûriyeyê şermezar kir",
+    "title_en": "Tirkiyeyê êrişa Îsraîlê ya li ser baregeheke Sûriyeyê şermezar kir",
+    "summary": "Hewlêr (Rûdaw) - Wezareta Parastinê ya Tirkiyeyê bertek nîşanî êrişa Îsraîlê ya li ser Baregeha Asmanî ya Ebû Zuhurê ya Sûriyeyê da û ev êriş şermezar kir. Wezaretê diyar kir ku ew êriş serwerî û yekparçeyiya axa wî welatî bin pê dike û eşkere kir ku “di dema êrişê de ti şandeya leşkerî ya Tirk li wê baregeha asmanî nebûye.” “Êriş li dijî aramiya Sûriyeyê ye” Wezareta Parastinê ya Tirkiyeyê li ser êrişa Îsraîlê ya li ser Baregeha Asmanî ya Ebû Zuhurê ya li Sûriyeyê daxuyaniyek belav kir. Wezaret",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
