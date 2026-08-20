@@ -244377,6 +244377,204 @@
     }
   },
   {
+    "id": "86c80dcac1e13f72",
+    "url": "https://www.rudaw.net/english/categories/iran/1078909",
+    "title": "Iranian authorities detain Kurdish language activist, protester",
+    "title_en": "Iranian authorities detain Kurdish language activist, protester",
+    "summary": "ERBIL, Kurdistan Region - Iranian security forces detained a young Kurdish media and language activist and transferred him to an unknown location, according to a Kurdish rights group, as Iran intensifies its crackdown on civilians in a series of sweeping arbitrary detentions. Abed Alizadeh, a resident of Sharifabad residential neighborhood of the city of Takab in West Azerbaijan Province, was arbitrarily arrested by authorities through a judicial warrant at 8 pm local time on Wednesday, a source",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7c0434cf22034397",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868150",
+    "title": "لە هەولێر نرخی بەنزینی نۆرماڵ بەرزبووەتەوە و لە سلێمانی جێگیرە",
+    "title_en": "لە هەولێر نرخی بەنزینی نۆرماڵ بەرزبووەتەوە و لە سلێمانی جێگیرە",
+    "summary": "رووداو دیجیتاڵ نرخی بەنزینی نۆرماڵ لە هەولێر زیاتر بەرزبووەوە. گوتەبێژی بەنزینخانەکانی سلێمانی دەڵێت، لای ئەوان نرخ جێگیرە و گۆڕانکاری بەسەردا نەهاتووە . کەمیی بەنزین و بەرزبوونەوەی نرخەکەی لە هەرێمی کوردستان زیاتر لە دوو مانگە بەردەوامە. بەگوێرەی بەدواداچوونی رووداو، بەنزینی نۆرماڵی بازرگانی لە هەولێر لە زۆرینەی بەنزینخانەکان نەماوە، بەڵام دابەشکردنی بەنزینی 750 دیناری بەردەوامە. بەگوێرەی زانیارییەکانی رووداو، ئەمڕۆ لە سنووری سلێمانی لە 16 بەنزینخانە، لە دهۆک 12 بەنزینخانە و لە هەڵەبجە لە دوو ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b80ffbb6b956cef",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868154",
+    "title": "سۆران؛ 400 قوتابی 17 ساڵە لەنێو کەرەڤانەدا دەخوێنن",
+    "title_en": "سۆران؛ 400 قوتابی 17 ساڵە لەنێو کەرەڤانەدا دەخوێنن",
+    "summary": "رووداو دیجیتاڵ لە نێوجەرگەی گەڕەکێکی قەرەباڵخی قەزای سۆران، قوتابخانەیەک هەیە کە ئەگەر لۆگۆ و ناونیشانەکەی لێبکرێتەوە، کەس باوەڕ ناکات ئەمە شوێنی خوێندن بێت. 400 قوتابیی گەڕەکی ئیسقەلا ماوەی 17 ساڵە لەنێو چەند کەرەڤانەیەکدا دەخوێنن کە ئێستا مەترسیی لەسەر ژیانیان دروستکردووە. سەنار محەمەدئەمین، باوکی یەکێک لە قوتابییەکانە و دەڵێت: \"هەمووی تەقیوە، بارانی تێدا دێتە خوارەوە. بەڕاستی جێگەی ئەوە نییە ئەمساڵ قوتابی تێیدا بخوێنن. چەندین ساڵە خۆمان بێدەنگ کردووە و چاوەڕێی حکومەت بووین چاکی بکات. ناکرێت ق",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "643ccdf771dff3e9",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868155",
+    "title": "لە ئیلام کچێکی 20 ساڵ لە سێدارە درا",
+    "title_en": "لە ئیلام کچێکی 20 ساڵ لە سێدارە درا",
+    "summary": "رووداو دیجیتاڵ بەرەبەیانی ئەمڕۆ لە زیندانی ناوەندیی ئیلام، سزای سێدارە بەسەر کچێکی تەمەن 20 ساڵدا جێبەجێ کرا کە دوو ساڵ بەر لە ئێستا و لە تەمەنی 18 ساڵیدا بە تۆمەتی کوشتنی ئامۆزاکەی دەستبەسەر کرابوو. رۆژی پێنجشەممە، 20ی ئابی 2026، رێکخراوەکانی مافی مرۆڤ لە رۆژهەڵاتی کوردستان بڵاویان کردەوە، بەرەبەیانی ئەمڕۆ سزای لە سێدارەدانی دونیا محەممەدی، خەڵکی شاری ئیوان لە پارێزگای ئیلام جێبەجێ کرا. بەگوێرەی رێکخراوەکانی مافی مرۆڤ، دونیا محەممەدی تەمەنی 20 ساڵ بووە بە تۆمەتی کوشتنی ئامۆزایەکی خۆی سزای لە سێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87278903bc2e3446",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868152",
+    "title": "گۆڕی وەزیرێکی پێشووی تورکیا هەڵدرایەوە",
+    "title_en": "گۆڕی وەزیرێکی پێشووی تورکیا هەڵدرایەوە",
+    "summary": "رووداو دیجیتاڵ گۆڕی عارف ئەحمەد دەنیزئۆڵگون، وەزیری پێشووتری گواستنەوەی تورکیا کە رێبەری پێشووی جەماعەتی سولەیمانچییەکانیش بوو، دوای 10 ساڵ بە مەبەستی لێکۆڵینەوە هەڵدرایەوە. رێبەری پێشووی جەماعەتی سولەیمانچییەکان کە ساڵی 2016 لە ماڵەکەی خۆیدا لە ئیستەنبووڵ کۆچی دوایی کردبوو، لە چوارچێوەی لێکۆڵینەوە لە مردنە گوماناوییەکەی، دوای 10 ساڵ گۆڕەکەی لە گۆڕستانی کاراجائەحمەدی ئیستەنبووڵ هەڵدرایەوە. لە رێی ئەو نموونانەی وەرگیراون، لێکۆڵینەوە لەوە دەکرێت کە ئایا دەنیزئۆڵگون بە شێوەیەکی ئاسایی کۆچی دوایی کر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cafd6a14b77fcfb",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868153",
+    "title": "حکومەت و پەرلەمانی ئێران لەسەر پرۆژەیاسایەک ناکۆکیان هەیە",
+    "title_en": "حکومەت و پەرلەمانی ئێران لەسەر پرۆژەیاسایەک ناکۆکیان هەیە",
+    "summary": "رووداو دیجیتاڵ حکومەتی ئێران بە فەرمی دژایەتی خۆی بۆ پرۆژەیاساکەی پەرلەمانی ئەو وڵاتە بە ناوی \"پرۆژەیاسای بەرەنگاربوونەوەی دزەکردن\" راگەیاند و هۆشداری دەدات، کە پەسندکردنی لێکەوتەی نەرێنی دەبێت و دەبێتە هۆی کۆچی بەکۆمەڵی دەستەبژێرەکان. مەجید ئەنساری، جێگری سەرۆککۆماری ئێران بۆ کاروباری یاسایی، رۆژی چوارشەممە بە میدیای وڵاتەکەی رایگەیاند، پڕۆژەیاسای پەرلەمان بۆ بەرەنگاربوونەوەی دزەکردنی دەزگا هەواڵگرییە بیانییەکان، پێشێلکارییەکی روونی مافەکانی هاووڵاتیان، ئازادییە تاکەکەسییەکان و دەستووری وڵاتە. ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3523a0c1881f8dc5",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1868151",
+    "title": "قەرزەکانی ئەمریکا 40 تریلیۆن دۆلاری تێپەڕاند",
+    "title_en": "قەرزەکانی ئەمریکا 40 تریلیۆن دۆلاری تێپەڕاند",
+    "summary": "رووداو دیجیتاڵ قەرزی گشتیی ئەمریکا، بۆ یەکەمجار 40 تریلیۆن دۆلاری تێپەڕاند، ئەمەش بووەتە هۆی دەرکردنی هۆشداریی نوێ لەبارەی ئەوەی کە قەیرانێکی دارایی لە ئارادایە، چونکە تێچووەکانی بەرنامەکانی چاودێریی کۆمەڵایەتی و سوودی قەرزەکان زۆر لە داهات زیاترن. وەزارەتی گەنجینەی ئەمریکا رایگەیاند، کۆی قەرزی گشتیی وڵاتەکە گەیشتووەتە 40.050 تریلیۆن دۆلار. ئەمە دوای ئەوە دێت کە قەرزەکە لە کەمتر لە دەیەیەکدا دوو هێندە زیاتر بووە، بەتایبەتی کە لە مانگی یەکی ساڵی 2017ـدا نزیکەی 19.95 تریلیۆن دۆلار بوو. گرووپەکانی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "98483e0e1ba724e8",
+    "url": "https://www.rudaw.net/sorani/categories/health/1868149",
+    "title": "توێژینەوەیەک: تەمەنی زووپێگەیشتنی کچان لە جیهاندا کەم بووەتەوە",
+    "title_en": "توێژینەوەیەک: تەمەنی زووپێگەیشتنی کچان لە جیهاندا کەم بووەتەوە",
+    "summary": "رووداو - تەندروستی بەپێی توێژینەوەیەک لە ئەمریکا، خێزانەکان دیاردەیەک بەدی دەکەن کچەکانیان لە تەمەنێکی بچووکدا (تەنانەت لە خوار 10 ساڵی) نیشانەکانی باڵخبوونیان تێدا دەردەکەوێت. د. شانتا سوان، پسپۆڕی پزیشکی ژینگە لە کۆلێژی پزیشکیی سینای لە نیویۆڕک، لەئەنجامی توێژینەوەی هەزاران منداڵ دەریخستووە، ئەو ماددە کیمیاییانەی ناو بووتڵی پلاستیک، قاپی پلاستیکی گەرمکراو، و شامپۆ و کرێمەکان، جەستەی منداڵ هەڵدەخەڵەتێنن، وا لە جەستەی کچەکە دەکەن زووتر لە تەمەنی خۆی گەشە بکات. د. ئەلیزابێس جێسپرۆم، پزیشکی پسپۆڕی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d44fa13314032f9d",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868156",
+    "title": "دوای 32 ساڵ پەروین بوڵدان داوای لێکۆڵینەوە لە کوژرانی هاوژینەکەی دەکات",
+    "title_en": "دوای 32 ساڵ پەروین بوڵدان داوای لێکۆڵینەوە لە کوژرانی هاوژینەکەی دەکات",
+    "summary": "رووداو دیجیتاڵ پەروین بوڵدان، بریکاری سەرۆکی پەرلەمانی تورکیا و ئەندامی شاندی ئیمراڵیی دەم پارتی، قۆناخێکی نوێی یاسایی بۆ ئاشکراکردنی راستییەکانی پشت تیرۆرکردنی هاوژینەکەی و دوو بازرگانی دیکەی کورد دەستپێدەکات و داوا دەکات بکوژانی راستەقینە سزا بدرێن. بوڵدان رۆژی دووشەممەی رابردوو 17-8-2026 لە تۆڕی کۆمەڵایەتی ئێکس پەیامێکی لەمبارەیەوە بڵاوکردەوە و رایگەیاند، لە رێی پارێزەرەکەیەوە داواکارییەکی فەرمیی ئاراستەی وەزارەتی دادی تورکیا کردووە بۆ ئەوەی دووبارە لێکۆڵینەوە لە دۆسیەی تیرۆرکردنی ساڤاش بوڵدا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "735b6591f72b3f27",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304343",
+    "title": "Buldan: Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire",
+    "title_en": "Buldan: Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire",
+    "summary": "Hewlêr (Rûdaw) - Pervîn Buldanê got, “Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire.” Endama Şandeya Îmraliyê ya DEM Partiyê û Parlamentera Wanê Pervîn Buldan li Taksîma Stenbolê li otelekê li gel nûnerên medyayê civiya. Pervîn Buldanê di civînê de li ser pêvajoya çareseriyê, \"yasaya çarçoveyê\" û daxuyaniyên Abdullah Ocalan agahî dan. Buldanê diyar kir ku piştî civîna yekem a desteya bilind, dê pêvajoya avakirina desteyên jêrîn dest pê bike û got: \"Yek ji van desteyên jêrîn, dê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "58c18fe0ce8d5c69",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304343",
+    "title": "Buldan: Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire",
+    "title_en": "Buldan: Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire",
+    "summary": "Hewlêr (Rûdaw) - Pervîn Buldanê got, “Birêz Ocalan dê di Desteya Bêçekbûn û Siyasîbûnê de cih bigire.” Endama Şandeya Îmraliyê ya DEM Partiyê û Parlamentera Wanê Pervîn Buldan li Taksîma Stenbolê li otelekê li gel nûnerên medyayê civiya. Pervîn Buldanê di civînê de li ser pêvajoya çareseriyê, \"yasaya çarçoveyê\" û daxuyaniyên Abdullah Ocalan agahî dan. Buldanê diyar kir ku piştî civîna yekem a desteya bilind, dê pêvajoya avakirina desteyên jêrîn dest pê bike û got: \"Yek ji van desteyên jêrîn, dê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
