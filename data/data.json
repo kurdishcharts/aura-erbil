@@ -246573,6 +246573,42 @@
     }
   },
   {
+    "id": "c85e806d42732107",
+    "url": "https://www.rudaw.net/english/categories/interview/1078921",
+    "title": "Pro-Kurdish party expects PKK-related law to be implemented in weeks",
+    "title_en": "Pro-Kurdish party expects PKK-related law to be implemented in weeks",
+    "summary": "ERBIL, Kurdistan Region - The recently-passed law in the Turkish parliament, which allows some Kurdistan Workers' Party (PKK) fighters to be reintegrated into the society, is likely be enforced in the coming weeks, said the leader of a pro-Kurdish party on Thursday. Tuncer Bakirhan, co-chair of the pro-Kurdish Peoples' Equality and Democracy Party (DEM Party), told Rudaw's Shawkat Harki that it is not clear when the PKK fighters will return to Turkey but expected the framework law, which was pas",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bb65d048cd76847d",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868229",
+    "title": "ژنێک لە نیویۆرک بە تۆمەتی پلاندانان بۆ هێرشکردنە سەر باڵەخانەی ئەنجوومەنی نوێنەران دەستگیرکرا",
+    "title_en": "ژنێک لە نیویۆرک بە تۆمەتی پلاندانان بۆ هێرشکردنە سەر باڵەخانەی ئەنجوومەنی نوێنەران دەستگیرکرا",
+    "summary": "رووداو دیجیتاڵ دەسەڵاتدارانی فیدراڵیی ئەمریکا ژنێکی تەمەن 35 ساڵیان لە شاری (ئەلبانی) سەر بە ویلایەتی نیویۆرک دەستگیرکرد، ئەوەش بە تۆمەتی پلاندانان بۆ تەقاندنەوەی باڵەخانەی ئەنجوومەنی نوێنەران و پیرانی ویلایەتەکە. پێنج شەممە 20ی ئابی 2026 دەزگای لێکۆڵینەوەی فیدراڵیی ئەمریکا ( ئێف بی ئای) رایگەیاند، ژنێکی تەمەن 35 ساڵی لە شاری (ئەلبانی) سەر بە ویلایەتی نیویۆرک بە تۆمەتی هەوڵی تەقاندنەوەی باڵەخانەی ئەنجوومەنی نوێنەران و پیرانی ویلایەتەکە دەستگیر کردووە. تۆمەتبارەکە ناوی جێسیکا بۆوییە و دوای موسوڵم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
