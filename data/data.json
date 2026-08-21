@@ -247851,6 +247851,78 @@
     }
   },
   {
+    "id": "a8082f29279b3d60",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078927",
+    "title": "Iraq arrests 50 suspected drug traffickers, seizes manufacturing lab",
+    "title_en": "Iraq arrests 50 suspected drug traffickers, seizes manufacturing lab",
+    "summary": "ERBIL, Kurdistan Region - Iraqi security forces arrested 50 suspected drug traffickers and seized a narcotics manufacturing laboratory, the Iraqi National Security Service (INSS) said Friday, marking the latest bust in a sweeping nationwide crackdown on narcotics. “Detachments of the National Security Service in Anbar Governorate have successfully dismantled a network involved in drug trafficking and distribution,” the INSS stated, noting that “the operation resulted in the arrest of 50 network ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "881eceb94a53ac3e",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868268",
+    "title": "چۆن مۆساد لە ئێران دۆڕا و دوو گەورە بەرپرسی لە کار لادران؟",
+    "title_en": "چۆن مۆساد لە ئێران دۆڕا و دوو گەورە بەرپرسی لە کار لادران؟",
+    "summary": "رووداو دیجیتاڵ بەم دواییە رۆمان گۆفمان، بەڕێوەبەری نوێی دەزگای هەواڵگریی ئیسرائیل (مۆساد)، هەردوو سەرۆکی بەڕێوەبەرایەتیی هەواڵگری و سەرۆکی بەشی ئێرانی لە کارەکانیان دوورخستەوە. مۆساد دەزگایەکە هەمیشە بە نهێنی کار دەکات و زۆر دەگمەنە کەسانی باڵای بەمشێوەیە و بە ئاشکرا لە کارلاببرێن. پێگەی The Interceptی ئەمریکی لە راپۆرتێکی شرۆڤەکاریدا دەنووسێت: \"کێشەکە ئەوەیە ئیسرائیل ئێستا باجی گەورەترین هەڵەی مێژووی خۆی دەدات، ئەویش شەڕی شکستخواردووی دژی ئێرانە\". ئیسرائیل ئەم شەڕەی وەها بە ئەمریکا فرۆشتبوو کە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37c1f39a8868cf85",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868266",
+    "title": "حیزبوڵڵا: سزاکانی ئەمریکا لە دژایەتیکردنی ئیسرائیل ساردمان ناکەنەوە",
+    "title_en": "حیزبوڵڵا: سزاکانی ئەمریکا لە دژایەتیکردنی ئیسرائیل ساردمان ناکەنەوە",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی ئەمریکا سزای نوێی بەسەر حیزبوڵڵای لوبنانیدا سەپاند و بە \"خزمەتکار و بەشێک لە سوپای ئێران\" ناوی برد، رۆژی هەینی ئەو گرووپە چەکدارە رایگەیاند، هیچ سزایەک ناتوانێت رێگری لێبکات لە شەڕکردن دژی ئیسرائیل. سزاکانی ئەمریکا چین؟ رۆژی پێنجشەممە، وەزارەتی گەنجینەی ئەمریکا گۆڕانکاری لە پێناسە و پۆلێنکردنی حیزبوڵڵادا کرد و بەفەرمی رایگەیاند کە ئەو گرووپە \"لە خزمەتی رژێمی ئێران و لەژێر فەرمانی سوپای پاسداراندایە.\" وەزارەتی گەنجینەی ئەمریکا سزای خستە سەر دە کەس کە گوایە بەشێکن لە تۆڕێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "61071a57a4683d0d",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868269",
+    "title": "بەڕێوەبەری کۆمپانیای بی پی لە عێراق: دەمانەوێ نەوتی و گازی بەرهەمهێندراو لە کەرکووک زیادبکەین",
+    "title_en": "بەڕێوەبەری کۆمپانیای بی پی لە عێراق: دەمانەوێ نەوتی و گازی بەرهەمهێندراو لە کەرکووک زیادبکەین",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری کۆمپانیای بی پی لە عێراق دەڵێ، پلانێکی گشتگیر بۆ پەرەپێدانی کێڵگەکانی کەرکووک جێبەجێ دەکەن و ئامانجییانە هاوشێوەی کێڵگەی رومەیلە، بەرهەمهێنانی نەوت و گاز لەو پارێزگایە زیاد بکەن؛ باسیش لەوە دەکات، پەیوەندییان لەگەڵ حکومەتی هەرێمی کوردستان باشە. رۆژی هەینی، 21ی ئابی 2026، زەید یاسری، بەڕێوەبەری کۆمپانیای بی پی لە عێراق، لە وەڵامی ژمارەیەک پرسیاری زیاد ئیسماعیل، پەیامنێری تۆڕی میدیایی رووداو لە بەغدا، رایگەیاند: \"سەرنجی سەرەکیمان لەسەر کێڵگەکانی کەرکووکە بۆ زیادکردنی نەوت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
