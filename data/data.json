@@ -247077,6 +247077,96 @@
     }
   },
   {
+    "id": "a139ff0c261f3c86",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868242",
+    "title": "لە کفری گەنجێک بەهۆی رووداوی هاتووچۆوە گیانی لەدەستدا",
+    "title_en": "لە کفری گەنجێک بەهۆی رووداوی هاتووچۆوە گیانی لەدەستدا",
+    "summary": "رووداو دیجیتاڵ بەهۆی پێکدادانی ماتۆڕسکیل و ئۆتۆمبێلێک لە قەزای کفری، گەنجێک بەسەختی بریندار بوو، دوای رەوانەکردنی بۆ نەخۆشخانەی شار لە سلێمانی، بەهۆی سەختیی برینەکەیەوە گیانی لەدەستدا. سامان عەلی، گوتەبێژی هاتووچۆی گەرمیان بە تۆڕی میدیایی رووداوی راگەیاند: \"شەوی رابردوو لە گەڕەکی نەورۆزی شاری کفری، ماتۆڕسکیلێک و ئۆتۆمبێلێکی جۆری جیپ پێکیاندادا، بەهۆی رووداوەکەوە لێخووڕی ماتۆڕسکیلەکە بەسەختی بریندار بوو.\" گوتەبێژی هاتووچۆی گەرمیان ئاماژەی بەوەش کرد، بریندارەکە دوای گەیاندنی بۆ نەخۆشخانەی فریاکەوت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2a74e0aefed0c75b",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868243",
+    "title": "کەشناسێک: دوای کۆتایی ئەم مانگە پلەی گەرما بەرز نابێتەوە",
+    "title_en": "کەشناسێک: دوای کۆتایی ئەم مانگە پلەی گەرما بەرز نابێتەوە",
+    "summary": "رووداو دیجیتاڵ کەشناسیی هەرێمی کوردستان رایگەیاند، ئەمڕۆ و سبەی پلەی گەرما بەراورد بە دوێنی بەرز دەبێتەوە. کەشناسێک پێشبینی دەکات، کۆتایی هەفتەی داهاتوو پلەی گەرما دابەزێتەوە و دەڵێت: \"چلەی هاوین کۆتایی دێت و لە چوار پارچەی کوردستان پلەی گەرما دادەبەزێت\". ئەمڕۆ هەینی 21ـی ئاب، کەشناسیی هەرێمی کوردستان رایگەیاند، بەراورد بە دوێنی پلەی گەرما \"کەمێک\" بەرز دەبێتەوە. ئاماژەی بەوەشکردووە، سبەی بەراورد بە ئەمڕۆ پلەی گەرما یەک بۆ دوو پلەی سیلیزی بەرز دەبێتەوە. شاڵاو هیدایەت، شارەزای کەشناسی ئەمڕۆ هەینی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a48f6c2e4df4ca65",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304371",
+    "title": "Li Amedê 2 otomobîl li hev qelibîn: 7 kes birîndar bûn",
+    "title_en": "Li Amedê 2 otomobîl li hev qelibîn: 7 kes birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Rezanê ya Amedê ya Bakurê Kurdistanê, 2 otomobîl li hev qelibîn û di qezayê de 7 kes birîndar bûn. Şeva borî li navçeya Rezanê li ser rêya Amed û Mêrdînê, otomobîla ku şofêrê wê T.Ç. bû û otomobîla ku şofêrê wê M.Ç. bû li hev qelibîn. Di qezayê de her du şofêr û 5 kesên di otomobîlan de birîndar bûn. Li ser agahdarkirinê tîmên tenduristiyê û polîs çûn cihê bûyerê. Tîmên tenduristiyê 7 birîndar birin nexweşxaneyên cuda yên Amedê.",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f3f8f381b344b156",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1304370",
+    "title": "Vansporê lîstikvanê Amedsporê Celal Hanalp transfer kir",
+    "title_en": "Vansporê lîstikvanê Amedsporê Celal Hanalp transfer kir",
+    "summary": "Hewlêr (Rûdaw) – Tîma futbolê ya Vansporê ya ku di Lîga Yekemîn a TFFyê de dilîze, bi lîstikvan Celal Hanalp re peymaneke salekê îmze kir. Celal Hanalp par di tîma Amedsporê de dilîst. Tîma sor û reş a ku xebatên xwe yên transferê didomîne, bi rêya hesabê xwe yê tora civakî ya Xê transfera xwe ya nû ragihand. Di daxuyaniya tîmê de hat gotin, \"Tîma me bi Celal Hanalp re ku par di tîma Amedsporê de dilîst ji bo salekê li hev kiriye.\" Birêvebiriya Vansporê diyar kir ku ew bawer dikin Celal Hanalp d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "947dded442e146c4",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1304370",
+    "title": "Vansporê lîstikvanê Amedsporê Celal Hanalp transfer kir",
+    "title_en": "Vansporê lîstikvanê Amedsporê Celal Hanalp transfer kir",
+    "summary": "Hewlêr (Rûdaw) – Tîma futbolê ya Vansporê ya ku di Lîga Yekemîn a TFFyê de dilîze, bi lîstikvan Celal Hanalp re peymaneke salekê îmze kir. Celal Hanalp par di tîma Amedsporê de dilîst. Tîma sor û reş a ku xebatên xwe yên transferê didomîne, bi rêya hesabê xwe yê tora civakî ya Xê transfera xwe ya nû ragihand. Di daxuyaniya tîmê de hat gotin, \"Tîma me bi Celal Hanalp re ku par di tîma Amedsporê de dilîst ji bo salekê li hev kiriye.\" Birêvebiriya Vansporê diyar kir ku ew bawer dikin Celal Hanalp d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
