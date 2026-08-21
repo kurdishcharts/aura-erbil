@@ -248049,6 +248049,78 @@
     }
   },
   {
+    "id": "c2bdd5647e014491",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868276",
+    "title": "بەرگریی شارستانی: ئەمڕۆ چوار کەس لە سنووری پارێزگای هەولێر لە ئاودا خنکاون",
+    "title_en": "بەرگریی شارستانی: ئەمڕۆ چوار کەس لە سنووری پارێزگای هەولێر لە ئاودا خنکاون",
+    "summary": "رووداو دیجیتاڵ بەگوتەی بەرگریی شارستانیی هەولێر، ئەمڕۆ هەینی لە سنووری پارێزگای هەولێر چوار کەس لە ئاودا خنکاون. تەرمی دوو لەوان نەدۆزراونەتەوە و گەڕان بەدوایاندا بەردەوامە. شاخەوان سەعید، گوتەبێژی بەرگریی شارستانیی هەولێر، ئەمرۆ بە تۆڕی میدیایی رووداوی راگەیاند: \"دوای نیوەرۆی ئەمڕۆ تەرمی دوو گەنجی عەرەبمان دۆزییەوە کە لە سنووری قەزای خەبات لە زێی گەورەدا خنکابوون. لە دوو رووداوی دیکەش ئاگادارکراینەوە و تیمەکانمان رەوانەی ئەو شوێنانە کردووە و گەڕان بەدوایاندا بەردەوامە.\" بەگوتەی شاخەوان سەعید، م",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3d98962924c81414",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868275",
+    "title": "هونەرمەندێکی خوراسان بە ماتۆڕسکیل سەردانی  سێ پارچەی کوردستان دەکات",
+    "title_en": "هونەرمەندێکی خوراسان بە ماتۆڕسکیل سەردانی  سێ پارچەی کوردستان دەکات",
+    "summary": "رووداو دیجتاڵ عەبدولقاسم یەزدانی، هونەرمەند و دەرهێنەری کوردی خوراسان، بە ماتۆڕسکیلەکەی گەشتێکی درێژی بۆ پارچەکانی کوردستان دەستپێکردووە و لە رۆژهەڵاتی کوردستانەوە بەرەو باکوور و باشووری کوردستان هاتوووە. عەبدولقاسم یەزدانی سەرەتا لە رۆژهەڵاتی کوردستانەوە بە ماتۆڕسکیل بەرەو باکووری کوردستان و شاری وان بەڕێکەوتووە. ئەو هونەرمەندە بە رووداوی راگەیاند، دوای مانەوەی شەوێک لە وان، کە زۆر بەلایەوە خۆشبووە، بەردەوامی بە گەشتەکەی داوە بەرەو ئامەد، لەوێشەوە تاوەکو گەیشتووەتە زاخۆ و دواتر شاری دهۆک. لە در",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "88d0e76977ee6dcd",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304382",
+    "title": "Rûsyayê êrişî navendeke bazirganiyê kir, 5 mirî û 91 birîndar hene",
+    "title_en": "Rûsyayê êrişî navendeke bazirganiyê kir, 5 mirî û 91 birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Rûsyayê êrişî navendeke bazirganiyê ya li bajarê Kriviy Rigê yê Ukraynayê kir, di vê êrişê de herî kêm 5 kes mirin û 91 kes jî birîndar bûn. Serokê Birêvebiriya Leşkerî ya Herêma Dnipropetrovskê ya Ukraynayê Oleksandr Gandja li ser hesabê xwe yê medyaya civakî daxuyaniyek belav kir. Gandja diyar kir ku Rûsyayê êrişî bajarê Kriviy Rigê kiriye. Li gorî daxuyaniya Gandja, di êrişê de navendeke bazirganiyê ya li bajêr hatiye hedefgirtin. Gandja destnîşan kir ku li gorî destnî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a35de6036f013b55",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304382",
+    "title": "Rûsyayê êrişî navendeke bazirganiyê kir, 5 mirî û 91 birîndar hene",
+    "title_en": "Rûsyayê êrişî navendeke bazirganiyê kir, 5 mirî û 91 birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Rûsyayê êrişî navendeke bazirganiyê ya li bajarê Kriviy Rigê yê Ukraynayê kir, di vê êrişê de herî kêm 5 kes mirin û 91 kes jî birîndar bûn. Serokê Birêvebiriya Leşkerî ya Herêma Dnipropetrovskê ya Ukraynayê Oleksandr Gandja li ser hesabê xwe yê medyaya civakî daxuyaniyek belav kir. Gandja diyar kir ku Rûsyayê êrişî bajarê Kriviy Rigê kiriye. Li gorî daxuyaniya Gandja, di êrişê de navendeke bazirganiyê ya li bajêr hatiye hedefgirtin. Gandja destnîşan kir ku li gorî destnî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
