@@ -247491,6 +247491,60 @@
     }
   },
   {
+    "id": "11842c0443ab14d2",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078926",
+    "title": "KRG sends 2027 budget proposal, prioritizes salaries and entitlements",
+    "title_en": "KRG sends 2027 budget proposal, prioritizes salaries and entitlements",
+    "summary": "ERBIL, Kurdistan Region - Erbil’s finance ministry says it has completed drafting the Kurdistan Region's proposal for its share of Iraq's 2027 federal budget and has sent it to Baghdad. The statement coincides with Iraqi Prime Minister Ali al-Zaidi's announcing that preparation of the budget bill is underway and will soon be submitted for legislative approval. The Kurdistan Regional Government (KRG) finance ministry said in a statement late Thursday that “the drafted proposal was sent to the fed",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "64dab52d195387ed",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304375",
+    "title": "RIHA - Dara zeytûnê ya bi navê Cûdî 1300 sal in li ser xwe ye",
+    "title_en": "RIHA - Dara zeytûnê ya bi navê Cûdî 1300 sal in li ser xwe ye",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Eyûbiyeyê ya parêzgeha Rihayê ya Bakurê Kurdistanê, dareke zeytûnê ya bi navê “Cûdî” 1300 sal in zeytûnan dide. Dara zeytûnê ya bi navê \"Cûdî\" li ser girekî bilind ê li deşta gundekî navçeya Eyûbiyeyê ye. Ev dar sala 2007an ji aliyê Komîsyona Herêmî ya Parastina Nirxên Xwezayî ya Rihayê ve hat tomarkirin. Tê texmînkirin ku Dara Cûdiyê 1332 salî ye. Ev dara dîrokî her sal nêzîkî 50 kîlo zeytûnan dide. Şêniyê gund Osman Kiliç diyar kir ku dara Cûdiyê ji bav û kalan ji w",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66586d1c5faf7d3f",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304376",
+    "title": "Hêzên Îranê li Kirmaşanê Kurdekî Yarsan kuşt",
+    "title_en": "Hêzên Îranê li Kirmaşanê Kurdekî Yarsan kuşt",
+    "summary": "Hewlêr (Rûdaw) - Rêxistinên mafên mirovan ên Rojhilatê Kurdistanê da zanîn ku Kurdekî Yarsan li Kirmaşanê bi guleyên hêzên ewlehiyê yên Îranê hatiye kuştin. Bûyerê roja pêncşemê li taxa Deredrêjê ya Kirmaşanê ya Rojhilatê Kurdistanê rû da. Li gorî Rêxistina Mafên Mirovan a Hengawê, navê wî welatiyê Kurd Pûrya Nadirî ye û 29 salî ye. Pûrya Nadirî bi guleyên rasterast ên Hêzên Îtlaatê yên Îranê hatiye kuştin. Li gorî agahiyan, Pûrya Nadirî û endamên Hêzên Îtlaatê gule li hev reşandine. Di encamê d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
