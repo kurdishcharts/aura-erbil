@@ -248265,6 +248265,60 @@
     }
   },
   {
+    "id": "7826a5e8ad1f3399",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868280",
+    "title": "هاواری ئەنفال لە رووسیا دەنگ دەداتەوە",
+    "title_en": "هاواری ئەنفال لە رووسیا دەنگ دەداتەوە",
+    "summary": "رووداو دیجیتاڵ تیپی شانۆیی (هاوار) لە شاری کەرکووکی باشووری کوردستانەوە هاواری ئەنفالی گەیاندە رووسیا. تیپی هاوار بە شانۆگەریی (سەلما) بەشداری لە هەشتەمین فێستیڤاڵی نێودەوڵەتیی شانۆی ئۆسترۆڤسکی کرد و کۆمەڵکوژیی ئەنفال و کارەساتی ئاوارەبوونی خەڵکی کوردستانی لەسەر تەختی شانۆ نیشاندا. هەشتەمین فێستیڤاڵی نێودەوڵەتیی شانۆی ئۆسترۆڤسکی، رۆژی 18ی ئاب لە شاری کینێشما لە هەرێمی ئیڤانۆڤۆی رووسیا دەستیپێکرد. ئەم فێستیڤاڵە لە ساڵی 2019ـەوە ساڵانە بەڕێوەدەچێت و تەرخانکراوە بۆ رێزگرتن لە کارەکانی ئەلێکساندەر ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c11828f97503b652",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1304385",
+    "title": "BP dixwaze li Kerkûkê hilberîna petrolê zêde bike",
+    "title_en": "BP dixwaze li Kerkûkê hilberîna petrolê zêde bike",
+    "summary": "Hewlêr (Rûdaw) - Birêvebirê BPyê yê Îraqê Zeyd Yasirî ragihand ku ew li ser planeke berfireh a ji bo bipêşxistina qadên petrolê yên li Kerkûkê dixebitin. Zeyd Yasirî eşkere kir ku armanca wan zêdekirina hilberîna petrolê û veberhênana di sektora gazê de ye. Zeyd Yasirî pirsên Nûçegihanê Rûdawê yê Bexdayê Ziyad Îsmaîl bersivandin. Yasirî destnîşan kir ku hedefa wan a sereke qadên Kerkûkê ne û got: \"Fokusa me ya bingehîn li ser qadên Kerkûkê ye da ku em hilberîna petrolê zêde bikin û veberhênanê d",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bede008ee08d320e",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304385",
+    "title": "BP dixwaze li Kerkûkê hilberîna petrolê zêde bike",
+    "title_en": "BP dixwaze li Kerkûkê hilberîna petrolê zêde bike",
+    "summary": "Hewlêr (Rûdaw) - Birêvebirê BPyê yê Îraqê Zeyd Yasirî ragihand ku ew li ser planeke berfireh a ji bo bipêşxistina qadên petrolê yên li Kerkûkê dixebitin. Zeyd Yasirî eşkere kir ku armanca wan zêdekirina hilberîna petrolê û veberhênana di sektora gazê de ye. Zeyd Yasirî pirsên Nûçegihanê Rûdawê yê Bexdayê Ziyad Îsmaîl bersivandin. Yasirî destnîşan kir ku hedefa wan a sereke qadên Kerkûkê ne û got: \"Fokusa me ya bingehîn li ser qadên Kerkûkê ye da ku em hilberîna petrolê zêde bikin û veberhênanê d",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
