@@ -246627,6 +246627,60 @@
     }
   },
   {
+    "id": "4482f37fda9086ed",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868233",
+    "title": "راپۆرتێک: ترەمپ لە جەنگی ئێران بێزارە",
+    "title_en": "راپۆرتێک: ترەمپ لە جەنگی ئێران بێزارە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2eda0b5019ee2db",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868231",
+    "title": "ئەمریکا 10 ملیۆن دۆلار دەداتە ئەو کەسانەی زانیاری لەسەر هاککەرەکانی سوپای پاسداران ئاشکرا دەکەن",
+    "title_en": "ئەمریکا 10 ملیۆن دۆلار دەداتە ئەو کەسانەی زانیاری لەسەر هاککەرەکانی سوپای پاسداران ئاشکرا دەکەن",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دەرەوەی ئەمریکا لە رێگەی بەرنامەی (پاداشت بۆ دادپەروەری)، بڕی 10 ملیۆن دۆلاری وەک خەڵات تەرخان کردووە بۆ هەر کەسێک کە زانیاریی وردیان دەربارەی هاککەرەکانی سەر بە حکومەتی ئێران و سوپای پاسداران پێ بدات. بەپێی راگەیێندراوەکەی وەزارەتی دەرەوەی ئەمریکا کە رۆژی 20ی ئاب بڵاوکراوەتەوە، واشنتن شوێنی نیشتەجێبوونی ژمارەیەک لە هاککەرە مەترسیدارەکان و بەرپرسانی باڵای سوپای پاسدارانی ئاشکرا کردووە. لە راگەیێندراوەکەدا هاتووە کە تاوەری یاس لە کۆمەڵگەی نیشتەجێبوونی بورز لە تاران، بووەتە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0495593d72935575",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868234",
+    "title": "ئەمریکا تۆڕێکی سزا دا کە پارەیان بۆ حیزبوڵڵای لوبنان دەگواستەوە",
+    "title_en": "ئەمریکا تۆڕێکی سزا دا کە پارەیان بۆ حیزبوڵڵای لوبنان دەگواستەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
