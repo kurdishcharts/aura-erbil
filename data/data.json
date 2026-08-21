@@ -246825,6 +246825,96 @@
     }
   },
   {
+    "id": "2d65abd63e1ba615",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1868237",
+    "title": "بەڕێوەبەری بەبازاڕکردنی فیلمی (ماڵی نەنە): دەمانەوێت ریکۆردی سینەمای خێزانی بشکێنین",
+    "title_en": "بەڕێوەبەری بەبازاڕکردنی فیلمی (ماڵی نەنە): دەمانەوێت ریکۆردی سینەمای خێزانی بشکێنین",
+    "summary": "رووداو دیجیتاڵ ئەلەند ئەکرەم، بەڕێوەبەری بەبازاڕکردنی فیلمی \"ماڵی نەنە\" رایگەیاند، پلانی بەبازاڕکردنی ئەم فیلمە بە جۆرێک داڕێژراوە کە ببێتە نەخشەڕێگەیەک بۆ دروستکردنی ئابوورییەکی بەردەوام لە سینەمای کوردیدا. ئاماژەی بەوەش کرد، نمایشکردنی فیلمەکە لە سەرجەم شارەکانی عێراق \"هەنگاوێکی مێژووییە\". ئەلەند ئەکرەم، بە تۆڕی میدیایی رووداوی گوت، تیمی بەبازاڕکردن لە هەموو قۆناخەکانی وێنەگرتن دا هاوشانی کاست و تیمی هونەری لەسەر سێت ئامادەبوون، ئەمەش بە ئامانجی داڕشتنی ستراتیژییەکی نوێ بۆ بازاڕگەریی سینەما. گ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3f369fd2b8711144",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304367",
+    "title": "RAPOR - Trump ji şerê li Îranê bêzar bûye",
+    "title_en": "RAPOR - Trump ji şerê li Îranê bêzar bûye",
+    "summary": "Hewlêr (Rûdaw) - Li gorî raporeke rojnameya Washington Postê, Serokê Amerîkayê Donald Trump nekarî Îranê neçarî teslîmbûnê bike. Ji ber vê yekê Trump hêrsa xwe ji Uman û hevpeymanên din ên Washingtonê derdixe. Trump hefteya borî bi gefa bombebarankirina Umanê dest pê kir ku ev welat di navbera Washington û Tehranê de navbeynkariyê dike. Roja din Trump nexşeyek belav kir û di wê nexşeyê de Tengava Hurmizê û beravên Uman, Îmarat û Îranê wekî axa nû ya Amerîkayê hatibûn nîşandan. Sekreterê Encumena",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b598128645ec0dd",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304366",
+    "title": "Bandora hişê çêkirî û torên civakî ya li ser xwendina pirtûkan",
+    "title_en": "Bandora hişê çêkirî û torên civakî ya li ser xwendina pirtûkan",
+    "summary": "Hewlêr (Rûdaw) - Li gorî lêkolînan di serdema dîjîtal, torên civakî û hişê çêkirî de xwendina pirtûkan her ku diçe kêmtir dibe. Bikaranîna zêde ya telefon û torên civakî mirovan ji xwendina pirtûkan dûr dixe û dibe sedema xirabbûna bala mirovan. Li gorî lêkolînan, rêjeya xwendina pirtûkan li Tirkiye û Bakurê Kurdistanê ji sedî 27 e lê belê li gorî amaran, Amed û Wan di nav 10 bajarên pêşeng de cih digirin ku xwendina pirtûkan lê zêde ye. Di rapirsiyekê de derketiye holê ku ji sedî 50yî beşdaran ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5ad462ee4c86b201",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304367",
+    "title": "RAPOR - Trump ji şerê li Îranê bêzar bûye",
+    "title_en": "RAPOR - Trump ji şerê li Îranê bêzar bûye",
+    "summary": "Hewlêr (Rûdaw) - Li gorî raporeke rojnameya Washington Postê, Serokê Amerîkayê Donald Trump nekarî Îranê neçarî teslîmbûnê bike. Ji ber vê yekê Trump hêrsa xwe ji Uman û hevpeymanên din ên Washingtonê derdixe. Trump hefteya borî bi gefa bombebarankirina Umanê dest pê kir ku ev welat di navbera Washington û Tehranê de navbeynkariyê dike. Roja din Trump nexşeyek belav kir û di wê nexşeyê de Tengava Hurmizê û beravên Uman, Îmarat û Îranê wekî axa nû ya Amerîkayê hatibûn nîşandan. Sekreterê Encumena",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "39da6f1268b0aea8",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1304366",
+    "title": "Bandora hişê çêkirî û torên civakî ya li ser xwendina pirtûkan",
+    "title_en": "Bandora hişê çêkirî û torên civakî ya li ser xwendina pirtûkan",
+    "summary": "Hewlêr (Rûdaw) - Li gorî lêkolînan di serdema dîjîtal, torên civakî û hişê çêkirî de xwendina pirtûkan her ku diçe kêmtir dibe. Bikaranîna zêde ya telefon û torên civakî mirovan ji xwendina pirtûkan dûr dixe û dibe sedema xirabbûna bala mirovan. Li gorî lêkolînan, rêjeya xwendina pirtûkan li Tirkiye û Bakurê Kurdistanê ji sedî 27 e lê belê li gorî amaran, Amed û Wan di nav 10 bajarên pêşeng de cih digirin ku xwendina pirtûkan lê zêde ye. Di rapirsiyekê de derketiye holê ku ji sedî 50yî beşdaran ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
