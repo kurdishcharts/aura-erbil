@@ -248823,6 +248823,42 @@
     }
   },
   {
+    "id": "e9bed5ec8eb0af87",
+    "url": "https://www.rudaw.net/english/categories/turkey/1078932",
+    "title": "Kurdish family deported from Germany, separated from 3 children",
+    "title_en": "Kurdish family deported from Germany, separated from 3 children",
+    "summary": "ERBIL, Kurdistan Region - A Kurdish couple were deported to Turkey and have been separated from their three children who remain in Germany in the hands of the child protection agency after being prohibited from returning with their parents, Rudaw has learned. \"We came to Germany illegally in 2023. My wife and I had one child, and we had two more children there. Since June 3, they put us in prison; we haven't seen our children since then. We are asking for our children. They haven't given us a ph",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3bb7d8f7ddb3cd23",
+    "url": "https://www.rudaw.net/sorani/categories/diaspora/1868298",
+    "title": "دایک و باوکێکی کورد لە ئەڵمانیاوە دەنێردرێنەوە تورکیا و سێ منداڵەکەیان لێ جیادەکرێنەوە",
+    "title_en": "دایک و باوکێکی کورد لە ئەڵمانیاوە دەنێردرێنەوە تورکیا و سێ منداڵەکەیان لێ جیادەکرێنەوە",
+    "summary": "رووداو دیجیتاڵ دایک و باوکێکی کوردی خەڵکی باکووری کوردستانی نیشتەجێی ئەڵمانیا رەوانەی تورکیا کراونەتەوە، بەڵام سێ منداڵیان لێ جیاکراونەتەوە و لە ئەڵمانیا هێڵدراونەتەوە. ئەو دایک و باوکە گەڕێندراونەتەوە شارۆچکەی هەزەخی لە پارێزگای شرنەخی باکووری کوردستان، بەڵام سێ منداڵەکەیان لەلایەن دامەزراوەی پاراستنی منداڵان لە ئەڵمانیا جیاکراونەتەوە و رێگەنەدراوە لەگەڵ دایک و باوکیان بگەڕێنەوە. مەتین کایا، باوکی منداڵەکان لەبارەی چۆنیەتیی رووداوەکە و جیاکردنەوەیان لە منداڵەکانیان بە رووداوی راگەیاند: \"ساڵی 20",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
