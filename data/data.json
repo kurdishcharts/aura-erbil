@@ -249687,6 +249687,78 @@
     }
   },
   {
+    "id": "1606a8ad49b29ee8",
+    "url": "https://www.rudaw.net/sorani/categories/health/1868325",
+    "title": "هۆکارەکانی ئاوی سپی چاو بزانە",
+    "title_en": "هۆکارەکانی ئاوی سپی چاو بزانە",
+    "summary": "رووداو – تەندروستی مایۆکلینیک رایدەگەیێنێت، حاڵەتەکانی ئاوی سپیی چاو هێواش گەشە دەکەن و لە سەرەتادا کاریگەرییان لەسەر بینایی نییە، بەڵام بە تێپەڕبوونی کات کاریگەری لەسەر بینین دروست دەکات. هەر بەپێی مایۆکلینیک، ئەو کاتە پێویستە نەشتەرگەریی ئەنجام بدرێت ئەگەر کزیی بینایی کاریگەری لەسەر چالاکییە ئاساییەکان هەبوو، نەشتەرگەریییەکەش بەگشتی سەلامەت و کاریگەرە، وا باشترە ئەو کاتە سەردانی پزیشکی چاو بکرێت بۆ پشکنین ئەگەر هەستت بە هەر گۆڕانکارییەک لە بینینتدا کرد یان ئەگەر تووشی گۆڕانکاریی کتوپڕی بینین ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d2dec1a92b7fcf74",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304402",
+    "title": "Hefteyê 40 geştan ji bo 15 welatan dike: Fly Erbil gavên xwe yên paşerojê ronî dike",
+    "title_en": "Hefteyê 40 geştan ji bo 15 welatan dike: Fly Erbil gavên xwe yên paşerojê ronî dike",
+    "summary": "Hewlêr (Rûdaw) - Bihabûna sotemeniya balafiran bilêtên geştên asmanî ji sedî 20 biha kiriye. Her wiha rawestandina dayîna dolaran a bi geştyaran li balafirgehên Herêma Kurdistanê, bandoreke neyînî li sektora geştarî û aboriya Herêma Kurdistanê kiriye. Ev yek dibe sedem ku geştyar ji bo vê xizmetguzariyê berê xwe bidin balafirgehên parêzgehên Îraqê. Pisporê sektora balafirvaniyê yê li xeta asmanî ya Fly Erbilê Muhened Ehmed Mîr ji Tora Medyayî ya Rûdawê re ragihand: \"Sotemeniya balafiran bi awaye",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "de27e5a0973eba11",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304403",
+    "title": "Weşanên Avestayê pirtûka ‘Artêşên Îslamê yên Sedsala 7-11an’ çap kir",
+    "title_en": "Weşanên Avestayê pirtûka ‘Artêşên Îslamê yên Sedsala 7-11an’ çap kir",
+    "summary": "Hewlêr (Rûdaw) - Weşanên Avestayê berhemeke nû ya li ser dîroka leşkerî pêşkêşî xwîneran kir. Pirtûka bi navê \"Artêşên Îslamê yên Sedsala 7-11an\" ku ji aliyê David Nicolle ve hatiye nivîsandin li zimanê Kurdî hat wergerandin. Fahriye Adsayê ev pirtûk ji zimanê Îngilîzî wergerandiye. Pirtûk bi hûrgilî li ser cil û berg, amûrên şer, dîrok û organîzasyona hêzên leşkerî yên Îslamî radiweste. Di Serdema Navîn de Îslam wekî cîranê herî şareza û zehmet ê Ewropaya Xiristiyan dihat naskirin. Di wê serdem",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eed6cbb1c6550668",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1304403",
+    "title": "Weşanên Avestayê pirtûka ‘Artêşên Îslamê yên Sedsala 7-11an’ çap kir",
+    "title_en": "Weşanên Avestayê pirtûka ‘Artêşên Îslamê yên Sedsala 7-11an’ çap kir",
+    "summary": "Hewlêr (Rûdaw) - Weşanên Avestayê berhemeke nû ya li ser dîroka leşkerî pêşkêşî xwîneran kir. Pirtûka bi navê \"Artêşên Îslamê yên Sedsala 7-11an\" ku ji aliyê David Nicolle ve hatiye nivîsandin li zimanê Kurdî hat wergerandin. Fahriye Adsayê ev pirtûk ji zimanê Îngilîzî wergerandiye. Pirtûk bi hûrgilî li ser cil û berg, amûrên şer, dîrok û organîzasyona hêzên leşkerî yên Îslamî radiweste. Di Serdema Navîn de Îslam wekî cîranê herî şareza û zehmet ê Ewropaya Xiristiyan dihat naskirin. Di wê serdem",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
