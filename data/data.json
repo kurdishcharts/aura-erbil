@@ -249417,6 +249417,60 @@
     }
   },
   {
+    "id": "3031ee830565ffce",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868316",
+    "title": "رێکخستن لەبری چەکدانان؛ ستراتیژیی حکومەتی عێراق بۆ کۆنترۆڵکردنی چەکی گرووپەکان",
+    "title_en": "رێکخستن لەبری چەکدانان؛ ستراتیژیی حکومەتی عێراق بۆ کۆنترۆڵکردنی چەکی گرووپەکان",
+    "summary": "رووداو دیجیتاڵ دوای زنجیرەیەک کۆبوونەوە و دیالۆگ لەنێوان حکومەتی عێراق و گرووپە چەکدارەکان، هەوڵەکان بۆ کۆنترۆڵکردنی چەک لە دەرەوەی دەسەڵاتی دەوڵەت چوونەتە قۆناخێکی نوێ. د. حەیدەر بەرزنجی دەڵێ، زاراوەی \"دانانی چەک\" گۆڕاوە بۆ \"رێکخستنەوەی چەک\" و پرۆسەکەش لەدوای 30ی ئەیلوولەوە بەشێوەیەکی \"جیدی\" دەستپێدەکات. د. حەیدەر بەرزنجی، سەرۆکی دامەزراوەی (نەرامسین بە تۆڕی میدیایی رووداوی گوت، لە چەند رۆژی رابردوودا گفتوگۆکان لەبارەی چارەنووسی چەکی گرووپەکان بەردەوام بوون و هەردوولا گەیشتوونەتە تێگەیشتنێکی ها",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fcfcbf24bc419280",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1868315",
+    "title": "هەفتانە 40 گەشت بۆ 15 وڵات دەکات؛ فلای ئەربیل هەنگاوەکانی داهاتووی رووندەکاتەوە",
+    "title_en": "هەفتانە 40 گەشت بۆ 15 وڵات دەکات؛ فلای ئەربیل هەنگاوەکانی داهاتووی رووندەکاتەوە",
+    "summary": "رووداو دیجیتاڵ بەرزبوونەوەی نرخی سووتەمەنیی فڕۆکە لەسەر ئاستی جیهان نرخی بلیتی گەشتە ئاسمانییەکانی بە رێژەی 20% بەرزکردووەتەوە، راگرتنی پێدانی دۆلار بە گەشتیارانیش لە فڕۆکەخانەکانی هەرێمی کوردستان، کاریگەریی نەرێنی لەسەر کەرتی گەشتیاری و ئابووریی هەرێمی کوردستان دروستکردووە، گەشتیار بۆ ئەو خزمەتگوزارییە روو لە فڕۆکەخانەکانی پارێزگاکانی دیکەی عێراق بکەن. موهەنەد ئەحمەد میر، پسپۆڕی کەرتی فڕۆکەوانی لە هێڵی ئاسمانیی فلای ئەربیل، بە تۆڕی میدیایی رووداوی رایگەیاند:\" نرخی سووتەمەنیی فڕۆکە بە شێوەیەکی ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a17ff542f106b0b6",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304399",
+    "title": "ÎDIA - DEM Partî dê 25 hevserokên din ên şaredariyan dûr bixe",
+    "title_en": "ÎDIA - DEM Partî dê 25 hevserokên din ên şaredariyan dûr bixe",
+    "summary": "Hewlêr (Rûdaw) - Tê îdiakirin ku di nav şaredariyên di bin birêvebiriya DEM Partiyê de dê nêzîkî 25 hevserok ji kar werin dûrxistin. Berî niha Hevserokê Şaredariya Bajarê Mezin a Amedê Dogan Hatun neçar mabû ku dest ji erkê xwe berde. Dogan Hatun ragihandibû ku wî di çarçoveya \"pênaseya vekişînê\" de îstifa kiriye. Li gorî îdiayan, lêpirsîn li ser şaredariyên di destê DEM Partiyê de tên kirin û gumanên gendeliyê û birêvebirên ku erkê xwe bi cih neanîne tên şopandin. Rojnameger Mahmut Bozarslan di",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
