@@ -249867,6 +249867,78 @@
     }
   },
   {
+    "id": "9345d1b2f32b8b10",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078936",
+    "title": "Nearly 20,000 Iraqi electricity ministry employees illiterate: Education official",
+    "title_en": "Nearly 20,000 Iraqi electricity ministry employees illiterate: Education official",
+    "summary": "ERBIL, Kurdistan Region - Nearly 20,000 employees of Iraq’s electricity ministry are illiterate and have been enrolled in a government program to teach them reading and writing, an education ministry official said on Saturday, attributing the high number largely to the hiring of contract workers in recent years. \"We have launched a joint program with the Iraqi Ministry of Electricity to teach 19,939 employees in Baghdad and other provinces,\" Haitham Munther, director of media and communications ",
+    "source": "rudaw-english",
+    "category": "infrastructure",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "634586cb2dba1622",
+    "url": "https://www.rudaw.net/sorani/categories/health/1868330",
+    "title": "بەرپرسی تاقیگە پزیشکییەکانی راپەڕین: پابەندنەبوون بە فڕێدانی پاشماوەی پزیشکی سەرپێچییەکی باوە",
+    "title_en": "بەرپرسی تاقیگە پزیشکییەکانی راپەڕین: پابەندنەبوون بە فڕێدانی پاشماوەی پزیشکی سەرپێچییەکی باوە",
+    "summary": "رووداو - تەندروستی سەرۆکی لیژنە و بەرپرسی تاقیگە پزیشکییەکانی دەڤەری راپەڕین ئاشکرای دەکات، هیچ تاقیگەیەک نابێت کاری کەڵەشاخ یاخود نۆرینگەی یاریدەدەری پزیشکی تێدا بکرێت و بە پێچەوانەوە سزا دەدرێت. ئەمڕۆ شەممە 22-8-2026 هاوار رەمەزان، بەرپرسی تاقیگە پزیشکییەکان لە بەڕێوەبەرایەتیی گشتیی تەندروستیی راپەڕین بە رووداوی راگەیاند، لەکۆی پشکنین بۆ چەند تاقیگەیەکی پزیشکی، باوترین سەرپێچی کە تۆمار کرابێت، (نەبوونی کارمەندی شارەزا، پابەندنەبوون بە فڕێدانی پاشماوەی پزیشکی و کەلوپەلی ماوەبەسەرچوو) بوو. هاوار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "16ab498700b4345e",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304405",
+    "title": "Rûsyayê li Ukraynayê navendeke kirîn û firotinê bombebaran kir: Gelek mirî û birîndar hene",
+    "title_en": "Rûsyayê li Ukraynayê navendeke kirîn û firotinê bombebaran kir: Gelek mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Kriviy Rihê yê li naverasta Ukraynayê, di êrişeke Rûsyayê ya bi dronan de 16 kes mirin û 130 kes jî birîndar bûn. Li bajarê Kriviy Rihê yê Ukraynayê, Rûsyayê bi dronan êrişî navendeke kirîn û firotinê kir. Di êrişê de 16 kes mirin û 23 ji wan zarok 130 kes jî birîndar bûn. Birêvebirê Îdareya Leşkerî ya Herêma Dnipropetrovskê Oleksandr Hanzha ragihand ku rewşa 29 birîndaran giran e. Hat diyarkirin ku ji çar herêmên derdorê tîmên lêgerîn û rizgarkirinê ji bo piştgiriyê ş",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5bddacfa4a6cd265",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304405",
+    "title": "Rûsyayê li Ukraynayê navendeke kirîn û firotinê bombebaran kir: Gelek mirî û birîndar hene",
+    "title_en": "Rûsyayê li Ukraynayê navendeke kirîn û firotinê bombebaran kir: Gelek mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Kriviy Rihê yê li naverasta Ukraynayê, di êrişeke Rûsyayê ya bi dronan de 16 kes mirin û 130 kes jî birîndar bûn. Li bajarê Kriviy Rihê yê Ukraynayê, Rûsyayê bi dronan êrişî navendeke kirîn û firotinê kir. Di êrişê de 16 kes mirin û 23 ji wan zarok 130 kes jî birîndar bûn. Birêvebirê Îdareya Leşkerî ya Herêma Dnipropetrovskê Oleksandr Hanzha ragihand ku rewşa 29 birîndaran giran e. Hat diyarkirin ku ji çar herêmên derdorê tîmên lêgerîn û rizgarkirinê ji bo piştgiriyê ş",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
