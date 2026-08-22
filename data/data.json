@@ -251163,6 +251163,168 @@
     }
   },
   {
+    "id": "02ad3f413eccaefe",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078940",
+    "title": "Iraqi forces seize drones, munitions in southern province as arms crackdown persists",
+    "title_en": "Iraqi forces seize drones, munitions in southern province as arms crackdown persists",
+    "summary": "ERBIL, Kurdistan Region - Iraqi authorities on Saturday said they seized “a number of drones” and several types of munitions in the southern part of the country, days after announcing a separate seizure of more than a dozen drones and a number of arrests, as efforts to consolidate arms under state control continue. “As part of efforts to pursue those operating outside the law,” Iraq's Military Intelligence Directorate said its “intelligence and security detachments” seized “a number of drones, m",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8a5c90afd34026be",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868381",
+    "title": "کەرکووک؛ منداڵێکی ساوا لەبەردەم مزگەوتێک فڕێدرا",
+    "title_en": "کەرکووک؛ منداڵێکی ساوا لەبەردەم مزگەوتێک فڕێدرا",
+    "summary": "رووداو دیجیتاڵ لە گەڕەکی خەزرای شاری کەرکووک، منداڵێکی تەمەن مانگێک لەبەردەم دەرگای مزگەوتێکدا فڕێدرا و لەلایەن پەرستارێکەوە ناوی \"موئمین\"ی لێنرا. دونیا کامەران، پەرستارێکە و ئەرکی خزمەتکردن و دابینکردنی پێداویستییەکانی منداڵەکەی لە ئەستۆ گرتووە. ئەو دەڵێت: \"کاتێک هێنایان، تەندروستیی باش نەبوو، بەڵام ئێستا زۆر باشە و هەموو پشکنینەکانی بۆ کراوە.\" بەگوێرەی ئەزموونی پەرستارەکە، تەمەنی منداڵەکە نزیکەی مانگێک و 10 رۆژ دەبێت. بەپێی ئامارەکان، ئەمە 17ـیەمین منداڵە کە لە ماوەی هەشت مانگی ئەم ساڵدا لە کە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b98a73ea105826c5",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868382",
+    "title": "تونجەر باکرهان، لە نەخۆشخانە سەردانی مەهدی زانای کرد",
+    "title_en": "تونجەر باکرهان، لە نەخۆشخانە سەردانی مەهدی زانای کرد",
+    "summary": "رووداو دیجیتاڵ هاوسەرۆکی دەم پارتی، سەردانی مەهدی زانا، سەرۆکی پێشووتری گەورەشارەوانیی ئامەد و هاوژینی لەیلا زانای کرد، کە ئێستا لە نەخۆشخانە چارەسەر وەردەگرێت. تونجەر باکرهان، دوای سەردانەکە لە هەژماری خۆی لە تۆڕە کۆمەڵایەتییەکان رایگەیاند، لەبارەی تەندروستیی مەهدی زاناوە زانیاری لە پزیشکەکان وەرگرتووە. باکرهان، رایگەیاند: \"مەهدی زانا، کەسایەتییەکە کە لە سەختترین قۆناخەکانی مێژووی سیاسیی کورددا خەباتی کردووە و باجی داوە.\" باکرهان، هیوای خواست مەهدی زانا هەرچی زووە چاکببێتەوە و گوتی: \"هیوادارم ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "47292be6ff097ee5",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868380",
+    "title": "زیاتر لە 100 واژۆ بۆ سڕکردنی ئەنجوومەنی پارێزگاکانی عێراق کۆکراوەتەوە",
+    "title_en": "زیاتر لە 100 واژۆ بۆ سڕکردنی ئەنجوومەنی پارێزگاکانی عێراق کۆکراوەتەوە",
+    "summary": "رووداو دیجیتاڵ بە پشتیوانیی لایەنە شیعەکان، زیاتر لە 100 واژۆ لە پەرلەمانی عێراق کۆکراوەتەوە بۆ سڕکردنی ئەنجوومەنی پارێزگاکان بە بیانووی کەمکردنەوەی خەرجییەکانی دەوڵەت، هەنگاوێک کە ئەگەر سەر بگرێت، هاوکێشە سیاسی و ئیدارییەکانی کەرکووک ئاڵۆز دەکات و کورد بە زیانمەندی سەرەکی دادەنرێت. سومەیە خابوور، ئەندامی ئەنجوومەنی نوێنەرانی عێراق بە رووداوی گوت: \"هەوڵێک هەیە لەلایەن ژمارەیەک پەرلەمانتارەوە بۆ کۆکردنەوەی واژۆ بۆ سڕکردنی ئەنجوومەنی پارێزگاکان، نەک بۆ هەڵوەشاندنەوەیان، چونکە هەڵوەشاندنەوەی ئەنجوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "feefe75def53b0c6",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868379",
+    "title": "ئۆپەراسیۆنی گرتنی سولەیمانچییەکان بەردەوامە؛ 12 کەسی دیکە دەستگیرکران",
+    "title_en": "ئۆپەراسیۆنی گرتنی سولەیمانچییەکان بەردەوامە؛ 12 کەسی دیکە دەستگیرکران",
+    "summary": "رووداو دیجیتاڵ شەپۆلی دووەمی ئۆپەراسیۆنی هێزە ئەمنییەکانی تورکیا لەدژی گرووپی ئایینی سولەیمانچییەکان بەڕێوەچوو و 12 کەسی دیکە دەستگیرکران. ئۆپەراسیۆنەکە رۆژی شەممە، 22ـی ئابی 2026 کرا. سەرۆکایەتیی داواکاریی گشتیی کۆماریی ئەنقەرە، لە راگەیێندراوێکدا بڵاویکردەوە: \"دوای شەپۆلی یەکەمی ئۆپەراسیۆن کە لە 13ـی ئابی 2026 کرا، دوای لێکۆڵینەوەی زیاتر و بەدەستهێنانی بەڵگە، شەپۆلی دووەمی ئۆپەراسیۆن کرا. لە چوارچێوەی کارەکاندا لە ئیستەنبووڵ، قۆنیا، مەرسین و موغڵا، رێکاری یاسایی بەرامبەر 13 گومانلێکراو گیراوەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc7540728239cfc9",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1868383",
+    "title": "سەررا بوجاک لەگەڵ وەزیری گواستنەوەی تورکیا باسی تراموای ئامەدی کرد",
+    "title_en": "سەررا بوجاک لەگەڵ وەزیری گواستنەوەی تورکیا باسی تراموای ئامەدی کرد",
+    "summary": "رووداو دیجیتاڵ سەررا بوجاک، هاوسەرۆکی گەورەشارەوانیی ئامەد سەردانی عەبدولقادر ئورالئۆغڵو، وەزیری گواستنەوە و ژێرخانی تورکیای کرد و لە کۆبوونەوەیەکدا پرۆژەی هێڵی تراموای شارەکەیان تاوتوێکرد. لەو سەردانەدا سەررا بوجاک لەگەڵ سەردار باکرئۆغڵو، سکرتێری گشتیی شارەوانی و ئەردال باڵساک، سەرۆکی فەرمانگەی سیستەمەکانی هێڵی ئاسنین، لە نووسینگەی تایبەتی خۆیدا چاویان بە عەبدولقادر ئورالئۆغڵو، وەزیری گواستنەوە و ژێرخان کەوت. لە کۆبوونەوەکەدا داواکرا پرۆسەی دروستکردن و دابینکردنی فارگۆن بۆ هێڵی تراموا بۆ ناوچەی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f1a95a51e63dff28",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868383",
+    "title": "سەررا بوجاک لەگەڵ وەزیری گواستنەوەی تورکیا باسی تراموای ئامەدی کرد",
+    "title_en": "سەررا بوجاک لەگەڵ وەزیری گواستنەوەی تورکیا باسی تراموای ئامەدی کرد",
+    "summary": "رووداو دیجیتاڵ سەررا بوجاک، هاوسەرۆکی گەورەشارەوانیی ئامەد سەردانی عەبدولقادر ئورالئۆغڵو، وەزیری گواستنەوە و ژێرخانی تورکیای کرد و لە کۆبوونەوەیەکدا پرۆژەی هێڵی تراموای شارەکەیان تاوتوێکرد. لەو سەردانەدا سەررا بوجاک لەگەڵ سەردار باکرئۆغڵو، سکرتێری گشتیی شارەوانی و ئەردال باڵساک، سەرۆکی فەرمانگەی سیستەمەکانی هێڵی ئاسنین، لە نووسینگەی تایبەتی خۆیدا چاویان بە عەبدولقادر ئورالئۆغڵو، وەزیری گواستنەوە و ژێرخان کەوت. لە کۆبوونەوەکەدا داواکرا پرۆسەی دروستکردن و دابینکردنی فارگۆن بۆ هێڵی تراموا بۆ ناوچەی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dea5f54b6744e28e",
+    "url": "https://www.rudaw.net/kurmanci/categories/sriye/1304417",
+    "title": "Li Şamê êrişî hêzên ewlehiyê hat kirin",
+    "title_en": "Li Şamê êrişî hêzên ewlehiyê hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Li ser rêyeke li gundewarê Şamê, bombeyeke çandî bi otobuseke Hêzên Asayîşa Navxweyî ya Sûriyeyê ve teqiya. Ji ber vê teqînê çend karmendên ewlehiyê birîndar bûn û heta niha ti aliyî berpirsyariya êrişê li xwe negirtiye. Medyaya Sûriyeyê ragihand ku li gundewarê Şamê bombeyek teqiyaye. Li gorî zanyariyan, bombe li ser rêya Meerûne Telê di dema derbasbûna otobuseke Hêzên Asayîşa Navxweyî de teqiyaye. Çavkaniyeke ewlehiyê ragihand ku êriş bûye sedema birîndarbûna \"çend karmendan\".",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e0b0e26494627f0e",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1304417",
+    "title": "Li Şamê êrişî hêzên ewlehiyê hat kirin",
+    "title_en": "Li Şamê êrişî hêzên ewlehiyê hat kirin",
+    "summary": "Hewlêr (Rûdaw) - Li ser rêyeke li gundewarê Şamê, bombeyeke çandî bi otobuseke Hêzên Asayîşa Navxweyî ya Sûriyeyê ve teqiya. Ji ber vê teqînê çend karmendên ewlehiyê birîndar bûn û heta niha ti aliyî berpirsyariya êrişê li xwe negirtiye. Medyaya Sûriyeyê ragihand ku li gundewarê Şamê bombeyek teqiyaye. Li gorî zanyariyan, bombe li ser rêya Meerûne Telê di dema derbasbûna otobuseke Hêzên Asayîşa Navxweyî de teqiyaye. Çavkaniyeke ewlehiyê ragihand ku êriş bûye sedema birîndarbûna \"çend karmendan\".",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
