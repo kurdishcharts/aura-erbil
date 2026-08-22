@@ -250983,6 +250983,78 @@
     }
   },
   {
+    "id": "311c57a4484b1f59",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868376",
+    "title": "نەخۆشخانەی رزگاری پێشنیاز دەکات بڕێک پارە لە هاوەڵی نەخۆش وەربگیرێت",
+    "title_en": "نەخۆشخانەی رزگاری پێشنیاز دەکات بڕێک پارە لە هاوەڵی نەخۆش وەربگیرێت",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەرایەتیی نەخۆشخانەی رزگاری لە هەولێر لە پلانیدایە بڕێک پارە بۆ چوونەژوورەوەی هاوەڵی سێیەم (یان زیاتر)ـی هەر نەخۆشێک دیاری بکات. بەڕێوەبەری نەخۆشخانەکە دەڵێت، ئامانج لەوە پاراستنی کەرەستە و باڵەخانەی نەخۆشخانەکەیانە. رۆژی شەممە، 22ـی ئابی 2026، د. نوورجیهان عەلی شەعبان، بەڕێوەبەری نەخۆشخانەی رزگاریی فێرکاری لە هەولێر بە تۆڕی میدیایی رووداوی راگەیاند: \"لە کۆبوونەوەی بەڕێوەبەرایەتیی نەخۆشخانە پێشنیازێکمان خستووەتەڕوو بۆ پاراستنی کارە جوانەکانی نێو نەخۆشخانە و نۆژەنکردنەوەکان، ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "edc070f403685501",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868375",
+    "title": "لە گەرمیان تۆمەتبارێک بە 24 باڵندەی کێوییەوە دەستگیرکرا",
+    "title_en": "لە گەرمیان تۆمەتبارێک بە 24 باڵندەی کێوییەوە دەستگیرکرا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a4706d0407ac2942",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304414",
+    "title": "Fransa mûşekên parastina asmanî dide Ukraynayê",
+    "title_en": "Fransa mûşekên parastina asmanî dide Ukraynayê",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Fransayê Emmanuel Macron ragihand ku welatê wî dê mûşekên nû yên parastina asmanî bide Ukraynayê. Ev biryar di demekê de hat dayîn ku ji ber êrişên dawî yên Rûsyayê, pergalên parastina asmanî yên Kîevê rûbirûyî kêmasiya cebilxaneyê bûne. Emmanuel Macron derbarê mijarê li ser hesabê xwe yê Xê daxuyaniyek belav kir û got: \"Gelekî girîng e ku hemû amûrên pêwîst ên ji bo parastina asmanî û rûbirûbûna êrişan ji bo Ukraynayê werin dabînkirin.\" Serokkomarê Fransayê da zanîn",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d9098154580b90e6",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304414",
+    "title": "Fransa mûşekên parastina asmanî dide Ukraynayê",
+    "title_en": "Fransa mûşekên parastina asmanî dide Ukraynayê",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Fransayê Emmanuel Macron ragihand ku welatê wî dê mûşekên nû yên parastina asmanî bide Ukraynayê. Ev biryar di demekê de hat dayîn ku ji ber êrişên dawî yên Rûsyayê, pergalên parastina asmanî yên Kîevê rûbirûyî kêmasiya cebilxaneyê bûne. Emmanuel Macron derbarê mijarê li ser hesabê xwe yê Xê daxuyaniyek belav kir û got: \"Gelekî girîng e ku hemû amûrên pêwîst ên ji bo parastina asmanî û rûbirûbûna êrişan ji bo Ukraynayê werin dabînkirin.\" Serokkomarê Fransayê da zanîn",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
