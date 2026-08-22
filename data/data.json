@@ -249957,6 +249957,60 @@
     }
   },
   {
+    "id": "84616249590d920a",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868331",
+    "title": "سەنتەری کولتووری کوردی لە ئیلینۆی ئەمریکا: گرنگی بە زمان، کولتوور و دۆخی سیاسیی کورد دەدەین",
+    "title_en": "سەنتەری کولتووری کوردی لە ئیلینۆی ئەمریکا: گرنگی بە زمان، کولتوور و دۆخی سیاسیی کورد دەدەین",
+    "summary": "رووداو دیجیتاڵ بەهادین کەربۆرانی، هاوسەرۆکی سەنتەری کولتووریی کوردی لە ویلایەتی ئیلینۆی ئەمریکا رایگەیاند، سەنتەرەکەیان وەک \"هێلانەیەک و ناوەندێکی سەرەکی\" کار دەکات بۆ کۆکردنەوەی کوردانی هەر چوار پارچەی کوردستان لە ویلایەتە یەکگرتووەکانی ئەمریکا و \"ئامانجی سەرەکییان پاراستنی زمان و میراتی نەتەوەییە لە دیاسپۆرا\". هاوسەرۆکی سەنتەرەکە لە هەڤپەیڤینێکدا لەگەڵ تۆڕی میدیایی رووداو، دەڵێت، مێژووی سەنتەرەکە بۆ ساڵی 2011 دەگەڕێتەوە، بەڵام بەهۆی پەتای کۆڤید-19وە داخرا و دواتر لە ساڵی 2017 دووبارە کرایەوە. ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "73fc4521b0d0c185",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304406",
+    "title": "Navenda Çanda Kurdan a Chicagoyê: Hem fêrbûna ziman hem jî dîplomasî",
+    "title_en": "Navenda Çanda Kurdan a Chicagoyê: Hem fêrbûna ziman hem jî dîplomasî",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Chicagoyê yê wîlayeta Illinoisa Amerîkayê ji bo xizmetkirina çand û zimanê Kurdî navendeke taybet hat vekirin. Navenda Çanda Kurdan hem di warê siyasî de hem jî di warê parastina ziman û çandê de xebatên xwe bi rê ve dibe. Serokê Navenda Çanda Kurdî Behadîn Kerboranî da zanîn ku ew li Zanîngeha Chicagoyê kursên fêrkirina zimanê Kurdî vedikin. Kerboranî diyar kir ku ew dersên zaravayên Soranî, Kurmancî û Zazakî didin xwendekaran. Fêrkirina ziman û xebatên dîplomatîk End",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "00dbfc9a2f37675e",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304406",
+    "title": "Navenda Çanda Kurdan a Chicagoyê: Hem fêrbûna ziman hem jî dîplomasî",
+    "title_en": "Navenda Çanda Kurdan a Chicagoyê: Hem fêrbûna ziman hem jî dîplomasî",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Chicagoyê yê wîlayeta Illinoisa Amerîkayê ji bo xizmetkirina çand û zimanê Kurdî navendeke taybet hat vekirin. Navenda Çanda Kurdan hem di warê siyasî de hem jî di warê parastina ziman û çandê de xebatên xwe bi rê ve dibe. Serokê Navenda Çanda Kurdî Behadîn Kerboranî da zanîn ku ew li Zanîngeha Chicagoyê kursên fêrkirina zimanê Kurdî vedikin. Kerboranî diyar kir ku ew dersên zaravayên Soranî, Kurmancî û Zazakî didin xwendekaran. Fêrkirina ziman û xebatên dîplomatîk End",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
