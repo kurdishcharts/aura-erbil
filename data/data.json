@@ -251433,6 +251433,78 @@
     }
   },
   {
+    "id": "bf0e55156c2a6f8d",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1868388",
+    "title": "موحسین رەزایی: رێگە نادەین یەک دڵۆپە نەوت لە کەنداو بچێتە دەرەوە",
+    "title_en": "موحسین رەزایی: رێگە نادەین یەک دڵۆپە نەوت لە کەنداو بچێتە دەرەوە",
+    "summary": "رووداو دیجیتاڵ سکرتێری ئەنجوومەنی باڵای ئاسایشی نیشتمانیی ئێران، هۆشداریی تووند دەداتە ئەمریکا و وڵاتانی دەوروبەری و رایدەگەیێنێت، تاوەکو ئەمریکا نەگەڕێتەوە سەر بەڵێنەکانی، تەنگەی هورمز بە داخراوی دەمێنێتەوە. دەشڵێت: \"ئەگەر واشنتن جەنگی ئابووری بەردەوامبکات، ناهێڵین یەک دڵۆپە نەوت لە کەنداوەوە هەناردەبکرێت.\" موحسین رەزایی، سکرتێری ئەنجوومەنی باڵای ئاسایشی نیشتمانیی ئێران لە هەڤپەیڤینێکی تەلەڤزیۆنیدا، تیشکی خستەسەر دوایین پەرەسەندنە سیاسی و سەربازییەکانی ناوچەکە. \"رێبەرێکی بەهێزمان هەیە\" رەزایی س",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7792681df09f72e3",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868389",
+    "title": "دۆڵی شاورێ؛ خراپیی هێڵی پەیوەندی 50 گوندی لە جیهان دابڕیوە",
+    "title_en": "دۆڵی شاورێ؛ خراپیی هێڵی پەیوەندی 50 گوندی لە جیهان دابڕیوە",
+    "summary": "رووداو دیجیتاڵ خەڵکی زیاتر لە 50 گوندی دۆڵی شاورێ لە سنووری ئیدارەی سەربەخۆی راپەڕین، بەدەست خراپیی هێڵەکانی پەیوەندییەوە دەناڵێنن و دەڵێن، ناچارن مۆبایلەکانیان لە دەرەوەی ماڵەکانیان دابنێن بۆ ئەوەی لە پەیوەندیکردن دانەبڕێن. ئەرسەلان ئیسماعیل، دانیشتووی گوندی مێدێرێیە لە دۆڵی شاورێ و باس لەوە دەکات کە بەهۆی نەبوونی هێڵی پەیوەندییەوە، ژیانی رۆژانەیان سەخت بووە. ئەو دەڵێت: \"ناچارین مۆبایلەکانمان لە دەرەوە دابنێین تاوەکو بتوانین پەیوەندی بکەین یان پەیوەندیمان پێوە بکرێت.\" کێشەی نەبوونی هێڵی پەیوەند",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a8847143d3115aa0",
+    "url": "https://www.rudaw.net/kurmanci/categories/raq/1304419",
+    "title": "Hikûmeta Îraqê hêzeke nû li ser sînorê Siûdiyê bi cih kir",
+    "title_en": "Hikûmeta Îraqê hêzeke nû li ser sînorê Siûdiyê bi cih kir",
+    "summary": "Hewlêr (Rûdaw) - Hikûmeta Îraqê ji bo çavdêrî û parastina sînorên rojavayê welêt û bi taybetî sînorê Erebistana Siûdiyê fermandariyeke nû ava kir. Berdevkê Wezareta Parastinê ya Îraqê diyar kir ku armanc rêgirtina li êrişên li dijî welatên cîran e. Fermandariya Operasyonên Badiyeyê Berdevkê Wezareta Parastinê ya Îraqê Yehya Resûl îro ji Rûdawê re axivî û got, \"Fermandariya Operasyonên Badiyeyê hatiye avakirin.” Wî da zanîn ku hêzên fermandariyê îro di roja yekem a erkê xwe de çûne nêzîkî sînorê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eb116033a7de97a6",
+    "url": "https://www.rudaw.net/kurmanci/categories/iraq/1304419",
+    "title": "Hikûmeta Îraqê hêzeke nû li ser sînorê Siûdiyê bi cih kir",
+    "title_en": "Hikûmeta Îraqê hêzeke nû li ser sînorê Siûdiyê bi cih kir",
+    "summary": "Hewlêr (Rûdaw) - Hikûmeta Îraqê ji bo çavdêrî û parastina sînorên rojavayê welêt û bi taybetî sînorê Erebistana Siûdiyê fermandariyeke nû ava kir. Berdevkê Wezareta Parastinê ya Îraqê diyar kir ku armanc rêgirtina li êrişên li dijî welatên cîran e. Fermandariya Operasyonên Badiyeyê Berdevkê Wezareta Parastinê ya Îraqê Yehya Resûl îro ji Rûdawê re axivî û got, \"Fermandariya Operasyonên Badiyeyê hatiye avakirin.” Wî da zanîn ku hêzên fermandariyê îro di roja yekem a erkê xwe de çûne nêzîkî sînorê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
