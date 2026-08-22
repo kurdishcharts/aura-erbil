@@ -251541,6 +251541,24 @@
     }
   },
   {
+    "id": "3390f4db73411f9c",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868392",
+    "title": "ئەمڕۆ لە 32ی بەنزینخانەی هەولێر بەنزینی 750 دیناری دابەش دەکرێت",
+    "title_en": "ئەمڕۆ لە 32ی بەنزینخانەی هەولێر بەنزینی 750 دیناری دابەش دەکرێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
