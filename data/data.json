@@ -249939,6 +249939,24 @@
     }
   },
   {
+    "id": "7bea96576215bf30",
+    "url": "https://www.rudaw.net/sorani/episode/71169",
+    "title": "کچە شێوەکارێک لە سلێمانی ستایلێکی نوێی هونەری دادەهێنێت",
+    "title_en": "کچە شێوەکارێک لە سلێمانی ستایلێکی نوێی هونەری دادەهێنێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
