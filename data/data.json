@@ -249093,6 +249093,114 @@
     }
   },
   {
+    "id": "733429be6e127ff0",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078934",
+    "title": "Fire near Sulaimani brought under control after four-hour battle",
+    "title_en": "Fire near Sulaimani brought under control after four-hour battle",
+    "summary": "ERBIL, Kurdistan Region - Firefighting teams on Saturday brought a fire near Sulaimani under control after battling the blaze for nearly four hours, as strong winds fueled its spread toward nearby villages. The fire broke out in the vicinity of the villages of Khamza and Qularash late Friday, with firefighting teams telling Rudaw’s Nizar Jaza that the blaze had been extinguished. “The fire has spread toward Sitak, specifically in the area of the villages of Khamza and Qularash, but it has not re",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a54f8af9aa95dcc7",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868307",
+    "title": "بڕگەی هەموارکردنەوەی یاسای رزگاربووانی ئێزدی لە دانیشتنی پەرلەمانی عێراق لابرا",
+    "title_en": "بڕگەی هەموارکردنەوەی یاسای رزگاربووانی ئێزدی لە دانیشتنی پەرلەمانی عێراق لابرا",
+    "summary": "رووداو دیجیتاڵ بڕگەی هەموارکردنەوەی یاسای رزگاربووانی ئێزدی لە دانیشتنی سبەی پەرلەمانی عێراق لابرا. خالید سیدۆ، نوێنەری پێکهاتەی ئێزدی لە پەرلەمانی عێراق، ئەمڕۆ شەممە 22ی ئابی 2026 بە تۆڕی میدیایی رووداوی راگەیاند، بە هەوڵ و کۆششی فەرهاد ئەترووشی، جێگری سەرۆکی پەرلەمانی عێراق، بڕگەی هەموارکردنەوەی یاسای رزگاربووانی ئێزدی لە دانیشتنی سبەی پەرلەمانی عێراق لابرا. ئەمە لەکاتێکدا بوو، بەپێی کارنامەی یەکەمجاری دانیشتنی سبەی یەکشەممە، 23ی ئابی 2026ـی پەرلەمانی عێراق، بڕگەی پێنجەم تەرخانکرا بوو بۆ خوێند",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4b595867d00e76cb",
+    "url": "https://www.rudaw.net/sorani/categories/interview/1868303",
+    "title": "وەزیری پەروەردە: گەشبینم پرۆسەی \"لەجێگەدانان\" بۆ مامۆستایان دەستپێبکاتەوە",
+    "title_en": "وەزیری پەروەردە: گەشبینم پرۆسەی \"لەجێگەدانان\" بۆ مامۆستایان دەستپێبکاتەوە",
+    "summary": "رووداو دیجیتاڵ وەزیری پەروەردەی حکومەتی هەرێمی کوردستان باس لە ئامادەکارییەکانی ساڵی نوێی خوێندن دەکات و رایگەیاند، بۆ ئەم ساڵ 20 ملیۆن کتێب چاپ دەکرێ و لە چەندین ناوەند خوێندن بە پلاتفۆرمی دیجیتاڵی دەستپێدەکات. گەشبینیی خۆیشی دەربڕی بەوەی \"پرۆسەی (لەجێگەدانان) دەستپێبکاتەوە.\" ئالان حەمەسەعید، وەزیری پەروەردەی حکومەتی هەرێمی کوردستان لە هەڤپەیڤینێکدا لەگەڵ تۆڕی میدیایی رووداو، کە هیوا جەمال لەگەڵی ئەنجامداوە، چەندین زانیاریی ورد و ئاماری لەبارەی خوێندنی ساڵی نوێ خستەڕوو، ئاماژەی بەوە کرد، 32 باڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7bb2828d90973a54",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868306",
+    "title": "پشکنینی DNA بۆ رووفاتی 67 کوردی ئێزدی دەستپێدەکات",
+    "title_en": "پشکنینی DNA بۆ رووفاتی 67 کوردی ئێزدی دەستپێدەکات",
+    "summary": "رووداو دیجیتاڵ تیمە تایبەتەکانی عێراق بە هاوکاریی نێودەوڵەتی، دەستیان بە رێکارە تەکنیکییەکان کردووە بۆ هەڵدانەوەی گۆڕی 67 کوردی ئێزدی لە سنووری شنگال لە پارێزگای نەینەوا، تاوەکو لە رێگەی پشکنینی دی ئێن ئەیەوە ناسنامەکانیان یەکلایی بکرێتەوە. رێکخراوی (پێتریکۆر) تایبەت بە مافەکانی مرۆڤ رایگەیاند:\"تیمی نیشتمانیی عێراق بۆ هەڵدانەوەی گۆڕە بەکۆمەڵەکان، بە هاوکاریی لیژنەی نێودەوڵەتیی بێسەروشوێنبووان، لە رۆژانی 19 بۆ 20ـی ئەیلوولی ئەم ساڵ، پڕۆسەی هەڵدانەوەی گۆڕەکان دەست پێدەکات و 18 رۆژ دەخایەنێت. دواتر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5795eb3b0c11e5db",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868304",
+    "title": "بڕیارە لە هەولێر و سلێمانی گردبوونەوە بۆ پشتیوانی لە لاهوور شێخ جەنگی بەڕێوەبچێ",
+    "title_en": "بڕیارە لە هەولێر و سلێمانی گردبوونەوە بۆ پشتیوانی لە لاهوور شێخ جەنگی بەڕێوەبچێ",
+    "summary": "رووداو دیجیتاڵ بڕیارە ئەمڕۆ گردبوونەوەی ناڕەزایی بۆ پشتیوانی لە لاهوور شێخ جەنگی لە شارەکانی هەولێر و سلێمانی بەڕێوەبچێت. قادر ئاغا مەنتک، یەکێک لە پارێزەرانی دەستگیرکراوانی لالەزار، ئەمڕۆ شەممە بە تۆڕی میدیایی رووداوی گوت: \"کاژێر 10:00ـی بەیانی ئەمڕۆ لەبەردەم پەرلەمانی کوردستان گردبوونەوەیەک بۆ پشتیوانی کاک لاهوور بەڕێوەدەچێت\". ئەو پارێزەرە گوتی، هەر ئەمڕۆ گردبوونەوە بۆ پشتیوانی لاهوور شێخ جەنگی لەبەردەم دادگەی سلێمانی بەڕێوەدەچێ، تێیدا جگە لە کەسوکاری لاهوور شێخ جەنگی، دۆست و هاوڕێکانی بەشداری",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "247e0c45e685c657",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868305",
+    "title": "کردنەوەی هێڵی کارەبای عێراق و کوێت دواخرا",
+    "title_en": "کردنەوەی هێڵی کارەبای عێراق و کوێت دواخرا",
+    "summary": "رووداو دیجیتاڵ وەزارەتی کارەبای عێراق دەڵێ، پڕۆژەی بەستنەوەی کارەبا بە کوێتەوە بە رێژەی 96% تەواو بووە، بەڵام بەهۆی \"دۆخی ئەمنیی ناوچەکە\"وە کارەکان لە لایەنی کوێتەوە راگیراون. ئەحمەد تورکی، گوتەبێژی وەزارەتی کارەبای عێراق، رۆژی شەممە، 22ـی ئابی 2026، بە رووداوی راگەیاند، عێراق هەموو کارەکانی خۆی لە پڕۆژەی بەستنەوەی کارەبا لەگەڵ کوێت تەواو کردووە، بەڵام دۆخی ئێستای ناوچەکە وایکردووە لایەنی کوێتی کارەکانی رابگرێ. ئەحمەد تورکی گوتیشی: \"ئێمە ئامادەین و هەر کاتێک دۆخەکە ئاسایی بێتەوە، دەستبەجێ هێڵەکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
