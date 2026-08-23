@@ -253557,6 +253557,42 @@
     }
   },
   {
+    "id": "9473655ff807a5e7",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868457",
+    "title": "ئەو منداڵەی لە زاخۆ سەگی بەرەڵڵا پەلاماری دا گیانی لەدەستدا",
+    "title_en": "ئەو منداڵەی لە زاخۆ سەگی بەرەڵڵا پەلاماری دا گیانی لەدەستدا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b41532a21a517bf8",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304446",
+    "title": "Xwendekarên Kurd ên Efrînê li benda çareseriyê ne",
+    "title_en": "Xwendekarên Kurd ên Efrînê li benda çareseriyê ne",
+    "summary": "Hewlêr (Rûdaw) - Li Efrînê ji ber cudahiya bernameyên xwendinê (minhacan) krîza perwerdeyê derketiye holê. Bi hezaran xwendekarên Kurd ên ku ji koçberiyê vegeriyane Efrînê, bê xwendin mane. Her wiha 4 hezar mamosteyên Rêveberiya Xweser jî niha li Efrînê bê kar in. Vegera ji Cizîr û Kobaniyê Îsal 8 karwanên koçberên Efrînê yên ku li Cizîr û Kobaniyê diman, vegeriyan cih û warên xwe. Zarokên wan malbatan bi salan li gorî bernameyên xwendinê yên Rêveberiya Xweser dixwendin. Lê belê niha li Efrînê t",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
