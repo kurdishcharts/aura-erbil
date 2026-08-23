@@ -252135,6 +252135,42 @@
     }
   },
   {
+    "id": "48eb9a797a88213c",
+    "url": "https://www.rudaw.net/english/categories/iran/1078947",
+    "title": "Iran hangs another January protester as executions mount",
+    "title_en": "Iran hangs another January protester as executions mount",
+    "summary": "ERBIL, Kurdistan Region - Iranian authorities on Sunday executed another man detained during January’s nationwide anti-government protests, the judiciary said, as Tehran increasingly turns to executions amid mounting domestic and economic pressure. Majid Adineh was hanged after being convicted by a Revolutionary Court in Karaj of acting on behalf of the US, Israel and groups hostile to the Islamic Republic. Adineh was arrested by the intelligence arm of the Islamic Revolutionary Guard Corps (IRG",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d58e127e8f5c4fc3",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1868406",
+    "title": "عێراق پلانی هەیە 6 هەزار زیندانی بۆ وڵاتەکانیان بگەڕێنێتەوە",
+    "title_en": "عێراق پلانی هەیە 6 هەزار زیندانی بۆ وڵاتەکانیان بگەڕێنێتەوە",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دادی عێراق دەڵێ، دەستیان کردووە بە رێکارە دیپلۆماسی و یاساییەکان بۆ گەڕاندنەوەی نزیکەی 6 هەزار زیندانی بۆ وڵاتەکانی خۆیان، تاوەکو ماوەی سزاکانیان لەوێ تەواو بکەن. موراد ساعدی، بەڕێوەبەری راگەیاندنی وەزارەتی دادی عێراق، رۆژی یەکشەممە، 23ـی ئابی 2026 بە رووداوی راگەیاند: \"وەزارەت لەگەڵ نێردە دیپلۆماسییەکانی 61 وڵاتی عەرەبی و بیانی لە هاوئاهەنگیی بەردەوامدایە بۆ کاراکردنی رێککەوتنامەکان و واژۆکردنی لێکتێگەیشتن بۆ گواستنەوەی ئەم بەندکراوانە.\" موراد ساعدی ئاماژەی بەوە کرد، ئەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
