@@ -252567,6 +252567,78 @@
     }
   },
   {
+    "id": "f183a0067978d625",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078949",
+    "title": "Iraq plans to extradite nearly 6,000 ISIS prisoners: Official",
+    "title_en": "Iraq plans to extradite nearly 6,000 ISIS prisoners: Official",
+    "summary": "ERBIL, Kurdistan Region - Baghdad has initiated legal and diplomatic procedures to transfer around 6,000 foreign detainees and convicts associated with the Islamic State (ISIS) to their home countries, a spokesperson for Iraq’s justice ministry said on Sunday, excluding those serving death sentences. \"The ministry is in continuous coordination with the diplomatic missions of 61 Arab and foreign countries to activate agreements and sign memorandums of understanding to transfer the prisoners,” Mur",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c7a238bec99aa960",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1868421",
+    "title": "بەهای دینار بەرزبووەوە و تمەن لە دابەزیندا ژمارەیەکی پێوانەیی تۆمارکرد",
+    "title_en": "بەهای دینار بەرزبووەوە و تمەن لە دابەزیندا ژمارەیەکی پێوانەیی تۆمارکرد",
+    "summary": "رووداو - هەولێر ئەمڕۆ بەهای دینار بەرزبووەوە و 100 دۆلار دابەزی بۆ کەمتر لە 154 هەزار دینار. هەروەها تمەن ژمارەیەکی پێوانەیی تۆمارکرد و 100 دۆلار گەیشتە 20 ملیۆن تمەن. رەوەز میرزا، ئاڵوگۆڕکاری دراو لە بازاڕی دۆلارەکەی سلێمانی، ئەمڕۆ یەکشەممە بە تۆڕی میدیایی رووداوی گوت: \"20 ملیۆن تمەن بە حەواڵە بە 100 دۆلار فرۆشرا، بەڵام ئێستا کەمێک بەهای بۆ گەڕاوەتەوە و 100 دۆلار بە 19 ملیۆن و 800 هەزار تمەنە، لەکاتێکدا دوێنێ بە حەواڵە 100 دۆلار 18 ملیۆن تمەن بوو\". ئەو کاسبکارەی بازاڕی دۆلارەکەی سلێمانی گوتی: \"",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c7fe3eea9b307ca3",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868420",
+    "title": "کۆمپانیاکانی تەکنەلۆجیا هەزاران پەرتووک دەکڕن، هەڵیاندەوەشێننەوە و بۆ ژیریی دەستکرد بەکاریاندەهێنن",
+    "title_en": "کۆمپانیاکانی تەکنەلۆجیا هەزاران پەرتووک دەکڕن، هەڵیاندەوەشێننەوە و بۆ ژیریی دەستکرد بەکاریاندەهێنن",
+    "summary": "رووداو دیجیتاڵ لێکۆڵینەوەیەکی نوێی رۆژنامەڤانی، نهێنییەکی شۆکهێنەری ئاشکرا کردووە. کۆمپانیا زەبەلاحەکانی تەکنەلۆجیا بە نهێنی هەزاران پەرتووکی چاپکراو و دەگمەن دەکڕن، تەنیا بۆ ئەوەی پەڕەکانیان لێکبکەنەوە و بۆ راهێنانکردن بە ژیریی دەستکرد بەکاریانبهێنن. ئەم نهێنییە چۆن ئاشکرا بوو؟ رۆژنامەڤانانی ماڵپەڕی 404 Media گومانیان کرد کە بۆچی لەم دواییانەدا کەسانێکی نەناسراو بە لێشاو و بەکۆمەڵ پەرتووکە دەگمەنەکان دەكڕن. بۆیە لەگەڵ پەرتووکفرۆشێک رێککەوتن و ئامێرێکی چاودێریی بچووکی کۆمپانیای ئەپڵ (AirTag)یان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "77b66cd34bcb44eb",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1868419",
+    "title": "گاڤی بایی 1.3 ملیۆن یۆرۆ خانوو بۆ هەژاران دروست دەکات",
+    "title_en": "گاڤی بایی 1.3 ملیۆن یۆرۆ خانوو بۆ هەژاران دروست دەکات",
+    "summary": "رووداو دیجیتاڵ گاڤی، ئەستێرەی لاوی یانەی بارسێلۆنا و هەڵبژاردەی ئیسپانیا، بەڵێنی داوە بڕی نزیکەی 1.3 ملیۆن یۆرۆ لە دارایی تایبەتی خۆی ببەخشێت بۆ بەشداریکردن لە دروستکردنی خانوو بۆ ئەو کەسانەی بێماڵ و هەژارن لە زێدی خۆی لە باشووری ئیسپانیا، ئەمەش لە دەستپێشخەرییەکدا کە گوزارشت لە پەیوەندییە تووندەکەی دەکات بەو شارۆچکەیەی کە سەرەتای کاروانی وەرزشی لێوە دەستپێکرد. بەگوێرەی ئەوەی ماڵپەڕی theolivepress ئاماژەی پێکردووە، ئەم بەخشینەی یاریزانە 22 ساڵانەکەی هێڵی ناوەڕاست بۆ دابینکردنی بودجەی پڕۆژەی نیشت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
