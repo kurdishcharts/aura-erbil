@@ -253683,6 +253683,60 @@
     }
   },
   {
+    "id": "ad19819a27babf01",
+    "url": "https://www.rudaw.net/english/categories/iran/1078954",
+    "title": "US must speak respectfully to Iranian people: Foreign minister",
+    "title_en": "US must speak respectfully to Iranian people: Foreign minister",
+    "summary": "ERBIL, Kurdistan Region - Iranian Foreign Minister Abbas Araghchi said Sunday that the United States has no choice but to engage with the Iranian people with \"respect,\" as Washington ramps up economic pressure on Tehran. “The economic campaign that Trump claims is a repetitive scenario and the same old bullying inherent in US policies,” Araghchi said on the sidelines of a ceremony at the Shrine of Imam Khomeini in Tehran, dismissing them as “a tired movie that we have seen many times before.\" Ar",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2c8d08f3d37a6773",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1868464",
+    "title": "کاسبکارانی بازاڕێکی کەرکووک: کرێی کارەبای موەلیدەکان زیادکراوە",
+    "title_en": "کاسبکارانی بازاڕێکی کەرکووک: کرێی کارەبای موەلیدەکان زیادکراوە",
+    "summary": "رووداو - رادیۆ لە بازاڕی \"پەنجا عەلی\" لە شاری کەرکووک، دووکانداران و کاسبکاران ناڕەزایەتی بەرامبەر گرانکردنی نرخی کارەبای موەلیدە دەردەبڕن و دەڵێن، خاوەن موەلیدەیەک بەبێ گەڕانەوە بۆ بڕیارە فەرمییەکان، بۆ هەر ئەمپێرێک بڕی 3 هەزار دیناری خستووەتە سەر نرخەکان. بەپێی بەدواداچوونێکی رووداو، کاسبکارانی ئەو بازاڕە باس لەوە دەکەن کە لەم دۆخە سستەی بازاڕدا، ئەم هەنگاوە بارگرانییەکی گەورەی بۆ دروست کردوون. دووکانداران دەڵێن، خاوەن موەلیدەکە \"بە ئارەزووی خۆی\" نرخەکەی گۆڕیوە و پابەندی ئەو نرخە نەبووە کە مان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01f83faa9a43d6b6",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868463",
+    "title": "گەڕەکێکی هەولێر مانگ و نیوێکە \"بە نۆرە\" کارەبایان هەیە",
+    "title_en": "گەڕەکێکی هەولێر مانگ و نیوێکە \"بە نۆرە\" کارەبایان هەیە",
+    "summary": "رووداو دیجیتاڵ دانیشتووانی گەڕەکی رۆشنبیری لە شاری هەولێر زیاتر لە مانگ و نیوێکە بەدەست پچڕانی بەردەوامی کارەبای نیشتمانییەوە گیرۆدەن. بەڕێوەبەری دابەشکردنی کارەبای هەولێر-2 دەڵێت، کێبڵێکی سەرەکیی وێستگەی دارەتوو سووتاوە و وەزارەتی دارایی تاوەکو ئێستا بودجەی بۆ چاککردنەوەی دابین نەکردووە. بەپێی بەدواداچوونێکی (رووداو)، کێشەی کارەبای گەڕەکی رۆشنبیری و دەوروبەری پەیوەندی بە پچڕانی 3 هێڵی سەرەکیی گواستنەوەوە هەیە، ئەمەش وایکردووە هاونیشتمانییان تێچوویەکی زۆر بۆ کارەبای موەلیدە بدەن. هاونیشتمانییەک:",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
