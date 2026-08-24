@@ -254943,6 +254943,60 @@
     }
   },
   {
+    "id": "658a06716462c858",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1078959",
+    "title": "Omani foreign minister to visit Tehran amid regional mediation efforts",
+    "title_en": "Omani foreign minister to visit Tehran amid regional mediation efforts",
+    "summary": "ERBIL, Kurdistan Region - Oman’s Foreign Minister Badr Albusaidi is set to visit Tehran on Tuesday for talks with Iranian officials, as diplomatic efforts intensify to ease US-Iran tensions amid Washington’s plans to tighten economic sanctions on the Islamic Republic. Iranian state media cited Foreign Ministry spokesperson Esmaeil Baghaei as saying that Albusaidi will meet his Iranian counterpart, Abbas Araghchi, during the visit. “This visit is taking place in line with strengthening Iran-Oman ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4bd00ad1e206257f",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304464",
+    "title": "Zêr ranaweste",
+    "title_en": "Zêr ranaweste",
+    "summary": "Hewlêr (Rûdaw) - Bihayê zêr gihîşt asta herî bilind a sê mehên dawiyê. Îro, di roja yekem a dan û standinên vê hefteyê de bihayê zêr bi rêjeya ji sedî 0,6 zêde bû û ons gihîşt 4 hezar û 654 dolaran. Dolar bê qîmet bû, zêr biha bû Dolarê ku di asta xwe ya herî nizm a mehên dawiyê de cih girtiye, bandoreke rasterast li bazara zêr kir. Daketina dolarê Amerîkî wiha dike ku kirîna zêr ji bo wan kesên ku bi pereyên din dan û standinê dikin hêsantir û erzantir be. Analîst çi dibêjin? Tim Watererê ku an",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "42b727056a54b12f",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304463",
+    "title": "Li Amedê agirê ku bi plazayekê ketibû hat vemirandin",
+    "title_en": "Li Amedê agirê ku bi plazayekê ketibû hat vemirandin",
+    "summary": "Hewlêr (Rûdaw) - Li Ameda Bakurê Kurdistanê agirê ku di plazayekê de derketibû ji aliyê tîmên agirvemirandinê ve hat vemirandin. Agir demjimêr 23:00yan li Taxa Talaytepeyê ya li ser Bûlwara Laleşê ji ber sedemeke ne diyar di plazayekê de derket. Li ser agahdarkirina xelkê herêmê gelek tîmên agirvemirandinê, polîs û tîmên tenduristiyê çûn cihê bûyerê. Agirê ku di demeke kurt de mezin bû bi hewldanên tîman hat kontrolkirin. Parêzgarê Amedê Murat Zorluoglu û Hevseroka Şaredariya Bajarê Mezin a Amed",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
