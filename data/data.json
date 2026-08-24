@@ -255969,6 +255969,42 @@
     }
   },
   {
+    "id": "4df6fa5f5056a82f",
+    "url": "https://www.rudaw.net/sorani/episode/71193",
+    "title": "کۆما مێردین؛ دەنگی رەسەنی میوزیکی کوردی لە کازاخستان",
+    "title_en": "کۆما مێردین؛ دەنگی رەسەنی میوزیکی کوردی لە کازاخستان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0afa5911e15edf5d",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1304473",
+    "title": "Li Sûriyeyê teqîn, mirî û birîndar hene",
+    "title_en": "Li Sûriyeyê teqîn, mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Tedmûrê yê parêzgeha Himsê ya Sûriyeyê teqînekê rû da. Nûçegihana Rûdawê Solîn Mihemed Emînê da zanîn ku mirî û birîndar hene. Heta niha ti daxuyaniya fermî nehatiye danîn. Ajansa fermî ya Sûriyeyê (SANA) ragihand ku miriyek û 2 birîndar hene. SANAyê da zanîn ku hîn çavkaniya êrişê \"ne diyar e.\" Tê nûkirin…",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
