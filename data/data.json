@@ -259137,6 +259137,60 @@
     }
   },
   {
+    "id": "80e35a1304792ba4",
+    "url": "https://www.rudaw.net/english/categories/iraq/1078978",
+    "title": "Weapons handover mechanism final bottleneck in negotiations with armed groups: Official",
+    "title_en": "Weapons handover mechanism final bottleneck in negotiations with armed groups: Official",
+    "summary": "ERBIL, Kurdistan Region - Negotiations between a three-member Shiite committee and three Iran-backed armed groups regarding disarmament mechanisms are in progress, a senior leader from the ruling Coordination Framework told Rudaw on Tuesday. Amer al-Fayez, head of the Tasmim Alliance, one of the 12 parties that make up the ruling Coordination Framework, told Rudaw's Hastyar Qadir the committee has begun talks with Kata’ib Hezbollah, Harakat al-Nujaba and Kata’ib Sayyid al-Shuhada, which have yet",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "15c16883e0a764ee",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1868635",
+    "title": "کاریگەریی جەنگ لەسەر تێچووی ژیان لە واشنتن و تاران",
+    "title_en": "کاریگەریی جەنگ لەسەر تێچووی ژیان لە واشنتن و تاران",
+    "summary": "جەنگی ئەمریکا لەگەڵ ئێران، سێ چیرۆکی جیاوازی هەڵاوسانی بەدوای خۆیدا هێناوە. لە ئەمریکا، جەنگێک کە کاریگەرییەکەی تەنیا لە رێگەی نرخی نەوت و سووتەمەنییەوە بەدەرکەوت، هەڵاوسانی لە 2.4%ـەوە بۆ 4.2% لە مانگی ئایاردا بەرزکردەوە. لە ئێران، کە چەقی جەنگەکەیە، هەڵاوسان 87.9%ـی تێپەڕاندووە و بەهای تمەن لە ماوەی دوو ساڵ دا شەش هێندە دابەزیوە. لە تورکیای دراوسێی ئێران، کە تەنیا کاریگەربووە بە لێکەوتەکانی وزە و دراو، هەڵاوسان لە ئاستی 31% بۆ 32% (ئامارە فەرمییەکانی حکومەت) جێگیربووە. ئەم سێ جۆرە لە هەڵاوسان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bcaf1163c0831a1e",
+    "url": "https://www.rudaw.net/sorani/categories/news/1868635",
+    "title": "کاریگەریی جەنگ لەسەر تێچووی ژیان لە واشنتن و تاران",
+    "title_en": "کاریگەریی جەنگ لەسەر تێچووی ژیان لە واشنتن و تاران",
+    "summary": "جەنگی ئەمریکا لەگەڵ ئێران، سێ چیرۆکی جیاوازی هەڵاوسانی بەدوای خۆیدا هێناوە. لە ئەمریکا، جەنگێک کە کاریگەرییەکەی تەنیا لە رێگەی نرخی نەوت و سووتەمەنییەوە بەدەرکەوت، هەڵاوسانی لە 2.4%ـەوە بۆ 4.2% لە مانگی ئایاردا بەرزکردەوە. لە ئێران، کە چەقی جەنگەکەیە، هەڵاوسان 87.9%ـی تێپەڕاندووە و بەهای تمەن لە ماوەی دوو ساڵ دا شەش هێندە دابەزیوە. لە تورکیای دراوسێی ئێران، کە تەنیا کاریگەربووە بە لێکەوتەکانی وزە و دراو، هەڵاوسان لە ئاستی 31% بۆ 32% (ئامارە فەرمییەکانی حکومەت) جێگیربووە. ئەم سێ جۆرە لە هەڵاوسان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
