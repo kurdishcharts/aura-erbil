@@ -262323,6 +262323,96 @@
     }
   },
   {
+    "id": "e3b865bdf8ac9f6c",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1078992",
+    "title": "President Barzani thanks Germany for support during 'difficult times'",
+    "title_en": "President Barzani thanks Germany for support during 'difficult times'",
+    "summary": "ERBIL, Kurdistan Region – Kurdistan Region President Nechirvan Barzani on Wednesday thanked Germany for its support to the Region, particularly during the war against the Islamic State (ISIS), as well as its assistance to Yazidi refugees. According to a statement from his office, President Barzani made the remarks during a meeting in Erbil with Kassem Taher Saleh, a member of Germany’s Federal Parliament from the Green Party. During the meeting, President Barzani expressed that he “highly apprec",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dd5af64b1fe317ea",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1868744",
+    "title": "لە دەربەندیخان دەست بەسەر بڕێکی زۆر داری بڕدراودا گیرا",
+    "title_en": "لە دەربەندیخان دەست بەسەر بڕێکی زۆر داری بڕدراودا گیرا",
+    "summary": "رووداو دیجیتاڵ مەفرەزەکانی پۆلیسی دارستان و ژینگەی دەربەندیخان لە کێوماڵێکیاندا بۆ سنووری ناوچەکانی شەمێران و تاوەگۆزی، دەستیان بەسەر ژمارەیەک داری بڕدراودا گرت و لێکۆڵینەوەش بۆ دۆزینەوەی سەرپێچیکاران بەردەوامە. هێمن کەمەرخانی، گوتەبێژی پۆلیسی دارستان و ژینگەی سلێمانی بە تۆڕی میدیایی رووداوی راگەیاند، \"مەفرەزەیەکی بەشی پۆلیسی دارستانی دەربەندیخان بە مەبەستی چاودێری و پاراستنی ژینگە، دەرچوونێکیان بۆ سنووری گوندەکانی (کانی کەوە و بیمارۆک) ئەنجامدا؛ لەوێ توانرا دەست بەسەر ژمارەیەک داری بڕدراودا بگی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5965ca593dee669c",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1868743",
+    "title": "بەشی فیلمسازی لە زانکۆی سلێمانی: زیاتر لە 70٪ـی دەرچووانمان کاریان دەستدەکەوێ",
+    "title_en": "بەشی فیلمسازی لە زانکۆی سلێمانی: زیاتر لە 70٪ـی دەرچووانمان کاریان دەستدەکەوێ",
+    "summary": "رووداو دیجیتاڵ سەرۆکی بەشی فیلمسازی لە زانکۆی سلێمانی دەڵێ، زیاتر لە 70٪ـی دەرچووانی بەشەکەی لە زانکۆی سلێمانی کاریان دەست دەکەوێ، چونکە لەکاتی خوێندندا دەچنە کۆمپانیاکانی بەرهەمهێنانی کاری میدیایی و لەوێ شارەزای کارکردن دەبن. د. دڵشاد مستەفا، سەرۆکی بەشی فیلمسازی لە کۆلێژی هونەری زانکۆی سلێمانی، ئەمڕۆ 26ـی ئابی 2026 لەکاتی بەشداریکردنی لە هەواڵەکانی کاژێر 10:00ـی تۆڕی میدیایی رووداو کە ئارێز خالید لە ستۆدیۆکانی رووداو لە سلێمانی پێشکێشی دەکات، گوتی: \"وانەیەکمان لە قۆناخی چوارەمی بەشی فیلمسازی ه",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6a05abd38741d448",
+    "url": "https://www.rudaw.net/sorani/categories/world/1868742",
+    "title": "ژمارەیەک هاونیشتمانی لە فەرەنسا داوای گەڕانەوە دەکەن",
+    "title_en": "ژمارەیەک هاونیشتمانی لە فەرەنسا داوای گەڕانەوە دەکەن",
+    "summary": "رووداو دیجیتاڵ زیاتر لە 30 کۆچبەری کورد، کە زۆربەیان خەڵکی هەولێر و سلێمانی و دهۆکن، لە یەکێک لە سەنتەرەکانی دیپۆرتکردنەوە لە فەرەنسا دەمێننەوە و چاوەڕێی گەڕاندنەوەیان بۆ هەرێمی کوردستان دەکەن. کۆچبەرەکان دەڵێن، بەهۆی نەبوونی کاخەزی چاپکردنی پاسپۆرتی یەکجاری لە فەرەنسا، گەڕاندنەوەیان دواخراوە و دۆخی ژیانیان خراپە. دیار جەمال، گەنجێکی 26 ساڵە و خەڵکی هەولێرە، بەناوی زیاتر لە 30 کۆچبەرەکەوە بە رووداوی راگەیاند، زیاتر لە سێ مانگە ناویان بۆ گەڕاندنەوە بۆ هەرێمی کوردستان تۆمار کراوە، بەڵام لەلایەن دە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5ef6578f560fead6",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304553",
+    "title": "Nêçîrvan Barzanî parlamenterê Kurd ê Almanyayê Qasim Tahir Salih qebûl kir",
+    "title_en": "Nêçîrvan Barzanî parlamenterê Kurd ê Almanyayê Qasim Tahir Salih qebûl kir",
+    "summary": "Hewlêr (Rûdaw) - Serokê Herêma Kurdistanê Nêçîrvan Barzanî, parlamenterê Kurd ê Parlamentoya Federal a Almanyayê yê Partiya Keskan Qasim Tahir Salih qebûl kir. Di civînê de pêwendiyên Hewlêr û Berlînê û rewşa koçberên Kurd ên Êzidî hatin gotûbêjkirin. Serokatiya Herêma Kurdistanê li ser hevdîtina Nêçîrvan Barzanî û Qasim Tahir Salih daxuyaniyek belav kir. Piştgiriya ji bo Herêma Kurdistanê û koçberên Êzidî Li gorî daxuyaniyê, Nêçîrvan Barzanî di hevdîtinê de pesnê piştgiriya Parlamentoya Almanya",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
