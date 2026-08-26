@@ -261333,6 +261333,42 @@
     }
   },
   {
+    "id": "160e0005dc54f815",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1304541",
+    "title": "Rêberê Durziyan: Em beşeke Îsraîlê ne",
+    "title_en": "Rêberê Durziyan: Em beşeke Îsraîlê ne",
+    "summary": "Hewlêr (Rûdaw) - Rêberê bilind ê Durziyên Sûriyeyê Şêx Hikmet Hecerî ragihand ku Durzî beşeke veneqetiyayî ya Îsraîlê ne û ew li benda guherînên mezin ên li herêmê ne. Şêx Hikmet Hecerî doh di hevpeyvînekê de da zanîn ku ew ji aliyê bawerî û dîrokê ve bi dewleta Îsraîlê re hevpar in û got: \"Em wekî yekxwedaparêzan beşeke Îsraîlê ne û em jê qut nabin. Em dixwazin vî welatî û vê ramanê biparêzin.\" \"Em li benda guherînên nû ne\" Hikmet Hecerî amaje bi wê yekê kir ku divê avakirina welatên li herêmê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "23b4de13cb03ba03",
+    "url": "https://www.rudaw.net/kurmanci/categories/sriye/1304541",
+    "title": "Rêberê Durziyan: Em beşeke Îsraîlê ne",
+    "title_en": "Rêberê Durziyan: Em beşeke Îsraîlê ne",
+    "summary": "Hewlêr (Rûdaw) - Rêberê bilind ê Durziyên Sûriyeyê Şêx Hikmet Hecerî ragihand ku Durzî beşeke veneqetiyayî ya Îsraîlê ne û ew li benda guherînên mezin ên li herêmê ne. Şêx Hikmet Hecerî doh di hevpeyvînekê de da zanîn ku ew ji aliyê bawerî û dîrokê ve bi dewleta Îsraîlê re hevpar in û got: \"Em wekî yekxwedaparêzan beşeke Îsraîlê ne û em jê qut nabin. Em dixwazin vî welatî û vê ramanê biparêzin.\" \"Em li benda guherînên nû ne\" Hikmet Hecerî amaje bi wê yekê kir ku divê avakirina welatên li herêmê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
