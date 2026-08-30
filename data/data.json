@@ -273825,6 +273825,384 @@
     }
   },
   {
+    "id": "b98520d5bd739324",
+    "url": "https://www.rudaw.net/english/categories/iran/1079064",
+    "title": "Intelligence officers detain Kurdish environmental activist, abduct to unknown location",
+    "title_en": "Intelligence officers detain Kurdish environmental activist, abduct to unknown location",
+    "summary": "ERBIL, Kurdistan Region - Iranian intelligence officers raided the family home of a Kurdish environmental activist from Marivan in Iran’s western Kurdish-majority province, arrested him without a warrant, and abducted him to an unknown location, amid a series of sweeping arbitrary arrests in recent weeks to incite fear in the public. Islamic Revolutionary Guard Corps (IRGC) intelligence officers on August 20, raided the family home of Hadi Roboseh, a Kurdish environmental activist from Marivan, ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e5fc04ba22996677",
+    "url": "https://www.rudaw.net/english/categories/iran/1079062",
+    "title": "IRGC vows retaliation after US strike leaves fatalities: State media",
+    "title_en": "IRGC vows retaliation after US strike leaves fatalities: State media",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) vowed a response after members of its force were killed in a reported US strike on Larak Island in Iran’s south, state media announced late Sunday, one hour after an IRGC-affiliated media reported the strike. “In an act of aggression” an attack on Larak Island resulted in the killing and injury of several IRGC members, Islamic Republic News Agency (IRNA) said, carrying a statement from the IRGC. “This act will be answered by ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0bab33ffc686264b",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1079061",
+    "title": "Kurdish opposition leader backs SDF integration, defends non-interference in Iran war",
+    "title_en": "Kurdish opposition leader backs SDF integration, defends non-interference in Iran war",
+    "summary": "ERBIL, Kurdistan Region - The dissolution of the Syrian Democratic Forces (SDF) was “inevitable” but it will eventually yield good results, a senior leader of the opposition Kurdistan Democratic Party of Iran (KDPI) said, adding that the party’s stance to not participate in the US-Iran war was based on “accurate” calculations. Speaking at an event in the UK celebrating the KDPI’s 81st anniversary on Friday, party spokesperson Khalid Azizi stated that the Kurdish issue in northeast Syria (Rojava)",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "87b90a8d243b4346",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1869190",
+    "title": "ئەردۆغان لەبارەی پرۆسەی چارەسەری: دەرفەتی نووسینەوەی لاپەڕەیەکی زێڕینمان لە مێژوو بۆ رەخساوە",
+    "title_en": "ئەردۆغان لەبارەی پرۆسەی چارەسەری: دەرفەتی نووسینەوەی لاپەڕەیەکی زێڕینمان لە مێژوو بۆ رەخساوە",
+    "summary": "رووداو دیجیتاڵ رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا لە گوتارێکی بەبۆنەی (جەژنی سەرکەوتن) کە شەوی 30-8-2026 پێشکێشی کرد، باسی پرۆسەی چارەسەریی کرد و سنگفراوانیی وڵاتەکەی بۆ هاوئاهەنگی لەگەڵ وڵاتانی دراوسێ و ناوچەکە دووپاتکردەوە؛هەروەها پرۆسەی چارەسەریی بە دەرفەتی مێژوویی وەسفکرد و هیوای خواست بەهەدەر نەدرێت. ئەردۆغان لەبارەی پرۆسەی (ناوچەی بێ تیرۆر) و برایەتیی گەلانی ناوچەکە گوتی:\"سنوورەکان دەکرێ لەڕووی فیزیکییەوە وڵاتەکان لە یەکدی جیابکەنەوە، بەڵام ناتوانن دڵەکان و مرۆڤەکان لەیەکدی جیابکەنەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0500b961f428a94c",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1869182",
+    "title": "ئەمریکا هێرشی کردەوە سەر ئێران",
+    "title_en": "ئەمریکا هێرشی کردەوە سەر ئێران",
+    "summary": "رووداو دیجیتاڵ بەرپرسێکی ئەمریکی رایگەیاند، هێزەکانی ئەمریکا دوو سەکۆی هاوێشتنی مووشەکی سەر بە سوپای پاسدارانی کۆماری ئیسلامیی ئێرانیان لە دوورگەی لارک لە باشووری وڵاتەکە بۆردوومان کردووە. رۆژی یەکشەممە 30-08-2026 میدیای ئێران بڵاویکردەوە، دوو کەس کوژراون و دووی دیکەش برینداربوون. ئەو بەرپرسە ئەمریکییە راگەیاندووە، هێرشەکەی رۆژی یەکشەممە رێک لەو کاتەدا کراوە \"ئەو سەکۆ مووشەکییانە خەریکی ئامادەکردن بوون بۆ هاوێشتنی چەند مووشەکێک بەرەو تەنگەی هورمز، بە مەبەستی تێکدانی ئاسایشی کەشتیوانی.\" بە گوتەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b555713b1e75dd43",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869189",
+    "title": "لە هەولێر پیاوێک دوای دانیشتنی دادگە، خوشکی هاوژینەکەی کوشت",
+    "title_en": "لە هەولێر پیاوێک دوای دانیشتنی دادگە، خوشکی هاوژینەکەی کوشت",
+    "summary": "رووداو دیجیتاڵ بە قەمیسێکی سپی و دەمانچەیەکەوە، بێدەنگیی نیوەڕۆی گەڕەکی 99ی زانکۆی لە هەولێر شێواند؛ پیاوێکی تەمەن 28 ساڵ، لە چەند خولەکێکدا 14 گوللـەی تەقاند و ژیانی خێزانێکی هەڵوەشاندەوە. خوشکێکی هاوژینەکەی کوژرا و هاوژینەکەی و خەزووریشی بریندار بوون. نیوەڕۆی رۆژی یەکشەممە، کاتێک خێزانێکی خەڵکی مەخموور دوای دانیشتنی دادگە بۆ نانخواردنی نیوەڕۆ لە ماڵی کچەکەیان لە هەولێر کۆببوونەوە، زاواکەیان بە بێدەنگی بەدوایاندا چوو و هێرشی کردە سەریان. رێبین عەلی، یەکێک لە شایەتحاڵەکانی رووداوەکە کە تازە لە د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "feb735168e198177",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869188",
+    "title": "پێشانگەی بیناسازی لە هەولێر کۆتاییهات؛ 950 گرێبەست و یاداشتی لێکتێگەیشتن واژۆکران",
+    "title_en": "پێشانگەی بیناسازی لە هەولێر کۆتاییهات؛ 950 گرێبەست و یاداشتی لێکتێگەیشتن واژۆکران",
+    "summary": "رووداو دیجیتاڵ 16یـەمین پێشانگەی نێودەوڵەتیی بیناسازی، کارەبا و وزە لە هەولێر کۆتاییهات. 450 کۆمپانیا لە 20 وڵاتی جیاوازەوە لە پێشانگەکەدا بەشداربوون و زیاتر لە 600 گرێبەست و 350 یاداشتی لێکتێگەیشتنی تێدا واژۆ کرا. پێشانگەکە کە ماوەی چوار رۆژی خایاند، کۆمپانیاکانی بوارە جیاوازەکانی بیناسازی، کارەبا و وزەی کۆکردەوە و نزیکەی 20 هەزار کەس سەردانیان کرد. یەکێک لەو بوارانەی ئەم ساڵ زیاتر سەرنجی بەشداربووان و سەردانیکەرانی راکێشا، کۆمپانیاکانی بواری وزەی خۆر بوون. کاریگەریی پێشانگەکە لەسەر کۆمپانیا بی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b1cb2037b8e90ec",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1869187",
+    "title": "سوپای پاسداران: ئەمریکا باجی هێرشەکەی سەر دوورگەی لارک دەدات",
+    "title_en": "سوپای پاسداران: ئەمریکا باجی هێرشەکەی سەر دوورگەی لارک دەدات",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی سوپای پاسدارانی ئێران هۆشداری دەداتە واشنتن و رایدەگەیێنێت، \"دوژمن\" لە هەردوو بواری ئابووری و سەربازیدا باجی هێرشەکەی سەر دوورگەی لارک دەدات. دەشڵێت، ئەو هەنگاوە \"هەڵەیەکی ستراتیژیی کوشندە\" بووە لەلایەن ئیدارەی ترەمپەوە. یەکشەممە 30ـی ئابی 2026، حوسێن موحێبی، گوتەبێژی سوپای پاسداران، لە هەژماری فەرمی خۆی لە تۆڕی کۆمەڵایەتیی (ئێکس) رایگەیاند: \"ئەو هەنگاوە، هەڵەیەکی ستراتیژی و کوشندە بوو لەلایەن رژێمی ترەمپەوە لە میانی جەنگی ئابووریدا؛ هەڵەیەک کە هاوسەنگییەکە دژی داڕێژەرانی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c0ac4638aa1b8d2c",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869186",
+    "title": "دوای دەرکەوتنی لە رووداو؛ بە فەرمانی سەرۆکوەزیران ژنێکی دهۆک دەچێتە حەج",
+    "title_en": "دوای دەرکەوتنی لە رووداو؛ بە فەرمانی سەرۆکوەزیران ژنێکی دهۆک دەچێتە حەج",
+    "summary": "رووداو دیجیتاڵ دوای ئەوەی ژنەک لە رێی شاشەی رووداوەوە داواکاریی خۆی گەیاند، بە فەرمانی سەرۆکوەزیرانی هەرێمی کوردستان بڕیاردرا حەربییە خان، هاوژینی شەهیدێکی ئەنفالی بادینانە، ئەم ساڵ بنێردرێت بۆ حەج. حەربییە خان، دانیشتووی ناحیەی سەرسنگە لە سنووری پارێزگای دهۆک، رۆژی 26-8-2026 لە رێی مایکی رووداوەوە داوای کردبوو هاوکاری بکرێت بۆ ئەوەی بڕواتە حەج. یەکشەممە 30ـی ئابی 2026، بە فەرمانی مەسرور بارزانی، سەرۆکوەزیرانی هەرێمی کوردستان و بە پێشنیازی وەزیری ئەوقاف و کاروباری ئایینی، بڕیاردرا داواکارییەکەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6fa4a4c213bf08b1",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869185",
+    "title": "ژنە پارێزەرێکی خەڵکی ئیلام دەستبەسەرکراوە و چارەنووسی دیارنییە",
+    "title_en": "ژنە پارێزەرێکی خەڵکی ئیلام دەستبەسەرکراوە و چارەنووسی دیارنییە",
+    "summary": "رووداو دیجیتاڵ هێزە ئەمنییەکانی ئێران ژنە پارێزەرێکی خەڵکی ئاودانانی پارێزگای ئیلامیان دەستگیرکردووە و چارەنووسی نادیارە. رۆژی یەکشەممە، 30ی ئابی 2026، رێکخراوەکانی مافی مرۆڤی رۆژهەڵاتی کوردستان رایانگەیاند، لە رۆژی پێنجشەممەی رابردووەوە رازیە هاشمی، ژنە پارێزەری خەڵکی شاری ئاودانان لە پاریزگای ئیلام لەلایەن هێزەکانی ئێرانەوە دەستبەسەر کراوە. بە گوێرەی رێکخراوەکانی مافی مرۆڤ، هێزەکانی ئیتلاعاتی شاری ئاودانان بەبێ پێشاندانی هیچ بەڵگەیەکی فەرمیی دادگە، چوونەتە ماڵی رازیە هاشمی و دەستبەسەریان کردوو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ca409756a9e7528a",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1869184",
+    "title": "محەممەد سەڵاح لە باکووری کوردستان دەبێ؛ ئامەدسپۆر میوانداری ترابزۆن سپۆر دەکات",
+    "title_en": "محەممەد سەڵاح لە باکووری کوردستان دەبێ؛ ئامەدسپۆر میوانداری ترابزۆن سپۆر دەکات",
+    "summary": "رووداو دیجیتاڵ  ترابزۆن سپۆر بە کۆمەڵێک ئەستێرەوە دەبێتە میوانی ئامەدسپۆر و لە هەفتەی سێیەمی خولی سوپەرلیگدا رووبەڕووی یەکدی دەبنەوە. یانەی ئامەدسپۆر تاکە نوێنەری ئامەدی باکووری کوردستان، کاژێر 9:30ی شەوی 31-8-2026 لە یاریگەی خۆیدا رووبەڕووی یانەی ترابزۆن سپۆر دەبێتەوە، ترابزۆن سپۆر ئەو وەرزە پشتئەستوورە بە تواناکانی محەممەد سەڵاح، ئەستێرەی میسری و فابینهۆی بەڕازیلی. یەکەمجارە ترابزۆن سپۆر بە کۆمەڵێک ئەستێرەوە پێ دەنێتە خاکی کوردستان، لە ریزەکانی یانەکەدا جگە لەو دوو یاریزانە ئەستێرە، ئەندرێ ئۆن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eced6e2b325e57f6",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869183",
+    "title": "خانەنشینان و مووچەخۆران نیگەرانن؛ وادەی \"هەژماری من\" نزیکبووەتەوە و هەزاران کەس بێکارتمان",
+    "title_en": "خانەنشینان و مووچەخۆران نیگەرانن؛ وادەی \"هەژماری من\" نزیکبووەتەوە و هەزاران کەس بێکارتمان",
+    "summary": "رووداو دیجیتاڵ لەگەڵ نزیکبوونەوەی وادەی کۆتاییهاتنی دابەشکردنی مووچە بە کاش، ژمارەیەکی زۆر لە مووچەخۆران و خانەنشینان لە هەرێمی کوردستان هێشتا کارتی بانکیی \"هەژماری من\"ـیان بەدەست نەگەیشتووە، ئەمەش نیگەرانیی لای ئەو کەسانە دروستکردووە کە ترسیان لە دواکەوتن یان لەدەستدانی مووچەکانیان هەیە. ژمارەیەک لەو هاونیشتمانییانەی کە چاوەڕێی وەرگرتنی کارتی \"هەژماری من\"ن، باس لەوە دەکەن کە ماوەیەکی زۆرە فۆڕمیان پڕکردووەتەوە، بەڵام تاوەکو ئێستا هیچ وەڵامێکیان پێنەگەیشتووە. سەبریە عەلی، خانمێکی خانەنشینە و دەڵێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "703cc4abedc369e1",
+    "url": "https://www.rudaw.net/sorani/categories/news/1869148",
+    "title": "کۆتایی هەسەدە، دەرفەت و تەگەرەکانی پرسی کورد لە سووریا",
+    "title_en": "کۆتایی هەسەدە، دەرفەت و تەگەرەکانی پرسی کورد لە سووریا",
+    "summary": "ساڵی 1947دا نەتەوە یەکگرتووەکان پلانێکی هەبوو بۆ دابەشکردنی خاک لەنێوان یەهوودی و فەلەستینییەکان، بەجۆرێک 57٪ی بۆ لایەنی یەکەم و 43٪ی بۆ دەوڵەتێکی فەلەستینی تەرخان کرابوو، دوای دەیان ساڵ شەڕ و ئاژاوە، ئەمڕۆ فەلەستینییەکان بە کەمتر لە 22٪ی ئەو جوگرافیایەی جارانیش رازین، بەڵام هێشتا دوورن لەوەی دەوڵەت دابمەزرێنن. جەنگیز چاندار دەڵێ، کاتی خۆی زانکۆ ئەم بابەتە مێژووییەم کردبووە پرسیارێک بۆ خوێندکارانی قۆناخی کۆتایی و گوتبووم \"ئایا باشتر نەبوو هەر لە سەرەتاوە عەرەب بڕیارنامەی ژمارە 181ی نەتەوە یەکگرت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "66d9363d93be507b",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304728",
+    "title": "Amerîkayê êrişî Îranê kir",
+    "title_en": "Amerîkayê êrişî Îranê kir",
+    "summary": "Hewlêr (Rûdaw) - Berpirsekî Amerîkayî ragihand ku hêzên Amerîkayê li Girava Larakê ya li başûrê Îranê êrişî 2 platformên mûşekan ên Supaya Pasdaran a Komara Îslamî ya Îranê kir. Medyaya Îranê ragihand ku di vê êrişê de 2 kes hatine kuştin û 2 kesên din jî birîndar bûne. Hedef Tengava Hurmizê bû Berpirsê Amerîkayî yê ku nexwestiye navê wî eşkere bibe, diyar kir ku êrişa îro di wî demî de hatiye kirin ku ew platformên mûşekan dihatin amadekirin. Wî da zanîn ku armanca wan amadehiyan ew bûye ku çen",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "07cef2169335365c",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304731",
+    "title": "Li Kobaniyê kampanyayên paqijiyê bûne çanda bajêr",
+    "title_en": "Li Kobaniyê kampanyayên paqijiyê bûne çanda bajêr",
+    "summary": "Hewlêr (Rûdaw) - Li bajarê Kobaniyê yê Rojavayê Kurdistanê kampanyayên berfireh ên paqijiyê bi beşdariya gel, sazî û dezgehên xwecihî berdewam dikin. Şêniyên Kobaniyê ji bo ku bajarê wan paqij bimîne bi berdewamî tev li pêngavên paqijiyê dibin. Nûçegihanê me Şivan Misî li Kobaniyê pengaveke nû ya paqijkirina bajêr şopand û li ser armanc û qonaxên nû yên vê xebatê bi Endama Desteya Jîngehê Hevîn Mûşoyê re axivî. \"Armanca me…\" Hevîn Mûşo derbarê xebatên paqijiyê wiha axivî: \"Ev pêngav ji aliyê des",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a314486065f951ff",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304730",
+    "title": "Li Qersê di kelegerma havînê de teyrok bariya",
+    "title_en": "Li Qersê di kelegerma havînê de teyrok bariya",
+    "summary": "Hewlêr (Rûdaw) - Li navçeyên Sarîqamîş û Dîgorê yên parêzgeha Qersê ya Bakurê Kurdistanê teyrok û barana gur bandoreke neyînî li jiyanê kir. Li Sarîqamîşê piştî barana gur teyrokê (zîpik, gijlok) jî lê kir. Ji ber libên teyrokê yên bi qasî findiqan, her der spî bû. Li ser kolan û rêyan golên avê çêbûn û ajokar ji ber ava kombûyî bi zehmetî wesayîtên xwe ajotin. Baxçe û banên avahiyan bi teyrokê nixumîn û teyrokê ziyan da zeviyan jî. Welatiyan hewl da wesayîtên xwe bi karton, naylon û betaniyan j",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7fa768849526b882",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304729",
+    "title": "Erdogan ji Leyla Zanayê re sersaxî xwest",
+    "title_en": "Erdogan ji Leyla Zanayê re sersaxî xwest",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan ji bo koça dawî ya siyasetmedarê Kurd û Serokê berê yê Şaredariya Amedê Mehdî Zana sersaxî da Leyla Zanayê. Siyasetmedarê Kurd û Şaredarê berê yê Amedê Mehdî Zana, doh li nexweşxaneya ku lê dihat dermankirin koça dawî kir . Serokomarê Tirkiyeyê Recep Tayyîp Erdogan bi telefonê bi parlamentera berê Leyla Zanayê re axivî. Erdogan di pêwendiya bi telefonê de ji ber koça dawî ya hevjînê wê Mehdî Zana sersaxî da Leyla Zanayê. Mehdî Zana 20ê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "78093472ec9c4fd5",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304728",
+    "title": "Amerîkayê êrişî Îranê kir",
+    "title_en": "Amerîkayê êrişî Îranê kir",
+    "summary": "Hewlêr (Rûdaw) - Berpirsekî Amerîkayî ragihand ku hêzên Amerîkayê li Girava Larakê ya li başûrê Îranê êrişî 2 platformên mûşekan ên Supaya Pasdaran a Komara Îslamî ya Îranê kir. Medyaya Îranê ragihand ku di vê êrişê de 2 kes hatine kuştin û 2 kesên din jî birîndar bûne. Hedef Tengava Hurmizê bû Berpirsê Amerîkayî yê ku nexwestiye navê wî eşkere bibe, diyar kir ku êrişa îro di wî demî de hatiye kirin ku ew platformên mûşekan dihatin amadekirin. Wî da zanîn ku armanca wan amadehiyan ew bûye ku çen",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a12e8bec395f592c",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1304727",
+    "title": "Agirî dê di 5 salan de 17 ton zêr hilberîne",
+    "title_en": "Agirî dê di 5 salan de 17 ton zêr hilberîne",
+    "summary": "Hewlêr (Rûdaw) - Kanzaya Zêr a Meleqereyê ya Agiriyê ji aliyê Şirketên Zêr ên Tirkiyeyê ve li navçeya Giyadînê hat vekirin û ev kanza dê di 5 salan de 17 ton zêr hilberîne. Alîkarê Serokkomarê Tirkiyeyê Cevdet Yilmaz di dema vekirina kanzayê de axivî û hêviya xwe anî ziman: \"Ev veberhênana hêja ya ku dê potansiyela Agiriyê çalak bike û li herêmê ji bo hilberîn û kar derfetên nû peyda bike, ji bo welat û gelê me li ser xêrê be.\" Yilmaz bal kişand ser girîngiya hilberînê û axaftina xwe wiha domand",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "264c7dc4b777d3b3",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304729",
+    "title": "Erdogan ji Leyla Zanayê re sersaxî xwest",
+    "title_en": "Erdogan ji Leyla Zanayê re sersaxî xwest",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan ji bo koça dawî ya siyasetmedarê Kurd û Serokê berê yê Şaredariya Amedê Mehdî Zana sersaxî da Leyla Zanayê. Siyasetmedarê Kurd û Şaredarê berê yê Amedê Mehdî Zana, doh li nexweşxaneya ku lê dihat dermankirin koça dawî kir . Serokomarê Tirkiyeyê Recep Tayyîp Erdogan bi telefonê bi parlamentera berê Leyla Zanayê re axivî. Erdogan di pêwendiya bi telefonê de ji ber koça dawî ya hevjînê wê Mehdî Zana sersaxî da Leyla Zanayê. Mehdî Zana 20ê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "205727910d32affa",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304727",
+    "title": "Agirî dê di 5 salan de 17 ton zêr hilberîne",
+    "title_en": "Agirî dê di 5 salan de 17 ton zêr hilberîne",
+    "summary": "Hewlêr (Rûdaw) - Kanzaya Zêr a Meleqereyê ya Agiriyê ji aliyê Şirketên Zêr ên Tirkiyeyê ve li navçeya Giyadînê hat vekirin û ev kanza dê di 5 salan de 17 ton zêr hilberîne. Alîkarê Serokkomarê Tirkiyeyê Cevdet Yilmaz di dema vekirina kanzayê de axivî û hêviya xwe anî ziman: \"Ev veberhênana hêja ya ku dê potansiyela Agiriyê çalak bike û li herêmê ji bo hilberîn û kar derfetên nû peyda bike, ji bo welat û gelê me li ser xêrê be.\" Yilmaz bal kişand ser girîngiya hilberînê û axaftina xwe wiha domand",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
