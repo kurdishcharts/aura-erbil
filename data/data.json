@@ -279513,6 +279513,546 @@
     }
   },
   {
+    "id": "7d1f5a83bb8d8576",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1079098",
+    "title": "IRGC strikes US surveillance balloon over Erbil",
+    "title_en": "IRGC strikes US surveillance balloon over Erbil",
+    "summary": "ERBIL, Kurdistan Region - The Islamic Revolutionary Guard Corps (IRGC) struck and destroyed a US surveillance balloon flying over Erbil in the early hours of Wednesday morning, two Kurdish security sources told Rudaw English. The attack on the Tethered Aerostat Radar System (TARS) came amid a new round of tensions between the United States and Iran, with both sides exchanging heavy fire overnight and into the early hours of Wednesday. The IRGC fired several drones targeting the US base at Erbil ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2e23888c902fcb0b",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1079097",
+    "title": "IRGC fires several drones at Erbil as US-Iran tension escalates",
+    "title_en": "IRGC fires several drones at Erbil as US-Iran tension escalates",
+    "summary": "ERBIL, Kurdistan Region - Iran’s Islamic Revolutionary Guard Corps (IRGC) said Wednesday that its ground forces launched a combined missile and drone attack on a US base in Erbil, claiming the strike destroyed a repair center and technical equipment warehouses and set fuel tanks on fire. The IRGC said the attack also destroyed what it described as “the guidance system for the American spy balloon at the base” and killed “a number of the aggressors.” The attack comes amid a sharp escalation betwe",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b1d92592fde17482",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869424",
+    "title": "فڕۆکەوانیی مەدەنی عێراق بۆ رووداو: ئاسمانی عێراق دانەخراوە",
+    "title_en": "فڕۆکەوانیی مەدەنی عێراق بۆ رووداو: ئاسمانی عێراق دانەخراوە",
+    "summary": "رووداو دیجتیاڵ دەسەڵاتی فڕۆکەوانیی مەدەنی عێراق دەڵێ، ئاسمانی عێراق کراوەیە. جیهاد دیوان، بەڕێوەبەری راگەیاندن و پەیوەندییەکان لە دەسەڵاتی فڕۆکەوانیی مەدەنی عێراق، ئەمڕۆ چوارشەممە 2ی ئەیلوولی 2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"ئاسمانی عێراق کراوەیە و بە هیچ شێوەیەک دانەخراوە\". ئەمە لەکاتێکدایە بەهۆی پێشهاتەکانی ناوچەکەوە، شەوی رابردوو سەرجەم گەشتە ئاسمانییەکانی ئێران بۆ عێراق هەڵوەشانەوە. ئەحمەد وەحید، بەڕێوەبەری پەیوەندییەکان و راگەیاندن لە بەڕێوەبەرایەتیی کارگێڕیی فڕۆکەخانەکانی عێراق، بەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8ee3bbc695357eeb",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869421",
+    "title": "هێرشی سوپای پاسداران باڵۆنە چاودێرییەکەی ئەمریکای لە هەولێر لە کارخست",
+    "title_en": "هێرشی سوپای پاسداران باڵۆنە چاودێرییەکەی ئەمریکای لە هەولێر لە کارخست",
+    "summary": "رووداو دیجیتاڵ بەرەبەیانی ئەمڕۆ سوپای پاسدارانی ئێران باڵۆنە چاودێرییەکەی ئەمریکای لە ئاسمانی هەولێر کردە ئامانج و لەکاریخست، دوو سەرچاوەی ئەمنی هەواڵەکەیان بۆ رووداو پشتڕاستکردووتەوە. تێکشکانی باڵۆنە چاودێرییەکەی ئاسمانی هەولێر، لە چوارچێوەی هێرشە پێچەوانەکەی سوپای پاسدارانی ئێران بوو بۆ سەر ئامانجەکانی ئەمریکا لە ناوچەکە. سوپای پاسداران بە ژمارەیەک درۆن بنکەی ئەمریکای لە فڕۆکەخانەی هەولێر و بارەگای هێزەکانی رۆژهەڵاتی لە هەولێر کردە ئامانج. دوو سەرچاوە ئەمنییەکە بە رووداویان گوت، لە ئەنجامی هێر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2ff65308d4dbe5ec",
+    "url": "https://www.rudaw.net/sorani/categories/world/1869420",
+    "title": "فەرمانگەی کۆچی ئەڵمانیا بۆ رووداو: ئەم ساڵ 39 هەزار و 646 کەس داوای مافی پەنابەرییان کردووە",
+    "title_en": "فەرمانگەی کۆچی ئەڵمانیا بۆ رووداو: ئەم ساڵ 39 هەزار و 646 کەس داوای مافی پەنابەرییان کردووە",
+    "summary": "رووداو دیجیتاڵ فەرمانگەی فیدراڵیی کۆچ و پەنابەرانی ئەڵمانیا بە رووداوی راگەیاند، لە 6 مانگی سەرەتای ئەم ساڵدا 39 هەزار و 646 کەس بۆ یەکەمجار داوای مافی پەنابەرییان کردووە، لەو ژمارەیەش 24 هەزار و 308 کەسیان هیچ بەڵگەنامەیەکییان پێ نەبووە. گوتەبێژێکی فەرمانگەی فیدراڵیی کۆچ و پەنابەرانی ئەڵمانیا نوێترین ئاماری پەناخوازانی بۆ کەهی مەحموود، ئێدیتۆری دێسکی نێودەوڵەتیی لە بەشی ئینتەیکی تۆڕی میدیایی رووداو ناردووە. ئەو فەرمانگەیە رایگەیاندووە، هەرچەندە هێشتا ئامارە نوێیەکانی ئەم ساڵ بە فەرمی بڵاونەکراو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "81dd76f06b5a5676",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869416",
+    "title": "کۆمپانیا تورکییەکان گەشتەکانیان بۆ هەرێمی کوردستان هەڵوەشاندەوە",
+    "title_en": "کۆمپانیا تورکییەکان گەشتەکانیان بۆ هەرێمی کوردستان هەڵوەشاندەوە",
+    "summary": "رووداو دیجیتاڵ کۆمپانیا فڕۆکەوانییە تورکییەکان بە شێوەیەکی کاتی ژمارەیەک لە گەشتە ئاسمانییەکانیان بۆ هەرێمی کوردستان هەڵوەشاندووەتەوە، ژمارەیەک گەشتیاریش لە فڕۆکەخانەی نێودەوڵەتیی هەولێر ماونەتەوە و چاوەڕێی بڕیاری کۆمپانیاکانن. \"ئیمەیلمان بۆ نەهاتووە لەبارەی هەڵوەشانەوەی گەشتەکان\" کارزان محەممەد، هاونیشتمانییەکی خەڵکی سلێمانییە و بە رووداوی گوت، \"لەگەڵ منداڵەکانم بەنیاز بووین لە رێگەی فڕۆکەی هێڵی ئاسمانیی تورکش ئێرلاینز بە شێوازی ترانزێت بگەڕێینەوە بۆ بەریتانیا، بەڵام سەرەڕای ئەوەی هیچ ئیمەیلێکم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ceab31433ee1a2d",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1869423",
+    "title": "ئەرتەشی ئێران: بە درۆن هێرشمان کردە سەر بنکەی سەربازیی شێخ عیسا لە بەحرێن",
+    "title_en": "ئەرتەشی ئێران: بە درۆن هێرشمان کردە سەر بنکەی سەربازیی شێخ عیسا لە بەحرێن",
+    "summary": "رووداو دیجیتاڵ ئەرتەشی ئێران رایگەیاند، لە وەڵامی هێرشەکانی واشنتن بۆ سەر ناوچەکانی باشووری وڵاتەکەی، بە ژمارەیەکی زۆر لە درۆن هێرشی کردووەتە سەر بنکەی سەربازیی (شێخ عیسا) لە بەحرێن و دامەزراوە رادارییەکانی ئەو بنکەیەی کردووەتە ئامانج. پەیوەندییە گشتییەکانی ئەرتەشی ئێران، رۆژی چوارشەممە، 02-09-2026، لە راگەیێندراوێکدا بڵاویکردەوە، لە 29یەمین قۆناخی ئۆپەراسیۆنی \"هەورەبرووسکە\"دا، یەکە درۆنییەکانی ئەرتەشی ئێران بە چڕی هێرشیان کردووەتە سەر دامەزراوە رادارییەکان و ناوەندەکانی کۆبوونەوەی هێزەکانی ئەمر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e3509eaae70b0f67",
+    "url": "https://www.rudaw.net/sorani/categories/health/1869422",
+    "title": "مایۆکلینیک: گوشاری دارایی لە کۆلیسترۆڵ و شەکر مەترسیدارترە بۆ سەر دڵ",
+    "title_en": "مایۆکلینیک: گوشاری دارایی لە کۆلیسترۆڵ و شەکر مەترسیدارترە بۆ سەر دڵ",
+    "summary": "رووداو - تەندروستی بەگوێرەی توێژینەوەیەکی مایۆکلینیک، گوشاری دارایی راستەوخۆ کار لەسەر تەندروستیی دڵ دەکات و کاریگەرییەکەی لە هۆکارە باوەکانی وەکو کۆلیسترۆڵ و شەکری خوێن زیاترە. بەپێی راپۆرتەکەی مایۆکلینیک، نیگەرانیی بەردەوام لەبارەی پارەوە وا دەکات جەستە لە دۆخێکی بەردەوامدا بێت، ئەمەش دەبێتە هۆی بەرزبوونەوەی کۆرتیزۆڵ و ئەدریناڵین، کە بە تێپەڕبوونی کات زیان بە لوولەکانی خوێن دەگەیێنن و پڕۆسەی پیربوونی دڵ خێراتر دەکەن. لەلایەکی دیکەوە، بە پشتبەستن بە ئامارەکانیی مایۆکلینیک، جگە لە زیانە جەستەیی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "36e92eb71d2b0f29",
+    "url": "https://www.rudaw.net/sorani/categories/health/1869419",
+    "title": "توێژینەوەیەک: گەشبینەکان دڵیان تەندروستترە لە کەسانی رەشبین",
+    "title_en": "توێژینەوەیەک: گەشبینەکان دڵیان تەندروستترە لە کەسانی رەشبین",
+    "summary": "رووداو - تەندروستی توێژینەوەیەکی نوێی زانکۆی ئیلینۆی ئۆربانا-شامپاین لە ئەمریکا، دەریدەخات کە (سوپاسگوزاری و گەشبینی) دەتوانن تەندروستیی دڵ و لوولەکانی خوێن باشتر بکەن. پڕۆفیسۆر د. رۆزالبا هێرناندێز، پڕۆفیسۆر لە بواری کاری کۆمەڵایەتی و سەرپەرشتیاری توێژینەوەکە رایگەیاند، \"راهێنانی دەروونی رۆژانە بۆماوەی 8 بۆ 12 خولەک کاریگەرییەکی ئەرێنی لەسەر پەستانی خوێن، هەوکردن و تەندروستیی دڵ دەبێت''. توێژینەوە ئەمریکییەکە ئاماژە بەوەش دەکات، خۆراکی تەندروست، خەوی پێویست، چالاکیی جەستەیی هاوشانی راهێنانە دەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "14d6582e5654f072",
+    "url": "https://www.rudaw.net/sorani/categories/health/1869418",
+    "title": "هۆشدارییەک بۆ منداڵان؛ سۆشیاڵ میدیاکان خەمبارتان دەکات",
+    "title_en": "هۆشدارییەک بۆ منداڵان؛ سۆشیاڵ میدیاکان خەمبارتان دەکات",
+    "summary": "رووداو - تەندروستی توێژینەوەیەک لە زانکۆی نیو ساوس وێڵز لە ئوسترالیا دەریخستووە، تەنیا هەبوون و نەبوونی هەژماری تۆڕی کۆمەڵایەتی گرنگ نییە، بەڵکو ئەو تەمەنەی منداڵ دەستدەکات بە بەکارهێنانی سۆشیاڵ میدیا رۆڵێکی گرنگی هەیە لەسەر دەرووندروستییان. پڕۆفیسۆر د. سوزان شوایتزەر، سەرپەرشتیاری سەرەکیی توێژینەوەکە دەڵێت: راپرسییەکە لەسەر منداڵانی تەمەن 10 بۆ 15 ساڵ ئەنجامدراوە و دەرکەوتووە، ئەو منداڵانەی لە تەمەنێکی بچووکتردا دەستیان بە بەکارهێنانی سۆشیاڵ میدیا کردووە، نیشانەکانی دڵەڕاوکێ و خەمۆکییان زیاتر ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f032ae86e6cea6b",
+    "url": "https://www.rudaw.net/sorani/categories/health/1869417",
+    "title": "توێژینەوەیەکی ئەمریکی: خواردنەوە شیرینەکان مەترسیی شێرپەنجەی گەدە زیاتر دەکەن",
+    "title_en": "توێژینەوەیەکی ئەمریکی: خواردنەوە شیرینەکان مەترسیی شێرپەنجەی گەدە زیاتر دەکەن",
+    "summary": "رووداو - تەندروستی توێژینەوەیەک لە سەنتەری ماس جێنڕاڵ لە ئەمریکا ئەنجامدراوە و دەرکەوتووە، ئەو کەسانەی رۆژانە خواردنەوە شیرینەکان دەخۆنەوە، بە بەراورد بەوانەی نایخۆنەوە، زیاتر لە دوو هێندە مەترسیی تووشبوونیان بە شێرپەنجەی گەدە هەیە. بەگوێرەی توێژینەوە ئەمریکییەکە، فرەکتۆز، کە جۆرێکی شەکرە و بەزۆری لەم خواردنەوانەدا هەیە، پەیوەندییەکی بەهێزی بە زیادبوونی حاڵەتەکانی شێرپەنجەی گەدەوە هەیە. د. ئاندرۆ جان پسپۆڕی نەخۆشییەکانی هەناو و سەرپەرشتیاری توێژینەوەکە دەڵێت: توێژینەوەکە لەسەر زیاتر لە 112 هەزار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b8938b3411c5c8c0",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869415",
+    "title": "دژەتیرۆری کوردستان: 10 درۆنی بۆمبڕێژکراو لە ئاسمانی هەولێر تێکشکێندران",
+    "title_en": "دژەتیرۆری کوردستان: 10 درۆنی بۆمبڕێژکراو لە ئاسمانی هەولێر تێکشکێندران",
+    "summary": "رووداو دیجیتاڵ دژەتیرۆری کوردستان رایگەیاند، بەرەبەیانی ئەمڕۆ 10 درۆنی بۆمبڕێژکراو لە ئاسمانی شاری هەولێر لە ماوەی زیاتر لە دوو کاژێردا تێکشکێندراون. بەگوێرەی زانیارییەکانی دژەتیرۆری کوردستان، \"بەرەبەیانی ئەمڕۆ چوارشەممە 2ی ئەیلوولی 2026، لە کاژێر 01:13 تاوەکو 03:31، هێزەکانی هاوپەیمانان 10 درۆنی بۆمبڕێژکراویان لە سنووری ئاسمانی پارێزگای هەولێر تێکشکاند و خستنە خوارەوە.\" وەکو دژەتیرۆری کوردستان ئاماژەی پێداوە، درۆنە بۆمبڕێژکراوەکان \"خۆشبەختانە هیچ زیانێکی گیانییان لێ نەکەوتووەتەوە.\" زانیارییەکان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ff401440983fc3a4",
+    "url": "https://www.rudaw.net/sorani/categories/world/1869414",
+    "title": "رکابەری ئەمریکا و چین لەسەر ژیریی دەستکرد گەیشتە میسر",
+    "title_en": "رکابەری ئەمریکا و چین لەسەر ژیریی دەستکرد گەیشتە میسر",
+    "summary": "رووداو دیجیتاڵ رکابەری نێوان ئەمریکا و چین لە کەرتی تەکنۆلۆژیا گەیشتە وڵاتی میسر. ئەوەش دوای ئەوەی کۆمپانیای هواوی چین پێشنیازێکی پێشکەش بە حکومەتی میسر کردووە بۆ بونیاتنانی سەنتەری داتاکانی تایبەت بە ژیریی دەستکرد. بەگوێرەی پێشنیازەکەی هواوی کە لە 26ی ئابی 2026 پێشکەشکراوە، کۆمپانیاکە ئامادەیی نیشانداوە 2,008 چیپی ژیریی دەستکرد لە جۆری (Ascend) بۆ میسر دابین بکات، کە 1,408 دانەیان لە نوێترین جۆری (Ascend 950)ـن و بۆ راهێنانی ژیریی دەستکرد بەکاردێن، لەگەڵ 600 چیپی دیکە کە لە بوارەکانی دیکەی ژیری",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "43a296eba19afcc5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1869406",
+    "title": "دوای چەندین مانگ مانەوەی لە دەریا، کەشتیی فڕۆکەهەڵگری ئەبراهام لینکن گەیشتە کەناراوەکانی تایلاند",
+    "title_en": "دوای چەندین مانگ مانەوەی لە دەریا، کەشتیی فڕۆکەهەڵگری ئەبراهام لینکن گەیشتە کەناراوەکانی تایلاند",
+    "summary": "رووداو دیجیتاڵ کەشتیی فڕۆکەهەڵگری (ئەبراهام لینکن)ـی ئەمریکی کە بەهۆی خراپیی رەوشی نێوی دوای چەندین مانگ مانەوەی لە دەریا بووەتە چەقی مشتومڕێکی سیاسی، رۆژی چوارشەممە گەیشتە کەناراوەکانی تایلاند. کەشتییە زەبەلاحەکە کە بە وزەی ناوەکی کاردەکات، بەر لە چوونی بۆ بەندەری لام چابانگ لە نزیک پاتایا لە باشووری بانگکۆک بینرا، کە ئەمە یەکەمین دابەزینە بۆ سەر وشکانی بۆ 5,000 سەرنشینەکەی لە مانگی تشرینی دووەمەوە. کەشتیی لینکن لە مانگی تشرینی دووەمی 2025 بۆ ئەرکێک لە دەریای باشووری چین، کالیفۆرنیای جێهێشت، بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3269c50586a3e8a0",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869413",
+    "title": "یەک دۆلار بە زیاتر لە 215 هەزار تمەن مامەڵەی پێوەدەکرێت",
+    "title_en": "یەک دۆلار بە زیاتر لە 215 هەزار تمەن مامەڵەی پێوەدەکرێت",
+    "summary": "رووداو دیجیتاڵ ئەمرۆ چوارشەممە نرخی دۆلار بەرامبەر بە تمەن چوار هەزار تمەن یان بە رێژەی 1.89% بەرزبووەوە و گەیشتە 215,100 تمەن. لە ماوەی 24 کاژێری رابردوودا، بەرزترین نرخی دۆلار 215,100 تمەن و نزمترین نرخیشی 210,450 تمەن بووە. بەراورد بە هەفتەی رابردوو، بەهای دۆلار بەرامبەر بە تمەن بە رێژەی 6.75% بەرزبووەتەوە، بەڵام لە ماوەی شەش مانگی رابردوودا رێژەی بەرزبوونەوەی دۆلار گەیشتووەتە 29.27%. بەردەوامی بەرزبوونەوەی نرخی دۆلار دەریخست هێشتا خواستی زۆر لەسەر کڕینی دراوی بیانی هەیە. ئەمەش لەکاتێکدایە کە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f5a2dd8f8039234a",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869410",
+    "title": "جەنگ نرخی نەوتی بەرز کردەوە",
+    "title_en": "جەنگ نرخی نەوتی بەرز کردەوە",
+    "summary": "رووداو دیجیتاڵ ئەمرۆ چوارشەممە نرخی نەوت بەرزبووەوە، ئەوەش لەکاتێکدایە گرژییەکانی رۆژهەڵاتی نێوەڕاست پەرەدەستێنن دوای ئەوەی ئەمریکا نوێترین گەڕی هێرشەکانی بۆ سەر ئێران ئەنجامدا و بەگوێرەی راپۆرتەکانیش تاران وەڵامی هاوپەیمانانی ئەمریکای داوەتەوە. نرخی نەوتی برێنتی دەریای باکوور بە رێژەی زیاتر لە 2% بەرزبووەوە و گەیشتە 96.59 دۆلار بۆ هەر بەرمیلێک. نرخی نەوتی سووکی تەکساسی ئەمریکا بە رێژەی 1.73% بەرزبووەوە و بە 91.78 دۆلار مامەڵەی پێوەکرا. فەرماندەیی ناوەندیی هێزەکانی ئەمریکا (سێنتکۆم) لە پۆستێکدا ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d18cb9bd69a9c925",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869412",
+    "title": "نرخی زێر دابەزی بۆ کەمتر لە 4300 دۆلار",
+    "title_en": "نرخی زێر دابەزی بۆ کەمتر لە 4300 دۆلار",
+    "summary": "رووداو دیجیتاڵ ئەمرۆ چوارشەممە نرخی زێڕ بۆ نزمترین ئاستی لە ماوەی زیاتر لە سێ هەفتەی رابردوودا دابەزی. ئەوەش دوای ئەوەی پەرەسەندنی گرژییەکانی رۆژهەڵاتی ناوەڕاست کە بووە هۆی بەرزبوونەوەی نرخی نەوت و زیادبوونی ترس لە هەڵاوسان و بەرزکردنەوەی سوودی بانکی. نرخی زێڕ لە دوای کردنەوەی بازاڕەکانی ئاسیا ئەمرۆ بە رێژەی 0.6% دابەزی و گەیشتە 4290 دۆلار بۆ هەر ئۆنسەیەک. ئەوەش نزمترین ئاستە لە دوای 7ی ئابەوە تۆمارکرابێت. بەو پێیەش نرخی زێڕ بۆ چوارەمین رۆژی یەک لە دوای یەکە دادەبەزێت. نرخی زێر لە گرێبەستەکانی د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e38841ae541f1fbf",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/1304810",
+    "title": "Susan Sziborra-Seidlitz: Partiya Keskan kilîla hilbijartinên Almanyayê ye",
+    "title_en": "Susan Sziborra-Seidlitz: Partiya Keskan kilîla hilbijartinên Almanyayê ye",
+    "summary": "Seroka lîsteya Partiya Keskan a Saksony-Anhaltê Susan Sziborra-Seidlitz got, “Partiya Keskan kilîla hilbijartinên Almanyayê ye.” Li Almanyayê çavê hemû lîstikvanên siyasî li hilbijartinên herêma Saxony-Anhaltê ye ku dê 7ê Îlonê werin kirin. Partiya rastgirên tundrew AfD bi hêzeke mezin ber bi serketinê ve diçe. Di vê heyamê de partiyên demokrat jî hewl didin hevsengiya hêzê biparêzin. Seroka Lîsteya Partiya Keskan a li Saxony-Anhaltê Susan Sziborra-Seidlitz ji Rûdawê re axivî. Susan Sziborra-Sei",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "084c13fa521c4855",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304809",
+    "title": "Li Hewlêrê 10 dron hatin xistin",
+    "title_en": "Li Hewlêrê 10 dron hatin xistin",
+    "summary": "Hewlêr (Rûdaw) - Saziya Dijîterorê ya Herêma Kurdistanê ragihand ku pergalên parastina asmanî yên Hêzên Koalîsyona Navneteweyî, li asmanê Hewlêrê 10 dronên bombebarkirî xistine xwarê. Di daxuyaniya nivîskî ya Dijîterorê de hat diyarkirin ku Hêzên Koalîsyonê di navbera demjimêr 01:13 û 03:31ê de li asmanê Hewlêrê 10 dronên bombebarkirî destnîşan kirine. Hat diyarkirin ku Hêzên Koalîsyonê ew dron xistine xwarê û îmha kirine. Her wiha di daxuyaniyê de hat eşkerekirin ku di van êrişan de ti kes nemi",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "819b7e32ced3f932",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304808",
+    "title": "Qeydên kursên ziman ên Şaredariya Amedê dest pê kir",
+    "title_en": "Qeydên kursên ziman ên Şaredariya Amedê dest pê kir",
+    "summary": "Hewlêr (Rûdaw) - Şaredariya Bajarê Mezin a Amedê di çarçoveya xizmetên xwe yên pirzimanî de, qeydên serdema nû yên kursên zimanî dan destpêkirin. Serlêdanên ji bo kursên Kurmancî, Kirmancki/Zazakî, Soranî, Ermenî û Suryaniyê dê di navbera 1 û 14ê Îlona 2026an de werin kirin. Şaredariya Bajarê Mezin a Amedê li ser malpera xwe ragihand ku kesên ku bixwazin dikarin bi rêya DÎSMEKê serlêdana xwe bikin. Şaredariya Bajarê Mezin a Amedê xebatên xwe yên ji bo parastina pêkhateya pirzimanî û pirçandî ya ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "71ec41331352ea1d",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304806",
+    "title": "Ferhad Şahîn: Vekirina deriyê Kobaniyê girîng e",
+    "title_en": "Ferhad Şahîn: Vekirina deriyê Kobaniyê girîng e",
+    "summary": "Hewlêr (Rûdaw) - Endamê Parlamentoya Sûriyeyê Ferhad Şahîn got, “Vekirina deriyê sînor ê Kobaniyê ji bo aboriyê girîng e.” Ferhad Şahîn ji Rûdawê re axivî û bal kişand ser krîzên xizmetguzarî, civakî û perwerdeyê yên li herêma Kobaniyê. Pirsgirêka avê û deriyê sînor Ferhad Şahîn ragihand ku di serdema rejîma Beasê de projeya kişandina ava Feratê ji bo Kobaniyê hebû lê ev proje pêk nehat û ji bo herêma Sifîrê hat veguhastin. Ferhad Şahîn da zanîn ku ev proje ji bo herêmê jiyanî ye û got: \"Divê bi",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d5468e6cc06e5e97",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304807",
+    "title": "Li Deryaya Marmarayê 2 keştiyan li hev xist: Keştiyek û 10 kes winda ne",
+    "title_en": "Li Deryaya Marmarayê 2 keştiyan li hev xist: Keştiyek û 10 kes winda ne",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Silivriyê ya Stenbolê li Deryaya Marmarayê 2 keştiyên bazirganiyê li bin guhê hev xist û di bûyerê de 10 kes winda bûne. Parêzgariya Stenbolê li ser qezayê daxuyaniyek belav kir. Li gorî daxuyaniyê, bûyer demjimêr 03:00yan, bi 18 mîlan li başûrê Silivriyê pêk hatiye. Hat ragihandin ku keştiya bazirganiyê ya bi navê \"Alsu\" ji Kocaeliyê ber bi Alîagayê ve diçû. Vê keştiyê û keştiya bazirganiyê ya bi navê \"Tugberk Îmamoglu\" li bin guhê hev xist ku ji Bendera Skenderûnê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "14b35c73b31e85fd",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304805",
+    "title": "Şerê Amerîka û Îranê gurtir dibe: Şeva borî kê li kû derê xist?",
+    "title_en": "Şerê Amerîka û Îranê gurtir dibe: Şeva borî kê li kû derê xist?",
+    "summary": "Hewlêr (Rûdaw) - Şer û pevçûnên di navbera Amerîka û Îranê de ji nû ve dest pê kir û şeva borî gelek êrişên cuda pêk hatin. Hêzên Amerîkayê piştî çend hefteyan êrişî platformên berdana mûşekan ên Îranê yên li Girava Larkê kir. Washingtonê ragihand ku armanca vê êrişê ew e ku rê li ber Îranê bigire da ku mayînan li rêyên sereke yên deryayî neçîne. Îranê jî bi êrişkirina ser çend deveran bersiv da. Artêşa Amerîkayê şeva borî pêleke tundtir a êrişan bir ser binesaziya leşkerî ya asmanî û deryayî ya",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7dc7c02678b3af9a",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304804",
+    "title": "Amerîka: Îran neçar e were ser maseya gotûbêjê",
+    "title_en": "Amerîka: Îran neçar e were ser maseya gotûbêjê",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Xezîneyê yê Amerîkayê Scott Bessent ragihand ku kontrolaTengava Hurmizê di destê Amerîkayê de ye û got, “Îran neçar e were ser maseya diyalogê.” Scott Bessent bi daxuyaniyekê qala aloziyên dawî yên Washington û Tehranê kir. Bessent diyar kir armanca wan êrişên leşkerî yên sînordar tenê ew bû ku radarên Îranê ji holê rakin û got: \"Kontrola Tengava Hurmizê ne di destê Îranê de ye, di destê me de ye û ew li ber mirînê ye.\" Paşeroja desthilata Îranê Wezîrê Xezîneyê yê Amerîka",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c39a935344426d71",
+    "url": "https://www.rudaw.net/kurmanci/categories/ran/1304803",
+    "title": "Amerîkayê li Xuzistanê da: 7 mirî û 8 birîndar",
+    "title_en": "Amerîkayê li Xuzistanê da: 7 mirî û 8 birîndar",
+    "summary": "Hewlêr (Rûdaw) - Hat ragihandin ku di êrişên bi mûşekan ên Amerîkayê yên şeva borî yên li ser Îranê de, li parêzgeha Xuzistanê ya li başûrê welêt 7 kes mirine û 8 kes jî birîndar bûne. Alîkarê Parêzgarê Xuzistanê Welîulah Heyatî agahî dan Ajansa Nûçeyan a Fermî ya Îranê (IRNA). Heyatî diyar kir ku şeva borî li 3 deverên parêzgehê êrişên bi mûşekan hatine kirin û di van êrişan de 7 kes mirine û 8 kes jî birîndar bûne. Rayedarê Îranî da zanîn ku êriş li derdora bajarên Ehwaz û Axacariyê yên Xuzist",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b6d5ca9e03a4e73",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304807",
+    "title": "Li Deryaya Marmarayê 2 keştiyan li hev xist: Keştiyek û 10 kes winda ne",
+    "title_en": "Li Deryaya Marmarayê 2 keştiyan li hev xist: Keştiyek û 10 kes winda ne",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Silivriyê ya Stenbolê li Deryaya Marmarayê 2 keştiyên bazirganiyê li bin guhê hev xist û di bûyerê de 10 kes winda bûne. Parêzgariya Stenbolê li ser qezayê daxuyaniyek belav kir. Li gorî daxuyaniyê, bûyer demjimêr 03:00yan, bi 18 mîlan li başûrê Silivriyê pêk hatiye. Hat ragihandin ku keştiya bazirganiyê ya bi navê \"Alsu\" ji Kocaeliyê ber bi Alîagayê ve diçû. Vê keştiyê û keştiya bazirganiyê ya bi navê \"Tugberk Îmamoglu\" li bin guhê hev xist ku ji Bendera Skenderûnê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8445415fd09c93c1",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304805",
+    "title": "Şerê Amerîka û Îranê gurtir dibe: Şeva borî kê li kû derê xist?",
+    "title_en": "Şerê Amerîka û Îranê gurtir dibe: Şeva borî kê li kû derê xist?",
+    "summary": "Hewlêr (Rûdaw) - Şer û pevçûnên di navbera Amerîka û Îranê de ji nû ve dest pê kir û şeva borî gelek êrişên cuda pêk hatin. Hêzên Amerîkayê piştî çend hefteyan êrişî platformên berdana mûşekan ên Îranê yên li Girava Larkê kir. Washingtonê ragihand ku armanca vê êrişê ew e ku rê li ber Îranê bigire da ku mayînan li rêyên sereke yên deryayî neçîne. Îranê jî bi êrişkirina ser çend deveran bersiv da. Artêşa Amerîkayê şeva borî pêleke tundtir a êrişan bir ser binesaziya leşkerî ya asmanî û deryayî ya",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d0025a39c877cab7",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304804",
+    "title": "Amerîka: Îran neçar e were ser maseya gotûbêjê",
+    "title_en": "Amerîka: Îran neçar e were ser maseya gotûbêjê",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Xezîneyê yê Amerîkayê Scott Bessent ragihand ku kontrolaTengava Hurmizê di destê Amerîkayê de ye û got, “Îran neçar e were ser maseya diyalogê.” Scott Bessent bi daxuyaniyekê qala aloziyên dawî yên Washington û Tehranê kir. Bessent diyar kir armanca wan êrişên leşkerî yên sînordar tenê ew bû ku radarên Îranê ji holê rakin û got: \"Kontrola Tengava Hurmizê ne di destê Îranê de ye, di destê me de ye û ew li ber mirînê ye.\" Paşeroja desthilata Îranê Wezîrê Xezîneyê yê Amerîka",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb2c9f006f700725",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/1304803",
+    "title": "Amerîkayê li Xuzistanê da: 7 mirî û 8 birîndar",
+    "title_en": "Amerîkayê li Xuzistanê da: 7 mirî û 8 birîndar",
+    "summary": "Hewlêr (Rûdaw) - Hat ragihandin ku di êrişên bi mûşekan ên Amerîkayê yên şeva borî yên li ser Îranê de, li parêzgeha Xuzistanê ya li başûrê welêt 7 kes mirine û 8 kes jî birîndar bûne. Alîkarê Parêzgarê Xuzistanê Welîulah Heyatî agahî dan Ajansa Nûçeyan a Fermî ya Îranê (IRNA). Heyatî diyar kir ku şeva borî li 3 deverên parêzgehê êrişên bi mûşekan hatine kirin û di van êrişan de 7 kes mirine û 8 kes jî birîndar bûne. Rayedarê Îranî da zanîn ku êriş li derdora bajarên Ehwaz û Axacariyê yên Xuzist",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "651b6cba208a680f",
+    "url": "https://www.rudaw.net/kurmanci/categories/hevpeyvn/1304810",
+    "title": "Susan Sziborra-Seidlitz: Partiya Keskan kilîla hilbijartinên Almanyayê ye",
+    "title_en": "Susan Sziborra-Seidlitz: Partiya Keskan kilîla hilbijartinên Almanyayê ye",
+    "summary": "Seroka lîsteya Partiya Keskan a Saksony-Anhaltê Susan Sziborra-Seidlitz got, “Partiya Keskan kilîla hilbijartinên Almanyayê ye.” Li Almanyayê çavê hemû lîstikvanên siyasî li hilbijartinên herêma Saxony-Anhaltê ye ku dê 7ê Îlonê werin kirin. Partiya rastgirên tundrew AfD bi hêzeke mezin ber bi serketinê ve diçe. Di vê heyamê de partiyên demokrat jî hewl didin hevsengiya hêzê biparêzin. Seroka Lîsteya Partiya Keskan a li Saxony-Anhaltê Susan Sziborra-Seidlitz ji Rûdawê re axivî. Susan Sziborra-Sei",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
