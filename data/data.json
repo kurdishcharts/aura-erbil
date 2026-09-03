@@ -284443,6 +284443,510 @@
     }
   },
   {
+    "id": "3b0bd71a12731fba",
+    "url": "https://www.rudaw.net/english/categories/syria/1079126",
+    "title": "Syria to release another batch of imprisoned SDF fighters: Official",
+    "title_en": "Syria to release another batch of imprisoned SDF fighters: Official",
+    "summary": "ERBIL, Kurdistan Region - The Syrian government plans to release over 50 members of the now-dissolved Syrian Democratic Forces (SDF) from prison on Friday, a senior security official said Thursday. “A number of imprisoned Syrian Democratic Forces fighters held by the government will be released by tomorrow,” Siyamand Afrin, deputy commander of the General Security Forces in Hasaka province, told Rudaw’s Nalin Hassan. According to a document obtained by Rudaw, 51 former SDF members will be releas",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a74203364b80eed2",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079124",
+    "title": "Iraq FM, new US envoy discuss state control of arms",
+    "title_en": "Iraq FM, new US envoy discuss state control of arms",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Foreign Minister Fuad Hussein and the newly appointed US charge d'affaires in Baghdad, Steven Fagin, have discussed government efforts to establish a state monopoly on weapons, Hussein’s office said on Thursday. The meeting addressed “steps taken by the Iraqi government to restrict weapons to the authority of the state,” according to a statement released by the foreign ministry. The US embassy announced on Wednesday that Fagin would take over as charge d'affaires,",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "81da1f8b8cf6d116",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079122",
+    "title": "Iraqi court hands lengthy prison sentences to three over attack on French forces",
+    "title_en": "Iraqi court hands lengthy prison sentences to three over attack on French forces",
+    "summary": "ERBIL, Kurdistan Region - A Baghdad criminal court on Thursday sentenced three men to 15 years in prison under Iraq's anti-terrorism law for launching Katyusha rockets at Camp K1 in Kirkuk province, where French coalition troops and Iraqi counter-terrorism forces were stationed. A ruling by the Karkh Criminal Court identified the convicted individuals as Abbas Qasim Abbas Kazim al-Nazarli, Mahdi Firas Mustafa Muhammad Baqir al-Bigdeli and Abdullah Zain al-Abidin Haidar Ali al-Mulla. The ruling s",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f33931517a4bb223",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869571",
+    "title": "بەرپرسیار؛ وردەکاریی ئەشکەنجەدان، برسیکردن و دەستدرێژیکردنە سەر کچێک لە پیرانشار",
+    "title_en": "بەرپرسیار؛ وردەکاریی ئەشکەنجەدان، برسیکردن و دەستدرێژیکردنە سەر کچێک لە پیرانشار",
+    "summary": "رووداو دیجیتاڵ نیلوفەر عەتا، کچێکی تەمەن 27 ساڵ، دوای ئەوەی لەلایەن پیاوێکەوە بەناوی (ع. ت) بە بیانووی هاوسەرگیری دەڕفێندرێت، بۆ ماوەی هەفتەیەک رووبەڕووی ئەشکەنجەیەکی دڕندانە دەبێتەوە و بەهۆیەوە مێشکی بە تەواوی لەکاردەکەوێت. ئێستا خێزانەکەی لە نەخۆشخانەی ورمێ چاوەڕێی بەخشینی دڵ و گورچیلەکانی دەکەن، بەو هیوایەی \"رۆحی کچەکەیان زیندوو بمێنێتەوە.\" چیرۆکەکە کەمتر لە مانگێک پێش ئێستا دەستیپێکرد، کاتێک نیلوفەر و دایکی بۆ کارکردن و لێکردنەوەی هەڵووژە و سێو، دەچنە باخێک لە نزیک تەورێز. لەوێ پیاوێک بە ناو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d6300acb8e710c35",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1869567",
+    "title": "ترەمپ: کارێکی نایاب دەبێ سووریا بکرێتە جێگرەوەی هورمز",
+    "title_en": "ترەمپ: کارێکی نایاب دەبێ سووریا بکرێتە جێگرەوەی هورمز",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا پێشوازییەکی گەرمی لە هەوڵەکانی سووریا کرد بۆ ئەوەی ببێتە رێڕۆیەکی جێگرەوە بۆ گواستنەوەی وزە لە جیاتی تەنگەی هورمز و لە پۆستێکدا نووسیویەتی: \"ئەمە نایابە! سووریا خۆی وەک جێگرەوەیەک بۆ تەنگەی هورمز پێشنیاز دەکات.\" ئەم هەڵوێستەی ترەمپ لە کاتێکدایە کە بەهۆی جەنگی نێوان ئەمریکا و ئیسرائیل دژی ئێران، تەنگەی هورمز بە رووی کەشتییە بازرگانییەکاندا داخراوە و ئەمەش دەرفەتێکی زێڕینی بۆ سووریا رەخساندووە. رۆژی 28ی شوبات، ئەمریکا و ئیسرائیل هێرشیان کردە سەر ئێران و ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6c9b38a0927a01e4",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869563",
+    "title": "سیامەند عەفرین بۆ رووداو: ژمارەیەک شەڕڤانی دیکەی هەسەدە ئازاد دەکرێن",
+    "title_en": "سیامەند عەفرین بۆ رووداو: ژمارەیەک شەڕڤانی دیکەی هەسەدە ئازاد دەکرێن",
+    "summary": "رووداو دیجیتاڵ جێگری فەرماندەی هێزەکانی ئاسایشی گشتی لە پارێزگای حەسەکە رایگەیاند، تاوەکو سبەی ژمارەیەک لە شەڕڤانانی دەستگیرکراوی هێزەکانی سووریای دیموکرات (هەسەدە) کە لای حکومەتی سووریان، ئازاد دەکرێن. رۆژی پێنجشەممە، سیامەند عەفرین بە رووداوی گوت، ئامادەکارییەکان کراون و لە ماوەی 4 رۆژی داهاتوودا هەزار و 35 خێزانی ئاوارەی سەرێکانی وەک کاروانی دووەم دەگەڕێنەوە ناوچەکانی خۆیان. کاروانی یەکەمی گەڕانەوەی ئاوارەکانی سەرێکانی، لە رێکەوتی 10-08-2026دا بوو کە لە 410 خێزان پێکهاتبوو. رۆژی 24ی ئایاری 20",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "809d6817cb53546e",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869560",
+    "title": "وەزیری دارایی عێراق داوای کۆبوونەوەی دووقۆڵی لەگەڵ هەرێمی کوردستان دەکات",
+    "title_en": "وەزیری دارایی عێراق داوای کۆبوونەوەی دووقۆڵی لەگەڵ هەرێمی کوردستان دەکات",
+    "summary": "رووداو دیجیتاڵ وەزیری دارایی عێراق داوا دەکات لیژنەکانی ئامادەکردنی بودجە و شاندی حکومەتی هەرێمی کوردستان کۆبوونەوەی دووقۆڵی بکەن و دەشڵێ، \"شەفافیەت لە ئاشکراکردنی داهاتەکان مەرجی سەرەکییە بۆ گەیشتن بە بودجەیەکی ورد.\" رۆژی پێنجشەممە، 3ـی ئەیلوولی 2026، فالح ساری، سەرپەرشتیی کۆبوونەوەیەکی فراوانی کرد بۆ بەدواداچوونی پڕۆژەیاسای (بودجەی بەرنامە و بەجێگەیاندن). لە کۆبوونەوەکەدا پارێزگاری سەلاحەدین، شاندی حکومەتی هەرێمی کوردستان و ژمارەیەک پەرلەمانتار ئامادە بوون. وەزیری دارایی رایگەیاند، عێراق هەنگا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a363c6b968867f89",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869572",
+    "title": "ژنە فەرمانبەرێکی شارەوانیی دیوانیە لە کاتی وەرگرتنی بەرتیل دەستگیرکرا",
+    "title_en": "ژنە فەرمانبەرێکی شارەوانیی دیوانیە لە کاتی وەرگرتنی بەرتیل دەستگیرکرا",
+    "summary": "رووداو دیجیتاڵ دەستەی دەسپاکیی عێراق، فەرمانبەرێکی ئافرەتیان لە بەڕێوەبەرایەتیی شارەوانیی دیوانیە لە کاتی وەرگرتنی بەرتیلدا دەستگیرکردووە، کە داوای پارەی لە هاووڵاتییەک کردبوو بۆ راییکردنی مامەڵەی کڕینی زەوییەکی حکومەت. رۆژی یەکشەممە، 6ـی ئەیلوولی 2026، فەرمانگەی لێکۆڵینەوەی دەستەی دەسپاکیی عێراق لە راگەیێندراوێکدا رایگەیاند:\" تیمێکی مەیدانی لە پارێزگای دیوانیە دوای وەرگرتنی زانیاری و وردبینی، توانییان فەرمانبەرێکی هۆبەی موڵکایەتی لە شارەوانیی شارەکە لەکاتی ئەنجامدانی کارەکە دەستگیر بکەن\". ئەو ژ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eafc23599de4ae83",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869569",
+    "title": "سەرچاوەکانی ئاوی عێراق: داهاتی ئاوی فورات شەش هێندە زیادی کردووە",
+    "title_en": "سەرچاوەکانی ئاوی عێراق: داهاتی ئاوی فورات شەش هێندە زیادی کردووە",
+    "summary": " رووداو دیجیتاڵ وەزارەتی سەرچاوەکانی ئاوی عێراق رایدەگەیەنێت، داهاتی ئاوی رووباری فورات بەراورد بە پار شەش هێندە زیادی کردووە، بڕی ئاوی کۆکراوەش لە بەنداوی حەدیسە گەیشتووەتە نزیکەی 5 ملیار مەتر سێجا.  خالید شیمال، گوتەبێژی وەزارەتی سەرچاوەکانی ئاوی عێراق، ئەمڕۆ پێنجشەممە 3ـی ئەیلوولی 2026 بە تۆڕی میدیایی رووداوی رایگەیاند: \"تاوەکو رۆژی سێشەممە 31ـی ئابی 2026، داهاتی ئاوی رووباری فورات لە بەنداوی حەدیسە گەیشتووەتە 788 مەتر سێجا لە چرکەیەکدا. ئێستا وەزارەت 500 مەتر سێجا ئاو لە چرکەیەکدا لە بەنداوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "132867e9cfadc150",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1869568",
+    "title": "نوێنەری سووریا لە نەتەوە یەکگرتووەکان: دەستمانکردووە بە لەنێوبردنی چەکە کیمیاییەکانی سەردەمی ئەسەد",
+    "title_en": "نوێنەری سووریا لە نەتەوە یەکگرتووەکان: دەستمانکردووە بە لەنێوبردنی چەکە کیمیاییەکانی سەردەمی ئەسەد",
+    "summary": "رووداو دیجیتاڵ نوێنەری سووریا لە نەتەوە یەکگرتووەکان رایگەیاند، دیمەشق دەستیکردووە بە لەنێوبردنی ئەو ماددە کیمیاییانەی لەلایەن رێکخراوی قەدەخەکردنی چەکی کیمیاییەوە دەستنیشان کرابوون، ئەمەش وەک هەنگاوێکی گرنگ لە دوای رووخانی دەسەڵاتی بەشار ئەسەد لە ساڵی 2024 دادەنرێت. رۆژی پێنجشەممە، 3ی ئەیلوولی 2026، ئیبراهیم عولابی، لە گوتارێکدا لە ئەنجوومەنی ئاسایشی نەتەوە یەکگرتووەکان لە نیویۆرک ئاشکرای کرد، دەسەڵاتدارانی نوێی وڵاتەکەی دەستیان بە لەنێوبردنی پاشماوە و مادە کیمیاییەکان کردووە و ئەمەش یەکەم هەنگ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "13445f850d824a4e",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1869566",
+    "title": "وەزارەتی ناوخۆی تورکیا ماوەی قەییومی سەر گەورەشارەوانیی مێردینی درێژکردەوە",
+    "title_en": "وەزارەتی ناوخۆی تورکیا ماوەی قەییومی سەر گەورەشارەوانیی مێردینی درێژکردەوە",
+    "summary": " رووداو دیجیتاڵ وەزارەتی ناوخۆی تورکیا ماوەی قەییومی سەر گەورەشارەوانیی مێردین و دوورخستنەوەی ئەحمەد تورک، سەرۆکی هەڵبژێدراوی گەورەشارەوانییەکەی دوو مانگی دیکە درێژکردەوە و بڕیاریدا کە تونجای ئاککۆیون، پارێزگاری مێردین وەک قەییوم لە سەرۆکایەتیی شارەوانی لە ئەرکەکەی بەردەوام بێت. ئەحمەد تورک کە لە 4ـی تشرینی دووەمی 2024ـدا بەشێوەیەکی کاتی لە سەرۆکایەتیی گەورەشارەوانیی مێردین دوورخرابووەوە و قەییومی لە شوێنی دانرابوو، بەپێی هەڵسەنگاندنەکانی وەزارەتی ناوخۆ جارێکی دیکە بۆ ماوەی دوو مانگ بڕیاری دوورخ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cc61c7b1c47a7d4f",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869565",
+    "title": "داوای ئیدارەیەکی سەربەخۆ بۆ شنگال دەکرێت",
+    "title_en": "داوای ئیدارەیەکی سەربەخۆ بۆ شنگال دەکرێت",
+    "summary": "رووداو دیجیتاڵ بەرپرسێکی پارێزگای نەینەوا رایدەگەیێنێت، داوا دەکرێت قەزای شنگال بکرێتە ئیدارەیەکی سەربەخۆ و راستەوخۆ سەر بە بەغدا بێت. محەممەد جاسم کاکەیی، سەرۆکی لیژنەی ئاسایش و بەرگری لە ئەنجوومەنی پارێزگای نەینەوا، ئەمڕۆ پێنجشەممە 3ـی ئەیلوولی 2026 بە تۆڕی میدیایی رووداوی راگەیاند: \"ئەوانەی ئێستا لە شنگالن داوای ئیدارەیەکی سەربەخۆ بۆ شنگال دەکەن کە راستەوخۆ ببەسترێتەوە بە بەغدا نەک نەینەوا.\" قەزای شنگال، دەکەوێتە سنووری پارێزگای نەینەوا، یەکێکە لە ناوچە کوردستانییەکانی دەرەوەی ئیدارەی هەرێمی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2ab5bee4b0cafbc8",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869564",
+    "title": "ژمێرکارانی کارەبا مانگانە ملیارێک دینار کۆدەکەنەوە و چوار مانگە بێ مووچەن",
+    "title_en": "ژمێرکارانی کارەبا مانگانە ملیارێک دینار کۆدەکەنەوە و چوار مانگە بێ مووچەن",
+    "summary": "رووداو دیجیتاڵ زیاتر لە 1700 ژمێرکاری کارەبا لە هەرێمی کوردستان ماوەی چوار مانگە مووچەیان وەرنەگرتووە. لە کاتێکدا ئەو کارمەندانە مانگانە نزیکەی یەک ملیار و 200 ملیۆن دینار بۆ گەنجینەی حکومەت کۆدەکەنەوە، نوێنەرێکیان دەڵێت: \"لە دۆخێکی خراپدا دەژین و رۆژانە لە ناو ماڵان سووکایەتیمان پێدەکرێت.\" ژمێرکارانی کارەبا کە بە شێوەی کرێی رۆژانە کار دەکەن، دەڵێن لە مانگی ئایاری ئەمساڵەوە رێکارە کارگێڕییەکان گۆڕاون و مووچەکانیان نەدراوە. نوێنەرێکی ژمێرکارانی هەولێر بە رادیۆی رووداوی راگەیاند: \"پێشتر مووچەکانما",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "19ad37075b66bb0c",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869562",
+    "title": "پۆلیسە گرێبەستەکان دوو مانگە مووچەیان وەرنەگرتووە",
+    "title_en": "پۆلیسە گرێبەستەکان دوو مانگە مووچەیان وەرنەگرتووە",
+    "summary": "رووداو دیجیتاڵ پۆلیسە گرێبەستەکان لە هەرێمی کوردستان دوو مانگە مووچەیان وەرنەگرتووە. وەزارەتی دارایی هەرێمی کوردستانیش دەڵێت، بەهۆی گوشارەکانی بەغداوە حکومەت 120 ملیار دینار کورتهێنانی هەیە و ناتوانێت شایستە داراییەکانی ئەو پۆلیسانە دابین بکات. پۆلیسێکی گرێبەست لە شاری هەولێر، بە رادیۆی رووداوی راگەیاند، سەرەڕای ئەوەی رۆژانە لە ئەرکی پاسەوانیی دامەزراوە حکومییەکاندان، بەڵام ماوەی دوو مانگە بێ مووچەن. ئەو دەڵێت: \"من کوڕی شەهیدم و کرێنشینم، ئێستا تەنانەت پارەی هاتووچۆم بۆ دەوام نییە.\" مووچەکانیان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "794e557034b29d36",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869561",
+    "title": "شەش ساڵە خەرجکردنی پاداشتی کۆتایی راژەی پێشمەرگە راگیراوە",
+    "title_en": "شەش ساڵە خەرجکردنی پاداشتی کۆتایی راژەی پێشمەرگە راگیراوە",
+    "summary": "رووداو دیجیتاڵ زیاتر لە شەش ساڵە هەزاران پێشمەرگە و ئەفسەر و پلەداری وەزارەتی پێشمەرگە پاداشتی کۆتایی راژەیان بۆ خەرج ناکرێت، بەرپرسێکی وەزارەتی پێشمەرگەش هۆکارەکەی بۆ نەبوونی نەختینە دەگەڕێنێتەوە. ئەفسەرێکی خانەنشینی پێشمەرگە، کە لە ساڵی 2022 خانەنشین بووە، بە رادیۆی رووداوی راگەیاند: \"لەگەڵ فەرمانی خانەنشینبوونەکەم، فەرمانی فەرمیی خەرجکردنی پاداشتەکەشم هەبوو، بەڵام تاوەکو ئێستا یەک دینارم وەرنەگرتووە.\" ئەو ئەفسەرە دەڵێت، ئەم پاداشتە مافێکی یاساییە و تەنیا بۆ ئەفسەران نییە، بەڵکو هەموو پلەدار و",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68a85b56708dbdca",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869557",
+    "title": "لە رانیە خێرخوازێک نەخۆشخانەیەکی تایبەت بە شێرپەنجە دروست دەکات",
+    "title_en": "لە رانیە خێرخوازێک نەخۆشخانەیەکی تایبەت بە شێرپەنجە دروست دەکات",
+    "summary": " رووداو دیجیتاڵ  گوتەبێژی تەندروستیی راپەڕین دەڵێت، بنەماڵەیەکی خێرخواز نەخۆشخانەیەکی پێشکەوتووی تایبەت بە تووشبووانی شێرپەنجە لە شاری رانیە دروست دەکەن. تەها محەممەد، گوتەبێژی تەندروستیی راپەڕین ئەمڕۆ پێنجشەممە 03-09-2026، بە تۆڕی میدیایی رووداوی راگەیاند: لقێکی نەخۆشخانەی هیوا (تایبەت بە شێرپەنجە) لەلایەن بنەماڵەیەکی خێرخوازەوە لە رانیە دروست دەکرێت و چیدیکە پێویست ناکات تووشبووانی شێرپەنجە لە راپەرینەوە بچنە سلێمانی. گوتەبێژی تەندروستیی راپەڕین گوتیشی: نەخۆشخانەکە دەکەوێتە سەنتەری شار و بە ها",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c4676b32a250f356",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304867",
+    "title": "Sînan Çîftyurek: Tiştê ku jê re dibêjin entegrasyon, asîmîlasyon e",
+    "title_en": "Sînan Çîftyurek: Tiştê ku jê re dibêjin entegrasyon, asîmîlasyon e",
+    "summary": "Hewlêr (Rûdaw) - Nîqaşên li ser \"pêvajoya çareseriyê\" û \"asayîbûnê\" yên li Tirkiye û Bakurê Kurdistanê berdewam dikin. Di vê çarçoveyê de têgehên wekî entegrasyon û asîmîlasyonê di nav siyasetmedarên Kurdan de bi berfirehî tên gotûbêjkirin. Parlamenterê Wanê yê DEM Partiyê Sînan Çîftyurek bal kişand ser van têgehan û rexneyên tund li nêzîkatiya dewletê girtin. Sînan Çîftyurek da zanîn ku tiştê ku li Bakur û Rojavayê Kurdistanê wekî entegrasyonê tê binavkirin, di rastiyê de asîmîlasyon e. Çîftyur",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a35e49a64efd16c0",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1304866",
+    "title": "Hişê çêkirî û azadiya rihê mirovan",
+    "title_en": "Hişê çêkirî û azadiya rihê mirovan",
+    "summary": "Her serdemeke mezin guherînên xwe yên herî kûr tenê piştî demeke dirêj nas dike. Hişê çêkirî dikare bibe xaleke wiha ya dîrokî. Nîqaşên giştî heta niha bi giranî li ser bandorên wê yên xuya disekinin. Wekî otomasyon, berhemdarî, ji destdana karan, zanyariyên şaş û çavdêrî. Her çi qas ev pirsên girîng bin jî dibe ku ew bipêşketineke wisa veşêrin ku wateya wê gelekî kûrtir e. Pirsa rasteqîn ne ew e ku makîne dikarin çi bikin. Pirs ev e: Dema ku bersiv beriya ku mirov fêrî jiyana bi pirsên bêbersiv",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "64f6c80052c8d198",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1304865",
+    "title": "Trump: Gelekî baş e ku Sûriye cihê Tengava Hurmizê bigire",
+    "title_en": "Trump: Gelekî baş e ku Sûriye cihê Tengava Hurmizê bigire",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump hewlên Sûriyeyê bi germî pêşwazî kir ku li şûna Tengava Hurmizê bibe rêyeke alternatîf a veguhastina enerjiyê. Serokê Amerîkayê Donald Trump di parvekirinê de nivîsî, \"Ev gelekî baş e! Sûriye xwe wekî alternatîfeke Tengava Hurmizê pêşniyar dike.\" Ji ber şerê Amerîka û Îsraîlê yê li dijî Îranê, Tengava Hurmizê li ber keştiyên bazirganiyê hatiye girtin û vê yekê jî derfeteke zêrîn ji bo Sûriyeyê çêkiriye. Amerîka û Îsraîlê 28ê Sibatê êrişî Îranê kir û Îranê jî bi mûşe",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9e6c4e8bec8bd595",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304864",
+    "title": "Siyamend Efrîn: Hinek şervanên dîl ên HSDyê tên berdan",
+    "title_en": "Siyamend Efrîn: Hinek şervanên dîl ên HSDyê tên berdan",
+    "summary": "Hewlêr (Rûdaw) - Alîkarê Fermandarê Hêzên Ewlehiya Giştî yê parêzgeha Hisîçayê Siyamend Efrîn ji Rûdawê re ragihand ku dê heta sibe hinek şervanên dîk yên Hêzên Sûriyeya Demokratîk (HSD) ên li cem hikûmetê bên berdan. Li gorî lîsteya ku hatiye belavkirin, navên 51 dîlan tê de heye ku dê bên berdan. Siyamend Efrîn her wiha da zanîn ku ji bo vegera koçberan amadekarî hatine kirin. Siyamend Efrîn diyar kir ku dê di 4 rojên bê de 1035 malbatên koçber wekî karwanê duyem vegerin cih û warên xwe yên li",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "132c02eac593c075",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1304866",
+    "title": "Hişê çêkirî û azadiya rihê mirovan",
+    "title_en": "Hişê çêkirî û azadiya rihê mirovan",
+    "summary": "Her serdemeke mezin guherînên xwe yên herî kûr tenê piştî demeke dirêj nas dike. Hişê çêkirî dikare bibe xaleke wiha ya dîrokî. Nîqaşên giştî heta niha bi giranî li ser bandorên wê yên xuya disekinin. Wekî otomasyon, berhemdarî, ji destdana karan, zanyariyên şaş û çavdêrî. Her çi qas ev pirsên girîng bin jî dibe ku ew bipêşketineke wisa veşêrin ku wateya wê gelekî kûrtir e. Pirsa rasteqîn ne ew e ku makîne dikarin çi bikin. Pirs ev e: Dema ku bersiv beriya ku mirov fêrî jiyana bi pirsên bêbersiv",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "963df2b0ae888ffb",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1304865",
+    "title": "Trump: Gelekî baş e ku Sûriye cihê Tengava Hurmizê bigire",
+    "title_en": "Trump: Gelekî baş e ku Sûriye cihê Tengava Hurmizê bigire",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump hewlên Sûriyeyê bi germî pêşwazî kir ku li şûna Tengava Hurmizê bibe rêyeke alternatîf a veguhastina enerjiyê. Serokê Amerîkayê Donald Trump di parvekirinê de nivîsî, \"Ev gelekî baş e! Sûriye xwe wekî alternatîfeke Tengava Hurmizê pêşniyar dike.\" Ji ber şerê Amerîka û Îsraîlê yê li dijî Îranê, Tengava Hurmizê li ber keştiyên bazirganiyê hatiye girtin û vê yekê jî derfeteke zêrîn ji bo Sûriyeyê çêkiriye. Amerîka û Îsraîlê 28ê Sibatê êrişî Îranê kir û Îranê jî bi mûşe",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "274c2c3dfd549870",
+    "url": "https://www.rudaw.net/kurmanci/categories/hevpeyvn/1304863",
+    "title": "Nûman Osman: Zimanê Kurdî têra hemû zanistan dike",
+    "title_en": "Nûman Osman: Zimanê Kurdî têra hemû zanistan dike",
+    "summary": "Li Rojavayê Kurdistanê bertekên li hemberî biryara hikûmeta demkî ya Sûriyeyê ya li ser zimanê Kurdî didomin. Hevserokê Fakulteya Ziman û Wêjeyê ya Zanîngeha Rojavayê Nûman Osman bû mêhvanê Rûdawê û li ser pêşîlêgirtina perwerdeya bi zimanê Kurdî pirsên Nalîn Hesenê bersivandin. Nûman Osman diyar kir ku zimanê Kurdî zimanekî bingehîn ê Rojavayê Kurdistanê ye û go: “Em wekî Fakulteya Ziman û Wêjeyê ya Zanîngeha Rojavayê dixwazin zimanê Kurdî bi awayekî fermî were naskirin. Em xwediyê vî welatî ne",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "160dc1b9531a49ff",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304862",
+    "title": "Dibistan vedibin lê deriyê hêviyê tê girtin: Koçberên li Kobaniyê dê bi kû ve biçin?",
+    "title_en": "Dibistan vedibin lê deriyê hêviyê tê girtin: Koçberên li Kobaniyê dê bi kû ve biçin?",
+    "summary": "Kobanî (Rûdaw) - Li Dibistana Şehîd Azad a li bajarê Kobaniyê nêzîkî 30 malbatên koçber ên ji Reqa û Girê Spiyê bi cih bûne. Bi nêzîkbûna sala nû ya xwendinê ya di meha îlonê de, ev malbat ji ber çarenûsa xwe dilgiran in. Dayê Asya yek ji wan koçberan e ku piştî êrişên 9ê Çiriya Pêşîn a 2019an neçar maye ji Girê Spiyê derkeve. Ew piştî ku nêzîkî 7 salan li Reqayê jiya, 17ê Kanûna Paşîn a 2026an ji wir jî koçber bû û di sermaya zivistanê de li vê dibistana Kobaniyê bi cih bû. \"Em dê zarokên xwe b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "33b230b475e70b64",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1304861",
+    "title": "Doza Gulistan Dokuyê: Alîkarê berê yê Fermandarê Cendirmeyan û hevjîna wî hatin girtin",
+    "title_en": "Doza Gulistan Dokuyê: Alîkarê berê yê Fermandarê Cendirmeyan û hevjîna wî hatin girtin",
+    "summary": "Hewlêr (Rûdaw) - Di çarçoveya lêpirsîna Gulistan Dokuyê de Alîkarê berê yê Fermandarê Cendirmeyan ê Parêzgeha Dêrsimê Alî Kahraman û hevjîna wî Burçîn Hizli Kahraman hatin girtin. Ew bi daxwaza girtinê sewqî dadgeriya cezayan a silhê hatibûn kirin û dadgeriyê biryara girtina wan da. Xwendekara Zanîngeha Munzurê Gulistan Dokuya 21 salî 5ê Kanûna Paşîn a 2020an winda bûbû. Di dosyeya lêpirsînê de vekolînên teknîkî yên nû hatin kirin. Li gorî qeydên Pergala Nasîna Pilaqeyan (PTS), wesayîta ku tê ni",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bd4c0c9779356b48",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304860",
+    "title": "Ji bo leşkerên Amerîkayê biryara nû: Divê asta testosteronê were pîvan",
+    "title_en": "Ji bo leşkerên Amerîkayê biryara nû: Divê asta testosteronê were pîvan",
+    "summary": "Hewlêr (Rûdaw) - Wezareta Şer a Amerîkayê (Pentagon) ji bo karmendên leşkerî yên mêr ên 30 salî û mezintir di çarçoveya kontrolên tenduristiyê de testa testosteronê kir neçarî. Li gorî rêziknameya nû ya Ajansa Tenduristiyê ya Parastinê ya di bin sîwana Pentagonê de, leşkerên mêr ên tayînkirî û yedek ên 30 salî û mezintir, di dema kontrolên tenduristiyê yên rûtîn de dê testên hormon û xwînê bikin. Piştî testan, ji bo wan leşkerên ku asta testosterona wan kêm e dê lêkolînên zêdetir werin kirin, he",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "999a58a86924d255",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/1304863",
+    "title": "Nûman Osman: Zimanê Kurdî têra hemû zanistan dike",
+    "title_en": "Nûman Osman: Zimanê Kurdî têra hemû zanistan dike",
+    "summary": "Li Rojavayê Kurdistanê bertekên li hemberî biryara hikûmeta demkî ya Sûriyeyê ya li ser zimanê Kurdî didomin. Hevserokê Fakulteya Ziman û Wêjeyê ya Zanîngeha Rojavayê Nûman Osman bû mêhvanê Rûdawê û li ser pêşîlêgirtina perwerdeya bi zimanê Kurdî pirsên Nalîn Hesenê bersivandin. Nûman Osman diyar kir ku zimanê Kurdî zimanekî bingehîn ê Rojavayê Kurdistanê ye û go: “Em wekî Fakulteya Ziman û Wêjeyê ya Zanîngeha Rojavayê dixwazin zimanê Kurdî bi awayekî fermî were naskirin. Em xwediyê vî welatî ne",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01a0d725ed976831",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304860",
+    "title": "Ji bo leşkerên Amerîkayê biryara nû: Divê asta testosteronê were pîvan",
+    "title_en": "Ji bo leşkerên Amerîkayê biryara nû: Divê asta testosteronê were pîvan",
+    "summary": "Hewlêr (Rûdaw) - Wezareta Şer a Amerîkayê (Pentagon) ji bo karmendên leşkerî yên mêr ên 30 salî û mezintir di çarçoveya kontrolên tenduristiyê de testa testosteronê kir neçarî. Li gorî rêziknameya nû ya Ajansa Tenduristiyê ya Parastinê ya di bin sîwana Pentagonê de, leşkerên mêr ên tayînkirî û yedek ên 30 salî û mezintir, di dema kontrolên tenduristiyê yên rûtîn de dê testên hormon û xwînê bikin. Piştî testan, ji bo wan leşkerên ku asta testosterona wan kêm e dê lêkolînên zêdetir werin kirin, he",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
