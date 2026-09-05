@@ -288313,6 +288313,384 @@
     }
   },
   {
+    "id": "afcb196f7d9947e1",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1079149",
+    "title": "US destroys three Iranian oil tankers after IRGC attacks on Navy ships: CENTCOM",
+    "title_en": "US destroys three Iranian oil tankers after IRGC attacks on Navy ships: CENTCOM",
+    "summary": "ERBIL, Kurdistan Region — US Central Command (CENTCOM) said Saturday that its forces struck and disabled three Iranian crude oil tankers after Iran launched ballistic missiles toward two US Navy warships operating in regional waters amid the renewed hostilities between Washington and Tehran. In a statement, CENTCOM said a US aircraft carrier and a guided-missile destroyer evaded multiple attacks by the Islamic Revolutionary Guard Corps (IRGC) and that no American personnel were injured. In respo",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "27cb0ac4ad5660cb",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079148",
+    "title": "Yazidi MPs oppose proposal to appoint military commander as Shingal governor",
+    "title_en": "Yazidi MPs oppose proposal to appoint military commander as Shingal governor",
+    "summary": "ERBIL, Kurdistan Region — Yazidi lawmakers and officials have rejected a proposal to appoint a military commander as the acting governor of Shingal (Sinjar) district in Nineveh province, warning that the move would amount to imposing military rule on an area that has suffered years of conflict and displacement. Murad Ismael, head of the Yazidi Cause Alliance bloc in the Iraqi parliament, told Rudaw's Gashaw Khalid on Saturday that any decision concerning the district must involve its residents \"",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9f8ee54ac91b21a9",
+    "url": "https://www.rudaw.net/english/categories/iran/1079147",
+    "title": "Iran charges two Kurdish sisters over Telegram group membership",
+    "title_en": "Iran charges two Kurdish sisters over Telegram group membership",
+    "summary": "ERBIL, Kurdistan Region - An Iranian court on Saturday charged two Kurdish sisters from Mahabad with “propaganda against the regime” over their alleged membership in a Telegram group, amid a surge in arrests of Kurds in recent weeks. Roya and Pari Samani were charged by the First Investigation Branch of the Public and Revolutionary Prosecutor’s Office in Mahabad, according to the France-based Kurdistan Human Rights Network (KHRN). The sisters were temporarily released on bail after being charged",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f1dca715e1e1c7e8",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869685",
+    "title": "کارەبای هەولێر: لە چەند وێستگەیەکدا چاکسازی دەکرێت و دۆخەکە ئاسایی دەبێتەوە",
+    "title_en": "کارەبای هەولێر: لە چەند وێستگەیەکدا چاکسازی دەکرێت و دۆخەکە ئاسایی دەبێتەوە",
+    "summary": "رووداو دیجیتاڵ دانیشتووانی چەند گەڕەکێکی سنووری پارێزگای هەولێر دەڵێن، کارەبای نیشتمانی دەبڕێت و بەڕێوەبەری گشتیی کارەبای شارەکەش دەڵێ، تیمەکانیان خەریکی چاکسازین و بەم نزیکانە ئاسایی دەبێتەوە. رۆژی شەممە، 5ـی ئەیلوولی 2026، ژمارەیەک لە هاووڵاتییانی دانیشتووی گەڕەکەکانی دارەتوو، ژین، بنەسڵاوە، شارەوانی و پێنجی حەسارۆک پەیوەندییان بە تۆڕی میدیاییی رووداو کردووە و گوتیان، لە ناوچەکانیان کێشەی کارەبای نیشتمانی هەیە و دەبڕێت. لەوبارەیەوە بەختیار قاسم، بەڕێوەبەری گشتیی کارەبای هەولێر بە تۆڕی میدیاییی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8bbbf2b1d66b324f",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869683",
+    "title": "وەزارەتی نەوتی عێراق بۆ رووداو: رۆژانە 180 هەزار بەرمیل نەوت لە رێگەی تورکیاوە هەناردە دەکرێ",
+    "title_en": "وەزارەتی نەوتی عێراق بۆ رووداو: رۆژانە 180 هەزار بەرمیل نەوت لە رێگەی تورکیاوە هەناردە دەکرێ",
+    "summary": "رووداو دیجیتاڵ وەزارەتی نەوتی عێراق دەڵێ، هەناردەی نەوت لەرێگەی دەروازەکانەوە بۆ 2.2 ملیۆن بەرمیل زیادی کردووە. ئاشکراشی دەکات کە رێککەوتنی نێوان بەغدا و هەولێر بۆ ساڵێکی دیکە درێژکراوەتەوە. سەلیم روکابی، گوتەبێژی وەزارەتی نەوتی عێراق، رۆژی شەممە(5ـی ئەیلوولی 2026) لە کاتی بەشداریکردنی لە بووڵتەنی کاژێر 11ـی رووداو دا راگەیاند:\" ئێستا رۆژانە نزیکەی 180 هەزار بەرمیل نەوت لەرێگەی بۆرییەوە بەرەو بەندەری جەیهانی تورکیا رەوانە دەکرێت، کە 150 هەزار بەرمیلیان نەوتی هەرێمی کوردستانە و 30 هەزار بەرمیلەکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "52eea26ea6a28640",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1869682",
+    "title": "ئەمریکا سێ نەوتهەڵگری ئێرانی تێکشکاند",
+    "title_en": "ئەمریکا سێ نەوتهەڵگری ئێرانی تێکشکاند",
+    "summary": "رووداو دیجیتاڵ فەرماندەیی ناوەندیی هێزەکانی ئەمریکا (سێنتکۆم) رایگەیاند، سێ کەشتیی نەوتهەڵگری سەر بە سوپای پاسدارانی ئێرانیان کردووەتە ئامانج و پەکیان خستوون، ئەمەش دوای ئەوەی ئێران بە مووشەکی بالیستی دوو کەشتیی جەنگیی ئەمریکای لە ناوچەکەدا کردبووە ئامانج. بەگوێرەی راگەیێندراوەکەی سێنتکۆم کە رۆژی شەممە 05-09-2026 بڵاویکردەوە، کەشتییەکی فڕۆکەهەڵگر و تێکشکێنەرێکی ئەمریکا توانیویانە بە سەرکەوتوویی خۆیان لە چەندین هێرشی \"بێ پاساوی\" ئێران بپارێزن و هیچ سەربازێکی ئەمریکی زیانی بەرنەکەوتووە. سێنتکۆم ئا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "01595ba811a61b38",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869678",
+    "title": "برایەکی بکوژەکەی کچەکەی پیرانشار: عیزەدین تاهیری ژنێکی کوشتووە و 19 ژنی دیکەی هێناوە",
+    "title_en": "برایەکی بکوژەکەی کچەکەی پیرانشار: عیزەدین تاهیری ژنێکی کوشتووە و 19 ژنی دیکەی هێناوە",
+    "summary": "رووداو دیجیتاڵ ئەو تۆمەتبارەی لە پیرانشاری رۆژهەڵاتی کوردستان ئەشکەنجەی نیلوفەر مجاویری دابوو، لە سنووری بانە دەستگیرکرا. قسەی کەسوکاری تۆمەتبار و ئەو کچەی دواتر گیانی لەدەستدا، سەبارەت بە رووداوەکە دژ بەیەکن. پووری نیلوفەر دەڵێ، ئەو پیاوە دەستدرێژی کردووەتە سەر 11 ژنی دیکە. ئەمڕۆ شەممە 05-09-2026، عەلیڕەزا هاتفی، داواکاری گشتیی پیرانشاری پارێزگای ورمێی رۆژهەڵاتی کوردستان رایگەیاند، عیزەدین تاهیری، تۆمەتباری ئەشکەنجەدان، برسیکردن و دەستدرێژیکردنە سەر نیلوفەر مجاویری تەمەن 28 ساڵ لە سنووری بانە د",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8dae1e4ceb0ba4a6",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869686",
+    "title": "بانکی ناوەندیی عێراق: دەستکاری بەهای دینار ناکرێت",
+    "title_en": "بانکی ناوەندیی عێراق: دەستکاری بەهای دینار ناکرێت",
+    "summary": "رووداو دیجیتاڵ بانکی ناوەندیی عێراق ئەو دەنگۆیانە رەتدەکاتەوە کە باس لە هەوڵێک بۆ بەرزکردنەوەی نرخی ئاڵوگۆڕی دۆلار بەرامبەر بە دیناری عێراقی دەکەن و ئاماژە بەوە دەکات، نرخە فەرمییەکە وەک خۆی جێگیرە. ئەمڕۆ شەممە 5ی ئەیلوولی 2026، بانکی ناوەندیی عێراق رایگەیاند، \"ئەو هەواڵانەی باس لە بوونی ویست بۆ بەرزکردنەوەی نرخی دۆلار دەکەن، هیچ بنەمایەکی راستییان نییە، تاوەکو ئێستا هیچ بڕیارێک لەو بارەیەوە دەرنەچووە.\" لە راگەیێندراوەکەی بانکی ناوەندیدا ئاماژە بەوە کراوە کە \"نرخی ئاڵوگۆڕی فەرمیی پەسندکراو لەلای",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9b2f131d2b0b3f38",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869684",
+    "title": "عەلی زەیدی پرسەنامەیەک ئاراستەی سەرۆک بارزانی دەکات",
+    "title_en": "عەلی زەیدی پرسەنامەیەک ئاراستەی سەرۆک بارزانی دەکات",
+    "summary": "رووداو دیجیتاڵ سەرۆکوەزیرانی عێراق پرسەنامەیەکی ئاراستەی سەرۆک بارزانی کرد و هاوخەمیی خۆی بۆ کۆچی دوایی عەبدولواحید ئیبراهیم شێخ عەبدولسەلام بارزانی دەربڕی. رۆژی شەممە، 5ـی ئەیلوولی 2026، نووسینگەی راگەیاندنی سەرۆکوەزیرانی عێراق، هاوخەمییەکەی عەلی زەیدی بە راگەیێندراوێک بڵاوکردەوە و تێیدا هاتووە. بەگوێرەی راگەیێندراوەکە، لە پەیامەکەیدا سەرۆکوەزیران هاوخەمیی قووڵی خۆی دەربڕیوە و داواکارە لە خوای گەورە لە کۆچکردوو خۆش بێت و دڵنەوایی و ئارامی بە بنەماڵە، کەسوکار و خۆشەویستانی ببەخشێت. رۆژی هەینی، 4",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cf45738130d51221",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1869681",
+    "title": "رێکاری یاسایی بۆ رێگریکردن لە بەکارهێنانی ژیری دەستکرد بۆ دروستکردنی \"نێوەڕۆکی نەشیاو\" لە عێراق دەگیرێتەبەر",
+    "title_en": "رێکاری یاسایی بۆ رێگریکردن لە بەکارهێنانی ژیری دەستکرد بۆ دروستکردنی \"نێوەڕۆکی نەشیاو\" لە عێراق دەگیرێتەبەر",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ناوخۆی عێراق هۆشداری دەداتە ئەو کەسانەی ژیری دەستکرد بۆ دروستکردنی ڤیدیۆی \"نەشیاو و ئابڕووبەر\" بەکاردێنن و دەڵێت:\" بە هاوئاهەنگیی دادگە سزای قورسیان بەسەردا دەسەپێندرێ\". رۆژی شەممە، 5ـی ئەیلوولی 2026، وەزارەتی ناوخۆی عێراق لە راگەیێندراوێکدا بڵاویکردەوە، لیژنەی \"نێوەڕۆکی نەشیاو\" چاودێریی چەند هەوڵێکی کردووە تایبەت بە خراپ بەکارهێنانی ژیری دەستکرد بە مەبەستی دروستکردنی ڤیدیۆ و دەنگ یان وێنە کە لە رەفتاری گشتی لادەدەن. وەزارەتی ناوخۆی عێراق ئاماژەی بەوە کردووە، ئەم جۆرە نێو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "35afc79e69327fac",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869680",
+    "title": "وەزارەتی ئەوقاف 31 کەس بۆ رێبەرایەتی حاجیان لەنێو 465 مامۆستای ئایینی هەڵدەبژێرێت",
+    "title_en": "وەزارەتی ئەوقاف 31 کەس بۆ رێبەرایەتی حاجیان لەنێو 465 مامۆستای ئایینی هەڵدەبژێرێت",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ئەوقاف و کاروباری ئاینیی هەرێمی کوردستان تاقیکردنەوەیەکی بۆ 465 مامۆستای ئاینی ئەنجامدا، ئەوەش بە مەبەستی دیاریکردنی شایستەترینیان بۆ رێبەرایەتی حاجیان (مورشید) لە وەرزی حەجی ساڵی 2027. کاروان ستوونی، گوتەبێژی حەج و عومرەی هەرێمی کوردستان، بە تۆڕی میدیایی رووداو گوت: \"تاقیکردنەوەکە بە شێوەیەکی وزاری و لە یەک کاژێری دیاریکراودا لە سەرانسەری هەرێمی کوردستان بەڕێوەچوو.\" بەپێی گوتەی کاروان ستوونی، ئامانج لە تاقیکردنەوەکە دەستنیشانکردنی ئەو مامۆستایانەیە کە شایستەترینن بۆ ئەوە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9d4e85492b495e31",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1869679",
+    "title": "بانکی ناوەندیی عێراق: پارەی هاووڵاتییان لە هەموو بانکە مۆڵەتپێدراوەکان پارێزراوە",
+    "title_en": "بانکی ناوەندیی عێراق: پارەی هاووڵاتییان لە هەموو بانکە مۆڵەتپێدراوەکان پارێزراوە",
+    "summary": "رووداو دیجیتاڵ بانکی ناوەندیی عێراق دڵنیایی دەداتە هاووڵاتییان کە پارەکەیان لە بانکە مۆڵەتپێدراوەکان پارێزراوە و دەڵێ، ناردنی لیژنەی چاودێری بۆ هەر بانکێک بە واتای مایەپووچبوونی ئەو بانکە نایەت. رۆژی شەممە، 5ـی ئەیلوولی 2026، بانکی ناوەندیی عێراق لە راگەیێندراوێکدا وەڵامی ئەو دەنگۆیانەی دایەوە کە لە تۆڕە کۆمەڵایەتییەکاندا بڵاوبوونەتەوە و باس لە مایەپووچبوونی هەندێک بانک دەکەن. بانکەکە روونیکردەوە، سەردانی لیژنەی سەرپەرشتیاری بۆ هەندێک بانک تەنیا رێکارێکی چاودێریی یاساییە بۆ پاراستنی سەلامەتیی با",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b654740e0554540c",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1869677",
+    "title": "دۆزەخ هەڕەشە لە مۆرینیۆ دەکات.. 4 بڕیاری بەپەلە ریال مەدرید رزگار دەکەن",
+    "title_en": "دۆزەخ هەڕەشە لە مۆرینیۆ دەکات.. 4 بڕیاری بەپەلە ریال مەدرید رزگار دەکەن",
+    "summary": "رووداو دیجیتاڵ ریال مەدرید رۆژانێکی سەخت لەژێر سەرپەرشتی جۆزێ مۆرینیۆی پۆرتوگالیدا بەڕێدەکات دوای لەدەستدانی خاڵەکانی دوایی بە دۆڕانی بەرامبەرریال بێتیس، و لەدەستدانی ئەو هاوسەنگییە هونەرییەی کە لەنێو یاریگادا پێویستە. هاندەرانی یانە شاهانەکە بەربەستی پێشوەختە قبوڵ ناکەن و وەک دۆزەخێکی پێشوەختە دەیناسێنن کە هەڕەشە لە خواستەکانیان دەکات بۆ کێبڕکێ لەسەر نازناوە ناوخۆیی و کیشوەرییەکان، ئەمەش کارگێڕیی و راهێنەر دەخاتە بەردەم ناچاریی گرتنەبەری رێوشوێنی بەپەلە بۆ گەڕاندنەوەی تیپەکە بۆ سەر رێڕەوی سەرکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e3b00338e7fa8711",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304913",
+    "title": "Kurdên li Stockholmê: Desthilata rastgiran cudakarî zêde kir",
+    "title_en": "Kurdên li Stockholmê: Desthilata rastgiran cudakarî zêde kir",
+    "summary": "Stockholm (Rûdaw) - Diyasporaya Kurdan bi nêzîkbûna hilbijartinên giştî yên Swêdê re, li wî welatî girîngiyeke taybet dide mijara dengdanê û guhertinên siyasî û civakî. Endamên Komeleya Kal û Pîrên a Kurda a Stockholmê ji Rûdawê re qala bandora rastgiran, xizmetguzarî, perwerde û tenduristiyê kirin. Endamên Komeleya Kal û Pîrên a Kurda a Stockholmê wekî gelek koçberên Kurd bi kelecan rewşa siyasî ya welêt dişopînin. Wan da znîn ku beşdariya wan a di pêvajoya demokrasiyê de bandoreke rasterast li",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb53f810de981892",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1304912",
+    "title": "Hana Emîn: Ez dixwazim bibim pira di navbera Swêd û Kurdistanê de",
+    "title_en": "Hana Emîn: Ez dixwazim bibim pira di navbera Swêd û Kurdistanê de",
+    "summary": "Dusseldorf (Rûdaw) - Bi nêzîkbûna hilbijartinên giştî û xwecihî yên Swêdê re, xebatên namzedên Kurd ên di nav partiyên cuda de germ bûne. Di nav zêdetirî 200 namzedên Kurd ên li Swêdê de, Hana Emîna 25 salî wekî namzeda Partiya Sosyal Demokrat a Parlamentoya Swêdê hewl dide baweriya dengdêran û diyasporaya Kurdan bi dest bixe. Hana Emîn 25 salî ye û li Swêdê ji dayîk bûye. Wê di warê nexşesazî û endazyariyê de xwendiye û niha endama Encumena Şaredariya Sollentunaya li Stokholmê ye. Ew dixwaze di",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60c9080e0b580f83",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1304914",
+    "title": "Hunermenda Kurd Gulistan Tahirê li Almanyayê wefat kir",
+    "title_en": "Hunermenda Kurd Gulistan Tahirê li Almanyayê wefat kir",
+    "summary": "Hewlêr (Rûdaw) - Hunermend û lîstikvana şanoyê ya Kurd Gulistan Tahirê (Gulistan Sobarî) îro li bajarê Bochumê yê Almanyayê koça dawî kir. Bi koça dawî Gulistan Sobariyê îro qada çandî û hunerî ya Kurdan yek ji kesayetiyên xwe yên herî diyar ji dest da. Wê bi dehan salan stranbêjî û lîstikvanî bi hev re dikir. Ji malbateke hunermend e Gulistan Sobarî ji bajarê Dirbêsiyê yê parêzgeha Hisîçayê ya Rojavayê Kurdistanê ye. Ew di nav malbateke hunerî û dêrîn de mezin bûye. Bavê wê hunermend Necim Omer",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "35fd3e97677b5cfd",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304913",
+    "title": "Kurdên li Stockholmê: Desthilata rastgiran cudakarî zêde kir",
+    "title_en": "Kurdên li Stockholmê: Desthilata rastgiran cudakarî zêde kir",
+    "summary": "Stockholm (Rûdaw) - Diyasporaya Kurdan bi nêzîkbûna hilbijartinên giştî yên Swêdê re, li wî welatî girîngiyeke taybet dide mijara dengdanê û guhertinên siyasî û civakî. Endamên Komeleya Kal û Pîrên a Kurda a Stockholmê ji Rûdawê re qala bandora rastgiran, xizmetguzarî, perwerde û tenduristiyê kirin. Endamên Komeleya Kal û Pîrên a Kurda a Stockholmê wekî gelek koçberên Kurd bi kelecan rewşa siyasî ya welêt dişopînin. Wan da znîn ku beşdariya wan a di pêvajoya demokrasiyê de bandoreke rasterast li",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "86d732512b81844d",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1304912",
+    "title": "Hana Emîn: Ez dixwazim bibim pira di navbera Swêd û Kurdistanê de",
+    "title_en": "Hana Emîn: Ez dixwazim bibim pira di navbera Swêd û Kurdistanê de",
+    "summary": "Dusseldorf (Rûdaw) - Bi nêzîkbûna hilbijartinên giştî û xwecihî yên Swêdê re, xebatên namzedên Kurd ên di nav partiyên cuda de germ bûne. Di nav zêdetirî 200 namzedên Kurd ên li Swêdê de, Hana Emîna 25 salî wekî namzeda Partiya Sosyal Demokrat a Parlamentoya Swêdê hewl dide baweriya dengdêran û diyasporaya Kurdan bi dest bixe. Hana Emîn 25 salî ye û li Swêdê ji dayîk bûye. Wê di warê nexşesazî û endazyariyê de xwendiye û niha endama Encumena Şaredariya Sollentunaya li Stokholmê ye. Ew dixwaze di",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b87f62d4daf9e9b",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304914",
+    "title": "Hunermenda Kurd Gulistan Tahirê li Almanyayê wefat kir",
+    "title_en": "Hunermenda Kurd Gulistan Tahirê li Almanyayê wefat kir",
+    "summary": "Hewlêr (Rûdaw) - Hunermend û lîstikvana şanoyê ya Kurd Gulistan Tahirê (Gulistan Sobarî) îro li bajarê Bochumê yê Almanyayê koça dawî kir. Bi koça dawî Gulistan Sobariyê îro qada çandî û hunerî ya Kurdan yek ji kesayetiyên xwe yên herî diyar ji dest da. Wê bi dehan salan stranbêjî û lîstikvanî bi hev re dikir. Ji malbateke hunermend e Gulistan Sobarî ji bajarê Dirbêsiyê yê parêzgeha Hisîçayê ya Rojavayê Kurdistanê ye. Ew di nav malbateke hunerî û dêrîn de mezin bûye. Bavê wê hunermend Necim Omer",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "be20bed38a7209de",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304915",
+    "title": "Bahçelî li ser yasaya pêvajoyê got: Lihevkirina civakê bihêz dike",
+    "title_en": "Bahçelî li ser yasaya pêvajoyê got: Lihevkirina civakê bihêz dike",
+    "summary": "Hewlêr (Rûdaw) - Serokê Giştî yê Partiya Tevgera Netewperest (MHP) Devlet Bahçelî ragihand ku pêvajoyê çareseriyê lihevkirina civakê bihêz dike. Bahçejî li her wiha wî hêvî nedikir ku “Yasaya Bihêzakirina Piştgiriya Neteweyî û Yekbûna Civakî\" bi 467 dengî li Parlamentoyê derbas bibe. Wî got ku ev asta qebûlkirinê bûye sedema xurtkirina hevgirtin û lihevkirina civakî. Serokê Giştî yê MHPyê Devlet Bahçelî beşdarî bernameyeke HaberTurkê û pirsên li ser pêvajoya çareseriyê û mijarên di rojevê de bes",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "373f4df9c29b337c",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1304915",
+    "title": "Bahçelî li ser yasaya pêvajoyê got: Lihevkirina civakê bihêz dike",
+    "title_en": "Bahçelî li ser yasaya pêvajoyê got: Lihevkirina civakê bihêz dike",
+    "summary": "Hewlêr (Rûdaw) - Serokê Giştî yê Partiya Tevgera Netewperest (MHP) Devlet Bahçelî ragihand ku pêvajoyê çareseriyê lihevkirina civakê bihêz dike. Bahçejî li her wiha wî hêvî nedikir ku “Yasaya Bihêzakirina Piştgiriya Neteweyî û Yekbûna Civakî\" bi 467 dengî li Parlamentoyê derbas bibe. Wî got ku ev asta qebûlkirinê bûye sedema xurtkirina hevgirtin û lihevkirina civakî. Serokê Giştî yê MHPyê Devlet Bahçelî beşdarî bernameyeke HaberTurkê û pirsên li ser pêvajoya çareseriyê û mijarên di rojevê de bes",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
