@@ -291427,6 +291427,258 @@
     }
   },
   {
+    "id": "af4ca0a9f583ce14",
+    "url": "https://www.rudaw.net/english/categories/world/1079166",
+    "title": "'No Paradise if Killed by a Woman' sells out Venice premiere amid Oscar buzz",
+    "title_en": "'No Paradise if Killed by a Woman' sells out Venice premiere amid Oscar buzz",
+    "summary": "VENICE, Italy - An unusual cross-border co-production, an urgent frontline premise, and surging distributor interest have converged at the Venice Film Festival to turn Kurdish director Halkawt Mustafa's No Paradise if Killed by a Woman into one of Venice's most hotly pursued market titles. Ahead of its official red carpet bow, the tickets for screening of the film have completely sold out, underscoring heavy demand from international buyers, festival programmers, and press. The heightened profil",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "732ccaf6ef0025ff",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079165",
+    "title": "Erbil, Baghdad agree to bolster security coordination in disputed areas",
+    "title_en": "Erbil, Baghdad agree to bolster security coordination in disputed areas",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s federal security forces and the Kurdistan Region’s Peshmerga forces agreed on Sunday to bolster coordination in disputed areas jointly secured by both sides, as officials in Baghdad discussed border security, intelligence sharing, and joint training to address security vacuums. A high-level security meeting was held in Baghdad, chaired by Abdul-Amir Shammari, director of the Office of the Commander in Chief of Iraq's Armed Forces. The meeting was attended by Pesh",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1054fbf44c63b6c4",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079164",
+    "title": "US-sanctioned Altaif Islamic Bank clients protest in Baghdad amid liquidity crisis",
+    "title_en": "US-sanctioned Altaif Islamic Bank clients protest in Baghdad amid liquidity crisis",
+    "summary": "ERBIL, Kurdistan Region - Clients of the US-sanctioned Altaif Islamic Bank gathered outside its Baghdad headquarters on Sunday to demand access to their funds amid a liquidity crisis that prompted the Central Bank of Iraq (CBI) to place the institution under guardianship. On Sunday, Iraqi and foreign clients, including nationals from Kenya and Pakistan, protested after being unable to withdraw their deposits or receive interest payouts. Some depositors had sold assets, including gold and seconda",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "84bc430ea0e4c1c7",
+    "url": "https://www.rudaw.net/sorani/categories/world/1869797",
+    "title": "سەرجەم بلیتەکانی پێشاندانی (بەهەشت نابینیت، ئەگەر ژن بتکوژێت) لە ڤێنیس فرۆشران",
+    "title_en": "سەرجەم بلیتەکانی پێشاندانی (بەهەشت نابینیت، ئەگەر ژن بتکوژێت) لە ڤێنیس فرۆشران",
+    "summary": "رووداو دیجیتاڵ پێش نمایشکردنی فەرمیی لەسەر فەرشی سوور، سەرجەم بلیتەکانی پێشاندانی فیلمی (بەهەشت نابینیت، ئەگەر ژن بتکوژێت)، بەتەواوی فرۆشراون؛ ئەمەش خواستی زۆری کڕیارە نێودەوڵەتییەکان، داڕێژەرانی بەرنامەی فێستیڤاڵەکان و میدیاکاران بۆ فیلمی دەرهێنەرە گەنجەکەی کورد پێشاندەدات. ئەم گرنگیدانە بەرفراوانە هاوکاتە لەگەڵ ئامادەکارییەکان بۆ دەستپێکردنی کەمپەینێکی جیهانی بۆ فیلمەکە، دوای ئەوەی بە فەرمی هەڵبژێردرا بۆ ئەوەی لە خولی داهاتووی خەڵاتەکانی ئۆسکاردا کێبڕکێ لەسەر بردنەوەی خەڵاتی باشترین فیلمی نێود",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dff4be3cd276754a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1869796",
+    "title": "سامی جەلال: بەغدا دەیەوێت 100%ـی داهاتی دەروازەکان ببات",
+    "title_en": "سامی جەلال: بەغدا دەیەوێت 100%ـی داهاتی دەروازەکان ببات",
+    "summary": "رووداو دیجیتاڵ حکومەتی فیدراڵیی لە نووسراوێکی فەرمیدا بۆ ئەنجوومەنی وەزیران، بڕگەیەکی رێککەوتنی نێوان هەولێر و بەغدای لەبارەی داهاتی دەروازە سنوورییەکان گۆڕیوە و داوای 100%ـی داهاتەکە دەکات، شاندی هەرێمی کوردستانیش ئەو هەنگاوە بە \"سەرپێچیی یاسایی و رێگری لە رێککەوتن\" دادەنێت. رۆژی یەکشەممە، 6ـی ئەیلوولی 2026، سامی جەلال، راوێژکاری یاسایی وەزارەتی ناوخۆ و سەرۆکی تیمی دانوستاندنکاری سیستەمی (ئەسیکۆدا) لە هەرێمی کوردستان، میوانی بووڵتەنی کاژێر 12:00ـی تۆڕی میدیایی رووداو بوو، وردەکاریی دواین کۆبوون",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9a42f78e04e85c57",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869795",
+    "title": "دابەشکردنی پارەی گەنمی جووتیاران لە هەولێر و دهۆک تەواو بووە و ئەمڕۆ لە سلێمانی دەستیپێکرد",
+    "title_en": "دابەشکردنی پارەی گەنمی جووتیاران لە هەولێر و دهۆک تەواو بووە و ئەمڕۆ لە سلێمانی دەستیپێکرد",
+    "summary": "رووداو دیجیتاڵ دابەشکردنی وەجبەی حەوتەمی پارەی گەنمی جووتیاران بۆ ساڵی 2025 لە پارێزگای سلێمانی دەستیپێکرد، ئەوەش لەکاتێکدایە کە لە هەفتەی رابردووەوە دابەشکردنی ئەو بڕە پارەیە لە هەولێر و دهۆک کۆتایی هاتووە. رۆژی یەکشەممە، 6ـی ئەیلوولی 2026، نەوزاد شێخ کامیل، بەڕێوەبەری گشتیی بازرگانی و پیشەسازیی هەرێمی کوردستان بە تۆڕی میدیایی رووداوی راگەیاند: \"ئەمڕۆ دابەشکردنی وەجبەی حەوتەمی پارەی گەنمی جووتیاران لە سلێمانی دەستیپێکرد\". لەبارەی هۆکاری دواکەوتنی پارەکە لەو پارێزگایە نەوزاد شێخ کامیل گوتی:\"پارێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "761d6f36f9bfa388",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869794",
+    "title": "میران ئەحمەد: بەهۆی رووخسارمەوە 4 جار داوای ژنیان رەتکردوومەتەوە",
+    "title_en": "میران ئەحمەد: بەهۆی رووخسارمەوە 4 جار داوای ژنیان رەتکردوومەتەوە",
+    "summary": "رووداو دیجیتاڵ میران ئەحمەد، گەنجێکی تەمەن 28 ساڵە و لە گەڕەکی گازینۆی کەلار دەژی، ئەو لەگەڵ نەخۆشییەکی سکماکیی دەگمەن لەدایکبووە، کە بووەتە هۆی دروستبوونی گۆشتی زیادە لە رووخساریدا. ئەم بارودۆخە ژیانی میرانی دژوار کردووە، لە وازهێنان لە خوێندنەوە بگرە تاوەکو رووبەڕوونەوەی تانەی کۆمەڵگە. میران، کە کوڕە گەورەی ماڵەکەیانە، دوای کۆچی دوایی باوکی ساڵێک لەمەوبەر، ئەرکی بەخێوکردنی خێزانەکەی کەوتووەتە ئەستۆ. رۆژانە بە عەرەبانەیەکی بچووکەوە دەچێتە بازاڕ و شتی هەراج و وردەواڵە دەفرۆشێت. ئەو لە بەرنامەی (",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9061c8f07cd36be0",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1869793",
+    "title": "بەشێک لە دانیشتووانی ئایندە یەک دەڵێن، کێشەی ئاویان هەیە",
+    "title_en": "بەشێک لە دانیشتووانی ئایندە یەک دەڵێن، کێشەی ئاویان هەیە",
+    "summary": "رووداو دیجیتاڵ  بەشێک لە دانیشتووانی پڕۆژەی نیشتەجێبوونی ئایندە 1 لە رێگەی کەسنەزان لە پارێزگای هەولێر دەڵێن، کێشەی ئاویان هەیە. لە بەرامبەردا بەڕێوەبەرایەتیی ئاوی هەولێر رایدەگەیەنێت کە ئاو رۆژانە بۆ پڕۆژەکە رەوانە دەکرێ، بەڵام بەهۆی کێشەیەکی تەکنیکی لە وێستگەی سەرەکی، بڕی ئاوەکە کەم بووەتەوە. ئەحمەد عەبدوڵڵا، یەکێک لە دانیشتووانی ئایندە 1، لە لێدوانێکی تایبەتدا بۆ رادیۆی رووداو باسی لە مەینەتییەکانی بەشێک لە 450 خێزانی نیشتەجێی پڕۆژەکە کرد و رایگەیاند: \"تەنیا لە مانگی رابردوودا 125 هەزار دینار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bab1d4ce195d84ba",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1304953",
+    "title": "Li Venedîkê hemû bilêtên ‘Eger Jinek Te Bikuje Tu Naçî Bihuştê’ hatin firotin",
+    "title_en": "Li Venedîkê hemû bilêtên ‘Eger Jinek Te Bikuje Tu Naçî Bihuştê’ hatin firotin",
+    "summary": "Beriya nîşandana fermî ya li ser xalîçeya sor, hemû bilêtên nîşandana fîlmê “Eger Jinek Te Bikuje Tu Naçî Bihuştê” hatin firotin. Ev yek jî daxwaza zêde ya kiryarên navneteweyî, amadekarên festîvalan û medyakaran a ji bo fîlmê derhênerê ciwan ê Kurd nîşan dide. Ev eleqeya berfireh di heman demê de bi amadehiyên destpêkirina hemleyeke cîhanî ya ji bo fîlmê re hevdem e, ew jî piştî ku fîlm bi awayekî fermî hat hilbijartin da ku di xula bê ya xelatên Oscarê de ji bo xelata Fîlmê Herî Baş ê Navnetew",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e6ca39250d8933b6",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1304952",
+    "title": "Netanyahu: Dawiya desthilata Îranê nêzîk e",
+    "title_en": "Netanyahu: Dawiya desthilata Îranê nêzîk e",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îsraîlê Benjamin Netanyahu ragihand ku dawiya desthilata Îranê nêzîk e. Wî her wiha anî zimên ku Îran xwe ji êrişkirina ser Îsraîlê dûr digire. Li gorî daxuyaniya Serokwezîrtiya Îsraîlê, Netanyahu beriya civîna kabîneyê axiviye. Netanyahu di axaftina xwe de destnîşan kiriye ku Îran xwe ji êrişkirina ser Îsraîlê diparêze. \"Dê derbeyeke ku nikare xeyal jî bike bixwe\" Serokwezîrê Îsraîlê Benjamin Netanyahu gef li Îranê war û got, \"Îran êrişî me nake. Îran xwe ji vê yekê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "156cca64deb32447",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1304951",
+    "title": "Çîroka Pêşmergeyeke jin li ser xalîçeya sor a Venedîkê ye",
+    "title_en": "Çîroka Pêşmergeyeke jin li ser xalîçeya sor a Venedîkê ye",
+    "summary": "Hewlêr (Rûdaw) - Xalîçeya sor a Festîvala Fîlman a Venedîkê ku çalakiya sînemayê ya herî kevn a cîhanê ye, îsal dibe dika çîroka Pêşmergeyeke jin a wêrek. Festîvala 83yemîn a Fîlman a Navneteweyî ya Venedîkê dest pê kir û li festîvalê dê fîlmê Helkewt Mistefa yê bi navê “ Eger Jinek Te Bikuje Tu Na çî Bihu ş t ê” jî were n îş andan. Rûdaw festîvalê ji nêzîk ve dişopîne. Festîval dê heta 12yê Îlona 2026an bidome. 21 fîlm di beşa pêşbirka sereke ya Festîvala Fîlman a Navneteweyî ya Venedîkê de ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec90df244495354a",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1304953",
+    "title": "Li Venedîkê hemû bilêtên ‘Eger Jinek Te Bikuje Tu Naçî Bihuştê’ hatin firotin",
+    "title_en": "Li Venedîkê hemû bilêtên ‘Eger Jinek Te Bikuje Tu Naçî Bihuştê’ hatin firotin",
+    "summary": "Beriya nîşandana fermî ya li ser xalîçeya sor, hemû bilêtên nîşandana fîlmê “Eger Jinek Te Bikuje Tu Naçî Bihuştê” hatin firotin. Ev yek jî daxwaza zêde ya kiryarên navneteweyî, amadekarên festîvalan û medyakaran a ji bo fîlmê derhênerê ciwan ê Kurd nîşan dide. Ev eleqeya berfireh di heman demê de bi amadehiyên destpêkirina hemleyeke cîhanî ya ji bo fîlmê re hevdem e, ew jî piştî ku fîlm bi awayekî fermî hat hilbijartin da ku di xula bê ya xelatên Oscarê de ji bo xelata Fîlmê Herî Baş ê Navnetew",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "20591dc2e15a58e2",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1304952",
+    "title": "Netanyahu: Dawiya desthilata Îranê nêzîk e",
+    "title_en": "Netanyahu: Dawiya desthilata Îranê nêzîk e",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îsraîlê Benjamin Netanyahu ragihand ku dawiya desthilata Îranê nêzîk e. Wî her wiha anî zimên ku Îran xwe ji êrişkirina ser Îsraîlê dûr digire. Li gorî daxuyaniya Serokwezîrtiya Îsraîlê, Netanyahu beriya civîna kabîneyê axiviye. Netanyahu di axaftina xwe de destnîşan kiriye ku Îran xwe ji êrişkirina ser Îsraîlê diparêze. \"Dê derbeyeke ku nikare xeyal jî bike bixwe\" Serokwezîrê Îsraîlê Benjamin Netanyahu gef li Îranê war û got, \"Îran êrişî me nake. Îran xwe ji vê yekê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b39c14217f0a1ec6",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1304951",
+    "title": "Çîroka Pêşmergeyeke jin li ser xalîçeya sor a Venedîkê ye",
+    "title_en": "Çîroka Pêşmergeyeke jin li ser xalîçeya sor a Venedîkê ye",
+    "summary": "Hewlêr (Rûdaw) - Xalîçeya sor a Festîvala Fîlman a Venedîkê ku çalakiya sînemayê ya herî kevn a cîhanê ye, îsal dibe dika çîroka Pêşmergeyeke jin a wêrek. Festîvala 83yemîn a Fîlman a Navneteweyî ya Venedîkê dest pê kir û li festîvalê dê fîlmê Helkewt Mistefa yê bi navê “ Eger Jinek Te Bikuje Tu Na çî Bihu ş t ê” jî were n îş andan. Rûdaw festîvalê ji nêzîk ve dişopîne. Festîval dê heta 12yê Îlona 2026an bidome. 21 fîlm di beşa pêşbirka sereke ya Festîvala Fîlman a Navneteweyî ya Venedîkê de ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
