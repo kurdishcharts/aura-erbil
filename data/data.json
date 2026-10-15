@@ -383533,6 +383533,42 @@
     }
   },
   {
+    "id": "ed49b868be1b8f34",
+    "url": "https://www.rudaw.net/english/categories/interview/1079737",
+    "title": "US firms explore air defense role, investment in Kurdistan Region, Syria",
+    "title_en": "US firms explore air defense role, investment in Kurdistan Region, Syria",
+    "summary": "ERBIL, Kurdistan Region - US defense and security companies are exploring opportunities to help strengthen the Kurdistan Region’s air defenses following the withdrawal of US-led coalition forces, as a visiting American joint business delegation discusses potential projects with Kurdish and Syrian officials.  Treefa Aziz, the Kurdistan Regional Government (KRG) Representative to the United States, highlighted the role of American private sector companies as being well positioned to “fill the gaps",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9f290b464dadc79c",
+    "url": "https://www.rudaw.net/sorani/categories/interview/1873338",
+    "title": "دڵشاد شەهاب بۆ رووداو: بارەگای بارزانی ماڵی کوردانە و لە هەموو پارچەکانی کوردستانەوە رووی تێدەکرێت",
+    "title_en": "دڵشاد شەهاب بۆ رووداو: بارەگای بارزانی ماڵی کوردانە و لە هەموو پارچەکانی کوردستانەوە رووی تێدەکرێت",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی سەرۆکایەتیی هەرێمی کوردستان رایدەگەیێنێت، پێویستە مووچە و شایستەی دارایی فەرمانبەرانی هەرێمی کوردستان لە ناکۆکییە سیاسییەکان و پرسی نەوت و خاڵە سنوورییەکان جیا بکرێتەوە؛ هاوکات پشتڕاستیکردەوە هەفتەی داهاتوو کۆبوونەوەیەکی باڵای چوارقۆڵی بۆ یەکلاکردنەوەی پرسە نێوخۆییەکان و کاراکردنەوەی پەرلەمان دەکرێت. دڵشاد شەهاب، گوتەبێژی سەرۆکایەتیی هەرێمی کوردستان، لە بەرنامەی (رووداوی ئەمڕۆ)ـی تۆڕی میدیایی رووداو، وەڵامی چەندین پرسی گرنگی پەیوەست بە بودجەی 2027ـی عێراق، کۆبوونەوەکانی ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
