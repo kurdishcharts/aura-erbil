@@ -386611,6 +386611,492 @@
     }
   },
   {
+    "id": "36eec2681e0c1303",
+    "url": "https://www.rudaw.net/english/categories/syria/1079758",
+    "title": "Sare Kani IDPs recount lost memories as they return home after 7 years",
+    "title_en": "Sare Kani IDPs recount lost memories as they return home after 7 years",
+    "summary": "ERBIL, Kurdistan Region - Displaced families continue to return to the countryside of the Kurdish city of Sare Kani (Ras al-Ayn) in northern Syria, only to find their homes reduced to rubble after seven years of displacement following a Turkish military offensive in 2019. The fifth official convoy brought hundreds of families, including Kurdish households, back to villages devastated by the offensive earlier this week, as authorities announced plans to organize two convoys of returning internall",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0e1f239fdd53ee1e",
+    "url": "https://www.rudaw.net/english/categories/world/1079757",
+    "title": "UK court hands 20-year sentence to would-be teenage Norwegian hitman hired by Iran-backed gang",
+    "title_en": "UK court hands 20-year sentence to would-be teenage Norwegian hitman hired by Iran-backed gang",
+    "summary": "ERBIL, Kurdistan Region - A UK court on Friday handed a 20-year sentence to Johannes Kongsnes Natland, 19, who traveled from Norway to the UK in March 2025 to carry out an assassination following payment and orders from a criminal organization backed by Tehran.  Natland agreed to shoot an unknown victim for €25,000 after having been recruited by the Foxtrot Network, a Swedish organized crime organization with links to the Iranian government. He was found guilty of conspiracy to murder after a tr",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fa978f0ed03a0366",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079756",
+    "title": "Iraq estimates losses from US-Iran war at $60 billion",
+    "title_en": "Iraq estimates losses from US-Iran war at $60 billion",
+    "summary": "ERBIL, Kurdistan Region - Iraq has suffered an estimated $60 billion in losses during the war between the United States and Iran, Foreign Minister Fuad Hussein said on Thursday, warning of the exacerbating effect of the global energy crisis amid rising concerns about inflation.  Hussein gave the estimate during a meeting with Italian Deputy Prime Minister and Foreign Minister Antonio Tajani in Rome, according to a statement from Iraq’s Foreign Ministry carried by the state-run Iraqi News Agency ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6af64bedec450dae",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1873473",
+    "title": "نەتەنیاهوو وەڵامی ئۆباما دەداتەوە: جووەکان لە خاکی باوباپیرانیاندان و خاکی کەسیان نەدزیوە",
+    "title_en": "نەتەنیاهوو وەڵامی ئۆباما دەداتەوە: جووەکان لە خاکی باوباپیرانیاندان و خاکی کەسیان نەدزیوە",
+    "summary": "رووداو دیجیتاڵ بنیامین نەتەنیاهوو، سەرۆکوەزیرانی ئیسرائیل وەڵامی لێدوانەکانی باراک ئۆباما، سەرۆکی پێشووتری ئەمریکای دایەوە و رایگەیاند، جووەکان داگیرکەری بیانی نین و لە خاکی مێژوویی باوباپیرانی خۆیاندان، هەروەها ئیسرائیل ئاستەنگ نییە لەبەردەم ئاشتیدا. لە پەیامێکی ڤیدیۆییدا بە زمانی ئینگلیزی کە هەژمارى سەرۆکوەزیرانى ئیسرائیل لە ئێکس بڵاویکردەوە، نەتەنیاهوو رەتیکردەوە دامەزراندنی ئیسرائیل پڕۆژەیەکی داگیرکاری بووبێت و گوتی: \"گەلی جوو داگیرکەری بیانی نین. مێژووی ئێمە پڕۆژەیەکی داگیرکاری نییە، خاکەکە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "33b07625cee037ba",
+    "url": "https://www.rudaw.net/sorani/categories/world/1873471",
+    "title": "جێگری سوپاسالاری ئەمریکا: شەڕی داهاتوومان لە خاکی وڵاتەکەمان دەبێت",
+    "title_en": "جێگری سوپاسالاری ئەمریکا: شەڕی داهاتوومان لە خاکی وڵاتەکەمان دەبێت",
+    "summary": "رووداو دیجیتاڵ سوپای ئەمریکا بۆ چەندین دەیە لەسەر ئەو بنەمایە کاری کردووە کە لە دەرەوەی سنوورەکان و لە خاکی دووژمندا رووبەڕووی ببێتەوە، بەڵام زیادبوونی مەترسییەکانی فڕۆکەی بێ فڕۆکەوان (درۆن)، هێرشە ئەلیکترۆنییەکان (سایبەری) و چەکە مەودادورەکان وایکردووە سەرکردەکانی سوپا خۆیان بۆ داهاتوویەک ئامادە بکەن کە دۆخەکە جیاواز بێ. رۆژی پێنجشەممە، 16ی تشرینی دووەمی 2026، کریستۆفەر لانێڤ، جێگری سوپاسالاری ئەمریکا لە هەڤپەیڤینێکدا لەگەڵ میدیای وڵاتەکەی رایگەیاند: \"سوپا بەو گریمانانەدا دەچێتەوە کە لە دەیەکان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49fcb50b74bcf5f8",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1873470",
+    "title": "بانکی گەشەپێدانیی نێودەوڵەتی تۆمەتەکانی ئەمریکا رەت دەکاتەوە",
+    "title_en": "بانکی گەشەپێدانیی نێودەوڵەتی تۆمەتەکانی ئەمریکا رەت دەکاتەوە",
+    "summary": "رووداو دیجیتاڵ بانکی گەشەپێدانیی نێودەوڵەتی لە عێراق، بڕیارەکەی وەزارەتی گەنجینەی ئەمریکای بۆ خستنە نێو لیستی سزاکان رەت کردەوە و رایگەیاند، ئەوان دامەزراوەیەکی دارایی شەفافن و ئامادەن لەگەڵ بەغدا و واشنتن هاوکاری بکەن بۆ روونکردنەوەی راستییەکان. کارگێڕیی بانکی گەشەپێدانی نێودەوڵەتی بۆ وەبەرهێنان و دارایی لە عێراق، رۆژی هەینی(16ـی تشرینی یەکەمی2026)، لە راگەیێندراوێکدا ئەو تۆمەتانەی کە لە لایەن وەزارەتی گەنجینەی ئەمریکاوە ئاراستەی کراون و بە \"ناراست\" ناوی بردن. بانکەکە جەختی کردەوە کە ئامادەیە ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e39403a56969abc3",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1873465",
+    "title": "هەناردەی باکووری کوردستان لە دانەوێڵە و رۆندا گەیشتە نزیکەی 3 ملیار دۆلار",
+    "title_en": "هەناردەی باکووری کوردستان لە دانەوێڵە و رۆندا گەیشتە نزیکەی 3 ملیار دۆلار",
+    "summary": "رووداو دیجیتاڵ هەناردەی دانەوێڵە، پاقلەمەنی و رۆن لە 9 مانگی رابردوودا لە پارێزگاکانی باکووری کوردستانەوە بە رێژەی 5.6% زیادیکردووە و بایی 2 ملیار و 753 ملیۆن دۆلار بووە. وڵاتانی رۆژهەڵاتی نێوەڕاست و ئەفریقا گەورەترین کڕیاری بەرهەمەکانن. بەپێی داتای یەکێتیی هەناردەکارانی باشووری رۆژهەڵاتی ئەنادۆڵ (باکووری کوردستان)، لە 9 مانگی رابردوودا، 3 ملیۆن و 295 هەزار تۆن دانەوێڵە و پاقلەمەنی و بەرهەمی دیکە هەناردە کراوە. ئەمەش نیشاندەری ئەوەیە کە ناوچەکە لە رووی بڕەوە 3.7% و لە رووی نرخەوە 5.6% گەشەی بەخۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "58af234b150380bf",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1873472",
+    "title": "سەرچاوە دیپلۆماسییەکان: زەیدی رەزامەندیی ئەمریکای وەرگرتبوو بۆ ئەوەی لەیس خەزعەلی ببێتە جێگری",
+    "title_en": "سەرچاوە دیپلۆماسییەکان: زەیدی رەزامەندیی ئەمریکای وەرگرتبوو بۆ ئەوەی لەیس خەزعەلی ببێتە جێگری",
+    "summary": "رووداو دیجیتاڵ سەرچاوە دیپلۆماسییەکان بە ئاژانسی هەواڵی فرانس پرێسـیان راگەیاندووە، سەرۆکوەزیرانی عێراق دوای وەرگرتنی رەزامەندیی واشنتن، پێکهاتەی کابینەکەی بە دەستنیشانکردنی کەسایەتییەکی سزادراو لەلایەن ئەمریکاوە تەواو کردووە، ئەوەش لە پێناو بەرەوپێشبردنی هەوڵەکانی بۆ چەکداماڵینی گرووپەکانی لایەنگری ئێران لە عێراق. شەوی پێنجشەممە، لەیس خەزعەلی، سەرکردەی گرووپی عەسائیبی ئەهلی حەقـ (کە لەلایەن ئەمریکاوە سزای بەسەردا سەپێندراوە) وەک یەکێک لە جێگرەکانی عەلی زەیدی، سەرۆکوەزیرانی عێراق پەسندکرا. رۆژی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e11dec455c9b2e73",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1873469",
+    "title": "گوتارخوێنی نەجەف رەخنە لە دروستکردنی وەزارەتی نوێ و پۆستی جێگرانی سەرۆکوەزیرانی عێراق دەگرێ",
+    "title_en": "گوتارخوێنی نەجەف رەخنە لە دروستکردنی وەزارەتی نوێ و پۆستی جێگرانی سەرۆکوەزیرانی عێراق دەگرێ",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4b8876dd065b957b",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1873468",
+    "title": "رۆژانە هەزاران هەنگاو دەبڕێت بۆ ئەوەی لە مزگەوتی قەڵای وان بانگ بدات",
+    "title_en": "رۆژانە هەزاران هەنگاو دەبڕێت بۆ ئەوەی لە مزگەوتی قەڵای وان بانگ بدات",
+    "summary": "رووداو دیجیتاڵ سبغەتوڵڵا بیلمەز، گەنجێکی تەمەن 28 ساڵە و وەک پێشنوێژی کاتی لە مزگەوتی مێژوویی سولەیمان خان لەسەر قەڵای وان کار دەکات. ئەو رۆژانە بە رێگایەکی سەخت و هەورازدا هەزاران هەنگاو دەبڕێت بۆ ئەوەی بانگ بدات و پێشنوێژی بکات. سبغەتوڵڵا بیلمەز، کە لە قەزای ئیپەکیۆڵو دەژی، 5 مانگە وەک پێشنوێژ و بانگدەری کاتی لە مزگەوتی مێژوویی سولەیمان خان دەستبەکار بووە. ئەم مزگەوتە سێ ساڵ لەمەوبەر کرایەوە، مێژووی دروستکردنی بە دیاریکراوی نازانرێت، بەڵام لە ساڵی 1534 لە لایەن سوڵتان سولەیمانی قانوونییەوە نۆژ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "208a0fd403b2aa6a",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1873466",
+    "title": "تورکیا بودجەی 2027ی راگەیاند؛ ئامانجەکانی هەڵاوسان و گەشەی ئابووری دیاریکران",
+    "title_en": "تورکیا بودجەی 2027ی راگەیاند؛ ئامانجەکانی هەڵاوسان و گەشەی ئابووری دیاریکران",
+    "summary": "رووداو دیجیتاڵ یاریدەدەری سەرۆککۆماری تورکیا وردەکارییەکانی پڕۆژەیاسای بودجەی ساڵی 2027ی ئاشکرا کرد. بەپێی بودجەکە، ئامانجی هەڵاوسان بۆ 21% و گەشەی ئابووری بۆ 4.2% دانراوە، لەکاتێکدا پشکی شێر بۆ کەرتی پەروەردە و بەرگری تەرخان کراوە. ئەمرۆ هەینی، 16-10-2026 جەودەت یڵماز، یاریدەدەری رەجەب تەیب ئەردۆغان، سەرۆککۆماری تورکیا، لە کۆشکی سەرۆکایەتی لە ئەنقەرە، ئامار و ئامانجە سەرەکییەکانی بودجەی ساڵی 2027ی راگەیاند و ئاماژەی بەوەدا کە پڕۆژەیاساکە بە واژۆی سەرۆککۆمار رەجەب تەیب ئەردۆغان، رەوانەی پەرلەمان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b2c4c22303120dfd",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1873464",
+    "title": "نێچیرڤان بارزانی بۆ جێگرانی نوێی سەرۆکوەزیرانی عێراق: هیوای سەرکەوتنتان بۆ دەخوازم",
+    "title_en": "نێچیرڤان بارزانی بۆ جێگرانی نوێی سەرۆکوەزیرانی عێراق: هیوای سەرکەوتنتان بۆ دەخوازم",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "50f2a476d58cedc8",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1873463",
+    "title": "سێ هەزار پارچە زەوی لە سنووری دهۆک دابەش دەکرێت",
+    "title_en": "سێ هەزار پارچە زەوی لە سنووری دهۆک دابەش دەکرێت",
+    "summary": "رووداو دیجیتاڵ بڕیارە هەفتەی داهاتوو سێ هەزار پارچە زەوی لە سنووری پارێزگای دهۆک بەسەر ئەو فەرمانبەرانەدا دابەش بکرێت کە ناویان بۆ وەرگرتنی زەوی گەڕاوەتەوە. دیار بەحری، بەڕێوەبەری گشتیی شارەوانییەکانی پارێزگای دهۆک، ئەمڕۆ هەینی 16-10-2026 بە تۆڕی میدیایی رووداوی گوت: \"هەفتەی داهاتوو سێ هەزار پارچە زەوی دیکە بەسەر فەرمانبەرانی سنوورەکەماندا دابەش دەکەین\". لەبارەی ئەو شوێنانەی زەوییەکانی لێ دابەش دەکرێت، بەڕێوەبەری گشتیی شارەوانییەکانی پارێزگای دهۆک گوتی، زەوییەکان بەسەر فەرمانبەرانی رۆڤیا، کۆرا و",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "506a14f4ee2a7b16",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1873462",
+    "title": "کەمال محەممەد و هێمن حەمەساڵح دوێتێکیان بڵاوکردەوە",
+    "title_en": "کەمال محەممەد و هێمن حەمەساڵح دوێتێکیان بڵاوکردەوە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "df7f85e94058cdcb",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1873461",
+    "title": "سالار مەحموود: بارودۆخی ناوچەکە مەترسیدارە و دەبێ کێشەکانمان لەگەڵ پارتی چارەسەر بکەین",
+    "title_en": "سالار مەحموود: بارودۆخی ناوچەکە مەترسیدارە و دەبێ کێشەکانمان لەگەڵ پارتی چارەسەر بکەین",
+    "summary": "رووداو دیجیتاڵ ئەندامێکی سەرکردایەتیی یەکێتیی نیشتمانیی کوردستان رایدەگەیێنێت، بافڵ تاڵەبانی، سەرۆکی حیزبەکەی، دەستپێشخەرییەکی بۆ \"دەستپێکردنی پرۆسەی ئاشتی لەنێوان هێزەکانی رۆژهەڵاتی کوردستان و کۆماری ئیسلامیی ئێران\" کردووە و دەڵێت، \"ئەمە دەستخستنە سەر برینە بۆ ئەوەیە لەجیاتی ئەوەی بە ناوی هێزە ئۆپۆزیسیۆنەکانەوە پەلاماری هەرێمی کوردستان بدرێت، پرسی کورد بە رێگەیەکی ئاشتییانە چارەسەر بکرێت.\" سالار مەحموود، ئەندامی سەرکردایەتی و بەرپرسی مەکتەبی پەیوەندییەکانی دەرەوەی یەکێتیی نیشتمانیی کوردستان، لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c53ab90fa2105f78",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1873442",
+    "title": "وەزارەتی ناوخۆی عێراق: تێچووی پاسپۆرت هەر 91 هەزار دینارە و زیاد ناکرێ",
+    "title_en": "وەزارەتی ناوخۆی عێراق: تێچووی پاسپۆرت هەر 91 هەزار دینارە و زیاد ناکرێ",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ناوخۆی عێراق رایگەیاند، بەهیچ شێوەیەک نرخی دەرهێنانی پاسپۆرتی عێراقی زیاد ناکرێت و تێچووەکەی وەک خۆی دەمێنێتەوە و ئەمە فەرمانی سەرۆکوەزیرانە. وەزارەتی ناوخۆی عێراق رایگەیاند: \"لەپێناو خزمەتکردنی هاووڵاتییان و جێبەجێکردنی رێنماییەکانی فەرماندەی گشتیی هێزە چەکدارەکان، تێچووی پاسپۆرت وەک خۆی دەهێڵدرێتەوە\". حوسێن عەوادی، بریکاری وەزارەتی ناوخۆی عێراق گوتی: \"دەرهێنانی پاسپۆرت بە بڕی 91 هەزار دینار بەردەوام دەبێت و هیچ بڕە پارەیەکی زیادە بۆ ئەم مەبەستە لە هاووڵاتییان وەرناگیرێت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e88b331c365844c3",
+    "url": "https://www.rudaw.net/sorani/categories/world/1873437",
+    "title": "دادگەی هامبۆرگ سزای زیندانیکردنی بەسەر دوو \"سیخوڕی\" ئێراندا سەپاند",
+    "title_en": "دادگەی هامبۆرگ سزای زیندانیکردنی بەسەر دوو \"سیخوڕی\" ئێراندا سەپاند",
+    "summary": "رووداو دیجیتاڵ دادگەی باڵای هامبۆرگ سزای بەسەر دوو \"سیخوڕی\" ئێراندا سەپاند. بەپێی دادگە، هەردوو کەسەکە لەسەر فەرمانی دەزگای هەواڵگریی ئێران، پلانی تیرۆرکردنی نوێنەرانی جووی ئەڵمانیایان داڕشتبوو، کە یەکێکیان جۆزێف شوستەر بوو، سەرۆکی ئەنجوومەنی ناوەندیی جووەکان لە ئەڵمانیا. رۆژی پێنجشەممە، 15ـی تشرینی یەکەمی 2026، دادگەی باڵای هانسیاتی لە هامبۆرگ دوو پیاوی تەمەن 54 ساڵ و 43 ساڵی بە تۆمەتی سیخوڕیی هەواڵگری، داڕشتنی پلانی هێرشکردنە سەر نوێنەرانی جوو و بەشداریکردن لە هەوڵی کوشتندا دادگەیی کرد. دادگە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e27ddc838561109",
+    "url": "https://www.rudaw.net/sorani/categories/world/1873436",
+    "title": "لە پاکستان بنمیچی قوتابخانەیەک داڕما و 32 قوتابی و مامۆستایەک مردن",
+    "title_en": "لە پاکستان بنمیچی قوتابخانەیەک داڕما و 32 قوتابی و مامۆستایەک مردن",
+    "summary": "رووداو دیجیتاڵ لە شاری (پێشاوەر)ی باکووری رۆژئاوای پاکستان، بنمیچی قوتابخانەیەک بەسەر هۆڵەکانی خوێندندا داڕما و بووە هۆی گیانلەدەستدانی 32 قوتابی و مامۆستایەک؛ بەرپرسانی ناوخۆیی هۆکاری رووداوەکە بۆ کۆنیی باڵەخانەکە دەگێڕنەوە. دوێنێ پێنجشەممە، 15ی تشرینی یەکەمی 2026، عاسم خان، بەرپرسی نەخۆشخانەی (لێدی ریدینگ) لە پێشاوەر رایگەیاند، تاوەکو ئێوارەی ئەمڕۆ ژمارەی قوربانییان گەیشتووەتە 33 کەس کە تەمەنی منداڵەکان لەنێوان 4 بۆ 14 ساڵدایە؛ هەروەها 20 قوتابیی دیکەش بە برینداری گەیێندراونەتە نەخۆشخانە و بری",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b123de7f1e318bcd",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1873467",
+    "title": "ریال مەدرید داوای دەستلەکارکێشانەوەی دەستبەجێی خاڤیێر تێباس دەکات",
+    "title_en": "ریال مەدرید داوای دەستلەکارکێشانەوەی دەستبەجێی خاڤیێر تێباس دەکات",
+    "summary": "رووداو دیجیتاڵ یانەی ریال مەدریدی ئیسپانی بە راگەیێندراوێکی فەرمی و زۆر تووند وەڵامی لێدوانەکانی خاڤیێر تێباس، سەرۆکی رێکخراوی لالیگا و جێگری سەرۆکی فیدراسیۆنی تۆپی پێی ئیسپانیای دایەوە، دوای ئەوەی ناوبراو شێوازی کارکردنی کارگێڕیی یانەی شاهانەی بە بەکارهێنانی رێگاکانی جۆزێف گۆبڵز، وەزیری پڕوپاگەندەی رژێمی نازی بەراورد کردبوو و کەناڵی فەرمیی یانەکەی بە ئامرازی جێبەجێکردنی ئەو ستراتیژە تۆمەتبار کردبوو. ریال مەدرید لە راگەیێندراوەکەیدا رایگەیاندووە کە بە تووندی ئەم بەراوردکارییە رەتدەکاتەوە و بە کا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb8d5651f9aba0da",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306186",
+    "title": "Ji bo Kaniya Şêx Seîd tabela hatin danîn",
+    "title_en": "Ji bo Kaniya Şêx Seîd tabela hatin danîn",
+    "summary": "Hewlêr (Rûdaw) - Li navbera Çewlîg û Amedê, piştî çêkirina kaniya li ser navê Şêx Seîd, niha jî li ser rêya ku diçe kaniyê tabelayên rê hatin danîn. Kaniya ku li gundê Qerxebazarê ya li navbera navçeya Kanîreşa Çewlîgê û parêzgeha Mûşê, ji bo bîranîna Şêx Seîd hatibû danîn, beriya demekê ji aliyê Komeleya Paleviyê ve hat nûkirin. Ji vê kaniyê re navê “Kaniya Şehîd Şêx Seîdê Palewî” hate lêkirin. Tabelayên rê hatin danîn Piştî çêkirina kaniyê, endamên komeleyê li ser rêya ku diçe ber kaniyê tabel",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2d77ccc34db585c6",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1306185",
+    "title": "Nûsxeyeke 257 salî ya Mem û Zînê li Wanê ji nû ve hat çapkirin",
+    "title_en": "Nûsxeyeke 257 salî ya Mem û Zînê li Wanê ji nû ve hat çapkirin",
+    "summary": "Wan (Rûdaw) - Nûsxeyeke Mem û Zîna Ehmedê Xanî ya ku beriya bi sedan salî hatiye nivîsandin ji nû ve hat çapkirin. Ev pirtûk ji aliyê Odeya Bazirganiyê ya Wanê ve hat amadekirin û ji bo vê berhemê li Wanê merasîmeke taybet hat lidarxistin. Amadekarên berhemê û gelek niştecihên Wanê beşdarî merasîmê bûn. Destxeta ku 257 sal berê hatiye nivîsandin gelek xêzên cografî û helbestên şairên klasîk di nav xwe de dihewîne. Duyemîn berhema herî kevn a Kurdî ye Piştî lêkolîn û xebateke gelekî dûr û dirêj d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9c776abbad1b4f09",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306183",
+    "title": "Coyeke avê ya li Kerkûkê ket lîsteya mîrata cîhanî",
+    "title_en": "Coyeke avê ya li Kerkûkê ket lîsteya mîrata cîhanî",
+    "summary": "Hewlêr (Rûdaw) - Coya avê \"Naruceya Hacî Cercîsê Jorîn\" a li nahiyeya Şiwanê ya Kerkûkê, bi awayê fermî di Lîsteya Tesîsên Çandî yên Cîhanî yên Avdaniyê de hat tomarkirin. Birêvebirê nahiyeyê da zanîn ku tenê li devera Şiwanê zêdetirî hezar şûnwarên dîrokî hene. Di çarçoveya xebatên 26emîn Kongreya Navneteweyî ya Avdan û Ziwakirinê (ICID) de ku li bajarê Marsîlyayê yê Fransayê hat kirin, îro (16ê Çiriya Pêşîna 2026an) Komîteya Navneteweyî ya Avdanê bi awayê fermî ev coya li Kerkûkê xiste nav lîs",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0f591e6fe6e6dc71",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306182",
+    "title": "TAYBET - Polîs li ser wî robotî lêkolînê dikin ku bi destdirêjiyê tê tohmetbarkirin",
+    "title_en": "TAYBET - Polîs li ser wî robotî lêkolînê dikin ku bi destdirêjiyê tê tohmetbarkirin",
+    "summary": "Hewlêr (Rûdaw) - Polîsê bajarê Kolnê yê Almanyayê ji Rûdawê re ragihand ku ew li ser robotekÎ lêkolînê dikin ku bi tohmeta destdirêjiya li ser keçekê tê tawanbarkirin. Li gorî daxuyaniya polîsan, şeva 11ê Çiriya Pêşîn robotekî ku bilindahiya wî 1,20 metre ye nêzîkî keçeke 16 salî bûye û tevgerên nelirê li hemberî wê kirine. Polîs da zanîn ku xwediyê robot ev bûyer tomar kiriye û bi weşana zindî li ser torên civakî belav kiriye. Daxuyaniya Polîsê Kolnê Serkomîserê Polîsê Kolnê yê li eyaleta Nordr",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9563fa1ca4be1624",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1306185",
+    "title": "Nûsxeyeke 257 salî ya Mem û Zînê li Wanê ji nû ve hat çapkirin",
+    "title_en": "Nûsxeyeke 257 salî ya Mem û Zînê li Wanê ji nû ve hat çapkirin",
+    "summary": "Wan (Rûdaw) - Nûsxeyeke Mem û Zîna Ehmedê Xanî ya ku beriya bi sedan salî hatiye nivîsandin ji nû ve hat çapkirin. Ev pirtûk ji aliyê Odeya Bazirganiyê ya Wanê ve hat amadekirin û ji bo vê berhemê li Wanê merasîmeke taybet hat lidarxistin. Amadekarên berhemê û gelek niştecihên Wanê beşdarî merasîmê bûn. Destxeta ku 257 sal berê hatiye nivîsandin gelek xêzên cografî û helbestên şairên klasîk di nav xwe de dihewîne. Duyemîn berhema herî kevn a Kurdî ye Piştî lêkolîn û xebateke gelekî dûr û dirêj d",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "930036cf3c3fdbd9",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306184",
+    "title": "Dayîka Aştiyê Hatun Aslanê koça dawiyê kir",
+    "title_en": "Dayîka Aştiyê Hatun Aslanê koça dawiyê kir",
+    "summary": "Hewlêr (Rûdaw) - Dayîka Aştiyê Hatun Aslanê, doh êvarê ji ber krîza dil canê xwe ji dest da. Cenazeyê Aslanê li Goristana Yenîkoyê ya li navçeya Rezanê ya Amedê hate veşartin. Hatun Aslana ku bi salan di MEBYA-DER û Meclîsa Dayîkên Aştiyê de cih girtibû, doh êvarê ji ber krîza dil canê xwe ji dest da. Endamên MEBYA-DERê, Meclîsa Dayîkên Aştiyê û gelek jin beşdarî merasîma cenazeyê bûn. Piştî pêkanîna nimêj û erkên olî, darbesta Hatun Aslanê ji aliyê Dayîkên Aştiyê ve hate hilgirtin. Li pey veşar",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1919dc5ccabc0b49",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306182",
+    "title": "TAYBET - Polîs li ser wî robotî lêkolînê dikin ku bi destdirêjiyê tê tohmetbarkirin",
+    "title_en": "TAYBET - Polîs li ser wî robotî lêkolînê dikin ku bi destdirêjiyê tê tohmetbarkirin",
+    "summary": "Hewlêr (Rûdaw) - Polîsê bajarê Kolnê yê Almanyayê ji Rûdawê re ragihand ku ew li ser robotekÎ lêkolînê dikin ku bi tohmeta destdirêjiya li ser keçekê tê tawanbarkirin. Li gorî daxuyaniya polîsan, şeva 11ê Çiriya Pêşîn robotekî ku bilindahiya wî 1,20 metre ye nêzîkî keçeke 16 salî bûye û tevgerên nelirê li hemberî wê kirine. Polîs da zanîn ku xwediyê robot ev bûyer tomar kiriye û bi weşana zindî li ser torên civakî belav kiriye. Daxuyaniya Polîsê Kolnê Serkomîserê Polîsê Kolnê yê li eyaleta Nordr",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e0065bf19f1c2049",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/1306163",
+    "title": "Tuncer Bakirhan: Di qonaxa yekem a aştiyê de PKK dê çekan deyne, di qonaxa duyem de jî dê dor were ser mafên destûrî yên Kurdan",
+    "title_en": "Tuncer Bakirhan: Di qonaxa yekem a aştiyê de PKK dê çekan deyne, di qonaxa duyem de jî dê dor were ser mafên destûrî yên Kurdan",
+    "summary": "Hevserokê Giştî yê DEM Partiyê Tuncer Bakirhan derbarê nîqaşên pêvajoya çareseriyê ya li Tirkiyeyê ragihand ku pirsgirêkeke sed salî li ser maseyê ye û niha ew di qonaxa yekem a aştiyê de ne. Bakirhan diyar kir ku di qonaxa yekem de avêtina gavan a ji bo bêçekkirina PKKyê û danîna zemîna siyasetê li pêş e lê qonaxa duyem rasterast bi xurtkirina şaredariyan, demokrasiyê û mafên destûrî yên gelê Kurd ve pêwendîdar e. Hevserokê DEM Partiyê eşkere kir ku pêvajo di qonaxa dawî ya qonaxa yekem de ye û",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
