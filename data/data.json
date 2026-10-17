@@ -388087,6 +388087,24 @@
     }
   },
   {
+    "id": "370a84c4232a2efd",
+    "url": "https://www.rudaw.net/sorani/categories/world/1873508",
+    "title": "بەرپرسانی ئەفریقا بۆ رووداو: یارمەتیمان ناوێت، هاوبەشیی یەکسانمان دەوێت",
+    "title_en": "بەرپرسانی ئەفریقا بۆ رووداو: یارمەتیمان ناوێت، هاوبەشیی یەکسانمان دەوێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
