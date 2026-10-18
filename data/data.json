@@ -392497,6 +392497,60 @@
     }
   },
   {
+    "id": "6fe2913a8656cba1",
+    "url": "https://www.rudaw.net/english/categories/world/1079791",
+    "title": "Trump endorses Netanyahu ahead of Israeli election, threatens further strikes on Iran",
+    "title_en": "Trump endorses Netanyahu ahead of Israeli election, threatens further strikes on Iran",
+    "summary": "ERBIL, Kurdistan Region - US President Donald Trump pledged his “complete and total endorsement” of Israeli Prime Minister Benjamin Netanyahu on Sunday ahead of Israeli elections at the end of the month, praising him as a key partner against Iran and warning Tehran that Washington could “finish the job” unless it changed course. Netanyahu welcomed Trump’s endorsement, praising Trump’s “remarkable consistency” in the ongoing war with Iran, as Iranian Foreign Minister Abbas Araghchi said the same ",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8140a19f1497bc4e",
+    "url": "https://www.rudaw.net/sorani/categories/world/1873670",
+    "title": "ترەمپ زیلینسکی بە درێژەدان بە جەنگ تۆمەتبار دەکات",
+    "title_en": "ترەمپ زیلینسکی بە درێژەدان بە جەنگ تۆمەتبار دەکات",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا، بەرگری لە بڕیارەکەی دەکات بۆ هەڵپەساردنی چەند سزایەکی نوێی قورس بەسەر رووسیادا و رایگەیاند کە جێبەجێکردنی ئەو سزایانە لەم کاتەدا دانوستاندنەکانی ئاشتی لەگەڵ مۆسکۆ تێکدەدات. هاوکات ترەمپ دەڵێت، ڤۆلۆدیمیر زیلینسکی، سەرۆکی ئۆکراینا هۆکاری بەردەوامیی جەنگەکە و قەیرانی سووتەمەنییە. لە پۆستێکی درێژدا لە تۆڕی کۆمەڵایەتیی ترووس سۆشیاڵ، ترەمپ باسی لەوە کرد کە ئەو \"لە پرۆسەی دانوستاندنی ئاشتیدایە بۆ جەنگی نێوان رووسیا و ئۆکراینا\" و نایەوێت بە هەڵە، مۆسکۆ لە مێز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "768412cc5a31375c",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1873671",
+    "title": "ریال مەدرید بە چوار گۆڵ سێڤییای تێکشکاند",
+    "title_en": "ریال مەدرید بە چوار گۆڵ سێڤییای تێکشکاند",
+    "summary": "رووداو دیجیتاڵ ریال مەدرید سەرکەوتنێکی گەورە و متمانەبەخشی بەدەستهێنا، پاش ئەوەی لەسەر یاریگای 'سانتیاگۆ بێرنابیۆ' و لە گەڕی نۆیەمی خولی ئیسپانیا بە ئەنجامی (4-1) لە یانەی سێڤییای میوانی بردەوە، بەمەش پێشوازییەکی گەورەی لە یاریی لووتکەی داهاتوو کلاسیکۆ بەرامبەر بارسێلۆنا کرد. یارییەکە، کە شەوی یەکشەممە بەڕێوەچوو، یانەی شاهانە بە سەرکردایەتیی جۆزێ مۆرینیۆی راهێنەر ئاستێکی بەرزی هێرشبەری پێشکەشکرد و سێ خاڵی زێڕینی بەدەستهێنا. سەرەتای یارییەکە بە کۆنتڕۆڵی ریال مەدرید دەستپێکرد، تاوەکو لە خولەکی 30ـ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
