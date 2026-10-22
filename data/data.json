@@ -400021,6 +400021,114 @@
     }
   },
   {
+    "id": "5a61c421764eac66",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1079838",
+    "title": "US orders departure of non-emergency staff from Saudi Arabia",
+    "title_en": "US orders departure of non-emergency staff from Saudi Arabia",
+    "summary": "ERBIL, Kurdistan Region - The United States Department of State confirmed late Wednesday that it had issued an \"ordered departure\" for non-emergency US government personnel and their family members in Saudi Arabia following increased attacks by the Iran-aligned Ansarullah movement, widely known as the Houthis. “The U.S. Department of State issued an ordered departure for non-emergency U.S. government employees and their family members in Saudi Arabia only,” Department spokesperson Tommy Pigott p",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f6a437e31881adf9",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1873976",
+    "title": "لە ئاکرێ دوو برا لەسەر کێشەیەکی کۆمەڵایەتی کوژران",
+    "title_en": "لە ئاکرێ دوو برا لەسەر کێشەیەکی کۆمەڵایەتی کوژران",
+    "summary": "رووداو دیجیتاڵ پۆلیسی ئاکرێ بە رووداوی گوت، دوو برا لە ناوەندی شاری ئاکرێ لەسەر کێشەیەکی کۆمەڵایەتی کوژران. رۆژی پێنجشەممە، 22-10-2026 لە بەردەم پارکی ئاکرێ کەسێک تەقەی لە دوو برا کرد و هەردووکیانی کوشت و یەکێکی دیکەیشی بریندار کرد.  پۆلیسی ئاکرێ بە رووداوی گوت، تەقەکەرەکە ئامۆزای کوژراوەکان بووە و دەستبەسەرنەکراوە. ئەو کەسانەی گیانیان لەدەستداوە برا بوونە بە ناوەکانی جەمال حاجی و فەلاح حاجی و برایێکی دیکەیشیان بریندارە.  گرتە ڤیدیۆیەک لە تۆڕە کۆمەڵایەتییەکان بڵاوبووەتەوە و دەردەکەوێت، تەرمی کوژ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3f0847d86a2b46a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1873959",
+    "title": "وەزارەتی دارایی و ئابووری: لیستی مووچەی مانگی 10 بە واژۆی ئاوات شێخ جەناب رەوانەی بەغدا کرا",
+    "title_en": "وەزارەتی دارایی و ئابووری: لیستی مووچەی مانگی 10 بە واژۆی ئاوات شێخ جەناب رەوانەی بەغدا کرا",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دارایی و ئابووری هەرێمی کوردستان رایگەیاند، لیستی مووچەی مانگی 10 و تەرازووی پێداچوونەوەی مانگی 9 رەوانەی بەغدا کران. وەزارەتی دارایی و ئابووری ئەمڕۆ چوارشەممە رایگەیاند، لیستی مووچەی مانگی 10 بە واژۆی ئاوات شێخ جەناب بۆ بەغدا نێردراوە و سبەی پێنجشەممە بەفەرمی رادەستی فەرمانگەی ژمێریاری لە وەزارەتی دارایی فیدراڵ دەکرێت. وەزارەتی دارایی و ئابووری لە راگەیێندراوەکەیدا روونیکردووەتەوە: \"لە روانگەی ئەوەی پرسی مووچە بابەتێکی نیشتیمانییە و بەمەبەستی دروست نەبوونی هیچ کێشەیەک بۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "06e98ec689793c77",
+    "url": "https://www.rudaw.net/sorani/categories/opinion/1873905",
+    "title": "دەستوبردکەن، بۆ شەڕى دەستوور",
+    "title_en": "دەستوبردکەن، بۆ شەڕى دەستوور",
+    "summary": "لە دروستکردنى دەوڵەتى عێراقدا لە ساڵى 1921، ئەم بەشەى باشوورى کوردستان کە ئەوکات ناوى ویلایەتى موسڵ بوو، بە زۆر و بێ لەبەرچاوگرتنى ماف و داخوازییەکانى گەلى کورد، لکێندرا بە عێراقى عەرەبیى تازە دامەزرێندراوەوە. رەچاونەکردنى تایبەتمەندیى نەتەوەیى و جوگرافیاى کوردستان، هەوڵەکانى دەسەڵاتى کەمینەى سونەى عەرەبى بۆ پاکتاوکردنى رەگەزیى کورد، سێ چارەکە سەدە ململانێ و شەڕى نێوان کورد و ناوەندى لێکەوتەوە. دواى رووخانى سەدام، هەلومەرجى ئەوە دروستبوو عێراقێک بونیات بنرێت کە پێکهاتەکانى ئارەزوومەندانە پێکەوە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4d6ea53bb4c4740d",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1873977",
+    "title": "لیستی مووچە رەوانەی بەغدا کرا و قسەی وەزیری دارایی لەبارەی دەستلەکارکێشانەوەی",
+    "title_en": "لیستی مووچە رەوانەی بەغدا کرا و قسەی وەزیری دارایی لەبارەی دەستلەکارکێشانەوەی",
+    "summary": "Content unavailable.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e9c84a77d890cae",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1873975",
+    "title": "ریال مەدرید بە چوار گۆڵ لایپزیگی تێکشکاند",
+    "title_en": "ریال مەدرید بە چوار گۆڵ لایپزیگی تێکشکاند",
+    "summary": "رووداو دیجیتاڵ ریال مەدریدی ئیسپانی سەرکەوتنێکی گەورە و شایستەی بەسەر میوانەکەی، یانەی لایپزیگی ئەڵمانیدا تۆمارکرد، پاش ئەوەی لەسەر یاریگای 'سانتياگۆ بێرنابيۆ' و لە گەڕی سێیەمی قۆناخی خولی چامپیۆنزلیگی وەرزی 2026-2027، بە ئەنجامی (4-1) یارییەکەی لێ بردەوە و پێگەی خۆی لە هەشت تیپەکەی پێشەوەی ریزبەندی پتەوتر کرد. یارییەکە، کە ئێوارەی چوارشەممە بەڕێوەچوو، سەرەتا بە هۆشیاری و کەمێک پشووپڕی لەلایەن یانەی شاهانەوە دەستپێکرد، لە کاتێکدا لایپزیگ هەوڵیدەدا هێرشی پێچەوانە ئەنجامبدات، بەڵام گۆڵپارێز تیبۆ ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
