@@ -401695,6 +401695,474 @@
     }
   },
   {
+    "id": "2e133c772ab213c0",
+    "url": "https://www.rudaw.net/english/categories/world/1079848",
+    "title": "German state leaders call for faster deportations, tougher action against extremism",
+    "title_en": "German state leaders call for faster deportations, tougher action against extremism",
+    "summary": "ERBIL, Kurdistan Region - German state leaders on Thursday called for faster deportations of people considered security threats and tougher measures against political extremism, as the heads of the country's 16 federal states met in Berlin to discuss security and other domestic challenges. \"We are talking about dangerous individuals, and we will specifically discuss Syria and Afghanistan. That will be a focus today so we can reach a unified understanding; this is very important to me,\" Lower Sax",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ea2543ce7ba56898",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1874064",
+    "title": "وەزارەتی خوێندنی باڵا: سەرجەم دەرچووانی کەرکووک و ناوچە کوردستانییەکان لە زانکۆ و پەیمانگەکان وەردەگیرێن",
+    "title_en": "وەزارەتی خوێندنی باڵا: سەرجەم دەرچووانی کەرکووک و ناوچە کوردستانییەکان لە زانکۆ و پەیمانگەکان وەردەگیرێن",
+    "summary": "رووداو دیجیتاڵ وەزارەتی خوێندنی باڵای هەرێمی کوردستان دەڵێ، سەرجەم دەرچووانى خوێندنگە کوردییەکانى کەرکووک و خانەقین و شنگال و ناوچە کوردستانییەکان لە زانکۆ پەیمانگاکانی هەرێمى کوردستان وەردەگیرێن. ئەمڕۆ پێنجشەممە 22 تشرینی یەکەمی 2026، وەزارەتی خوێندنی باڵا و توێژینەوەی زانستیی هەرێمی کوردستان لە راگەیێنراوێکدا رایگەیاند: لەسەر راسپاردەی د. ئارام محمد، وەزیرى خوێندنى باڵا، رەزامەندیی درا لەسەر وەرگرتنى سەرجەم دەرچوانى خوێندنگە کوردییەکانى کەرکووک و خانەقین و شنگال و ناوچە کوردستانییەکانى دەرەوەى",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "075b4a9f8996f009",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874061",
+    "title": "سەرۆکوەزیرانی هەرێمی راینلاند-پالاتینات بۆ رووداو: ئەوانەی هەڕەشەن ناتوانن لە ئەڵمانیا بمێننەوە",
+    "title_en": "سەرۆکوەزیرانی هەرێمی راینلاند-پالاتینات بۆ رووداو: ئەوانەی هەڕەشەن ناتوانن لە ئەڵمانیا بمێننەوە",
+    "summary": "رووداو دیجیتاڵ لە ئەڵمانیا کۆنفرانسی سەرۆکوەزیرانی هەرێمەکانی ئەو وڵاتە بەڕێوەچوو و تێیدا گفتوگۆ و بڕیار سەبارەت بە دیپۆرتکردنەوەی پەناخوازان درا. سەرۆکوەزیرانی هەرێمی راینلاند-پالاتینات بە رووداوی راگەیاند، لە ئەڵمانیا ئەوانەی هەڕەشەن، ناتوانن بمێننەوە و هەنگاویش بۆ چوارچێوەیەکی یاسایی بۆ ئاسانکاری بۆ دیپۆرتکردنەوەیان لەلایەن حکومەتی فیدڕاڵی وڵاتەکەیانەوە دەنێن. رۆژی پێنجشەممە، 22ی تشرینی یەکەمی 2026، لە شاری بەرلین کۆنفرانسەکە بەڕێوەچوو. لە وەڵامی پرسیاری ئاڵا شاڵی، پەیامنێری رووداو لە ئەڵمانی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4b59fc4b62ab1556",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874059",
+    "title": "ئەنەکەسە بۆ رەوەندی کورد: بەشداریی خۆپێشاندانەکانی ئەورووپا نەکەن",
+    "title_en": "ئەنەکەسە بۆ رەوەندی کورد: بەشداریی خۆپێشاندانەکانی ئەورووپا نەکەن",
+    "summary": "رووداو دیجیتاڵ نوێنەرایەتیی ئەورووپای ئەنجوومەنی نیشتمانیی کورد لە سووریا (ئەنەکەسە)، لە راگەیێندراوێکدا داوا لە رەوەندی کوردیی وڵاتانی ئەورووپا دەکات، بەشداری لەو خۆپێشاندانانەدا نەکەن کە بڕیارە لە ئەڵمانیا و چەند وڵاتێکی دیکە بەڕێوەبچن. ئەمڕۆ پێنجشەممە، 22ـی تشرینی یەکەمی 2026، نوێنەرایەتیی ئەورووپای ئەنەکەسە، سەبارەت بەو خۆپیشاندانانەی بڕیارە رۆژی 31ـی تشرینی یەکەم لە ئەڵمانیا و چەند وڵاتێکی ئەورووپایی بەڕێوەبچێت، راگەیێندراوێکی بڵاوکردەوە. داوا لە رەوەندی کوردی دەکات بەشداریی خۆپیشاندانەکان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e29a3fb34895a110",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1874060",
+    "title": "فراکسیۆنی پارتی: بەرپرسیارێتیی کاراکردنەوەی پەرلەمانی کوردستان لە ئەستۆی نەوەی نوێیە",
+    "title_en": "فراکسیۆنی پارتی: بەرپرسیارێتیی کاراکردنەوەی پەرلەمانی کوردستان لە ئەستۆی نەوەی نوێیە",
+    "summary": "رووداو دیجیتاڵ فراکسیۆنی پارتی لە پەرلەمانی کوردستان لە کۆنگرەیەکی رۆژنامەڤانییدا وەڵامی (نەوەی نوێ) دەداتەوە و دەڵێ، بەرپرسیارێتیی یاسایی کاراکردنەوەی پەرلەمانی کوردستان لە ئەستۆی نەوەی نوێیە و ئامادەین بچینە نێو هۆڵی پەرلەمان. ئەمرۆ پێنجشەممە 22ی تشرینی یەکەمی 2026، مەرد عەلی خاڵە، بە ناوی فراکسیۆنی پارتییەوە لە پەرلەمانی کوردستان، لە کۆنگرەیەکی رۆژنامەڤانییدا رایگەیاند: \"چەندین جار بانگەوازمان بۆ کاراکردنەوەی پەرلەمانی کوردستان کردووە، بۆ ئەو مەبەستە داوا لە (نەوەی نوێ) دەکەین دانیشتنەکانی پە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a7cb9a2c73c872c2",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1874063",
+    "title": "فوئاد حوسێن بۆ سعودیە: رێگە نادەین خاکی عێراق بۆ هێرشکردنە سەر هیچ وڵاتێک بەکاربێت",
+    "title_en": "فوئاد حوسێن بۆ سعودیە: رێگە نادەین خاکی عێراق بۆ هێرشکردنە سەر هیچ وڵاتێک بەکاربێت",
+    "summary": "رووداو دیجیتاڵ وەزیری دەرەوەی عێراق لە پەیوەندییەکی تەلەفۆنیدا لەگەڵ هاوتا سعودییەکەی رایگەیاند: \"عێراق رێگە نادات خاکەکەی ببێتە سەرچاوەی هێرش بۆ سەر سعودیە و وڵاتانی ناوچەکە\"؛سعودیەش پشتگیریی خۆی بۆ هەوڵەکانی بەغدا لە هێورکردنەوەی گرژییەکان دەربڕی. وەزارەتی دەرەوەی سعودیە، رۆژی پێنجشەممە (22ی تشرینی یەکەمی 2026) لە هەژماری فەرمیی خۆی لە ئێکس بڵاویکردەوە، فەیسەڵ بن فەرحان، وەزیری دەرەوەی سعودیە پەیوەندییەکی تەلەفۆنیی لە لایەن فوئاد حوسێن، وەزیری دەرەوەی عێراقەوە پێگەیشتووە. فوئاد حوسێن رایگەیاند",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cf9978bf2220cfcd",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874062",
+    "title": "بانکی ناوەندیی عێراق مامەڵەی دۆلاری لە بانکی گەشەپێدانی نێودەوڵەتی قەدەخە کرد",
+    "title_en": "بانکی ناوەندیی عێراق مامەڵەی دۆلاری لە بانکی گەشەپێدانی نێودەوڵەتی قەدەخە کرد",
+    "summary": "رووداو دیجیتاڵ بانکی ناوەندیی عێراق، بڕیاری دا بانکی گەشەپێدانی نێودەوڵەتی (IDB) لە عێراق، لە مامەڵەکردن بە دۆلاری ئەمریکی بێبەش بکات. بەپێی نووسراوێکی نهێنی بانکی ناوەندیی عێراق وێنەیەکی دەست تۆڕی میدیایی رووداو کەوتووە، رۆژی پێنجشەممە (22ی تشرینی یەکەمی 2026) دەرچووە و ئاراستەی دامەزراوە داراییە نابانکییەکان کراوە، بڕیاردراوە بە راگرتنی تەواوی مامەڵەکانی بانکی گەشەپێدانی نێودەوڵەتی بە دراوی دۆلاری ئەمریکی. لە نووسراوەکەدا هاتووە: \"بریاردرا مامەڵەکردنی بانکی گەشەپێدانی نێودەوڵەتی بە دۆلار بە هە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ded9eea191ef4846",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1874058",
+    "title": "ترەمپ: ئێران هەموو کارێک بۆ بەرزکردنەوەی نرخی نەوت دەکات",
+    "title_en": "ترەمپ: ئێران هەموو کارێک بۆ بەرزکردنەوەی نرخی نەوت دەکات",
+    "summary": "رووداو دیجیتاڵ سەرۆکی ویلایەتە یەکگرتووەکانی ئەمریکا هێرشی تووندی کردە سەر کۆماری ئیسلامیی ئێران و رایگەیاند، تاران هەموو هەوڵێک دەدات بۆ بەرزکردنەوەی نرخی نەوت پێش هەڵبژاردنەکانی نیوەی خولی ئەمریکا، هاوکات ئێرانی بەوە تۆمەتبار کرد کە هەواڵی ساختە لەبارەی لێدانی کەشتییەکان بڵاودەکاتەوە. رۆژی پێنجشەممە، 22ی تشرینی یەکەمی 2026، دۆناڵد ترەمپ لە پەیامێکدا لە ترووس سۆشیال رایگەیاند: \"ئێران هەموو کارێک دەکات بۆ بەرزکردنەوەی نرخی نەوت پێش هەڵبژاردنەکانی نیوەی خولی ئەمریکا. ئەوان تەنانەت هەواڵی ساختە لە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "22f78a041a317c26",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1874057",
+    "title": "لە هەولێر دوو برا کارەبا گرتنی و گیانیان لە دەستدا",
+    "title_en": "لە هەولێر دوو برا کارەبا گرتنی و گیانیان لە دەستدا",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی بەرگریی شارستانیی هەولێر دەڵێ، لە کارگەیەکی سەر رێگای مەخموور-هەولێر بە هۆی تەزووی کارەباوە دوو هاونیشتمانیی رۆژئاوای کوردستان لە کاتی کارکردندا گیانیان لە دەستدا. ئەمرۆ پێنجشەممە 22 تشرینی یەکەمی 2026، شاخەوان سەعید بە رووداوی راگەیاند: لە یەکێک لە کارگەکانی سەر رێگای مەخموور دوو برا کە هاونیشتمانیی رۆژئاوای کوردستانن بە هۆی تەزووی کارەباوە گیانیان لە دەستدا. شاخەوان سەعید گوتی: دوو براکە سەرقاڵی گەچکاریی یەکێک لە کارگەکان بوون، لەو کاتەدا تەزووی کارەبا لە هەردووکیانی دا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1a9a798718bed587",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1874056",
+    "title": "سوپای پاسداران: هێرشمان کردە سەر 4 کەشتیی نەوتهەوڵگر",
+    "title_en": "سوپای پاسداران: هێرشمان کردە سەر 4 کەشتیی نەوتهەوڵگر",
+    "summary": "رووداو دیجیتاڵ هێزی دەریایی سوپای پاسدارانی ئێران رایگەیاند، چوار کەشتیی نەوتهەڵگری لە کاتی گواستنەوەی بارە نەوتییەکاندا لە کەنداو کردووەتە ئامانج. دەشڵێت، سێ کەشتیی دیکەش لە رۆژئاوای تەنگەی هورمز مینی دەریایی پێیاندا تەقیونەتەوە و لەکارکەوتوون. رۆژی پێنجشەممە، 22ی تشرینی یەکەمی 2026، پەیوەندییە گشتییەکانی هێزی دەریایی سوپای پاسدارانی ئێران راگەیێندراوێکی بڵاوکردەوە و گوتی، چوار کەشتیی نەوتهەڵگری سەرپێچیکاریان کە لە رێرۆیەکی باکووری کەنداو خەریکی گواستنەوەی بارە نەوتییەکان بوون لە کەشتییەکەوە بۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "65ca3f2f9d059a73",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874055",
+    "title": "لە پاوە هاونیشتمانییەک لەسەر دارگوێزێک کەوتەخوارەوە و گیانی لەدەستدا",
+    "title_en": "لە پاوە هاونیشتمانییەک لەسەر دارگوێزێک کەوتەخوارەوە و گیانی لەدەستدا",
+    "summary": "رووداو دیجیتاڵ ئەمڕۆ پێنجشەممە، 22ی تشرینی یەکەمی 2026، ، هاونیشتمانییەک لە شاری پاوە لە پارێزگای کرماشانی رۆژهەڵاتی کوردستان بە رووداوی گوت، \"هاونیشتمانییەکی خەڵکی گوندی نەجار سەر بە شاری پاوە لەکاتی گوێزتەکاندن لەسەر دار کەوتە خوارەوەو بە سەختی بریندار بوو.\" بە گوتەی ئەو هاونیشتمانییە، ئەو کەسە ناوی (فەرهاد قادری)یە دوای گواستنەوەی بۆ نەخۆشخانە بەهۆی سەختیی برینەکەی ئەمڕۆ گیانی لەدەستداوە. لە ماوەی مانگێکدا ئەوە شەشەم کەسە لەو سنوورە لە ئەنجامی بەربوونەوە لەسەر دارگوێز گیان لەدەست بدات. پارێزگ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fbba638f8ff29e1b",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1874054",
+    "title": "لە حەوت مانگدا بایی 560 ملیۆن دۆلار کاڵا بە دەروازەی میهراندا هەناردە کراوە",
+    "title_en": "لە حەوت مانگدا بایی 560 ملیۆن دۆلار کاڵا بە دەروازەی میهراندا هەناردە کراوە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گومرگی ئیلام دەڵێت، لە حەوت مانگی رابردوودا لانیکەم یەک ملیۆن و 300 هەزار تۆن کاڵا بە دەروازەی سنووریی میهراندا هەناردە کراوە، کە دەکاتە 560 ملیۆن دۆلار. ئەمڕۆ پێنجشەممە 22-10-2026، سۆهراب کەمەری، بەڕێوەبەری گشتیی گومرگی پارێزگای ئیلامی رۆژهەڵاتی کوردستان رایگەیاند، لە نەورۆزەوە (21-03-2026) لانیکەم 61 هەزار بارهەڵگر، یەک ملیۆن و 300 هەزار تۆن کاڵایان بە دەروازەی سنووریی میهراندا بۆ عێراق گواستووەتەوە. بەگوتەی سۆهراب کەمەری، بەهای کاڵا هەناردەکراوەکان دەگاتە زیاتر لە 56",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f7b428ef41351d29",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1874053",
+    "title": "بانکی ناوەندیی تورکیا رێژەی سوودی بانکیی دابەزاند",
+    "title_en": "بانکی ناوەندیی تورکیا رێژەی سوودی بانکیی دابەزاند",
+    "summary": "رووداو دیجیتاڵ بانکی ناوەندیی تورکیا رێژەی سوودی سیاسەتی نەختینەیی بە رێژەی 1% دابەزاند و لە 37%ەوە بۆ 36% کەمی کردەوە، ئەمەش وەک هەنگاوێک بۆ باشکردنی دۆخی ئابووری. ئەمرۆ پێنجشەممە، 22-10-2026، ئەنجوومەنی سیاسەتی نەختینەیی بانکی ناوەندیی تورکیا، بە سەرۆکایەتیی یاشار فاتیح کاراهان، سەرۆکی بانکەکە، کۆبووەوە و بڕیارەکەی راگەیاند. بەپێی بڕیارەکە، دوای 9 مانگ، بۆ یەکەمجار رێژەی سوودی بانکی، بە رێژەی یەک پۆینت کەمکرایەوە. لەبارەی رێژەی هەڵاوسان لە راگەیێندراوی بانکەکەدا هاتووە، \"سەرەڕای هەڵبەز و دابەز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6f63ebfc9b8197db",
+    "url": "https://www.rudaw.net/sorani/categories/news/1874036",
+    "title": "دابەزینی بەهای دینار؛ مەترسی و دەرئەنجامەکانی لە داهاتوودا",
+    "title_en": "دابەزینی بەهای دینار؛ مەترسی و دەرئەنجامەکانی لە داهاتوودا",
+    "summary": "بەرایی حکومەتی عێراق، نەک بانکی ناوەندی، لە ماوەی کەمتر لە یەک دەیەدا سێ جار بەهای دراوەکەی لە بەرامبەر دۆلاردا گۆڕیوە. دوایین جار لە رۆژی 7ی تشرینی یەکەمی 2026ەوە بەهای دیناری لە بەرامبەر دۆلاردا گەڕاندەوە بۆ رۆژانی سەرەتای دوای رووخانی رژێمی بەعس. دابەزینی بەهای دینار جگە لە رەهەندەکانی وەک خستنەژێرپرسیاری سەربەخۆیی بانکی ناوەندی، داپۆشینی توانای حکومەت بۆ خەرجییەکان و کەمکردنەوەی توانای کڕینی هاووڵاتییان، لێکەوتەی مەترسیداری دیکەی وەک سستبوونی جووڵەی بازرگانی و بازاڕ، زیادبوونی هەژاری و بێکار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "da2c83ba9f7b9c86",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306374",
+    "title": "Kemal Kiliçdaroglu li ser statuya Ocalan çi got?",
+    "title_en": "Kemal Kiliçdaroglu li ser statuya Ocalan çi got?",
+    "summary": "Hewlêr (Rûdaw) - Kemal Kiliçdaroglu li ser nîqaşên dayîna statuyekê ya Abdullah Ocalan ragihand, \"Li vir ya girîng ne dayîna statuyê ya ji bo kesekî ye, ya girîng ew e ku Ocalan jî beşdariyê di çareserkirina pirsgirêkê de bike.\" Serokê Giştî yê CHPyê Kemal Kiliçdaroglu li Enqereyê bi nûnerên televîzyonan re civiya û pirsên li ser rojevê bersivandin. Kemal Kiliçdaroglu pirsa li ser dayîna statuyê ya Abdullah Ocalan û xebata komîteya danîna çekan wiha bersivand: \"Ev mijar tê nîqaşkirin, nêrîneke b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9c8c5ffdf4e8840d",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306373",
+    "title": "SERÊ KANIYÊ - Komên çekdar ji bo valakirina malan pereyan dixwazin",
+    "title_en": "SERÊ KANIYÊ - Komên çekdar ji bo valakirina malan pereyan dixwazin",
+    "summary": "Hewlêr (Rûdaw) - Tevî birêxistina 6 karwanên vegera koçberan a Serê Kaniya Rojavayê Kurdistanê, çalakvanekî sivîl ragihand ku veger tenê ji bo gundan çêbûye. Wî çalakvanî da zanîn ku ji ber hebûna komên çekdar, Kurd nikarin vegerin nav bajêr. Her wiha eşkere kir ku ew kom li hemberî valakirina malên welatiyan bi hezaran dolaran dixwazin. Çalakvanê sivîl ê ji Hisîçayê Mihemed Haco bû mêvanê bultena Korojê ya Rûdawê ku Wehbê Romî pêşkêş dike. Mihemed Haco ragihand ku heta niha nêzîkî 3 hezar û 100",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fc852843a4b0802b",
+    "url": "https://www.rudaw.net/kurmanci/categories/opinion/1306372",
+    "title": "Pirtûk, Çand û Xewna Kurdistaneke Serbixwe",
+    "title_en": "Pirtûk, Çand û Xewna Kurdistaneke Serbixwe",
+    "summary": "Ramanên Sînemxan Bedirxanê yên li ser serdana Fuara Navneteweyî ya Pirtûkan a Hewlêrê Ez ji Fuara Navneteweyî ya Pirtûkan a Hewlêrê vegeriyam lê dengvedan û bîranînên wê serdana xweşik hîn jî di dil û hişê min de dijîn. Ji bo min, ew ne tenê gereke di nav standên pirtûkan û weşanxaneyan de bû; demên tijî şahî, serbilindî û hêvî bûn. Wê serdanê dilê min bi aramî û dilxweşiyê tijî kir û baweriya min bi paşeroja nifşên ciwan û bi paşeroja Kurdistana me ya delal nû kir. Di vê serdema ku medyaya civa",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ef66a3080703897f",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306371",
+    "title": "Li Çînê erdhejeke bi hêza 7 pileyan çêbû",
+    "title_en": "Li Çînê erdhejeke bi hêza 7 pileyan çêbû",
+    "summary": "Hewlêr (Rûdaw) - Li Herêma Xweser a Tîbetê ya Çînê erdhejeke pir bi hêz û giran bi hêza 7 pileyan çêbû. Erdhej bi kûrahiya 10 kîlometreyên di bin erdê de qewimî. Li gorî agahiyên tora navendî ya Çînê, navenda erdhejê nêzîkî 183 kîlometre li bakurê rojhilatê bajarê Nagquyê û derdora 400 kîlometre dûrî paytexta Tîbetê, bajarê Lhasayê ye. Hat diyarkirin ku cihê erdhejê herêmeke çiyayî û bilind e ku asta bilindahiya wê digihîje nêzîkî 4 hezar û 864 metreyan. Hişyariya zererên mezin û ziyana canî Saz",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8d260301b8192b57",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1306374",
+    "title": "Kemal Kiliçdaroglu li ser statuya Ocalan çi got?",
+    "title_en": "Kemal Kiliçdaroglu li ser statuya Ocalan çi got?",
+    "summary": "Hewlêr (Rûdaw) - Kemal Kiliçdaroglu li ser nîqaşên dayîna statuyekê ya Abdullah Ocalan ragihand, \"Li vir ya girîng ne dayîna statuyê ya ji bo kesekî ye, ya girîng ew e ku Ocalan jî beşdariyê di çareserkirina pirsgirêkê de bike.\" Serokê Giştî yê CHPyê Kemal Kiliçdaroglu li Enqereyê bi nûnerên televîzyonan re civiya û pirsên li ser rojevê bersivandin. Kemal Kiliçdaroglu pirsa li ser dayîna statuyê ya Abdullah Ocalan û xebata komîteya danîna çekan wiha bersivand: \"Ev mijar tê nîqaşkirin, nêrîneke b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0cf443081a779f27",
+    "url": "https://www.rudaw.net/kurmanci/categories/nrn/1306372",
+    "title": "Pirtûk, Çand û Xewna Kurdistaneke Serbixwe",
+    "title_en": "Pirtûk, Çand û Xewna Kurdistaneke Serbixwe",
+    "summary": "Ramanên Sînemxan Bedirxanê yên li ser serdana Fuara Navneteweyî ya Pirtûkan a Hewlêrê Ez ji Fuara Navneteweyî ya Pirtûkan a Hewlêrê vegeriyam lê dengvedan û bîranînên wê serdana xweşik hîn jî di dil û hişê min de dijîn. Ji bo min, ew ne tenê gereke di nav standên pirtûkan û weşanxaneyan de bû; demên tijî şahî, serbilindî û hêvî bûn. Wê serdanê dilê min bi aramî û dilxweşiyê tijî kir û baweriya min bi paşeroja nifşên ciwan û bi paşeroja Kurdistana me ya delal nû kir. Di vê serdema ku medyaya civa",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cb3fbf7c6c9edeec",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306371",
+    "title": "Li Çînê erdhejeke bi hêza 7 pileyan çêbû",
+    "title_en": "Li Çînê erdhejeke bi hêza 7 pileyan çêbû",
+    "summary": "Hewlêr (Rûdaw) - Li Herêma Xweser a Tîbetê ya Çînê erdhejeke pir bi hêz û giran bi hêza 7 pileyan çêbû. Erdhej bi kûrahiya 10 kîlometreyên di bin erdê de qewimî. Li gorî agahiyên tora navendî ya Çînê, navenda erdhejê nêzîkî 183 kîlometre li bakurê rojhilatê bajarê Nagquyê û derdora 400 kîlometre dûrî paytexta Tîbetê, bajarê Lhasayê ye. Hat diyarkirin ku cihê erdhejê herêmeke çiyayî û bilind e ku asta bilindahiya wê digihîje nêzîkî 4 hezar û 864 metreyan. Hişyariya zererên mezin û ziyana canî Saz",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d3d64b11d5603db5",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306370",
+    "title": "Îsota Rihayê digihêje 85 welatan: 10 milyon dolar dahat",
+    "title_en": "Îsota Rihayê digihêje 85 welatan: 10 milyon dolar dahat",
+    "summary": "Hewlêr (Rûdaw) - Ji Bakurê Kurdistanê di 9 mehên sala 2026an de ji 85 welatan re bi 10 milyon û 364 hezar dolarî îsotên hişk hatin hinardekirin. Di serî de Riha, li bajarên Bakurê Kurdistanê ji bilî xwarinê, bazirganiya îsotê jî bûye sektoreke girîng a aboriyê. Li gorî amarên Yekîtiya Hinardekarên Başûrrojhilatê Anadoluyê, sala 2025an bi 14 milyon û 112 hezar dolarî îsotên hişk hatibûn hinardekirin. Ji 1ê Kanûna Paşîn heta 30ê Îlonê di serî de ji bo Almanya, Holenda û Brîtanyayê ji 85 welatan re",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d060873e558c7759",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1306369",
+    "title": "Wezîrê Xezîneyê yê Amerîkayê: Li Girava Xarkê keştiyeke petrolê jî nemaye",
+    "title_en": "Wezîrê Xezîneyê yê Amerîkayê: Li Girava Xarkê keştiyeke petrolê jî nemaye",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Xezîneyê yê Amerîkayê beşek ji bandora dorpêçên Amerîkayê xwe yên li ser sektora petrola Îranê eşkere kir. Wezîrê Xezîneyê yê Amerîkayê ragihand ku niha li termînala sereke ya hinardekirina petrola xav a li Girava Xarkê ti keştiyên veguhastina petrolê nayên dîtin ku berê ew termînal bi keştiyan tijî bû. Wezîrê Xezîneyê yê Amerîkayê Scott Bessent li ser hesabê xwe yê Xê ragihand: \"Girava Xarkê yê deriyê sereke yê hinardekirina petrola Îranê, niha tenê bûye semboleke zelal ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26047a4db33dcf0c",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1306368",
+    "title": "Erdogan û Carney civiyan: Di navbera Tirkiye û Kanadayê de serdemeke nû",
+    "title_en": "Erdogan û Carney civiyan: Di navbera Tirkiye û Kanadayê de serdemeke nû",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan û Serokwezîrê Kanadayê Mark Carney li Enqereyê civiyan. Erdogan ragihand ku pêwendiyên her du welatan gihîştine asta \" hevkariyeke stratejîk\" û bi vê gavê re serdemeke nû dest pê kiriye. Erdogan û Carney piştî civîna xwe ya dualî civîneke hevbeş a çapemeniyê li dar xist û derbarê peymanên nû agahî dan. Armanc: Qebareya bazirganiyê dê bibe 10 milyar dolar Erdogan diyar kir ku wan ji bo bipêşxistina aboriyê planeke çalakiyê qebûl kiriye û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8a931af00d518c48",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306369",
+    "title": "Wezîrê Xezîneyê yê Amerîkayê: Li Girava Xarkê keştiyeke petrolê jî nemaye",
+    "title_en": "Wezîrê Xezîneyê yê Amerîkayê: Li Girava Xarkê keştiyeke petrolê jî nemaye",
+    "summary": "Hewlêr (Rûdaw) - Wezîrê Xezîneyê yê Amerîkayê beşek ji bandora dorpêçên Amerîkayê xwe yên li ser sektora petrola Îranê eşkere kir. Wezîrê Xezîneyê yê Amerîkayê ragihand ku niha li termînala sereke ya hinardekirina petrola xav a li Girava Xarkê ti keştiyên veguhastina petrolê nayên dîtin ku berê ew termînal bi keştiyan tijî bû. Wezîrê Xezîneyê yê Amerîkayê Scott Bessent li ser hesabê xwe yê Xê ragihand: \"Girava Xarkê yê deriyê sereke yê hinardekirina petrola Îranê, niha tenê bûye semboleke zelal ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "024d189d1bd20936",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306368",
+    "title": "Erdogan û Carney civiyan: Di navbera Tirkiye û Kanadayê de serdemeke nû",
+    "title_en": "Erdogan û Carney civiyan: Di navbera Tirkiye û Kanadayê de serdemeke nû",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Tirkiyeyê Recep Tayyîp Erdogan û Serokwezîrê Kanadayê Mark Carney li Enqereyê civiyan. Erdogan ragihand ku pêwendiyên her du welatan gihîştine asta \" hevkariyeke stratejîk\" û bi vê gavê re serdemeke nû dest pê kiriye. Erdogan û Carney piştî civîna xwe ya dualî civîneke hevbeş a çapemeniyê li dar xist û derbarê peymanên nû agahî dan. Armanc: Qebareya bazirganiyê dê bibe 10 milyar dolar Erdogan diyar kir ku wan ji bo bipêşxistina aboriyê planeke çalakiyê qebûl kiriye û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
