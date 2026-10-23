@@ -402595,6 +402595,546 @@
     }
   },
   {
+    "id": "7bd918e7ba878124",
+    "url": "https://www.rudaw.net/english/categories/iraq/1079854",
+    "title": "ISIS claims responsibility for explosion killing Iraqi Brigadier General, aide",
+    "title_en": "ISIS claims responsibility for explosion killing Iraqi Brigadier General, aide",
+    "summary": "ERBIL, Kurdistan Region - The Islamic State late Thursday claimed responsibility for an attack on an Iraqi Brigadier General and his aide last week in Kirkuk province as fears mount over the group’s resurgence following the departure of the US-led Global Coalition to defeat ISIS from within the country in late September.  “Islamic State … in the Iraqi Province of Kirkuk killed a senior officer in the … army and his aid, and wounded others, in a new bombing that targeted an enemy military operati",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f981fd2c6d06dbb8",
+    "url": "https://www.rudaw.net/english/categories/iran/1079853",
+    "title": "Iranian police colonel killed in southeastern Sistan-Baluchestan",
+    "title_en": "Iranian police colonel killed in southeastern Sistan-Baluchestan",
+    "summary": "ERBIL, Kurdistan Region - A retired Iranian police colonel was shot dead by armed men outside his home in the city of Iranshahr in Sistan and Baluchestan province, a Baloch rights monitor reported on Thursday, as clashes in the southeastern restive region see no sign of abating.  The colonel was identified as Ali Sayadi, originally from Zabol and residing in Iranshahr. Haalvsh, an independent watchdog that monitors human rights violations in Sistan and Baluchestan, reported that Sayadi was sitti",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "849870dc1f10dd44",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874095",
+    "title": "سکاڵا دژی گەڕاندنەوەی بەشێک لە زەوییەکانى مادەی 140 تۆمار دەکرێت",
+    "title_en": "سکاڵا دژی گەڕاندنەوەی بەشێک لە زەوییەکانى مادەی 140 تۆمار دەکرێت",
+    "summary": " رووداو دیجیتاڵ دادگەی باڵای فیدراڵی عێراق تاوتوێی سکاڵایەک دەکات کە لە دژی گەڕاندنەوەی بەشێک لەو زەوییانەیە کە مادەی 140 دەیانگرێتەوە کە 14 ساڵ پێش ئێستا بڕیارێک لەبارەیەوە دەرکراوە.  سکاڵاکە لەلایەن کۆمپانیای Quick Investment بۆ وەبەرهێنانی خانووبەرە لە دژی وەزارەتەکانی کشتوکاڵ و شارەوانیی عێراق تۆمار کراوە و تێیدا داوا دەکات بڕیاری ژمارە 29ی ساڵی 2012 لە چوارچێوەی مادەی 140ی دەستوور ئەو زەوییانە نەگرێتەوە کە خراونەتە سنووری شارەوانییەکەوە و کوژێنراونەتەوە. بەگوێرەی ئەو بڕیارەی کە لەلایەن ئەنج",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "77885f9ddfbcb9f3",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1874094",
+    "title": "لە هێرشێکی چەکداریدا لە شاری خەلیل شەش ئیسرائیلی بریندار بوون",
+    "title_en": "لە هێرشێکی چەکداریدا لە شاری خەلیل شەش ئیسرائیلی بریندار بوون",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "89ea0977cfce04a7",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1874092",
+    "title": "کۆتایی ئەم مانگە یەکەم بارانی سەرانسەری لە هەرێمی کوردستان دەبارێت",
+    "title_en": "کۆتایی ئەم مانگە یەکەم بارانی سەرانسەری لە هەرێمی کوردستان دەبارێت",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "59a411c1cb6ff717",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874088",
+    "title": "لە 9 مانگدا فرۆشی بانکی ناوەندیی عێراق 39 ملیار دۆلار بووە، 35%ی لە پار کەمترە",
+    "title_en": "لە 9 مانگدا فرۆشی بانکی ناوەندیی عێراق 39 ملیار دۆلار بووە، 35%ی لە پار کەمترە",
+    "summary": " رووداو دیجیتاڵ لە 9 مانگی سەرەتای ئەم ساڵ بانکی ناوەندیی عێراق 39 ملیار دۆلاری بە بەهای فەرمی بە بازرگان و گەشتیاران فرۆشتووە کە بەراورد بە هەمان ماوەی پار 35% کەمی کردووە، زیاتر لە 94%ی فرۆشی دۆلاری ئەم ساڵ بۆ بازرگانان بووە و زۆترین فرۆش لە مانگی حوزەیراندا بووە.  بەگوێرەی نوێترین ئاماری پێنوێنی دارایی بانکی ناوەندیی عێراق، لە مانگی ئەیلوولی رابردوودا بانکەکە چوار ملیار و 21 ملیۆن دۆلاری فرۆشتووە لە رێگەی بازرگانیی دەرکی و دۆلاری نەختینە بۆ گەشتیاران. بانکی ناوەندی لە مانگی ئەیلوول کارى بە بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "60d70482bd71f568",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874093",
+    "title": "دوای هێرشەکەی خەلیل؛ نەتەنیاهوو گەمارۆی تەواوەتیی سەر کەرتی رۆژئاوای راگەیاند",
+    "title_en": "دوای هێرشەکەی خەلیل؛ نەتەنیاهوو گەمارۆی تەواوەتیی سەر کەرتی رۆژئاوای راگەیاند",
+    "summary": "رووداو دیجیتاڵ  دوای ئەوەی دوو چەکداری فەلەستینی لە نزیک شاری خەلیل، پێنج ئیسرائیلییان بریندار کرد و دواتر لە پێکدادانێکی چەکداریی درێژخایەندا لەلایەن سوپای ئیسرائیلەوە کوژران، بنیامین نەتەنیاهوو، سەرۆکوەزیرانی ئیسرائیل بڕیاری گەمارۆدانی تەواوەتیی کەرتی رۆژئاوای دا؛ ئەمەش تەنیا چەند رۆژێک پێش بەڕێوەچوونی هەڵبژاردنی پەرلەمانی ئیسرائیل دێت. نەتەنیاهوو، کە بۆ مانەوە لە پۆستەکەی رووبەڕووی کێبڕکێیەکی سەخت دەبێتەوە لە هەڵبژاردنی رۆژی سێشەممەی داهاتوودا رایگەیاند، هێزەکانی ئیسرائیل رێگرییان لە هێرشێکی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "71fa27da55f02a22",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874090",
+    "title": "لە هەرێمی کوردستان نرخی بەرمیلێک نەوتی سپی گەیشتە 325 هەزار دینار",
+    "title_en": "لە هەرێمی کوردستان نرخی بەرمیلێک نەوتی سپی گەیشتە 325 هەزار دینار",
+    "summary": "رووداو دیجیتاڵ لەگەڵ دەستپێکی وەرزی سەرمادا نرخی نەوتی سپی زیاتر بەرز بووەوە و ئەمڕۆ بە 325 هەزار دینار دەفرۆشرێت. سەرباز کەریم، گوتەبێژی گۆڕەپانی سووتەمەنیفرۆشانی هەولێر بە تۆڕی میدیایی رووداوی گوت: \"نەوتی کواڵیتی بەرز بە کۆ بەرمیلی بە 315 هەزار دینارە\". بەرمیلێک نەوت بە تێچووی گواستنەوەوە لە هەولێر بە 325 بۆ 330 هەزار دینار دەگاتە دەستی هاونیشتمانییان. هەر ئەمڕۆ نرخی بەرمیلێک نەوتی سپی لە سلێمانی بە 325 هەزار دینار دەگاتە دەستی هاونیشتمانییان. فرۆشیاران دەڵێن، هەر رۆژە و لیتری 50 دینار دەچێتە ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "fb270a7298e0324a",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1874091",
+    "title": "لە ئامەد 67 کەس بە تۆمەتی بازرگانیکردن بە مادەی هۆشبەر دەستگیرکران",
+    "title_en": "لە ئامەد 67 کەس بە تۆمەتی بازرگانیکردن بە مادەی هۆشبەر دەستگیرکران",
+    "summary": "رووداو دیجیتاڵ لە چوارچێوەی ئۆپەراسیۆنەکانی بەرەنگاربوونەوەی مادەی هۆشبەر لە ئامەدی باکووری کوردستان، 67 گومانلێکراو دەستگیر کران و دەست بەسەر بڕێکی زۆر مادەی هۆشبەر و چەک و تەقەمەنیدا گیرا. بەڕێوەبەرایەتیی ئاسایشی پارێزگای ئامەد رایگەیاند، تیمەکانی لقی بەرەنگاربوونەوەی مادە هۆشبەرەکان لە ماوەی مانگێکدا چەندین ئۆپەراسیۆنیان لە شوێنە جیاجیاکانی شارەکەدا ئەنجامداوە. بەپێی راگەیێندراوەکە، لە ئەنجامی ئۆپەراسیۆنەکاندا، رێکاری یاسایی بەرامبەر 104 گومانلێکراو گیراوەتەبەر. لەو ژمارەیە، 67 گومانلێکراو بە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4aade7dd068537a3",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874087",
+    "title": "10 کەس خۆیان بۆ پۆستی قایمقامی شنگال بەربژێر کردووە",
+    "title_en": "10 کەس خۆیان بۆ پۆستی قایمقامی شنگال بەربژێر کردووە",
+    "summary": "رووداو دیجیتاڵ 10 کەس خۆیان بۆ پۆستی قایمقامی شنگال بەربژێر کردووە کە بڕیارە هەفتەی داهاتوو دەست بە وردبینیی سیڤییەکانیان بکرێت. لیژنەیەکی پەرلەمانی عێراق بە فەرمی 10 تێبینی لەسەر کردنەوەی دەرگای خۆبەربژێرکردن بۆ ئەو پۆستە بۆ ئەنجوومەنی پارێزگا دەنێرێت. پێنجشەممە 22ی تشرینی یەکەم دەرگای خۆبەربژێرکردن بۆ پۆستی قایمقامی شنگال داخرا لەدوای پێنج رۆژ لە کردنەوەی. محەممەد کاکەیی، ئەندامی ئەنجوومەنی پارێزگای نەینەوا، بە تۆڕی میدیایی رووداوی راگەیاند، 10 کەس لە خەڵکی شنگال خۆیان بۆ ئەو پۆستە بەربژێر کرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0521da51f91a42b5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874089",
+    "title": "وەزارەتی ناوخۆی ئەڵمانیا بۆ رووداو: ئامادەین بۆ ئەوەی لە خۆپیشاندانەکان رێ لە تووندوتیژی بگرین",
+    "title_en": "وەزارەتی ناوخۆی ئەڵمانیا بۆ رووداو: ئامادەین بۆ ئەوەی لە خۆپیشاندانەکان رێ لە تووندوتیژی بگرین",
+    "summary": "رووداو دیجیتاڵ وەزارەتی ناوخۆی ئەڵمانیا بە رووداوی راگەیاند، هەواڵگری چاودێریی ماڵپەڕ و تۆڕە کۆمەڵایەتییەکان دەکات کە دەیانەوێت خۆپیشاندانی \"GenZ regelt\"ی 31ی تشرینی یەکەم بۆ ئەنجامدان و بڵاوکردنەوەی تووندوتیژی بەکاربهێنن و دەشڵێت، پۆلیسی فیدراڵی ئامادە دەبێت بۆ ئەوەی تووندوتیژی و وێرانکاریی وەکو فەرەنسا دروست نەبێت. گوتەبێژێکی وەزارەتی ناوخۆی ئەڵمانیا رۆژی هەینی، 23ی تشرینی یەکەم، سەبارەت بە مەترسیی وێرانکاری لە خۆپیشاندانەکاندا وەک ئەوانەی فەرەنسا، قسەی بۆ تۆڕی میدیایی رووداو کرد و رایگەیاند، ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "827a00af9f9fa63d",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874085",
+    "title": "ژمارەی گیانلەدەستدان لە لافاوەکەی سەڵماس گەیشتە سێ کەس",
+    "title_en": "ژمارەی گیانلەدەستدان لە لافاوەکەی سەڵماس گەیشتە سێ کەس",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گشتیی مانگی سووری پارێزگای ورمێ دەڵێت، تیمەکانیان دوای هەوڵێکتی زۆر، تەرمی یەکێک لە بێسەروشوێنبووانی لافاوەکەی سەلماسیان دۆزیوەتەوە؛ ئاماژە بەوەش دەکات، ژمارەی قوربانیان گەیشتووەتە سێ کەس. ئەمڕۆ هەینی، حەمید مەحبووبی، بەڕێوەبەری گشتیی مانگی سووری پارێزگای ورمێی رۆژهەڵاتی کوردستان سەبارەت بە لافاوەکەی سەڵماس رایگەیاند، دوای 14 کاژێر گەڕان، تیمەکانیان تەرمی کەسێکی دیکەیان دۆزیوەتەوە. بەگوتەی حەمید مەحبووبی، تەرمی قوربانییەکە لە نزیک گوندی کانیانی سەر بە شارەکە و هەشت کیلۆ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ee3cbcbe155a50b9",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874084",
+    "title": "خوێندکارێکی کورد لە رێگەی بۆتێکەوە دەنگی ساختە و راستەقینە لە یەکدی جیادەکاتەوە",
+    "title_en": "خوێندکارێکی کورد لە رێگەی بۆتێکەوە دەنگی ساختە و راستەقینە لە یەکدی جیادەکاتەوە",
+    "summary": "رووداو دیجیتاڵ لە زانکۆی پۆلیتەکنیکی دهۆک تێزی ماستەرنامەیەک بە ناونیشانی (دۆزینەوە و جیاکردنەوەی دەنگی راستەقینە و دەنگی ساختەی دروستکراو بە ژیریی دەستکرد بە زمانی کوردیی سۆرانی) بە سەرکەوتوویی تاوتوێ کرا. ئەم تێزە بە سەرپەرشتیی دکتۆر مەروان محەممەد بووە و لەلایەن خوێندکار (هەرێم شێرە) پێشکێش کراوە. خوێندکارەکە داتاسێتێکی دروستکردووە کە 131 هەزار نموونەی زمانی کوردی لەخۆدەگرێت و لە چوار تاقیکردنەوەی جیاوازدا تاقیکراوەتەوە، لە هەندێکیان وردییەکەی 97 و 98٪ بووە و لە هەندێکیان بەتەواوی ئامانجەکەی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "20ddd328494b1df8",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874083",
+    "title": "گەنجێکی کورد لە فێستیڤاڵێکی کورتەفیلمدا لە تاران خەڵات کرا",
+    "title_en": "گەنجێکی کورد لە فێستیڤاڵێکی کورتەفیلمدا لە تاران خەڵات کرا",
+    "summary": "رووداو دیجیتاڵ کورتەفیلمی (غەزاڵ) لە نووسین و دەرهێنانی گەنجێکی خەڵکی سەقز، خەڵاتی سێیەم باشترین کورتەفیلمی لە بواری (کتێب و سینەما) بردەوە؛ ئەو گەنجە کوردە دەڵێت، تاوەکو ئێستا 12 کورتەفیلمی دروست کردووە کە لە زیاتر لە 100 فێستیڤاڵی نێودەوڵەتیدا نمایش کراون. ئەمڕۆ هەینی 23-10-2026، سامان حوسێنپوور، نووسەر و فیلمسازی کوردی خەڵکی سەقزی پارێزگای سنەی رۆژهەڵاتی کوردستان بە تۆڕی میدیایی رووداوی راگەیاند، بە کورتەفیلمی (غەزاڵ) بەشداریی 43ـەمین فێستیڤاڵی نێودەوڵەتیی کورتەفیلمی تارانی کردووە. بەگوتەی سا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1cc0fd64ca5cd2d0",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874081",
+    "title": "سەرۆکوەزیرانی هەرێمەکانی ئەڵمانیا بۆ رووبەڕووبوونەوەی قەیرانەکان کۆبوونەوە",
+    "title_en": "سەرۆکوەزیرانی هەرێمەکانی ئەڵمانیا بۆ رووبەڕووبوونەوەی قەیرانەکان کۆبوونەوە",
+    "summary": "رووداو دیجیتاڵ لە کاتێکدا ئەڵمانیا رووبەڕووی قەیرانی سیاسی و ئابووری بووەتەوە، 16 سەرۆکوەزیرانی هەرێمەکانی ئەو وڵاتە لە بەرلین کۆبوونەوە بۆ تاوتوێکردنی کێشە هاوبەشەکان، لەوانە هەڵاوسان، ئاسایش و بەرزبوونەوەی نرخی وزە. یەکێک لە تەوەرە سەرەکییەکانی کۆبوونەوەکە، مەترسیی بەهێزبوونی پارتی راستڕۆی توندڕەوی \"ئەڵتەرناتیڤ بۆ ئەڵمانیا\" (AfD) بوو، بەتایبەت لە هەرێمەکانی رۆژهەڵاتی وڵاتەکە. گۆردۆن شنیدەر، سەرۆکوەزیرانی هەرێمی راینلاند ڤاڵس، لەوبارەیەوە گوتی، \"زیادبوونی دەنگەکانی پارتی (AfD) جێگەی نیگەرانییە،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b781d0977f5d9917",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874080",
+    "title": "پسپۆڕانی نەتەوە یەکگرتووەکان داوای لێپرسینەوە لە ترەمپ دەکەن",
+    "title_en": "پسپۆڕانی نەتەوە یەکگرتووەکان داوای لێپرسینەوە لە ترەمپ دەکەن",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09246cd4c19136af",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306385",
+    "title": "Welatiyên Tirkiyeyê ji bo penabertiyê bi pereyan dozê li xwe vedikin",
+    "title_en": "Welatiyên Tirkiyeyê ji bo penabertiyê bi pereyan dozê li xwe vedikin",
+    "summary": "Hewlêr (Rûdaw) - Li gorî raporeke rojnameya Zeitê ya Almanyayê, hinek penaxwazên ji Tirkiyeyê ji bo ku li Almanyayê mafê penabertiyê bi dest bixin, li welatê xwe bi pereyan dozên cezakirinê li xwe vedikin. Li gorî raporê, qaçaxçî ji bo vî karî 800 Euro dixwazin û dozgerên ku bertîl stendiye jî dosyeyan amade dikin. Ev bazirganî li ser platformên TikTok û Telegramê tê kirin. Pakêtên giştî yên ku qaçaxçîtiya ber bi Almanyayê ve jî li xwe digirin ji 6 hezar Euroyan dest pê dikin. Sîstema UYAPê tê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e60f07af435b00dd",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306384",
+    "title": "Almanya: Em amade ne ku di xwenîşandanan de rê li ber tundiyê bigirin",
+    "title_en": "Almanya: Em amade ne ku di xwenîşandanan de rê li ber tundiyê bigirin",
+    "summary": "Hewl êr (Rûdaw) - Wezareta Karên Navxwe ya Almanyayê ji Rûdawê re ragihand ku dezgehên wan ên îstîxbarat ê çavdêriya malperên înternetê û torên civakî dikin ku dixwazin xwenîşandana \"GenZ regelt\" a 31ê Çiriya Pêşîn ji bo encamdan û belavkirina tund û tûjiyê bi kar bînin. Wezaretê destnîşan kir ku Polîsa Federal amade ye da ku rê li ber rûdana tund û tûjî û wêrankariyên wekî yên li Fransayê bigire. Li gorî malpera rêxistina \"GenZ regelt\", heta niha nêzîkî 50 hezar kesî ji 23 bajaran, ji bo xwenîş",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "949ef0d2610c1184",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306383",
+    "title": "263 hezar penaberên ji Sûriye û Rojavayê Kurdistanê li Herêma Kurdistanê dijîn",
+    "title_en": "263 hezar penaberên ji Sûriye û Rojavayê Kurdistanê li Herêma Kurdistanê dijîn",
+    "summary": "Hewlêr (Rûdaw) - Li gorî amarên Navenda Hevahengiya Krîzan, hejmara penaberên Sûriyeyê û Rojavayê Kurdistanê yên li Herêma Kurdistanê zêdetirî 263 hezar kesî ye. Navendê ji Rûdawê re got ku di 2 mehên borî de ti welatiyê Sûriyeyê yê li Herêma Kurdistanê venegeriyaye welatê xwe. Li Herêma Kurdistanê 27 kamp hene Li gorî amarên Navenda Hevahengiya Krîzan a Wezareta Karên Navxwe ya Herêma Kurdistanê ku îro ji Rûdawê re ragihandine, li Herêma Kurdistanê 27 kampên koçber û penaberan hene. Ji wan, 9 k",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1454323d3c9d6d24",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306382",
+    "title": "Li Zonguldakê di kana komirê de teqîn: Mirî û birîndar hene",
+    "title_en": "Li Zonguldakê di kana komirê de teqîn: Mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Kilimliyê ya parêzgeha Zonguldakê ya Tirkiyeyê, di kana komirê de teqînek çêbû, 3 kes mirin û 5 kes jî birîndar bûn. Teqîna xaza grîzuyê li herêma Dereiçiyê ya bajarokê Gelikê, di kana taybet a komirê de pêk hat. Li ser agahdarkirinê tîmên AFADê, tîmên tenduristiyê û tîmên agirvemirandinê yekser çûn cihê bûyerê. Di encama xebatên rizgarkirinê de derket holê ku 3 karker mirin û 5 karker jî birîndar bûn. Tîmên tenduristiyê 5 karkerên birîndar birin nexweşxaneyê. ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8beec79566f17a19",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306387",
+    "title": "Li Wanê qeza: Kesek mir, 11 kes birîndar bûn",
+    "title_en": "Li Wanê qeza: Kesek mir, 11 kes birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Payîzavayê ya parêzgeha Wanê ya Bakurê Kurdistanê, di qezayeke trafîkê de tir û mînîbûs li hev qelibîn. Di encamê de kesek mir û 11 kes jî birîndar bûn. Hat zanîn ku kesê mirî polîsek e û li Şemzînanê erkdar bûye. Qeza li nêzîkî gundê Asbeşînê qewimî. Mînîbûsa bi plakaya 30 AAH 872 û tira bi plakaya 13 ABC 402 ji ber sedemeke nediyar li hev qelibîn. Ji ber lêdana giran, her du wesayît ji rê derketin û çûn nav zeviyên li kêleka rê. Di qezayê de 12 kesên di nav wesayîta",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26c0f4558b70498d",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1306386",
+    "title": "Alîgirên Amedsporê beriya maça Samsunsporê daxuyaniyek belav kir",
+    "title_en": "Alîgirên Amedsporê beriya maça Samsunsporê daxuyaniyek belav kir",
+    "summary": "Hewlêr (Rûdaw) - Koma Alîgirên Amedsporê li ser tora civakî ya Xê daxuyaniyek belav kir û ragihand ku ji ber pirsgirêkên darayî yên tîmê û nebûna piştgiriyê, ew nikarin ji bo maça Samsunsporê geşteke bi komî organîze bikin. Alîgiran diyar kir ku ji ber van mercan hejmara otobûsan têra çûna deplasmanê nake. Di daxuyaniya hevpar a alîgiran de hat destnîşankirin ku nezelaliya derbarê vê geştê heta xulekên dawî berdewam kiriye. Hat diyarkirin ku mercên heyî derfetê nade plansaziyeke baş were kirin û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "123d153a360f6194",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306385",
+    "title": "Welatiyên Tirkiyeyê ji bo penabertiyê bi pereyan dozê li xwe vedikin",
+    "title_en": "Welatiyên Tirkiyeyê ji bo penabertiyê bi pereyan dozê li xwe vedikin",
+    "summary": "Hewlêr (Rûdaw) - Li gorî raporeke rojnameya Zeitê ya Almanyayê, hinek penaxwazên ji Tirkiyeyê ji bo ku li Almanyayê mafê penabertiyê bi dest bixin, li welatê xwe bi pereyan dozên cezakirinê li xwe vedikin. Li gorî raporê, qaçaxçî ji bo vî karî 800 Euro dixwazin û dozgerên ku bertîl stendiye jî dosyeyan amade dikin. Ev bazirganî li ser platformên TikTok û Telegramê tê kirin. Pakêtên giştî yên ku qaçaxçîtiya ber bi Almanyayê ve jî li xwe digirin ji 6 hezar Euroyan dest pê dikin. Sîstema UYAPê tê b",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "09fe4b9dc7afc5c0",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306384",
+    "title": "Almanya: Em amade ne ku di xwenîşandanan de rê li ber tundiyê bigirin",
+    "title_en": "Almanya: Em amade ne ku di xwenîşandanan de rê li ber tundiyê bigirin",
+    "summary": "Hewl êr (Rûdaw) - Wezareta Karên Navxwe ya Almanyayê ji Rûdawê re ragihand ku dezgehên wan ên îstîxbarat ê çavdêriya malperên înternetê û torên civakî dikin ku dixwazin xwenîşandana \"GenZ regelt\" a 31ê Çiriya Pêşîn ji bo encamdan û belavkirina tund û tûjiyê bi kar bînin. Wezaretê destnîşan kir ku Polîsa Federal amade ye da ku rê li ber rûdana tund û tûjî û wêrankariyên wekî yên li Fransayê bigire. Li gorî malpera rêxistina \"GenZ regelt\", heta niha nêzîkî 50 hezar kesî ji 23 bajaran, ji bo xwenîş",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d840b5ca3b267fba",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1306382",
+    "title": "Li Zonguldakê di kana komirê de teqîn: Mirî û birîndar hene",
+    "title_en": "Li Zonguldakê di kana komirê de teqîn: Mirî û birîndar hene",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Kilimliyê ya parêzgeha Zonguldakê ya Tirkiyeyê, di kana komirê de teqînek çêbû, 3 kes mirin û 5 kes jî birîndar bûn. Teqîna xaza grîzuyê li herêma Dereiçiyê ya bajarokê Gelikê, di kana taybet a komirê de pêk hat. Li ser agahdarkirinê tîmên AFADê, tîmên tenduristiyê û tîmên agirvemirandinê yekser çûn cihê bûyerê. Di encama xebatên rizgarkirinê de derket holê ku 3 karker mirin û 5 karker jî birîndar bûn. Tîmên tenduristiyê 5 karkerên birîndar birin nexweşxaneyê. ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "391f806ac27fc0e4",
+    "url": "https://www.rudaw.net/kurmanci/categories/werzi/1306381",
+    "title": "Federasyonê dîsa ceza li Amedsporê birî",
+    "title_en": "Federasyonê dîsa ceza li Amedsporê birî",
+    "summary": "Hewlêr (Rûdaw) - Federasyona Futbolê ya Tirkiyeyê ji ber ku valahiyên pêpelûkan ên li stadyumê vala nehatine hiştin, cezayekî giran ê pereyan da Amedsporê. Desteya Dîsîplînê ya Futbolê ya Profesyonel (PFDK) a Federasyona Futbolê ya Tirkiyeyê biryara xwe ya derbarê maça Amedspor û Tumosan Konyasporê de eşkere kir. Ev maç 17ê Çiriya Pêşîn a 2026an di çarçoveya hefteya 8an a Lîga Super de li Amedê hatibû lîstin. Li gorî daxuyaniya ku ji aliyê desteyê ve hatiye dayîn, di wê maçê de valahiyên pêpelûk",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5a8be2c678a3a1c3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306380",
+    "title": "Meclisa Şêwirê ya Rewşenbîrên Elewî li Enqereyê komxebatekê li dar dixe",
+    "title_en": "Meclisa Şêwirê ya Rewşenbîrên Elewî li Enqereyê komxebatekê li dar dixe",
+    "summary": "Dêrsim (Rûdaw) - Meclisa Şêwirê ya Rewşenbîrên Elewî li Enqereyê dê bi navê “Di Sedsala 21emîn de Elewî - Hiqûq, Ewlehî, Bîr û Paşeroj” komxebatekê li dar bixe. Di komxebatê de dê statuya hiqûqî, dilgiraniyên ewlehiyê, bîra dîrokî û paşeroja Elewiyan tê de werin nîqaşkirin. Kesên ku \"Danezana Rewşenbîrên Elewî\" îmze kiribû, Meclisa Şêwirê ya Rewşenbîrên Elewî ava kiribû. Komxebata ku dê ji aliyê vê meclisê ve bê organîzekirin, dê 31ê Çiriya Pêşîn bê lidarxistin. Tê plankirin ku komxebat bi axaft",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ca87c8d00c3ff6b8",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1306386",
+    "title": "Alîgirên Amedsporê beriya maça Samsunsporê daxuyaniyek belav kir",
+    "title_en": "Alîgirên Amedsporê beriya maça Samsunsporê daxuyaniyek belav kir",
+    "summary": "Hewlêr (Rûdaw) - Koma Alîgirên Amedsporê li ser tora civakî ya Xê daxuyaniyek belav kir û ragihand ku ji ber pirsgirêkên darayî yên tîmê û nebûna piştgiriyê, ew nikarin ji bo maça Samsunsporê geşteke bi komî organîze bikin. Alîgiran diyar kir ku ji ber van mercan hejmara otobûsan têra çûna deplasmanê nake. Di daxuyaniya hevpar a alîgiran de hat destnîşankirin ku nezelaliya derbarê vê geştê heta xulekên dawî berdewam kiriye. Hat diyarkirin ku mercên heyî derfetê nade plansaziyeke baş were kirin û",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "aa63248264d42801",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1306381",
+    "title": "Federasyonê dîsa ceza li Amedsporê birî",
+    "title_en": "Federasyonê dîsa ceza li Amedsporê birî",
+    "summary": "Hewlêr (Rûdaw) - Federasyona Futbolê ya Tirkiyeyê ji ber ku valahiyên pêpelûkan ên li stadyumê vala nehatine hiştin, cezayekî giran ê pereyan da Amedsporê. Desteya Dîsîplînê ya Futbolê ya Profesyonel (PFDK) a Federasyona Futbolê ya Tirkiyeyê biryara xwe ya derbarê maça Amedspor û Tumosan Konyasporê de eşkere kir. Ev maç 17ê Çiriya Pêşîn a 2026an di çarçoveya hefteya 8an a Lîga Super de li Amedê hatibû lîstin. Li gorî daxuyaniya ku ji aliyê desteyê ve hatiye dayîn, di wê maçê de valahiyên pêpelûk",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1ffc3526c0272fa7",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306379",
+    "title": "Neteweyên Yekbûyî: Êrişên Amerîkayê yên li dijî belemên qaçaxçiyan tawanên li dijî mirovahiyê ne",
+    "title_en": "Neteweyên Yekbûyî: Êrişên Amerîkayê yên li dijî belemên qaçaxçiyan tawanên li dijî mirovahiyê ne",
+    "summary": "New York (Rûdaw) - Li gorî lêkolînerên Neteweyên Yekbûyî, bi dehan êrişên Amerîkayê yên li ser belemên biçûk ên li nêzîkî Amerîkaya Latîn bi gumana hilgirtina madeyên hişbir, \"tawanên li dijî mirovahiyê\" ne. Lêkolîneran roja pêncşemê daxwaz kir ku ji ber van êrişan lêpirsîn bi berpirsên herî bilind ên Amerîkayê re were kirin. Raportvanê Taybet ê Neteweyên Yekbûyî Ben Saul li ser mijarê got: \"Pênaseya tawana li dijî mirovahiyê, êrişeke sîstematîk an jî berfireh a li ser sivîlan e. 71 êrişên leşke",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
