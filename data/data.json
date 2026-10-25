@@ -406663,6 +406663,744 @@
     }
   },
   {
+    "id": "1e8a989d9a224fc8",
+    "url": "https://www.rudaw.net/english/categories/iran/1079878",
+    "title": "Iran’s supreme leader urges tougher judicial action as executions mount",
+    "title_en": "Iran’s supreme leader urges tougher judicial action as executions mount",
+    "summary": "ERBIL, Kurdistan Region - Iran’s Supreme Leader Mojtaba Khamenei on Saturday called for tougher measures to combat crime and corruption, as local and international human rights organizations warn of a sharp rise in executions across the country. Iran’s judiciary-affiliated Mizan news agency reported on Saturday that judiciary chief Gholamhossein Mohseni Ejei had met with Khamenei, who has not been seen in public since his father, Ali Khamenei, was killed on February 28, the first day of US and I",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4cdfeacc696b5f2e",
+    "url": "https://www.rudaw.net/english/categories/middleeast/1079877",
+    "title": "Muslim World League condemns attacks targeting Saudi holy cities",
+    "title_en": "Muslim World League condemns attacks targeting Saudi holy cities",
+    "summary": "ERBIL, Kurdistan Region - The Muslim World League (MWL) on Saturday condemned ballistic missile attacks blamed on Yemen's Houthi group targeting the Saudi cities of Mecca and Medina, accusing the group of violating the sanctity of Islam's holiest sites and provoking Muslims worldwide. Saudi authorities said on Saturday that air defenses had intercepted two ballistic missiles launched by the Houthis toward Mecca and Medina, with debris from the interceptions falling in several locations across we",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "59f6bcfe3ec3977b",
+    "url": "https://www.rudaw.net/english/categories/world/1079868",
+    "title": "Kurdish filmmaker aims to bring stories beyond war to global audiences",
+    "title_en": "Kurdish filmmaker aims to bring stories beyond war to global audiences",
+    "summary": "ERBIL, Kurdistan Region - Kurdish filmmaker Taim M. Adams, originally from the Kurdish city of Afrin in northwest Syria, is developing a historical drama to be filmed in the Kurdistan Region and Australia, aiming to introduce international audiences to Kurdish stories beyond war and suffering. “I want to introduce Kurdish identity to the world and show people what Kurds are like,” Adams told Rudaw’s Diaspora program, aired on Friday. “I don’t want people to always see Kurds in the news as victim",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "49d3ee97370da6ee",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874242",
+    "title": "پارتی بۆ کاراکردنەوەی پەرلەمان ئامادەیە و یەکێتی داوای رێککەوتنی پێشوەختە دەکات",
+    "title_en": "پارتی بۆ کاراکردنەوەی پەرلەمان ئامادەیە و یەکێتی داوای رێککەوتنی پێشوەختە دەکات",
+    "summary": "رووداو دیجیتاڵ دوای زیاتر لە دوو ساڵ، هێشتا لایەنە سیاسییەکانی هەرێمی کوردستان لەسەر کاراکردنەوەی پەرلەمان رێکنەکەوتوون. سەرۆکی فراکسیۆنی پارتی دەڵێ، هەر لایەنێک بەشداری نەکات، خۆی بەرپرسیارە. ئەندامێکی سەرکردایەتی یەکێتیش دەڵێت، بەبێ رێککەوتنی پێشوەختە هیچ کۆبوونەوەیەک سەرکەوتوو نابێت. رەوتی هەڵوێستیش ئاماژە بەوە دەکات، دەنگ بە دەستەی سەرۆکایەتی پەرلەمان نادەن. رۆژی یەکشەممە، 25ی تشرینی یەکەمی 2026، محەممەد سلێمان، سەرۆکی تەمەنی پەرلەمانی کوردستان بە رووداوی گوت: \"ئامادەم بۆ کاراکردنەوەی پەرلەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d100ab4e9d1525e9",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874239",
+    "title": "رێکخراوی نێودەوڵەتیی کۆچ: زیاتر لە 90 هەزار ئاوارە لە کەمپەکانی هەرێمی کوردستاندان",
+    "title_en": "رێکخراوی نێودەوڵەتیی کۆچ: زیاتر لە 90 هەزار ئاوارە لە کەمپەکانی هەرێمی کوردستاندان",
+    "summary": "رووداو دیجیتاڵ سەرۆکی نێردەی رێکخراوی نێودەوڵەتیی کۆچ لە عێراق دەڵێ، زیاتر لە 90 هەزار ئاوارە لە 15 کەمپی هەرێمی کوردستاندا دەژین، کە زۆرینەیان لە سنووری پارێزگای دهۆکن؛ ئاماژە بەوەش دەکات، وێرانبوونی خانووەکانیان، کەمیی خزمەتگوزاری و نەبوونی بەڵگەنامە فەرمییەکان، رێگرن لەبەردەم گەڕانەوەی سەلامەت و بەردەوامیان بۆ زێدی خۆیان. رۆژی یەکشەممە، 25ی تشرینی یەکەمی 2026، پاسکال رێنتجنز، سەرۆکی نێردەی رێکخراوی نێودەوڵەتیی کۆچ بە میدیای فەرمیی عێراقی راگەیاند، ئەو ئاوارانەی لە کەمپەکاندا دەمێننەوە لە دۆخێ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dcb734d9a608524b",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874230",
+    "title": "وەزارەتی دارایی عێراق: ئەمڕۆ دەست بە خەرجکردنی مووچەی مانگی 10 دەکرێ",
+    "title_en": "وەزارەتی دارایی عێراق: ئەمڕۆ دەست بە خەرجکردنی مووچەی مانگی 10 دەکرێ",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دارایی عێراق دەڵێ، لە ئەمڕۆ یەکشەممەوە دەست بە خەرجکردنی مووچەی مانگی تشرینی یەکەمی فەرمانبەران دەکرێ. ئەمڕۆ یەکشەممە، 25ـی تشرینی یەکەمی 2026، نووسینگەی راگەیاندن و پەیوەندییە حکومییەکانی سەر بە وەزارەتی دارایی عێراق لە راگەیێندراوێکدا بڵاویکردەوە: \"لە ئەمڕۆ یەکشەممەوە دەست بە دابەشکردنی مووچەی فەرمانبەران بۆ مانگی تشرینی یەکەم دەکرێ.\" بەپێی رێکارە داراییەکان، فەرمانگەی ژمێریاری لە وەزارەتی دارایی عێراق پرۆسەی پارەدارکردنی بانکەکانی دەستپێکردووە و داوا لە یەکە ژمێریارییە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8d22fdba7b4d2ec5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874229",
+    "title": "چوار هاونیشتمانی لە یۆنانەوە چیرۆکی گەیشتنیان بەو وڵاتە و مانەوە لە کەمپدا بۆ رووداو دەگێڕنەوە",
+    "title_en": "چوار هاونیشتمانی لە یۆنانەوە چیرۆکی گەیشتنیان بەو وڵاتە و مانەوە لە کەمپدا بۆ رووداو دەگێڕنەوە",
+    "summary": "رووداو دیجیتاڵ محەممەد عەبدولڕەحمان، یەکێک لەو کۆچبەرە کوردانەی لە رێگەی تورکیاوە گەیشتووەتە نێو یۆنان، لە لێدوانێکی تایبەتدا بۆ رووداو وردەکاریی ئەو گەشتە پڕ لە مەترسییە دەگێڕێتەوە کە لە هەرێمی کوردستانەوە دەستیپێکردووە و دوای دەیان رۆژ لە دۆخی سەخت ئێستا لە کەمپێکە لە یۆنان. سێ هاونیشتمانی دیکەی خەڵکی رۆژهەڵات، رۆژئاوا و باکووری کوردستانیش باسی دۆخی کەمپەکان بۆ رووداو دەکەن. محەممەد دەڵێت، سەرەتای گەشتەکەی لە 15ی ئەیلوول لە هەرێمی کوردستانەوە بەرەو شاری ئیستەنبووڵ لە تورکیا دەستی پێکرد و شەوێک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4f3866b47260c320",
+    "url": "https://www.rudaw.net/sorani/categories/health/1874240",
+    "title": "توێژینەوەیەکی نێوخۆیی: پەڵپینە ژمارەی سپێرم زیاد دەکات",
+    "title_en": "توێژینەوەیەکی نێوخۆیی: پەڵپینە ژمارەی سپێرم زیاد دەکات",
+    "summary": "رووداو- تەندروستی توێژینەوەیەکی زانکۆی گەشەپێدانی مرۆیی لە سلێمانی ئاشکرای دەکات، پەڵپینە کواڵیتیی سپێرم باشتر دەکات و باشترین شێوازی خواردنیشی تێکەڵکردنیەتی لەگەڵ زەڵاتەدا. ئەمڕۆ یەکشەممە 25-10-2026 د. ستار ئیبراهیم، سەرۆکی بەشی زانستی تاقیگەی پزیشکیی زانکۆی گەشەپێدانی مرۆیی لە سلێمانی بە رووداوی رایگەیاند، لەنێو توێژینەوەکەدا ئەوەمان بۆ دەرکەوتووە، ئەگەر سێ رۆژ جارێک پەڵپینە بکرێتە نێو زەڵاتەوە و بخورێت، کواڵیتیی سپێرم باشتر دەبێت، بەجۆرێک دەشێت کێشەی کەمیی ژمارەی سپێرم چارەسەر بکات. د. ستار ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "eda1fe9a41a63e4e",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1874237",
+    "title": "سێ پلان لەلایەن مۆرینیۆوە بۆ سەرکەوتن بەسەر بارسێلۆنادا",
+    "title_en": "سێ پلان لەلایەن مۆرینیۆوە بۆ سەرکەوتن بەسەر بارسێلۆنادا",
+    "summary": "رووداو دیجیتاڵ یانەی ریال مەدرید، یارییەکی قورس بەرامبەر بارسێلۆنا لە نێو یاریگای ئەوی دواییان، لە گەڕی دەی لالیگا ئەنجامدەدات، یارییەک کە دەکرێ کۆتایی بەهەموو خەونێکی مەدریدییەکان، بۆ رکابەریکردن لەسەر نازناوی وەرزی ئەمساڵی لالیگا بهێنێت. یارییەکە کاژێر 23:00 بەکاتی باشووری کوردستان ئەنجامدەدرێت. یارییەکە، بۆ ریال مەدرید لە دۆخێکی سەختدایە، تیپەکە بە 21 خاڵ پلەی سێیەمی ریزبەندی بەدەستەوەیە، بەجیاوازیی شەش خاڵ لە دوای بارسای پێشەنگەوەیە کە 27 خاڵی هەیە. بارسا لە لالیگای ئەمساڵدا هیچ یارییەکی نەد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "804e728cf0775e2e",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874235",
+    "title": "تورکیا لە 9 مانگدا بایی زیاتر لە 301 ملیۆن دۆلار تورشی هەناردە کردووە",
+    "title_en": "تورکیا لە 9 مانگدا بایی زیاتر لە 301 ملیۆن دۆلار تورشی هەناردە کردووە",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "92663e72e873ceff",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1874234",
+    "title": "کتێبی \"خۆبێژی لە گۆرانیی کوردیدا\" بڵاو دەکرێتەوە",
+    "title_en": "کتێبی \"خۆبێژی لە گۆرانیی کوردیدا\" بڵاو دەکرێتەوە",
+    "summary": "رووداو دیجیتاڵ کتێبێکی نوێی هونەری و لێکۆڵینەوە بە ناونیشانی (خۆبێژی لە گۆرانیی کوردیدا) لە نووسینی نووسەر و توێژەر هەڵکەوت پشدەری، بڵاوکرایەوە. کتێبی (خۆبێژی لە گۆرانیی کوردیدا) بەرهەمێکی توێژینەوەیی تایبەتە لە بواری هونەری گۆرانی و میوزیکی کوردیدا. دامەزراوەی (لامیدیا) کە سەرپەرشتیی ناساندنی دەکات، باسی لەوە کردووە، کە نووسەری پڕۆژەکە، ئەم کتێبە بە کارێکی دەگمەن وەسف دەکات، کە ببێتە سەرچاوەیەکی گرنگ و باوەڕپێکراو بۆ هونەرمەندان، توێژەران و خوێندکارانی بواری میوزیک و فۆلکلۆری کوردی. بڕیارە لە چ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f24356010728a556",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874232",
+    "title": "گومرگی عێراق: باجی ئۆتۆمبێلی هایبرید تەنیا 15٪یە",
+    "title_en": "گومرگی عێراق: باجی ئۆتۆمبێلی هایبرید تەنیا 15٪یە",
+    "summary": "رووداو دیجیتاڵ بەڕێوەبەری گشتیی گومرگی عێراق دەڵێ، ئەو زانیارییانەی باس لە لێخۆشبوونی گومرگی بۆ ئۆتۆمبێلی کارەبایی و هایبرید دەکەن دروست نین. سامر قاسم داود، بەڕێوەبەری دەستەی گشتیی گومرگی عێراق، رۆژی یەکشەممە(25ـی تشرینی یەکەمی2026) بە رووداوی راگەیاند: \"ئەو خشتەیەی لە سۆشیاڵ میدیادا بڵاوبووەتەوە و باس لە بەخشینی ئۆتۆمبێلی کارەبایی و هایبرید لە باجی گومرگی دەکات، پەیوەندی بە بڕیارێکی پێشووی ئەنجوومەنی وەزیرانی عێراقەوە هەیە کە ئێستا کاری پێناکرێ و هیچ بنەمایەکی یاسایی نەماوە.\" بەڕێوەبەری گشتیی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b0d2ac9f8e85612a",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1874227",
+    "title": "پۆلیسی کەتەلۆنیا 100 کەسی دەستگیرکرد و کلاسیکۆ هەڕەشەی لەسەرە",
+    "title_en": "پۆلیسی کەتەلۆنیا 100 کەسی دەستگیرکرد و کلاسیکۆ هەڕەشەی لەسەرە",
+    "summary": "رووداو دیجیتاڵ بڕیارە کاژێر 23:00 بەکاتی باشووری کوردستان، کلاسیکۆی یەکەمی ئەمساڵ، هەردوو یانەی بارسێلۆنا و ریال مەدرید لەسەر یاریگای کامپ نو، کۆبکاتەوە، لە کاتێکدا هەندێک سەرچاوەی میدیایی، باس لە بوونی هەڕەشە و مەترسی گەورە لەسەر یارییەکە دەکەن. میدیای کەتەلۆنیا ئاشکرایانکردووە، دۆخی ئاسایشی هەرێمەکە شێواوە، پاشئەوەی چەند ناوچەیەکی جیاوازی شارەکە، کاری تێکدەرانە و تووندوتیژی بەخۆوەبینی و بەهۆیەوە پۆلیس نزیکەی 100 کەسی دەسگیرکرد. رووداوەکان دوێنێ شەو، واتە شەوێک بەر لە یارییە گرنگەکە روویانداوە،",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5022e9d3427845f4",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1874225",
+    "title": "دوو سەرچاوە لە ئاسایشی ئاکرێ: بکوژی دوو براکەی ئاکرێ خۆی رادەستی هێزە ئەمنییەکان کرد",
+    "title_en": "دوو سەرچاوە لە ئاسایشی ئاکرێ: بکوژی دوو براکەی ئاکرێ خۆی رادەستی هێزە ئەمنییەکان کرد",
+    "summary": "رووداو دیجیتاڵ دوو سەرچاوە لە ئاسایشی ئاکرێ بە رووداویان راگەیاند، بکوژی دوو براکە خۆی رادەستی هێزە ئەمنییەکان کرد پێشتر پۆلیسی ئاکرێ رایگەیاندبوو: ئەو کەسانەی گیانیان لەدەستداوە برا بوون بە ناوەکانی جەمال حاجی و فەلاح حاجی و برایەکی دیکەیشیان بریندارە. هاوکات تۆمەتباری رووداوەکەش ئامۆزای کوژراوەکان بووە و دەستبەسەرنەکراوە. هاوکات گوتەبێژی پۆلیسی ئاکرێ گوتبووی: \"ئەو ناوچەیەی تۆمەتبارەکە خۆی لێ حەشارداوە ناوچەیەکی قەرەباڵخە و هاونیشتمانییەکی زۆری لێیە و توانای ئۆپراسیۆنمان سنووردارە، چونکە نامانە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "edf9f42c00f9b84e",
+    "url": "https://www.rudaw.net/sorani/categories/syria/1874224",
+    "title": "سەرۆکی ناوەندی عومران بۆ لێکۆڵینەوەی ستراتیژی: زۆربەی سوورییەکان لەگەڵ لامەرکەزییەتن",
+    "title_en": "سەرۆکی ناوەندی عومران بۆ لێکۆڵینەوەی ستراتیژی: زۆربەی سوورییەکان لەگەڵ لامەرکەزییەتن",
+    "summary": "رووداو دیجیتاڵ سەرۆکی ناوەندی عومران بۆ لێکۆڵینەوەی ستراتیژی رایدەگەیێنێت، زۆربەی پێکهاتەکانی سووریا لەسەر شێوازێکی لامەرکەزی بۆ حوکمڕانیی داهاتووی وڵات هاوڕان. هاوکات جەخت دەکاتەوە کە کورد پێکهاتەیەکی رەسەنی ئەو وڵاتەیە و کۆمەڵگەی سووریا هیچ کێشەیەکی لەگەڵ پرسی کورددا نییە، بەڵکو ئەوەی هەبووە \"شۆڤێنیزمی رژێمی بەعس\" بووە کە مافەکانی زەوت کردبوون. د. عەممار قەحف، سەرۆکی ناوەندی عومران بۆ لێکۆڵینەوەی ستراتیژی، لە هەڤپەیڤینێکدا لەگەڵ تۆڕی میدیایی رووداو، تیشکی خستە سەر داهاتووی سیاسیی سووریا، شێواز",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "680b6323b778951e",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874233",
+    "title": "شاندێکی باڵای حکومەتی عێراق دێتە هەرێمی کوردستان",
+    "title_en": "شاندێکی باڵای حکومەتی عێراق دێتە هەرێمی کوردستان",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "696dd595760a43cc",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1874220",
+    "title": "پێشبینی دەکرێ شەپۆلێکی بارانبارین 12 پارێزگای باکووری کوردستان بگرێتەوە",
+    "title_en": "پێشبینی دەکرێ شەپۆلێکی بارانبارین 12 پارێزگای باکووری کوردستان بگرێتەوە",
+    "summary": "رووداو دیجیتاڵ پێشبینی دەکرێ شەپۆلێکی بارانبارین چەند پارێزگایەکی باکووری کوردستان بگرێتەوە. بەڕێوەبەرایەتیی گشتیی کەشناسیی تورکیا پێشبینییەکانی کەشوهەوای تورکیا و باکووری کوردستانی بڵاوکردەوە و رایگەیاند، پێشبینی دەکرێ ئەمڕۆ یەکشەممە، 25ـی تشرینی یەکەمی 2026، لە 12 پارێزگای باکووری کوردستان کە بریتین لە مێردین، شرنەخ، جۆلەمێرگ، بەدلیس، وان، چەولیگ، مووش، ئاگری، ئەرزەڕۆم، ئیدر، ئەردەخان و قەرس باران ببارێ. ئەگەری دروستبوونی لافاو لە پارێزگاکانی ئەرزەڕۆم، ئیدر و ئاگری دەبێت. تێکڕای پلەی گەرمای ئە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "575e95ff98cdc1e3",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874241",
+    "title": "دوای 12 ساڵ ئاوارەیی؛ خەڵکی چوار گوندی رەبیعە دەگەڕێنەوە زێدی خۆیان",
+    "title_en": "دوای 12 ساڵ ئاوارەیی؛ خەڵکی چوار گوندی رەبیعە دەگەڕێنەوە زێدی خۆیان",
+    "summary": "رووداو دیجیتاڵ دوای 12 ساڵ لە ئاوارەیی و دوورکەوتنەوە لە زێدی باووباپیرانیان، فازڵی تەمەن 74 ساڵ کە خەڵکی گوندی مەحموودیەی سەر بە ناحیەی رەبیعەیە، گەڕایەوە وارگەی خۆی. گوندەکەیان لە کاتی شەڕی چەکدارانی داعشدا ببووە ناوەندی گەرمیی شەڕ و بە ناچاری چۆڵیان کردبوو. دانیشتووانە گەڕاوەکان عەرەبی گوندەکانی قاهیرە، مەحموودیە، جەدریە و سعوودیەی سەر بە ناحیەی رەبیعەن. لە رێوڕەسمێکدا وەزیری ناوخۆی حکومەتی هەرێمی کوردستان پێشوازی لە گەڕانەوەیان کرد. پێشوازی لە گەڕانەوەی ئاوارەکان دەکرێت رێبەر ئەحمەد، وەزیری ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "cc4b5fd60a717610",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874219",
+    "title": "وەزارەتی سەرچاوەکانی ئاوی عێراق: سێ بەنداو بە هاوبەشی لەگەڵ تورکیا دروست دەکەین",
+    "title_en": "وەزارەتی سەرچاوەکانی ئاوی عێراق: سێ بەنداو بە هاوبەشی لەگەڵ تورکیا دروست دەکەین",
+    "summary": "رووداو دیجیتاڵ گوتەبێژی وەزارەتی سەرچاوەکانی ئاوی عێراق دەڵێ، لە چوارچێوەی رێککەوتننامەی ستراتیژیی نێوان عێراق و تورکیا، سێ بەنداوی نوێ لە چەند پارێزگایەکی وڵات دروست دەکرێن؛ هاوکات دیزاین و رێکارەکانی دروستکردنی 13 بەنداوی دیکەی گلدانەوەی ئاو لە نەینەوا، نەجەف، موسەننا و دیالە بەردەوامە. رۆژی یەکشەممە، 25ی تشرینی یەکەمی 2026، خالید شیمال، گوتەبێژی وەزارەتی سەرچاوەکانی ئاو و بەڕێوەبەری گشتیی دەستەی پڕۆژەکانی ئاودێریی عێراق بە تۆڕی میدیایی رووداوی راگەیاند، ئەم پڕۆژانە بە ئامانجی سوودوەرگرتن لە ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "45e5a7b6db03e2e7",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1874221",
+    "title": "فەرمانی دەستگیرکردن بۆ بەرپرسێکی سەلاحەدین دەرچوو؛ هۆکارەکە دیارنەمانی 3 ملیار دینارە",
+    "title_en": "فەرمانی دەستگیرکردن بۆ بەرپرسێکی سەلاحەدین دەرچوو؛ هۆکارەکە دیارنەمانی 3 ملیار دینارە",
+    "summary": "رووداو دیجیتاڵ دەستەی دەستپاکیی عێراق دەڵێ، دادگە فەرمانی دەستگیرکردنی بۆ بەرپرسێکی پێشووی بەشی ژمێریاریی پارێزگای سەلاحەدین دەرکردووە، ئەوەش بە تۆمەتی بردنی نزیکەی سێ ملیار دینار کە بۆ سووتەمەنیی مۆلیدەکان تەرخان کرابوو. دەستەی دەستپاکیی عێراق، رۆژی یەکشەممە (25ی تشرینی یەکەمی 2026) بڵاویکردەوە: \"تیمەکانی لێکۆڵینەوە ئەنجامی وردبینییەکانیان خستەڕوو کە تێیدا دەرکەوتووە ئەو بەرپرسە بڕی دوو ملیار و 975 ملیۆن دیناری بۆ بەرژەوەندیی خۆی بەکارهێناوە. تۆمەتبارەکە بەناوی ئەوەی پارێزگار پێی سپاردووە، پارە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ee0051afa9aef29a",
+    "url": "https://www.rudaw.net/sorani/categories/world/1874238",
+    "title": "خۆپێشاندانی سەرتاسەری لە فەرەنسا گەیشتە 33یەمین رۆژ؛ قوتابییان و هاووڵاتییان داوای باشکردنی گوزەران دەکەن",
+    "title_en": "خۆپێشاندانی سەرتاسەری لە فەرەنسا گەیشتە 33یەمین رۆژ؛ قوتابییان و هاووڵاتییان داوای باشکردنی گوزەران دەکەن",
+    "summary": "رووداو دیجیتاڵ ماوەی 33 رۆژە شەپۆلێکی بەرفراوانی خۆپێشاندان و ناڕەزایەتی دەیان شاری فەرەنسا، لەوانەش پاریسی پایتەخت، مارسیلیا، لیۆن و بۆردۆی گرتووەتەوە. خۆپێشاندانەکان کە لەلایەن قوتابییان و مامۆستایان و کەسوکاریانەوە سەرکردایەتی دەکرێن، رۆژ بە ڕۆژ روو لە فراوانبوون دەکەن. سیستەمی پەروەردە و خەرجیی ژیان؛ هۆکاری سەرەکیی خۆپێشاندانەکان دەستپێکی ناڕەزایەتییەکان بۆ خراپیی سیستەمی پەروەردە و کەمیی دەرفەت لە ناوەندەکانی خوێندن بوو، بەڵام دواتر داواکارییەکان فراوانتر بوون و بەرزبوونەوەی خەرجییەکانی ژیا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "914e4e76e9a8689e",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874212",
+    "title": "رووداو وردەکاریی پشکی هەرێمی کوردستان لە بودجەی 2027 بڵاودەکاتەوە",
+    "title_en": "رووداو وردەکاریی پشکی هەرێمی کوردستان لە بودجەی 2027 بڵاودەکاتەوە",
+    "summary": "رووداو دیجیتاڵ تۆڕی میدیایی رووداو، وردەکاریی رەشنووسی پڕۆژەیاسای بودجەی گشتیی فیدراڵیی عێراق بۆ ساڵی 2027 بڵاودەکاتەوە. پشکی هەرێمی کوردستان بە 12.7% جێگیرکراوە، بەڵام ناردنی ئەو پشکە بە چەندین مەرج و پابەندییەوە بەستراونەتەوە. جگە لەوەش، میکانیزمێک بۆ چارەسەرکردنی قەرزە کەڵەکەبووەکانی رابردوو لەنێوان هەولێر و بەغدا دانراوە. بەگوێرەی رەشنووسی پڕۆژەیاساکە، کە وێنەیەکی دەست تۆڕی میدیایی رووداو کەوتووە، کۆی داهاتەکانی عێراق بە زیاتر لە 174 تریلیۆن دینار و خەرجییەکانیش بە زیاتر لە 217 تریلیۆن دینار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "855eeae257574e42",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874216",
+    "title": "عێراق لە ساڵێکدا بایی پێنج ملیار دۆلار زێڕ و خشڵی هاوردە کردووە",
+    "title_en": "عێراق لە ساڵێکدا بایی پێنج ملیار دۆلار زێڕ و خشڵی هاوردە کردووە",
+    "summary": "رووداو دیجیتاڵ بەگوێرەی راپۆرتی وەزارەتی پلاندانانی عێراق، لە ساڵی 2025دا کۆی گشتیی هاوردەکردنی کاڵا بۆ عێراق گەیشتووەتە 72.3 ملیار دۆلار. چین زیاتر لە 43%ی بازاڕی هاوردەکردنی عێراقی کۆنترۆڵ کردووە و عێراقییەکانیش بە سەتان ملیۆن دۆلار بەرهەمی خۆراکییان هاوردە کردووە. بەگوێرەی راپۆرتی ساڵانەی هاوردەکردنی بۆ ساڵی 2025، کە پشتی بە ئامارە ئەلیکترۆنییەکانی دەستەی گشتیی گومرگەکان (سیستمی ئەسیکۆدا) بۆ سەرجەم دەروازە سنوورییەکانی عێراق (جگە لە دەروازەکانی هەرێمی کوردستان) و کۆمپانیای بەبازاڕکردنی نەوتی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e62d45e6faa3dab0",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1874211",
+    "title": "هەناردەی 11 پارێزگای زیانلێکەوتووی بوومەلەرزەکانی باکووری کوردستان و تورکیا 15 ملیار دۆلاری تێپەڕاند",
+    "title_en": "هەناردەی 11 پارێزگای زیانلێکەوتووی بوومەلەرزەکانی باکووری کوردستان و تورکیا 15 ملیار دۆلاری تێپەڕاند",
+    "summary": "رووداو دیجیتاڵ سەرەڕای کاریگەریی بوومەلەرزەکانی 6ی شوباتی 2023، هەناردەی 10 پارێزگا لە کۆی 11 پارێزگای زیانلێکەوتوو لە 9 مانگی ئەم ساڵدا زیادیکردووە. دیلۆک پێشەنگە و خارپیت زۆرترین گەشەی بازرگانی تۆمارکردووە. بەگوێرەی داتای ئەنجوومەنی هەناردەکارانی تورکیا، ئەو 11 پارێزگایە (مەرەش، ئەدەنە، سەمسوور، خارپیت، دیلۆک، هاتای، کلیس، مەڵەتی، عوسمانیە، رووها و ئامەد) کە بەهۆی بوومەلەرزەکانەوە زیانیان بەرکەوت، لە بووژانەوەی بازرگانیدا پێشکەوتنی بەرچاویان بەدەستهێناوە. کۆی گشتیی هەناردەی ئەو 11 پارێزگایە، ل",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "56c1f51d3d2bb1ab",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1874231",
+    "title": "فلیک، یاریزانێکی ئیسرائیلی دەباتە کلاسیکۆ",
+    "title_en": "فلیک، یاریزانێکی ئیسرائیلی دەباتە کلاسیکۆ",
+    "summary": "رووداو دیجیتاڵ هانزی فلیکی راهێنەری یانەی بارسێلۆنا، بڕیاری بانگهێشتکردنی ئۆریان گۆرینی، بەهرەمەندی ئیسرائیلی داوە بۆ یاریی کلاسیکۆ، ئەوەش پاشئەوەی دانی ئۆلمۆ لە یاریی پاریس سانجێرماندا دووچاری پێکان بوو و لە کلاسیکۆ دوورخرایەوە. فلیک ئەو بەهرەمەندە ئیسرائیلییە تەمەن 17 ساڵانەی بانگهێشتی مەشقەکانی تیپی یەکەمی یانەکەی کردووە، کە دوێنێ بەڕێوەچوون، لە هەنگاوێکی گەورەدا بەئاراستەی پشتبەستن بەو یاریزانە لە داهاتوودا. رۆژنامەی 'سپۆرت' ئاشکرایکردووە، گۆرین دەرچووی ئەکادیمیای لاماسیایە، یەکێکە لە بەهرەم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1e77573a935e9e64",
+    "url": "https://www.rudaw.net/sorani/categories/interview/1874186",
+    "title": "کۆنسووڵی فەرەنسا بۆ رووداو: کار لەسەر گەشتی راستەوخۆی هەولێر و پاریس دەکەین",
+    "title_en": "کۆنسووڵی فەرەنسا بۆ رووداو: کار لەسەر گەشتی راستەوخۆی هەولێر و پاریس دەکەین",
+    "summary": "رووداو دیجیتاڵ ئیمانوێل مینیۆ، کۆنسووڵی گشتیی نوێی فەرەنسا لە هەولێر، لە یەکەمین هەڤپەیڤینیدا دوای دەستبەکاربوونی لەگەڵ تۆڕی میدیایی رووداو، چەندین تەوەری گرنگی پەیوەست بە پەیوەندییە دووقۆڵییەکانی نێوان فەرەنسا و هەرێمی کوردستان، دۆسیەی بەرگری، پێکهێنانی حکومەتی نوێی هەرێمی کوردستان، گەشتی راستەوخۆی ئاسمانی، ڤیزە و دۆخی رۆژئاوای کوردستان خستەڕوو. کۆنسووڵی فەرەنسا گوتی، کار لەسەر دەستپێکردنی گەشتی راستەوخۆی ئاسمانی لەنێوان پاریس و هەولێردا دەکرێت و گوتی: \"پێموایە ئەوە بابەتێک بوو کە لە کاتی سەردا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ca07aff049b30f43",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306441",
+    "title": "AKRÊ - Bikujê 2 birayan xwe radestî hêzên ewlehiyê kir",
+    "title_en": "AKRÊ - Bikujê 2 birayan xwe radestî hêzên ewlehiyê kir",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Akrê ya parêzgeha Dihokê, gumanbarê ku 2 bira kuştibûn û birayekî wan jî birîndar kiribû xwe radestî hêzên ewlehiyê yên Kurdistanê kir. Du çavkaniyan ji Asayîşa Akrê ji Rûdawê re ragihand ku bikujê 2 birayan bi xwesteka xwe çûye û xwe radestî hêzên ewlehiyê kiriye. Roja pêncşemê li ber Parka Akrê kesekî bi çekê êrişî 3 birayan kiribû. Di êrişê de birayên bi navên Cemal Hacî û Felah Hacî hatibûn kuştin û birayekî wan jî birîndar bûbû. Polîsê Akrê eşkere kiribû ku bikuj",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7790d8c101184da6",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306440",
+    "title": "Beriya El Clasicoyê li Barcelonayê alozî: Nêzîkî 100 kesî hatin desteserkirin",
+    "title_en": "Beriya El Clasicoyê li Barcelonayê alozî: Nêzîkî 100 kesî hatin desteserkirin",
+    "summary": "Hewlêr (Rûdaw) - Biryar e îşev saet 23:00yan bi dema Kurdistanê, di El Clasicoya yekemîn a îsal de Barcelona û Real Madrid li Stadyuma Camp Nouyê werin pêşberî hev. Ev maç di demekê de tê lîstin ku hinek çavkaniyên medyayê behsa gef û metirsiyên mezin ên li ser ewlehiya pêşbirkê dikin. Medyaya Katalonyayê eşkere kir ku piştî qewimîna xwenîşandan, karên têkdanê û tundjiyê yên li çend navçeyên cuda yên bajêr, rewşa ewlehiyê ya herêmê têk çûye. Polîsan ji ber wan bûyeran nêzîkî 100 kesî desteser ki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1884d832d32c2a43",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306439",
+    "title": "Li Tirkiye û Bakurê Kurdistanê hişyariya baranên gur",
+    "title_en": "Li Tirkiye û Bakurê Kurdistanê hişyariya baranên gur",
+    "summary": "Hewlêr (Rûdaw) - Li gorî pêşbîniyên keşnasiyê, tê çaverêkirin ku roja sêşemê li Tirkiye û Bakurê Kurdistanê baranên gur ên bi birûsk bibarin. Li gorî pêşbîniya hewayê ya 5 rojên pêş a Birêvebiriya Giştî ya Keşnasiyê ya Tirkiyeyê, baran dê li gelek herêman bibare û heta roja pêncşemê jî li hinek deveran berdewam bike. Roja sêşemê li herêmên Marmara, Ege, Deryaya Spî, Anatolyaya Navîn ên Tirkiyeyê û li hin deverên Bakurê Kurdistanê baranên bi birûsk tên pêşbînîkirin. Tê texmînkirin ku roja çarşemê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "26003423877b1c1d",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1306438",
+    "title": "Melayê Cizîrî li Medreseya Sor bi helbest û qesîdeyan hat bibîranîn",
+    "title_en": "Melayê Cizîrî li Medreseya Sor bi helbest û qesîdeyan hat bibîranîn",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Cizîrê ya parêzgeha Şirnexê ya Bakurê Kurdistanê, ji bo bîranîna helbestvan û fîlozof Melayê Cizîrî, li Medreseya Sor a dîrokî merasîmeke bibîranînê û panelek hat lidarxistin. Çalakî li Medreseya Sor a Cizîrê ku Melayê Cizîrî demekê li wir ders didan pêk hat. Gelek kesên ku di nav wan de akademîsyen, alim, nûnerên partiyên siyasî û saziyên civaka sivîl hebûn beşdarî bernameyê bûn. Bername bi xwendina Quranê dest pê kir û pişt re bi axaftina nivîskar û lêkoleran dewam ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "bfc651e8ca467825",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306440",
+    "title": "Beriya El Clasicoyê li Barcelonayê alozî: Nêzîkî 100 kesî hatin desteserkirin",
+    "title_en": "Beriya El Clasicoyê li Barcelonayê alozî: Nêzîkî 100 kesî hatin desteserkirin",
+    "summary": "Hewlêr (Rûdaw) - Biryar e îşev saet 23:00yan bi dema Kurdistanê, di El Clasicoya yekemîn a îsal de Barcelona û Real Madrid li Stadyuma Camp Nouyê werin pêşberî hev. Ev maç di demekê de tê lîstin ku hinek çavkaniyên medyayê behsa gef û metirsiyên mezin ên li ser ewlehiya pêşbirkê dikin. Medyaya Katalonyayê eşkere kir ku piştî qewimîna xwenîşandan, karên têkdanê û tundjiyê yên li çend navçeyên cuda yên bajêr, rewşa ewlehiyê ya herêmê têk çûye. Polîsan ji ber wan bûyeran nêzîkî 100 kesî desteser ki",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "68004eb03deccc6b",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1306438",
+    "title": "Melayê Cizîrî li Medreseya Sor bi helbest û qesîdeyan hat bibîranîn",
+    "title_en": "Melayê Cizîrî li Medreseya Sor bi helbest û qesîdeyan hat bibîranîn",
+    "summary": "Hewlêr (Rûdaw) - Li navçeya Cizîrê ya parêzgeha Şirnexê ya Bakurê Kurdistanê, ji bo bîranîna helbestvan û fîlozof Melayê Cizîrî, li Medreseya Sor a dîrokî merasîmeke bibîranînê û panelek hat lidarxistin. Çalakî li Medreseya Sor a Cizîrê ku Melayê Cizîrî demekê li wir ders didan pêk hat. Gelek kesên ku di nav wan de akademîsyen, alim, nûnerên partiyên siyasî û saziyên civaka sivîl hebûn beşdarî bernameyê bûn. Bername bi xwendina Quranê dest pê kir û pişt re bi axaftina nivîskar û lêkoleran dewam ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a699b7eff35a88c1",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306437",
+    "title": "Serboriya koçberên Kurd a li ser rêya Yunanistanê: 24 rojan di girtîgehê de man",
+    "title_en": "Serboriya koçberên Kurd a li ser rêya Yunanistanê: 24 rojan di girtîgehê de man",
+    "summary": "Hewlêr (Rûdaw) - Mihemed Ebdulrehman yek ji wan koçberên Kurd e ku di ser Tirkiye û Bakurê Kurdistanê re gihîştiye Yunanistanê. Ew di daxuyaniyeke taybet a ji bo Rûdawê de hûrgiliyên wê rêwîtiya tijî metirsî tîne ziman ku ji Herêma Kurdistanê dest pê kiriye û piştî bi dehan rojan di nav şert û mercên dijwar de, niha li kampeke Yunanistanê ye. Sê ciwanên din ên ji Rojhilat, Rojava û Bakurê Kurdistanê jî ji Rûdawê re behsa rewşa kampên Yunanistanê dikin. Mihemed diyar kir ku rêwîtiya wî 15ê Îlonê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c9df1d2529a848b2",
+    "url": "https://www.rudaw.net/kurmanci/categories/sriye/1306436",
+    "title": "Li ser rêya Şam û Derayê qezaya giran: Zêdetirî 30 kesî birîndar bûn",
+    "title_en": "Li ser rêya Şam û Derayê qezaya giran: Zêdetirî 30 kesî birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) - Li başûrê Sûriyeyê li ser rêya navneteweyî ya di navbera Şam û Derayê de, di lihevqelibîna du wesayîtan de zêdetirî 30 kesî birîndar bûn. Li gorî medyaya Sûriyeyê, qeza li nêzîkî pira Xebebê ya li ser rêya sereke ya Şam û Derayê rû daye. Qeza di navbera wesayîteke veguhastina karkeran û mînîbuseke rêwiyan de çêbûye. Tîmên hawarçûnê bi lez xwe gihand cihê bûyerê û birîndar veguhastin Nexweşxaneya Bajarê Senemeynê ya li Derayê. Hat zanîn ku rewşa hinek ji birîndaran giran e. Li Sû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2b7de05a3de9d49a",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1306435",
+    "title": "Di civîna Baroya Stenbolê de parêzer pev çûn",
+    "title_en": "Di civîna Baroya Stenbolê de parêzer pev çûn",
+    "summary": "Hewlêr (Rûdaw) - Di Civîna Giştî ya Asayî ya 128an a Baroya Stenbolê de alozî derket û piştî pevçûna bi kulman a di navbera hinek parêzeran de, civîn 15 xulekan hat rawestandin. Civîna Giştî ya Asayî ya 128an a Baroya Stenbolê, piştî ku demjimêr 13:00an hejmara pêwîst a beşdaran hat temamkirin li Navenda Kongreyê ya Halîçê dest pê kir. Di dengdanê de ji bo birêvebirina civînê, komîteyeke ji serokek, alîkarekî serok û du endaman pêk tê hat hilbijartin. Piştî avakirina komîteyê, Îbrahîm Ozden Kabo",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6ff32dc84af98469",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306434",
+    "title": "Trump bersiv da Obama: Tu serokekî nezan bûyî",
+    "title_en": "Trump bersiv da Obama: Tu serokekî nezan bûyî",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump bi peyameke tund bersiva daxuyaniyên Serokê berê yê Amerîkayê Barack Obama da û ew wekî \"serokekî bi temamî nezan\" bi nav kir. Trump her wiha bi tundî êrişî namzedê Demokratan ê eyaleta Michiganê kir û ji dengdêran xwest ku dengê xwe bidin namzedê Komariyan. Serokê Amerîkayê Donald Trump li ser hesabê xwe yê platforma Truth Socialê nivîsî: \"Obama serokekî bi temamî nezan bû! Wî bi milyaran dolar bac da Îranê û rê li ber wan xweş kir ku destê wan bigihêje çekên atomî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "17f0656df92606c0",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306437",
+    "title": "Serboriya koçberên Kurd a li ser rêya Yunanistanê: 24 rojan di girtîgehê de man",
+    "title_en": "Serboriya koçberên Kurd a li ser rêya Yunanistanê: 24 rojan di girtîgehê de man",
+    "summary": "Hewlêr (Rûdaw) - Mihemed Ebdulrehman yek ji wan koçberên Kurd e ku di ser Tirkiye û Bakurê Kurdistanê re gihîştiye Yunanistanê. Ew di daxuyaniyeke taybet a ji bo Rûdawê de hûrgiliyên wê rêwîtiya tijî metirsî tîne ziman ku ji Herêma Kurdistanê dest pê kiriye û piştî bi dehan rojan di nav şert û mercên dijwar de, niha li kampeke Yunanistanê ye. Sê ciwanên din ên ji Rojhilat, Rojava û Bakurê Kurdistanê jî ji Rûdawê re behsa rewşa kampên Yunanistanê dikin. Mihemed diyar kir ku rêwîtiya wî 15ê Îlonê ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d01bbe759d5b5101",
+    "url": "https://www.rudaw.net/kurmanci/categories/syria/1306436",
+    "title": "Li ser rêya Şam û Derayê qezaya giran: Zêdetirî 30 kesî birîndar bûn",
+    "title_en": "Li ser rêya Şam û Derayê qezaya giran: Zêdetirî 30 kesî birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) - Li başûrê Sûriyeyê li ser rêya navneteweyî ya di navbera Şam û Derayê de, di lihevqelibîna du wesayîtan de zêdetirî 30 kesî birîndar bûn. Li gorî medyaya Sûriyeyê, qeza li nêzîkî pira Xebebê ya li ser rêya sereke ya Şam û Derayê rû daye. Qeza di navbera wesayîteke veguhastina karkeran û mînîbuseke rêwiyan de çêbûye. Tîmên hawarçûnê bi lez xwe gihand cihê bûyerê û birîndar veguhastin Nexweşxaneya Bajarê Senemeynê ya li Derayê. Hat zanîn ku rewşa hinek ji birîndaran giran e. Li Sû",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6f78637ca90422a5",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306435",
+    "title": "Di civîna Baroya Stenbolê de parêzer pev çûn",
+    "title_en": "Di civîna Baroya Stenbolê de parêzer pev çûn",
+    "summary": "Hewlêr (Rûdaw) - Di Civîna Giştî ya Asayî ya 128an a Baroya Stenbolê de alozî derket û piştî pevçûna bi kulman a di navbera hinek parêzeran de, civîn 15 xulekan hat rawestandin. Civîna Giştî ya Asayî ya 128an a Baroya Stenbolê, piştî ku demjimêr 13:00an hejmara pêwîst a beşdaran hat temamkirin li Navenda Kongreyê ya Halîçê dest pê kir. Di dengdanê de ji bo birêvebirina civînê, komîteyeke ji serokek, alîkarekî serok û du endaman pêk tê hat hilbijartin. Piştî avakirina komîteyê, Îbrahîm Ozden Kabo",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44d28cb723ab3b3a",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306434",
+    "title": "Trump bersiv da Obama: Tu serokekî nezan bûyî",
+    "title_en": "Trump bersiv da Obama: Tu serokekî nezan bûyî",
+    "summary": "Hewlêr (Rûdaw) - Donald Trump bi peyameke tund bersiva daxuyaniyên Serokê berê yê Amerîkayê Barack Obama da û ew wekî \"serokekî bi temamî nezan\" bi nav kir. Trump her wiha bi tundî êrişî namzedê Demokratan ê eyaleta Michiganê kir û ji dengdêran xwest ku dengê xwe bidin namzedê Komariyan. Serokê Amerîkayê Donald Trump li ser hesabê xwe yê platforma Truth Socialê nivîsî: \"Obama serokekî bi temamî nezan bû! Wî bi milyaran dolar bac da Îranê û rê li ber wan xweş kir ku destê wan bigihêje çekên atomî",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f417e71a440942a8",
+    "url": "https://www.rudaw.net/kurmanci/categories/sport/1306433",
+    "title": "Tîma jinan a futbolê ya Geverê malik li Gîresun Sanayisporê xera kir: 13-0",
+    "title_en": "Tîma jinan a futbolê ya Geverê malik li Gîresun Sanayisporê xera kir: 13-0",
+    "summary": "Hewlêr (Rûdaw) - Tîma Jinan a Futbolê ya Yuksekovasporê li deplasmanê bi encameke dîrokî 13-0 zora Gîresun Sanayisporê bir. Maç di çarçoveya Lîga Super a Futbola Jinan a Suwenê de li Qada 75emîn Salê ya bajarê Gîresunê yê Tirkiyeyê hat lîstin. Tîma navçeya Geverê ya parêzgeha Colemêrgê ya Bakurê Kurdistanê bi lîstikeke bihêz li hemberî hevrika xwe lîst û bi bidestxistina 3 puanan ji qadê derket. Gola yekem a maça Yuksekovasporê xuleka 10an ji aliyê Aminata Haidarayê ve hat avêtin. Li pey wê Anas",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
