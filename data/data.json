@@ -428587,6 +428587,402 @@
     }
   },
   {
+    "id": "d9c55a345d3c51fd",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1080010",
+    "title": "PUK calls for boycott of long-awaited session while rivals work to secure quorum",
+    "title_en": "PUK calls for boycott of long-awaited session while rivals work to secure quorum",
+    "summary": "ERBIL, Kurdistan Region - The Patriotic Union of Kurdistan (PUK) on Tuesday called on political parties to refrain from participating in the scheduled “illegal” parliamentary session, as the ruling Kurdistan Democratic Party (KDP) staged a surprise push to reactivate the legislature after two years of deadlock. With the KDP and its allies holding 45 confirmed participants - just short of a 51-seat quorum - the PUK voiced concern that defections driven by coercion or incentives could allow its ri",
+    "source": "rudaw-english",
+    "category": "weather",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a3a0a9d4ee000429",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080009",
+    "title": "Iraq reaches agreement with Chevron amid US energy push",
+    "title_en": "Iraq reaches agreement with Chevron amid US energy push",
+    "summary": "ERBIL, Kurdistan Region - Iraq has reached agreements with US energy giant Chevron on the development of the West Qurna 2 oilfield with aims to finalize the contract by the end of November, as Baghdad seeks to expand US investment in its energy sector. Oil Minister Bassem Mohammed Khudair al-Abadi “confirmed on Tuesday that agreements have been reached with Chevron regarding the West Qurna 2 oil field contract,” state-run Iraqi News Agency reported. Mohsen al-Mandalawi, the deputy prime minister",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "positive",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d276c9fc2e87bc3c",
+    "url": "https://www.rudaw.net/sorani/categories/world/1875138",
+    "title": "هەموو شتێک لەبارەی هەڵبژاردنە چارەنووسسازەکەی ئەمریکا",
+    "title_en": "هەموو شتێک لەبارەی هەڵبژاردنە چارەنووسسازەکەی ئەمریکا",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2bbd6010f1de2112",
+    "url": "https://www.rudaw.net/sorani/categories/world/1875151",
+    "title": "بۆچی گوێدرێژ و فیل بوونەتە هێمای دیموکرات و کۆمارییەکانی ئەمریکا؟",
+    "title_en": "بۆچی گوێدرێژ و فیل بوونەتە هێمای دیموکرات و کۆمارییەکانی ئەمریکا؟",
+    "summary": "رووداو دیجیتاڵ لە گۆڕەپانی سیاسیی ئەمریکادا دوو ئاژەڵ بوونەتە ناسنامەی دیاری دوو پارتە سەرەکییەکە. گوێدرێژ هێمای دیموکراتەکانە و فیلیش هێمای کۆمارییەکانە. بەکارهێنانی ئەم دوو هێمایەش دەگەڕێتەوە بۆ سەتەی نۆزدەیەم و لە کاریکاتێری سیاسییەوە سەریان هەڵداوە. گوێدرێژەکەی دیموکراتەکان چۆن دروستبوو؟ چیرۆکەکە بۆ ساڵی 1828 دەگەڕێتەوە، لە هەڵمەتی هەڵبژاردنی ئەندرۆ جاکسن، بەربژێری دیموکراتەکان بۆ سەرۆکایەتیی ئەمریکا. لەو کاتەدا رکابەرە سیاسییەکانی جاکسن بۆ سووکایەتیکردن پێی، ناویان نا \"گوێدرێژ\" (Jackass)، ب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "607873f9ce8dc5d5",
+    "url": "https://www.rudaw.net/sorani/categories/world/1875139",
+    "title": "هاووڵاتییانی ئەمریکا دەنگ دەدەن؛ ئەنجامی هەڵبژاردنەکە کاریگەری لەسەر دەسەڵاتی سەرۆکایەتیی ترەمپ دەبێ",
+    "title_en": "هاووڵاتییانی ئەمریکا دەنگ دەدەن؛ ئەنجامی هەڵبژاردنەکە کاریگەری لەسەر دەسەڵاتی سەرۆکایەتیی ترەمپ دەبێ",
+    "summary": "رووداو - دیجیتاڵ هەڵبژاردنی نیوەخولی ئەمریکا بەردەوامە و ملیۆنان هاووڵاتی دەنگیان داوە. ئەم هەڵبژاردنە وەک گشتپرسییەک لەسەر کاری دۆناڵد ترەمپ سەیر دەکرێ و دووریش نییە ئەنجامەکەی بەجۆرێک بێ دیموکراتەکان لە کۆنگرێس ببنە زۆرینە. راپرسییەکان پێشبینی دەکەن دیموکراتەکان دەتوانن زۆرینەی کورسییەکانی ئەنجوومەنی نوێنەران ببەنەوە و ئەگەری هەیە ئەنجوومەنی پیرانیش کۆنترۆڵ بکەن، ئەوەش بەهۆی ناڕەزایەتیی دەنگدەران لە بەرزبوونەوەی نرخی وزە، هەڵاوسان بەهۆی کاریگەریی جەنگ لەگەڵ ئێران. لەدەستدانی ئەنجوومەنی نوێنەرا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ef017760c76fbc95",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1875135",
+    "title": "ترەمپ هێرشکردنە سەر ئێرانی پشتڕاست کردەوە",
+    "title_en": "ترەمپ هێرشکردنە سەر ئێرانی پشتڕاست کردەوە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا پشتڕاستیکردەوە کە شەوی رابردوو هێزەکانی وڵاتەکەی هێرشێکی سنوورداریان کردووەتە سەر دامەزراوەیەکی بەرگریی ئاسمانیی ئێران لە دوورگەی قیشم، هاوکات جەختی لەوە کردەوە کە هێرشەکە سنووردار بووە و نایەوێت خەڵکێکی زۆر بکوژرێن. رۆژی سێشەممە، 3ـی تشرینی دووەمی 2026، لە هەڤپەیڤینێکی تەلەفۆنیدا لەگەڵ کەناڵی (فۆکس نیوز)، دۆناڵد ترەمپ لەبارەی هێرشەکە گوتی، \"ئەوان دامەزراوەیەکی بەرگریی دژەفڕۆکەیان دروستکردبوو، ئێمەش بۆ ماوەی دوو مانگ چاودێریی دروستکردنەکەیمان دەکرد، شە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b11c619f16411ad",
+    "url": "https://www.rudaw.net/sorani/categories/world/1875141",
+    "title": "هێرشێکی ئەلیکترۆنی دەکرێتە سەر سیستمی ساردکەرەوەی فرۆشگەکانی 11 وڵاتی ئەورووپا",
+    "title_en": "هێرشێکی ئەلیکترۆنی دەکرێتە سەر سیستمی ساردکەرەوەی فرۆشگەکانی 11 وڵاتی ئەورووپا",
+    "summary": "رووداو - دیجیتاڵ لانیکەم 11 وڵاتی ئەورووپا رووبەڕووی زنجیرەیەک هێرشی ئەلیکترۆنی بوونەوە کە سیستمی ساردکەرەوەی مارکێت و فرۆشگەکانی خۆراکی کردە ئامانج، ئەمەش بووەهۆی تێکچوونی بڕێکی زۆر لە خۆراک و یەکێتیی ئەورووپاش هۆشداری لە هەوڵێکی بە مەبەست بۆ تێکدانی زنجیرەی دابینکردنی خۆراک لە کیشوەرەکە دەدات. رۆژی سێشەممە 03-11-2026، هەریەکە لە ئەڵمانیا، رۆمانیا و بەریتانیا چوونە نێو لیستی ئەو وڵاتانەی لە چەند رۆژی رابردوودا بەهۆی هێرشی ئەلیکترۆنی بۆ سەر سیستمی ساردکەرەوەی سوپەرمارکێتەکان زیانیان بەرکەوتووە. ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ec6359c54b207ce9",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1875136",
+    "title": "حکومەتی ئیتاڵیا داوا لە هاووڵاتییانی دەکات سەردانی ئێران و کەنداو نەکەن",
+    "title_en": "حکومەتی ئیتاڵیا داوا لە هاووڵاتییانی دەکات سەردانی ئێران و کەنداو نەکەن",
+    "summary": "رووداو دیجیتاڵ وەزارەتی دەرەوەی ئیتاڵیا رێنمایی و هۆشدارییەکانی گەشتکردنی بۆ ئێران و چەند وڵاتێک نوێکردەوە و داوا لە هاووڵاتییانى دەکات سەردانییان نەکەن. بەپێی راگەیێندراوی یەکەی قەیرانەکانی سەر بە وەزارەتی دەرەوەی ئیتاڵیا، داوا لە هاووڵاتییانی ئیتاڵیا کراوە لە هەر جۆرە گەشتکردنێک بۆ ئێران خۆیان بەدوور بگرن. لە رێنماییەکاندا ئەوەش هاتووە، ئەو کەسانەی لە ئێرانن پێویستە بەوپەڕی وریاییەوە مامەڵە بکەن، بەتایبەت لە شەودا و بە هیچ شێوەیەک وێنە و ڤیدیۆیش نەگرن تاوەکو تووشی مەترسیی دەستگیرکردن نەبن، لەگ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b3ce796b2d23d6b0",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1875134",
+    "title": "لە رووداوێکی دەگمەندا؛ ژنێکی تەمەن 64 ساڵ لە ئەنبار بە سرووشتی منداڵی بوو",
+    "title_en": "لە رووداوێکی دەگمەندا؛ ژنێکی تەمەن 64 ساڵ لە ئەنبار بە سرووشتی منداڵی بوو",
+    "summary": "رووداو دیجیتاڵ لە نەخۆشخانەی منداڵبوون و فریاکەوتنی گەرمە لە پارێزگای ئەنبار، رووداوێکی دەگمەنی لەدایکبوونی تۆمار کراوە، ژنێکی تەمەن 64 ساڵ بە شێوەیەکی سرووشتی کچێکی بووە. محەممەد عادل قەیسی، گوتەبێژی تەندروستیی ئەنبار، ئەمڕۆ سێشەممە ( 3 تشرینی دووەمی 2026) بۆ تۆڕی میدیایی رووداو، زانیارییەکانی پشتڕاستکردەوە و ئاماژەی بەوە کرد: \"لە هۆڵی منداڵبوونی نەخۆشخانەی گەرمە، ژنێکی تەمەن 64 ساڵ منداڵێکی کچی بە شێوەیەکی سرووشتی بووە؛ ئەمەش بەهۆی تەمەنی زۆری دایکەکەوە بە رووداوێکی زۆر دەگمەن و نائاسایی لە رو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "5213eb0a4868da0c",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875133",
+    "title": "عەلی زەیدی بە جلی کوردییەوە سەردانی هەولێر دەکات",
+    "title_en": "عەلی زەیدی بە جلی کوردییەوە سەردانی هەولێر دەکات",
+    "summary": "رووداو دیجیتاڵ پەرلەمانتارێکی فراکسیۆنی پارتی دیموکراتی کوردستان لە پەرلەمانی عێراق رایدەگەیێنێت، عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق، داوای لێکردووە دەستێک جلی کوردیی بۆ ببات، تاوەکو بەو جلانەوە سەردانی هەولێر بکات. سەلوان ئاکرەیی، پەرلەمانتاری فراکسیۆنی پارتی، ئەمڕۆ سێشەممە (3ی تشرینی دووەمی 2026) لە لێدوانێکدا بۆ تۆڕی میدیایی رووداو باسی لەوە کرد، کە لە کۆبوونەوەی ئەمڕۆی شاندی فراکسیۆنەکەیان لەگەڵ سەرۆکوەزیرانی عێراق، تاکە پەرلەمانتار بووە بە جلوبەرگی کوردییەوە بەشداریی کۆبوونەوەکەی کردووە، ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "44327bfc51de2435",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875132",
+    "title": "وردەکاریی دانیشتنەکەی سبەی پەرلەمان لەنێوان دوو بەرەی پەرلەمانیی جیاوازدا",
+    "title_en": "وردەکاریی دانیشتنەکەی سبەی پەرلەمان لەنێوان دوو بەرەی پەرلەمانیی جیاوازدا",
+    "summary": "بڕیارە سبەی چوارشەممە، پەرلەمانی کوردستان کۆببێتەوە. ئەمەش دوای ئەوەی کە سەرۆکایەتیی دیوانی پەرلەمانی کوردستان و سەرۆکی فراکسیۆنی پارتی بانگهێشتی سەرجەم پەرلەمانتارانی کوردستان و پەرلەمانتارانی پارتییان کرد بۆ دانیشتنەکە.  پێشنیوەڕۆی سێشەممە، سەرۆکایەتیی دیوانی پەرلەمانی کوردستان لە راگەیێندراوێکدا رایگەیاند: \"بانگهێشتی گشت ئەندامە بەڕێزەکانی پەرلەمان دەکەین بۆ تەواوکردنی بڕگەکانی دانیشتنی (یەکەم)ی خولی پاییزەی ساڵی یەکەم لە خولی هەڵبژاردنی شەشەمی پەرلەمانی کوردستان - عێراق، لە کاژێر 11:00ی پێشن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4e844a450f7486f2",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875126",
+    "title": "کێ سەرۆکایەتیی دانیشتنەکەی پەرلەمان دەکات؟",
+    "title_en": "کێ سەرۆکایەتیی دانیشتنەکەی پەرلەمان دەکات؟",
+    "summary": "رووداو دیجیتاڵ ئەگەر دانیشتنەکەی سبەی پەرلەمانی کوردستان سەر بگرێت، بە تەمەنترین پەرلەمانتاری ئامادەی نێو هۆڵەکە سەرۆکایەتیی دانیشتنەکە دەکات. رۆژی 02-12-2024، بەربژێرانی سەرکەوتووی خولی شەشەمی پەرلەمانی کوردستان سوێندی یاساییان خوارد و یەکەم دانیشتنی پەرلەمان بە سەرۆکایەتیی محەممەد سلێمان، کە لە دایکبووی ساڵی 1948ـە؛ پەرلەمانتاری بەتەمەنی نەوەی نوێ بەڕێوەچوو. بەڵام لە 22ی کانوونی دووەمی 2025، محەممەد سلێمان، دەستلەکارکێشانەوەی خۆی راگەیاند و گوتی، \"ئامانجم خزمەتکردن بوو، ناتوانم لە پۆستێک بمێنم",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d06dafd246712ac0",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875123",
+    "title": "لە رووباری مەریچ بەلەمێکی کۆچبەران ژێرئاوکەوت؛ 2 منداڵی عێراقی بێسەروشوێنن",
+    "title_en": "لە رووباری مەریچ بەلەمێکی کۆچبەران ژێرئاوکەوت؛ 2 منداڵی عێراقی بێسەروشوێنن",
+    "summary": "رووداو دیجیتاڵ لە سنووری نێوان تورکیا و یۆنان، بەلەمێکی کۆچبەرانی نایاسایی ژێرئاو کەوت، لە ئەنجامدا دوو منداڵی تەمەن شەش ساڵان کە خەڵکی عێراقن بێسەروشوێن بوون و گەڕان بەدوایاندا دەستی پێکردووە. رۆژی سێشەممە، 3ـی تشرینی دووەمی 2026، رەنج پشدەری، چالاکڤانی بواری کۆچبەران لە ئەورووپا بە تۆڕی میدیایی رووداوی گوت: \"ئەمڕۆ لە رووباری مەریچ لە پارێزگای ئەدیرنە بەلەمێکی کۆچبەری نایاسایی نقوم بووە و دوو منداڵ بێسەروشوێن بوون. بەلەمەکە لە کاتی پەڕینەوەی بەرەو یۆنان، نقوم بووە.\" سەبارەت بە چارەنووسی سەرنشین",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f855a3cf05d0c5ed",
+    "url": "https://www.rudaw.net/sorani/categories/economic/1875110",
+    "title": "ئەمریکا.. لە رۆژی دەنگداندا نرخی سووتەمەنی ژمارەی پێوانەیی شکاند",
+    "title_en": "ئەمریکا.. لە رۆژی دەنگداندا نرخی سووتەمەنی ژمارەی پێوانەیی شکاند",
+    "summary": "رووداو دیجیتاڵ لەگەڵ چوونە سەر سندووقەکانی دەنگدان لە هەڵبژاردنی نیوەی خولی کۆنگرێسی ئەمریکا لە رۆژی سێشەممە، نرخی بەنزین بەرزترین ئاستی مێژوویی تۆمار کرد. بەپێی داتاکانی کۆمەڵەی ئۆتۆمبێلی ئەمریکی (AAA)، نرخی یەک گاڵۆن (نزیکەی 3.7 لیتر) بەنزینی ئاسایی رۆژی دووشەممە گەیشتووەتە 4.17 دۆلار. ئەم نرخانە بەراورد بە کاتی هەڵبژاردنی سەرۆکایەتیی 2024 زۆر بەرزترن، ئەو کاتەی نرخی گاڵۆنێک بەنزین تەنیا 3.10 دۆلار بوو. هەرچەندە دۆناڵد ترەمپ لە بانگەشەی هەڵبژاردنی 2024دا بەڵێنی دابوو نرخی بەنزین بۆ 2 دۆلار داب",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "beb026f887d4ec26",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1875142",
+    "title": "بارسێلۆنا لە ئاستۆن ڤێلای بردەوە و مانچێستەر ریمۆنتادای بەسەر رۆمادا کرد",
+    "title_en": "بارسێلۆنا لە ئاستۆن ڤێلای بردەوە و مانچێستەر ریمۆنتادای بەسەر رۆمادا کرد",
+    "summary": "رووداو دیجیتاڵ یانەی بارسێلۆنای ئیسپانی ئاستتێکی بەهێزی پێشکێش کرد و بە سێ گۆڵی بێبەرامبەر سەرکەوتنێکی گرنگی بەسەر میوانەکەی، یانەی ئاستۆن ڤێلای ئینگلیزیدا تۆمارکرد، لە چوارچێوەی یارییەکانی گەڕی چوارەمی قۆناخی چامپیۆنزلیگدا. بەو سەرکەوتنە، بارسێلۆنا بە راهێنەرایەتی هانزی فلیک کۆی خاڵەکانی گەیاندە 9 خاڵ و دوای شکستی گەڕی رابردوو بەرامبەر پاریس سانجێرمان، دووبارە هاوسەنگیی گەڕاندەوە بۆ ئەنجامەکانی. لە هەمان گەڕدا، یانەی پاریس سانجێرمان بە ئەنجامێکی گەورە و بە 6 گۆڵی بێبەرامبەر لە یانەی ڤیاڕیالی ئی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "becf15ff87efef6b",
+    "url": "https://www.rudaw.net/sorani/categories/interview/1875124",
+    "title": "ئیخلاس دلێمی: دوو بژاردە لەبارەی پشکی هەرێمی کوردستان لە بودجە لەگەڵ زەیدی تاوتوێ کران",
+    "title_en": "ئیخلاس دلێمی: دوو بژاردە لەبارەی پشکی هەرێمی کوردستان لە بودجە لەگەڵ زەیدی تاوتوێ کران",
+    "summary": "رووداو دیجیتاڵ ئیخلاس دلێمی، ئەندامی لیژنەی دارایی لە پەرلەمانی عێراق و پەرلەمانتاری فراکسیۆنی پارتی دیموکراتی کوردستان رایدەگەیێنێت، لە کۆبوونەوەیان لەگەڵ سەرۆکوەزیرانی عێراق دوو بژاردە لەبارەی پشکی هەرێمی کوردستان لە پرۆژەیاسای بودجە باسکران و گوتیشی، نوێنەرانی کورد لەگەڵ وەزیری دارایی عێراق کۆدەبنەوە و سبەی مووچەی فەرمانبەران و مووچەخۆرانی هەرێمی کوردستان خەرج دەکرێت. لە دوای کۆبوونەوەی فراکسیۆنی پارتی دیموکراتی کوردستان لە پەرلەمانی عێراق لەگەڵ عەلی فالح زەیدی، سەرۆکوەزیرانی عێراق، نەخشەڕێیە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b7643734c4ca134b",
+    "url": "https://www.rudaw.net/sorani/categories/world/1875153",
+    "title": "ترەمپ: هیچ پلانێکی دەستبەجێمان بۆ هێرشکردنە سەر ئێران نییە",
+    "title_en": "ترەمپ: هیچ پلانێکی دەستبەجێمان بۆ هێرشکردنە سەر ئێران نییە",
+    "summary": "رووداو دیجیتاڵ دۆناڵد ترەمپ، سەرۆکی ئەمریکا رایگەیاند، وڵاتەکەی هیچ پلانێکی دەستبەجێی بۆ هێرشکردنە سەر ئێران نییە، بەمەش ئەو دەنگۆیانەی رەتکردەوە کە گوایە دوای تەواوبوونی هەڵبژاردنەکانی نیوەخولی کۆنگرێس، هێرشە سەربازییەکانی بۆ سەر تاران دەستپێدەکاتەوە. ترەمپ لە چاوپێکەوتنێکی تەلەفۆنیدا لەگەڵ رۆژنامەی \"فاینانشاڵ تایمز\"ی بەریتانی، ئاماژەی بەوە کرد کە لە دۆخی ئێستای رووبەڕووبوونەوە لەگەڵ ئێران رازییە و گوتی: \"وا دیارە هەموو ئەو شتانە بەدەستدەهێنین کە دەمانەوێن.\" سەبارەت بە لێدوانەکانی بنیامین نەتەن",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7d14159c66245069",
+    "url": "https://www.rudaw.net/kurmanci/categories/world/1306743",
+    "title": "NYT: Dibe ku Amerîka piştî hilbijartinan êrişî Îranê bike",
+    "title_en": "NYT: Dibe ku Amerîka piştî hilbijartinan êrişî Îranê bike",
+    "summary": "Hewlêr (Rûdaw) - Medyaya Amerîkayê ragihand ku artêşa Amerîkayê ji bo operasyoneke leşkerî ya li ser Îranê amade ye. Li gorî medyayê, eger erêkirina dawî derkeve, dibe ku operasyon yekser piştî hilbijartinên navberê yên Kongreyê û herî zû roja çarşemê dest pê bike. Aloziya leşkerî ya di navbera Amerîka û Îranê de gihîşt qonaxa xwe ya herî krîtîk. Li gorî nûçeya taybet a rojnameya Amerîkayî The New York Timesê (NYT) ku xwe dispêre çavkaniyên payebilind, Pentagonê amadekariyên xwe yên ji bo operas",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b771730b6b0b99c3",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1306742",
+    "title": "Demîrtaş li ser Ocalan û pêvajoyê daxuyaniyek da",
+    "title_en": "Demîrtaş li ser Ocalan û pêvajoyê daxuyaniyek da",
+    "summary": "Hewlêr (Rûdaw) - Hevserokê Giştî yê berê yê HDPyê Selahattin Demirtaşê ku li Girtîgeha Edirneyê girtî ye, di nivîsa xwe ya li ser malpera QAD-Meydana Aşitiyê de bal kişand ser berpirsyariya dewletê ya ji bo demokratîkbûnê û ya rêxistinê ya ji bo çekdanînê. Demirtaş diyar kir ku ji bo bipêşveçûna pêvajoyê divê mercên ku Abdullah Ocalan karibe rola xwe pêk bîne bên amadekirin. Wî her wiha da zanîn ku divê PKK lezê bide çekdanînê û civak jî bibe bingeha sereke ya pêvajoya aştiyê. Selahattin Demirta",
+    "source": "rudaw-kurmanci",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3452fe1b0a93e8f1",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1306741",
+    "title": "Li Kobaniyê 'Festîvala Bisk û Zulfên Aştiyê ya Şanoyê' dibe pira dan û standinê",
+    "title_en": "Li Kobaniyê 'Festîvala Bisk û Zulfên Aştiyê ya Şanoyê' dibe pira dan û standinê",
+    "summary": "Kobanî (Rûdaw) - Li bajarê Kobaniyê yê Rojavayê Kurdistanê, Festîvala Şanoyê ya \"Arîn Bisk û Zulfên Aştiyê\" ya 4emîn bi rê ve diçe. Festîval 30ê Çiriya Pêşîn li Navenda Çand û Hunerê ya Baqî Xido dest pê kir û dê 6 rojan bidome. Ev çalakî bi hevkariya Tevgera Çand û Hunera Mezopotamyayê (TEV-ÇAND) û bi dirûşma \"Ji Her Bajarekî Çîrokek, Ji Her Dilekî Romanek\" tê lidarxistin. Piştî salên dijwar ên şer li bajêr, perdeya şanoyê careke din vebû û ronahî ket ser dikê. 8 kom beşdarî festîvalê dibin Ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f19242cdd2d29b85",
+    "url": "https://www.rudaw.net/kurmanci/categories/chan/1306743",
+    "title": "NYT: Dibe ku Amerîka piştî hilbijartinan êrişî Îranê bike",
+    "title_en": "NYT: Dibe ku Amerîka piştî hilbijartinan êrişî Îranê bike",
+    "summary": "Hewlêr (Rûdaw) - Medyaya Amerîkayê ragihand ku artêşa Amerîkayê ji bo operasyoneke leşkerî ya li ser Îranê amade ye. Li gorî medyayê, eger erêkirina dawî derkeve, dibe ku operasyon yekser piştî hilbijartinên navberê yên Kongreyê û herî zû roja çarşemê dest pê bike. Aloziya leşkerî ya di navbera Amerîka û Îranê de gihîşt qonaxa xwe ya herî krîtîk. Li gorî nûçeya taybet a rojnameya Amerîkayî The New York Timesê (NYT) ku xwe dispêre çavkaniyên payebilind, Pentagonê amadekariyên xwe yên ji bo operas",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d852bd7cc9558245",
+    "url": "https://www.rudaw.net/kurmanci/categories/huner/1306741",
+    "title": "Li Kobaniyê 'Festîvala Bisk û Zulfên Aştiyê ya Şanoyê' dibe pira dan û standinê",
+    "title_en": "Li Kobaniyê 'Festîvala Bisk û Zulfên Aştiyê ya Şanoyê' dibe pira dan û standinê",
+    "summary": "Kobanî (Rûdaw) - Li bajarê Kobaniyê yê Rojavayê Kurdistanê, Festîvala Şanoyê ya \"Arîn Bisk û Zulfên Aştiyê\" ya 4emîn bi rê ve diçe. Festîval 30ê Çiriya Pêşîn li Navenda Çand û Hunerê ya Baqî Xido dest pê kir û dê 6 rojan bidome. Ev çalakî bi hevkariya Tevgera Çand û Hunera Mezopotamyayê (TEV-ÇAND) û bi dirûşma \"Ji Her Bajarekî Çîrokek, Ji Her Dilekî Romanek\" tê lidarxistin. Piştî salên dijwar ên şer li bajêr, perdeya şanoyê careke din vebû û ronahî ket ser dikê. 8 kom beşdarî festîvalê dibin Ji ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
