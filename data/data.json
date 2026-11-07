@@ -437911,6 +437911,294 @@
     }
   },
   {
+    "id": "56e068209d770d4e",
+    "url": "https://www.rudaw.net/english/categories/kurdistan/1080061",
+    "title": "One killed, five-year-old child found dead after flash floods hit Erbil",
+    "title_en": "One killed, five-year-old child found dead after flash floods hit Erbil",
+    "summary": "ERBIL, Kurdistan Region - Flash floods triggered by torrential rain killed a 25-year-old volunteer bulldozer operator and a five-year-old child in Erbil on Saturday, as floodwaters swept away vehicles, inundated homes and disrupted traffic across several areas of the Kurdistan Region. \"Unfortunately, there are casualties,\" Erbil Governor Omed Khoshnaw said in a statement on Saturday evening. According to preliminary information provided by Khoshnaw, a 25-year-old bulldozer operator was swept awa",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0624de4731e97fc5",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080062",
+    "title": "Kataib Hezbollah accuses Iraqi PM, aide of amassing billions in alleged illicit wealth",
+    "title_en": "Kataib Hezbollah accuses Iraqi PM, aide of amassing billions in alleged illicit wealth",
+    "summary": "ERBIL, Kurdistan Region - The security chief of pro-Iran Kataib Hezbollah on Saturday accused Iraqi Prime Minister Ali al-Zaidi and his top aide of amassing billions of dollars in alleged illicit wealth, while denying that the armed group controls commercial contracts at Iraqi airports and threatening to expose alleged plots targeting the Kurdistan Region’s Khor Mor gas field. \"How was your massive financial empire built, which Mr. al-Zaidi acknowledged, amounting to nearly (21) trillion dinars ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a1aa5c7e9ff5516a",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080060",
+    "title": "Iraqi PM cancels Mosul airport contracts linked to armed groups",
+    "title_en": "Iraqi PM cancels Mosul airport contracts linked to armed groups",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Prime Minister Ali al-Zaidi on Saturday ordered the cancellation of three commercial contracts at Mosul International Airport over the companies’ alleged links to armed groups, directing that the contracts be awarded to international firms, Iraqi state media reported. According to the Iraqi News Agency (INA), citing a source, Zaidi has directed “the cancellation of the contract of 'Sky Plus' company for leasing counters at Mosul Airport against the backdrop of its",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0ee960a4ab740ca7",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1875511",
+    "title": "منداڵ و گەنجەکەی هەولێر چۆن لەنێو لافاو خنکان؟",
+    "title_en": "منداڵ و گەنجەکەی هەولێر چۆن لەنێو لافاو خنکان؟",
+    "summary": "رووداو دیجیتاڵ رۆژی شەممە، لافاو زۆربەی شاری هەولێر و دەوروبەری گرتەوە، بەپێی قسەی بەرپرسان تائێستا گیانلەدەستدانی دوو کەس پشتڕاست کراوەتەوە و چەند کەسێکیش هێشتا بێسەروشوێنن. بەپێی زانیارییەکانی رووداو، ئەو دوو کەسەی گیانیان لەدەستداوە، پیاوێکی نزیک لە 25 ساڵانە بەناوی محەممەد رەسووڵ لەگەڵ منداڵێکی 5 ساڵان بەناوی مستەفا سەرکەوت، بەڵام لە دوو ناوچەی جیای شاری هەولێر.   چیرۆکی خنکانی محەممەد رەسووڵ لەبارەی خنکانی محەممەد رەسووڵەوە، رووداو زانیویەتی لە کاتی لافاوە بەهێزەکەی هەولێر، لە ماڵی خۆی رادە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "95cd4bb9432c943a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875510",
+    "title": "کاریگەرییەکانی لافاو و راگەیاندنی پشوو لە چەند پارێزگا و شارێک",
+    "title_en": "کاریگەرییەکانی لافاو و راگەیاندنی پشوو لە چەند پارێزگا و شارێک",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93b1a718b7b43e4c",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1875509",
+    "title": "کەتیبەکانی حیزبوڵڵا بۆ عەلی زەیدی: 13 ملیار دۆلارت لە کوێ بوو؟",
+    "title_en": "کەتیبەکانی حیزبوڵڵا بۆ عەلی زەیدی: 13 ملیار دۆلارت لە کوێ بوو؟",
+    "summary": "رووداو دیجیتاڵ لە پێشهاتێکی نوێی ململانێی نێوان گرووپە چەکدارەکان و حکومەتی عێراق، بەرپرسی ئەمنیی کەتیبەکانی حیزبوڵڵا لە راگەیێندراوێکی توونددا وێڕای رەتکردنەوەی دەستبەسەرداگرتنی گرێبەستەکانی فڕۆکەخانەکان، تۆمەتی کەڵەکەبوونی سامانی 21 تریلیۆن دیناری دەخاتە پاڵ عەلی زەیدی و هەڕەشەی هەڵدانەوەی دۆسیەی هێرشکردنە سەر کێڵگەی کۆرمۆریش دەکات. لە خاڵی یەکەم و دووەمی راگەیێندراوەکەدا هاتووە: \" ئەوەی کەناڵی (ئەلعەرەبییە)ـی سعوودی بڵاوی کردووەتەوە لەبارەی دەستبەسەرداگرتنی گرێبەستەکانی نێو فڕۆکەخانەکان لەلای",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2614fab131753984",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875506",
+    "title": "پارێزگاری هەولێر پشووی فەرمیی لە سەرجەم ناوەندەکانی خوێندن راگەیاند",
+    "title_en": "پارێزگاری هەولێر پشووی فەرمیی لە سەرجەم ناوەندەکانی خوێندن راگەیاند",
+    "summary": "",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2814db2dbe19b5bd",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1875508",
+    "title": "سەرۆککۆماری ئیسرائیل گادی ئایزنکۆت بۆ پێکهێنانی حکومەتی نوێ رادەسپێرێت",
+    "title_en": "سەرۆککۆماری ئیسرائیل گادی ئایزنکۆت بۆ پێکهێنانی حکومەتی نوێ رادەسپێرێت",
+    "summary": "ئیسحاق هێرزۆگ، سەرۆککۆماری ئیسرائیل بڕیاری دا ئەرکی پێکهێنانی حکومەتی نوێی وڵاتەکەی بە گادی ئایزنکۆت، سەرکردەی ئۆپۆزیسیۆن بسپێرێت. ئەم هەنگاوە دوای ئەوە دێت زۆرینەی پەرلەمانتاران پێشنیازی ئایزنکۆتیان کرد و ئەگەری دوورخستنەوەی بنیامین نەتانیاهوو لە دەسەڵات گەیشتە بەرزترین ئاست. ئەمڕۆ شەممە 7ی تشرینی دووەمی 2026، نووسینگەی سەرۆککۆماری ئیسرائیل رایگەیاند، هێرزۆگ بە فەرمی گادی ئایزنکۆت، سەرۆکی پارتی یەشاری ئاگادارکردووەتەوە لە بڕیارەکەی بۆ راسپاردنی تاوەکو حکومەت پێکبهێنێت. رێوڕەسمی فەرمیی راسپاردنە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e4bb2f2762b1184c",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1875507",
+    "title": "بوومەلەرزەیەک لە سلێمانی روویدا",
+    "title_en": "بوومەلەرزەیەک لە سلێمانی روویدا",
+    "summary": "رووداو دیجیتاڵ دەستەی گشتیی کەشناسی و بوومەلەرزەزانیی عێراق دەڵێ، ئەمشەو بوومەلەرزەیەک بە گوڕی سێ پلە بە پێوەری رێختەر لە سنووری باکووری شاری سلێمانی لە هەرێمی کوردستان تۆمارکراوە. بەپێی راگەیێندراوێکی بەشی چاودێریی بوومەلەرزە سەر بە دەستەی گشتیی کەشناسی و بوومەلەرزەزانی، بوومەلەرزەکە کاژێر 09:19 خولەکی ئەمشەو، 7ـی تشرینی دووەمی 2026 لە باکووری شاری سلێمانی روویداوە. وەک لە راپۆرتەکەدا هاتووە، گوڕی بوومەلەرزەکە سێ پلە بووە بە پێوەری رێختەر و لەلایەن دانیشتووانی ئەو ناوچانەی لە چەقی بوومەلەرزەکەو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c8cd3608727348f6",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1875493",
+    "title": "لە ئامەدەوە داوای بەفەرمیکردنی زمانی کوردی دەکرێت",
+    "title_en": "لە ئامەدەوە داوای بەفەرمیکردنی زمانی کوردی دەکرێت",
+    "summary": "رووداو دیجیتاڵ بە دەستپێشخەریی رێکخراوی پێنی نێودەوڵەتی، رێکخراوی پێنی کورد و پێنج شارەوانیی ناوەندیی ئامەد، کۆنفرانسی (ئەدەب و ئاشتی) لە باکووری کوردستان بەڕێوەچوو. نووسەران و رۆشنبیرانی کورد و نێودەوڵەتی داوایان لە دەوڵەتی تورکیا کرد زمانی کوردی بە فەرمی بناسێنێت و زیندانییانی سیاسی ئازاد بکات، هاوکات کۆتایی بە دانانی قەییووم لەسەر شارەوانییەکان بهێنێت. رۆژانی 5 و 6ـی تشرینی دووەمی 2026، لە شاری ئامەدی باکووری کوردستان کۆنفرانسی نێودەوڵەتیی (ئەدەب و ئاشتی) بەڕێوەچوو. ژمارەیەکی بەرچاو لە نووسەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "41b4d1da85a2cbec",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1875512",
+    "title": "ریزبەندیی لالیگا دوای سەرکەوتنی ریال مەدرید بەسەر ڤالێنسیا",
+    "title_en": "ریزبەندیی لالیگا دوای سەرکەوتنی ریال مەدرید بەسەر ڤالێنسیا",
+    "summary": "رووداو دیجیتاڵ ریال مەدرید سەرکەوتنێکی گەورەی بەدەستهێنا کاتێک لە دەرەوەی یاریگای خۆی بە ئەنجامی 3-0 گۆڵ لە یانەی ڤالێنسیا بردەوە، ئەوەش لە یارییەکانی گەڕی یازدەیەمی لالیگادا کە ئێوارەی رۆژی شەممە بەڕێوەچوو. فیدێریکۆ ڤاڵڤێردی لە خولەکی 28دا گۆڵی پێشکەوتنی بۆ یانەی شاهانە تۆمارکرد، و لە خولەکی 36شدا ئاردا گولەر گۆڵی دووەمی زیادکرد. هەروەها کیلیان ئێمباپێ لە خولەکی 75دا گۆڵی سێیەمی تۆمارکرد و سەرکەوتنی ریال مەدریدی بەسەر 'شەمشەمەکوێرەکان'ـدا یەکلاکردەوە. بەم ئەنجامە، کێبڕکێ لەسەر پێشەنگی ریزبەندی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f0284b70cb945d72",
+    "url": "https://www.rudaw.net/kurmanci/categories/diaspora/1306881",
+    "title": "Banga bijîşkên li diyasporayê: Em amade ne piştgiriya lêkolîneran bikin",
+    "title_en": "Banga bijîşkên li diyasporayê: Em amade ne piştgiriya lêkolîneran bikin",
+    "summary": "Hewlêr (Rûdaw) – Seroka Lijneya Birîvebiriya Federasyona Zanist û Bijîşkiyê ya Kurdistanê ya li Brîtanyayê Dr. Hero Xoşnaw ragihand ku ew amade ne her cûre piştgiriya zanistî bidin lêkolînerên li Herêma Kurdistanê. Hero Xoşnawê bal kişand ser kêmasiya daneyên berfireh ên derbarê nexweşiyên kêmpeyda ên li herêmê û bangî Wezareta Tenduristiyê kir ku binesaziya statîstîkî bihêz bike. Di Konferansa 3yemîn a Salane ya Bijîşkî û Zanistê de ku ji aliyê Federasyona Zanist û Bijîşkiyê ya Kurdistanê ya li",
+    "source": "rudaw-kurmanci",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "450cbdcb701de345",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306880",
+    "title": "Berîtan Guneş: Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye",
+    "title_en": "Berîtan Guneş: Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye",
+    "summary": "Hewlêr (Rûdaw) - Parlamentera DEM Partiyê ya Mêrdînê Berîtan Guneşê ragihand ku divê Wezareta Çand û Geştyariyê ya Tirkiyeyê ji budceya xwe para çalakiyên ziman û çanda Kurdî bide û got, “Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye.” Berîtan Guneşê xwest ku birêvebiriyeke taybet a parastina ziman were avakirin. Guneşê talankirin û Tirkîkirina stranên Kurdî wekî \"sûcekî hiqûqî û mirovahiyê\" bi nav kir û tekez kir ku naskirina statuyê ji bo zimanê Kurdî Tirkiyeyê lawaz nake, berovajî wê yekê bihêzt",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8318b5666e8eb99e",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1306879",
+    "title": "Herzog erkê avakirina hikûmetê da Eisenkot",
+    "title_en": "Herzog erkê avakirina hikûmetê da Eisenkot",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Îsraîlê Isaac Herzog, erka avakirina hikûmetê da Gadi Eisenkotê ku hevrikê herî bihêz ê Serokwezîr Benjamin Netanyahu ye. Piştî hilbijartinên 27ê Çiriya Pêşîn ên li Îsraîlê, pêvajoya avakirina hikûmetê gihîşt qonaxeke krîtîk. Serokkomar Isaac Herzog diyar kir ku ji 120 parlamenteran 67 kesan piştgirî da Gadi Eisenkot. Her wiha 46 parlamenteran jî piştgirî da Serokwezîrê niha Benjamin Netanyahu. Herzog sibê erkê avakirina hikûmetê dide Eisenkot. Ji bo hikûmetê 61 kurs",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "668ed982e96ed181",
+    "url": "https://www.rudaw.net/kurmanci/categories/tirkiye/1306880",
+    "title": "Berîtan Guneş: Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye",
+    "title_en": "Berîtan Guneş: Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye",
+    "summary": "Hewlêr (Rûdaw) - Parlamentera DEM Partiyê ya Mêrdînê Berîtan Guneşê ragihand ku divê Wezareta Çand û Geştyariyê ya Tirkiyeyê ji budceya xwe para çalakiyên ziman û çanda Kurdî bide û got, “Zimanê Kurdî ji bo Tirkiyeyê ne metirsî ye.” Berîtan Guneşê xwest ku birêvebiriyeke taybet a parastina ziman were avakirin. Guneşê talankirin û Tirkîkirina stranên Kurdî wekî \"sûcekî hiqûqî û mirovahiyê\" bi nav kir û tekez kir ku naskirina statuyê ji bo zimanê Kurdî Tirkiyeyê lawaz nake, berovajî wê yekê bihêzt",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "21058b61fb8fa739",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1306879",
+    "title": "Herzog erkê avakirina hikûmetê da Eisenkot",
+    "title_en": "Herzog erkê avakirina hikûmetê da Eisenkot",
+    "summary": "Hewlêr (Rûdaw) - Serokkomarê Îsraîlê Isaac Herzog, erka avakirina hikûmetê da Gadi Eisenkotê ku hevrikê herî bihêz ê Serokwezîr Benjamin Netanyahu ye. Piştî hilbijartinên 27ê Çiriya Pêşîn ên li Îsraîlê, pêvajoya avakirina hikûmetê gihîşt qonaxeke krîtîk. Serokkomar Isaac Herzog diyar kir ku ji 120 parlamenteran 67 kesan piştgirî da Gadi Eisenkot. Her wiha 46 parlamenteran jî piştgirî da Serokwezîrê niha Benjamin Netanyahu. Herzog sibê erkê avakirina hikûmetê dide Eisenkot. Ji bo hikûmetê 61 kurs",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
