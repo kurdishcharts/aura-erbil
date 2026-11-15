@@ -454651,6 +454651,582 @@
     }
   },
   {
+    "id": "cd88e7ff7f253cc5",
+    "url": "https://www.rudaw.net/english/categories/iran/1080171",
+    "title": "Basij member killed, two alleged robbers shot dead in southeastern Iran",
+    "title_en": "Basij member killed, two alleged robbers shot dead in southeastern Iran",
+    "summary": "ERBIL, Kurdistan Region - A Sunni Baloch member of Iran’s Basij paramilitary force was killed by gunmen in Iran’s southern Sistan and Baluchestan province, state media reported Sunday. Police separately announced that two alleged armed robbers were killed in a clash in the same province.  The Basij member, operating under the Islamic Revolutionary Guard Corps, was identified as Najim Shahbakhsh, and was attacked while heading home in the Kurin area of Zahedan county, Islamic Republic of Iran Bro",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e1c1db8ca120efa3",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080170",
+    "title": "Kataib Hezbollah denies oil smuggling allegations",
+    "title_en": "Kataib Hezbollah denies oil smuggling allegations",
+    "summary": "ERBIL, Kurdistan Region - Iran-aligned faction Kataib Hezbollah on Sunday rejected allegations of organized oil smuggling in the town of Jurf al-Nasr in Iraq’s Babil province, saying a technical committee that inspected the area “did not find any encroachment on oil pipelines.”  The denial comes amid a widening rift between Prime Minister Ali al-Zaidi's government and Kataib Hezbollah - one of Iraq’s most powerful factions - over the latter’s refusal to disarm as Baghdad tightens its crackdown o",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7ac3500f560acf1e",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080169",
+    "title": "Iraq records 228 oil smuggling cases since 2024",
+    "title_en": "Iraq records 228 oil smuggling cases since 2024",
+    "summary": "ERBIL, Kurdistan Region - Iraq’s Federal Commission of Integrity has registered 228 criminal cases and reports related to suspected oil smuggling from 2024 to 2026, with dozens still under investigation, state media said on Sunday. The commission said its Investigations Directorate had recorded 152 criminal cases and 76 reports concerning \"suspicions and violations\" related to oil smuggling, the state-run Iraqi News Agency (INA) reported. Of the 152 criminal cases, 53 remain \"under investigation",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "64198a7e6f181c11",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876234",
+    "title": "داعش هێرشی کردە سەر خاڵێکی سوپای عێراق و حەشدی شەعبی",
+    "title_en": "داعش هێرشی کردە سەر خاڵێکی سوپای عێراق و حەشدی شەعبی",
+    "summary": "رووداو دیجیتاڵ ئەمشەو چەکدارانی داعش هێرشیانکردە سەر خاڵێکی هاوبەشی سوپا و حەشدی شەعبی لەنێوان سنووری پارێزگای نەینەوا و ئەنبار. محەممەد جاسم کاکەیی، سەرۆکی لیژنەی ئاسایش و بەرگری لە ئەنجوومەنی پارێزگای نەینەوا، بە تۆڕی میدیایی رووداوی راگەیاند، ئەمشەو چەکدارانی داعش هێرشیان کردووەتە سەر خاڵێکی هاوبەشی سوپای عێراق و حەشدی شەعبی لەنێوان هەردوو پارێزگای نەینەوا و ئەنبار لە سنووری قەزای حەزەر. لەبارەی ئەنجامی هێرشەکە، سەرۆکی لیژنەی ئاسایش و بەرگری لە ئەنجوومەنی پارێزگای نەینەوا گوتی، تاوەکو ئێستا ئ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0b5bd1f4d5e158dc",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876230",
+    "title": "سەرچاوەیەک لە دارایی بۆ رووداو: پارەی تەواو بۆ مووچەی گرێبەستەکان بەردەست نییە",
+    "title_en": "سەرچاوەیەک لە دارایی بۆ رووداو: پارەی تەواو بۆ مووچەی گرێبەستەکان بەردەست نییە",
+    "summary": "رووداو دیجیتاڵ سەرچاوەیەک لە وەزارەتی دارایی و ئابووریی هەرێمی کوردستان رایدەگەیێنێت، هەموو هەوڵێکیان بۆ دابینکردنی نەختینە خستووەتەگەڕ تاوەکو مووچەی فەرمانبەرانی گرێبەست دابەش بکرێت، بەڵام دەڵێت: \"هێشتا پارەی تەواو بۆ ئەو مەبەستە بەردەست نییە.\" ئەمڕۆ یەکشەممە، 15ـی تشرینی دووەمی 2026، سەرچاوەیەک لە وەزارەتی دارایی و ئابووری بە تۆڕی میدیایی رووداوی راگەیاند: \"وەزارەتی دارایی هەموو هەوڵەکانی چڕکردووەتەوە بۆ کۆکردنەوە و دابینکردنی پارەی پێویست تاوەکو لە زووترین کاتدا مووچەی ئەو مووچەخۆرانە خەرج بک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "826dcecd4695bc1e",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876227",
+    "title": "عەلی زەیدی: لە زاخۆوە تاوەکو بەسرە بستێک نامێنێتەوە قاچاخچێتی و دزی تێدا بکرێت",
+    "title_en": "عەلی زەیدی: لە زاخۆوە تاوەکو بەسرە بستێک نامێنێتەوە قاچاخچێتی و دزی تێدا بکرێت",
+    "summary": "رووداو دیجیتاڵ سەرۆکوەزیران و فەرماندەی گشتیی هێزە چەکدارەکانی عێراق، ستایشی ئەندامانی لیژنەی بەدواداچوونی دۆسیەی بەقاچاخبردنی نەوتی کرد و رایگەیاند، بە پشتیوانیی دادگە، رێگە نادەن لە هیچ شوێنێکی عێراق، لە زاخۆوە تاوەکو بەسرە، قاچاخچێتی و دزی بکرێت. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، عەلی فالح زەیدی، سەرۆکوەزیران و فەرماندەی گشتیی هێزە چەکدارەکانی عێراق، سەرپەرشتیی کۆبوونەوەیەکی ئەمنیی لەبارەی قاچاخچێتیی نەوت لە جورف سەخر کرد و رووی لە فەرماندە ئەمنی و سەربازییەکان کرد و گوتی: \"ئێوە بەم دەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "df9a3a56969f469e",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876226",
+    "title": "حیزبوڵڵای عێراق: زەیدی پەیمانەکەی شکاند و بەقاچاخبردنی نەوت رەتدەکەینەوە",
+    "title_en": "حیزبوڵڵای عێراق: زەیدی پەیمانەکەی شکاند و بەقاچاخبردنی نەوت رەتدەکەینەوە",
+    "summary": "رووداو دیجیتاڵ کەتیبەکانی حیزبوڵڵای عێراق رایگەیاند، سەرۆکوەزیرانی عێراق پەیمانی خۆی شکاندووە و لە رێگەی میدیاکانەوە تۆمەتی ناڕاستیان بۆ هەڵدەبەستێت بە مەبەستی ناچارکردنیان بۆ دەستبەرداربوون لە چەک. هاوکات تۆمەتەکانی تایبەت بە بەقاچاخبردنی نەوت لە ناوچەی جورف سەخر رەتدەکاتەوە. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، کەتیبەکانی حیزبوڵڵای عێراق لە راگەیێندراوێکدا ئاماژەی بەوە کرد، سەرەڕای ئەوەی چوونەتە نێو دانوستاندنەکان بۆ رێکخستنی چەک و واژۆکردنی (رێککەوتنی سەروەری) لەگەڵ ئەندامانی چوارچێوەی هاو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e87a3551c82f89cf",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876237",
+    "title": "نەخۆشیی دەمووکە لە دارستانەکانی زاگرۆس تەشەنە دەکات؛ ژینگەپارێزان هەوڵی بنبڕکردنی دەدەن",
+    "title_en": "نەخۆشیی دەمووکە لە دارستانەکانی زاگرۆس تەشەنە دەکات؛ ژینگەپارێزان هەوڵی بنبڕکردنی دەدەن",
+    "summary": "رووداو دیجیتاڵ نەخۆشیی دەمووکە (لۆرانتووس) مەترسی لەسەر بەشێکی زۆری دارستانەکانی زنجیرەچیای زاگرۆس دروستکردووە؛ لەبەرامبەردا کۆمەڵێک لە ژینگەپارێزانی رۆژهەڵاتی کوردستان بە شێوازێکی زانستی و خۆبەخشانە کەوتوونەتە پاککردنەوەی دارەکان لەو نەخۆشییە. ئەمڕۆ یەکشەممە، 15ـی تشرینی دووەمی 2026، کۆمەڵێک لە چالاکڤانانی ژینگەیی لە شارەکانی پارێزگای ئیلام لە رۆژهەڵاتی کوردستان بە تۆڕی میدیایی رووداویان راگەیاند، لە چوارچێوەی هەڵمەتێکی مەیدانیدا بۆ رێگری لە وشکبوونی دارەکان بەهۆی نەخۆشیی دەمووکە، روویان لە ناو",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "69f202e59189f81a",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876236",
+    "title": "مانگی داهاتوو فێستیڤاڵی شانۆی کوردی لە سەقز بەڕێوەدەچێت",
+    "title_en": "مانگی داهاتوو فێستیڤاڵی شانۆی کوردی لە سەقز بەڕێوەدەچێت",
+    "summary": "رووداو دیجیتاڵ مانگی داهاتوو بیست و یەکەمین فێستیڤاڵی شانۆی کوردی لە سەقز بەڕێوەدەچێت. بەڕێوەبەرانی فێستیڤاڵەکە داوا لە خوازیاران دەکەن بەرهەمەکانیان بۆ فێستیڤاڵەکە بنێرن. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، فەردین ئەبوو محەممەدی، بەڕێوەبەری نووسینگەی فێستیڤاڵی شانۆی کوردی سەقز بە تۆڕی میدیایی رووداوی راگەیاند: \"بڕیارە لە کۆتایی مانگی سەرماوەز (ناوەڕاستی مانگی 12) بیست و یەکەمین خولی فێستیڤاڵی شانۆی کوردی سەقز بەڕێوەبچێت.\" فەردین ئەبوو محەممەدی ئاماژەی بەوەش کرد، بۆ بەشداریکردن لە فێستیڤاڵەک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7b1383adfe1b424c",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1876235",
+    "title": "ئێران داواکاریی ئەڵمانیا بۆ راگرتنی پیتاندنی یۆرانیۆم رەتدەکاتەوە",
+    "title_en": "ئێران داواکاریی ئەڵمانیا بۆ راگرتنی پیتاندنی یۆرانیۆم رەتدەکاتەوە",
+    "summary": "رووداو دیجیتاڵ ئیسماعیل بەقایی، گوتەبێژی وەزارەتی دەرەوەی ئێران داواکاریی حکومەتی ئەڵمانیای بۆ راگرتنی پیتاندنی یۆرانیۆم رەتکردەوە و رایگەیاند، پیتاندنی یۆرانیۆم مافێکی رەوای ئێرانە و لە ئەندامبوونی ئەو وڵاتە لە پەیماننامەی قەدەخەکردنی بڵاوکردنەوەی چەکی ئەتۆمی (NPT) سەرچاوەی گرتووە، نەک لە وڵاتانی ئەورووپاوە. بەقایی گوتی: \"مافی پیتاندنی یۆرانیۆم شتێک نییە ئەڵمانیا، فەرەنسا یان وڵاتانی دیکە بە ئێمەیان بەخشیبێت.\" گوتەبێژی وەزارەتی دەرەوەی ئێران هەروەها رەخنەی لە ئاژانسی نێودەوڵەتیی وزەی ئەتۆم گرت ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1b4248899dc53d9f",
+    "url": "https://www.rudaw.net/sorani/categories/turkey/1876233",
+    "title": "نوێترین راپرسی: جیاوازیی نێوان ئاکپارتی و پارتی نوێ بۆ 1.6٪ دابەزیوە",
+    "title_en": "نوێترین راپرسی: جیاوازیی نێوان ئاکپارتی و پارتی نوێ بۆ 1.6٪ دابەزیوە",
+    "summary": "رووداو دیجیتاڵ ئەنجامی نوێترین راپرسیی ناوەندی لێکۆڵینەوە و راپرسیی (ئانک-ئار) بڵاوکرایەوە؛ ئاکپارتی 30٪ و پارتی نوێ (یەنی پارتی) 28.4٪ی دەنگەکان بەدەستدەهێنن و جیاوازیی نێوانیان بۆ 1.6٪ دابەزیوە. راپرسییەکەی ناوەندی لێکۆڵینەوە و راپرسیی (ئانک-ئار) کە لە ژێر ناوی (رۆژەڤی دەنگدەران) کراوە، رۆژی یەکشەممە 15-11-2026 بڵاوکرایەوە. راپرسییەکە لە رۆژی 26ـی تشرینی یەکەمەوە تاوەکو 3ـی تشرینی دووەمی 2026 لە 28 پارێزگا کاری لەسەر کراوە. پرسیاری \"ئەگەر سبەی هەڵبژاردنی پەرلەمانی بکرێت، دەنگ بە کام پارت دەدەی",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "492176431374c2d4",
+    "url": "https://www.rudaw.net/sorani/categories/culture/1876232",
+    "title": "بە بڕیاری دادگە زنجیرە درامایەک لە ئێران راگیرا",
+    "title_en": "بە بڕیاری دادگە زنجیرە درامایەک لە ئێران راگیرا",
+    "summary": "رووداو دیجیتاڵ بەهۆی پیشاندانی دیمەنێکی لە باوەشگرتن، دادگەی ئێران زنجیرە درامای (یل)ـی راگرت. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، میدیاکانی ئێران بڵاویانکردووە، بە فەرمانی لقی 35ـی دادگەی تاران کە تایبەتە بە کولتوور و میدیا، زنجیرە درامای (یل) بەهۆی بڵاوکردنەوەی (ناوەڕۆکی تاوانکاری) کە گوایە پێچەوانەی رەوشت و ئەخلاقی گشتییە، راگیرا. بەگوێرەی زانیارییەکان، لە ئەڵقەی شەشەمی ئەو درامایە دیمەنێک بڵاوبووەتەوە کە تێیدا ئافرەتێک، کە رۆڵی دایکێک (سوهەیلا رەزەوی، تەمەن 72 ساڵ) دەبینێت، باوەش بە کوڕە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "3dbe823e8f998509",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1876231",
+    "title": "سوپای پاسداران: ئەندامێکی بەسیج لە زاهیدان کوژرا",
+    "title_en": "سوپای پاسداران: ئەندامێکی بەسیج لە زاهیدان کوژرا",
+    "summary": "رووداو دیجیتاڵ سوپای پاسدارانی ئێران رایگەیاند، لە پارێزگای سیستان و بەلووچستان لە باشووری رۆژهەڵاتی ئێران ئەندامێکی هێزی بەسیج لە هێرشێکی چەکداریدا کوژرا. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، سوپای پاسداران بڵاویکردەوە، ئێوارەی ئەمڕۆ ژمارەیەک چەکداری نەناسراو هێرشیان کردووەتە سەر ئەندامێکی بەسیج لە ناوچەی کورین لە زاهیدان و کوشتوویانە. بەگوێرەی راگەیێندراوەکە، ئەو ئەندامەی بەسیج ناوی (نەجیب شەبەخش)ـە و لە کاتی گەڕانەوە بۆ ماڵەوە کوژراوە. چەکدارەکان دوای هێرشەکە دەستبەجێ بۆ شوێنێکی نادیار هەڵ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "29f73b1675de8b22",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1876229",
+    "title": "دیلمانی 20 ساڵ دڵی کونە و ژیانی لە مەترسیدایە",
+    "title_en": "دیلمانی 20 ساڵ دڵی کونە و ژیانی لە مەترسیدایە",
+    "summary": "رووداو دیجیتاڵ دیلمان لوقمان، کچێکی تەمەن 20 ساڵان، لە سکماکییەوە دڵی کونە و نەخۆشییەکە ژیانی لێ تاڵ کردووە. ئەو لە تەمەنی 10 ساڵیدا بە هاوکاریی خێرخوازان نەشتەرگەرییەکی لە هیندستان بۆ کراوە، بەڵام ئێستا تەندروستیی ناجێگیرە و بەپێی گوتەی پزیشکەکان، ژیانی لە مەترسیدایە و پێویستی بە نەشتەرگەرییەکی دیکە هەیە کە لە هەرێمی کوردستان ناکرێت و خەرجییەکەی لەنێوان 15 بۆ 20 هەزار دۆلارە. دیلمان، بەهۆی نەخۆشییەکەیەوە 6 ساڵ لە خوێندن دابڕاوە و ئێستا لەگەڵ خوشکە 14 ساڵانەکەی لە پۆلی حەوتی بنەڕەتی دەخوێنێت. ئە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03ff6a4470f98830",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876228",
+    "title": "نزیکەی 100 رۆژە هاونیشتمانییەکی سنووری مەریوان بێسەروشوێنە",
+    "title_en": "نزیکەی 100 رۆژە هاونیشتمانییەکی سنووری مەریوان بێسەروشوێنە",
+    "summary": "رووداو دیجیتاڵ نزیکەی 100رۆژە هاونیشتمانییەکی خەڵکی شارۆچکەی کانی دیناری مەریوان بێسەروشوێنە. خوشکەکەی بە تۆڕی میدیایی رووداوی گوت، لە لایەن دادگاوە ئاگادار کراونەتەوە، لە دەروازەیەکی سنوورییەوە هاتووە بۆ باشووری کوردستان. داوا دەکات، هەر کەسێک زانیارییەکی لەسەر هەیە، ئاگاداریان بکاتەوە. هاونیشتمانییە ونبووەکە ناوی بەهزاد مەحموودییە و تەمەنی 28 ساڵە. پێنج ساڵ گوتارخوێنی گوندەکانی مەریوان بووە. دواتر وازی هێناوە و لە 12ی ئابی ئەمساڵەوە چووەتە بانە. بە کەسوکاری گوتووە، دەچێت لەوێ کار دەکات. بەڵام ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "141618db9b5c468a",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876223",
+    "title": "زەیدی بۆ وەزارەتی دارایی: پارە بۆ دابینکردنی خۆراک، دەرمان و سووتەمەنی تەرخان بکەن",
+    "title_en": "زەیدی بۆ وەزارەتی دارایی: پارە بۆ دابینکردنی خۆراک، دەرمان و سووتەمەنی تەرخان بکەن",
+    "summary": "رووداو دیجیتاڵ سەرۆکوەزیرانی عێراق لە کۆبوونەوەی دەستەی باڵای بەڕێوەبردنی قەیران و کارەساتەکاندا، وەزارەتی دارایی راسپارد پارەی پێویست بۆ دابینکردنی خۆراک، دەرمان و سووتەمەنی تەرخان بکات، بە مەبەستی ئامادەکاری بۆ هەر قەیرانێکی سروشتی یان مرۆیی. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، عەلی فالح زەیدی، سەرۆکوەزیران و فەرماندەی گشتیی هێزە چەکدارەکانی عێراق، سەرپەرشتیی کۆبوونەوەی دەستەی باڵای بەڕێوەبردنی فریاگوزاری، قەیران و کارەساتەکانی کرد و پوختەی ستراتیژیی نیشتمانی بۆ رووبەڕووبوونەوەی قەیران و ک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "2e1b7766f8290c8d",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876221",
+    "title": "بریکاری وەزارەتی کارەبای عێراق بە 7 ساڵ زیندانی سزادرا",
+    "title_en": "بریکاری وەزارەتی کارەبای عێراق بە 7 ساڵ زیندانی سزادرا",
+    "summary": "رووداو دیجیتاڵ دادگەی تاوانەکانی عێراق تایبەت بە دۆسیەکانی گەندەڵی، سزای 7 ساڵ زیندانیکردنی بەسەر خالید غەزای مەعازیدی، بریکاری وەزارەتی کارەبا بۆ کاروباری گواستنەوە و دابەشکردندا سەپاند، بە تۆمەتی هەڵئاوسانی نایاسایی سامانەکەی؛ هاوکات پابەندکراوە بە گەڕاندنەوە و پێبژاردنی بڕی 37 ملیار دینار بۆ خەزێنەی دەوڵەت. دەستەی دەستپاکیی فیدراڵیی عێراق، ئەمڕۆ یەکشەممە، 15ـی تشرینی دووەمی 2026، راگەیێندراوێکی لەبارەی دەرچوونی بڕیارەکەی دادگە بڵاوکردەوە و تێیدا هاتووە: \"سزاکە بە شێوەیەکی ئامادەگی بەسەر تۆمەت",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a54e292b80cecceb",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1876220",
+    "title": "محەممەد فەیسەڵ برادۆستی بۆ رووداو: دەستلەکارکێشانەوەم پێشکەش کردووە",
+    "title_en": "محەممەد فەیسەڵ برادۆستی بۆ رووداو: دەستلەکارکێشانەوەم پێشکەش کردووە",
+    "summary": "رووداو دیجیتاڵ محەممەد فەیسەڵ کەریم خان برادۆستی، پەرلەمانتاری پێشووی فراکسیۆنی یەکێتی لە خولی شەشەمی پەرلەمانی کوردستان دەستلەکارکێشانەوەی پێشکەشی سەرۆکایەتیی پەرلەمان کرد و دەڵێت، هۆکارەکەی تایبەت و خێزانییە. رۆژی یەکشەممە، 15ـی تشرینی دووەمی 2026، محەممەد فەیسەڵ کەریم خان برادۆستی بە تۆڕی میدیایی رووداوی راگەیاند: \"ئەمڕۆ دەستلەکارکێشانەوەم پێشکەشی پەرلەمان کردووە.\" سەبارەت بە هۆکارەکەشی گوتی: \"پەیوەندی بە هەندێک بابەتی خێزانی و تایبەتەوە هەیە و هیچ هۆکارێکی دیکەی نییە.\" بەپێی مادەی 25 لە پەیڕ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "83813f0f784a1dd2",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307134",
+    "title": "Li Dêrsimê ji bo Seyîd Riza û hevalên wî çira hatin pêxistin",
+    "title_en": "Li Dêrsimê ji bo Seyîd Riza û hevalên wî çira hatin pêxistin",
+    "summary": "Hewlêr (Rûdaw) - Seyîd Riza û rêhevalên wî di 89 salvegeriya sêdaredana wan de li Dersimê bi çalakiyên watedar hatin bîranîn. Bernameyên ku di nava rojê de dest pê kiribûn êvarê jî bi heman hestiyariyê berdewam kirin. Li Meydana Seyîd Riza, tam saet 19:37an çirûska bîranînê geş bû çira hatin vêxistin û kilamên xemgîn sînorên şevê rûxandin. Dengê hunermend Zeyneb Kiliç, Hasan Alî Rêber Dilêr tevlî dengê gel bû û bi yek awazî kilam hatin hûnandin. Li dora peykerê Seyîd Riza, ji mûman hejmara\"1937\"",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6dcc13ff7f6ae2ed",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307133",
+    "title": "Piştî 2 salan Koşka Dadê ya Qamişloyê ji nû ve hat vekirin",
+    "title_en": "Piştî 2 salan Koşka Dadê ya Qamişloyê ji nû ve hat vekirin",
+    "summary": "Hewlêr (Rûdaw) - Piştî girtina nêzîkî du salan Koşka Dadê ya li bajarê Qamişloyê bi fermî ji nû ve hat vekirin. Koşka Dadê îro bi armanca çalakkirina saziyên dadweriyê û vegerandina rola wan dest bi xebatê kir. Parêzgar û birêvebirên herêmê beşdar bûn Di merasîma vekirinê de Parêzgarê Hisîçayê Nûredîn Ehmed, Dozgerê Giştî û Şêwirmendê Dadweriyê yê parêzgeha Hisîçayê Xazî Şêx Îbrahîm amade bûn. Her wiha Birêvebira Herêma Qamişloyê Cîhan Hesam û hinek dadwer û mafnas jî beşdarî merasîmê bûn. Dosya",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ca7cbd72da3f3c4e",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1307132",
+    "title": "Hunermend Necmedînê Dêrikî koça dawî kir",
+    "title_en": "Hunermend Necmedînê Dêrikî koça dawî kir",
+    "summary": "Hewlêr (Rûdaw) - Hunermendê û dengbêjê Kurd Necmedînê Dêrikî li navçeya Dêrikê ya parêzgeha Mêrdînê ya Bakurê Kurdistanê ji ber krîza dil di 74 saliya xwe de koça dawî kir. Li gorî agahiyên ku Rûdawê bi dest xistine, serê sibehê krîza dil li Necmedînê Dêrikî da. Necmedînê Dêrikî veguhastin Nexweşxaneya Dewletê ya Mêrdînê, li wir cara duyemîn krîza dil li wî da. Piştî midaxaleya yekem a li Nexweşxaneya Dewletê ya Dêrikê, ji ber ku li Nexweşxaneya Dewletê ya Dêrikê Pisporê Kardîolojiyê tune bû, ew",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "0ef3c5ad2300b9b1",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1307131",
+    "title": "Bazirganên Kurdistanê ji bazara Merterê dûr dikevin",
+    "title_en": "Bazirganên Kurdistanê ji bazara Merterê dûr dikevin",
+    "summary": "Hewlêr (Rûdaw) - Bazara tekstîlê ya Merterê ya li Stenbolê ku wekî dilê sektora tekstîla Tirkiyeyê tê naskirin û ji bo bazirgan û dikandarên Herêma Kurdistanê navendeke girîng a kirîna cil û bergan e, êdî wekî berê kiryaran li xwe kom nake. Di salên dawî de kiryarên ji Herêma Kurdistanê her ku diçe li vê bazarê kêm dibin. Li gorî esnafên Merterê, sedemên sereke yên vê rewşê bilindbûna bihayê kel û pelan, zêdebûna lêçûnên kargoyê û heqdestê karkeran e li Tirkiyeyê. “Divê gumrik bê kêmkirin” Dikan",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8b431611e71a2423",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307135",
+    "title": "Hatimogullari: Divê em qonaxa bêdengbûna çekan baş binirxînin",
+    "title_en": "Hatimogullari: Divê em qonaxa bêdengbûna çekan baş binirxînin",
+    "summary": "Hewlêr (Rûdaw) - Hevseroka Giştî ya DEM Partiyê Tulay Hatimogullari li Ameda Bakurê Kurdistanê li ser pêvajoya çareseriyê axivî û got, “Divê em qonaxa bêdengbûna çekan baş binirxînin.” Hatimogullariyê her wiha got, \"Ev pêvajo ji bo vekirina hemû qadên têkoşîna demokratîk gelekî girîng e.\" Tulay Hatimogullari li Navenda Çandê ya Sezai Karakoç a Amedê beşdarî Foruma Ciwanan a \"Budceya ji bo Nan, Aştî û Dadmendiyê\" bû û pirsên ciwanan bersivandin. Hevseroka DEM Partiyê di axaftina xwe de bal kişand",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "24e6cfc891ba7959",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1307132",
+    "title": "Hunermend Necmedînê Dêrikî koça dawî kir",
+    "title_en": "Hunermend Necmedînê Dêrikî koça dawî kir",
+    "summary": "Hewlêr (Rûdaw) - Hunermendê û dengbêjê Kurd Necmedînê Dêrikî li navçeya Dêrikê ya parêzgeha Mêrdînê ya Bakurê Kurdistanê ji ber krîza dil di 74 saliya xwe de koça dawî kir. Li gorî agahiyên ku Rûdawê bi dest xistine, serê sibehê krîza dil li Necmedînê Dêrikî da. Necmedînê Dêrikî veguhastin Nexweşxaneya Dewletê ya Mêrdînê, li wir cara duyemîn krîza dil li wî da. Piştî midaxaleya yekem a li Nexweşxaneya Dewletê ya Dêrikê, ji ber ku li Nexweşxaneya Dewletê ya Dêrikê Pisporê Kardîolojiyê tune bû, ew",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "417e992bbb4a698e",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1307131",
+    "title": "Bazirganên Kurdistanê ji bazara Merterê dûr dikevin",
+    "title_en": "Bazirganên Kurdistanê ji bazara Merterê dûr dikevin",
+    "summary": "Hewlêr (Rûdaw) - Bazara tekstîlê ya Merterê ya li Stenbolê ku wekî dilê sektora tekstîla Tirkiyeyê tê naskirin û ji bo bazirgan û dikandarên Herêma Kurdistanê navendeke girîng a kirîna cil û bergan e, êdî wekî berê kiryaran li xwe kom nake. Di salên dawî de kiryarên ji Herêma Kurdistanê her ku diçe li vê bazarê kêm dibin. Li gorî esnafên Merterê, sedemên sereke yên vê rewşê bilindbûna bihayê kel û pelan, zêdebûna lêçûnên kargoyê û heqdestê karkeran e li Tirkiyeyê. “Divê gumrik bê kêmkirin” Dikan",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc152d9422e5e868",
+    "url": "https://www.rudaw.net/kurmanci/categories/abor/1307129",
+    "title": "Li Hisîçayê belavkirina mazotê dest pê kir",
+    "title_en": "Li Hisîçayê belavkirina mazotê dest pê kir",
+    "summary": "Hewlêr (Rûdaw) - Hikûmeta Sûriyeyê li parêzgeha Hisîçayê ya Rojavayê Kurdistanê dest bi belavkirina mazotê (petrola spî) ya ji bo malan kir û biryar e her malbatek 200 lître mazotê wergire. Li gorî berpirsên herêmê, rojane nêzîkî 40 heta 50 hezar lître mazot digihîje parêzgehê. “Biha ne li gorî hêza xelkê ye” Hevpeyvîna li gel Endama Ofîsa Berpirsê Parêzgeha Hisîçayê û Berpirsa Sektora Enerjiyê ya Parêzgehê Newar Mehmûd Sebriyê îro di bultena Nûrojê ya Rûdawê de hat weşandin. Newar Mehmûd Sebriy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4980d43fa92f53ac",
+    "url": "https://www.rudaw.net/kurmanci/categories/ran/1307130",
+    "title": "Li Îranê binesaziya av û kanalîzasyonê zêdetirî 77 milyon dolar zerer dît",
+    "title_en": "Li Îranê binesaziya av û kanalîzasyonê zêdetirî 77 milyon dolar zerer dît",
+    "summary": "Hewlêr (Rûdaw) - Rayedarên Îranî eşkere kir ku di encama êrişên Amerîka û Îsraîlê de zêdetirî 20 trilyon û 540 milyar tumen (77 milyon û 166 hezar dolar) zerer gihîştiye binesaziya av û kanalîzasyonê ya welêt. Tehran a ku li zêdetirî 200 xalên wê zerer çêbûye, li seranserê Îranê bû parêzgeha ku bîlançoya herî giran lê rû daye. Alîkarê Kar û Barên Xebitandinê yê Birêvebiriya Giştî ya Av û Kanalîzasyonê ya Îranê Zulfiqar Mehdîzade îro di daxuyaniyekê de hûrgiliyên wêraniyên şerê dawî yên di sektor",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "b342e73d22bf97e0",
+    "url": "https://www.rudaw.net/kurmanci/categories/rojhilata-navn/1307128",
+    "title": "Li Tengava Hurmizê 2 tankerên petrolê li mayînan ketin",
+    "title_en": "Li Tengava Hurmizê 2 tankerên petrolê li mayînan ketin",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Pasdaran a Îranê ragihand ku li başûrê Tengava Hurmizê 2 tankerên petrolê xwestiye di rêyeke \"bêdestûr\" re derbas bibin lê li mayînên deryayê ketine û agir bi wan ketiye. Li gorî agahiyan yek ji wan tankeran bin av bûye. Di daxuyaniya fermî ya Artêşa Pasdaran a Îranê de hat diyarkirin ku di saetên dawî de li başûrê Tengava Hurmizê 2 tankeran “rêya qedexekirî” bi kar aniye. Di encama teqîna mayînan de teqînên gelekî mezin rû dane û agir bi her du tankeran jî ketiye. Li gor",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "93ff2f5896fbec32",
+    "url": "https://www.rudaw.net/kurmanci/categories/economic/1307129",
+    "title": "Li Hisîçayê belavkirina mazotê dest pê kir",
+    "title_en": "Li Hisîçayê belavkirina mazotê dest pê kir",
+    "summary": "Hewlêr (Rûdaw) - Hikûmeta Sûriyeyê li parêzgeha Hisîçayê ya Rojavayê Kurdistanê dest bi belavkirina mazotê (petrola spî) ya ji bo malan kir û biryar e her malbatek 200 lître mazotê wergire. Li gorî berpirsên herêmê, rojane nêzîkî 40 heta 50 hezar lître mazot digihîje parêzgehê. “Biha ne li gorî hêza xelkê ye” Hevpeyvîna li gel Endama Ofîsa Berpirsê Parêzgeha Hisîçayê û Berpirsa Sektora Enerjiyê ya Parêzgehê Newar Mehmûd Sebriyê îro di bultena Nûrojê ya Rûdawê de hat weşandin. Newar Mehmûd Sebriy",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e82e0cc546498772",
+    "url": "https://www.rudaw.net/kurmanci/categories/iran/1307130",
+    "title": "Li Îranê binesaziya av û kanalîzasyonê zêdetirî 77 milyon dolar zerer dît",
+    "title_en": "Li Îranê binesaziya av û kanalîzasyonê zêdetirî 77 milyon dolar zerer dît",
+    "summary": "Hewlêr (Rûdaw) - Rayedarên Îranî eşkere kir ku di encama êrişên Amerîka û Îsraîlê de zêdetirî 20 trilyon û 540 milyar tumen (77 milyon û 166 hezar dolar) zerer gihîştiye binesaziya av û kanalîzasyonê ya welêt. Tehran a ku li zêdetirî 200 xalên wê zerer çêbûye, li seranserê Îranê bû parêzgeha ku bîlançoya herî giran lê rû daye. Alîkarê Kar û Barên Xebitandinê yê Birêvebiriya Giştî ya Av û Kanalîzasyonê ya Îranê Zulfiqar Mehdîzade îro di daxuyaniyekê de hûrgiliyên wêraniyên şerê dawî yên di sektor",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "9df6f397e7b3b91f",
+    "url": "https://www.rudaw.net/kurmanci/categories/middleeast/1307128",
+    "title": "Li Tengava Hurmizê 2 tankerên petrolê li mayînan ketin",
+    "title_en": "Li Tengava Hurmizê 2 tankerên petrolê li mayînan ketin",
+    "summary": "Hewlêr (Rûdaw) - Artêşa Pasdaran a Îranê ragihand ku li başûrê Tengava Hurmizê 2 tankerên petrolê xwestiye di rêyeke \"bêdestûr\" re derbas bibin lê li mayînên deryayê ketine û agir bi wan ketiye. Li gorî agahiyan yek ji wan tankeran bin av bûye. Di daxuyaniya fermî ya Artêşa Pasdaran a Îranê de hat diyarkirin ku di saetên dawî de li başûrê Tengava Hurmizê 2 tankeran “rêya qedexekirî” bi kar aniye. Di encama teqîna mayînan de teqînên gelekî mezin rû dane û agir bi her du tankeran jî ketiye. Li gor",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "03572ab8a15c1a13",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307127",
+    "title": "Li Şirnexê qeza: 6 kes birîndar bûn",
+    "title_en": "Li Şirnexê qeza: 6 kes birîndar bûn",
+    "summary": "Hewlêr (Rûdaw) – Di navbera Şirnex û navçeya wê Cizîrê de 2 otomobîl li hev qelibîn û di qezayê de 6 kes birîndar bûn. Îro du otomobîl ku nasnameya şofêrên wan û plaqeyên wan nehatine zanîn, li tunela li ser rêya Şirnex-Cizîrê lli hev qelibîn. Di qezayê de şofêr û 4 kesên di wesayîtan de birîndar bûn. Li ser agahdarkirinê, tîmên Tenduristiya Lezgîn a 112, AFAD, tîmên îtfaiyeyê û cendirme çûn cihê qezayê. Tîmên tenduristiyê birîndar piştî midaxeleyên pêşîn rakirin nexweşxaneyên li Şirnex û Cizîrê",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
