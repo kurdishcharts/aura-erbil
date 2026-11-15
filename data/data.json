@@ -453319,6 +453319,60 @@
     }
   },
   {
+    "id": "23b7b7c0d8c65dfd",
+    "url": "https://www.rudaw.net/english/categories/iraq/1080163",
+    "title": "Iraqi PM fires top Babil officials over Jurf al-Nasr oil smuggling",
+    "title_en": "Iraqi PM fires top Babil officials over Jurf al-Nasr oil smuggling",
+    "summary": "ERBIL, Kurdistan Region - Iraqi Prime Minister Ali al-Zaidi on Saturday dismissed nine senior security and administrative officials and referred suspects to the judiciary after an official investigation confirmed widespread oil smuggling in Babil province's Jurf al-Nasr, where the pro-Iran faction Kataib Hezbollah wields considerable influence. According to a statement issued by his office, Zaidi removed nine officials from their positions and ordered to refer “all suspects involved in the oil s",
+    "source": "rudaw-english",
+    "category": "fire",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "22fa47ee157bcbce",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876168",
+    "title": "تەرمی ئەحمەد عەلوانی، لە روومادی بە خاک سپێردرا",
+    "title_en": "تەرمی ئەحمەد عەلوانی، لە روومادی بە خاک سپێردرا",
+    "summary": "رووداو دیجیتاڵ کوژرانی ئەحمەد عەلوانی، پەرلەمانتاری پێشووتری عێراق لە بەیروتی پایتەختی لوبنان، نیگەرانی و تووڕەیی لە پارێزگای ئەنبار لێکەوتەوە. دوای 9 رۆژ لە رووداوەکە، تەرمەکەی گەڕێندرایەوە عێراق و لە زێدی خۆی لە روومادی بەخاک سپێردرا. کەسایەتییە سیاسی و عەشایەرییەکانی ئەنبار، کوژرانی عەلوانی بە \"پەیامێکی مەترسیدار\" بۆ سەرجەم سیاسییەکانی ناوچەکە ناودەبەن. ئەحمەد فەهد، یەکێک لە خزمەکانی عەلوانی دەڵێت، \"جێگەی داخە پایتەختەکانی وڵاتانی ناوچەکە لەژێر هەڕەشەدان. سیاسییەک ناتوانێت بچێتە دیمەشق، عەمما",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "967a1639bbe9efcd",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307111",
+    "title": "Li Îlamê otobusek wergeriya: 7 mirî, 12 birîndar",
+    "title_en": "Li Îlamê otobusek wergeriya: 7 mirî, 12 birîndar",
+    "summary": "Hewlêr (Rûdaw) - Li parêzgeha Îlamê ya Rojhilatê Kurdistanê otobusek wergeriya û di qezayê de 7 kes mirin û 12 kes jî birîndar bûn. Ev qeza îro saet 7ê êvarê li ser rêya Mormorî û Awdananê çêbû. Heyva Sor a Parêzgeha Îlamê ragihand ku wergerbûna otobûsê li ser rêya Deşta Ebasê ya Mormoriyê rû daye. Heyva Sorê piştrast kir ku di qezayê de 7 kesan canê xwe ji dest daye û 12 kes jî birîndar in. Li gorî agahiyên tîma hawarçûnê, ew otobus a karmendên şirketeke heman herêmê bû. 5 tîmên hawarçûnê yên H",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
