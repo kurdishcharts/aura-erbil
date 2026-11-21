@@ -465505,6 +465505,528 @@
     }
   },
   {
+    "id": "7e27bb4ad723b91d",
+    "url": "https://www.rudaw.net/english/categories/syria/1080243",
+    "title": "Over 23,000 children killed during Syria’s civil war: Monitor",
+    "title_en": "Over 23,000 children killed during Syria’s civil war: Monitor",
+    "summary": "ERBIL, Kurdistan Region - Forces loyal to Syria’s former regime killed 23,146 children during the country’s civil war, while 3,736 others remain unaccounted for, a human rights monitor said on Friday, marking World Children’s Day.  “The network documented approximately 1,287 attacks carried out by the defunct regime's forces on schools and kindergartens, and at least 566 attacks on medical facilities since March 2011,” Fadel Abdul Ghany, executive director of the Syrian Network for Human Rights ",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "37e6f3becb378330",
+    "url": "https://www.rudaw.net/english/categories/world/1080242",
+    "title": "Trump tells Rudaw Iraqi PM Zaidi is a ‘strong guy’",
+    "title_en": "Trump tells Rudaw Iraqi PM Zaidi is a ‘strong guy’",
+    "summary": "WASHINGTON DC - US President Donald Trump on Friday praised Iraqi Prime Minister Ali al-Zaidi as a “strong guy” capable of getting things done, responding to a Rudaw question about whether the Iraqi premier could succeed in disarming powerful militias.  “He is my friend. You know, he was in 10th place and I endorsed him and he won in a very big upset… He's a good guy. I mean, he's a strong guy. I think when he wants to do something, he's able to do it,” Trump said during a press conference at th",
+    "source": "rudaw-english",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "dc022ade3559457a",
+    "url": "https://www.rudaw.net/english/categories/iran/1080241",
+    "title": "Iranian media report explosions on Qeshm Island",
+    "title_en": "Iranian media report explosions on Qeshm Island",
+    "summary": "ERBIL, Kurdistan Region - Explosions were heard on Iran’s Qeshm Island late Friday, reported Iranian media, amid escalating tensions between Washington and Tehran.  Fars News Agency reported explosions on the island, citing local residents, while Tasnim initially reported that a missile had struck the island’s outskirts, blaming the United States and Israel. Later Tasnim claimed that the explosions were caused by the destruction of unexploded US military ordnance.  “The sound of an explosion and",
+    "source": "rudaw-english",
+    "category": "security",
+    "sentiment": "negative",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f055db91a66bbe13",
+    "url": "https://www.rudaw.net/sorani/categories/interview/1876709",
+    "title": "عەدنان کەریم: کۆنسێرتەکەی قامشلۆ مێژوویی بوو",
+    "title_en": "عەدنان کەریم: کۆنسێرتەکەی قامشلۆ مێژوویی بوو",
+    "summary": " رووداو دیجیتاڵ  عەدنان کەریم، هونەرمەندی ناسراوی کورد لە شاری قاملشۆی رۆژئاوای کوردستان کۆنسێرتێکی سازکرد و دوای تەوابوونی کۆنسێرتەکە بە رووداوی گوت: \"ئەمڕۆ رۆژێکی مێژوویی بوو. بۆ من کۆنسێرتێکی زۆر جوان بوو\".  ئەمڕۆ هەینی 20ی تشرینی دووەمی 2026، عەدنان کەریم لە هەڤپەیڤینێکدا لەگەڵ ڤیڤیان فەتاح، پەیامنێری رووداو لە شاری قامشلۆ دوای کۆنسێرتەکە رایگەیاند: \"هەستێکی زۆر خۆشم هەبوو؛ قامشلۆ بۆ من زۆر تایبەتە. ئەو بینەرەی کە هاتبوون بۆ کۆنسێرتەکە بە جلی کوردییەوە هاتبوون، دڵخۆشم بەوەی پارێزگاری لە زمان",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c3d6391d53a3ce93",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876692",
+    "title": "عیزەت شابەندەر: پرسی \"هەرێمی سلێمانی\" بەرپرسانی بەغدای بەسەر دوو ئاراستەدا دابەشکردووە",
+    "title_en": "عیزەت شابەندەر: پرسی \"هەرێمی سلێمانی\" بەرپرسانی بەغدای بەسەر دوو ئاراستەدا دابەشکردووە",
+    "summary": "رووداو دیجیتاڵ  عیزەت شابەندەر، سیاسەتڤانی نێوداری شیعەی عێراق دەڵێت: رێککەوتنێک لە نێو چوارچێوەی هاوئاهەنگیدا هەیە بۆ چەکداماڵینی حیزبوڵڵا بە سێ قۆناخ. لە هەمانکات دا پێیوایە \"چوارچێوەی هاوئاهەنگی\" کە بە ناوەندی بڕیاری لایەنە شیعەکان دادەنرێت بە ئیفلیج ناودەبات و دەڵێ \"ئێستا هاوئاهەنگیی لەگەڵ خودی خۆشیدا لەدەستداوە\".  عیزەت شابەندەر، سیاسەتڤانی عێراقی لە بەرنامەی (رووداوی ئەمڕۆ)دا رەخنەی لە دەستوەردانی هەردوو لایەنی ئەمریکی و ئێرانی گرت لە کاروباری عێراق دا و رایگەیاند هەردووکیان دەست بۆ سەروەر",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "995bbff150e7df12",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876697",
+    "title": "عیماد ئەحمەد: یەکگرتووییمان دەبێتە هۆی بەهێزبوونمان",
+    "title_en": "عیماد ئەحمەد: یەکگرتووییمان دەبێتە هۆی بەهێزبوونمان",
+    "summary": " رووداو دیجیتاڵ  ئەندامێکی مەکتەبی سیاسیی یەکێتی داوا دەکات هەموو لایەنەکان دەست لەنێو دەست بن بۆ باشکردنی دۆخی هەرێمی کوردستان؛ لەبارەی پەیوەندییەکانی یەکێتی و پارتیش دەڵێ، هەرچەند کۆبوونەوە بکرێ باشترە، چونکە لە یەکدی تێدەگەن و پەیامەکان بە یەکدی دەگەیێنین.  ئەمڕۆ هەینی 20-11-2026 عیماد ئەحمەد، ئەندامی مەکتەبی سیاسیی یەکێتیی نیشتمانیی کوردستان لە لێدوانێکی رۆژنامەڤانیدا وەڵامی پرسیاری رۆژنامەڤانانی سەبارەت بە پەیوەندییەکانی یەکێتی و پارتی و دۆخی سیاسیی هەرێمی کوردستان دایەوە.  لە وەڵامی پرسیار",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "ed4a9e5f6be147d4",
+    "url": "https://www.rudaw.net/sorani/categories/iraq/1876696",
+    "title": "ترەمپ بۆ رووداو: عەلی زەیدی کەسێکی بەهێزە و کاتێک بیەوێ کارێک بکات، دەتوانێت",
+    "title_en": "ترەمپ بۆ رووداو: عەلی زەیدی کەسێکی بەهێزە و کاتێک بیەوێ کارێک بکات، دەتوانێت",
+    "summary": "رووداو دیجیتاڵ  سەرۆکی ئەمریکا لە کۆشکی سپی وەڵامی پرسیارێکی تۆڕی میدیایی رووداوی لەبارەی هەوڵەکانی حکومەتی عێراق بۆ چوونە نێو جورف سەخر لە لایەن هێزە ئەمنییەکانی وڵات دایەوە و رایگەیاند، عەلی زەیدی، سەرۆکوەزیرانی عێراق هاوڕێیەتی و کەسێکی بەهێزە؛ دەشڵێت: \"کاتێک عەلی زەیدی بیەوێت کارێک بکات، دەتوانێت بیکات\".  دوای گەڕانەوەی لە لووتکەکەی لە چین و کۆبوونەوەی لەگەڵ هەریەک لە ڤلادیمیر پووتین، سەرۆکی رووسیا و شی جینپینگ، سەرۆکی چین، دۆناڵد ترەمپ، سەرۆکی ویلایەتە یەکگرتووەکانی ئەمریکا لە کۆشکی سپی وەڵا",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "7081fe468fe3397a",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1876712",
+    "title": "گرژی لەنێوان هاندەرانی یانەکانی هەولێر و دهۆک دروستبوو",
+    "title_en": "گرژی لەنێوان هاندەرانی یانەکانی هەولێر و دهۆک دروستبوو",
+    "summary": " رووداو دیجیتاڵ  لەدوای تەواوبوونی یاریی نێوان هەولێر و دهۆک، گرژی دروستبوو و بەهۆیەوە چەند هاندەرێک بریندار بوون.  ئەمڕۆ هەینی 20ی تشرینی دووەمی 2026، سیڤەر بێستوون، پەیامنێری دێسکی وەرزشی رووداو رایگەیاند: \"دوای تەوابوونی یاری نێوان هەردوو یانەی هەولێر و دهۆک لە خولی ئەستێرەکانی عێراق، کە لە یاریگەی دهۆک بەڕێوەچوو، گرژی لە نێوان هاندەرانی هەردوو یانە دروستبوو و لە ئەنجامدا چەند هاندەرێک برینداربوون و رەوانەی نەخۆشخانە کران.\"  سەبارەت بە هۆکاری گرژییەکە، پەیامنێری رووداو ئاماژەی بەوەکرد: \"دوای ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "c0699619b1a3925b",
+    "url": "https://www.rudaw.net/sorani/categories/middleeast/1876713",
+    "title": "سوپای پاسداران: مین لە تەنگەی هورمز بە کەشتییەکی گواستنەوەی نەوتدا تەقییەوە و گڕی گرت",
+    "title_en": "سوپای پاسداران: مین لە تەنگەی هورمز بە کەشتییەکی گواستنەوەی نەوتدا تەقییەوە و گڕی گرت",
+    "summary": " رووداو دیجیتاڵ  سوپای پاسداران دەڵێ، کەشتییەکی گواستنەوەی نەوت لە کاتێکدای هەوڵی دەدا بە رێڕۆیەکی \"نایاسایی\"دا بە تەنگەی هورمزدا تێپەڕێ، لە نزیک بەندەری خەسەبی عومان بەر مینی دەریایی کەوت و ئاگری گرت.  ئەمڕۆ هەینی 20-11-2026، سوپای پاسداران لە راگەیێندراوێکدا ئاماژەی بە رووداوی ئاگرکەوتنەوە لە کەشتییەکی گواستنەوەی نەوت لە سنوورە ئاوییەکانی نزیک عومان کرد.  سوپای پاسداران لە راگەیێندراوەکەیدا هۆشداری دەدات و دەڵێ، جووڵەی هەر کەشتییەکی \"سەرپێچیکار\" لە تەنگەی هورمز \"لە چاوی ئێمە ون نابێت.\"  ئەم را",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "390dbe0129412042",
+    "url": "https://www.rudaw.net/sorani/categories/world/1876711",
+    "title": "وەزیری گەنجینەی ئەمریکا: یەکەمجارە لە مێژوودا ئێران ناتوانێ نەوت بفرۆشێ",
+    "title_en": "وەزیری گەنجینەی ئەمریکا: یەکەمجارە لە مێژوودا ئێران ناتوانێ نەوت بفرۆشێ",
+    "summary": "رووداو دیجیتاڵ  سکۆت بێسێنت، وەزیری گەنجینەی ئەمریکا دەڵێ، بەهۆی سزا ئابوورییەکانی واشنتنەوە، یەکەمجارە لە مێژووی بەرهەمهێنانی نەوتی ئێراندا، ئەو وڵاتە هیچ نەوتێکی لە نێو کەشتییەکانی دەریادا بۆ فرۆشتن نییە.  بێسێنت، رۆژی هەینی، 20ـی تشرینی دووەمی 2026 لە هەڤپەیڤینێکی تایبەتدا لەگەڵ میدیای ئەمریکی، تیشکی خستە سەر ئەنجامەکانی سزا ئابوورییەکانی ئەمریکا دژی ئێران و گوتی: \"لەو کاتەوەی ئێران دەستی بە بەرهەمهێنانی نەوت کردووە، یەکەم جارە لە مێژوودا هیچ نەوتێکی لەنێو دەریا نەماوە، واتە هیچ نەوتێکی خاوی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "8bee309aabf73b99",
+    "url": "https://www.rudaw.net/sorani/categories/world/1876710",
+    "title": "نێردەی ترەمپ و سەرۆکوەزیرانی قەتەر لە بەرلین لەبارەی ئێران کۆبوونەوە",
+    "title_en": "نێردەی ترەمپ و سەرۆکوەزیرانی قەتەر لە بەرلین لەبارەی ئێران کۆبوونەوە",
+    "summary": "رووداو دیجیتاڵ  ستیڤ ویتکۆف و جارێد کوشنەر، نێردەکانی سەرۆکی ئەمریکا بۆ کاروباری رۆژهەڵاتی نێوەڕاست و جەنگی ئۆکراینا، لە بەرلین لەگەڵ شێخ محەممەد بن عەبدولڕەحمان ئال سانی، سەرۆکوەزیرانی قەتەر کۆبوونەوە بۆ تاوتوێکردنی هەوڵەکانی نێوەندگیریی نێوان واشنتن و تاران.  کۆبوونەوەکە رۆژی پێنجشەممە 19-11-2026 بەڕێوەچوو و تاوەکو ئێستا کۆشکی سپی لەسەر ناوەڕۆکی کۆبوونەوەکە هیچ لێدوانێکی نەداوە.  قەتەر کە نێوەندگیرێکی سەرەکیی نێوان ئەمریکا و ئێرانە، چەندین هەفتەیە کاردەکات بۆ دەستپێکردنەوەی دانوستاندن و رێگریک",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "85b8d17f0f669a59",
+    "url": "https://www.rudaw.net/sorani/categories/diaspora/1876707",
+    "title": "چۆن خێزانێکی هەورامی خواردنگەی زاگرۆسیان کردە دیاردەیەکی جیهانی؟",
+    "title_en": "چۆن خێزانێکی هەورامی خواردنگەی زاگرۆسیان کردە دیاردەیەکی جیهانی؟",
+    "summary": " رووداو دیجیتاڵ  لە رۆژی کردنەوەی سێیەم لقی خواردنگەی (زاگرۆس) لە بەرلینی پایتەختی ئەڵمانیا، ریزێکی نزیکەی یەک کیلۆمەتر درێژ لە کڕیاران شەقامەکەی تەنی. بۆیە پۆلیس و پاسەوانان بۆ رێگریکردن لە قەرەباڵخی و ئاڵۆزی گەیشتنە شوێنەکە. ئەویش لەدوای ئەوەی ئەو خێزانە کوردە دیاسپۆرانشینەی خاوەنی خوارنگەکەیە ، بڕیاری دا نرخی هەر دۆنەرێک بکاتە تەنیا یەک سەنت.  چیرۆکی ئەو خێزانە کوردە، کە لە شکستێکی بازرگانییەوە بوونە یەکێک لە دیاردە نێودارەکانی نێو سۆشیاڵ میدیا لە پایتەختی ئەڵمانیا، لە بەرنامەی ئەم هەفتەیەی (",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "67a4e8cb5c1453de",
+    "url": "https://www.rudaw.net/sorani/categories/news/1876708",
+    "title": "لێکۆڵینەوەیەک: ئەو بەساڵاچووانەی باوەڕدارن کواڵیتیی ژیانیان باشترە",
+    "title_en": "لێکۆڵینەوەیەک: ئەو بەساڵاچووانەی باوەڕدارن کواڵیتیی ژیانیان باشترە",
+    "summary": "رووداو دیجیتاڵ  لێکۆڵینەوەیەکی نوێ کە لەسەر زیاتر لە 5,600 کەس ئەنجام دراوە، دەریدەخات، ئەو بەساڵاچووانەی ئاییندارن یان لایەنی رووحییان بەهێزە، خاوەنی کواڵیتییەکی باشتری ژیان و دۆخی دەروونین بەراورد بەوانەى باوەڕیان بە هێزێکی باڵا نییە.  توێژەرانی تەندروستیی گشتی لە زانکۆی پادوا لە ئیتاڵیا، داتای 21 لێکۆڵینەوەی جیهانییان کۆکردووەتەوە و شیکردنەوەیان بۆ کردووە کە لە ساڵانی 1992 بۆ 2024 بڵاوکراونەتەوە. لەو توێژینەوانەدا، کە رۆژی پێنجشەممە لە گۆڤاری زانستیی (پلۆس ئەیجینگ ئان هیڵز) بڵاوکراوەتەوە، 5,6",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "1a788d7b2bcfb122",
+    "url": "https://www.rudaw.net/sorani/categories/diaspora/1876706",
+    "title": "هاواری دوو یاریزانی کوردی کیکبۆکسێن لە ئەڵمانیا: کوردستان یەک وڵاتە",
+    "title_en": "هاواری دوو یاریزانی کوردی کیکبۆکسێن لە ئەڵمانیا: کوردستان یەک وڵاتە",
+    "summary": " رووداو دیجیتاڵ  لەنێو هۆڵێکی راهێنانی وەرزشیدا لە شاری ( لێشنیش )ی نزیک کوێلنی ئەڵمانیا، دوو مێرمنداڵی تەمەن 14 ساڵ بەرلەوەی دەستکێشەکانیان بۆ راهێنانێکی قورس بخەنە دەست، بە دوو شێوەزاری جیاوازی کوردی دروشمی یەکگرتوویی دەڵێنەوە. یەکێکیان بە کورمانجی هاواردەکات \"باکوور، باشوورە!\" ئەوی دیکەیان بە سۆرانی تەواوی دەکات \"رۆژئاوا، رۆژهەڵاتە!\" و پێکەوە دەڵێن: \"کوردستان یەک وڵاتە!\"  چیرۆکی سەرکەوتنی ئەو دوو وەرزشڤانە لاوە، ئەلند ئەحمەد و ئالان گوڵابی، لە بەرنامەی ئەم هەفتەیەی (دیاسپۆرا)دا لە رووداو گێڕد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "d226c43786122454",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876699",
+    "title": "ئەندامێکی مەکتەبی سیاسیی حیزبی شیوعی کوردستان: پێویستمان بە یەکگرتووییە نەوەک دابەشبوون",
+    "title_en": "ئەندامێکی مەکتەبی سیاسیی حیزبی شیوعی کوردستان: پێویستمان بە یەکگرتووییە نەوەک دابەشبوون",
+    "summary": " رووداو دیجیتاڵ  ئەندامێکی مەکتەبی سیاسیی حیزبی شیوعیی کوردستان دەڵێ، هیچ بژاردەیەک جگە لە گفتوگۆ بۆ چارەسەرکردنی کێشەکان نییە و ئاماژە بەوەش دەکات، پێویستە هەموو لایەنە براوەکانی هەڵبژاردن پێکەوە کۆببنەوە؛ هاوکات هەوڵی جیاکردنەوەی سلێمانی رەت دەکاتەوە و دەڵێ: \"پێویستمان بە یەکگرتووییە، نەوەک دابەشبوون\".  ئەمڕۆ هەینی 20-11-2026، سوبحی مەهدی، ئەندامی مەکتەبی سیاسیی حیزبی شیوعیی کوردستان لە کۆنفرانسێکی رۆژنامەڤانیدا وەڵامی پرسیاری رۆژنامەڤانانی دایەوە سەبارەت بە دۆخی سیاسیی هەرێمی کوردستان.  لە وە",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "45aaa13a404ca058",
+    "url": "https://www.rudaw.net/sorani/categories/kurdistan/1876698",
+    "title": "سالار عەزیز: جیاکردنەوەی هەرێمی سلێمانی خەیاڵە",
+    "title_en": "سالار عەزیز: جیاکردنەوەی هەرێمی سلێمانی خەیاڵە",
+    "summary": " رووداو دیجیتاڵ  یەکێک لە دامەزرێنەرانی بزووتنەوەی گۆڕان، هەوڵەکانی جیاکردنەوەی سلێمانی بە \"خەیاڵ\" ناودەبات و دەڵێ، ناکرێ سلێمانی جیابکرێتەوە کە مەڵبەندی کوردایەتیی هەر چوار پارچەی کوردستانە؛ لەبارەی پەیوەندییەکانی پارتی و یەکێتیش دەڵێ دواجار هەردوو حیزب رێکدەکەون.  ئەمڕۆ هەینی 20-11-2026، سالار عەزیز، یەکێک لە دامەزرێنەرانی بزووتنەوەی گۆڕان و ئەندامی پێشووی مەکتەبی سیاسیی یەکێتی لە لێدوانێکی رۆژنامەڤانیدا وەڵامی پرسیاری رۆژنامەڤانانی سەبارەت بە دەنگۆی جیاکردنەوەی سلێمانی و پەیوەندییەکانی نێوان ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4efdb26f832e9110",
+    "url": "https://www.rudaw.net/sorani/categories/world/1876684",
+    "title": "یونیسێف: ئەم ساڵ زیاتر لە 1100 منداڵ لە ئۆکراینا کوژراون یان بریندار بوون",
+    "title_en": "یونیسێف: ئەم ساڵ زیاتر لە 1100 منداڵ لە ئۆکراینا کوژراون یان بریندار بوون",
+    "summary": " رووداو دیجیتاڵ  نەتەوە یەکگرتووەکان دەڵێ، لە سەرەتای ئەم ساڵەوە رۆژانە تێکڕا سێ منداڵ لە ئۆکراینا کوژراون یان بریندار بوون کە بەرزترین ئاماری قوربانییانە لە زیاتر لە سێ ساڵی رابردوودا.  ئەمڕۆ هەینی 20-11-2026، ئاژانسی تایبەت بە هاوکاریکردنی منداڵانی رێکخراوی نەتەوە یەکگرتووەکان (یونیسێف) بڵاویکردەوە، لە مانگەکانی کانوونی دووەمی ئەم ساڵ تاوەکو تشرینی یەکەمی ئەم ساڵ، لانیکەم 114 منداڵ کوژراون و هەزار و 30 منداڵی دیکەش بریندار بوون؛ بەمەش کۆی گشتی کوژراو و برینداران دەگاتە سەروو هەزار و 144 منداڵ.",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "f43885310dce60d4",
+    "url": "https://www.rudaw.net/sorani/categories/localnews/1876499",
+    "title": "لە ئاسمانی هەولێر سێ درۆن تاقیکرانەوە",
+    "title_en": "لە ئاسمانی هەولێر سێ درۆن تاقیکرانەوە",
+    "summary": "رووداو دیجیتاڵ سەرچاوەیەکی باڵای ئەمنی لە شاری هەولێر رایگەیاند، ئەو دەنگەی لە نزیک فڕۆکەخانە و کۆنسووڵخانەی ئەمریکا لە هەولێر بیستراون هێرش نەبوون، بەڵکو لە چوارچێوەی تاقیکردنەوە و مەشقی هێزەکاندا بووە. رۆژی چوارشەممە، 18ـی تشرینی دووەمی 2026، سەرچاوەیەکی باڵای ئەمنی لە پارێزگای هەولێر بە تۆڕی میدیایی رووداوی راگەیاند: \"نزیک کاژێر 11:00ـی بەیانیی ئەمڕۆ، سێ درۆن لە ئاسمانی هەولێر، لە نزیک باڵەخانەی کۆنسوڵخانە و و دەوروبەری فڕۆکەخانەی نێودەوڵەتیی هەولێر تاقیکرانەوە\". سەرچاوە باڵا ئەمنییە روونیکرد",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "e2d6dcdb9d620860",
+    "url": "https://www.rudaw.net/sorani/categories/sport/1876700",
+    "title": "کلاسیکۆی کوردستان بە یەکسانبوون کۆتاییهات و زاخۆ بە خاڵیک رازی بوو",
+    "title_en": "کلاسیکۆی کوردستان بە یەکسانبوون کۆتاییهات و زاخۆ بە خاڵیک رازی بوو",
+    "summary": "  رووداو دیجیتاڵ  لە رکابەرییەکانی گەڕی 14ـی خولی ئەستێرەکانی عێراقدا، کلاسیکۆی کوردستان لەنێوان دهۆک و هەولێر بە یەکسانبوون بە گۆڵێک کۆتاییهات، هاوکات زاخۆ و شورتە بە گۆڵێک بۆ هەرلایەک یەکسانبوون.  لەسەر یاریگای دهۆک و لە کلاسیکۆی کوردستاندا، بە ئامادەبوونی 36،475، هاندەر، دهۆک میوانداریی هەولێری کرد. لە گێمی یەکەمدا دهۆک باڵادەست بوو؛ سەرەتا سیابەند عەگید بە لێدانێکی بەهێز بەختی خۆی تاقیکردەوە و تۆپەکەی بەسەر ستووندا تێپەڕی، دواتریش یونس حەموود دووجار نزیک بوو لە گۆڵکردن، تاوەکو لە خولەکەکانی ",
+    "source": "rudaw-sorani",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "594d4580efe29e03",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307323",
+    "title": "SÊRT - Şaredar Enes Cengîz û 4 endamên meclisê ji DEM Partiyê îstifa kir",
+    "title_en": "SÊRT - Şaredar Enes Cengîz û 4 endamên meclisê ji DEM Partiyê îstifa kir",
+    "summary": "Hewlêr (Rûdaw) - Şaredarê bajarokê Weysel Qereniyê navçeya Baykanê ya Sêrta Bakurê Kurdistanê Enes Cengîz û 4 endamên meclisa şaredariyê ragihand ku wan ji DEM Partiyê îstifa kiriye. Cengîz û endamên meclisê daxuyaniyeke nivîskî ya hevbeş belav kir û diyar kir ku biryar bêyî ku di bin ti zextekê de bimînin bi îradeya wan a azad hatiye dayîn û ew dê rêya xwe wekî serbixwe bidomînin. Li siyaseta herêmî ya Sêrtê veqetîneke balkêş çêbû. Şaredarê bajarokê Weysel Qereniyê Enes Cengîz û Endamên Meclisa",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4218bdd6cc6e62df",
+    "url": "https://www.rudaw.net/kurmanci/categories/culture/1307322",
+    "title": "Ednan Kerîm: Konsera Qamişloyê dîrokî bû",
+    "title_en": "Ednan Kerîm: Konsera Qamişloyê dîrokî bû",
+    "summary": "Qamişlo (Rûdaw) - Ednan Kerîm li bajarê Qamişloyê konserek li dar xist û piştî bidawîhatina konserê ji Rûdawê re got, “Îro rojeke dîrokî bû. Ji bo min konsereke gelekî xweş bû.” Hunermendê navdar ê Kurd Ednan Kerîm di çarçoveya Festîvala Fîlman a Rojavayê de îro li bajarê Qamişloyê yê Rojavayê Kurdistanê derket ser dikê, Ednan Kerîm piştî konserê di hevpeyvîneke li gel Nûçegihana Rûdawê Vîviyan Fetahê de ragihand: “Hestekî min ê gelekî xweş hebû. Qamişlo ji bo min gelekî taybet e. Ew temaşevanên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "693340dd404cb56f",
+    "url": "https://www.rudaw.net/kurmanci/categories/interview/1307303",
+    "title": "Îzet Şabender: Pirsgirêka 'Herêma Silêmaniyê' berpirsên Bexdayê kirine du beş",
+    "title_en": "Îzet Şabender: Pirsgirêka 'Herêma Silêmaniyê' berpirsên Bexdayê kirine du beş",
+    "summary": "Siyasetmedarê Îraqî Îzet Şabender got ku di nava Çarçoveya Hevahengiyê de rêkeftinek heye ji bo çekdanîna Hizbulahê û tekezî li ser wê yekê jî dike ku Çarçoveya Hevahengiyê hevahengiya li gel xwe bi xwe jî ji dest daye û ew bi xwe jî bi eşkereyî nizane îro kî hikûmraniya Îraqê dike. Siyasetmedarê Îraqî Îzet Şabender di bernameya Rûdawê de derbarê mijara Curf Sexrê diyar kir ku kontrolkirina wê herêmê ji aliyê komeke çekdar a li derveyî hikûmetê ve \"kareke neyasayî û nefermî ye\" lê ew bawer dike ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "6413fc614b3e8688",
+    "url": "https://www.rudaw.net/kurmanci/categories/iraq/1307321",
+    "title": "Trump: Elî Zeydî hevalê min e û kesekî bihêz e",
+    "title_en": "Trump: Elî Zeydî hevalê min e û kesekî bihêz e",
+    "summary": "Washington (Rûdaw) - Serokê Amerîkayê li Koşka Spî bersiva pirsa Tora Medyayî ya Rûdawê ya li ser hewlên hikûmeta Îraqê yên ji bo ketina hêzên ewlehiyê ya nava Curf Sexrê da û ragihand ku Serokwezîrê Îraqê Elî Zeydî hevalê wî ye û kesekî bihêz e. Trump her wiha got, \"Dema ku Elî Zeydî bixwaze tiştekî bike, dikare bike.\" Serokê Amerîkayê Donald Trump piştî vegera ji lûtkeya li Çînê û hevdîtina bi Serokê Rûsyayê Vladimir Putin û Serokê Çînê Xi Jinping re, li Koşka Spî pirsa Berpirsê Ofîsa Rûdawê y",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "daed1aebb39e562e",
+    "url": "https://www.rudaw.net/kurmanci/categories/and--huner/1307322",
+    "title": "Ednan Kerîm: Konsera Qamişloyê dîrokî bû",
+    "title_en": "Ednan Kerîm: Konsera Qamişloyê dîrokî bû",
+    "summary": "Qamişlo (Rûdaw) - Ednan Kerîm li bajarê Qamişloyê konserek li dar xist û piştî bidawîhatina konserê ji Rûdawê re got, “Îro rojeke dîrokî bû. Ji bo min konsereke gelekî xweş bû.” Hunermendê navdar ê Kurd Ednan Kerîm di çarçoveya Festîvala Fîlman a Rojavayê de îro li bajarê Qamişloyê yê Rojavayê Kurdistanê derket ser dikê, Ednan Kerîm piştî konserê di hevpeyvîneke li gel Nûçegihana Rûdawê Vîviyan Fetahê de ragihand: “Hestekî min ê gelekî xweş hebû. Qamişlo ji bo min gelekî taybet e. Ew temaşevanên",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "afe004d3228c84d8",
+    "url": "https://www.rudaw.net/kurmanci/categories/hevpeyvn/1307303",
+    "title": "Îzet Şabender: Pirsgirêka 'Herêma Silêmaniyê' berpirsên Bexdayê kirine du beş",
+    "title_en": "Îzet Şabender: Pirsgirêka 'Herêma Silêmaniyê' berpirsên Bexdayê kirine du beş",
+    "summary": "Siyasetmedarê Îraqî Îzet Şabender got ku di nava Çarçoveya Hevahengiyê de rêkeftinek heye ji bo çekdanîna Hizbulahê û tekezî li ser wê yekê jî dike ku Çarçoveya Hevahengiyê hevahengiya li gel xwe bi xwe jî ji dest daye û ew bi xwe jî bi eşkereyî nizane îro kî hikûmraniya Îraqê dike. Siyasetmedarê Îraqî Îzet Şabender di bernameya Rûdawê de derbarê mijara Curf Sexrê diyar kir ku kontrolkirina wê herêmê ji aliyê komeke çekdar a li derveyî hikûmetê ve \"kareke neyasayî û nefermî ye\" lê ew bawer dike ",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "467348e0cc1ea98a",
+    "url": "https://www.rudaw.net/kurmanci/categories/raq/1307321",
+    "title": "Trump: Elî Zeydî hevalê min e û kesekî bihêz e",
+    "title_en": "Trump: Elî Zeydî hevalê min e û kesekî bihêz e",
+    "summary": "Washington (Rûdaw) - Serokê Amerîkayê li Koşka Spî bersiva pirsa Tora Medyayî ya Rûdawê ya li ser hewlên hikûmeta Îraqê yên ji bo ketina hêzên ewlehiyê ya nava Curf Sexrê da û ragihand ku Serokwezîrê Îraqê Elî Zeydî hevalê wî ye û kesekî bihêz e. Trump her wiha got, \"Dema ku Elî Zeydî bixwaze tiştekî bike, dikare bike.\" Serokê Amerîkayê Donald Trump piştî vegera ji lûtkeya li Çînê û hevdîtina bi Serokê Rûsyayê Vladimir Putin û Serokê Çînê Xi Jinping re, li Koşka Spî pirsa Berpirsê Ofîsa Rûdawê y",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "a06f650b6568707e",
+    "url": "https://www.rudaw.net/kurmanci/categories/raq/1307320",
+    "title": "Hêzên Îraqê ketin Curf Sexrê: Elî Zeydî peyamek da",
+    "title_en": "Hêzên Îraqê ketin Curf Sexrê: Elî Zeydî peyamek da",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îraqê ji wan hêzên ewlehî û leşkerî yên ku ketine Curf Sexrê (Curf Nesir) xwest ku bi sebir tevbigerin û got, \"Biryara me ew e ku li derveyî desthilata dewletê çek nîne.\" Serokwezîrê Îraqê Elî Zeydî ji ber ketina hêzên ewlehiyê ya nava nahiyeya Curf Sexrê ya li parêzgeha Babilê peyamek da wan hêzan. Serokwezîrê Îraqê Elî Zeydî di peyama xwe de got: \"Ez di demekê de bi we re diaxivim ku hûn qonaxeke nû di dîroka Îraqê de dinivîsin. Du fermanên min ji bo we hene ku lay",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "08d284dc5a48de6d",
+    "url": "https://www.rudaw.net/kurmanci/categories/kurdistan/1307319",
+    "title": "Projeyeke bazirganiya navneteweyî: 70 şirketên Mêrdînê daxwaza beşdariyê kir",
+    "title_en": "Projeyeke bazirganiya navneteweyî: 70 şirketên Mêrdînê daxwaza beşdariyê kir",
+    "summary": "Hewlêr (Rûdaw) - Li Parêzgeha Mêrdînê ya Bakurê Kurdistanê ji bo projeya nû ya piştgiriya bipêşxistina pêşbaziyê ya navneteweyî, civîneke agahdarkirinê hat lidarxistin. Heta niha 70 şirket daxwaza beşdarbûna projeyê kiriye û di çarçoveya wê de serdanên li 9 welatan tên plankirin. Civîn bi serokatiya desteya birêvebir a Navenda Pîşesaziyê ya Mêrdînê (OSB) û bi beşdariya heyeta damezrîner a navendê hat li dar xistin. Di civînê de armanc û çarçoveya projeyê, piştgiriya dewletê û çalakiyên bazirgani",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
+    "id": "4cf036882402228e",
+    "url": "https://www.rudaw.net/kurmanci/categories/iraq/1307320",
+    "title": "Hêzên Îraqê ketin Curf Sexrê: Elî Zeydî peyamek da",
+    "title_en": "Hêzên Îraqê ketin Curf Sexrê: Elî Zeydî peyamek da",
+    "summary": "Hewlêr (Rûdaw) - Serokwezîrê Îraqê ji wan hêzên ewlehî û leşkerî yên ku ketine Curf Sexrê (Curf Nesir) xwest ku bi sebir tevbigerin û got, \"Biryara me ew e ku li derveyî desthilata dewletê çek nîne.\" Serokwezîrê Îraqê Elî Zeydî ji ber ketina hêzên ewlehiyê ya nava nahiyeya Curf Sexrê ya li parêzgeha Babilê peyamek da wan hêzan. Serokwezîrê Îraqê Elî Zeydî di peyama xwe de got: \"Ez di demekê de bi we re diaxivim ku hûn qonaxeke nû di dîroka Îraqê de dinivîsin. Du fermanên min ji bo we hene ku lay",
+    "source": "rudaw-kurmanci",
+    "category": "general",
+    "sentiment": "neutral",
+    "entities": [],
+    "breaking": 1,
+    "timestamp": "",
+    "location": {
+      "name": "Erbil",
+      "lat": 36.1912,
+      "lng": 44.0092
+    }
+  },
+  {
     "id": "47e4df5eeb84d527",
     "url": "https://www.rudaw.net/english/middleeast/iraq/110520264",
     "title": "Iraq affirms no ‘unauthorized’ bases, forces present in southern desert",
